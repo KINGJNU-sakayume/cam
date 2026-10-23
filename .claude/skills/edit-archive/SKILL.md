@@ -65,6 +65,8 @@ node scripts/archive.mjs remove <움짤id>                         # 움짤과 �
 
 ## 그룹·멤버·곡
 
+새 그룹을 통째로 등록하거나 자료(위키백과 등)로 멤버·곡을 한꺼번에 보강할 때는 `register-group` 스킬(`roster` 명령)을 써요. 하나씩 고칠 때는:
+
 ```bash
 node scripts/archive.mjs add-group 하이디어 --en HIDEAR --hue 150      # hue 0~360, 강조색
 node scripts/archive.mjs add-member 하이디어 채이 --alias CHAEI,채이 --color "#c2553f"

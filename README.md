@@ -48,27 +48,41 @@ python3 -m http.server 8000
 
 ## Claude에게 부탁해서 담기
 
-관리 화면을 직접 쓰지 않고 Claude Code(웹·앱·터미널)에서 이 저장소를 열고 말로 부탁해도 돼요.
+관리 화면을 직접 쓰지 않고 Claude Code(웹·앱·터미널)에서 이 저장소를 열고 말로 부탁해도 돼요. **유튜브 링크만 붙여 넣어도 돼요.**
 
-> 르니에 10월 30일 엠카 직캠이야. 유나, 도희, 마지막은 단체. 곡은 Paper Moon. (링크 3개)
+> (링크 5개)
+> 이것도 담아 줘. 마지막 건 단체 직캠이야. (링크 2개)
 > 세린 10.15 팬캠 지워졌대. 삭제됨으로 표시해 줘.
 > 이 움짤 넣어 줘. 유나 10.23 Paper Moon 0:42부터 엔딩 손하트. (파일 첨부)
 
 Claude는 다음 순서로 일해요.
 
-1. `CLAUDE.md`를 읽고, 부탁 종류에 맞는 스킬을 골라요:
+1. `CLAUDE.md`를 읽고, 부탁 종류에 맞는 스킬을 골라요.
    - `.claude/skills/add-videos`: 영상 담기
+   - `.claude/skills/register-group`: 그룹 자동 등록
    - `.claude/skills/add-clips`: 움짤 담기
-   - `.claude/skills/edit-archive`: 고치기·지우기·그룹/멤버/곡·샘플 정리
-2. `data/videos.json`을 손으로 고치지 않고 `node scripts/archive.mjs`로 바꿔요. 이 도구는 관리 화면과 같은 해석·검증 규칙을 쓰고, 검증에 실패하면 아무것도 쓰지 않아요.
-3. 먼저 `--dry-run`으로 계획을 보고, 멤버·곡을 정할 수 없거나 새 멤버·그룹이 필요하거나 무언가를 지워야 하면 사용자에게 물어요.
-4. 검증 → 커밋 → PR → `validate` 체크 통과 → merge하면 Pages가 새로 배포해요.
+   - `.claude/skills/edit-archive`: 고치기·지우기·샘플 정리
+2. 링크마다 유튜브 제목을 불러와 그룹·날짜·행사(사녹이면 사전녹화)·멤버·곡·태그를 읽고, 날짜·행사별로 공연을 나눠 담아요.
+3. 등록 안 된 그룹이면 위키백과 등에서 멤버(영문 표기·활동 종료 포함)와 곡을 찾아 먼저 등록해요. 제목에 나온 새 곡도 곡 목록에 더해요.
+4. `data/videos.json`은 손으로 고치지 않고 `node scripts/archive.mjs`로 바꿔요. 관리 화면과 같은 해석·검증 규칙을 쓰고, 검증에 실패하면 아무것도 쓰지 않아요.
+5. 제목에도 말에도 없어서 정할 수 없는 것, 자료끼리 어긋나는 것, 지우는 일은 사용자에게 물어요.
+6. 검증 → 커밋 → PR → `validate` 체크 통과 → merge하면 Pages가 새로 배포해요. 무엇을 담고 무엇을 등록했는지(참고 자료 포함) 알려 줘요.
 
 직접 써도 돼요: `node scripts/archive.mjs help` (또는 `npm run archive -- help`).
 
-- 영상 제목·채널은 유튜브 oEmbed로 불러와 멤버·곡을 자동으로 읽어요.
-- 클라우드 환경의 네트워크 설정에서 `www.youtube.com`이 막혀 있으면 제목을 못 불러와요. 이때 Claude는 사용자가 말한 멤버·곡으로 채우거나 사용자에게 물어요.
-- 자동 해석까지 쓰려면 환경 설정의 Network access에 `www.youtube.com`을 허용하세요.
+### 클라우드 환경에서 허용할 도메인
+
+Claude Code 클라우드 환경의 Network access → Allowed domains에 넣으세요(세션 제목 옆 환경 메뉴 → Edit, [안내](https://code.claude.com/docs/en/cloud-environments#network-access)).
+
+| 도메인 | 쓰는 곳 |
+|---|---|
+| `www.youtube.com` | **필수.** 제목·채널 불러오기(oEmbed) → 자동 해석 |
+| `ko.wikipedia.org`, `en.wikipedia.org` | **필수.** 그룹 자동 등록(멤버·영문 표기·곡·발매일) |
+| `i.ytimg.com` | 유튜브 썸네일 확인·자르기 |
+| `namu.wiki`, `kprofiles.com`, `www.wikidata.org` | 그룹 등록 보조 자료 |
+| `cdn.jsdelivr.net` | 화면 확인 때 본문 글꼴(없어도 동작은 같음) |
+
+막혀 있으면 Claude가 어느 도메인 때문인지 알려 주고, 그동안은 멤버·곡을 물어봐요.
 
 ## 왜 `file://`로 열면 안 되나요
 

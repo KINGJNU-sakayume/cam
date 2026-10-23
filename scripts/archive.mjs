@@ -17,7 +17,7 @@ import { isRealDate, parseTime, fmtTime, norm, dateForms } from '../js/util.js';
 const HERE = dirname(fileURLToPath(import.meta.url));
 const argv = process.argv.slice(2);
 // --키 값 / --키=값 / --불리언
-const BOOL = new Set(['dry-run', 'no-fetch', 'yes', 'undo', 'cascade', 'json', 'with-empty-event', 'create-songs', 'keep-groups', 'skip-invalid', 'inactive', 'help']);
+const BOOL = new Set(['reorder', 'dry-run', 'no-fetch', 'yes', 'undo', 'cascade', 'json', 'with-empty-event', 'create-songs', 'keep-groups', 'skip-invalid', 'inactive', 'help']);
 const flags = {};
 const pos = [];
 for (let i = 0; i < argv.length; i++) {
@@ -158,7 +158,7 @@ const COMMANDS = {
   events [그룹]                  공연 목록 (id, 날짜, 행사, setlist, 영상 수)
 
 담기
-  add <요청.json | ->            공연 단위로 영상 여러 개 담기 (형식: add --help)
+  add <요청.json | ->            영상 담기. 링크만 줘도 제목으로 그룹·날짜·행사를 읽어 공연별로 나눠요 (형식: add --help)
   add-clip <파일> [옵션]          움짤 파일 담기 (형식: add-clip --help)
 
 고치기
@@ -169,6 +169,7 @@ const COMMANDS = {
   remove <id> [--cascade] [--with-empty-event]   영상·공연·움짤 지우기
 
 그룹·멤버·곡
+  roster <그룹정보.json> [--reorder]   그룹·멤버·곡을 한 번에 등록·보강 (형식: roster --help)
   add-group <이름> [--en ENG] [--hue 0-360]
   add-member <그룹> <이름> [--alias A,B] [--color #rrggbb] [--inactive]
   add-song <그룹> <곡명> [--alias A,B] [--release YYYY-MM-DD]
@@ -232,20 +233,25 @@ const COMMANDS = {
     for (const e of list) out(`${e.id.padEnd(6)} ${evLabel(e)} · ${groupById(e.groupId)?.name} · setlist ${(e.setlist || []).map(songTitle).join(' → ') || '-'} · 영상 ${data.videos.filter((v) => v.eventId === e.id).length}${e.note ? ` · ${e.note}` : ''}`);
   },
 
-  // ---------- 공연 단위 담기 ----------
+  // ---------- 담기 (공연 하나 또는 제목으로 여러 공연에 나눠서) ----------
   async add() {
     if (flags.help) {
       out(`add <요청.json | - | JSON 문자열> [--dry-run] [--no-fetch] [--create-songs] [--skip-invalid]
 
+공연 정보(group·date·show·label)는 모두 선택이에요. 빠진 값은 링크마다 제목에서 읽어요
+(그룹명·영문명, 6·8자리 날짜, 뮤직뱅크·인기가요·쇼! 음악중심·엠카운트다운·더 쇼·쇼챔피언 또는 "@행사명", 사녹 → label 사전녹화).
+그래서 링크만 주면 날짜·행사별로 공연을 알아서 나눠 담아요. 영상마다 같은 키로 덮어쓸 수도 있어요.
+
 {
-  "group": "르니에",                 // id·이름·영문명
-  "date": "2026-10-23",              // 261023 등도 가능
-  "show": "뮤직뱅크",
-  "label": "",                       // 같은 날 행사가 둘이면 "사전녹화" 등
-  "note": "레드 투피스",              // 선택. 주면 덮어씀
-  "setlist": ["Paper Moon", "Static"], // 선택. 무대 순서. 주면 덮어씀
+  "group": "르니에",                 // 선택. id·이름·영문명
+  "date": "2026-10-23",              // 선택. 261023 등도 가능
+  "show": "뮤직뱅크",                // 선택
+  "label": "",                       // 선택. 같은 날 행사가 둘이면 "사전녹화" 등
+  "note": "레드 투피스",              // 선택. 공연이 하나로 정해질 때만
+  "setlist": ["Paper Moon", "Static"], // 선택. 공연이 하나로 정해질 때만. 주면 덮어씀
   "videos": [
     { "url": "https://youtu.be/…?t=30",
+      "group": "…", "date": "…", "show": "…", "label": "…",   // 선택. 이 영상만 다른 공연일 때
       "title": "…", "channel": "…",          // 선택. 없으면 oEmbed → 실패하면 비움
       "type": "fancam" | "full",              // 선택. 없으면 제목에서
       "members": ["유나"] | ["단체"] | ["도희","세린"],  // 직캠은 필수(제목에서 못 찾으면 오류)
@@ -255,38 +261,21 @@ const COMMANDS = {
       "source": "official" | "fan" | null,    // 선택. 방송사 채널이면 official
       "tags": ["4K", "세로"], "pin": false, "thumbPos": "50% 30%" }
   ]
-}`);
+}
+
+--create-songs: 곡이 그룹에 없으면 만든다(요청의 곡명, 또는 제목의 따옴표 안 곡명)`);
       return;
     }
     const req = readRequest(pos[0]);
-    const g = resolveGroup(req.group);
-    const date = normDate(req.date);
-    if (!date) die('date가 필요해요.');
-    const show = String(req.show || '').trim();
-    if (!show) die('show(행사명)가 필요해요.');
-    const label = String(req.label || '').trim();
+    if (Array.isArray(req)) die('요청은 { "videos": [...] } 형태의 객체여야 해요.');
     const create = !!flags['create-songs'] || !!req.createSongs;
-    const setlist = Array.isArray(req.setlist) ? req.setlist.map((s) => resolveSong(g, s, { create })).filter(Boolean) : null;
-
-    let ev = data.events.find((e) => e.groupId === g.id && e.date === date && e.show.trim() === show && (e.label || '').trim() === label);
-    const sameDay = data.events.filter((e) => e.groupId === g.id && e.date === date && e !== ev);
-    out(ev ? `공연: 기존 ${ev.id} ${evLabel(ev)} 에 추가` : `공연: 새로 만듦 ${date} ${show}${label ? ` ${label}` : ''}`);
-    if (!ev && sameDay.length) warn(`같은 날 다른 공연이 있어요: ${sameDay.map((e) => `${e.id} ${evLabel(e)}`).join(', ')}. 같은 공연이면 show·label을 맞추세요.`);
-    if (!ev) {
-      ev = { id: nextId('e', data.events.map((e) => e.id)), groupId: g.id, date, show, label, setlist: [], note: '' };
-      data.events.push(ev);
-    }
-    if (setlist) {
-      if (ev.setlist?.length && ev.setlist.join() !== setlist.join()) warn(`setlist를 ${ev.setlist.map(songTitle).join(' → ')} 에서 ${setlist.map(songTitle).join(' → ')} 로 바꿔요.`);
-      ev.setlist = setlist;
-    }
-    if (req.note != null && String(req.note).trim()) ev.note = String(req.note).trim();
-    const effSetlist = ev.setlist || [];
-
     const errors = [];
-    const added = [];
+    const items = [];
     const seen = new Set();
-    for (const [i, r] of (req.videos || []).entries()) {
+
+    // 1) 링크마다 제목을 불러오고 그룹·공연을 정한다
+    for (const [i, r0] of (req.videos || []).entries()) {
+      const r = typeof r0 === 'string' ? { url: r0 } : r0;
       const tag = `videos[${i}]`;
       const yt = extractYt(r.url || r.ytId);
       if (!yt) { errors.push(`${tag}: 유튜브 주소를 읽지 못했어요 (${r.url})`); continue; }
@@ -302,65 +291,89 @@ const COMMANDS = {
         else if (o.status === 401 || o.status === 404) warn(`${tag}: oEmbed가 ${o.status}를 돌려줬어요. 삭제·비공개 영상일 수 있어요.`);
         else warn(`${tag}: 제목·채널을 불러오지 못했어요(${o.error || o.status}). 제목이 없으면 자동 해석도 못 해요.`);
       }
-      const p = parseTitle(title, g, { channel });
-      let type = r.type || p.type || null;
-      if (!r.type && p.type) auto.push(`종류=${p.type}`);
-      // 멤버
-      let memberIds = null;
-      if (Array.isArray(r.members)) memberIds = r.members.map((m) => resolveMember(g, m));
-      else if (p.groupCam) { memberIds = [GROUP_KEY]; auto.push('멤버=단체'); }
-      else if (p.memberIds.length) { memberIds = p.memberIds; auto.push(`멤버=${p.memberIds.map(memberName).join('·')}`); }
-      if (!type) type = memberIds && memberIds.length ? 'fancam' : null;
-      if (!type) { errors.push(`${tag} ${yt.id}: 풀캠인지 직캠인지 정할 수 없어요. "type"을 주세요. (제목: ${title || '없음'})`); continue; }
-      if (type === 'fancam' && (!memberIds || !memberIds.length)) { errors.push(`${tag} ${yt.id}: 직캠인데 멤버를 정할 수 없어요. "members"(멤버 이름 또는 "단체")를 주세요. (제목: ${title || '없음'})`); continue; }
-      if (type === 'full') memberIds = [];
-      if (memberIds.includes(GROUP_KEY)) memberIds = [];
-      memberIds.sort((a, b) => (g.members.find((m) => m.id === a)?.order ?? 0) - (g.members.find((m) => m.id === b)?.order ?? 0));
-      // 곡
-      let songs;
-      if (Array.isArray(r.songs)) songs = r.songs.map((s) => ({ songId: resolveSong(g, s.song, { create }), t: s.t == null ? 0 : (typeof s.t === 'number' ? s.t : parseTime(s.t)) })).filter((s) => s.songId);
+      const where = `${tag} ${yt.id}`;
+      const ctx = `(제목: ${title || '없음'})`;
+      // 그룹: 영상 → 요청 → 제목
+      let g = null;
+      const gq = r.group ?? req.group;
+      if (gq) g = resolveGroup(gq);
       else {
-        let sid;
-        if ('song' in r) sid = resolveSong(g, r.song, { create });
-        else if (p.songId) { sid = p.songId; auto.push(`곡=${songTitle(sid)}`); }
-        else if (effSetlist.length === 1) { sid = effSetlist[0]; auto.push(`곡=${songTitle(sid)}(setlist)`); }
-        else if (effSetlist.length > 1) { errors.push(`${tag} ${yt.id}: 곡을 정할 수 없어요(setlist ${effSetlist.map(songTitle).join(', ')}). "song"을 주세요. 곡 구분 없는 영상이면 "song": "전체 공연". (제목: ${title || '없음'})`); continue; }
-        else { errors.push(`${tag} ${yt.id}: 곡을 정할 수 없어요. "song" 또는 공연 "setlist"를 주세요. (제목: ${title || '없음'})`); continue; }
-        const t = r.t != null ? (typeof r.t === 'number' ? r.t : parseTime(r.t)) : (yt.t ?? 0);
-        songs = sid ? [{ songId: sid, t: Number.isFinite(t) ? t : 0 }] : [];
+        const hits = findGroupsIn(title);
+        if (hits.length === 1) { g = hits[0]; auto.push(`그룹=${g.name}`); }
+        else if (hits.length > 1) { errors.push(`${where}: 제목에 그룹이 여럿이에요(${hits.map((x) => x.name).join(', ')}). "group"을 주세요. ${ctx}`); continue; }
+        else if (data.groups.length === 1 && !title) g = data.groups[0];
+        else { errors.push(`${where}: 그룹을 정할 수 없어요. 등록된 그룹(${data.groups.map((x) => x.name).join(', ') || '없음'})이 제목에 없어요. 새 그룹이면 register-group 스킬로 먼저 등록하고, 아니면 "group"을 주세요. ${ctx}`); continue; }
       }
-      if (effSetlist.length) for (const s of songs) if (!effSetlist.includes(s.songId)) warn(`${tag}: ${songTitle(s.songId)}는 이 공연 setlist에 없어요. 맞는지 확인하세요.`);
-      const source = 'source' in r ? (r.source === 'official' || r.source === 'fan' ? r.source : null) : (p.source || null);
-      if (!('source' in r) && p.source) auto.push('출처=공식');
-      const tags = Array.isArray(r.tags) ? r.tags : p.tags;
-      if (!Array.isArray(r.tags) && p.tags.length) auto.push(`태그=${p.tags.join(',')}`);
-      if (p.date && p.date !== date) warn(`${tag} ${yt.id}: 제목의 날짜 ${p.date}가 공연 날짜 ${date}와 달라요.`);
-      const v = {
-        id: nextId('v', data.videos.map((x) => x.id)), ytId: yt.id, eventId: ev.id, songs, type, memberIds, source, tags,
-        title, channel, pin: !!r.pin, gone: false,
-      };
-      if (r.thumbPos) v.thumbPos = String(r.thumbPos);
-      if (v.pin) unpinOthers(v);
-      data.videos.push(v);
-      added.push(v);
-      out(`  + ${vLine(v)}${auto.length ? `\n      자동: ${auto.join(', ')}` : ''}`);
+      const p = parseTitle(title, g, { channel });
+      // 공연: 영상 → 요청 → 제목
+      const date = (r.date ?? req.date) ? normDate(r.date ?? req.date) : p.date;
+      const show = String((r.show ?? req.show) || p.show || '').trim();
+      const labelSrc = r.label ?? req.label;
+      const label = String(labelSrc != null ? labelSrc : (p.label || '')).trim();
+      if (!(r.date ?? req.date) && p.date) auto.push(`날짜=${p.date}`);
+      if (!(r.show ?? req.show) && p.show) auto.push(`행사=${p.show}`);
+      if (labelSrc == null && p.label) auto.push(`label=${p.label}`);
+      if (!date) { errors.push(`${where}: 날짜를 정할 수 없어요. "date"를 주세요. ${ctx}`); continue; }
+      if (!show) { errors.push(`${where}: 행사를 정할 수 없어요. "show"(예: 뮤직뱅크)를 주세요. ${ctx}`); continue; }
+      if ((r.date ?? req.date) && p.date && p.date !== date) warn(`${where}: 제목의 날짜 ${p.date}가 공연 날짜 ${date}와 달라요.`);
+      items.push({ tag: where, r, yt, title, channel, auto, g, p, date, show, label, ctx });
     }
-    if (!ev.setlist?.length) {
-      const order = [];
-      for (const v of data.videos.filter((x) => x.eventId === ev.id)) for (const s of v.songs) if (!order.includes(s.songId)) order.push(s.songId);
-      if (order.length) ev.setlist = order;
+
+    // 2) 공연별로 묶는다(기존 공연이면 거기에, 없으면 새로)
+    const buckets = new Map();
+    for (const it of items) {
+      const key = [it.g.id, it.date, it.show, it.label].join('|');
+      if (!buckets.has(key)) buckets.set(key, { g: it.g, date: it.date, show: it.show, label: it.label, items: [] });
+      buckets.get(key).items.push(it);
     }
+    const single = buckets.size === 1;
+    if (!single && (req.setlist || req.note)) warn('공연이 여러 개로 나뉘어서 요청의 setlist·note는 쓰지 않았어요. 공연별로 set 명령으로 넣으세요.');
+    const added = [];
+    const touched = [];
+    for (const b of [...buckets.values()].sort((a, c) => a.date.localeCompare(c.date))) {
+      const { g } = b;
+      let ev = data.events.find((e) => e.groupId === g.id && e.date === b.date && e.show.trim() === b.show && (e.label || '').trim() === b.label);
+      const sameDay = data.events.filter((e) => e.groupId === g.id && e.date === b.date && e !== ev);
+      out(`\n공연: ${ev ? `기존 ${ev.id} ${evLabel(ev)} 에 추가` : `새로 만듦 ${b.date} ${b.show}${b.label ? ` ${b.label}` : ''}`} · ${g.name}`);
+      if (!ev && sameDay.length) warn(`같은 날 다른 공연이 있어요: ${sameDay.map((e) => `${e.id} ${evLabel(e)}`).join(', ')}. 같은 공연이면 show·label을 맞추세요.`);
+      const isNew = !ev;
+      if (!ev) {
+        ev = { id: nextId('e', data.events.map((e) => e.id)), groupId: g.id, date: b.date, show: b.show, label: b.label, setlist: [], note: '' };
+        data.events.push(ev);
+      }
+      if (single && Array.isArray(req.setlist)) {
+        const sl = req.setlist.map((s) => resolveSong(g, s, { create })).filter(Boolean);
+        if (ev.setlist?.length && ev.setlist.join() !== sl.join()) warn(`setlist를 ${ev.setlist.map(songTitle).join(' → ')} 에서 ${sl.map(songTitle).join(' → ')} 로 바꿔요.`);
+        ev.setlist = sl;
+      }
+      if (single && req.note != null && String(req.note).trim()) ev.note = String(req.note).trim();
+      const effSetlist = ev.setlist || [];
+      const before = added.length;
+      for (const it of b.items) {
+        const v = buildVideo(it, ev, effSetlist, create, errors);
+        if (!v) continue;
+        if (v.pin) unpinOthers(v);
+        data.videos.push(v);
+        added.push(v);
+        out(`  + ${vLine(v)}${it.auto.length ? `\n      자동: ${it.auto.join(', ')}` : ''}`);
+      }
+      if (!ev.setlist?.length) {
+        const order = [];
+        for (const v of data.videos.filter((x) => x.eventId === ev.id)) for (const s of v.songs) if (!order.includes(s.songId)) order.push(s.songId);
+        if (order.length) ev.setlist = order;
+      }
+      if (added.length === before && isNew) data.events = data.events.filter((e) => e !== ev);
+      else touched.push(ev);
+    }
+
     if (errors.length) {
       console.error(`\n✗ 정할 수 없는 영상 ${errors.length}개:`);
       for (const e of errors) console.error(`  - ${e}`);
       if (!flags['skip-invalid']) { console.error('\n아무것도 쓰지 않았어요. 요청을 고치거나 --skip-invalid로 나머지만 담으세요.'); process.exit(2); }
     }
-    if (!added.length) {
-      out('\n담을 새 영상이 없어요.');
-      if (!data.videos.some((v) => v.eventId === ev.id)) data.events = data.events.filter((e) => e !== ev);
-      return;
-    }
-    save(`${evLabel(ev)} (${ev.id})에 영상 ${added.length}개 · 보기: index.html#g=${g.id}&e=${ev.id}`);
+    if (!added.length) { out('\n담을 새 영상이 없어요.'); return; }
+    const summary = touched.map((e) => `${evLabel(e)} (${e.id}) ${added.filter((v) => v.eventId === e.id).length}개 · 보기: index.html#g=${e.groupId}&e=${e.id}`).join('\n  ');
+    save(`영상 ${added.length}개\n  ${summary}`);
   },
 
   // ---------- 움짤 ----------
@@ -596,6 +609,93 @@ const COMMANDS = {
     die(`멤버·곡 ${id}을 찾지 못했어요.`);
   },
 
+  // ---------- 그룹 정보 한 번에 등록·보강 ----------
+  roster() {
+    if (flags.help || !pos[0]) {
+      out(`roster <그룹정보.json | - | JSON 문자열> [--reorder] [--dry-run]
+
+그룹·멤버·곡을 한 번에 등록하거나(새 그룹) 보강해요(기존 그룹: 이름·별칭으로 맞춰 별칭 합치기, 없는 멤버·곡 추가).
+{
+  "group": { "name": "르니에", "en": "LUNIER", "hue": 200 },      // hue 선택(없으면 기존 그룹과 겹치지 않게)
+  "members": [                                                    // 데뷔 공식 순서(라인업 열 순서)
+    { "name": "유나", "aliases": ["YUNA", "Yuna"], "active": true, "color": "#c2553f" },   // color 선택
+    { "name": "하린", "aliases": ["HARIN"], "active": false }     // 탈퇴·활동 종료
+  ],
+  "songs": [                                                      // 타이틀곡·활동곡 위주, 발매 순
+    { "title": "Paper Moon", "aliases": ["페이퍼문", "PAPER MOON"], "release": "2026-10-09" }
+  ],
+  "sources": ["https://ko.wikipedia.org/wiki/…"]                 // 확인한 자료(출력에만 씀)
+}
+--reorder: 기존 그룹의 멤버·곡 순서를 이 목록 순서로 다시 매김(목록에 없는 것은 뒤로)`);
+      return;
+    }
+    const req = readRequest(pos[0]);
+    const gi = req.group || {};
+    if (!gi.name) die('group.name이 필요해요.');
+    let g = data.groups.find((x) => [x.name, x.en].some((v) => v && (lc(v) === lc(gi.name) || (gi.en && lc(v) === lc(gi.en)))));
+    const isNew = !g;
+    if (!g) {
+      const used = data.groups.map((x) => x.hue);
+      let hue = gi.hue != null ? Number(gi.hue) : null;
+      if (hue == null) { hue = (data.groups.length * 67 + 200) % 360; for (let k = 0; k < 10 && used.some((u) => Math.abs(((u - hue + 540) % 360) - 180) > 150); k++) hue = (hue + 37) % 360; }
+      g = { id: nextId('g', data.groups.map((x) => x.id)), name: gi.name.trim(), en: (gi.en || '').trim(), hue, members: [], songs: [] };
+      data.groups.push(g);
+      out(`+ 그룹 ${g.name}${g.en ? ` (${g.en})` : ''} ${g.id} · hue ${g.hue}`);
+    } else {
+      out(`= 기존 그룹 ${g.name} (${g.id})에 보강`);
+      if (gi.en && !g.en) { g.en = gi.en.trim(); out(`  영문명 ${g.en}`); }
+      if (gi.hue != null && Number(gi.hue) !== g.hue) { out(`  hue ${g.hue} → ${gi.hue}`); g.hue = Number(gi.hue); }
+    }
+    const merge = (list, extra) => [...new Set([...(list || []), ...(extra || []).map((a) => String(a).trim()).filter(Boolean)])];
+    const match = (arr, names) => arr.find((x) => [x.id, x.name, x.title, ...(x.aliases || [])].some((v) => v && names.some((n) => n && lc(v) === lc(n))));
+    const memberOrder = [];
+    for (const m of req.members || []) {
+      if (!m.name) die('members[].name이 필요해요.');
+      let cur = match(g.members, [m.name, ...(m.aliases || [])]);
+      if (cur) {
+        const before = JSON.stringify(cur);
+        cur.aliases = merge(cur.aliases, [...(m.aliases || []), ...(lc(m.name) !== lc(cur.name) ? [m.name] : [])]).filter((a) => lc(a) !== lc(cur.name));
+        if (m.active != null) cur.active = !!m.active;
+        if (m.color) cur.color = m.color;
+        if (JSON.stringify(cur) !== before) out(`  ~ 멤버 ${cur.name} (${cur.id}) 별칭 ${cur.aliases.join('/') || '-'}${cur.active === false ? ' · 활동 종료' : ''}`);
+      } else {
+        const n = g.members.length;
+        cur = { id: nextId(`${g.id}m`, data.groups.flatMap((x) => x.members.map((y) => y.id))), name: m.name.trim(), aliases: merge([], m.aliases).filter((a) => lc(a) !== lc(m.name)), order: n + 1, active: m.active !== false, color: m.color || DEFAULT_COLORS[n % DEFAULT_COLORS.length] };
+        g.members.push(cur);
+        out(`  + 멤버 ${cur.name} (${cur.id}) ${cur.aliases.join('/')}${cur.active ? '' : ' · 활동 종료'} · ${cur.color}`);
+      }
+      memberOrder.push(cur);
+    }
+    const songOrder = [];
+    for (const s of req.songs || []) {
+      if (!s.title) die('songs[].title이 필요해요.');
+      let cur = match(g.songs, [s.title, ...(s.aliases || [])]);
+      const rel = s.release ? normDate(s.release) : '';
+      if (cur) {
+        const before = JSON.stringify(cur);
+        cur.aliases = merge(cur.aliases, [...(s.aliases || []), ...(lc(s.title) !== lc(cur.title) ? [s.title] : [])]).filter((a) => lc(a) !== lc(cur.title));
+        if (rel && cur.release !== rel) { if (cur.release) warn(`곡 ${cur.title} 발매일 ${cur.release} → ${rel}`); cur.release = rel; }
+        if (JSON.stringify(cur) !== before) out(`  ~ 곡 ${cur.title} (${cur.id}) 별칭 ${cur.aliases.join('/') || '-'} ${cur.release || ''}`);
+      } else {
+        cur = { id: nextId(`${g.id}s`, data.groups.flatMap((x) => x.songs.map((y) => y.id))), title: s.title.trim(), aliases: merge([], s.aliases).filter((a) => lc(a) !== lc(s.title)), order: g.songs.length + 1, release: rel };
+        g.songs.push(cur);
+        out(`  + 곡 ${cur.title} (${cur.id}) ${cur.aliases.join('/')} ${cur.release}`);
+      }
+      songOrder.push(cur);
+    }
+    if (isNew || flags.reorder) {
+      for (const [list, key] of [[memberOrder, 'members'], [songOrder, 'songs']]) {
+        if (!list.length) continue;
+        const rest = (key === 'members' ? membersOf : songsOf)(g).filter((x) => !list.includes(x));
+        [...list, ...rest].forEach((x, i) => { x.order = i + 1; });
+      }
+    }
+    if (Array.isArray(req.sources) && req.sources.length) out(`  자료: ${req.sources.join(' · ')}`);
+    const dupAlias = new Map();
+    for (const m of g.members) for (const a of [m.name, ...(m.aliases || [])]) { const k = lc(a); if (dupAlias.has(k) && dupAlias.get(k) !== m.id) warn(`별칭 "${a}"를 ${dupAlias.get(k)}와 ${m.id}가 같이 써요. 제목 해석이 헷갈릴 수 있어요.`); dupAlias.set(k, m.id); }
+    save(`${g.name} (${g.id}) · 멤버 ${g.members.length} · 곡 ${g.songs.length} · 보기: index.html#g=${g.id}`);
+  },
+
   // ---------- 정리 ----------
   'clear-samples'() {
     const vids = new Set(data.videos.filter((v) => isSampleYt(v.ytId)).map((v) => v.id));
@@ -633,6 +733,58 @@ function makePoster(src, dst) {
     if (r.status === 0 && existsSync(dst) && statSync(dst).size > 0) return true;
   }
   return false;
+}
+
+// 제목에 이름·영문명이 들어 있는 그룹들
+function findGroupsIn(title) {
+  const t = lc(title);
+  if (!t) return [];
+  return data.groups.filter((g) => [g.name, g.en].filter(Boolean).some((w) => {
+    const x = lc(w);
+    return /^[a-z0-9 ]+$/.test(x) ? new RegExp(`(^|[^a-z0-9])${x.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}($|[^a-z0-9])`).test(t) : t.includes(x);
+  }));
+}
+
+// 한 영상의 종류·멤버·곡·출처·태그를 정한다. 못 정하면 errors에 넣고 null
+function buildVideo(it, ev, effSetlist, create, errors) {
+  const { r, yt, title, channel, auto, g, p, tag: where, ctx } = it;
+  let type = r.type || p.type || null;
+  if (!r.type && p.type) auto.push(`종류=${p.type}`);
+  let memberIds = null;
+  if (Array.isArray(r.members)) memberIds = r.members.map((m) => resolveMember(g, m));
+  else if (p.groupCam) { memberIds = [GROUP_KEY]; auto.push('멤버=단체'); }
+  else if (p.memberIds.length) { memberIds = p.memberIds; auto.push(`멤버=${p.memberIds.map(memberName).join('·')}`); }
+  if (!type) type = memberIds && memberIds.length ? 'fancam' : null;
+  if (!type) { errors.push(`${where}: 풀캠인지 직캠인지 정할 수 없어요. "type"을 주세요. ${ctx}`); return null; }
+  if (type === 'fancam' && (!memberIds || !memberIds.length)) { errors.push(`${where}: 직캠인데 멤버를 정할 수 없어요. "members"(멤버 이름 또는 "단체")를 주세요. 제목의 이름이 등록 안 된 멤버면 add-member나 register-group으로 먼저 등록하세요. ${ctx}`); return null; }
+  if (type === 'full') memberIds = [];
+  if (memberIds.includes(GROUP_KEY)) memberIds = [];
+  memberIds.sort((a, b) => (g.members.find((m) => m.id === a)?.order ?? 0) - (g.members.find((m) => m.id === b)?.order ?? 0));
+  let songs;
+  if (Array.isArray(r.songs)) songs = r.songs.map((s) => ({ songId: resolveSong(g, s.song, { create }), t: s.t == null ? 0 : (typeof s.t === 'number' ? s.t : parseTime(s.t)) })).filter((s) => s.songId);
+  else {
+    let sid;
+    if ('song' in r) sid = resolveSong(g, r.song, { create });
+    else if (p.songId) { sid = p.songId; auto.push(`곡=${songTitle(sid)}`); }
+    else if (p.songGuess && create) { sid = resolveSong(g, p.songGuess, { create: true }); auto.push(`곡=${songTitle(sid)}(제목, 새 곡)`); }
+    else if (effSetlist.length === 1) { sid = effSetlist[0]; auto.push(`곡=${songTitle(sid)}(setlist)`); }
+    else if (p.songGuess) { errors.push(`${where}: 제목의 곡 '${p.songGuess}'이 ${g.name} 곡 목록에 없어요. 맞으면 --create-songs, 별칭이면 set <곡id> aliases=…로 등록하세요. ${ctx}`); return null; }
+    else if (effSetlist.length > 1) { errors.push(`${where}: 곡을 정할 수 없어요(setlist ${effSetlist.map(songTitle).join(', ')}). "song"을 주세요. 곡 구분 없는 영상이면 "song": "전체 공연". ${ctx}`); return null; }
+    else { errors.push(`${where}: 곡을 정할 수 없어요. "song" 또는 공연 "setlist"를 주세요. 곡 구분 없는 영상이면 "song": "전체 공연". ${ctx}`); return null; }
+    const t = r.t != null ? (typeof r.t === 'number' ? r.t : parseTime(r.t)) : (yt.t ?? 0);
+    songs = sid ? [{ songId: sid, t: Number.isFinite(t) ? t : 0 }] : [];
+  }
+  if (effSetlist.length) for (const s of songs) if (!effSetlist.includes(s.songId)) warn(`${where}: ${songTitle(s.songId)}는 이 공연 setlist에 없어요. 맞는지 확인하세요.`);
+  const source = 'source' in r ? (r.source === 'official' || r.source === 'fan' ? r.source : null) : (p.source || null);
+  if (!('source' in r) && p.source) auto.push('출처=공식');
+  const tags = Array.isArray(r.tags) ? r.tags : p.tags;
+  if (!Array.isArray(r.tags) && p.tags.length) auto.push(`태그=${p.tags.join(',')}`);
+  const v = {
+    id: nextId('v', data.videos.map((x) => x.id)), ytId: yt.id, eventId: ev.id, songs, type, memberIds, source, tags,
+    title, channel, pin: !!r.pin, gone: false,
+  };
+  if (r.thumbPos) v.thumbPos = String(r.thumbPos);
+  return v;
 }
 
 function unpinOthers(v) {
