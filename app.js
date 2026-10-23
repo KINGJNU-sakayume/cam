@@ -12,7 +12,7 @@ import { folderHTML, mountFolder, toggleFolderCell } from './js/views/folder.js'
 import { songListHTML, songPageHTML } from './js/views/song.js';
 import { memberListHTML, memberPageHTML } from './js/views/member.js';
 import { clipGridHTML } from './js/views/clips.js';
-import { searchHTML } from './js/views/search.js';
+import { searchHTML, PAGE } from './js/views/search.js';
 import { loadErrorHTML, emptyDataHTML, noResultHTML } from './js/views/states.js';
 import { openPlayer, playerNav } from './js/views/player.js';
 import { openClipDetail } from './js/views/clipdetail.js';
@@ -112,7 +112,7 @@ function render() {
   const base = baseOf(s);
   const key = `${toHash(base)}|${app.query}|${app.mobile ? 'm' : 'd'}`;
   if (key !== lastBaseKey) {
-    const onlyOpen = lastBase && !app.query && sameExcept(lastBase, base, 'open') && !base.e && !base.v;
+    const onlyOpen = lastBaseKey && lastBase && !app.query && lastBase.open !== base.open && sameExcept(lastBase, base, 'open') && !base.e && !base.v;
     if (lastBaseKey) scrollMem.set(lastBaseKey, scrollY);
     if (!(onlyOpen && setOpen(main, base.open))) {
       renderBase(s);
@@ -229,8 +229,8 @@ function viewbarHTML(g, view) {
     <nav class="seg" aria-label="보기">${items.map(([k, t, h]) => html`<a href="${h}" ${k === view ? html`aria-current="page"` : ''}>${t}</a>`)}</nav>
     <div class="viewopts">
       <div class="seg" role="group" aria-label="정렬">
-        <button type="button" data-act="sort" data-v="desc" aria-pressed="${app.prefs.sort === 'desc'}">최신순</button>
-        <button type="button" data-act="sort" data-v="asc" aria-pressed="${app.prefs.sort === 'asc'}">오래된순</button>
+        <button type="button" data-act="sort" data-v="desc" aria-pressed="${String(!!(app.prefs.sort === 'desc'))}">최신순</button>
+        <button type="button" data-act="sort" data-v="asc" aria-pressed="${String(!!(app.prefs.sort === 'asc'))}">오래된순</button>
       </div>
       <label class="check"><input type="checkbox" data-act="hideEmpty" ${app.prefs.hideEmpty ? html`checked` : ''}>빈 칸 숨기기</label>
     </div>
@@ -240,7 +240,7 @@ function viewbarHTML(g, view) {
 function filtersHTML(g, f, view) {
   const ix = app.ix;
   const n = filterCount(f);
-  const chip = (k, v, label, dot) => html`<button type="button" class="chip" data-act="filter" data-k="${k}" data-v="${v}" aria-pressed="${f[k].has(v)}">${dot || ''}${label}</button>`;
+  const chip = (k, v, label, dot) => html`<button type="button" class="chip" data-act="filter" data-k="${k}" data-v="${v}" aria-pressed="${String(!!(f[k].has(v)))}">${dot || ''}${label}</button>`;
   const tags = [...ix.groupStats.get(g.id).tags].sort((a, b) => a.localeCompare(b, 'ko'));
   const desc = [];
   for (const id of f.songs) desc.push(ix.song.get(id)?.title);
@@ -334,6 +334,7 @@ function bindGlobal() {
   let composing = false;
   const run = debounce(() => {
     if (composing) return;
+    if (app.query !== qInput.value) app.searchLimit = 0;
     app.query = qInput.value;
     lastBaseKey = null;
     render();
@@ -346,6 +347,7 @@ function bindGlobal() {
   });
   document.getElementById('search-form').addEventListener('submit', (e) => {
     e.preventDefault();
+    if (app.query !== qInput.value) app.searchLimit = 0;
     app.query = qInput.value; lastBaseKey = null; render();
     main.querySelector('.scard a, .state a')?.focus();
   });
@@ -395,6 +397,13 @@ function onAction(e) {
   if ((el.type === 'checkbox') !== isChange) return;
   const g = currentGroup();
   if (act === 'reload') { location.reload(); return; }
+  if (act === 'searchMore') {
+    const n = main.querySelectorAll('.scard').length;
+    app.searchLimit = n + PAGE;
+    rerenderKeepFocus(null);
+    main.querySelectorAll('.scard')[n]?.querySelector('a')?.focus({ preventScroll: true });
+    return;
+  }
   if (!g) return;
   switch (act) {
     case 'rowsong': {

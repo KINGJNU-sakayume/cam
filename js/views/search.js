@@ -5,7 +5,8 @@ import { app, adminHref } from '../state.js';
 import { href } from '../router.js';
 import { videoThumb, clipThumb, dowPill, srcTags, whoText } from '../components.js';
 
-const LIMIT = 60;
+export const PAGE = 20;
+const PER_CARD = 12;
 
 // 일치 글자 하이라이트 (각 조각은 html``이 이스케이프)
 export function hl(text, tokens) {
@@ -55,15 +56,18 @@ export function searchHTML(q) {
       <p>“${q.trim()}”와 맞는 영상·움짤이 없어요. 띄어 쓴 단어가 모두 들어 있어야 나와요.</p>
       <div class="row"><a class="btn btn-fill" href="${adminHref({ g: app.state.g })}">+ 담기</a></div></div>`;
   }
-  const shown = r.groups.slice(0, LIMIT);
-  return html`<p class="sres-top" role="status">담아 둔 영상 ${total}개 중 ${r.videos}개${r.clips ? ` · 움짤 ${r.clips}개` : ''} · 공연 ${r.groups.length}곳${r.groups.length > LIMIT ? ` (최근 ${LIMIT}곳 표시)` : ''}</p>
-    <div class="sres">${shown.map(({ E, videos, clips }) => card(E, videos, clips, r.tokens))}</div>`;
+  const limit = app.searchLimit || PAGE;
+  const shown = r.groups.slice(0, limit);
+  return html`<p class="sres-top" role="status">담아 둔 영상 ${total}개 중 ${r.videos}개${r.clips ? ` · 움짤 ${r.clips}개` : ''} · 공연 ${r.groups.length}곳</p>
+    <div class="sres">${shown.map(({ E, videos, clips }) => card(E, videos, clips, r.tokens))}</div>
+    ${r.groups.length > limit ? html`<div class="row-actions" style="justify-content:center;margin-top:16px"><button type="button" class="btn" data-act="searchMore">공연 ${Math.min(PAGE, r.groups.length - limit)}곳 더 보기 (${shown.length}/${r.groups.length})</button></div>` : ''}`;
 }
 
 function card(E, videos, clips, tokens) {
   const g = E.group, ix = app.ix;
-  const full = videos.filter((v) => v.type === 'full');
-  const cams = videos.filter((v) => v.type !== 'full');
+  const full = videos.filter((v) => v.type === 'full').slice(0, 4);
+  const cams = videos.filter((v) => v.type !== 'full').slice(0, PER_CARD);
+  const hidden = videos.length - full.length - cams.length;
   const dateLine = `${fmtMD(E.date)} ${E.ev.show}${E.ev.label ? ` ${E.ev.label}` : ''}`;
   const cap = (v) => html`<div class="lm">${hl(dateLine, tokens)}</div>
     <div class="l1"><span>${hl(`${songsText(v)} · ${whoText(ix, v.memberIds, v.type)}`, tokens)}</span></div>
@@ -82,5 +86,6 @@ function card(E, videos, clips, tokens) {
     ${clips.length ? html`<div class="grid-23" style="margin-top:12px">${clips.map((C) => clipThumb(C, {
       caption: html`<div class="lm">${hl(dateLine, tokens)}</div><div class="l1"><span>${hl(`${C.songId === NOSONG ? '전체 공연' : ix.song.get(C.songId)?.title || ''} · ${C.key === 'full' ? '풀캠' : whoText(ix, C.memberIds, 'fancam')}`, tokens)}</span></div><div class="lm">${hl(C.clip.note || '', tokens)}</div>`,
     }))}</div>` : ''}
+    ${hidden > 0 ? html`<p class="note" style="margin-top:10px"><a href="${href({ g: g.id, e: E.id })}">이 공연에서 맞은 영상 ${hidden}개 더 — 공연 폴더에서 보기 →</a></p>` : ''}
   </section>`;
 }

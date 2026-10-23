@@ -38,7 +38,7 @@ function cellHTML(E, S, c) {
   const v = c.videos[0];
   const id = `${songKey || 'none'}|${c.key}`;
   const more = c.videos.length > 1
-    ? html`<button type="button" class="badge cellmore" data-act="cell" data-s="${songKey || 'none'}" data-k="${c.key}" aria-expanded="${openCell === id}" aria-label="${`${cellKeyLabel(app.ix, c.key)} 칸 영상 ${c.videos.length}개 보기`}">+${c.videos.length - 1}</button>`
+    ? html`<button type="button" class="badge cellmore" data-act="cell" data-s="${songKey || 'none'}" data-k="${c.key}" aria-expanded="${String(!!(openCell === id))}" aria-label="${`${cellKeyLabel(app.ix, c.key)} 칸 영상 ${c.videos.length}개 보기`}">+${c.videos.length - 1}</button>`
     : '';
   const badges = [];
   if (S.clips.some((C) => C.key === c.key)) badges.push({ text: '움짤' });

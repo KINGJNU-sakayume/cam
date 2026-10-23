@@ -27,8 +27,8 @@ export function songListHTML(g, f) {
   if (app.prefs.songSort === 'recent') rows.sort((a, b) => (b.st.last?.date || '').localeCompare(a.st.last?.date || ''));
   return html`<div class="pagehead"><h1>곡</h1><span class="sub">${g._songs.length}곡</span>
     <div class="tools"><div class="seg" role="group" aria-label="곡 정렬">
-      <button type="button" data-act="songSort" data-v="order" aria-pressed="${app.prefs.songSort !== 'recent'}">곡 순서</button>
-      <button type="button" data-act="songSort" data-v="recent" aria-pressed="${app.prefs.songSort === 'recent'}">최근 무대순</button>
+      <button type="button" data-act="songSort" data-v="order" aria-pressed="${String(!!(app.prefs.songSort !== 'recent'))}">곡 순서</button>
+      <button type="button" data-act="songSort" data-v="recent" aria-pressed="${String(!!(app.prefs.songSort === 'recent'))}">최근 무대순</button>
     </div></div></div>
     <div class="tiles">${rows.map(({ s, st }) => {
       const h = href({ g: g.id, v: 'song', s: s.id });
@@ -46,8 +46,8 @@ export function songPageHTML(g, song, member, f, open) {
   const st = songStats(g, song);
   const events = sortEvents(app.ix.eventsByGroup.get(g.id)).filter((E) => E.sections.has(song.id));
   const chips = html`<div class="fgroup" role="group" aria-label="멤버 고르기" style="margin:0 0 16px">
-    <a class="chip" href="${href({ g: g.id, v: 'song', s: song.id })}" aria-pressed="${!member}">전체 라인업</a>
-    ${g._members.map((m) => html`<a class="chip" href="${href({ g: g.id, v: 'song', s: song.id, m: m.id })}" aria-pressed="${member ? member.id === m.id : false}"><span class="dot" style="${`background:${m._color}`}"></span>${m.name}</a>`)}
+    <a class="chip" href="${href({ g: g.id, v: 'song', s: song.id })}" ${!member ? html`aria-current="page"` : ''}>전체 라인업</a>
+    ${g._members.map((m) => html`<a class="chip" href="${href({ g: g.id, v: 'song', s: song.id, m: m.id })}" ${member && member.id === m.id ? html`aria-current="page"` : ''}><span class="dot" style="${`background:${m._color}`}"></span>${m.name}</a>`)}
   </div>`;
   const head = html`<div class="pagehead"><h1>${song.title}</h1>
     <span class="sub">${song.release ? `발매 ${fmtFull(song.release)} · ` : ''}무대 ${st.stages} · 직캠 ${st.cams}${st.clips ? ` · 움짤 ${st.clips}` : ''}</span></div>`;

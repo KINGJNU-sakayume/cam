@@ -85,7 +85,7 @@ export function memberPageHTML(g, m, f) {
     <span class="sub">${(m.aliases || []).join(' · ')}${(m.aliases || []).length ? ' · ' : ''}직캠 ${memberCount(g, m)}</span>
     <div class="tools"><label class="check"><input type="checkbox" data-act="bySong" ${app.prefs.bySong ? html`checked` : ''}>곡별로 묶기</label></div>
   </div>
-  ${songChips.length > 1 ? html`<div class="fgroup" role="group" aria-label="곡으로 좁히기" style="margin:0 0 14px">${songChips.map((s) => html`<button type="button" class="chip" data-act="filter" data-k="songs" data-v="${s.id}" aria-pressed="${f.songs.has(s.id)}">${s.title}</button>`)}</div>` : ''}`;
+  ${songChips.length > 1 ? html`<div class="fgroup" role="group" aria-label="곡으로 좁히기" style="margin:0 0 14px">${songChips.map((s) => html`<button type="button" class="chip" data-act="filter" data-k="songs" data-v="${s.id}" aria-pressed="${String(!!(f.songs.has(s.id)))}">${s.title}</button>`)}</div>` : ''}`;
   if (!items.length) {
     return html`${head}<div class="state"><h2>보여 줄 직캠이 없어요</h2><p>${f.songs.size || f.tags.size || f.types.size ? '걸린 필터를 풀면 더 보여요.' : '아직 이 멤버 직캠을 담지 않았어요.'}</p>
       <div class="row">${f.songs.size || f.tags.size || f.types.size ? html`<button type="button" class="btn" data-act="clearFilters">필터 해제</button>` : ''}<a class="btn btn-fill" href="${`admin.html#g=${g.id}&m=${m.id}`}">+ 담기</a></div></div>`;

@@ -60,7 +60,7 @@ function songControl(E, keys, sel, forced) {
   }
   return html`<div class="songbtns" role="group" aria-label="곡 고르기">${keys.map((k) => {
     const no = E.songNo.get(k);
-    return html`<button type="button" class="songbtn" data-act="rowsong" data-e="${E.id}" data-s="${k || 'none'}" aria-pressed="${k === sel}">${no ? html`<span class="no">${String(no).padStart(2, '0')}</span>` : ''}<span>${songTitle(k)}</span></button>`;
+    return html`<button type="button" class="songbtn" data-act="rowsong" data-e="${E.id}" data-s="${k || 'none'}" aria-pressed="${String(!!(k === sel))}">${no ? html`<span class="no">${String(no).padStart(2, '0')}</span>` : ''}<span>${songTitle(k)}</span></button>`;
   })}</div>`;
 }
 
@@ -89,7 +89,7 @@ function lastCell(E, fs, songKey, open) {
     ? videoThumb(v, { ratio: '169', songKey, badges: fs.full.length > 1 ? [{ text: `+${fs.full.length - 1}` }] : [], caption: html`<div class="clamp2">${v.title || '풀캠'}</div>` })
     : (app.prefs.hideEmpty ? '' : emptyCell({ g: E.group.id, e: E.id, s: songKey || undefined, ratio: '169', label: '풀캠 없음' }));
   return html`<div class="lu-last">${top}
-    <button type="button" class="sumbtn" data-act="expand" data-e="${E.id}" aria-expanded="${open}" aria-controls="${`panel-${E.id}`}">${summaryText(c)}</button>
+    <button type="button" class="sumbtn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}">${summaryText(c)}</button>
   </div>`;
 }
 
@@ -110,7 +110,7 @@ function rowHTML(r) {
   const open = ctx.open === E.id;
   return html`<div class="lu-row" id="${`row-${E.id}`}" data-row="${E.id}">
     <div class="lu-date">${dateBlock(E, keys, sel, ctx.forceSong)}
-      <button type="button" class="linkbtn expand-btn" data-act="expand" data-e="${E.id}" aria-expanded="${open}" aria-controls="${`panel-${E.id}`}">${open ? '접기 ↑' : '이 날 전체 보기 ↓'}</button>
+      <button type="button" class="linkbtn expand-btn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}">${open ? '접기 ↑' : '이 날 전체 보기 ↓'}</button>
     </div>
     ${ctx.cols.map((m) => memberCell(E, fs, m, sel))}
     ${lastCell(E, fs, sel, open)}
@@ -173,7 +173,7 @@ function mobileCard(r) {
   return html`<article class="mcard" id="${`row-${E.id}`}" data-row="${E.id}">
     <div class="mcard-head">${dateBlock(E, keys, sel, ctx.forceSong)}</div>
     ${ctx.cols.length ? html`<div class="mstrip" role="list" aria-label="멤버 직캠">${cams}</div>` : ''}
-    <button type="button" class="sumbtn" data-act="expand" data-e="${E.id}" aria-expanded="${open}" aria-controls="${`panel-${E.id}`}"><span>${summaryText(c)}</span><span aria-hidden="true">${open ? '↑' : '↓'}</span></button>
+    <button type="button" class="sumbtn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}"><span>${summaryText(c)}</span><span aria-hidden="true">${open ? '↑' : '↓'}</span></button>
     ${open ? html`<div id="${`panel-${E.id}`}">${panelHTML(E, sel, fs)}</div>` : ''}
   </article>`;
 }
