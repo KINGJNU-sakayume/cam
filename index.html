@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>무대 서랍</title>
+  <meta name="description" content="직접 고른 무대 영상과 직캠, 움짤을 날짜와 멤버로 펼쳐 보는 개인 아카이브">
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='3' y='6' width='26' height='22' rx='5' fill='%23c2553f'/%3E%3Crect x='3' y='14' width='26' height='2' fill='%23fffdf9'/%3E%3Crect x='13' y='9' width='6' height='2' rx='1' fill='%23fffdf9'/%3E%3Crect x='13' y='19' width='6' height='2' rx='1' fill='%23fffdf9'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&display=swap">
+  <link rel="stylesheet" href="styles.css">
+  <script>
+    try { var t = localStorage.getItem('sd.theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <a class="skip" href="#main">본문으로 건너뛰기</a>
+  <header class="topbar" id="topbar">
+    <div class="topbar-row">
+      <a class="brand" href="#" id="brand">무대 서랍</a>
+      <form class="search" role="search" id="search-form">
+        <svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg>
+        <label class="sr" for="q">전체 검색</label>
+        <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="유나 10.23, Paper Moon 세로…">
+      </form>
+      <button class="iconbtn" id="theme-btn" type="button" aria-label="다크 모드로 전환"></button>
+      <a class="btn btn-fill" id="add-btn" href="admin.html">
+        <svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>담기
+      </a>
+    </div>
+    <nav class="tabs" id="tabs" aria-label="그룹"></nav>
+  </header>
+  <main id="main" tabindex="-1"></main>
+  <div id="overlay-root"></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
