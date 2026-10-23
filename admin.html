@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>관리 · 무대 서랍</title>
+  <meta name="robots" content="noindex">
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='3' y='6' width='26' height='22' rx='5' fill='%23c2553f'/%3E%3Crect x='3' y='14' width='26' height='2' fill='%23fffdf9'/%3E%3Crect x='13' y='9' width='6' height='2' rx='1' fill='%23fffdf9'/%3E%3Crect x='13' y='19' width='6' height='2' rx='1' fill='%23fffdf9'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&display=swap">
+  <link rel="stylesheet" href="styles.css">
+  <script>
+    try { var t = localStorage.getItem('sd.theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body class="adm">
+  <a class="skip" href="#main">본문으로 건너뛰기</a>
+  <header class="topbar" id="topbar">
+    <div class="topbar-row">
+      <a class="brand" href="index.html" id="brand">무대 서랍 <span style="color:var(--muted);font-weight:600">· 관리</span></a>
+      <a class="btn btn-sm" href="index.html" id="view-link">보기 화면</a>
+      <button class="iconbtn" id="theme-btn" type="button" aria-label="다크 모드로 전환"></button>
+      <a class="btn btn-fill savebtn" id="save-btn" href="#tab=save">저장 <span class="count" id="save-count">0</span></a>
+    </div>
+    <nav class="adm-tabs" id="adm-tabs" aria-label="관리 메뉴"></nav>
+  </header>
+  <main id="main" tabindex="-1"><p class="loading">불러오는 중이에요</p></main>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <noscript><p style="padding:24px">이 사이트는 자바스크립트가 필요해요.</p></noscript>
+  <script>
+    // file://로 열면 모듈 스크립트와 데이터 읽기가 막힌다. 해결 방법을 바로 보여 준다.
+    if (location.protocol === 'file:') {
+      document.getElementById('main').innerHTML = '<div class="state" role="alert"><h2>파일을 직접 열어서 데이터를 못 읽었어요</h2>'
+        + '<p>브라우저는 <code>file://</code>로 연 페이지에서 모듈 스크립트와 <code>data/videos.json</code>을 읽지 못하게 막아요. 저장소 폴더에서 <code>python3 -m http.server</code>를 실행하고 <code>http://localhost:8000</code>으로 여세요.</p></div>';
+    }
+  </script>
+  <script type="module" src="admin.js"></script>
+</body>
+</html>
