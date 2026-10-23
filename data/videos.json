@@ -2,3807 +2,411 @@
   "version": 3,
   "groups": [
     {
-      "id": "g1",
-      "name": "르니에",
-      "en": "LUNIER",
-      "hue": 200,
+      "id": "g4",
+      "name": "아이브",
+      "en": "IVE",
+      "hue": 78,
       "members": [
         {
-          "id": "g1m1",
-          "name": "유나",
+          "id": "g4m1",
+          "name": "안유진",
           "aliases": [
-            "YUNA"
+            "YUJIN",
+            "Yujin",
+            "AN YUJIN",
+            "Ahn Yujin"
           ],
           "order": 1,
           "active": true,
           "color": "#c2553f"
         },
         {
-          "id": "g1m2",
-          "name": "도희",
+          "id": "g4m2",
+          "name": "가을",
           "aliases": [
-            "DOHEE"
+            "GAEUL",
+            "Gaeul"
           ],
           "order": 2,
           "active": true,
           "color": "#2f7d6d"
         },
         {
-          "id": "g1m3",
-          "name": "세린",
+          "id": "g4m3",
+          "name": "레이",
           "aliases": [
-            "SERIN"
+            "REI",
+            "Rei"
           ],
           "order": 3,
           "active": true,
           "color": "#3d6fb6"
         },
         {
-          "id": "g1m4",
-          "name": "하온",
+          "id": "g4m4",
+          "name": "장원영",
           "aliases": [
-            "HAON"
+            "WONYOUNG",
+            "Wonyoung",
+            "JANG WONYOUNG",
+            "Jang Wonyoung"
           ],
           "order": 4,
           "active": true,
           "color": "#b07f22"
         },
         {
-          "id": "g1m5",
-          "name": "리아",
+          "id": "g4m5",
+          "name": "리즈",
           "aliases": [
-            "RIA"
+            "LIZ",
+            "Liz"
           ],
           "order": 5,
           "active": true,
           "color": "#8a5aa8"
+        },
+        {
+          "id": "g4m6",
+          "name": "이서",
+          "aliases": [
+            "LEESEO",
+            "Leeseo"
+          ],
+          "order": 6,
+          "active": true,
+          "color": "#c0567e"
         }
       ],
-      "songs": [
-        {
-          "id": "g1s1",
-          "title": "Paper Moon",
-          "aliases": [
-            "페이퍼문"
-          ],
-          "order": 1,
-          "release": "2026-10-09"
-        },
-        {
-          "id": "g1s2",
-          "title": "Static",
-          "aliases": [
-            "스태틱"
-          ],
-          "order": 2,
-          "release": "2026-10-09"
-        },
-        {
-          "id": "g1s3",
-          "title": "Velvet Hour",
-          "aliases": [
-            "벨벳아워"
-          ],
-          "order": 3,
-          "release": "2026-09-18"
-        },
-        {
-          "id": "g1s4",
-          "title": "첫 장면",
-          "aliases": [
-            "FIRST SCENE"
-          ],
-          "order": 4,
-          "release": "2026-03-02"
-        }
-      ]
+      "songs": []
     },
     {
-      "id": "g2",
-      "name": "하이디어",
-      "en": "HIDEAR",
-      "hue": 150,
+      "id": "g5",
+      "name": "엔믹스",
+      "en": "NMIXX",
+      "hue": 108,
       "members": [
         {
-          "id": "g2m1",
-          "name": "채이",
+          "id": "g5m1",
+          "name": "해원",
           "aliases": [
-            "CHAEI"
+            "HAEWON",
+            "Haewon"
           ],
           "order": 1,
           "active": true,
           "color": "#c2553f"
         },
         {
-          "id": "g2m2",
-          "name": "소율",
+          "id": "g5m2",
+          "name": "릴리",
           "aliases": [
-            "SOYUL"
+            "LILY",
+            "Lily"
           ],
           "order": 2,
           "active": true,
           "color": "#2f7d6d"
         },
         {
-          "id": "g2m3",
-          "name": "나린",
+          "id": "g5m3",
+          "name": "설윤",
           "aliases": [
-            "NARIN"
+            "SULLYOON",
+            "Sullyoon"
           ],
           "order": 3,
           "active": true,
           "color": "#3d6fb6"
         },
         {
-          "id": "g2m4",
-          "name": "미오",
+          "id": "g5m4",
+          "name": "배이",
           "aliases": [
-            "MIO"
+            "BAE",
+            "Bae"
           ],
           "order": 4,
           "active": true,
           "color": "#b07f22"
         },
         {
-          "id": "g2m5",
-          "name": "예서",
+          "id": "g5m5",
+          "name": "지우",
           "aliases": [
-            "YESEO"
+            "JIWOO",
+            "Jiwoo"
           ],
           "order": 5,
           "active": true,
           "color": "#8a5aa8"
         },
         {
-          "id": "g2m6",
-          "name": "하린",
+          "id": "g5m6",
+          "name": "규진",
           "aliases": [
-            "HARIN"
+            "KYUJIN",
+            "Kyujin"
+          ],
+          "order": 6,
+          "active": true,
+          "color": "#c0567e"
+        },
+        {
+          "id": "g5m7",
+          "name": "지니",
+          "aliases": [
+            "JINNI",
+            "Jinni",
+            "JINI",
+            "Jini"
+          ],
+          "order": 7,
+          "active": false,
+          "color": "#4f8a3c"
+        }
+      ],
+      "songs": []
+    },
+    {
+      "id": "g6",
+      "name": "프로미스나인",
+      "en": "fromis_9",
+      "hue": 175,
+      "members": [
+        {
+          "id": "g6m1",
+          "name": "송하영",
+          "aliases": [
+            "HAYOUNG",
+            "Hayoung",
+            "SONG HAYOUNG",
+            "Song Hayoung"
+          ],
+          "order": 1,
+          "active": true,
+          "color": "#c2553f"
+        },
+        {
+          "id": "g6m2",
+          "name": "박지원",
+          "aliases": [
+            "JIWON",
+            "Jiwon",
+            "PARK JIWON",
+            "Park Jiwon"
+          ],
+          "order": 2,
+          "active": true,
+          "color": "#2f7d6d"
+        },
+        {
+          "id": "g6m3",
+          "name": "이채영",
+          "aliases": [
+            "CHAEYOUNG",
+            "Chaeyoung",
+            "LEE CHAEYOUNG",
+            "Lee Chaeyoung"
+          ],
+          "order": 3,
+          "active": true,
+          "color": "#3d6fb6"
+        },
+        {
+          "id": "g6m4",
+          "name": "이나경",
+          "aliases": [
+            "NAGYUNG",
+            "Nagyung",
+            "NAKYUNG",
+            "Nakyung",
+            "LEE NAGYUNG",
+            "Lee Nagyung"
+          ],
+          "order": 4,
+          "active": true,
+          "color": "#b07f22"
+        },
+        {
+          "id": "g6m5",
+          "name": "백지헌",
+          "aliases": [
+            "JIHEON",
+            "Jiheon",
+            "BAEK JIHEON",
+            "Baek Jiheon"
+          ],
+          "order": 5,
+          "active": true,
+          "color": "#8a5aa8"
+        },
+        {
+          "id": "g6m6",
+          "name": "장규리",
+          "aliases": [
+            "GYURI",
+            "Gyuri",
+            "JANG GYURI",
+            "Jang Gyuri"
           ],
           "order": 6,
           "active": false,
           "color": "#c0567e"
+        },
+        {
+          "id": "g6m7",
+          "name": "이새롬",
+          "aliases": [
+            "SAEROM",
+            "Saerom",
+            "LEE SAEROM",
+            "Lee Saerom"
+          ],
+          "order": 7,
+          "active": false,
+          "color": "#4f8a3c"
+        },
+        {
+          "id": "g6m8",
+          "name": "노지선",
+          "aliases": [
+            "JISUN",
+            "Jisun",
+            "ROH JISUN",
+            "Roh Jisun"
+          ],
+          "order": 8,
+          "active": false,
+          "color": "#7a6a58"
+        },
+        {
+          "id": "g6m9",
+          "name": "이서연",
+          "aliases": [
+            "SEOYEON",
+            "Seoyeon",
+            "LEE SEOYEON",
+            "Lee Seoyeon"
+          ],
+          "order": 9,
+          "active": false,
+          "color": "#c2553f"
         }
       ],
-      "songs": [
-        {
-          "id": "g2s1",
-          "title": "Sunroom",
-          "aliases": [
-            "선룸"
-          ],
-          "order": 1,
-          "release": "2026-09-30"
-        },
-        {
-          "id": "g2s2",
-          "title": "Ripple",
-          "aliases": [
-            "리플"
-          ],
-          "order": 2,
-          "release": "2026-08-14"
-        },
-        {
-          "id": "g2s3",
-          "title": "별 지도",
-          "aliases": [
-            "STAR MAP"
-          ],
-          "order": 3,
-          "release": "2026-09-30"
-        }
-      ]
+      "songs": []
     },
     {
-      "id": "g3",
-      "name": "모노키",
-      "en": "MONOKI",
-      "hue": 28,
+      "id": "g7",
+      "name": "하츠투하츠",
+      "en": "Hearts2Hearts",
+      "hue": 67,
       "members": [
         {
-          "id": "g3m1",
-          "name": "지안",
+          "id": "g7m1",
+          "name": "지우",
           "aliases": [
-            "JIAN"
+            "JIWOO",
+            "Jiwoo",
+            "최지우"
           ],
           "order": 1,
           "active": true,
           "color": "#c2553f"
         },
         {
-          "id": "g3m2",
-          "name": "루아",
+          "id": "g7m2",
+          "name": "카르멘",
           "aliases": [
-            "RUA"
+            "CARMEN",
+            "Carmen",
+            "뇨만 아유 카르메니타"
           ],
           "order": 2,
           "active": true,
           "color": "#2f7d6d"
         },
         {
-          "id": "g3m3",
-          "name": "다은",
+          "id": "g7m3",
+          "name": "유하",
           "aliases": [
-            "DAEUN"
+            "YUHA",
+            "Yuha",
+            "유하람"
           ],
           "order": 3,
           "active": true,
           "color": "#3d6fb6"
         },
         {
-          "id": "g3m4",
-          "name": "시아",
+          "id": "g7m4",
+          "name": "스텔라",
           "aliases": [
-            "SIA"
+            "STELLA",
+            "Stella",
+            "김다현"
           ],
           "order": 4,
           "active": true,
           "color": "#b07f22"
-        }
-      ],
-      "songs": [
-        {
-          "id": "g3s1",
-          "title": "Tin Heart",
-          "aliases": [
-            "틴하트"
-          ],
-          "order": 1,
-          "release": "2026-09-08"
         },
         {
-          "id": "g3s2",
-          "title": "Daydream Bus",
+          "id": "g7m5",
+          "name": "주은",
           "aliases": [
-            "데이드림버스"
+            "JUUN",
+            "Juun",
+            "김주은"
           ],
-          "order": 2,
-          "release": "2026-09-08"
+          "order": 5,
+          "active": true,
+          "color": "#8a5aa8"
         },
         {
-          "id": "g3s3",
-          "title": "오렌지 노트",
+          "id": "g7m6",
+          "name": "에이나",
           "aliases": [
-            "ORANGE NOTE"
+            "A-NA",
+            "A-na",
+            "ANA",
+            "Ana",
+            "노유나"
           ],
-          "order": 3,
-          "release": "2026-05-20"
-        }
-      ]
-    }
-  ],
-  "events": [
-    {
-      "id": "e1",
-      "groupId": "g1",
-      "date": "2026-09-12",
-      "show": "한빛대학교 가을 축제",
-      "label": "",
-      "setlist": [],
-      "note": "흰 티셔츠 + 데님"
-    },
-    {
-      "id": "e2",
-      "groupId": "g1",
-      "date": "2026-09-25",
-      "show": "뮤직뱅크",
-      "label": "",
-      "setlist": [
-        "g1s3"
-      ],
-      "note": "블랙 벨벳 드레스"
-    },
-    {
-      "id": "e3",
-      "groupId": "g1",
-      "date": "2026-09-27",
-      "show": "인기가요",
-      "label": "",
-      "setlist": [
-        "g1s3"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e4",
-      "groupId": "g1",
-      "date": "2026-10-09",
-      "show": "뮤직뱅크",
-      "label": "",
-      "setlist": [
-        "g1s1",
-        "g1s2"
-      ],
-      "note": "아이보리 셋업 · 컴백"
-    },
-    {
-      "id": "e5",
-      "groupId": "g1",
-      "date": "2026-10-10",
-      "show": "쇼! 음악중심",
-      "label": "",
-      "setlist": [
-        "g1s1"
-      ],
-      "note": "블루 미니 드레스"
-    },
-    {
-      "id": "e6",
-      "groupId": "g1",
-      "date": "2026-10-11",
-      "show": "인기가요",
-      "label": "",
-      "setlist": [
-        "g1s1",
-        "g1s2"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e7",
-      "groupId": "g1",
-      "date": "2026-10-13",
-      "show": "더 쇼",
-      "label": "",
-      "setlist": [
-        "g1s1"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e8",
-      "groupId": "g1",
-      "date": "2026-10-15",
-      "show": "엠카운트다운",
-      "label": "",
-      "setlist": [
-        "g1s1"
-      ],
-      "note": "체크 재킷"
-    },
-    {
-      "id": "e9",
-      "groupId": "g1",
-      "date": "2026-10-17",
-      "show": "쇼! 음악중심",
-      "label": "",
-      "setlist": [
-        "g1s1"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e10",
-      "groupId": "g1",
-      "date": "2026-10-18",
-      "show": "인기가요",
-      "label": "사전녹화",
-      "setlist": [
-        "g1s1"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e11",
-      "groupId": "g1",
-      "date": "2026-10-18",
-      "show": "인기가요",
-      "label": "",
-      "setlist": [
-        "g1s1"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e12",
-      "groupId": "g1",
-      "date": "2026-10-23",
-      "show": "뮤직뱅크",
-      "label": "",
-      "setlist": [
-        "g1s1",
-        "g1s2"
-      ],
-      "note": "레드 투피스",
-      "cover": "v78"
-    },
-    {
-      "id": "e13",
-      "groupId": "g2",
-      "date": "2026-08-21",
-      "show": "엠카운트다운",
-      "label": "",
-      "setlist": [
-        "g2s2"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e14",
-      "groupId": "g2",
-      "date": "2026-08-23",
-      "show": "인기가요",
-      "label": "",
-      "setlist": [
-        "g2s2"
-      ],
-      "note": "민트 셔츠"
-    },
-    {
-      "id": "e15",
-      "groupId": "g2",
-      "date": "2026-10-02",
-      "show": "뮤직뱅크",
-      "label": "",
-      "setlist": [
-        "g2s1"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e16",
-      "groupId": "g2",
-      "date": "2026-10-04",
-      "show": "인기가요",
-      "label": "",
-      "setlist": [
-        "g2s1",
-        "g2s3"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e17",
-      "groupId": "g2",
-      "date": "2026-10-16",
-      "show": "뮤직뱅크",
-      "label": "",
-      "setlist": [
-        "g2s1"
-      ],
-      "note": "선셋 오렌지 원피스"
-    },
-    {
-      "id": "e18",
-      "groupId": "g3",
-      "date": "2026-09-10",
-      "show": "쇼챔피언",
-      "label": "",
-      "setlist": [
-        "g3s1"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e19",
-      "groupId": "g3",
-      "date": "2026-09-13",
-      "show": "인기가요",
-      "label": "",
-      "setlist": [
-        "g3s1",
-        "g3s2"
-      ],
-      "note": "스쿨룩"
-    },
-    {
-      "id": "e20",
-      "groupId": "g3",
-      "date": "2026-10-01",
-      "show": "더 쇼",
-      "label": "",
-      "setlist": [
-        "g3s2"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e21",
-      "groupId": "g3",
-      "date": "2026-10-20",
-      "show": "쇼챔피언",
-      "label": "",
-      "setlist": [
-        "g3s1"
-      ],
-      "note": ""
-    }
-  ],
-  "videos": [
-    {
-      "id": "v1",
-      "ytId": "SMPL0000001",
-      "eventId": "e1",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "fan",
-      "tags": [
-        "전체 공연"
-      ],
-      "title": "르니에(LUNIER) - 전체 공연 | 한빛대학교 가을 축제 260912",
-      "channel": "달빛기록",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v2",
-      "ytId": "SMPL0000002",
-      "eventId": "e1",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [],
-      "source": "fan",
-      "tags": [],
-      "title": "260912 르니에 단체 직캠 전체 공연 @한빛대학교 가을 축제",
-      "channel": "stage note",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v3",
-      "ytId": "SMPL0000003",
-      "eventId": "e1",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "fan",
-      "tags": [
-        "세로"
-      ],
-      "title": "260912 르니에 유나 직캠 전체 공연 (LUNIER YUNA FanCam) @한빛대학교 가을 축제",
-      "channel": "오후의 직캠",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v4",
-      "ytId": "SMPL0000004",
-      "eventId": "e1",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2"
-      ],
-      "source": "fan",
-      "tags": [
-        "세로"
-      ],
-      "title": "260912 르니에 도희 직캠 전체 공연 (LUNIER DOHEE FanCam) @한빛대학교 가을 축제",
-      "channel": "hanbit cam",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v5",
-      "ytId": "SMPL0000005",
-      "eventId": "e1",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": "fan",
-      "tags": [
-        "세로"
-      ],
-      "title": "260912 르니에 세린 직캠 전체 공연 (LUNIER SERIN FanCam) @한빛대학교 가을 축제",
-      "channel": "무대 앞줄",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v6",
-      "ytId": "SMPL0000006",
-      "eventId": "e1",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": "fan",
-      "tags": [
-        "세로"
-      ],
-      "title": "260912 르니에 하온 직캠 전체 공연 (LUNIER HAON FanCam) @한빛대학교 가을 축제",
-      "channel": "달빛기록",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7",
-      "ytId": "SMPL0000007",
-      "eventId": "e2",
-      "songs": [
-        {
-          "songId": "g1s3",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 르니에(LUNIER) - 'Velvet Hour' | 뮤직뱅크 260925",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8",
-      "ytId": "SMPL0000008",
-      "eventId": "e2",
-      "songs": [
-        {
-          "songId": "g1s3",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260925 르니에 단체 직캠 'Velvet Hour' @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v9",
-      "ytId": "SMPL0000009",
-      "eventId": "e2",
-      "songs": [
-        {
-          "songId": "g1s3",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260925 르니에 유나 직캠 'Velvet Hour' (LUNIER YUNA FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v10",
-      "ytId": "SMPL0000010",
-      "eventId": "e2",
-      "songs": [
-        {
-          "songId": "g1s3",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260925 르니에 도희 직캠 'Velvet Hour' (LUNIER DOHEE FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v11",
-      "ytId": "SMPL0000011",
-      "eventId": "e2",
-      "songs": [
-        {
-          "songId": "g1s3",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260925 르니에 세린 직캠 'Velvet Hour' (LUNIER SERIN FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v12",
-      "ytId": "SMPL0000012",
-      "eventId": "e2",
-      "songs": [
-        {
-          "songId": "g1s3",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260925 르니에 하온 직캠 'Velvet Hour' (LUNIER HAON FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v13",
-      "ytId": "SMPL0000013",
-      "eventId": "e2",
-      "songs": [
-        {
-          "songId": "g1s3",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260925 르니에 리아 직캠 'Velvet Hour' (LUNIER RIA FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v14",
-      "ytId": "SMPL0000014",
-      "eventId": "e3",
-      "songs": [
-        {
-          "songId": "g1s3",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "르니에(LUNIER) - 'Velvet Hour' | 인기가요 260927",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v15",
-      "ytId": "SMPL0000015",
-      "eventId": "e3",
-      "songs": [
-        {
-          "songId": "g1s3",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "260927 르니에 유나 직캠 'Velvet Hour' (LUNIER YUNA FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v16",
-      "ytId": "SMPL0000016",
-      "eventId": "e3",
-      "songs": [
-        {
-          "songId": "g1s3",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "260927 르니에 세린 직캠 'Velvet Hour' (LUNIER SERIN FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v17",
-      "ytId": "SMPL0000017",
-      "eventId": "e3",
-      "songs": [
-        {
-          "songId": "g1s3",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "260927 르니에 하온 직캠 'Velvet Hour' (LUNIER HAON FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v18",
-      "ytId": "SMPL0000018",
-      "eventId": "e3",
-      "songs": [
-        {
-          "songId": "g1s3",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "260927 르니에 리아 직캠 'Velvet Hour' (LUNIER RIA FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v19",
-      "ytId": "SMPL0000019",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
+          "order": 6,
+          "active": true,
+          "color": "#c0567e"
         },
         {
-          "songId": "g1s2",
-          "t": 214
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "송출본"
-      ],
-      "title": "르니에(LUNIER) - 'Paper Moon + Static' | 뮤직뱅크 261009",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v20",
-      "ytId": "SMPL0000020",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 르니에(LUNIER) - 'Paper Moon' | 뮤직뱅크 261009",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v21",
-      "ytId": "SMPL0000021",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261009 르니에 단체 직캠 'Paper Moon' @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v22",
-      "ytId": "SMPL0000022",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261009 르니에 유나 직캠 'Paper Moon' (LUNIER YUNA FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v23",
-      "ytId": "SMPL0000023",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "fan",
-      "tags": [
-        "세로"
-      ],
-      "title": "261009 르니에 유나 직캠 'Paper Moon' (LUNIER YUNA FanCam) @뮤직뱅크",
-      "channel": "stage note",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v24",
-      "ytId": "SMPL0000024",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261009 르니에 도희 직캠 'Paper Moon' (LUNIER DOHEE FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v25",
-      "ytId": "SMPL0000025",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261009 르니에 세린 직캠 'Paper Moon' (LUNIER SERIN FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v26",
-      "ytId": "SMPL0000026",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261009 르니에 하온 직캠 'Paper Moon' (LUNIER HAON FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v27",
-      "ytId": "SMPL0000027",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261009 르니에 리아 직캠 'Paper Moon' (LUNIER RIA FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v28",
-      "ytId": "SMPL0000028",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261009 르니에 유나 직캠 'Static' (LUNIER YUNA FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v29",
-      "ytId": "SMPL0000029",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261009 르니에 도희 직캠 'Static' (LUNIER DOHEE FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v30",
-      "ytId": "SMPL0000030",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261009 르니에 세린 직캠 'Static' (LUNIER SERIN FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v31",
-      "ytId": "SMPL0000031",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261009 르니에 하온 직캠 'Static' (LUNIER HAON FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v32",
-      "ytId": "SMPL0000032",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1",
-        "g1m5"
-      ],
-      "source": "fan",
-      "tags": [
-        "세로"
-      ],
-      "title": "261009 르니에 유나·리아 직캠 'Static' (LUNIER YUNA RIA FanCam) @뮤직뱅크",
-      "channel": "오후의 직캠",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v33",
-      "ytId": "SMPL0000033",
-      "eventId": "e5",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "르니에(LUNIER) - 'Paper Moon' | 쇼! 음악중심 261010",
-      "channel": "MBCkpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v34",
-      "ytId": "SMPL0000034",
-      "eventId": "e5",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261010 르니에 유나 직캠 'Paper Moon' (LUNIER YUNA FanCam) @쇼! 음악중심",
-      "channel": "MBCkpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v35",
-      "ytId": "SMPL0000035",
-      "eventId": "e5",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "fan",
-      "tags": [
-        "세로",
-        "4K"
-      ],
-      "title": "[4K] 261010 르니에 유나 직캠 'Paper Moon' (LUNIER YUNA FanCam) @쇼! 음악중심",
-      "channel": "hanbit cam",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v36",
-      "ytId": "SMPL0000036",
-      "eventId": "e5",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261010 르니에 도희 직캠 'Paper Moon' (LUNIER DOHEE FanCam) @쇼! 음악중심",
-      "channel": "MBCkpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v37",
-      "ytId": "SMPL0000037",
-      "eventId": "e5",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2"
-      ],
-      "source": "fan",
-      "tags": [
-        "얼빡"
-      ],
-      "title": "261010 르니에 도희 직캠 'Paper Moon' (LUNIER DOHEE FanCam) @쇼! 음악중심",
-      "channel": "무대 앞줄",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v38",
-      "ytId": "SMPL0000038",
-      "eventId": "e5",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261010 르니에 세린 직캠 'Paper Moon' (LUNIER SERIN FanCam) @쇼! 음악중심",
-      "channel": "MBCkpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v39",
-      "ytId": "SMPL0000039",
-      "eventId": "e5",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261010 르니에 하온 직캠 'Paper Moon' (LUNIER HAON FanCam) @쇼! 음악중심",
-      "channel": "MBCkpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v40",
-      "ytId": "SMPL0000040",
-      "eventId": "e5",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261010 르니에 리아 직캠 'Paper Moon' (LUNIER RIA FanCam) @쇼! 음악중심",
-      "channel": "MBCkpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v41",
-      "ytId": "SMPL0000041",
-      "eventId": "e6",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 르니에(LUNIER) - 'Paper Moon' | 인기가요 261011",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v42",
-      "ytId": "SMPL0000042",
-      "eventId": "e6",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261011 르니에 유나 직캠 'Paper Moon' (LUNIER YUNA FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v43",
-      "ytId": "SMPL0000043",
-      "eventId": "e6",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261011 르니에 도희 직캠 'Paper Moon' (LUNIER DOHEE FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v44",
-      "ytId": "SMPL0000044",
-      "eventId": "e6",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261011 르니에 세린 직캠 'Paper Moon' (LUNIER SERIN FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v45",
-      "ytId": "SMPL0000045",
-      "eventId": "e6",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261011 르니에 리아 직캠 'Paper Moon' (LUNIER RIA FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v46",
-      "ytId": "SMPL0000046",
-      "eventId": "e6",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 르니에(LUNIER) - 'Static' | 인기가요 261011",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v47",
-      "ytId": "SMPL0000047",
-      "eventId": "e6",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261011 르니에 유나 직캠 'Static' (LUNIER YUNA FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v48",
-      "ytId": "SMPL0000048",
-      "eventId": "e6",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261011 르니에 도희 직캠 'Static' (LUNIER DOHEE FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v49",
-      "ytId": "SMPL0000049",
-      "eventId": "e6",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261011 르니에 세린 직캠 'Static' (LUNIER SERIN FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v50",
-      "ytId": "SMPL0000050",
-      "eventId": "e6",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261011 르니에 하온 직캠 'Static' (LUNIER HAON FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v51",
-      "ytId": "SMPL0000051",
-      "eventId": "e6",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261011 르니에 리아 직캠 'Static' (LUNIER RIA FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v52",
-      "ytId": "SMPL0000052",
-      "eventId": "e7",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "르니에(LUNIER) - 'Paper Moon' | 더 쇼 261013",
-      "channel": "THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v53",
-      "ytId": "SMPL0000053",
-      "eventId": "e7",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "261013 르니에 단체 직캠 'Paper Moon' @더 쇼",
-      "channel": "THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v54",
-      "ytId": "SMPL0000054",
-      "eventId": "e7",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261013 르니에 유나 직캠 'Paper Moon' (LUNIER YUNA FanCam) @더 쇼",
-      "channel": "THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v55",
-      "ytId": "SMPL0000055",
-      "eventId": "e7",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261013 르니에 도희 직캠 'Paper Moon' (LUNIER DOHEE FanCam) @더 쇼",
-      "channel": "THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v56",
-      "ytId": "SMPL0000056",
-      "eventId": "e7",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261013 르니에 세린 직캠 'Paper Moon' (LUNIER SERIN FanCam) @더 쇼",
-      "channel": "THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v57",
-      "ytId": "SMPL0000057",
-      "eventId": "e7",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261013 르니에 하온 직캠 'Paper Moon' (LUNIER HAON FanCam) @더 쇼",
-      "channel": "THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v58",
-      "ytId": "SMPL0000058",
-      "eventId": "e7",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261013 르니에 리아 직캠 'Paper Moon' (LUNIER RIA FanCam) @더 쇼",
-      "channel": "THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v59",
-      "ytId": "SMPL0000059",
-      "eventId": "e8",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 르니에(LUNIER) - 'Paper Moon' | 엠카운트다운 261015",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v60",
-      "ytId": "SMPL0000060",
-      "eventId": "e8",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261015 르니에 유나 직캠 'Paper Moon' (LUNIER YUNA FanCam) @엠카운트다운",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v61",
-      "ytId": "SMPL0000061",
-      "eventId": "e8",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261015 르니에 도희 직캠 'Paper Moon' (LUNIER DOHEE FanCam) @엠카운트다운",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v62",
-      "ytId": "SMPL0000062",
-      "eventId": "e8",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261015 르니에 세린 직캠 'Paper Moon' (LUNIER SERIN FanCam) @엠카운트다운",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v63",
-      "ytId": "SMPL0000063",
-      "eventId": "e8",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": "fan",
-      "tags": [
-        "세로"
-      ],
-      "title": "261015 르니에 세린 직캠 'Paper Moon' (LUNIER SERIN FanCam) @엠카운트다운",
-      "channel": "달빛기록",
-      "pin": false,
-      "gone": true
-    },
-    {
-      "id": "v64",
-      "ytId": "SMPL0000064",
-      "eventId": "e8",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261015 르니에 하온 직캠 'Paper Moon' (LUNIER HAON FanCam) @엠카운트다운",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v65",
-      "ytId": "SMPL0000065",
-      "eventId": "e8",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": "fan",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261015 르니에 하온 직캠 'Paper Moon' (LUNIER HAON FanCam) @엠카운트다운",
-      "channel": "stage note",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v66",
-      "ytId": "SMPL0000066",
-      "eventId": "e9",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "르니에(LUNIER) - 'Paper Moon' | 쇼! 음악중심 261017",
-      "channel": "MBCkpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v67",
-      "ytId": "SMPL0000067",
-      "eventId": "e9",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261017 르니에 유나 직캠 'Paper Moon' (LUNIER YUNA FanCam) @쇼! 음악중심",
-      "channel": "MBCkpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v68",
-      "ytId": "SMPL0000068",
-      "eventId": "e9",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261017 르니에 세린 직캠 'Paper Moon' (LUNIER SERIN FanCam) @쇼! 음악중심",
-      "channel": "MBCkpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v69",
-      "ytId": "SMPL0000069",
-      "eventId": "e10",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "fan",
-      "tags": [
-        "사전녹화"
-      ],
-      "title": "르니에(LUNIER) - 'Paper Moon' | 인기가요 사전녹화 261018",
-      "channel": "오후의 직캠",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v70",
-      "ytId": "SMPL0000070",
-      "eventId": "e10",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "fan",
-      "tags": [
-        "사전녹화",
-        "세로"
-      ],
-      "title": "261018 르니에 유나 직캠 'Paper Moon' (LUNIER YUNA FanCam) @인기가요 사전녹화",
-      "channel": "hanbit cam",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v71",
-      "ytId": "SMPL0000071",
-      "eventId": "e10",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2"
-      ],
-      "source": "fan",
-      "tags": [
-        "사전녹화",
-        "세로"
-      ],
-      "title": "261018 르니에 도희 직캠 'Paper Moon' (LUNIER DOHEE FanCam) @인기가요 사전녹화",
-      "channel": "무대 앞줄",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v72",
-      "ytId": "SMPL0000072",
-      "eventId": "e11",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 르니에(LUNIER) - 'Paper Moon' | 인기가요 261018",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v73",
-      "ytId": "SMPL0000073",
-      "eventId": "e11",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261018 르니에 유나 직캠 'Paper Moon' (LUNIER YUNA FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v74",
-      "ytId": "SMPL0000074",
-      "eventId": "e11",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261018 르니에 도희 직캠 'Paper Moon' (LUNIER DOHEE FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v75",
-      "ytId": "SMPL0000075",
-      "eventId": "e11",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261018 르니에 세린 직캠 'Paper Moon' (LUNIER SERIN FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v76",
-      "ytId": "SMPL0000076",
-      "eventId": "e11",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261018 르니에 하온 직캠 'Paper Moon' (LUNIER HAON FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v77",
-      "ytId": "SMPL0000077",
-      "eventId": "e11",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261018 르니에 리아 직캠 'Paper Moon' (LUNIER RIA FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v78",
-      "ytId": "SMPL0000078",
-      "eventId": "e12",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 르니에(LUNIER) - 'Paper Moon' | 뮤직뱅크 261023",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v79",
-      "ytId": "SMPL0000079",
-      "eventId": "e12",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261023 르니에 유나 직캠 'Paper Moon' (LUNIER YUNA FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v80",
-      "ytId": "SMPL0000080",
-      "eventId": "e12",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "fan",
-      "tags": [
-        "4K",
-        "엔딩"
-      ],
-      "title": "[4K] 261023 르니에 유나 직캠 'Paper Moon' (LUNIER YUNA FanCam) @뮤직뱅크",
-      "channel": "달빛기록",
-      "pin": true,
-      "gone": false
-    },
-    {
-      "id": "v81",
-      "ytId": "SMPL0000081",
-      "eventId": "e12",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261023 르니에 도희 직캠 'Paper Moon' (LUNIER DOHEE FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v82",
-      "ytId": "SMPL0000082",
-      "eventId": "e12",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261023 르니에 세린 직캠 'Paper Moon' (LUNIER SERIN FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v83",
-      "ytId": "SMPL0000083",
-      "eventId": "e12",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261023 르니에 하온 직캠 'Paper Moon' (LUNIER HAON FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v84",
-      "ytId": "SMPL0000084",
-      "eventId": "e12",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261023 르니에 리아 직캠 'Paper Moon' (LUNIER RIA FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v85",
-      "ytId": "SMPL0000085",
-      "eventId": "e12",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2",
-        "g1m3"
-      ],
-      "source": "fan",
-      "tags": [],
-      "title": "261023 르니에 도희·세린 직캠 'Paper Moon' (LUNIER DOHEE SERIN FanCam) @뮤직뱅크",
-      "channel": "stage note",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v86",
-      "ytId": "SMPL0000086",
-      "eventId": "e12",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 르니에(LUNIER) - 'Static' | 뮤직뱅크 261023",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v87",
-      "ytId": "SMPL0000087",
-      "eventId": "e12",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261023 르니에 단체 직캠 'Static' @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v88",
-      "ytId": "SMPL0000088",
-      "eventId": "e12",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261023 르니에 유나 직캠 'Static' (LUNIER YUNA FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v89",
-      "ytId": "SMPL0000089",
-      "eventId": "e12",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261023 르니에 도희 직캠 'Static' (LUNIER DOHEE FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v90",
-      "ytId": "SMPL0000090",
-      "eventId": "e12",
-      "songs": [
-        {
-          "songId": "g1s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261023 르니에 하온 직캠 'Static' (LUNIER HAON FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v91",
-      "ytId": "SMPL0000091",
-      "eventId": "e13",
-      "songs": [
-        {
-          "songId": "g2s2",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "하이디어(HIDEAR) - 'Ripple' | 엠카운트다운 260821",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v92",
-      "ytId": "SMPL0000092",
-      "eventId": "e13",
-      "songs": [
-        {
-          "songId": "g2s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m1"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "260821 하이디어 채이 직캠 'Ripple' (HIDEAR CHAEI FanCam) @엠카운트다운",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v93",
-      "ytId": "SMPL0000093",
-      "eventId": "e13",
-      "songs": [
-        {
-          "songId": "g2s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m2"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "260821 하이디어 소율 직캠 'Ripple' (HIDEAR SOYUL FanCam) @엠카운트다운",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v94",
-      "ytId": "SMPL0000094",
-      "eventId": "e13",
-      "songs": [
-        {
-          "songId": "g2s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m3"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "260821 하이디어 나린 직캠 'Ripple' (HIDEAR NARIN FanCam) @엠카운트다운",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v95",
-      "ytId": "SMPL0000095",
-      "eventId": "e13",
-      "songs": [
-        {
-          "songId": "g2s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m4"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "260821 하이디어 미오 직캠 'Ripple' (HIDEAR MIO FanCam) @엠카운트다운",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v96",
-      "ytId": "SMPL0000096",
-      "eventId": "e13",
-      "songs": [
-        {
-          "songId": "g2s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m6"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "260821 하이디어 하린 직캠 'Ripple' (HIDEAR HARIN FanCam) @엠카운트다운",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v97",
-      "ytId": "SMPL0000097",
-      "eventId": "e14",
-      "songs": [
-        {
-          "songId": "g2s2",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 하이디어(HIDEAR) - 'Ripple' | 인기가요 260823",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v98",
-      "ytId": "SMPL0000098",
-      "eventId": "e14",
-      "songs": [
-        {
-          "songId": "g2s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260823 하이디어 단체 직캠 'Ripple' @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v99",
-      "ytId": "SMPL0000099",
-      "eventId": "e14",
-      "songs": [
-        {
-          "songId": "g2s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m1"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260823 하이디어 채이 직캠 'Ripple' (HIDEAR CHAEI FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v100",
-      "ytId": "SMPL0000100",
-      "eventId": "e14",
-      "songs": [
-        {
-          "songId": "g2s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m3"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260823 하이디어 나린 직캠 'Ripple' (HIDEAR NARIN FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v101",
-      "ytId": "SMPL0000101",
-      "eventId": "e14",
-      "songs": [
-        {
-          "songId": "g2s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m5"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260823 하이디어 예서 직캠 'Ripple' (HIDEAR YESEO FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v102",
-      "ytId": "SMPL0000102",
-      "eventId": "e14",
-      "songs": [
-        {
-          "songId": "g2s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m6"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260823 하이디어 하린 직캠 'Ripple' (HIDEAR HARIN FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v103",
-      "ytId": "SMPL0000103",
-      "eventId": "e15",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 하이디어(HIDEAR) - 'Sunroom' | 뮤직뱅크 261002",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v104",
-      "ytId": "SMPL0000104",
-      "eventId": "e15",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m1"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261002 하이디어 채이 직캠 'Sunroom' (HIDEAR CHAEI FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v105",
-      "ytId": "SMPL0000105",
-      "eventId": "e15",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m2"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261002 하이디어 소율 직캠 'Sunroom' (HIDEAR SOYUL FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v106",
-      "ytId": "SMPL0000106",
-      "eventId": "e15",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m3"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261002 하이디어 나린 직캠 'Sunroom' (HIDEAR NARIN FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v107",
-      "ytId": "SMPL0000107",
-      "eventId": "e15",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m4"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261002 하이디어 미오 직캠 'Sunroom' (HIDEAR MIO FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v108",
-      "ytId": "SMPL0000108",
-      "eventId": "e15",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m5"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261002 하이디어 예서 직캠 'Sunroom' (HIDEAR YESEO FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v109",
-      "ytId": "SMPL0000109",
-      "eventId": "e16",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "하이디어(HIDEAR) - 'Sunroom' | 인기가요 261004",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v110",
-      "ytId": "SMPL0000110",
-      "eventId": "e16",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m1"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261004 하이디어 채이 직캠 'Sunroom' (HIDEAR CHAEI FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v111",
-      "ytId": "SMPL0000111",
-      "eventId": "e16",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m2"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261004 하이디어 소율 직캠 'Sunroom' (HIDEAR SOYUL FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v112",
-      "ytId": "SMPL0000112",
-      "eventId": "e16",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m4"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261004 하이디어 미오 직캠 'Sunroom' (HIDEAR MIO FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v113",
-      "ytId": "SMPL0000113",
-      "eventId": "e16",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m5"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261004 하이디어 예서 직캠 'Sunroom' (HIDEAR YESEO FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v114",
-      "ytId": "SMPL0000114",
-      "eventId": "e16",
-      "songs": [
-        {
-          "songId": "g2s3",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "하이디어(HIDEAR) - '별 지도' | 인기가요 261004",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v115",
-      "ytId": "SMPL0000115",
-      "eventId": "e16",
-      "songs": [
-        {
-          "songId": "g2s3",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m2"
-      ],
-      "source": "fan",
-      "tags": [
-        "세로"
-      ],
-      "title": "261004 하이디어 소율 직캠 '별 지도' (HIDEAR SOYUL FanCam) @인기가요",
-      "channel": "오후의 직캠",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v116",
-      "ytId": "SMPL0000116",
-      "eventId": "e16",
-      "songs": [
-        {
-          "songId": "g2s3",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m3"
-      ],
-      "source": "fan",
-      "tags": [
-        "세로"
-      ],
-      "title": "261004 하이디어 나린 직캠 '별 지도' (HIDEAR NARIN FanCam) @인기가요",
-      "channel": "hanbit cam",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v117",
-      "ytId": "SMPL0000117",
-      "eventId": "e16",
-      "songs": [
-        {
-          "songId": "g2s3",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m1",
-        "g2m4"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261004 하이디어 채이·미오 직캠 '별 지도' (HIDEAR CHAEI MIO FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v118",
-      "ytId": "SMPL0000118",
-      "eventId": "e17",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 하이디어(HIDEAR) - 'Sunroom' | 뮤직뱅크 261016",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v119",
-      "ytId": "SMPL0000119",
-      "eventId": "e17",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m1"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261016 하이디어 채이 직캠 'Sunroom' (HIDEAR CHAEI FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v120",
-      "ytId": "SMPL0000120",
-      "eventId": "e17",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m2"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261016 하이디어 소율 직캠 'Sunroom' (HIDEAR SOYUL FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v121",
-      "ytId": "SMPL0000121",
-      "eventId": "e17",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m3"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261016 하이디어 나린 직캠 'Sunroom' (HIDEAR NARIN FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v122",
-      "ytId": "SMPL0000122",
-      "eventId": "e17",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m3"
-      ],
-      "source": "fan",
-      "tags": [
-        "얼빡"
-      ],
-      "title": "261016 하이디어 나린 직캠 'Sunroom' (HIDEAR NARIN FanCam) @뮤직뱅크",
-      "channel": "무대 앞줄",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v123",
-      "ytId": "SMPL0000123",
-      "eventId": "e17",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m4"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261016 하이디어 미오 직캠 'Sunroom' (HIDEAR MIO FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v124",
-      "ytId": "SMPL0000124",
-      "eventId": "e17",
-      "songs": [
-        {
-          "songId": "g2s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m5"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261016 하이디어 예서 직캠 'Sunroom' (HIDEAR YESEO FanCam) @뮤직뱅크",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v125",
-      "ytId": "SMPL0000125",
-      "eventId": "e18",
-      "songs": [
-        {
-          "songId": "g3s1",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "모노키(MONOKI) - 'Tin Heart' | 쇼챔피언 260910",
-      "channel": "ALL THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v126",
-      "ytId": "SMPL0000126",
-      "eventId": "e18",
-      "songs": [
-        {
-          "songId": "g3s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m1"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "260910 모노키 지안 직캠 'Tin Heart' (MONOKI JIAN FanCam) @쇼챔피언",
-      "channel": "ALL THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v127",
-      "ytId": "SMPL0000127",
-      "eventId": "e18",
-      "songs": [
-        {
-          "songId": "g3s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m2"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "260910 모노키 루아 직캠 'Tin Heart' (MONOKI RUA FanCam) @쇼챔피언",
-      "channel": "ALL THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v128",
-      "ytId": "SMPL0000128",
-      "eventId": "e18",
-      "songs": [
-        {
-          "songId": "g3s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m3"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "260910 모노키 다은 직캠 'Tin Heart' (MONOKI DAEUN FanCam) @쇼챔피언",
-      "channel": "ALL THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v129",
-      "ytId": "SMPL0000129",
-      "eventId": "e18",
-      "songs": [
-        {
-          "songId": "g3s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m4"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "260910 모노키 시아 직캠 'Tin Heart' (MONOKI SIA FanCam) @쇼챔피언",
-      "channel": "ALL THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v130",
-      "ytId": "SMPL0000130",
-      "eventId": "e19",
-      "songs": [
-        {
-          "songId": "g3s1",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 모노키(MONOKI) - 'Tin Heart' | 인기가요 260913",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v131",
-      "ytId": "SMPL0000131",
-      "eventId": "e19",
-      "songs": [
-        {
-          "songId": "g3s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m1"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260913 모노키 지안 직캠 'Tin Heart' (MONOKI JIAN FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v132",
-      "ytId": "SMPL0000132",
-      "eventId": "e19",
-      "songs": [
-        {
-          "songId": "g3s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m2"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260913 모노키 루아 직캠 'Tin Heart' (MONOKI RUA FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v133",
-      "ytId": "SMPL0000133",
-      "eventId": "e19",
-      "songs": [
-        {
-          "songId": "g3s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m4"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260913 모노키 시아 직캠 'Tin Heart' (MONOKI SIA FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v134",
-      "ytId": "SMPL0000134",
-      "eventId": "e19",
-      "songs": [
-        {
-          "songId": "g3s2",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 모노키(MONOKI) - 'Daydream Bus' | 인기가요 260913",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v135",
-      "ytId": "SMPL0000135",
-      "eventId": "e19",
-      "songs": [
-        {
-          "songId": "g3s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m1"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260913 모노키 지안 직캠 'Daydream Bus' (MONOKI JIAN FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v136",
-      "ytId": "SMPL0000136",
-      "eventId": "e19",
-      "songs": [
-        {
-          "songId": "g3s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m2"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260913 모노키 루아 직캠 'Daydream Bus' (MONOKI RUA FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v137",
-      "ytId": "SMPL0000137",
-      "eventId": "e19",
-      "songs": [
-        {
-          "songId": "g3s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m3"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260913 모노키 다은 직캠 'Daydream Bus' (MONOKI DAEUN FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v138",
-      "ytId": "SMPL0000138",
-      "eventId": "e19",
-      "songs": [
-        {
-          "songId": "g3s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m4"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260913 모노키 시아 직캠 'Daydream Bus' (MONOKI SIA FanCam) @인기가요",
-      "channel": "SBS KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v139",
-      "ytId": "SMPL0000139",
-      "eventId": "e20",
-      "songs": [
-        {
-          "songId": "g3s2",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "모노키(MONOKI) - 'Daydream Bus' | 더 쇼 261001",
-      "channel": "THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v140",
-      "ytId": "SMPL0000140",
-      "eventId": "e20",
-      "songs": [
-        {
-          "songId": "g3s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [],
-      "source": "fan",
-      "tags": [
-        "세로"
-      ],
-      "title": "261001 모노키 단체 직캠 'Daydream Bus' @더 쇼",
-      "channel": "달빛기록",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v141",
-      "ytId": "SMPL0000141",
-      "eventId": "e20",
-      "songs": [
-        {
-          "songId": "g3s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m1"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261001 모노키 지안 직캠 'Daydream Bus' (MONOKI JIAN FanCam) @더 쇼",
-      "channel": "THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v142",
-      "ytId": "SMPL0000142",
-      "eventId": "e20",
-      "songs": [
-        {
-          "songId": "g3s2",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m3"
-      ],
-      "source": "official",
-      "tags": [],
-      "title": "261001 모노키 다은 직캠 'Daydream Bus' (MONOKI DAEUN FanCam) @더 쇼",
-      "channel": "THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v143",
-      "ytId": "SMPL0000143",
-      "eventId": "e21",
-      "songs": [
-        {
-          "songId": "g3s1",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 모노키(MONOKI) - 'Tin Heart' | 쇼챔피언 261020",
-      "channel": "ALL THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v144",
-      "ytId": "SMPL0000144",
-      "eventId": "e21",
-      "songs": [
-        {
-          "songId": "g3s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m1"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261020 모노키 지안 직캠 'Tin Heart' (MONOKI JIAN FanCam) @쇼챔피언",
-      "channel": "ALL THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v145",
-      "ytId": "SMPL0000145",
-      "eventId": "e21",
-      "songs": [
-        {
-          "songId": "g3s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m2"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261020 모노키 루아 직캠 'Tin Heart' (MONOKI RUA FanCam) @쇼챔피언",
-      "channel": "ALL THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v146",
-      "ytId": "SMPL0000146",
-      "eventId": "e21",
-      "songs": [
-        {
-          "songId": "g3s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m3"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261020 모노키 다은 직캠 'Tin Heart' (MONOKI DAEUN FanCam) @쇼챔피언",
-      "channel": "ALL THE K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v147",
-      "ytId": "SMPL0000147",
-      "eventId": "e21",
-      "songs": [
-        {
-          "songId": "g3s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m4"
-      ],
-      "source": "official",
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261020 모노키 시아 직캠 'Tin Heart' (MONOKI SIA FanCam) @쇼챔피언",
-      "channel": "ALL THE K-POP",
-      "pin": false,
-      "gone": false
+          "id": "g7m7",
+          "name": "이안",
+          "aliases": [
+            "IAN",
+            "Ian",
+            "정이안"
+          ],
+          "order": 7,
+          "active": true,
+          "color": "#4f8a3c"
+        },
+        {
+          "id": "g7m8",
+          "name": "예온",
+          "aliases": [
+            "YEON",
+            "Yeon",
+            "YE-ON",
+            "Ye-on",
+            "김나연"
+          ],
+          "order": 8,
+          "active": true,
+          "color": "#7a6a58"
+        }
+      ],
+      "songs": []
     }
   ],
-  "clips": [
-    {
-      "id": "c1",
-      "file": "clips/c1.webp",
-      "poster": "clips/posters/c1.jpg",
-      "videoId": "v80",
-      "t": 42,
-      "end": 48,
-      "eventId": null,
-      "songId": null,
-      "memberIds": [],
-      "note": "엔딩 손하트"
-    },
-    {
-      "id": "c2",
-      "file": "clips/c2.webp",
-      "poster": "clips/posters/c2.jpg",
-      "videoId": "v80",
-      "t": 95,
-      "end": 99,
-      "eventId": null,
-      "songId": null,
-      "memberIds": [],
-      "note": "킬링파트 윙크"
-    },
-    {
-      "id": "c3",
-      "file": "clips/c3.gif",
-      "poster": "clips/posters/c3.jpg",
-      "videoId": "v29",
-      "t": 61,
-      "end": 66,
-      "eventId": null,
-      "songId": null,
-      "memberIds": [],
-      "note": "하이라이트 턴"
-    },
-    {
-      "id": "c4",
-      "file": "clips/c4.mp4",
-      "poster": "clips/posters/c4.jpg",
-      "videoId": "v33",
-      "t": 120,
-      "end": 126,
-      "eventId": null,
-      "songId": null,
-      "memberIds": [],
-      "note": "단체 웨이브 안무"
-    },
-    {
-      "id": "c5",
-      "file": "clips/c5.webp",
-      "poster": "clips/posters/c5.jpg",
-      "videoId": null,
-      "t": null,
-      "end": null,
-      "eventId": "e12",
-      "songId": "g1s1",
-      "memberIds": [
-        "g1m3"
-      ],
-      "note": "엔딩 요정 (원본 영상 없음)"
-    },
-    {
-      "id": "c6",
-      "file": "clips/c6.webp",
-      "poster": "clips/posters/c6.jpg",
-      "videoId": "v56",
-      "t": 30,
-      "end": 35,
-      "eventId": null,
-      "songId": null,
-      "memberIds": [],
-      "note": "도입부 시선 처리"
-    },
-    {
-      "id": "c7",
-      "file": "clips/c7.webp",
-      "poster": "clips/posters/c7.jpg",
-      "videoId": "v121",
-      "t": 77,
-      "end": 82,
-      "eventId": null,
-      "songId": null,
-      "memberIds": [],
-      "note": "브릿지 손동작"
-    }
-  ]
+  "events": [],
+  "videos": [],
+  "clips": []
 }
