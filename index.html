@@ -37,6 +37,14 @@
   <main id="main" tabindex="-1"></main>
   <div id="overlay-root"></div>
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <noscript><p style="padding:24px">이 사이트는 자바스크립트가 필요해요.</p></noscript>
+  <script>
+    // file://로 열면 모듈 스크립트와 데이터 읽기가 막힌다. 해결 방법을 바로 보여 준다.
+    if (location.protocol === 'file:') {
+      document.getElementById('main').innerHTML = '<div class="state" role="alert"><h2>파일을 직접 열어서 데이터를 못 읽었어요</h2>'
+        + '<p>브라우저는 <code>file://</code>로 연 페이지에서 모듈 스크립트와 <code>data/videos.json</code>을 읽지 못하게 막아요. 저장소 폴더에서 <code>python3 -m http.server</code>를 실행하고 <code>http://localhost:8000</code>으로 여세요.</p></div>';
+    }
+  </script>
   <script type="module" src="app.js"></script>
 </body>
 </html>

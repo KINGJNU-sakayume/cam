@@ -32,9 +32,49 @@ export function syntaxPos(text, message) {
   const lc = /line (\d+) column (\d+)/.exec(message);
   if (lc) return { line: +lc[1], col: +lc[2] };
   const m = /position (\d+)/.exec(message);
-  if (!m) return {};
-  const before = text.slice(0, +m[1]).split('\n');
+  const pos = m ? +m[1] : jsonErrorOffset(text);
+  if (pos == null) return {};
+  const before = text.slice(0, pos).split('\n');
   return { line: before.length, col: before[before.length - 1].length + 1 };
+}
+
+// 브라우저 메시지에 위치가 없을 때: 처음으로 문법이 깨지는 글자 위치를 직접 찾는다
+export function jsonErrorOffset(t) {
+  let i = 0;
+  const ws = () => { while (i < t.length && ' \t\n\r'.includes(t[i])) i++; };
+  const fail = () => { throw i; };
+  const lit = (w) => { if (t.startsWith(w, i)) i += w.length; else fail(); };
+  const str = () => {
+    i++;
+    while (i < t.length && t[i] !== '"') {
+      if (t[i] === '\\') i++;
+      else if (t.charCodeAt(i) < 0x20) fail();
+      i++;
+    }
+    if (i >= t.length) fail();
+    i++;
+  };
+  const num = () => { const m = /^-?(0|[1-9]\d*)(\.\d+)?([eE][+-]?\d+)?/.exec(t.slice(i)); if (!m) fail(); i += m[0].length; };
+  const val = () => {
+    ws();
+    const c = t[i];
+    if (c === '{') {
+      i++; ws();
+      if (t[i] === '}') { i++; return; }
+      for (;;) { ws(); if (t[i] !== '"') fail(); str(); ws(); if (t[i] !== ':') fail(); i++; val(); ws(); if (t[i] === ',') { i++; continue; } if (t[i] === '}') { i++; return; } fail(); }
+    }
+    if (c === '[') {
+      i++; ws();
+      if (t[i] === ']') { i++; return; }
+      for (;;) { val(); ws(); if (t[i] === ',') { i++; continue; } if (t[i] === ']') { i++; return; } fail(); }
+    }
+    if (c === '"') return str();
+    if (c === 't') return lit('true');
+    if (c === 'f') return lit('false');
+    if (c === 'n') return lit('null');
+    return num();
+  };
+  try { val(); ws(); if (i < t.length) fail(); return null; } catch (pos) { return typeof pos === 'number' ? pos : null; }
 }
 
 // ?stress=1: 첫 그룹 공연을 날짜를 옮겨 복제해 영상 2,000개·공연 300개·움짤 300개 수준으로 부풀린다
