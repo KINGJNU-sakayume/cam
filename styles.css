@@ -504,7 +504,7 @@ a.d-big:hover { text-decoration: none; color: var(--accent-ink); }
 }
 
 /* ---------- 관리 화면 ---------- */
-.adm main { max-width: 1240px; }
+.adm main, .adm .topbar-row { max-width: 1240px; }
 .adm-tabs { display: flex; gap: 6px; overflow-x: auto; padding: 0 24px 10px; max-width: 1240px; margin: 0 auto; }
 @media (max-width: 719px) { .adm-tabs { padding: 0 16px 10px; } }
 .savebtn .count { display: inline-grid; place-items: center; min-width: 20px; height: 20px; padding: 0 6px; border-radius: 999px; background: var(--on-accent); color: var(--accent); font-size: 11.5px; font-family: var(--font-num); }
@@ -536,6 +536,8 @@ textarea.input, .field textarea { min-height: 96px; resize: vertical; font-famil
 .btable td { padding: 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
 .btable tr:last-child td { border-bottom: 0; }
 .btable .bthumb { width: 96px; border-radius: 6px; aspect-ratio: 16 / 9; object-fit: cover; background: var(--soft); }
+.btable select { min-width: 88px; }
+.btable select[data-f="songId"] { min-width: 150px; }
 .btable input, .btable select { min-height: 30px; padding: 4px 8px; border-radius: 8px; border: 1px solid var(--line); background: var(--soft-2); width: 100%; font-size: 12.5px; }
 .btable .mchips { display: flex; flex-wrap: wrap; gap: 4px; min-width: 170px; }
 .btable .mchips .chip { height: 24px; padding: 0 8px; font-size: 11.5px; }
@@ -582,3 +584,14 @@ textarea.input, .field textarea { min-height: 96px; resize: vertical; font-famil
 .errlist { font-size: 12.5px; color: var(--danger); display: grid; gap: 2px; max-height: 220px; overflow: auto; font-family: ui-monospace, monospace; }
 .kv { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
 pre.code { background: var(--soft); border-radius: 10px; padding: 10px; overflow: auto; max-height: 260px; font-size: 12px; }
+.ed-grid { display: grid; grid-template-columns: minmax(0, 380px) minmax(0, 1fr); gap: 16px; align-items: start; }
+@media (max-width: 879px) { .ed-grid { grid-template-columns: 1fr; } }
+@media (max-width: 719px) {
+  .adm .brand { order: 1; flex-basis: 100%; }
+  .adm #view-link { order: 2; }
+  .adm .topbar-row .iconbtn { order: 3; margin-left: auto; }
+  .adm #save-btn { order: 4; }
+}
+.crop-stage { width: fit-content; max-width: 100%; }
+.crop-stage img { max-height: 60vh; width: auto; max-width: 100%; }
+#t-vlist { max-height: 320px; overflow-y: auto; }

@@ -37,7 +37,7 @@ function tile(g, m) {
   const h = href({ g: g.id, v: 'member', m: m.id });
   let src, pos = '50% 35%';
   const ph = silhouetteURL({ eventId: latest ? latest.E.id : m.id, kind: 'fancam', order: m.order });
-  if (m.thumb) src = m.thumb;
+  if (m.thumb) { src = m.thumb; pos = posOf(m); }
   else if (latest) { src = thumbSrc(latest.v) || ph; pos = posOf(latest.v); }
   else src = ph;
   return html`<div class="tile">
