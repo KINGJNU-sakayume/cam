@@ -78,7 +78,152 @@
           "color": "#c0567e"
         }
       ],
-      "songs": []
+      "songs": [
+        {
+          "id": "g4s1",
+          "title": "Eleven",
+          "aliases": [
+            "일레븐"
+          ],
+          "order": 1,
+          "release": "2021-12-01"
+        },
+        {
+          "id": "g4s2",
+          "title": "Love Dive",
+          "aliases": [
+            "러브 다이브"
+          ],
+          "order": 2,
+          "release": "2022-04-05"
+        },
+        {
+          "id": "g4s3",
+          "title": "After Like",
+          "aliases": [
+            "애프터 라이크"
+          ],
+          "order": 3,
+          "release": "2022-08-22"
+        },
+        {
+          "id": "g4s4",
+          "title": "Kitsch",
+          "aliases": [
+            "키치"
+          ],
+          "order": 4,
+          "release": "2023-04-10"
+        },
+        {
+          "id": "g4s5",
+          "title": "I Am",
+          "aliases": [
+            "아이 엠"
+          ],
+          "order": 5,
+          "release": "2023-04-10"
+        },
+        {
+          "id": "g4s6",
+          "title": "Either Way",
+          "aliases": [
+            "이더 웨이"
+          ],
+          "order": 6,
+          "release": "2023-10-13"
+        },
+        {
+          "id": "g4s7",
+          "title": "Off the Record",
+          "aliases": [
+            "오프 더 레코드"
+          ],
+          "order": 7,
+          "release": "2023-10-13"
+        },
+        {
+          "id": "g4s8",
+          "title": "Baddie",
+          "aliases": [
+            "배디"
+          ],
+          "order": 8,
+          "release": "2024-04-29"
+        },
+        {
+          "id": "g4s9",
+          "title": "Heya",
+          "aliases": [
+            "해야"
+          ],
+          "order": 9,
+          "release": "2024-04-29"
+        },
+        {
+          "id": "g4s10",
+          "title": "Accendio",
+          "aliases": [
+            "아첸디오"
+          ],
+          "order": 10,
+          "release": ""
+        },
+        {
+          "id": "g4s11",
+          "title": "Rebel Heart",
+          "aliases": [
+            "레벨 하트"
+          ],
+          "order": 11,
+          "release": "2025-02-03"
+        },
+        {
+          "id": "g4s12",
+          "title": "Attitude",
+          "aliases": [
+            "애티튜드"
+          ],
+          "order": 12,
+          "release": "2025-02-03"
+        },
+        {
+          "id": "g4s13",
+          "title": "XOXZ",
+          "aliases": [
+            "엑스오엑스지"
+          ],
+          "order": 13,
+          "release": "2025-08-25"
+        },
+        {
+          "id": "g4s14",
+          "title": "Bang Bang",
+          "aliases": [
+            "뱅뱅"
+          ],
+          "order": 14,
+          "release": "2026-02-23"
+        },
+        {
+          "id": "g4s15",
+          "title": "Blackhole",
+          "aliases": [
+            "블랙홀"
+          ],
+          "order": 15,
+          "release": ""
+        },
+        {
+          "id": "g4s16",
+          "title": "Looks Can Kill",
+          "aliases": [
+            "룩스 캔 킬"
+          ],
+          "order": 16,
+          "release": ""
+        }
+      ]
     },
     {
       "id": "g5",
@@ -166,7 +311,146 @@
           "color": "#4f8a3c"
         }
       ],
-      "songs": []
+      "songs": [
+        {
+          "id": "g5s1",
+          "title": "O.O",
+          "aliases": [
+            "오오"
+          ],
+          "order": 1,
+          "release": "2022-02-22"
+        },
+        {
+          "id": "g5s2",
+          "title": "Dice",
+          "aliases": [
+            "다이스"
+          ],
+          "order": 2,
+          "release": "2022-09-19"
+        },
+        {
+          "id": "g5s3",
+          "title": "Funky Glitter Christmas",
+          "aliases": [
+            "펑키 글리터 크리스마스"
+          ],
+          "order": 3,
+          "release": "2022-11-23"
+        },
+        {
+          "id": "g5s4",
+          "title": "Young, Dumb, Stupid",
+          "aliases": [
+            "영 덤 스튜핏"
+          ],
+          "order": 4,
+          "release": "2023-03-20"
+        },
+        {
+          "id": "g5s5",
+          "title": "Love Me Like This",
+          "aliases": [
+            "러브 미 라이크 디스"
+          ],
+          "order": 5,
+          "release": "2023-03-20"
+        },
+        {
+          "id": "g5s6",
+          "title": "Roller Coaster",
+          "aliases": [
+            "롤러코스터"
+          ],
+          "order": 6,
+          "release": "2023-07-11"
+        },
+        {
+          "id": "g5s7",
+          "title": "Party O'Clock",
+          "aliases": [
+            "파티 어클락"
+          ],
+          "order": 7,
+          "release": "2023-07-11"
+        },
+        {
+          "id": "g5s8",
+          "title": "Soñar (Breaker)",
+          "aliases": [
+            "Soñar",
+            "Breaker",
+            "쏘냘",
+            "브레이커"
+          ],
+          "order": 8,
+          "release": "2024-01-15"
+        },
+        {
+          "id": "g5s9",
+          "title": "Dash",
+          "aliases": [
+            "대시"
+          ],
+          "order": 9,
+          "release": "2024-08-19"
+        },
+        {
+          "id": "g5s10",
+          "title": "See That?",
+          "aliases": [
+            "별별별"
+          ],
+          "order": 10,
+          "release": "2024-08-19"
+        },
+        {
+          "id": "g5s11",
+          "title": "High Horse",
+          "aliases": [
+            "하이 호스"
+          ],
+          "order": 11,
+          "release": "2025-03-17"
+        },
+        {
+          "id": "g5s12",
+          "title": "Know About Me",
+          "aliases": [
+            "노 어바웃 미"
+          ],
+          "order": 12,
+          "release": "2025-03-17"
+        },
+        {
+          "id": "g5s13",
+          "title": "Blue Valentine",
+          "aliases": [
+            "블루 발렌타인"
+          ],
+          "order": 13,
+          "release": "2025-10-13"
+        },
+        {
+          "id": "g5s14",
+          "title": "Heavy Serenade",
+          "aliases": [
+            "헤비 세레나데"
+          ],
+          "order": 14,
+          "release": "2026-05-11"
+        },
+        {
+          "id": "g5s15",
+          "title": "Birthday Wish",
+          "aliases": [
+            "긴 소원"
+          ],
+          "order": 15,
+          "release": "2026-05-11"
+        }
+      ]
     },
     {
       "id": "g6",
@@ -294,7 +578,81 @@
           "color": "#c2553f"
         }
       ],
-      "songs": []
+      "songs": [
+        {
+          "id": "g6s1",
+          "title": "We Go",
+          "aliases": [
+            "위 고"
+          ],
+          "order": 1,
+          "release": "2021-05-17"
+        },
+        {
+          "id": "g6s2",
+          "title": "DM",
+          "aliases": [
+            "디엠"
+          ],
+          "order": 2,
+          "release": "2022-01-17"
+        },
+        {
+          "id": "g6s3",
+          "title": "Stay This Way",
+          "aliases": [
+            "스테이 디스 웨이"
+          ],
+          "order": 3,
+          "release": "2022-06-27"
+        },
+        {
+          "id": "g6s4",
+          "title": "#menow",
+          "aliases": [
+            "Menow",
+            "미나우"
+          ],
+          "order": 4,
+          "release": "2023-06-05"
+        },
+        {
+          "id": "g6s5",
+          "title": "Supersonic",
+          "aliases": [
+            "슈퍼소닉"
+          ],
+          "order": 5,
+          "release": "2024-08-12"
+        },
+        {
+          "id": "g6s6",
+          "title": "Like You Better",
+          "aliases": [
+            "라이크 유 베터"
+          ],
+          "order": 6,
+          "release": "2025-06-25"
+        },
+        {
+          "id": "g6s7",
+          "title": "White Memories",
+          "aliases": [
+            "하얀 그리움"
+          ],
+          "order": 7,
+          "release": ""
+        },
+        {
+          "id": "g6s8",
+          "title": "Vitamin Me",
+          "aliases": [
+            "비타민 미"
+          ],
+          "order": 8,
+          "release": ""
+        }
+      ]
     },
     {
       "id": "g7",
@@ -403,7 +761,162 @@
           "color": "#7a6a58"
         }
       ],
-      "songs": []
+      "songs": [
+        {
+          "id": "g7s1",
+          "title": "The Chase",
+          "aliases": [
+            "더 체이스"
+          ],
+          "order": 1,
+          "release": "2025-02-24"
+        },
+        {
+          "id": "g7s2",
+          "title": "Butterflies",
+          "aliases": [
+            "버터플라이즈"
+          ],
+          "order": 2,
+          "release": "2025-02-24"
+        },
+        {
+          "id": "g7s3",
+          "title": "Style",
+          "aliases": [
+            "스타일"
+          ],
+          "order": 3,
+          "release": "2025-06-18"
+        },
+        {
+          "id": "g7s4",
+          "title": "Pretty Please",
+          "aliases": [
+            "프리티 플리즈"
+          ],
+          "order": 4,
+          "release": ""
+        },
+        {
+          "id": "g7s5",
+          "title": "Focus",
+          "aliases": [
+            "포커스"
+          ],
+          "order": 5,
+          "release": "2025-10-20"
+        },
+        {
+          "id": "g7s6",
+          "title": "Apple Pie",
+          "aliases": [
+            "애플 파이"
+          ],
+          "order": 6,
+          "release": "2025-10-20"
+        },
+        {
+          "id": "g7s7",
+          "title": "Flutter",
+          "aliases": [
+            "플러터"
+          ],
+          "order": 7,
+          "release": "2025-10-20"
+        },
+        {
+          "id": "g7s8",
+          "title": "Blue Moon",
+          "aliases": [
+            "블루 문"
+          ],
+          "order": 8,
+          "release": "2025-10-20"
+        },
+        {
+          "id": "g7s9",
+          "title": "RUDE!",
+          "aliases": [
+            "루드"
+          ],
+          "order": 9,
+          "release": "2026-02-20"
+        },
+        {
+          "id": "g7s10",
+          "title": "Lemon Tang",
+          "aliases": [
+            "레몬 탱"
+          ],
+          "order": 10,
+          "release": "2026-06-22"
+        },
+        {
+          "id": "g7s11",
+          "title": "15-Love",
+          "aliases": [
+            "15 Love",
+            "피프틴 러브"
+          ],
+          "order": 11,
+          "release": "2026-06-22"
+        },
+        {
+          "id": "g7s12",
+          "title": "Baby Steps",
+          "aliases": [
+            "베이비 스텝스"
+          ],
+          "order": 12,
+          "release": "2026-06-22"
+        },
+        {
+          "id": "g7s13",
+          "title": "Heart Emoji",
+          "aliases": [
+            "하트 이모지"
+          ],
+          "order": 13,
+          "release": "2026-06-22"
+        },
+        {
+          "id": "g7s14",
+          "title": "Secret Recipe",
+          "aliases": [
+            "시크릿 레시피"
+          ],
+          "order": 14,
+          "release": "2026-06-22"
+        },
+        {
+          "id": "g7s15",
+          "title": "Iconic Heart",
+          "aliases": [
+            "아이코닉 하트"
+          ],
+          "order": 15,
+          "release": ""
+        },
+        {
+          "id": "g7s16",
+          "title": "Moonride",
+          "aliases": [
+            "문라이드"
+          ],
+          "order": 16,
+          "release": ""
+        },
+        {
+          "id": "g7s17",
+          "title": "Next Chapter",
+          "aliases": [
+            "넥스트 챕터"
+          ],
+          "order": 17,
+          "release": ""
+        }
+      ]
     }
   ],
   "events": [],
