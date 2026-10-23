@@ -46,6 +46,30 @@ python3 -m http.server 8000
 
 ---
 
+## Claude에게 부탁해서 담기
+
+관리 화면을 직접 쓰지 않고 Claude Code(웹·앱·터미널)에서 이 저장소를 열고 말로 부탁해도 돼요.
+
+> 르니에 10월 30일 엠카 직캠이야. 유나, 도희, 마지막은 단체. 곡은 Paper Moon. (링크 3개)
+> 세린 10.15 팬캠 지워졌대. 삭제됨으로 표시해 줘.
+> 이 움짤 넣어 줘. 유나 10.23 Paper Moon 0:42부터 엔딩 손하트. (파일 첨부)
+
+Claude는 다음 순서로 일해요.
+
+1. `CLAUDE.md`를 읽고, 부탁 종류에 맞는 스킬을 골라요:
+   - `.claude/skills/add-videos`: 영상 담기
+   - `.claude/skills/add-clips`: 움짤 담기
+   - `.claude/skills/edit-archive`: 고치기·지우기·그룹/멤버/곡·샘플 정리
+2. `data/videos.json`을 손으로 고치지 않고 `node scripts/archive.mjs`로 바꿔요. 이 도구는 관리 화면과 같은 해석·검증 규칙을 쓰고, 검증에 실패하면 아무것도 쓰지 않아요.
+3. 먼저 `--dry-run`으로 계획을 보고, 멤버·곡을 정할 수 없거나 새 멤버·그룹이 필요하거나 무언가를 지워야 하면 사용자에게 물어요.
+4. 검증 → 커밋 → PR → `validate` 체크 통과 → merge하면 Pages가 새로 배포해요.
+
+직접 써도 돼요: `node scripts/archive.mjs help` (또는 `npm run archive -- help`).
+
+- 영상 제목·채널은 유튜브 oEmbed로 불러와 멤버·곡을 자동으로 읽어요.
+- 클라우드 환경의 네트워크 설정에서 `www.youtube.com`이 막혀 있으면 제목을 못 불러와요. 이때 Claude는 사용자가 말한 멤버·곡으로 채우거나 사용자에게 물어요.
+- 자동 해석까지 쓰려면 환경 설정의 Network access에 `www.youtube.com`을 허용하세요.
+
 ## 왜 `file://`로 열면 안 되나요
 
 `index.html`을 더블클릭해 `file://`로 열면 브라우저가 보안상 ES 모듈 스크립트와 `fetch('data/videos.json')`를 막아요. 그래서 데이터가 안 보여요(화면에 해결 방법이 떠요). 위처럼 `python3 -m http.server`로 열거나 GitHub Pages 주소로 보세요.
@@ -174,7 +198,8 @@ js/           util·model·data·indexer·router·theme·state·components·plac
 js/views/     lineup·folder·player·clipdetail·song·member·clips·search·states
 js/admin/     store·parse·zip·ui·bulk·edit·roster·thumbs·clips·save·import
 data/videos.json   thumbs/   clips/   clips/posters/
-scripts/      validate.mjs  make-samples.mjs  check-alive.mjs
+scripts/      validate.mjs  archive.mjs  make-samples.mjs  check-alive.mjs
+CLAUDE.md  .claude/skills/   Claude에게 부탁할 때 읽는 규칙과 절차
 .github/workflows/  validate.yml  check-alive.yml
 ```
 
