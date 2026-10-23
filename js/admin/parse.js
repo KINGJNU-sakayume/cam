@@ -50,12 +50,42 @@ const has = (text, word) => {
   return ns.length >= 4 && w.includes(' ') && text.replace(/\s+/g, '').includes(ns);
 };
 
-// 제목 해석: { date, memberIds, group, songId, type, tags, source }
+// 음악 방송 표기 → 정식 행사명. 두 글자 줄임말은 따로 떨어진 낱말일 때만 인정한다(확인가능 → 인가 오인 방지)
+export const SHOWS = [
+  ['뮤직뱅크', ['뮤직뱅크', 'music bank', 'musicbank', 'kbs music bank'], ['뮤뱅']],
+  ['인기가요', ['인기가요', 'inkigayo', 'sbs inkigayo'], ['인가']],
+  ['쇼! 음악중심', ['쇼! 음악중심', '쇼!음악중심', '쇼 음악중심', '음악중심', 'music core', 'show! music core', 'show!music core'], ['음중']],
+  ['엠카운트다운', ['엠카운트다운', 'm countdown', 'mcountdown', 'm!countdown', 'm count down'], ['엠카']],
+  ['더 쇼', ['더 쇼', 'the show', 'sbs fil the show'], ['더쇼']],
+  ['쇼챔피언', ['쇼챔피언', 'show champion', 'showchampion'], ['쇼챔']],
+];
+const TOKEN_SPLIT = /[\s@|[\](){}'"‘’“”·,_\-/:#<>【】「」]+/;
+
+// 제목에서 행사명: 알려진 음악 방송 → "@행사명" 꼴 → null
+export function findShow(title) {
+  const text = lc(title);
+  const tokens = text.split(TOKEN_SPLIT).filter(Boolean);
+  for (const [name, words, shorts] of SHOWS) {
+    if (words.some((w) => has(text, w)) || shorts.some((s) => tokens.some((t) => t === s || /^(직캠|풀캠|사녹)$/.test(t.slice(s.length)) && t.startsWith(s)))) return name;
+  }
+  const m = /@\s*([^|[\]()@]+?)\s*(?:$|[|[\]()@]|\b\d{6}\b|\b\d{8}\b)/.exec(String(title || ''));
+  if (m) {
+    const raw = m[1].replace(/\s+(직캠|fancam|full|풀캠|4k)\b.*$/i, '').trim();
+    if (raw && raw.length <= 40) return raw;
+  }
+  return null;
+}
+
+// 제목 해석: { date, show, label, memberIds, groupCam, songId, songGuess, type, tags, source }
 export function parseTitle(title, group, { channel = '' } = {}) {
   const text = lc(title);
-  const out = { date: null, memberIds: [], groupCam: false, songId: null, type: null, tags: [], source: null };
+  const out = { date: null, show: null, label: null, memberIds: [], groupCam: false, songId: null, songGuess: null, type: null, tags: [], source: null };
   const d = findDate(title);
   if (d) out.date = d.iso;
+  out.show = findShow(title);
+  // 따옴표 안의 곡명 후보('Paper Moon', ‘Static’, "첫 장면")
+  const q = /['‘’"“”]([^'‘’"“”]{1,60})['‘’"“”]/.exec(String(title || ''));
+  if (q) out.songGuess = q[1].trim();
   if (group) {
     for (const m of group.members || []) {
       if ([m.name, ...(m.aliases || [])].some((w) => w && has(text, w))) out.memberIds.push(m.id);
@@ -78,7 +108,7 @@ export function parseTitle(title, group, { channel = '' } = {}) {
   if (/4k|2160p/.test(text)) tags.push('4K');
   if (/얼빡|페이스캠|facecam|face cam/.test(text)) tags.push('얼빡');
   if (/리허설|rehearsal/.test(text)) tags.push('리허설');
-  if (/사녹|사전녹화|pre-?record/.test(text)) tags.push('사전녹화');
+  if (/사녹|사전녹화|pre-?record/.test(text)) { tags.push('사전녹화'); out.label = '사전녹화'; }
   out.tags = tags;
   if (channel && BROADCAST_CHANNELS.some((c) => lc(c) === lc(channel).trim())) out.source = 'official';
   return out;

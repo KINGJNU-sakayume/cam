@@ -89,6 +89,7 @@ function applyAuto(r) {
   if (p.tags.length) set('tags', p.tags);
   r.dateWarn = p.date && st.date && p.date !== st.date ? p.date : null;
   if (p.date && !st.date) { st.date = p.date; st.dateAuto = true; }
+  if (p.show && !st.show) { st.show = p.show; st.showAuto = true; }
 }
 
 function syncRows() {
@@ -189,6 +190,11 @@ function paintTable() {
   }
   const es = host.querySelector('#b-evstatus');
   if (es) es.innerHTML = String(eventStatus());
+  // 제목에서 채운 날짜·행사를 입력칸에도 보여 준다
+  for (const k of ['date', 'show']) {
+    const inp = host.querySelector(`[data-ev="${k}"]`);
+    if (inp && inp !== document.activeElement && inp.value !== st[k]) { inp.value = st[k]; inp.classList.toggle('auto', !!st[`${k}Auto`]); }
+  }
 }
 
 function paintAll() {
@@ -207,7 +213,7 @@ function paintAll() {
       <div class="form-grid">
         <label class="field"><span>그룹</span><select data-ev="gid">${groups.map((x) => html`<option value="${x.id}" ${x.id === g.id ? html`selected` : ''}>${x.name}</option>`)}</select></label>
         <label class="field"><span>날짜</span><input type="date" data-ev="date" value="${st.date}" class="${st.dateAuto ? 'auto' : ''}"></label>
-        <label class="field"><span>행사</span><input data-ev="show" value="${st.show}" list="b-shows" placeholder="뮤직뱅크"><datalist id="b-shows">${shows.map((s) => html`<option value="${s}"></option>`)}</datalist></label>
+        <label class="field"><span>행사</span><input data-ev="show" value="${st.show}" list="b-shows" placeholder="뮤직뱅크" class="${st.showAuto ? 'auto' : ''}"><datalist id="b-shows">${shows.map((s) => html`<option value="${s}"></option>`)}</datalist></label>
         <label class="field"><span>label (선택)</span><input data-ev="label" value="${st.label}" placeholder="사전녹화, 2부…"></label>
         <label class="field wide"><span>의상 메모 (선택)</span><input data-ev="note" value="${st.note}" placeholder="아이보리 셋업"></label>
       </div>
@@ -235,6 +241,7 @@ function bind() {
     if (t.dataset.ev && t.dataset.ev !== 'gid') {
       st[t.dataset.ev] = t.value;
       if (t.dataset.ev === 'date') { st.dateAuto = false; t.classList.remove('auto'); st.rows.forEach(applyAuto); }
+      if (t.dataset.ev === 'show') { st.showAuto = false; t.classList.remove('auto'); }
       const es = host.querySelector('#b-evstatus');
       if (es) es.innerHTML = String(eventStatus());
       return;
