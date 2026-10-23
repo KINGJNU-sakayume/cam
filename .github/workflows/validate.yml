@@ -3,17 +3,28 @@ name: validate
 on:
   push:
   pull_request:
+  workflow_dispatch:
 
 permissions:
   contents: read
 
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   validate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 24
       - name: data/videos.json 검증
         run: node scripts/validate.mjs
+      - name: 스크립트 문법 확인
+        run: |
+          for f in app.js admin.js js/*.js js/views/*.js js/admin/*.js scripts/*.mjs; do
+            node --check "$f"
+          done

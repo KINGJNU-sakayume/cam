@@ -1,0 +1,15 @@
+{
+  "name": "stage-drawer",
+  "private": true,
+  "description": "무대 서랍: 정적 파일만으로 돌아가는 무대 영상 아카이브 (의존성 없음)",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "check-alive": "node scripts/check-alive.mjs",
+    "samples": "node scripts/make-samples.mjs",
+    "serve": "python3 -m http.server 8000"
+  }
+}

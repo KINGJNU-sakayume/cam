@@ -54,6 +54,18 @@ python3 -m http.server 8000
 
 저장소 **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `/ (root)` → Save**. 1~2분 뒤 `https://<사용자명>.github.io/<저장소>/` 에 떠요. 관리 화면은 `…/admin.html`이에요.
 
+## GitHub Actions
+
+워크플로 두 개가 있고 따로 설정할 것은 없어요(의존성·시크릿 없음, Node 24 러너, `actions/checkout@v5`·`actions/setup-node@v5`).
+
+| 워크플로 | 언제 | 하는 일 |
+|---|---|---|
+| `validate` | 모든 push·PR, 수동 실행 | `node scripts/validate.mjs`로 데이터 검증 + 스크립트 문법 확인. 실패하면 커밋 옆에 ✗가 떠요 |
+| `check-alive` | 매주 월요일 12:17(KST), 수동 실행 | 유튜브 영상 생존 확인 → 이슈 하나로 정리(아래 참고). 워크플로 안에서 `issues: write` 권한을 스스로 요청해요 |
+
+- 예약 실행(schedule)과 Actions 탭의 **Run workflow** 버튼은 **기본 브랜치**에 있는 워크플로만 동작해요. Settings → General → Default branch가 `main`인지 확인하세요.
+- 로컬에서도 같은 명령을 쓸 수 있어요: `npm run validate`, `npm run check-alive`, `npm run samples` (`package.json`은 스크립트 단축키뿐이고 설치할 것이 없어요).
+
 ## 공개 범위 주의
 
 - **Pages 사이트는 주소만 알면 누구나 볼 수 있어요.** 비공개 저장소에서 배포해도 사이트는 공개예요(유료 플랜의 Enterprise 비공개 Pages 제외). `admin.html`에는 `noindex`를 달았지만 접근을 막지는 않아요. 관리 화면은 브라우저 안에서만 동작하고 저장은 내 컴퓨터 폴더나 내 토큰으로만 되니 다른 사람이 데이터를 바꿀 수는 없어요.
