@@ -1,7 +1,7 @@
 // 로드할 때 한 번 만드는 색인: 공연 → 곡 → 칸, 멤버·곡별 목록, 검색용 문자열
 import { norm, dateForms, parseDate } from './util.js';
 import {
-  GROUP_KEY, NOSONG, cellKey, repCompare, eventSongOrder, sortedMembers, sortedSongs, memberColor,
+  GROUP_KEY, NOSONG, cellKey, repCompare, eventSongOrder, sortedMembers, sortedSongs, memberColor, stripColor,
 } from './model.js';
 
 export function buildIndex(data) {
@@ -21,7 +21,7 @@ export function buildIndex(data) {
     ix.group.set(g.id, g);
     g._members = sortedMembers(g);
     g._songs = sortedSongs(g);
-    for (const m of g._members) { ix.member.set(m.id, m); m._group = g; m._color = memberColor(g, m); }
+    for (const m of g._members) { ix.member.set(m.id, m); m._group = g; m._color = memberColor(g, m); m._strip = stripColor(m._color); }
     for (const s of g._songs) { ix.song.set(s.id, s); s._group = g; }
     ix.eventsByGroup.set(g.id, []);
     ix.groupStats.set(g.id, { videos: 0, clips: 0, events: 0, tags: new Set(), songs: new Map() });

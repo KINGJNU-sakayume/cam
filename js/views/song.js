@@ -1,5 +1,5 @@
 // 곡 보기: 곡 목록 → 곡 페이지(그 곡만 남은 라인업, 멤버를 고르면 그 멤버의 이 곡 직캠)
-import { html, fmtMD, fmtFull } from '../util.js';
+import { html, fmtMD, fmtDow, fmtFull } from '../util.js';
 import { app, sortEvents, matchVideo, matchClip } from '../state.js';
 import { href } from '../router.js';
 import { lineupHTML } from './lineup.js';
@@ -72,8 +72,9 @@ export function songPageHTML(g, song, member, f, open) {
   const grid = items.length
     ? html`<div class="grid-23 big">${items.map(({ E, v, n, clips }) => videoThumb(v, {
       ratio: '23', songKey: song.id, badges: [...(n > 1 ? [{ text: `+${n - 1}` }] : []), ...(clips.length ? [{ text: '움짤' }] : [])],
+      stripText: `${fmtMD(E.date)} ${fmtDow(E.date)}`,
       label: `${fmtMD(E.date)} ${E.ev.show} ${member.name} 직캠 재생`,
-      caption: html`<div class="l1"><span class="num">${fmtMD(E.date)}</span>${dowPill(E.date)}</div><div class="lm">${E.ev.show}${E.ev.label ? ` ${E.ev.label}` : ''}</div><div class="lm">${srcTags(v)}</div>`,
+      caption: html`<div class="lm" style="color:var(--text);font-weight:700">${E.ev.show}${E.ev.label ? ` ${E.ev.label}` : ''}</div><div class="lm">${srcTags(v)}</div>`,
     }))}</div>`
     : html`<div style="max-width:200px">${emptyCell({ member, g: g.id, s: song.id, label: '이 곡 직캠이 아직 없어요' })}</div>`;
   const memberClips = items.flatMap((x) => x.clips);

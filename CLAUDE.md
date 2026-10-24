@@ -58,7 +58,7 @@
 | `i.ytimg.com` | 유튜브 썸네일 확인·자르기 |
 | `ko.wikipedia.org`, `en.wikipedia.org` | `register-group`: 멤버·영문 표기·곡·발매일 (필수) |
 | `namu.wiki`, `kprofiles.com`, `www.wikidata.org` | `register-group` 보조 자료 |
-| `cdn.jsdelivr.net` | 화면 확인 때 본문 글꼴(없어도 동작은 같음) |
+| `fonts.googleapis.com`, `fonts.gstatic.com` | 화면 확인 때 글꼴(없어도 동작은 같음) |
 
 - **제목을 못 불러올 때:** “제목·채널을 불러오지 못했어요” 경고가 나오면, 사용자가 준 정보로 `date`·`show`·`members`·`song`·`type`을 채워요. 그것도 없으면 사용자에게 물어요.
 - **그룹 자료를 못 읽을 때:** 위키백과가 막혀 있으면 어느 도메인을 허용해야 하는지 알리고, 그동안은 멤버·곡을 사용자에게 물어요.

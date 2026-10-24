@@ -116,7 +116,8 @@ function rowHTML(r) {
   const S = E.sections.get(sel);
   const fs = S ? filteredSection(S, ctx.f) : { full: [], cells: new Map(), clips: [] };
   const open = ctx.open === E.id;
-  return html`<div class="lu-row" id="${`row-${E.id}`}" data-row="${E.id}">
+  return html`<div class="${`lu-row${hasCam(fs) ? '' : ' nocam'}`}" id="${`row-${E.id}`}" data-row="${E.id}">
+    <span class="lu-tab" aria-hidden="true">${fmtMD(E.date)}</span>
     <div class="lu-date">${dateBlock(E, keys, sel, ctx.forceSong)}
       <button type="button" class="linkbtn expand-btn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}">${open ? '접기 ↑' : '이 날 전체 보기 ↓'}</button>
     </div>
@@ -169,14 +170,12 @@ function mobileCard(r) {
     const list = fs.cells.get(m.id) || [];
     if (!list.length) {
       if (app.prefs.hideEmpty) return '';
-      return html`<div class="mthumb">${emptyCell({ member: m, g: E.group.id, e: E.id, s: sel || undefined, label: '없음' })}
-        <div class="nm"><span class="dot" style="${`background:${m._color}`}"></span>${m.name}</div><div class="src">&nbsp;</div></div>`;
+      return html`<div class="mthumb">${emptyCell({ member: m, g: E.group.id, e: E.id, s: sel || undefined, label: '없음' })}<div class="src">&nbsp;</div></div>`;
     }
     const v = list[0];
     const badges = list.length > 1 ? [{ text: `+${list.length - 1}` }] : [];
     if (fs.clips.some((C) => C.key === m.id)) badges.push({ text: '움짤' });
-    return html`<div class="mthumb">${videoThumb(v, { ratio: '23', songKey: sel, badges, label: `${m.name} 직캠 재생` })}
-      <div class="nm"><span class="dot" style="${`background:${m._color}`}"></span>${m.name}</div><div class="src">${srcTags(v)}</div></div>`;
+    return html`<div class="mthumb">${videoThumb(v, { ratio: '23', songKey: sel, badges, label: `${m.name} 직캠 재생` })}<div class="src">${srcTags(v)}</div></div>`;
   });
   return html`<article class="mcard" id="${`row-${E.id}`}" data-row="${E.id}">
     <div class="mcard-head">${dateBlock(E, keys, sel, ctx.forceSong)}</div>
