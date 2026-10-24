@@ -10,14 +10,14 @@ import { spawnSync } from 'node:child_process';
 import { dirname, join, resolve, extname, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { validateData, fileRefs } from '../js/validate-core.js';
-import { extractYt, parseTitle, parseFileName, fetchOEmbed, findDate, sameShow, showKey, excludedReason } from '../js/admin/parse.js';
+import { extractYt, parseTitle, parseFileName, fetchOEmbed, findDate, showKey, showSimilarity, songKey, matchSong, excludedReason, HOST_SHOW, weakShowFits } from '../js/admin/parse.js';
 import { GROUP_KEY, DEFAULT_COLORS, cellKey, isSampleYt } from '../js/model.js';
 import { isRealDate, parseTime, fmtTime, norm, dateForms } from '../js/util.js';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const argv = process.argv.slice(2);
 // --키 값 / --키=값 / --불리언
-const BOOL = new Set(['reorder', 'dry-run', 'no-fetch', 'yes', 'undo', 'cascade', 'json', 'with-empty-event', 'create-songs', 'keep-groups', 'skip-invalid', 'inactive', 'help']);
+const BOOL = new Set(['reorder', 'dry-run', 'no-fetch', 'yes', 'undo', 'cascade', 'json', 'with-empty-event', 'create-songs', 'keep-groups', 'skip-invalid', 'inactive', 'help', 'all', 'fuzzy', 'refetch', 'verbose']);
 const flags = {};
 const pos = [];
 for (let i = 0; i < argv.length; i++) {
@@ -73,8 +73,37 @@ function save(summary) {
     out(`\n(--dry-run) 검증 통과. 실제로는 쓰지 않았어요. ${summary || ''}`);
     return;
   }
-  writeFileSync(DATA, serialize(data));
+  // 여러 작업(서브에이전트)이 동시에 쓰면 나중 것이 앞의 변경을 덮는다. 잠그고, 읽은 뒤 파일이 바뀌었으면 쓰지 않는다.
+  const lock = `${DATA}.lock`;
+  try { writeFileSync(lock, String(process.pid), { flag: 'wx' }); } catch {
+    die(`다른 작업이 ${basename(DATA)}을 쓰는 중이에요(${basename(lock)}). 끝난 뒤 다시 실행하세요. 남은 잠금이면 지워도 돼요.`, 3);
+  }
+  try {
+    if (readFileSync(DATA, 'utf8') !== original) {
+      for (const f of created) { try { unlinkSync(f); } catch { /* 없음 */ } }
+      die(`이 명령을 시작한 뒤 다른 작업이 ${basename(DATA)}을 바꿨어요. 아무것도 쓰지 않았어요. 같은 명령을 다시 실행하세요.`, 3);
+    }
+    writeFileSync(DATA, serialize(data));
+  } finally { try { unlinkSync(lock); } catch { /* 없음 */ } }
   out(`\n✓ 저장했어요: ${DATA.replace(`${ROOT}/`, '')}${summary ? ` · ${summary}` : ''}`);
+}
+
+// ---------- 유튜브 정보 캐시 (.cache/yt-meta.json, 저장소에 올리지 않음) ----------
+// dry-run과 실제 실행, harvest가 같은 정보를 다시 불러오지 않게 한다. { ytId: { title, channel, uploaded, views, at } }
+const CACHE = join(ROOT, '.cache', 'yt-meta.json');
+let cache = null;
+function metaCache() {
+  if (!cache) { try { cache = JSON.parse(readFileSync(CACHE, 'utf8')); } catch { cache = {}; } }
+  return cache;
+}
+function saveCache() {
+  if (!cache) return;
+  try { mkdirSync(dirname(CACHE), { recursive: true }); writeFileSync(CACHE, JSON.stringify(cache)); } catch { /* 캐시는 없어도 된다 */ }
+}
+// 동시에 n개씩 비동기 작업
+async function pool(items, n, fn) {
+  let i = 0;
+  await Promise.all(Array.from({ length: Math.min(n, items.length) }, async () => { while (i < items.length) { const k = i++; await fn(items[k], k); } }));
 }
 
 // ---------- 찾기 도우미 ----------
@@ -101,8 +130,12 @@ function resolveMember(g, q) {
 }
 function resolveSong(g, q, { create = false } = {}) {
   if (q == null || ['전체 공연', '전체공연', 'none', ''].includes(lc(q))) return null;
-  const s = g.songs.find((x) => [x.id, x.title, ...(x.aliases || [])].some((v) => v && lc(v) === lc(q)));
-  if (s) return s.id;
+  // id·이름 그대로 → 비교 키(대소문자·띄어쓰기·기호 무시)·오타 1~2자
+  const s = g.songs.find((x) => [x.id, x.title, ...(x.aliases || [])].some((v) => v && lc(v) === lc(q))) || matchSong(g, q);
+  if (s) {
+    if (lc(s.title) !== lc(q) && s.id !== q && !(s.aliases || []).some((a) => lc(a) === lc(q))) out(`  (곡 "${q}" → ${s.title} ${s.id})`);
+    return s.id;
+  }
   if (create) {
     const ns = { id: nextId(`${g.id}s`, data.groups.flatMap((x) => x.songs.map((y) => y.id))), title: String(q).trim(), aliases: [], order: g.songs.length + 1, release: '' };
     g.songs.push(ns);
@@ -132,6 +165,7 @@ function findVideo(q) {
 }
 const memberName = (id) => { for (const g of data.groups) { const m = g.members.find((x) => x.id === id); if (m) return m.name; } return id; };
 const songTitle = (id) => { for (const g of data.groups) { const s = g.songs.find((x) => x.id === id); if (s) return s.title; } return id; };
+const dayGap = (later, earlier) => Math.round((Date.parse(later) - Date.parse(earlier)) / 86400000);
 const evLabel = (e) => (e ? `${e.date} ${e.show}${e.label ? ` ${e.label}` : ''}` : '?');
 const whoOf = (v) => (v.type === 'full' ? '풀캠' : v.memberIds.length ? v.memberIds.map(memberName).join('·') : '단체');
 const songsOfV = (v) => (v.songs.length ? v.songs.map((s) => `${songTitle(s.songId)}${s.t ? `@${fmtTime(s.t)}` : ''}`).join(' + ') : '전체 공연');
@@ -169,7 +203,11 @@ const COMMANDS = {
   remove <id> [--cascade] [--with-empty-event]   영상·공연·움짤 지우기
   remove-videos <id목록.json>     영상 여러 개를 한 번에 지우기 (--with-empty-event)
   merge <남길공연id> <합칠공연id>...   같은 행사가 쪼개진 공연을 하나로 (--show 로 이름도 지정)
-  dedupe-events                  같은 그룹·날짜의 같은 행사(이름 표기만 다른) 공연을 모두 합치기
+  dedupe-events [--fuzzy]        같은 그룹·날짜의 같은 행사(이름 표기만 다른) 공연을 모두 합치기
+  merge-songs <남길곡id> <곡id>...  같은 곡 항목을 하나로 (이름은 별칭으로)
+  dedupe-songs                   대소문자·띄어쓰기·오타만 다른 곡을 모두 합치기
+  reclassify [--all]             제목을 지금 규칙으로 다시 읽어 곡 바로잡기
+  lint                           쪼개진 공연·중복 곡·안 쓰는 곡·곡 없는 영상 점검(실패하지 않음)
 
 그룹·멤버·곡
   roster <그룹정보.json> [--reorder]   그룹·멤버·곡을 한 번에 등록·보강 (형식: roster --help)
@@ -276,9 +314,24 @@ const COMMANDS = {
     const items = [];
     const seen = new Set();
 
-    // 1) 링크마다 제목을 불러오고 그룹·공연을 정한다
-    for (const [i, r0] of (req.videos || []).entries()) {
-      const r = typeof r0 === 'string' ? { url: r0 } : r0;
+    // 0) 제목·채널을 한꺼번에(동시에 8개) 불러온다. 캐시(.cache/yt-meta.json)에 있으면 다시 부르지 않는다
+    const reqs = (req.videos || []).map((r0) => (typeof r0 === 'string' ? { url: r0 } : r0));
+    const meta = metaCache();
+    const fetched = new Map();
+    if (!flags['no-fetch']) {
+      const need = [...new Set(reqs.filter((r) => !r.title || !r.channel).map((r) => extractYt(r.url || r.ytId)?.id)
+        .filter((id) => id && !data.videos.some((v) => v.ytId === id) && (flags.refetch || !meta[id]?.title)))];
+      if (need.length) out(`제목 불러오기 ${need.length}개 (동시 8개)…`);
+      await pool(need, 8, async (id) => {
+        const o = await fetchOEmbed(id);
+        fetched.set(id, o);
+        if (o.ok) meta[id] = { ...(meta[id] || {}), title: o.title, channel: o.channel, at: new Date().toISOString().slice(0, 10) };
+      });
+      saveCache();
+    }
+
+    // 1) 링크마다 그룹·공연을 정한다
+    for (const [i, r] of reqs.entries()) {
       const tag = `videos[${i}]`;
       const yt = extractYt(r.url || r.ytId);
       if (!yt) { errors.push(`${tag}: 유튜브 주소를 읽지 못했어요 (${r.url})`); continue; }
@@ -288,12 +341,14 @@ const COMMANDS = {
       seen.add(yt.id);
       let title = r.title ?? '', channel = r.channel ?? '';
       const auto = [];
+      const m = meta[yt.id];
       if ((!r.title || !r.channel) && !flags['no-fetch']) {
-        const o = await fetchOEmbed(yt.id);
-        if (o.ok) { if (!r.title) { title = o.title; auto.push('제목'); } if (!r.channel) { channel = o.channel; auto.push('채널'); } }
-        else if (o.status === 401 || o.status === 404) warn(`${tag}: oEmbed가 ${o.status}를 돌려줬어요. 삭제·비공개 영상일 수 있어요.`);
-        else warn(`${tag}: 제목·채널을 불러오지 못했어요(${o.error || o.status}). 제목이 없으면 자동 해석도 못 해요.`);
+        const o = fetched.get(yt.id);
+        if (m?.title) { if (!r.title) { title = m.title; auto.push('제목'); } if (!r.channel) { channel = m.channel || ''; auto.push('채널'); } }
+        else if (o && (o.status === 401 || o.status === 404)) warn(`${tag}: oEmbed가 ${o.status}를 돌려줬어요. 삭제·비공개 영상일 수 있어요.`);
+        else warn(`${tag}: 제목·채널을 불러오지 못했어요(${o?.error || o?.status || '?'}). 제목이 없으면 자동 해석도 못 해요.`);
       }
+      const uploaded = r.uploaded || m?.uploaded || null;
       const where = `${tag} ${yt.id}`;
       const ctx = `(제목: ${title || '없음'})`;
       const exWhy = (r.include ?? req.include) ? null : excludedReason(title, channel);
@@ -309,30 +364,68 @@ const COMMANDS = {
         else if (data.groups.length === 1 && !title) g = data.groups[0];
         else { errors.push(`${where}: 그룹을 정할 수 없어요. 등록된 그룹(${data.groups.map((x) => x.name).join(', ') || '없음'})이 제목에 없어요. 새 그룹이면 register-group 스킬로 먼저 등록하고, 아니면 "group"을 주세요. ${ctx}`); continue; }
       }
-      const p = parseTitle(title, g, { channel });
+      const p = parseTitle(title, g, { channel, uploaded });
       // 공연: 영상 → 요청 → 제목
-      const date = (r.date ?? req.date) ? normDate(r.date ?? req.date) : p.date;
-      const show = String((r.show ?? req.show) || p.show || '').trim();
+      let date = (r.date ?? req.date) ? normDate(r.date ?? req.date) : p.date;
+      const userShow = (r.show ?? req.show) ? String(r.show ?? req.show).trim() : '';
+      let show = userShow || String(p.show || '').trim();
+      const conf = userShow ? 'user' : (p.showConf || null);
       const labelSrc = r.label ?? req.label;
       const label = String(labelSrc != null ? labelSrc : (p.label || '')).trim();
       if (!(r.date ?? req.date) && p.date) auto.push(`날짜=${p.date}`);
-      if (!(r.show ?? req.show) && p.show) auto.push(`행사=${p.show}`);
+      if (!userShow && p.show) auto.push(`행사=${p.show}${conf !== 'known' ? `(${conf === 'raw' ? '@문구' : '추정'})` : ''}`);
       if (labelSrc == null && p.label) auto.push(`label=${p.label}`);
+      // 제목에 날짜가 없으면 업로드 날짜 앞 7일 안의 이 그룹 공연 중 하나로 정해지면 그 날짜
+      if (!date && uploaded) {
+        const near = data.events.filter((e) => e.groupId === g.id && dayGap(uploaded, e.date) >= 0 && dayGap(uploaded, e.date) <= 7
+          && (e.label || '') === label && (!show || showSimilarity(e.show, show) >= 0.5 || (e.aliases || []).some((a) => showSimilarity(a, show) >= 0.5)));
+        if (near.length === 1) { date = near[0].date; show = show || near[0].show; auto.push(`날짜=${date}(업로드 ${uploaded} 기준 추정)`); }
+        else if (near.length > 1) { errors.push(`${where}: 제목에 날짜가 없고 업로드(${uploaded}) 전 7일 안 공연이 여럿이에요(${near.map((e) => `${e.id} ${evLabel(e)}`).join(', ')}). "date"/"show"를 주세요. ${ctx}`); continue; }
+      }
       if (!date) { errors.push(`${where}: 날짜를 정할 수 없어요. "date"를 주세요. ${ctx}`); continue; }
-      if (!show) { errors.push(`${where}: 행사를 정할 수 없어요. "show"(예: 뮤직뱅크)를 주세요. ${ctx}`); continue; }
+      if (!show) {
+        // 행사를 못 읽었어도 그날 이 그룹 공연이 하나뿐이면 거기에 붙인다
+        const day = data.events.filter((e) => e.groupId === g.id && e.date === date && (e.label || '') === label);
+        if (day.length === 1) { show = day[0].show; auto.push(`행사=${show}(그날 유일한 공연)`); }
+        else { errors.push(`${where}: 행사를 정할 수 없어요. "show"(예: 뮤직뱅크)를 주세요.${day.length ? ` 그날 공연: ${day.map((e) => `${e.id} ${e.show}`).join(', ')}` : ''} ${ctx}`); continue; }
+      }
       if ((r.date ?? req.date) && p.date && p.date !== date) warn(`${where}: 제목의 날짜 ${p.date}가 공연 날짜 ${date}와 달라요.`);
-      items.push({ tag: where, r, yt, title, channel, auto, g, p, date, show, label, ctx });
+      items.push({ tag: where, r, yt, title, channel, uploaded, auto, g, p, date, show, rawShow: show, conf, label, ctx });
     }
 
-    // 2) 공연별로 묶는다(기존 공연이면 거기에, 없으면 새로). 같은 행사의 다른 표기(도시·방송사·연도 차이)는 한 공연으로 본다
+    // 2) 공연별로 묶는다(기존 공연이면 거기에, 없으면 새로).
+    //    같은 그룹·날짜·label에서 ① 이름 키가 같거나 별칭에 있음 ② 이름이 비슷함(유사도 0.5 이상) ③ 확실하지 않은 이름('@문구'·추정)은
+    //    그날 공연 중 영상이 가장 많은 공연 → 기존 공연에 붙인다. 붙일 때 원래 표기는 그 공연의 aliases에 남긴다.
+    const sameSlot = (e, it) => e.groupId === it.g.id && e.date === it.date && (e.label || '').trim() === it.label;
+    const vcount = (e) => data.videos.reduce((n, v) => n + (v.eventId === e.id), 0);
     for (const it of items) {
-      const ex = data.events.find((e) => e.groupId === it.g.id && e.date === it.date && (e.label || '').trim() === it.label && sameShow(e.show, it.show));
+      const day = data.events.filter((e) => sameSlot(e, it));
+      if (!day.length) continue;
+      const names = (e) => [e.show, ...(e.aliases || [])];
+      let ex = day.find((e) => names(e).some((n) => showKey(n) === showKey(it.show)));
+      if (!ex) {
+        const scored = day.map((e) => ({ e, s: Math.max(...names(e).map((n) => showSimilarity(n, it.show))) })).sort((a, b) => b.s - a.s);
+        if (scored[0].s >= 0.5) ex = scored[0].e;
+      }
+      const biggest = [...day].sort((a, b) => vcount(b) - vcount(a))[0];
+      if (!ex && (it.conf === 'raw' || it.conf === 'guess') && weakShowFits(it.show, it.conf, biggest)) {
+        ex = biggest;
+        warn(`${it.tag}: 확실하지 않은 행사 이름 "${it.show}" → 같은 날 공연 ${ex.id} ${evLabel(ex)}에 붙였어요. 다른 공연이면 "show"를 주세요. ${it.ctx}`);
+      }
       if (ex) it.show = ex.show.trim();
     }
-    const bestShow = new Map();
-    const skey = (it) => [it.g.id, it.date, it.label, showKey(it.show)].join('|');
-    for (const it of items) if (!bestShow.has(skey(it)) || it.show.length > bestShow.get(skey(it)).length) bestShow.set(skey(it), it.show);
-    for (const it of items) it.show = bestShow.get(skey(it));
+    // 요청 안에서도: 확실하지 않은 이름은 같은 날 확실한 이름을 따른다, 비슷한 이름은 하나로(가장 긴 이름)
+    for (const it of items) {
+      if (it.conf !== 'raw' && it.conf !== 'guess') continue;
+      if (data.events.some((e) => sameSlot(e, it) && e.show.trim() === it.show)) continue;
+      const firm = items.filter((o) => o !== it && o.g === it.g && o.date === it.date && o.label === it.label && (o.conf === 'known' || o.conf === 'user'));
+      if (firm.length) { it.show = firm[0].show; }
+    }
+    for (const it of items) {
+      const peer = items.find((o) => o !== it && o.g === it.g && o.date === it.date && o.label === it.label && o.show !== it.show
+        && showSimilarity(o.show, it.show) >= 0.5 && o.show.length > it.show.length);
+      if (peer) it.show = peer.show;
+    }
     const buckets = new Map();
     for (const it of items) {
       const key = [it.g.id, it.date, it.show, it.label].join('|');
@@ -360,6 +453,9 @@ const COMMANDS = {
         ev.setlist = sl;
       }
       if (single && req.note != null && String(req.note).trim()) ev.note = String(req.note).trim();
+      for (const it of b.items) {
+        if (it.rawShow && showKey(it.rawShow) !== showKey(ev.show) && !(ev.aliases || []).some((a) => showKey(a) === showKey(it.rawShow))) (ev.aliases ||= []).push(it.rawShow);
+      }
       const effSetlist = ev.setlist || [];
       const before = added.length;
       for (const it of b.items) {
@@ -455,7 +551,7 @@ const COMMANDS = {
 공연: date show label note(|none) setlist(곡,곡)
 움짤: note t end video(영상id|none) event song members
 멤버: name aliases color active(true|false) thumb(thumbs/<멤버id>.jpg|none) thumbPos
-곡:   title aliases release
+곡:   title aliases release kind(song|cover|other: cover=다른 가수 곡, other=곡이 아님(투어·상·챌린지 이름). other는 제목에서 찾지 않고 필터에서 숨겨요)
 그룹: name en hue`);
       return;
     }
@@ -513,6 +609,7 @@ const COMMANDS = {
         if (k === 'title') song.title = val.trim();
         else if (k === 'aliases') song.aliases = list(val);
         else if (k === 'release') song.release = none(val) ? '' : normDate(val);
+        else if (k === 'kind') { if (none(val) || val === 'song') delete song.kind; else if (['cover', 'other'].includes(val)) song.kind = val; else die('kind는 song·cover·other 중 하나'); }
         else die(`곡에는 ${k}를 바꿀 수 없어요.`);
       } else if (g0) {
         if (k === 'name' || k === 'en') g0[k] = val.trim();
@@ -568,39 +665,183 @@ const COMMANDS = {
   },
 
   'dedupe-events'() {
-    if (flags.help) { out('dedupe-events [--dry-run]\n같은 그룹·같은 날짜·같은 label에서 이름이 같은 행사(showKey 기준)인 공연을 하나로 합쳐요. 가장 구체적인(긴) 이름을 남겨요.'); return; }
+    if (flags.help) {
+      out(`dedupe-events [--fuzzy] [--dry-run]
+같은 그룹·같은 날짜·같은 label 안에서 같은 행사가 여러 공연으로 쪼개진 것을 합쳐요.
+  기본: 이름 키(showKey)가 같은 공연 + 일반 이름(팬미팅·쇼케이스·Spotify)을 그날 하나뿐인 투어·콘서트·페스티벌로
+  --fuzzy: 더해서 ① 이름이 비슷한 공연(유사도 0.5 이상, "NOL FESTIVAL"/"NOL페스티벌")
+           ② 영상 2개 이하인 공연 중 영상 제목에서 알려진 행사 이름이 안 나오는 것(@문구·추정)을 그날 영상이 가장 많은 공연으로
+남기는 공연은 영상이 많은 쪽이고, 합친 이름은 aliases에 남아 다음 담기 때 같은 공연으로 연결돼요. --dry-run으로 먼저 보세요.`);
+      return;
+    }
+    const cnt = (e) => data.videos.reduce((n, v) => n + (v.eventId === e.id), 0);
+    let n = 0, m = 0;
+    const doMerge = (keep, others, why) => {
+      out(`  ${keep.id} ${evLabel(keep)}[${cnt(keep)}] ← ${others.map((o) => `${o.id} ${o.show}[${cnt(o)}]`).join(', ')}${why ? ` (${why})` : ''}`);
+      mergeEvents(keep, others);
+      n++; m += others.length;
+    };
     const clusters = new Map();
     for (const e of data.events) {
       const k = [e.groupId, e.date, (e.label || '').trim(), showKey(e.show)].join('|');
       if (!clusters.has(k)) clusters.set(k, []);
       clusters.get(k).push(e);
     }
-    let n = 0, m = 0;
     for (const list of clusters.values()) {
       if (list.length < 2) continue;
-      const cnt = (e) => data.videos.filter((v) => v.eventId === e.id).length;
       const keep = [...list].sort((a, b) => b.show.length - a.show.length || cnt(b) - cnt(a))[0];
-      const others = list.filter((e) => e !== keep);
-      out(`  ${keep.id} ${evLabel(keep)} ← ${others.map((o) => `${o.id} ${o.show}`).join(', ')}`);
-      mergeEvents(keep, others);
-      n++; m += others.length;
+      doMerge(keep, list.filter((e) => e !== keep), '같은 이름 키');
     }
+    const slots = () => {
+      const byDay = new Map();
+      for (const e of data.events) { const k = `${e.groupId}|${e.date}|${(e.label || '').trim()}`; (byDay.get(k) || byDay.set(k, []).get(k)).push(e); }
+      return [...byDay.values()].filter((l) => l.length > 1);
+    };
     // 이름이 너무 일반적인 공연(팬미팅·Spotify·쇼케이스)은 같은 날 투어·콘서트·페스티벌이 하나뿐이면 그 공연으로 본다
     const GENERIC = new Set(['팬미팅', 'spotify', '쇼케이스']);
-    const HOST = /HEARTS 2 HOUSE|TOUR|CONCERT|HOME ?GROUND|ENCORE|FESTIVAL|GLOW|콘서트|페스티벌|투어/i;
-    const byDay = new Map();
-    for (const e of data.events) { const k = `${e.groupId}|${e.date}`; (byDay.get(k) || byDay.set(k, []).get(k)).push(e); }
-    for (const list of byDay.values()) {
+    const HOST = HOST_SHOW;
+    for (const list of slots()) {
       const hosts = list.filter((e) => HOST.test(e.show));
       if (hosts.length !== 1) continue;
-      const gen = list.filter((e) => GENERIC.has(e.show.trim().toLowerCase()) && (e.label || '') === (hosts[0].label || ''));
-      if (!gen.length) continue;
-      out(`  ${hosts[0].id} ${evLabel(hosts[0])} ← ${gen.map((o) => `${o.id} ${o.show}`).join(', ')} (일반 이름)`);
-      mergeEvents(hosts[0], gen);
-      n++; m += gen.length;
+      const gen = list.filter((e) => e !== hosts[0] && GENERIC.has(e.show.trim().toLowerCase()));
+      if (gen.length) doMerge(hosts[0], gen, '일반 이름');
+    }
+    if (flags.fuzzy) {
+      for (const list of slots()) {
+        const done = new Set();
+        for (const a of [...list].sort((x, y) => cnt(y) - cnt(x))) {
+          if (done.has(a)) continue;
+          const sim = list.filter((b) => b !== a && !done.has(b) && [b.show, ...(b.aliases || [])].some((x) => [a.show, ...(a.aliases || [])].some((y) => showSimilarity(x, y) >= 0.5)));
+          if (sim.length) { sim.forEach((b) => done.add(b)); done.add(a); doMerge(a, sim, '비슷한 이름'); }
+        }
+      }
+      for (const list of slots()) {
+        const big = [...list].sort((x, y) => cnt(y) - cnt(x))[0];
+        if (!HOST_SHOW.test(big.show)) continue;
+        const weak = list.filter((e) => e !== big && cnt(e) <= 2 && cnt(big) >= 3 * cnt(e) && !HOST_SHOW.test(e.show) && data.videos.filter((v) => v.eventId === e.id)
+          .every((v) => { const p = parseTitle(v.title || '', groupById(e.groupId)); return p.showConf !== 'known' || showSimilarity(p.show, big.show) >= 0.5; }));
+        if (weak.length) doMerge(big, weak, '제목에 확실한 행사 이름 없음');
+      }
     }
     if (!n) { out('합칠 공연이 없어요.'); return; }
     save(`공연 ${m + n}개를 ${n}개로 합침`);
+  },
+
+  // ---------- 곡 정리 ----------
+  'merge-songs'() {
+    if (flags.help || pos.length < 2) {
+      out(`merge-songs <남길곡id> <합칠곡id>... [--title "곡명"] [--dry-run]
+같은 곡이 여러 항목(대소문자·띄어쓰기·오타 차이)으로 나뉜 것을 하나로. 영상·움짤·setlist를 남길 곡으로 옮기고,
+합친 곡의 이름은 별칭(aliases)으로 남긴 뒤 항목을 지워요. --title로 남길 곡 이름도 바꿀 수 있어요(옛 이름은 별칭으로).`);
+      return;
+    }
+    const all = data.groups.flatMap((g) => g.songs.map((s) => ({ g, s })));
+    const keep = all.find((x) => x.s.id === pos[0]) || die(`곡 ${pos[0]}이 없어요.`);
+    const others = pos.slice(1).map((id) => all.find((x) => x.s.id === id) || die(`곡 ${id}이 없어요.`));
+    for (const o of others) if (o.g !== keep.g) die(`${o.s.id}는 다른 그룹 곡이에요.`);
+    if (flags.title) { addAlias(keep.s, keep.s.title); keep.s.title = String(flags.title).trim(); }
+    const moved = mergeSongs(keep.g, keep.s, others.map((o) => o.s));
+    out(`  ${keep.s.id} ${keep.s.title} ← ${others.map((o) => `${o.s.id} ${o.s.title}`).join(', ')} · 영상 ${moved}개 옮김 · 별칭 ${(keep.s.aliases || []).join('/') || '없음'}`);
+    save(`${keep.s.title}로 곡 ${others.length}개 합침`);
+  },
+
+  'dedupe-songs'() {
+    if (flags.help) { out('dedupe-songs [--dry-run]\n그룹마다 비교 키(대소문자·띄어쓰기·기호 무시)가 같거나 오타 1~2자 차이인 곡을 하나로 합쳐요. 남기는 곡: 발매일 있는 곡 → 영상 많은 곡 → 순서가 앞인 곡.'); return; }
+    let n = 0;
+    for (const g of data.groups) {
+      const used = (s) => data.videos.reduce((k, v) => k + v.songs.some((x) => x.songId === s.id), 0);
+      const pool = g.songs.filter((s) => s.kind !== 'other');
+      const seen = new Set();
+      for (const s of pool) {
+        if (seen.has(s)) continue;
+        const rest = { ...g, songs: pool.filter((x) => x !== s && !seen.has(x)) };
+        const same = [];
+        let hit;
+        while ((hit = [s.title, ...(s.aliases || [])].map((nm) => matchSong(rest, nm)).find(Boolean))) { same.push(hit); rest.songs = rest.songs.filter((x) => x !== hit); }
+        if (!same.length) continue;
+        const cl = [s, ...same];
+        cl.forEach((x) => seen.add(x));
+        const keep = [...cl].sort((a, b) => (!!b.release - !!a.release) || used(b) - used(a) || (a.order ?? 0) - (b.order ?? 0))[0];
+        const others = cl.filter((x) => x !== keep);
+        const moved = mergeSongs(g, keep, others);
+        out(`  ${g.name}: ${keep.id} ${keep.title} ← ${others.map((o) => `${o.id} ${o.title}`).join(', ')} · 영상 ${moved}개`);
+        n++;
+      }
+    }
+    if (!n) { out('합칠 곡이 없어요.'); return; }
+    save(`곡 묶음 ${n}개 합침`);
+  },
+
+  reclassify() {
+    if (flags.help) {
+      out(`reclassify [--all] [--group 그룹] [--dry-run]
+담아 둔 영상의 제목을 지금 해석 규칙으로 다시 읽어 곡을 바로잡아요.
+  기본: 곡이 없는("전체 공연") 영상에 제목에서 찾은 곡을 넣고, 곡이 아닌 항목(kind=other)에 들어간 영상을 제목의 곡으로 옮겨요
+  --all: 더해서 지금 곡이 제목에 없고 다른 곡이 있으면 바꾸고, 제목에 곡이 더 있으면 더해요(메들리·풀 퍼포먼스)
+멤버·종류·공연은 바꾸지 않아요.`);
+      return;
+    }
+    const groups = flags.group ? [resolveGroup(flags.group)] : data.groups;
+    const stat = { fill: 0, other: 0, replace: 0, expand: 0 };
+    const samples = { fill: [], other: [], replace: [], expand: [] };
+    for (const g of groups) {
+      const kindOf = new Map(g.songs.map((s) => [s.id, s.kind || 'song']));
+      for (const v of data.videos) {
+        const e = eventById(v.eventId);
+        if (!e || e.groupId !== g.id || !v.title) continue;
+        const p = parseTitle(v.title, g, { channel: v.channel, uploaded: v.uploaded });
+        const cur = v.songs.map((x) => x.songId);
+        const valid = v.songs.filter((x) => kindOf.get(x.songId) !== 'other');
+        let next = null, why = null;
+        if (!cur.length) { if (p.songIds.length) { next = p.songIds.map((id) => ({ songId: id, t: 0 })); why = 'fill'; } }
+        else if (valid.length < cur.length) { next = [...valid, ...p.songIds.filter((id) => !valid.some((x) => x.songId === id)).map((id) => ({ songId: id, t: 0 }))]; why = 'other'; }
+        else if (flags.all && p.songIds.length) {
+          if (!valid.some((x) => p.songIds.includes(x.songId))) { next = p.songIds.map((id) => ({ songId: id, t: 0 })); why = 'replace'; }
+          else if (p.songIds.some((id) => !valid.some((x) => x.songId === id))) { next = [...valid, ...p.songIds.filter((id) => !valid.some((x) => x.songId === id)).map((id) => ({ songId: id, t: 0 }))]; why = 'expand'; }
+        }
+        if (!why) continue;
+        // 한 곡만 남으면 원래 시작 초를 지킨다
+        if (next.length === 1 && v.songs.length === 1 && v.songs[0].songId === next[0].songId) continue;
+        stat[why]++;
+        if (flags.verbose || samples[why].length < 12) samples[why].push(`${v.id} ${songsOfV(v)} → ${next.map((x) => songTitle(x.songId)).join(' + ') || '전체 공연'} | ${v.title}`);
+        v.songs = next;
+      }
+    }
+    const label = { fill: '곡 없던 영상에 곡 넣음', other: '곡 아닌 항목에서 옮김', replace: '제목과 다른 곡을 바꿈', expand: '제목의 곡을 더함' };
+    for (const k of Object.keys(stat)) if (stat[k]) { out(`\n${label[k]}: ${stat[k]}개`); for (const x of samples[k]) out(`  ${x}`); }
+    const total = Object.values(stat).reduce((a, b) => a + b, 0);
+    if (!total) { out('바꿀 영상이 없어요.'); return; }
+    save(`영상 ${total}개의 곡을 다시 정함`);
+  },
+
+  lint() {
+    // 실패하지 않는 점검: 쪼개진 공연·중복 곡·안 쓰는 곡·곡 없는 영상
+    const used = new Map();
+    for (const v of data.videos) for (const s of v.songs) used.set(s.songId, (used.get(s.songId) || 0) + 1);
+    const cnt = (e) => data.videos.reduce((n, v) => n + (v.eventId === e.id), 0);
+    let issues = 0;
+    const byDay = new Map();
+    for (const e of data.events) { const k = `${e.groupId}|${e.date}|${e.label || ''}`; (byDay.get(k) || byDay.set(k, []).get(k)).push(e); }
+    const split = [];
+    for (const list of byDay.values()) for (let i = 0; i < list.length; i++) for (let j = i + 1; j < list.length; j++) {
+      const sim = showSimilarity(list[i].show, list[j].show);
+      if (sim >= 0.5) split.push(`${list[i].date} ${list[i].id} ${list[i].show}[${cnt(list[i])}] ~ ${list[j].id} ${list[j].show}[${cnt(list[j])}] (${sim.toFixed(2)})`);
+    }
+    if (split.length) { issues += split.length; out(`쪼개졌을 수 있는 공연 ${split.length}쌍 (dedupe-events --fuzzy --dry-run):`); split.slice(0, 20).forEach((x) => out(`  ${x}`)); }
+    for (const g of data.groups) {
+      const pool = g.songs.filter((s) => s.kind !== 'other');
+      const dup = [];
+      for (const s of pool) { const o = matchSong({ ...g, songs: pool.filter((x) => x !== s && x.order > s.order) }, s.title); if (o) dup.push(`${s.id} ${s.title} ~ ${o.id} ${o.title}`); }
+      const unused = g.songs.filter((s) => !used.get(s.id));
+      const songless = data.videos.filter((v) => eventById(v.eventId)?.groupId === g.id && !v.songs.length);
+      const fixable = songless.filter((v) => v.title && parseTitle(v.title, g).songIds.length).length;
+      if (dup.length) { issues += dup.length; out(`${g.name}: 같은 곡일 수 있음 ${dup.length} (dedupe-songs --dry-run): ${dup.join(', ')}`); }
+      if (fixable) { issues += fixable; out(`${g.name}: 곡 없는 영상 ${songless.length}개 중 제목에서 곡을 찾을 수 있는 영상 ${fixable}개 (reclassify --dry-run)`); }
+      if (unused.length) out(`${g.name}: 영상 없는 곡 ${unused.length}개: ${unused.map((s) => `${s.title}${s.kind === 'other' ? '(곡 아님)' : ''}`).join(', ')}`);
+    }
+    const noTitle = data.videos.filter((v) => !v.title).length;
+    if (noTitle) out(`제목 없는 영상 ${noTitle}개 (find로 확인)`);
+    out(issues ? `\n점검할 것 ${issues}건` : '\n점검할 것이 없어요.');
   },
 
   'remove-videos'() {
@@ -864,6 +1105,7 @@ function buildVideo(it, ev, effSetlist, create, errors) {
   else {
     let sid;
     if ('song' in r) sid = resolveSong(g, r.song, { create });
+    else if (p.songIds.length > 1) { sid = undefined; auto.push(`곡=${p.songIds.map(songTitle).join('+')}(여러 곡)`); }
     else if (p.songId) { sid = p.songId; auto.push(`곡=${songTitle(sid)}`); }
     else if (p.songGuess && create) { sid = resolveSong(g, p.songGuess, { create: true }); auto.push(`곡=${songTitle(sid)}(제목, 새 곡)`); }
     else if (effSetlist.length === 1) { sid = effSetlist[0]; auto.push(`곡=${songTitle(sid)}(setlist)`); }
@@ -871,7 +1113,9 @@ function buildVideo(it, ev, effSetlist, create, errors) {
     else if (effSetlist.length > 1) { errors.push(`${where}: 곡을 정할 수 없어요(setlist ${effSetlist.map(songTitle).join(', ')}). "song"을 주세요. 곡 구분 없는 영상이면 "song": "전체 공연". ${ctx}`); return null; }
     else { errors.push(`${where}: 곡을 정할 수 없어요. "song" 또는 공연 "setlist"를 주세요. 곡 구분 없는 영상이면 "song": "전체 공연". ${ctx}`); return null; }
     const t = r.t != null ? (typeof r.t === 'number' ? r.t : parseTime(r.t)) : (yt.t ?? 0);
-    songs = sid ? [{ songId: sid, t: Number.isFinite(t) ? t : 0 }] : [];
+    // 제목에 곡이 여럿(메들리·풀 퍼포먼스): 곡마다 칸에 들어가게 모두 넣는다. 곡별 시작 초는 몰라서 0
+    if (sid === undefined) songs = p.songIds.map((id) => ({ songId: id, t: 0 }));
+    else songs = sid ? [{ songId: sid, t: Number.isFinite(t) ? t : 0 }] : [];
   }
   if (effSetlist.length) for (const s of songs) if (!effSetlist.includes(s.songId)) warn(`${where}: ${songTitle(s.songId)}는 이 공연 setlist에 없어요. 맞는지 확인하세요.`);
   const source = 'source' in r ? (r.source === 'official' || r.source === 'fan' ? r.source : null) : (p.source || null);
@@ -883,6 +1127,7 @@ function buildVideo(it, ev, effSetlist, create, errors) {
     title, channel, pin: !!r.pin, gone: false,
   };
   if (r.thumbPos) v.thumbPos = String(r.thumbPos);
+  if (it.uploaded) v.uploaded = it.uploaded;
   return v;
 }
 
@@ -902,8 +1147,35 @@ function mergeEvents(keep, others) {
     for (const sid of o.setlist || []) if (!keep.setlist.includes(sid)) keep.setlist.push(sid);
     if (!keep.cover && o.cover) keep.cover = o.cover;
     if (o.note && o.note !== keep.note) keep.note = [keep.note, o.note].filter(Boolean).join(' / ');
+    for (const nm of [o.show, ...(o.aliases || [])]) if (showKey(nm) !== showKey(keep.show) && !(keep.aliases || []).includes(nm)) (keep.aliases ||= []).push(nm);
     data.events = data.events.filter((x) => x !== o);
   }
+}
+function addAlias(song, name) {
+  const k = songKey(name);
+  if (!k || [song.title, ...(song.aliases || [])].some((x) => songKey(x) === k)) return;
+  (song.aliases ||= []).push(String(name).trim());
+}
+// 곡 합치기: 영상(한 영상 안 중복은 앞의 시작 초)·움짤·setlist를 keep으로, 이름은 별칭으로. 옮긴 영상 수를 돌려준다
+function mergeSongs(g, keep, others) {
+  const ids = new Set(others.map((o) => o.id));
+  let moved = 0;
+  for (const v of data.videos) {
+    if (!v.songs.some((s) => ids.has(s.songId))) continue;
+    moved++;
+    const next = [];
+    for (const s of v.songs) {
+      const sid = ids.has(s.songId) ? keep.id : s.songId;
+      const ex = next.find((x) => x.songId === sid);
+      if (ex) ex.t = Math.min(ex.t ?? 0, s.t ?? 0); else next.push({ ...s, songId: sid });
+    }
+    v.songs = next;
+  }
+  for (const c of data.clips) if (ids.has(c.songId)) c.songId = keep.id;
+  for (const e of data.events) if (e.setlist?.some((x) => ids.has(x))) e.setlist = [...new Set(e.setlist.map((x) => (ids.has(x) ? keep.id : x)))];
+  for (const o of others) { addAlias(keep, o.title); for (const a of o.aliases || []) addAlias(keep, a); if (!keep.release && o.release) keep.release = o.release; }
+  g.songs = g.songs.filter((s) => !ids.has(s.id));
+  return moved;
 }
 function removeEvent(e) {
   const vids = new Set(data.videos.filter((v) => v.eventId === e.id).map((v) => v.id));
