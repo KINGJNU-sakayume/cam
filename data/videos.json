@@ -1826,7 +1826,7 @@
       "id": "e25",
       "groupId": "g1",
       "date": "2026-08-01",
-      "show": "IVE WORLD TOUR SHOW WHAT I AM 시애틀",
+      "show": "IVE WORLD TOUR SHOW WHAT I AM LA",
       "label": "",
       "setlist": [
         "g1s5",
@@ -1926,15 +1926,6 @@
       "setlist": [
         "g1s13"
       ],
-      "note": ""
-    },
-    {
-      "id": "e34",
-      "groupId": "g1",
-      "date": "2026-10-14",
-      "show": "브랜드 행사",
-      "label": "",
-      "setlist": [],
       "note": ""
     },
     {
@@ -3500,7 +3491,10 @@
         "g4s5",
         "g4s10"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "SMTOWN LIVE"
+      ]
     },
     {
       "id": "e186",
@@ -3640,29 +3634,11 @@
       "note": ""
     },
     {
-      "id": "e201",
-      "groupId": "g1",
-      "date": "2026-09-30",
-      "show": "팝업스토어 오픈 행사",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
       "id": "e202",
       "groupId": "g1",
       "date": "2026-10-23",
       "show": "팝업스토어 오픈 행사",
       "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e203",
-      "groupId": "g1",
-      "date": "2026-10-23",
-      "show": "뮤직뱅크",
-      "label": "사전녹화",
       "setlist": [],
       "note": ""
     },
@@ -3771,43 +3747,12 @@
       "note": ""
     },
     {
-      "id": "e214",
-      "groupId": "g4",
-      "date": "2026-10-09",
-      "show": "동성로 아트스퀘어 직캠",
-      "label": "",
-      "setlist": [
-        "g4s10"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e215",
-      "groupId": "g4",
-      "date": "2026-10-22",
-      "show": "엠카운트다운",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
       "id": "e217",
       "groupId": "g1",
       "date": "2026-01-20",
       "show": "IVE 4TH FAN CONCERT DIVE into IVE",
       "label": "",
       "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e220",
-      "groupId": "g1",
-      "date": "2026-02-06",
-      "show": "뮤직뱅크",
-      "label": "",
-      "setlist": [
-        "g1s13"
-      ],
       "note": ""
     },
     {
@@ -3867,7 +3812,7 @@
       "id": "e231",
       "groupId": "g1",
       "date": "2026-06-20",
-      "show": "IVE WORLD TOUR SHOW WHAT I AM",
+      "show": "IVE WORLD TOUR SHOW WHAT I AM 오클랜드(뉴질랜드)",
       "label": "",
       "setlist": [
         "g1s5"
@@ -3892,7 +3837,7 @@
       "id": "e235",
       "groupId": "g1",
       "date": "2026-08-09",
-      "show": "IVE WORLD TOUR SHOW WHAT I AM",
+      "show": "IVE WORLD TOUR SHOW WHAT I AM 밴쿠버",
       "label": "",
       "setlist": [
         "g1s5",
@@ -3984,27 +3929,6 @@
       "note": ""
     },
     {
-      "id": "e244",
-      "groupId": "g1",
-      "date": "2026-04-23",
-      "show": "팝업스토어 오픈 행사",
-      "label": "",
-      "setlist": [
-        "g1s27",
-        "g1s14"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e246",
-      "groupId": "g1",
-      "date": "2026-04-26",
-      "show": "동성로 올킬",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
       "id": "e247",
       "groupId": "g1",
       "date": "2026-05-07",
@@ -4030,50 +3954,14 @@
       ]
     },
     {
-      "id": "e254",
-      "groupId": "g1",
-      "date": "2026-05-16",
-      "show": "ASEA 2026",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e255",
-      "groupId": "g1",
-      "date": "2026-05-17",
-      "show": "일산호수공원",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e256",
-      "groupId": "g1",
-      "date": "2026-05-29",
-      "show": "팝업스토어 오픈 행사",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
       "id": "e257",
       "groupId": "g1",
       "date": "2026-07-29",
-      "show": "IVE WORLD TOUR SHOW WHAT I AM",
+      "show": "IVE WORLD TOUR SHOW WHAT I AM 오스틴",
       "label": "",
       "setlist": [
         "g1s25"
       ],
-      "note": ""
-    },
-    {
-      "id": "e259",
-      "groupId": "g1",
-      "date": "2026-06-11",
-      "show": "브랜드 행사",
-      "label": "",
-      "setlist": [],
       "note": ""
     },
     {
@@ -4088,43 +3976,12 @@
       "note": ""
     },
     {
-      "id": "e262",
-      "groupId": "g1",
-      "date": "2026-07-04",
-      "show": "팔레트 페스티벌",
-      "label": "",
-      "setlist": [
-        "g1s14"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e263",
-      "groupId": "g1",
-      "date": "2026-07-19",
-      "show": "팝업스토어 오픈 행사",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
       "id": "e266",
       "groupId": "g1",
       "date": "2026-07-26",
       "show": "IVE WORLD TOUR SHOW WHAT I AM 뉴어크",
       "label": "",
       "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e268",
-      "groupId": "g1",
-      "date": "2026-08-08",
-      "show": "IVE WORLD TOUR SHOW WHAT I AM 토론토",
-      "label": "",
-      "setlist": [
-        "g1s14"
-      ],
       "note": ""
     },
     {
@@ -4157,17 +4014,6 @@
       "note": ""
     },
     {
-      "id": "e273",
-      "groupId": "g2",
-      "date": "2026-03-21",
-      "show": "NMIXX WORLD TOUR ZERO FRONTIER 파리",
-      "label": "",
-      "setlist": [
-        "g2s13"
-      ],
-      "note": ""
-    },
-    {
       "id": "e274",
       "groupId": "g2",
       "date": "2026-03-22",
@@ -4180,7 +4026,7 @@
       "id": "e275",
       "groupId": "g2",
       "date": "2026-03-24",
-      "show": "NMIXX WORLD TOUR ZERO FRONTIER",
+      "show": "NMIXX WORLD TOUR ZERO FRONTIER 프랑크푸르트",
       "label": "",
       "setlist": [
         "g2s11",
@@ -4213,7 +4059,7 @@
       "id": "e279",
       "groupId": "g2",
       "date": "2026-04-02",
-      "show": "NMIXX WORLD TOUR ZERO FRONTIER",
+      "show": "NMIXX WORLD TOUR ZERO FRONTIER 워싱턴 D.C.",
       "label": "",
       "setlist": [],
       "note": ""
@@ -4987,162 +4833,10 @@
       "note": ""
     },
     {
-      "id": "e380",
-      "groupId": "g1",
-      "date": "2026-01-09",
-      "show": "골든디스크어워즈",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e381",
-      "groupId": "g1",
-      "date": "2026-03-02",
-      "show": "한류문화공동체 신촌 케이팝 페스티벌",
-      "label": "",
-      "setlist": [
-        "g1s13"
-      ],
-      "note": "",
-      "aliases": [
-        "한류문화공동체 신촌케이팝페스티벌"
-      ]
-    },
-    {
       "id": "e383",
       "groupId": "g1",
       "date": "2026-03-13",
       "show": "뮤직뱅크",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e384",
-      "groupId": "g1",
-      "date": "2026-03-15",
-      "show": "이순신종합운동장",
-      "label": "",
-      "setlist": [
-        "g1s14"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e387",
-      "groupId": "g1",
-      "date": "2026-04-02",
-      "show": "문학",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e388",
-      "groupId": "g1",
-      "date": "2026-04-08",
-      "show": "IVE WORLD TOUR SHOW WHAT I AM 오클랜드",
-      "label": "",
-      "setlist": [
-        "g1s5"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e389",
-      "groupId": "g1",
-      "date": "2026-04-24",
-      "show": "문학경기장 SSG랜더스필드",
-      "label": "",
-      "setlist": [
-        "g1s14"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e390",
-      "groupId": "g1",
-      "date": "2026-04-24",
-      "show": "IVE WORLD TOUR SHOW WHAT I AM",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e391",
-      "groupId": "g1",
-      "date": "2026-05-05",
-      "show": "어린이날대 축제",
-      "label": "",
-      "setlist": [
-        "g1s11"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e393",
-      "groupId": "g1",
-      "date": "2026-05-08",
-      "show": "IVE WORLD TOUR SHOW WHAT I AM",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e394",
-      "groupId": "g1",
-      "date": "2026-05-15",
-      "show": "CentralWorld",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e395",
-      "groupId": "g1",
-      "date": "2026-05-22",
-      "show": "IVE WORLD TOUR SHOW WHAT I AM",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e396",
-      "groupId": "g1",
-      "date": "2026-06-11",
-      "show": "IVE WORLD TOUR SHOW WHAT I AM",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e397",
-      "groupId": "g1",
-      "date": "2026-06-17",
-      "show": "문학경기장 SSG랜더스필드",
-      "label": "",
-      "setlist": [
-        "g1s14"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e398",
-      "groupId": "g1",
-      "date": "2026-07-03",
-      "show": "문학경기장 SSG랜더스필드",
-      "label": "",
-      "setlist": [
-        "g1s14"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e399",
-      "groupId": "g1",
-      "date": "2026-08-22",
-      "show": "TIMA 2026",
       "label": "",
       "setlist": [],
       "note": ""
@@ -5159,100 +4853,10 @@
       "note": ""
     },
     {
-      "id": "e403",
-      "groupId": "g2",
-      "date": "2026-08-15",
-      "show": "야구 시구 행사",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e404",
-      "groupId": "g2",
-      "date": "2026-08-22",
-      "show": "TIMA 2026",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e405",
-      "groupId": "g2",
-      "date": "2026-08-24",
-      "show": "TIMA 2026",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e406",
-      "groupId": "g2",
-      "date": "2026-09-11",
-      "show": "뮤직뱅크",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
       "id": "e408",
       "groupId": "g2",
       "date": "2026-10-24",
       "show": "쇼! 음악중심",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e411",
-      "groupId": "g4",
-      "date": "2026-02-02",
-      "show": "SMTOWN LIVE",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e412",
-      "groupId": "g4",
-      "date": "2026-02-12",
-      "show": "SMTOWN LIVE",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e415",
-      "groupId": "g4",
-      "date": "2026-03-18",
-      "show": "쇼케이스",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e416",
-      "groupId": "g4",
-      "date": "2026-05-07",
-      "show": "KCON JAPAN 2026",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e417",
-      "groupId": "g4",
-      "date": "2026-06-16",
-      "show": "인기가요",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e418",
-      "groupId": "g4",
-      "date": "2026-08-20",
-      "show": "TIMA 2026",
       "label": "",
       "setlist": [],
       "note": ""
@@ -5266,24 +4870,6 @@
       "setlist": [
         "g4s5"
       ],
-      "note": ""
-    },
-    {
-      "id": "e420",
-      "groupId": "g4",
-      "date": "2026-09-03",
-      "show": "엠카운트다운",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e421",
-      "groupId": "g4",
-      "date": "2026-10-03",
-      "show": "SMTOWN LIVE",
-      "label": "",
-      "setlist": [],
       "note": ""
     },
     {
@@ -9753,24 +9339,6 @@
       "tags": [],
       "title": "260923 아이브 'XOXZ' SBS INKIGAYO LIVE IN TOKYO 인기가요 IVE 직캠 FANCAM",
       "channel": "Narrative",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v226",
-      "ytId": "su84vM24z_Q",
-      "eventId": "e34",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 261014 아이브 리즈 (IVE LIZ) - 브랜드 포토콜 행사 직캠 (IVE LIZ FOCUS Fancam) | YCH VIP 프리오프닝 포토콜 행사",
-      "channel": "Luz Liz",
       "pin": false,
       "gone": false
     },
@@ -26467,41 +26035,6 @@
       "gone": false
     },
     {
-      "id": "v1224",
-      "ytId": "uvCyQeE8-TU",
-      "eventId": "e201",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "아이브(IVE) 레이 | 루나(LUNA) 팝업스토어 포토월 직캠(fancam) | 260930",
-      "channel": "욘 바인첼",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v1225",
-      "ytId": "s5Kh_EbGcqw",
-      "eventId": "e34",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": null,
-      "tags": [
-        "세로",
-        "4K"
-      ],
-      "title": "[4K][세로직캠] 261014 아이브 리즈 - YCH 플래그쉽스토어 VIP 포토콜 (IVE Liz fancam)",
-      "channel": "connect",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v1227",
       "ytId": "O6RZVEyNBsc",
       "eventId": "e35",
@@ -27248,20 +26781,6 @@
       "gone": false
     },
     {
-      "id": "v1279",
-      "ytId": "WniJRAaAJYM",
-      "eventId": "e38",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "'컴백 인터뷰' IVE (아이브) #엠카운트다운 EP.950 | Mnet 261022 방송",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v1282",
       "ytId": "j7LzbQQ0Be4",
       "eventId": "e38",
@@ -27350,26 +26869,6 @@
       "gone": false
     },
     {
-      "id": "v1287",
-      "ytId": "gt2ugvrdt4k",
-      "eventId": "e203",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2",
-        "g1m5"
-      ],
-      "source": null,
-      "tags": [
-        "4K",
-        "사전녹화"
-      ],
-      "title": "261023 아이브 ive 가을 리즈 뮤직뱅크 사녹 후 외출 Musicbank 4K",
-      "channel": "ZCAM",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v1289",
       "ytId": "PFa3feFQOos",
       "eventId": "e39",
@@ -27406,80 +26905,6 @@
       "tags": [],
       "title": "[COMEBACK] IVE アイヴ 아이브 - Looks Can Kill [Music Bank] | KBS WORLD TV 261023",
       "channel": "KBS WORLD TV",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v1299",
-      "ytId": "12Cvh0urtds",
-      "eventId": "e39",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "월클 아이돌 아이브가 떴다! 아이브와 함께 할 경기 북부 먹트립 MBN 261023 방송",
-      "channel": "MBN Entertainment",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v1300",
-      "ytId": "zlhW7OIQE9I",
-      "eventId": "e39",
-      "songs": [
-        {
-          "songId": "g1s16",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2",
-        "g1m5"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "파와 곰탕의 이색 만남?! 새빨간 얼큰함의 유혹에 홀려버린 아이브 가을&리즈 MBN 261023 방송",
-      "channel": "MBN Entertainment",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v1301",
-      "ytId": "dm2gv_4ae8U",
-      "eventId": "e39",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "아이브 '리즈'도 반한 맛! 수북이 쌓아 먹는 오이 산더미 냉면 MBN 261023 방송",
-      "channel": "MBN Entertainment",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v1302",
-      "ytId": "QCOzptpP21E",
-      "eventId": "e39",
-      "songs": [
-        {
-          "songId": "g1s16",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m2",
-        "g1m5"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "경기 북부로 맛 DIVE~ 아이브 리즈 & 가을과 함께 빠져드는 경기 북부의 맛! MBN 261023 방송",
-      "channel": "MBN Entertainment",
       "pin": false,
       "gone": false
     },
@@ -28450,20 +27875,6 @@
       "tags": [],
       "title": "엔믹스 NMIXX Blue Valentine 놀 페스티벌 NOL FESTIVAL 261018",
       "channel": "공연직캠tv",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v1405",
-      "ytId": "6Ttct0xxxts",
-      "eventId": "e78",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "'컴백 인터뷰' NMIXX (엔믹스) #엠카운트다운 EP.950 | Mnet 261022 방송",
-      "channel": "Mnet K-POP",
       "pin": false,
       "gone": false
     },
@@ -41682,20 +41093,6 @@
       "gone": false
     },
     {
-      "id": "v2483",
-      "ytId": "aH91xzdtMyo",
-      "eventId": "e215",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "'엠카드림' 오늘의 M-Zㅣ니🧞‍♂️ Xdinary Heroes, NCT WISH, Hearts2Hearts #엠카운트다운 EP.950 | Mnet 261022 방송",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v2484",
       "ytId": "ybvUa_mP-RI",
       "eventId": "e1",
@@ -41916,20 +41313,6 @@
       "gone": false
     },
     {
-      "id": "v2495",
-      "ytId": "73PlSWrPzMY",
-      "eventId": "e1",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "260110 IVE // Golden disc awards 2026 // Red carpet",
-      "channel": "IveCzechDive ",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v2497",
       "ytId": "kxLtef1rG64",
       "eventId": "e1",
@@ -42015,25 +41398,6 @@
       "gone": false
     },
     {
-      "id": "v2515",
-      "ytId": "2atmLwpia-c",
-      "eventId": "e220",
-      "songs": [
-        {
-          "songId": "g1s13",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "S2iT 에스투잇 | 효빈 직캠 | XOXZ ( IVE ) | 엔트리스튜디오_일산 | 260206 | 8K60P",
-      "channel": "7CLOVER",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v2516",
       "ytId": "l2wH64AtRzs",
       "eventId": "e2",
@@ -42044,20 +41408,6 @@
       "tags": [],
       "title": "260212 [ENG SUB] IVE // M Countdown // Waiting room",
       "channel": "IveCzechDive ",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v2517",
-      "ytId": "w2jxMFxu5mA",
-      "eventId": "e2",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "'컴백 인터뷰' IVE (아이브) #엠카운트다운 EP.916 | Mnet 260212 방송",
-      "channel": "Mnet K-POP",
       "pin": false,
       "gone": false
     },
@@ -42190,20 +41540,6 @@
       "gone": false
     },
     {
-      "id": "v2529",
-      "ytId": "y-9dTFgl2iU",
-      "eventId": "e3",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(ENG)[MusicBank Interview]  아이브 (IVE  Interview) l @ MusicBank KBS 260213",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v2530",
       "ytId": "DKeE3FZrhPM",
       "eventId": "e3",
@@ -42313,20 +41649,6 @@
       "gone": false
     },
     {
-      "id": "v2541",
-      "ytId": "RPDukZqC8xo",
-      "eventId": "e4",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "IVE INTERVIEW ON MUSIC CORE 260214",
-      "channel": "NMZ KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v2542",
       "ytId": "wQrUPjCssdk",
       "eventId": "e4",
@@ -42344,68 +41666,6 @@
       "tags": [],
       "title": "[#음중직캠] IVE JANG WONYOUNG (아이브 장원영) – BANG BANG FanCam | 쇼! 음악중심 | MBC260214",
       "channel": "MBCkpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v2543",
-      "ytId": "9nGYtqcblRs",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": null,
-      "tags": [
-        "4K",
-        "얼빡"
-      ],
-      "title": "【4K facecam slowmotion】260214 IVE WonYoung ‘BANG BANG’ sexy dance",
-      "channel": "Budapest Xijunge",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v2546",
-      "ytId": "SBb_qg7exoY",
-      "eventId": "e4",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "IVE COMEBACK INTERVIEW ON MBC SHOW! MUSIC CORE 260214.",
-      "channel": "KPOP WIN ENCORE 01. 🏆🏆",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v2547",
-      "ytId": "32yNHoA3N8M",
-      "eventId": "e4",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": null,
-      "tags": [
-        "4K",
-        "얼빡"
-      ],
-      "title": "TWIXTOR CLIPS 4K LIZ FACECAM \"BANG BANG\" IVE 260214",
-      "channel": "seyo",
       "pin": false,
       "gone": false
     },
@@ -42446,20 +41706,6 @@
       "tags": [],
       "title": "BANG BANG - IVE | SBS 260215 방송",
       "channel": "SBSKPOP X INKIGAYO",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v2550",
-      "ytId": "ZXF-jghepF0",
-      "eventId": "e5",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "IVE INTERVIEW ON INKIGAYO 260215",
-      "channel": "NMZ KPOP",
       "pin": false,
       "gone": false
     },
@@ -42598,66 +41844,6 @@
       ],
       "title": "[안방1열 직캠4K] 아이브 장원영 'BANG BANG' (IVE JANG WONYOUNG FanCam) @SBS Inkigayo 260215",
       "channel": "SBSKPOP ZOOM",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v2560",
-      "ytId": "qmCWf6ZoODc",
-      "eventId": "e5",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "260215 [ENG SUB] IVE // JTBC Newsroom // Interview ",
-      "channel": "IveCzechDive ",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v2561",
-      "ytId": "vDGp8w8L9Uw",
-      "eventId": "e5",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "【4K fancam slowmotion】260215 IVE Liz ‘BANG BANG’ sexy dance",
-      "channel": "Budapest Xijunge",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v2562",
-      "ytId": "0iEvOWMi0Oc",
-      "eventId": "e5",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "【4K fancam slowmotion】260215 IVE WonYoung ‘BANG BANG’ sexy dance",
-      "channel": "Budapest Xijunge",
       "pin": false,
       "gone": false
     },
@@ -43537,20 +42723,6 @@
       "gone": false
     },
     {
-      "id": "v2613",
-      "ytId": "rQm_d8puYcQ",
-      "eventId": "e7",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(ENG)[MusicBank chart-topping  Interview ] 아이브 (IVE Interview)l@MusicBank KBS 260227",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v2614",
       "ytId": "Lf29jSgzyWM",
       "eventId": "e7",
@@ -43565,20 +42737,6 @@
       "source": "official",
       "tags": [],
       "title": "BLACKHOLE - IVE [뮤직뱅크/Music Bank] | KBS 260227 방송",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v2616",
-      "ytId": "oDtniOEQOX4",
-      "eventId": "e7",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(ENG)[MusicBank Interview]  아이브 (IVE  Interview) l @ MusicBank KBS 260227",
       "channel": "KBS Kpop",
       "pin": false,
       "gone": false
@@ -43813,20 +42971,6 @@
       "tags": [],
       "title": "[CLEAN MR REMOVED] IVE (아이브) - BLACKHOLE | Show! MusicCore | MBC 260228 방송 | LIVE MR제거",
       "channel": "CLEAN MR Removed ",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v2634",
-      "ytId": "xHTVtr_7AeA",
-      "eventId": "e8",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "IVE INTERVIEW ON MUSIC CORE 260228",
-      "channel": "NMZ KPOP",
       "pin": false,
       "gone": false
     },
@@ -44234,57 +43378,6 @@
       "gone": false
     },
     {
-      "id": "v2663",
-      "ytId": "SDiD-Q2LKXQ",
-      "eventId": "e11",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(ENG)[MusicBank chart-topping  Interview ] 아이브 (IVE Interview)l@MusicBank KBS 260306",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v2665",
-      "ytId": "BAswPSjhfr8",
-      "eventId": "e11",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(ENG)[MusicBank Interview]  아이브 (IVE  Interview) l @ MusicBank KBS 260306",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v2666",
-      "ytId": "PeEMCsnAjfg",
-      "eventId": "e11",
-      "songs": [
-        {
-          "songId": "g1s15",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "【4K fancam slowmotion】260306 IVE WonYoung ‘BLACKHOLE’ sexy dance",
-      "channel": "Budapest Xijunge",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v2669",
       "ytId": "eZjGoXOD82w",
       "eventId": "e12",
@@ -44630,29 +43723,6 @@
       ],
       "title": "[안방1열 직캠4K] 아이브 가을 'BANG BANG' (IVE GAEUL FanCam) @SBS Inkigayo 260308",
       "channel": "SBSKPOP ZOOM",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v2695",
-      "ytId": "9iPoF67KF30",
-      "eventId": "e13",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "【4K fancam slowmotion】260308 IVE WonYoung ‘BANG BANG’ sexy dance",
-      "channel": "Budapest Xijunge",
       "pin": false,
       "gone": false
     },
@@ -45757,29 +44827,6 @@
       "gone": false
     },
     {
-      "id": "v2775",
-      "ytId": "WWNc6xxG9mY",
-      "eventId": "e14",
-      "songs": [
-        {
-          "songId": "g1s17",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "【4K fancam slowmotion】260321 IVE WonYoung ‘GENIE’ sexy dance",
-      "channel": "Budapest Xijunge",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v2776",
       "ytId": "da7zS1sgBS0",
       "eventId": "e14",
@@ -45822,27 +44869,6 @@
       ],
       "title": "［4K ] 260321 IVE LIZ  리즈  FANCAM - GENIE｜ Dive into Ive INCHEON",
       "channel": "𝓘𝓻𝓲𝓭𝓮𝓼𝓬𝓮𝓷𝓽",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v2779",
-      "ytId": "unuNZlbn-NA",
-      "eventId": "e14",
-      "songs": [
-        {
-          "songId": "g1s17",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m6"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "260321 아이브 이서 '소원을 말해봐' 직캠 확대",
-      "channel": "직캠덕후",
       "pin": false,
       "gone": false
     },
@@ -49130,53 +48156,6 @@
       "gone": false
     },
     {
-      "id": "v3005",
-      "ytId": "ZwnQN3wEnLw",
-      "eventId": "e2",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": null,
-      "tags": [
-        "4K",
-        "얼빡"
-      ],
-      "title": "Liz IVE - 4K 'Bang Bang' Facecam 260212 Edit Clips (Slow Mo/Twixtor)",
-      "channel": "LisaLuvsYou",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v3006",
-      "ytId": "Tuk3fLktnIw",
-      "eventId": "e5",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "【4K fancam slowmotion】260215 IVE yujin ‘BANG BANG’ sexy dance",
-      "channel": "Budapest Xijunge",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v3008",
       "ytId": "1yUMLC3uHbM",
       "eventId": "e5",
@@ -49446,29 +48425,6 @@
       "gone": false
     },
     {
-      "id": "v3026",
-      "ytId": "umYi8b7Php4",
-      "eventId": "e221",
-      "songs": [
-        {
-          "songId": "g1s15",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "【4K fancam slowmotion】260223 IVE WonYoung ‘BLACKHOLE’ sexy dance",
-      "channel": "Budapest Xijunge",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v3027",
       "ytId": "KQ749l4cgss",
       "eventId": "e221",
@@ -49528,22 +48484,6 @@
       "tags": [],
       "title": "[Comeback Stage] 260301 IVE (아이브) - BLACKHOLE | SBS INKIGAYO 인기가요 방송 [1080P]",
       "channel": "K-EVER KPOP LIVE [VOD]",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v3037",
-      "ytId": "arew-g_e-R0",
-      "eventId": "e236",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m6"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "으른 떠떠의 애기같은 러블리한 외출. 아이브 이서 마쥬 브랜드 프레젠테이션 IVE LEESEO (maje) 260319",
-      "channel": "MrDive_막냉이서",
       "pin": false,
       "gone": false
     },
@@ -53142,58 +52082,6 @@
       "gone": false
     },
     {
-      "id": "v3304",
-      "ytId": "pThIniFJSIw",
-      "eventId": "e244",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "아이브 장원영 포토월 직캠 (IVE WONYOUNG)｜다이슨 '슈퍼소닉 트래블 라운지' 팝업스토어 260423",
-      "channel": "Spinel CAM",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v3305",
-      "ytId": "nqvjstLJMBU",
-      "eventId": "e244",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "260423 아이브 ive 장원영 wonyoung 다이슨 팝업스토어 포토콜 4K 60P",
-      "channel": "ZCAM",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v3315",
-      "ytId": "0teDX_kd6ek",
-      "eventId": "e244",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "Wonyoung IVE - 4K 'Dyson Supersonic Travel Lounge Event' 260423 Edit Clips (Slow Mo/Twixtor)",
-      "channel": "LisaLuvsYou",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v3316",
       "ytId": "zGqminXkOuc",
       "eventId": "e16",
@@ -53638,25 +52526,6 @@
       "gone": false
     },
     {
-      "id": "v3367",
-      "ytId": "R4oojqQJDVc",
-      "eventId": "e246",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "260426 학엔터 신보리 🎵아이브 - BANG BANG @동성로 올킬",
-      "channel": "샤루룽",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v3368",
       "ytId": "yeFG8maRUHI",
       "eventId": "e247",
@@ -53678,7 +52547,7 @@
     {
       "id": "v3369",
       "ytId": "PnYg_kVx8O8",
-      "eventId": "e247",
+      "eventId": "e248",
       "songs": [
         {
           "songId": "g1s14",
@@ -53693,24 +52562,6 @@
       "tags": [],
       "title": "IVE (아이브) 이서가 직접 말아주는 BANG BANG! [2026.05.07 VS 두산 6차전 직캠]",
       "channel": "엘트",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v3372",
-      "ytId": "SZ6UuBh56Bk",
-      "eventId": "e248",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m6"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K60] 260507 아이브 이서 -시구 및 관람 @LG트윈스 VS 두산베어스",
-      "channel": "SnowWhite_LEESEO",
       "pin": false,
       "gone": false
     },
@@ -53847,41 +52698,6 @@
       "tags": [],
       "title": "IVE - Bang Bang Yujin Fancam (IVE 2nd World Tour in SG 260509)",
       "channel": "아이브이로그",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v3411",
-      "ytId": "42CAXb-SHfQ",
-      "eventId": "e254",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "260516 [ENG SUB] IVE REI interview ENHYPEN at ASEA 2026 #enhypen #엔하이픈 #IVE #이이브 ",
-      "channel": "bordereverie ~ clay",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v3412",
-      "ytId": "Ts0aIwjcTtg",
-      "eventId": "e255",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "[ARTBEAT 아트비트 ] 아이브 (IVE) - BANG BANG  |  @일산호수공원 260517",
-      "channel": "HAEDAL K-wave",
       "pin": false,
       "gone": false
     },
@@ -54242,40 +53058,6 @@
       "tags": [],
       "title": "260524 아이브 레이 직캠 \"IN YOUR HEART\" @ IVE WORLD TOUR [SHOW What I AM] IN MACAO",
       "channel": "직캠 Heya",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v3478",
-      "ytId": "EOkufmgPIbc",
-      "eventId": "e256",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "아이브 장원영 직캠 (IVE WONYOUNG)｜타미 힐피거 팝업스토어 포토콜 260529",
-      "channel": "Spinel CAM",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v3479",
-      "ytId": "PR04ejElclg",
-      "eventId": "e256",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260529 가방 브랜드 '투미(TUMI)' 팝업 행사 아이브 리즈 직캠",
-      "channel": "구찬성",
       "pin": false,
       "gone": false
     },
@@ -55551,40 +54333,6 @@
       "gone": false
     },
     {
-      "id": "v3618",
-      "ytId": "yupUINXaeKU",
-      "eventId": "e256",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "아이브 장원영 직캠 '팬서비스 좋은 워녕' (IVE WONYOUNG)｜타미 힐피거 팝업스토어 260529",
-      "channel": "Spinel CAM",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v3620",
-      "ytId": "ebnCjlt4sLE",
-      "eventId": "e259",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "260611 아이브 장원영 #jangwonyoung #ive 메디큐브 AGE-R 팝업 포토콜 4K",
-      "channel": "ZCAM",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v3621",
       "ytId": "maGul7USYvU",
       "eventId": "e20",
@@ -56097,25 +54845,6 @@
       "tags": [],
       "title": "[Full ver.] IVE WORLD TOUR 'SHOW WHAT I AM' in Tokyo Dome | 260624 Concert Highlight",
       "channel": "Celeb Confirmed",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v3689",
-      "ytId": "mjwkNcZgHUE",
-      "eventId": "e263",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": null,
-      "tags": [
-        "세로",
-        "4K"
-      ],
-      "title": "[4K][세로직캠] 260719 아이브 리즈 'TONYMOLY 브랜드행사' 토니모리 창립 20주년 팝업스토어 행사 (IVE LIZ fancam)",
-      "channel": "connect",
       "pin": false,
       "gone": false
     },
@@ -57266,27 +55995,6 @@
       "tags": [],
       "title": "IVE Wonyoung Attitude Fancam | 아이브 원영 직캠 | SHOW WHAT I AM | SEATTLE | 260807",
       "channel": "CLUCK CLUCK KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v3910",
-      "ytId": "u4R25bZqWGY",
-      "eventId": "e268",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[260808 KPOP IN PUBLIC HONG KONG] 4K BABYMONSTER - SHEESH, IVE - BANG BANG By Tokki.dance.hk",
-      "channel": "Tokki Dance HK",
       "pin": false,
       "gone": false
     },
@@ -59131,27 +57839,6 @@
       "tags": [],
       "title": "엔믹스 지우 ’TIC TIC’ (NMIXX JIWOO FanCam）｜260320 ZERO FRONTIER IN AMSTERDAM",
       "channel": "Wookie_408",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v4069",
-      "ytId": "eIp-PgXv5Fc",
-      "eventId": "e273",
-      "songs": [
-        {
-          "songId": "g2s13",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "NMIXX · Blue Valentine | SOLAR MILD 한결 직캠 | 260321 | 4K60p",
-      "channel": "Mop the Floor 직캠",
       "pin": false,
       "gone": false
     },
@@ -62092,27 +60779,6 @@
       "gone": false
     },
     {
-      "id": "v4582",
-      "ytId": "8VIXmmTpq-U",
-      "eventId": "e48",
-      "songs": [
-        {
-          "songId": "g2s13",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m3"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "NMIXX x MLB & San Francisco Giants - Sullyoon first pitch  - 260406",
-      "channel": "Fill Of Life",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v4586",
       "ytId": "lruZ2BVK5IM",
       "eventId": "e49",
@@ -62937,34 +61603,6 @@
       "gone": false
     },
     {
-      "id": "v4751",
-      "ytId": "6yVG6pGXjM0",
-      "eventId": "e54",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "'컴백 인터뷰' NMIXX (엔믹스) #엠카운트다운 EP.928 | Mnet 260514 방송",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v4755",
-      "ytId": "dUrsuxBuRog",
-      "eventId": "e55",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(ENG)[MusicBank Interview Cam] 엔믹스 (NMIXX Interview) l @MusicBank KBS 260515",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v4756",
       "ytId": "FReTsXaOj3E",
       "eventId": "e55",
@@ -62984,22 +61622,6 @@
       "tags": [],
       "title": "엔써 마음으로 썸네일 신중하게 골랐어요 NMIXX 'Crescendo' + 'Heavy Serenade' #뮤직뱅크 | KBS 260515 방송",
       "channel": "KBS 한국방송",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v4760",
-      "ytId": "N_DRxj5ZgyA",
-      "eventId": "e55",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] aespa, BOYNEXTDOOR, NMIXX, TWS, ILLIT, Billlie, FLARE U | On the way to Music Bank 260515",
-      "channel": "KBS WORLD English",
       "pin": false,
       "gone": false
     },
@@ -63059,76 +61681,6 @@
       "tags": [],
       "title": "[CLEAN MR REMOVED] NMIXX (엔믹스) - Heavy Serenade | Show! MusicCore | 260516 | LIVE MR제거",
       "channel": "CLEAN MR Removed ",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v4769",
-      "ytId": "LHb89Ofxn4g",
-      "eventId": "e57",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "260517 NMIXX (엔믹스) - Comeback Interview | SBS INKIGAYO 가요대전 방송 [1080P]",
-      "channel": "K-EVER KPOP LIVE2 [VOD]",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v4770",
-      "ytId": "T6b_Dj15yNs",
-      "eventId": "e57",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "NMIXX INTERVIEW ON INKIGAYO 260517",
-      "channel": "NMZ KPOP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v4775",
-      "ytId": "1J1GwRYE86o",
-      "eventId": "e58",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "'엠카드림' 오늘의 M-Zㅣ니🧞‍♂️ NMIXX, BOYNEXTDOOR, BABYMONSTER #엠카운트다운 EP.929 | Mnet 260521 방송",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v4779",
-      "ytId": "N4YRaD86Yik",
-      "eventId": "e285",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(ENG)[MusicBank chart-topping  Interview] 엔믹스 (NMIXX Interview) l @MusicBank KBS 260522",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v4780",
-      "ytId": "qWBpbEVkn44",
-      "eventId": "e285",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(ENG)[MusicBank Interview Cam] 엔믹스 (NMIXX Interview) l @MusicBank KBS 260522",
-      "channel": "KBS Kpop",
       "pin": false,
       "gone": false
     },
@@ -75334,20 +73886,6 @@
       "gone": false
     },
     {
-      "id": "v6283",
-      "ytId": "6txed80x0Ew",
-      "eventId": "e103",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "'컴백 인터뷰' fromis_9 (프로미스나인) #엠카운트다운 EP.938 | Mnet 260723 방송",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v6284",
       "ytId": "pOEp1GWLBvk",
       "eventId": "e105",
@@ -75416,34 +73954,6 @@
       "gone": false
     },
     {
-      "id": "v6288",
-      "ytId": "v_3MpsaWJPw",
-      "eventId": "e105",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "260724 프로미스나인(fromis_9) 팝업 스토어 방문2",
-      "channel": "프롬이들최고",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v6290",
-      "ytId": "OLVuaUzLgRk",
-      "eventId": "e105",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "260724 프로미스나인 나경 팝업 스토어",
-      "channel": "프로미스9.1",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v6292",
       "ytId": "h3Ztxg_dGlU",
       "eventId": "e105",
@@ -75479,20 +73989,6 @@
       "gone": false
     },
     {
-      "id": "v6296",
-      "ytId": "hohpf9VM_0E",
-      "eventId": "e105",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "260724 프로미스나인(fromis_9) 팝업 스토어 방문5",
-      "channel": "프롬이들최고",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v6297",
       "ytId": "M3sDTrPRz_8",
       "eventId": "e104",
@@ -75509,20 +74005,6 @@
       "source": "official",
       "tags": [],
       "title": "[K-Fancam] 프로미스나인 이채영 'Vitamin ME' (fromis_9 LEECHAEYOUNG Fancam) @뮤직뱅크(Music Bank) 260724",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v6298",
-      "ytId": "nc15jkU5jwM",
-      "eventId": "e104",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(ENG)[MusicBank Interview Cam] 프로미스나인 (fromis_9 Interview) l @MusicBank KBS 260724",
       "channel": "KBS Kpop",
       "pin": false,
       "gone": false
@@ -75718,20 +74200,6 @@
       "gone": false
     },
     {
-      "id": "v6328",
-      "ytId": "zOmAVcsYQgo",
-      "eventId": "e108",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "'엠카드림' 오늘의 M-Zㅣ니🧞‍♂️ fromis_9 (프로미스나인), 연준, MC 오이(소)박이 #엠카운트다운 EP.939 | Mnet 260730 방송",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v6330",
       "ytId": "b7s7iUmtRnc",
       "eventId": "e109",
@@ -75748,34 +74216,6 @@
       "source": "official",
       "tags": [],
       "title": "[K-Fancam] 프로미스나인 백지헌 'Vitamin ME' (fromis_9 BAEKJIHEON Fancam) @뮤직뱅크(Music Bank) 260731",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v6332",
-      "ytId": "sG2uGSC8sMA",
-      "eventId": "e109",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(ENG)[MusicBank chart-topping  Interview] 프로미스나인 (fromis_9 Interview) l @MusicBank KBS 260731",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v6333",
-      "ytId": "qt4y3ip_4oI",
-      "eventId": "e109",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(ENG)[MusicBank Interview Cam] 프로미스나인 (fromis_9 Interview) l @MusicBank KBS 260731",
       "channel": "KBS Kpop",
       "pin": false,
       "gone": false
@@ -78178,20 +76618,6 @@
         "4K"
       ],
       "title": "[엠카운트다운] ✨Special MC 지우X유하X이안✨ MC석 직캠 4K (JIWOO X YUHA X IAN (Hearts2Hearts) MC FanCam) 260226",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v6517",
-      "ytId": "4N6jyeBGPIw",
-      "eventId": "e138",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "'컴백 인터뷰' Hearts2Hearts (하츠투하츠) #엠카운트다운 EP.917 | Mnet 260226 방송",
       "channel": "Mnet K-POP",
       "pin": false,
       "gone": false
@@ -81238,30 +79664,6 @@
       ],
       "title": "[페이스캠4K] 하츠투하츠 지우 'Lemon Tang' (Hearts2Hearts JIWOO FaceCam) @SBS Inkigayo 260628",
       "channel": "SBSKPOP ZOOM",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v6728",
-      "ytId": "EAVAVsykaYA",
-      "eventId": "e165",
-      "songs": [
-        {
-          "songId": "g4s10",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g4m1"
-      ],
-      "source": null,
-      "tags": [
-        "4K",
-        "얼빡"
-      ],
-      "title": "Jiwoo Hearts2Hearts - 4K 'Lemon Tang' 260628 Facecam Edit Clips (Twixtor/Slow Mo)",
-      "channel": "LisaLuvsYou",
       "pin": false,
       "gone": false
     },
@@ -85231,29 +83633,6 @@
       "gone": false
     },
     {
-      "id": "v6972",
-      "ytId": "o4Gi266ZgzA",
-      "eventId": "e137",
-      "songs": [
-        {
-          "songId": "g4s35",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g4m4"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "Stella Hearts2Hearts - 4K 'Genie' 260222 Fancam Edit Clips (Twixtor/Slow Mo)",
-      "channel": "LisaLuvsYou",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v6974",
       "ytId": "rIMLfO6-xEc",
       "eventId": "e137",
@@ -85721,20 +84100,6 @@
       "gone": false
     },
     {
-      "id": "v7010",
-      "ytId": "CkDGvWE4QYs",
-      "eventId": "e139",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(ENG)[MusicBank Interview Cam] 하츠투하츠 (Hearts2Hearts Interview)l @MusicBank KBS 260227",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v7011",
       "ytId": "jvli5rpfVA4",
       "eventId": "e139",
@@ -86004,20 +84369,6 @@
       "gone": false
     },
     {
-      "id": "v7024",
-      "ytId": "tQRiHR_yuyo",
-      "eventId": "e140",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "HEARTS2HEARTS COMEBACK INTERVIEW ON MBC MUSIC CORE 260228.",
-      "channel": "KPOP WIN ENCORE 01. 🏆🏆",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v7026",
       "ytId": "yzEid0qSlnU",
       "eventId": "e140",
@@ -86125,20 +84476,6 @@
       ],
       "title": "[안방1열 직캠4K] 하츠투하츠 카르멘 'RUDE!' (Hearts2Hearts CARMEN FanCam) @SBS Inkigayo 260301",
       "channel": "SBSKPOP ZOOM",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7033",
-      "ytId": "VbpLNcE7J4Q",
-      "eventId": "e141",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "Hearts2Hearts INTERVIEW ON INKIGAYO 260301",
-      "channel": "NMZ KPOP",
       "pin": false,
       "gone": false
     },
@@ -86865,30 +85202,6 @@
       "gone": false
     },
     {
-      "id": "v7080",
-      "ytId": "Y1uBUxLHFPo",
-      "eventId": "e143",
-      "songs": [
-        {
-          "songId": "g4s9",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g4m4"
-      ],
-      "source": null,
-      "tags": [
-        "4K",
-        "얼빡"
-      ],
-      "title": "Stella Hearts2Hearts - 4K 'RUDE' 260306 Facecam Edit Clips (Twixtor/Slow Mo)",
-      "channel": "LisaLuvsYou",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v7083",
       "ytId": "MxLB1AxvNuE",
       "eventId": "e143",
@@ -87221,29 +85534,6 @@
       ],
       "title": "[안방1열 직캠4K] 하츠투하츠 이안 'RUDE!' (Hearts2Hearts IAN FanCam) @SBS Inkigayo 260308",
       "channel": "SBSKPOP ZOOM",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7105",
-      "ytId": "rWo33neh6RM",
-      "eventId": "e145",
-      "songs": [
-        {
-          "songId": "g4s9",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g4m7"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "【4K fancam slowmotion】260308 Hearts2Hearts IAN ‘'RUDE’ sexy dance",
-      "channel": "Budapest Xijunge",
       "pin": false,
       "gone": false
     },
@@ -94504,20 +92794,6 @@
       "gone": false
     },
     {
-      "id": "v7632",
-      "ytId": "7JJ9plbKsFE",
-      "eventId": "e163",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "'컴백 인터뷰' Hearts2Hearts (하츠투하츠) #엠카운트다운 EP.934 | Mnet 260625 방송",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v7633",
       "ytId": "1EBrRMIhHYs",
       "eventId": "e163",
@@ -94608,20 +92884,6 @@
       "tags": [],
       "title": "Hearts2Hearts - Lemon Tang | Show! MusicCore | aired on MBC260627 #Hearts2Hearts",
       "channel": "MBC WORLD",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7657",
-      "ytId": "a1DVg2uCLpk",
-      "eventId": "e164",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "HEARTS2HEARTS COMEBACK INTERVIEW ON MBC MUSIC CORE 260627.",
-      "channel": "KPOP WIN ENCORE 01. 🏆🏆",
       "pin": false,
       "gone": false
     },
@@ -94822,30 +93084,6 @@
       "gone": false
     },
     {
-      "id": "v7673",
-      "ytId": "lnJjJFnvu4A",
-      "eventId": "e165",
-      "songs": [
-        {
-          "songId": "g4s10",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g4m6"
-      ],
-      "source": null,
-      "tags": [
-        "4K",
-        "얼빡"
-      ],
-      "title": "A-Na Hearts2Hearts - 4K 'Lemon Tang' 260628 Facecam Edit Clips (Twixtor/Slow Mo)",
-      "channel": "LisaLuvsYou",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v7674",
       "ytId": "1R6k3rJKyrs",
       "eventId": "e165",
@@ -94947,20 +93185,6 @@
       "tags": [],
       "title": "260702 엠카운트다운 하츠투하츠 Lemon Tang 1위 앵콜 무대",
       "channel": "혜의 덕질일기",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7683",
-      "ytId": "hJSMEmJJH6I",
-      "eventId": "e167",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(ENG)[MusicBank Interview Cam] 에이티즈 & 하츠투하츠 (ATEEZ & Hearts2Hearts Interview) l @MusicBank KB 260703",
-      "channel": "KBS Kpop",
       "pin": false,
       "gone": false
     },
@@ -95266,30 +93490,6 @@
       ],
       "title": "[페이스캠4K] 하츠투하츠 유하 'Lemon Tang' (Hearts2Hearts YUHA FaceCam) @SBS Inkigayo 260712",
       "channel": "SBSKPOP ZOOM",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7704",
-      "ytId": "1eRG4QmJD64",
-      "eventId": "e172",
-      "songs": [
-        {
-          "songId": "g4s10",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g4m8"
-      ],
-      "source": null,
-      "tags": [
-        "4K",
-        "얼빡"
-      ],
-      "title": "Ye-on Hearts2Hearts - 4K 'Lemon Tang' 260712 Facecam Edit Clips (Twixtor/Slow Mo)",
-      "channel": "LisaLuvsYou",
       "pin": false,
       "gone": false
     },
@@ -96259,7 +94459,7 @@
     {
       "id": "v7790",
       "ytId": "trhyjowmgJQ",
-      "eventId": "e291",
+      "eventId": "e65",
       "songs": [],
       "type": "full",
       "memberIds": [],
@@ -97348,69 +95548,6 @@
       "gone": false
     },
     {
-      "id": "v7855",
-      "ytId": "cHtadFz9RlU",
-      "eventId": "e262",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m1"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "아이브 안유진 직캠 확대 1",
-      "channel": "cam",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7863",
-      "ytId": "G35z0QDrcEA",
-      "eventId": "e33",
-      "songs": [
-        {
-          "songId": "g1s1",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m6"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "아이브 이서 직캠 확대 ELEVEN",
-      "channel": "rotten",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7865",
-      "ytId": "7xdCObXE2w0",
-      "eventId": "e34",
-      "songs": [
-        {
-          "songId": "g1s47",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g1m3"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "[IN YOUR HEART] IVE Rei Mixed Fancam",
-      "channel": "YEP",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v7866",
       "ytId": "PIwUrh5Tx38",
       "eventId": "e270",
@@ -97566,7 +95703,7 @@
     {
       "id": "v7882",
       "ytId": "a2ylkvWY7-o",
-      "eventId": "e214",
+      "eventId": "e181",
       "songs": [
         {
           "songId": "g4s5",
@@ -98137,38 +96274,6 @@
       "gone": false
     },
     {
-      "id": "v7920",
-      "ytId": "MK6mWzWXplQ",
-      "eventId": "e380",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "아이브(IVE) '골든디스크 어워즈' 대만 출국 Departure | 인천공항 • 260109",
-      "channel": "비몽 BIMONG",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7921",
-      "ytId": "r4EC8Xi8D1I",
-      "eventId": "e380",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m5"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260109 아이브 리즈 (IVE LIZ) - 인천공항 출국 직캠 (IVE LIZ FOCUS Fancam) | 2026 골든디스크어워즈",
-      "channel": "Luz Liz",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v7922",
       "ytId": "7Fss8aJ6oJY",
       "eventId": "e1",
@@ -98211,20 +96316,6 @@
       "source": "official",
       "tags": [],
       "title": "[COMEBACK🎉] IVE アイヴ 아이브 - BANG BANG [Music Bank] | KBS WORLD TV 260213",
-      "channel": "KBS WORLD TV",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7925",
-      "ytId": "uO_fuBfZlvI",
-      "eventId": "e3",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(Interview) Interview with IVE アイヴ 아이브 [Music Bank] | KBS WORLD TV 260213",
       "channel": "KBS WORLD TV",
       "pin": false,
       "gone": false
@@ -98358,20 +96449,6 @@
       "gone": false
     },
     {
-      "id": "v7933",
-      "ytId": "7gPY3PvuWgM",
-      "eventId": "e7",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(Interview) Interview with IVE アイヴ 아이브 [Music Bank] | KBS WORLD TV 260227",
-      "channel": "KBS WORLD TV",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v7934",
       "ytId": "gYvGmzE1hDM",
       "eventId": "e7",
@@ -98408,47 +96485,6 @@
       "tags": [],
       "title": "[#최애직캠] IVE AN YUJIN (아이브 안유진) – BLACKHOLE | 쇼! 음악중심 | MBC260228",
       "channel": "MBCkpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7936",
-      "ytId": "GxUanoI5qow",
-      "eventId": "e381",
-      "songs": [
-        {
-          "songId": "g1s13",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [],
-      "source": null,
-      "tags": [
-        "세로",
-        "4K"
-      ],
-      "title": "260302 에스투잇 S2iT - XOXZ 아이브 커버 | 세아 SE-A 세로 직캠 | 한류문화공동체 신촌 케이팝 페스티벌 [KPOP FanCam 4K]",
-      "channel": "Bamp VIDEO 8K",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7937",
-      "ytId": "xCOE70KsQfk",
-      "eventId": "e381",
-      "songs": [
-        {
-          "songId": "g1s13",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "S2IT 에스투잇 효빈 - 아이브 XOXZ 엑스오엑스지 @한류문화공동체 신촌케이팝페스티벌 (26.03.02)",
-      "channel": "z a m",
       "pin": false,
       "gone": false
     },
@@ -98505,20 +96541,6 @@
       "gone": false
     },
     {
-      "id": "v7941",
-      "ytId": "znreRkdXve0",
-      "eventId": "e11",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(Interview) Interview with IVE アイヴ 아이브 [Music Bank] | KBS WORLD TV 260306",
-      "channel": "KBS WORLD TV",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v7942",
       "ytId": "Ecpe7HG6zj4",
       "eventId": "e11",
@@ -98548,27 +96570,6 @@
       "tags": [],
       "title": "(Interview) Winner's Ceremony - IVE🏆 [Music Bank] | KBS WORLD TV 260313",
       "channel": "KBS WORLD TV",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7944",
-      "ytId": "CiY0nGHExyg",
-      "eventId": "e384",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260315 충남아산FC 유세빈 치어리더 '  IVE(아이브) - BANG BANG ' 직캠 @이순신종합운동장",
-      "channel": "하동",
       "pin": false,
       "gone": false
     },
@@ -99150,27 +97151,6 @@
       "gone": false
     },
     {
-      "id": "v7973",
-      "ytId": "YKzNZAHgOBI",
-      "eventId": "e387",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] SSG 랜더스 이연진 치어리더 - IVE 아이브 ‘뱅뱅’ @문학 260402",
-      "channel": "음악대장",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v7974",
       "ytId": "rAnMlHvLRmk",
       "eventId": "e226",
@@ -99262,7 +97242,7 @@
     {
       "id": "v7979",
       "ytId": "OOmvMt9t7bY",
-      "eventId": "e388",
+      "eventId": "e26",
       "songs": [
         {
           "songId": "g1s5",
@@ -99275,41 +97255,6 @@
       "tags": [],
       "title": "8.4.26 IVE - Oakland Show What i Am (full)",
       "channel": "yuce fan",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7980",
-      "ytId": "xgQw88zcJU0",
-      "eventId": "e389",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260424 SSG 랜더스 안지현 치어리더 -  IVE 아이브 ‘뱅뱅’  직캠 @문학경기장 SSG랜더스필드",
-      "channel": "음악대장",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7981",
-      "ytId": "ZrzsNbii0PA",
-      "eventId": "e390",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "아이브, 인천국제공항 출국✈️IVE Airport Departure to attend WORLD TOUR 'SHOW WHAT I AM' 2026.4.24 Newsen",
-      "channel": "뉴스엔·Newsen",
       "pin": false,
       "gone": false
     },
@@ -99417,25 +97362,6 @@
       "gone": false
     },
     {
-      "id": "v7987",
-      "ytId": "M3EspeW4Fes",
-      "eventId": "e391",
-      "songs": [
-        {
-          "songId": "g1s11",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "260505 AFuture 에이퓨처 서연 - 아이브 REBEL HEART 레블하트 (하남시 어린이날대축제) 직캠 fancam by zam",
-      "channel": "z a m",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v7988",
       "ytId": "XptGABd9KeA",
       "eventId": "e248",
@@ -99453,86 +97379,6 @@
       ],
       "title": "[4K60] 260507 아이브 이서 - BANGBANG 기념 무대 @LG트윈스 VS 두산베어스",
       "channel": "SnowWhite_LEESEO",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7989",
-      "ytId": "hiJPa6nmdbY",
-      "eventId": "e248",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m6"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "떠떠의 좌충우돌 첫 단독 시구행사 아이브 이서 LG TWINS 시구 IVE LEESEO 260507",
-      "channel": "MrDive_막냉이서",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7990",
-      "ytId": "SGWj7M-tGR0",
-      "eventId": "e248",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m6"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K60] 260507 아이브 이서 - 시구 직캠 @LG트윈스 VS 두산베어스",
-      "channel": "SnowWhite_LEESEO",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7991",
-      "ytId": "9HtpRYBsRZE",
-      "eventId": "e393",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "아이브, 인천국제공항 출국✈️IVE Airport Departure to attend WORLD TOUR 'SHOW WHAT I AM' 2026.5.8 Newsen",
-      "channel": "뉴스엔·Newsen",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7992",
-      "ytId": "FxGXi28XLu8",
-      "eventId": "e394",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g1m4"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "Jang Wonyoung #장원영 : AMUSE in Bangkok @CentralWorld  [15.05.2026] [4K 60FPS] #IVE",
-      "channel": "YIBKLONG 📱",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7993",
-      "ytId": "ZnK2qaVr2hc",
-      "eventId": "e395",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "아이브, 인천국제공항 출국✈️IVE Airport Departure to attend WORLD TOUR 'SHOW WHAT I AM' 2026.5.22 Newsen",
-      "channel": "뉴스엔·Newsen",
       "pin": false,
       "gone": false
     },
@@ -99596,41 +97442,6 @@
       "gone": false
     },
     {
-      "id": "v7997",
-      "ytId": "NgsZFk6yxVE",
-      "eventId": "e396",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "아이브, 인천국제공항 출국✈️IVE Airport Departure to attend WORLD TOUR 'SHOW WHAT I AM' 2026.6.11 Newsen",
-      "channel": "뉴스엔·Newsen",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v7998",
-      "ytId": "7RI-V4DkI2o",
-      "eventId": "e397",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260617 SSG 랜더스 안지현 치어리더 -  IVE 아이브 ‘뱅뱅’  직캠 @문학경기장 SSG랜더스필드",
-      "channel": "음악대장",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v7999",
       "ytId": "tYq1Hi09OJc",
       "eventId": "e231",
@@ -99646,27 +97457,6 @@
       "tags": [],
       "title": "260620 IVE Fancam - SHOW WHAT I AM Auckland Tour  - Part 9 -  Explosive opener! (Gotcha, XOXZ)",
       "channel": "FenberryKpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8000",
-      "ytId": "OXc2BQyV6iw",
-      "eventId": "e398",
-      "songs": [
-        {
-          "songId": "g1s14",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260703 SSG 랜더스 안지현 치어리더 -  IVE 아이브 ‘뱅뱅’  직캠 @문학경기장 SSG랜더스필드",
-      "channel": "음악대장",
       "pin": false,
       "gone": false
     },
@@ -99854,48 +97644,6 @@
       ],
       "title": "[4K60P] 260816 캐리비안베이 IVE(아이브) - ‘BANG BANG’ 직캠 | WATER MUSIC POOL PARTY",
       "channel": "무슨 말이 필요해",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8010",
-      "ytId": "fmeZij5euXc",
-      "eventId": "e399",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "아이브 'TIMA' 출국 직캠｜IVE Airport Depature 260822",
-      "channel": "Spinel CAM",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8011",
-      "ytId": "kdfVL0Iq7Gg",
-      "eventId": "e399",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "아이브 'TIMA에서 만나요!' [STARPIC] IVE Departure at Incheon Airport 20260822",
-      "channel": "스타뉴스 STARPLUS",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8012",
-      "ytId": "jvHjRS603kc",
-      "eventId": "e31",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "260823 [ENG SUB] IVE at TIMA 2026 Day 2 | Red Carpet Interview",
-      "channel": "IveCzechDive ",
       "pin": false,
       "gone": false
     },
@@ -100172,36 +97920,6 @@
       "tags": [],
       "title": "261022 [ENG SUB] IVE | WONYOUNG 장원영 | Berriz Live After M COUNTDOWN",
       "channel": "IveCzechDive ",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8026",
-      "ytId": "-acMSDXR6fU",
-      "eventId": "e39",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "아이브 (IVE Interview) l @MusicBank KBS 261023",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8027",
-      "ytId": "sqa7SbBtz58",
-      "eventId": "e39",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "261023 아이브 ive 뮤직뱅크 퇴근 Musicbank 4K",
-      "channel": "ZCAM",
       "pin": false,
       "gone": false
     },
@@ -100597,20 +98315,6 @@
       "gone": false
     },
     {
-      "id": "v8050",
-      "ytId": "5eolbU592vI",
-      "eventId": "e55",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(Interview) Interview with NMIXX エンミックス 엔믹스 [Music Bank] | KBS WORLD TV 260515",
-      "channel": "KBS WORLD TV",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v8051",
       "ytId": "IDq_pBa3Ljo",
       "eventId": "e55",
@@ -100682,20 +98386,6 @@
       "gone": false
     },
     {
-      "id": "v8055",
-      "ytId": "YCWa-lB3Yek",
-      "eventId": "e285",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(Interview) Interview with NMIXX エンミックス 엔믹스 [Music Bank] | KBS WORLD TV 260522",
-      "channel": "KBS WORLD TV",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v8056",
       "ytId": "wCtnw0I9xNs",
       "eventId": "e285",
@@ -100711,22 +98401,6 @@
       "tags": [],
       "title": "[1HR LOOP🔥] NMIXX  - Heavy Serenade [Music Bank] | KBS WORLD TV 260522",
       "channel": "KBS WORLD Latino",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8057",
-      "ytId": "gdpP8IxaUKU",
-      "eventId": "e285",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] CORTIS, ITZY, I.O.I, LE SSERAFIM, ZEROBASEONE, NMIXX, TAEYONG | On the way to Music Bank 260522",
-      "channel": "KBS WORLD English",
       "pin": false,
       "gone": false
     },
@@ -100891,76 +98565,6 @@
       "gone": false
     },
     {
-      "id": "v8067",
-      "ytId": "hYqNz8Yy8Po",
-      "eventId": "e403",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "엔믹스, 야구⚾️ '시구·시타' 화이팅👍💪🥰 누구?누구? 일까요? (출국)✈️'NMIXX' ICN Airport Departure 2026.8.15 Newsen",
-      "channel": "뉴스엔·Newsen",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8068",
-      "ytId": "mVL6OEY9bnM",
-      "eventId": "e404",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "엔믹스 'TIMA' 출국 직캠｜NMIXX Airport Departure 260822",
-      "channel": "Spinel CAM",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8069",
-      "ytId": "13kJautH_JQ",
-      "eventId": "e405",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "엔믹스 'TIMA' 입국 직캠｜NMIXX Airport Arrival 260824",
-      "channel": "Spinel CAM",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8070",
-      "ytId": "K1UUN5zCcRw",
-      "eventId": "e406",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "엔믹스 출국 '기분 좋은 믹둥이' 직캠｜NMIXX 'Music Bank in Barcelona' Airport Departure 260911",
-      "channel": "Spinel CAM",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8071",
-      "ytId": "yDvQnAeaJvE",
-      "eventId": "e406",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "엔믹스 출국 '버스 지나갈때 포즈 바꾸기' 직캠 ｜NMIXX 'Music Bank in Barcelona' Airport Departure 260911",
-      "channel": "Spinel CAM",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v8072",
       "ytId": "DxvMXtl2ppk",
       "eventId": "e77",
@@ -101042,20 +98646,6 @@
       "gone": false
     },
     {
-      "id": "v8076",
-      "ytId": "LYr6-EQdmy0",
-      "eventId": "e204",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "엔믹스 (NMIXX Interview) l @MusicBank KBS 261023",
-      "channel": "KBS Kpop",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v8077",
       "ytId": "GUQxwaML-ts",
       "eventId": "e408",
@@ -101090,29 +98680,6 @@
       "tags": [],
       "title": "260130 콘서트에서 즐기는 프로미스나인 ♧하얀그리움♧ ",
       "channel": "프로미스9.1",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8079",
-      "ytId": "mGv1IQbcfow",
-      "eventId": "e313",
-      "songs": [
-        {
-          "songId": "g3s49",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m5"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 프로미스나인 백지헌 - Love Story 교차편집 | 260130~0201| NOW TOMORROW ENCORE",
-      "channel": "널내일이라부를래",
       "pin": false,
       "gone": false
     },
@@ -101226,27 +98793,6 @@
       "gone": false
     },
     {
-      "id": "v8085",
-      "ytId": "honUf0CbJeo",
-      "eventId": "e85",
-      "songs": [
-        {
-          "songId": "g3s58",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m3"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "프로미스나인 이채영 - 'Pretender' 교차편집 fromis_9 CHAEYOUNG | 260228 [Now Tomorrow.] Encore IN JAPAN",
-      "channel": "메건메거니",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v8086",
       "ytId": "WYyUXQuQIHI",
       "eventId": "e85",
@@ -101302,20 +98848,6 @@
       "tags": [],
       "title": "[1HR LOOP🔥] fromis_9 - Vitamin ME [Music Bank] | KBS WORLD TV 260724",
       "channel": "KBS WORLD Latino",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8089",
-      "ytId": "6jDsbERVgQw",
-      "eventId": "e104",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(Interview) Interview with fromis_9 プロミスナイン 프로미스나인 [Music Bank] | KBS WORLD TV 260724",
-      "channel": "KBS WORLD TV",
       "pin": false,
       "gone": false
     },
@@ -101388,20 +98920,6 @@
       "source": "official",
       "tags": [],
       "title": "(Interview) Winner's Ceremony - fromis_9 プロミスナイン 프로미스나인🏆 [Music Bank] | KBS WORLD TV 260731",
-      "channel": "KBS WORLD TV",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8094",
-      "ytId": "gc87q-reNws",
-      "eventId": "e109",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "(Interview) Interview with fromis_9 プロミスナイン 프로미스나인 [Music Bank] | KBS WORLD TV 260731",
       "channel": "KBS WORLD TV",
       "pin": false,
       "gone": false
@@ -101790,20 +99308,6 @@
       "gone": false
     },
     {
-      "id": "v8113",
-      "ytId": "ZKVBmXD3BzQ",
-      "eventId": "e205",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "26.09.17 서울대 축제 프로미스나인 · 너드커넥션 · MEOVV 편집본  fromis_9 · Nerd Connection · MEOVV SNU Fall Festival",
-      "channel": "CH Park",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v8114",
       "ytId": "ui--OaAgv6g",
       "eventId": "e129",
@@ -101871,34 +99375,6 @@
       "gone": false
     },
     {
-      "id": "v8117",
-      "ytId": "ALBwP44xtCk",
-      "eventId": "e411",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "Hearts2Hearts(하츠투하츠), 인천국제공항 입국✈️'SMTOWN LIVE 2025 in FUKUOKA' Airport Arrival 2026.2.2 Newsen",
-      "channel": "뉴스엔·Newsen",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8118",
-      "ytId": "jeXO_4lmVzA",
-      "eventId": "e412",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "하츠투하츠(H2H), 얼음❄️👋(땡)짠하고 봄의 요정이 나타나(출국)✈️Hearts2Hearts SMTOWN LIVE Airport Departure 2026.2.12 Newsen",
-      "channel": "뉴스엔·Newsen",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v8119",
       "ytId": "MzRiYBp3G1Q",
       "eventId": "e328",
@@ -101961,45 +99437,6 @@
       "tags": [],
       "title": "260215 한터뮤직어워즈 하츠투하츠 - STYLE",
       "channel": "힘들다힘들어 덕질생활",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8123",
-      "ytId": "mPJHyyBrUUQ",
-      "eventId": "e134",
-      "songs": [
-        {
-          "songId": "g4s5",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g4m7"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260215 하츠투하츠 이안 (Hearts2Hearts IAN) - 이영지 무대 리액션 직캠 (H2H IAN FOCUS Fancam) | 한터뮤직어워즈 2025",
-      "channel": "Luz Liz",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8124",
-      "ytId": "cIDZgWRw6RY",
-      "eventId": "e134",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g4m6"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "260215 하츠투하츠 에이나 - 이영지 무대 리액션 직캠 Hearts2Hearts A-NA fancam. @HMA 한터뮤직어워",
-      "channel": "tangerine",
       "pin": false,
       "gone": false
     },
@@ -102106,33 +99543,6 @@
       ],
       "title": "[4K fancam] Hearts2Hearts IAN (하츠투하츠 이안) - Butterflies :: 260221 Hearts2 House",
       "channel": "connect",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8130",
-      "ytId": "k5DAME9o58w",
-      "eventId": "e331",
-      "songs": [
-        {
-          "songId": "g4s31",
-          "t": 0
-        },
-        {
-          "songId": "g4s5",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g4m3"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4k] 260221×260222 ＜HEARTS 2 HOUSE＞IN SEOUL | Hearts2Hearts YUHA 'Red Flavor' 직캠 교차편집 (YUHA Focus)",
-      "channel": "청람🎐",
       "pin": false,
       "gone": false
     },
@@ -102618,20 +100028,6 @@
       "gone": false
     },
     {
-      "id": "v8156",
-      "ytId": "QSz4WnlOCzY",
-      "eventId": "e415",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "Hearts2Hearts 하츠투하츠 '북미 쇼케이스' 출국｜Airport Departure 260318",
-      "channel": "Spinel CAM",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v8157",
       "ytId": "NVn0nRkL3qM",
       "eventId": "e339",
@@ -102722,34 +100118,6 @@
       "gone": false
     },
     {
-      "id": "v8163",
-      "ytId": "bofVQOvlrgQ",
-      "eventId": "e416",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "하츠투하츠(H2H), 김포국제공항 출국✈️Hearts2Hearts 'KCON JAPAN 2026' Airport Departure 2026.5.7 Newsen",
-      "channel": "뉴스엔·Newsen",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8164",
-      "ytId": "sZBfqJdalEs",
-      "eventId": "e416",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "하츠투하츠 KCON Japan 출국｜Hearts2Hearts Airport Departure 260507",
-      "channel": "Spinel CAM",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v8165",
       "ytId": "_95o3tbOeoY",
       "eventId": "e155",
@@ -102809,20 +100177,6 @@
       "tags": [],
       "title": "260530 | RUDE! | #Hearts2Hearts | M COUNTDOWN X MEGA CONCERT",
       "channel": "파란너구리",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v8168",
-      "ytId": "HX80J28o0h8",
-      "eventId": "e417",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "하츠투하츠 출국 ''K-EXPO 인기가요 in Paris'｜Hearts2Hearts Airport Deparute 260616",
-      "channel": "Spinel CAM",
       "pin": false,
       "gone": false
     },
@@ -103009,20 +100363,6 @@
       "gone": false
     },
     {
-      "id": "v8179",
-      "ytId": "sWYd_1A801I",
-      "eventId": "e170",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "'엠카드림' 오늘의 M-Zㅣ니🧞‍♂️ RIIZE, Hearts2Hearts, Keyveatz #엠카운트다운 EP.936 | Mnet 260709 방송",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v8180",
       "ytId": "kQsUtiKppSM",
       "eventId": "e379",
@@ -103147,20 +100487,6 @@
       "gone": false
     },
     {
-      "id": "v8186",
-      "ytId": "Tc54pZ3keKM",
-      "eventId": "e418",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "Hearts2Hearts 하츠투하츠 H2H Incheon ICN Departure to Hong Kong for TIMA 260820",
-      "channel": "4KLive",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v8187",
       "ytId": "mxQMG39o4qg",
       "eventId": "e419",
@@ -103226,20 +100552,6 @@
       "gone": false
     },
     {
-      "id": "v8190",
-      "ytId": "oe7bWsw9BQ4",
-      "eventId": "e420",
-      "songs": [],
-      "type": "full",
-      "memberIds": [],
-      "source": "official",
-      "tags": [],
-      "title": "'엠카드림' 오늘의 M-Zㅣ니🧞‍♂️NEXZ, Hearts2Hearts, ALPHA DRIVE ONE #엠카운트다운 EP.944 | Mnet 260903 방송",
-      "channel": "Mnet K-POP",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v8191",
       "ytId": "luvc8CReo9g",
       "eventId": "e183",
@@ -103265,7 +100577,7 @@
     {
       "id": "v8192",
       "ytId": "Q1Y-UFmgnXg",
-      "eventId": "e421",
+      "eventId": "e185",
       "songs": [],
       "type": "full",
       "memberIds": [],
@@ -103281,7 +100593,7 @@
     {
       "id": "v8193",
       "ytId": "ZTiBevPH0cg",
-      "eventId": "e421",
+      "eventId": "e185",
       "songs": [],
       "type": "full",
       "memberIds": [],
