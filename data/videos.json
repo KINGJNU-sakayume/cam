@@ -3059,15 +3059,6 @@
       "note": ""
     },
     {
-      "id": "e147",
-      "groupId": "g4",
-      "date": "2026-03-12",
-      "show": "뮤직뱅크",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
       "id": "e148",
       "groupId": "g4",
       "date": "2026-03-13",
@@ -3193,15 +3184,6 @@
       "setlist": [
         "g4s9"
       ],
-      "note": ""
-    },
-    {
-      "id": "e160",
-      "groupId": "g4",
-      "date": "2026-06-04",
-      "show": "엠카운트다운",
-      "label": "",
-      "setlist": [],
       "note": ""
     },
     {
@@ -4631,15 +4613,6 @@
       "note": ""
     },
     {
-      "id": "e352",
-      "groupId": "g4",
-      "date": "2026-06-29",
-      "show": "인기가요",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
       "id": "e353",
       "groupId": "g4",
       "date": "2026-07-25",
@@ -4762,15 +4735,6 @@
       "id": "e367",
       "groupId": "g4",
       "date": "2026-05-07",
-      "show": "엠카운트다운",
-      "label": "",
-      "setlist": [],
-      "note": ""
-    },
-    {
-      "id": "e370",
-      "groupId": "g4",
-      "date": "2026-06-02",
       "show": "엠카운트다운",
       "label": "",
       "setlist": [],
@@ -19927,7 +19891,7 @@
     {
       "id": "v776",
       "ytId": "q9PWtxJcVCg",
-      "eventId": "e147",
+      "eventId": "e148",
       "songs": [
         {
           "songId": "g4s9",
@@ -20568,7 +20532,7 @@
     {
       "id": "v807",
       "ytId": "VtHBuYF5jI8",
-      "eventId": "e160",
+      "eventId": "e346",
       "songs": [
         {
           "songId": "g4s3",
@@ -79329,7 +79293,7 @@
     {
       "id": "v6667",
       "ytId": "o19eGtyaYAY",
-      "eventId": "e160",
+      "eventId": "e346",
       "songs": [
         {
           "songId": "g4s9",
@@ -79350,7 +79314,7 @@
     {
       "id": "v6668",
       "ytId": "o9X8MS-Wj8E",
-      "eventId": "e160",
+      "eventId": "e346",
       "songs": [
         {
           "songId": "g4s5",
@@ -80364,7 +80328,7 @@
     {
       "id": "v6730",
       "ytId": "Unc654JUHO0",
-      "eventId": "e352",
+      "eventId": "e165",
       "songs": [
         {
           "songId": "g4s10",
@@ -80385,7 +80349,7 @@
     {
       "id": "v6731",
       "ytId": "gZmGF31v11E",
-      "eventId": "e352",
+      "eventId": "e165",
       "songs": [],
       "type": "fancam",
       "memberIds": [
@@ -92950,7 +92914,7 @@
     {
       "id": "v7575",
       "ytId": "oJEBC17nZOo",
-      "eventId": "e370",
+      "eventId": "e346",
       "songs": [
         {
           "songId": "g4s10",

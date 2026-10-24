@@ -7,7 +7,7 @@ import { themeButton, applyAccent } from './js/theme.js';
 import { app, loadPrefs, savePrefs, saveFilters, filtersOf, filterCount, sortEvents, adminHref } from './js/state.js';
 import { GROUP_KEY } from './js/model.js';
 import { ICON } from './js/components.js';
-import { lineupHTML, mountLineup, setRowSong, setOpen, lineupLoadMore } from './js/views/lineup.js';
+import { lineupHTML, mountLineup, setRowSong, setOpen, lineupLoadMore, scrollCarousel } from './js/views/lineup.js';
 import { folderHTML, mountFolder, toggleFolderCell } from './js/views/folder.js';
 import { songListHTML, songPageHTML } from './js/views/song.js';
 import { memberListHTML, memberPageHTML } from './js/views/member.js';
@@ -229,6 +229,10 @@ function viewbarHTML(g, view) {
   return html`<div class="viewbar">
     <nav class="seg" aria-label="보기">${items.map(([k, t, h]) => html`<a href="${h}" ${k === view ? html`aria-current="page"` : ''}>${t}</a>`)}</nav>
     <div class="viewopts">
+      ${view === 'lineup' || view === 'song' ? html`<div class="seg" role="group" aria-label="배치">
+        <button type="button" data-act="layout" data-v="grid" aria-pressed="${String(app.prefs.layout !== 'carousel')}">격자</button>
+        <button type="button" data-act="layout" data-v="carousel" aria-pressed="${String(app.prefs.layout === 'carousel')}">넘겨보기</button>
+      </div>` : ''}
       <div class="seg" role="group" aria-label="정렬">
         <button type="button" data-act="sort" data-v="desc" aria-pressed="${String(!!(app.prefs.sort === 'desc'))}">최신순</button>
         <button type="button" data-act="sort" data-v="asc" aria-pressed="${String(!!(app.prefs.sort === 'asc'))}">오래된순</button>
@@ -485,6 +489,12 @@ function onAction(e) {
     }
     case 'sort':
       app.prefs.sort = el.dataset.v; savePrefs(); rerenderKeepFocus(el);
+      break;
+    case 'layout':
+      app.prefs.layout = el.dataset.v; savePrefs(); rerenderKeepFocus(el);
+      break;
+    case 'car':
+      scrollCarousel(el);
       break;
     case 'songSort':
       app.prefs.songSort = el.dataset.v; savePrefs(); rerenderKeepFocus(el);

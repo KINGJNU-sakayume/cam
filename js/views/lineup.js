@@ -141,6 +141,77 @@ function rowHTML(r) {
   </div>${open ? html`<div class="lu-panel" id="${`panel-${E.id}`}">${panelHTML(E, sel, fs)}</div>` : ''}`;
 }
 
+// ---------- 넘겨보기(시안): 풀캠을 왼쪽에 크게, 직캠이 있는 멤버 카드만 < > 로 넘겨 본다 ----------
+const carousel = () => app.prefs.layout === 'carousel';
+function carRowHTML(r) {
+  const { E, keys } = r;
+  const sel = selectedKey(E, keys);
+  const S = E.sections.get(sel);
+  const fs = S ? filteredSection(S, ctx.f) : { full: [], cells: new Map(), clips: [] };
+  const open = ctx.open === E.id;
+  // 멤버 순서대로 직캠이 있는 멤버만, 그 뒤에 단체·유닛
+  const cards = [];
+  for (const m of ctx.cols) {
+    const list = fs.cells.get(m.id) || [];
+    if (!list.length) continue;
+    const badges = [];
+    if (list.length > 1) badges.push({ text: `+${list.length - 1}` });
+    if (fs.clips.some((C) => C.key === m.id)) badges.push({ text: '움짤' });
+    if ((list[0].tags || []).includes('세로')) badges.push({ text: '세로' });
+    cards.push(videoThumb(list[0], { ratio: '23', songKey: sel, badges, label: `${m.name} 직캠 재생 (${srcTags(list[0])})`, stripExtra: srcShort(list[0]) }));
+  }
+  for (const [k, list] of fs.cells) {
+    if (k !== GROUP_KEY && !k.includes('+')) continue;
+    for (const v of list) cards.push(videoThumb(v, { ratio: '23', songKey: sel, label: `${cellKeyLabel(app.ix, k)} 직캠 재생`, stripExtra: srcShort(v) }));
+  }
+  const full = fs.full;
+  const c = summaryCounts(fs);
+  const sum = html`<button type="button" class="sumbtn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}">${summaryText(c)}</button>`;
+  let body;
+  if (!cards.length) {
+    // 직캠이 없으면 풀캠을 가로로 크게 늘어놓는다
+    body = full.length
+      ? html`<div class="car-fulls">${full.slice(0, 3).map((v, i) => videoThumb(v, { ratio: '169', songKey: sel, badges: i === 2 && full.length > 3 ? [{ text: `+${full.length - 3}` }] : [], caption: html`<div class="clamp1">${v.title || '풀캠'}</div>` }))}</div>`
+      : html`<div class="lu-nocam car-none"><span>이 곡은 영상이 아직 없어요</span><a class="add" href="${adminHref({ g: E.group.id, e: E.id, s: sel || undefined })}">+ 담기</a></div>`;
+  } else {
+    const main = full[0]
+      ? html`<div class="car-full">${videoThumb(full[0], { ratio: '169', songKey: sel, badges: full.length > 1 ? [{ text: `+${full.length - 1}` }] : [], caption: html`<div class="clamp1">${full[0].title || '풀캠'}</div>` })}</div>`
+      : '';
+    body = html`${main}<div class="${`car${main ? '' : ' wide'}`}" data-car>
+      <button type="button" class="car-btn prev" data-act="car" data-d="-1" aria-label="이전 직캠" disabled>‹</button>
+      <div class="car-track" role="list" aria-label="멤버 직캠">${cards.map((x) => html`<div class="car-item" role="listitem">${x}</div>`)}</div>
+      <button type="button" class="car-btn next" data-act="car" data-d="1" aria-label="다음 직캠">›</button>
+    </div>`;
+  }
+  return html`<div class="${`car-row${cards.length ? '' : ' nocam'}`}" id="${`row-${E.id}`}" data-row="${E.id}">
+    <span class="lu-tab" aria-hidden="true">${fmtMD(E.date)}</span>
+    <div class="lu-date">${dateBlock(E, keys, sel, ctx.forceSong)}
+      <button type="button" class="linkbtn expand-btn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}">${open ? '접기 ↑' : '이 날 전체 보기 ↓'}</button>
+      ${sum}
+    </div>
+    ${body}
+  </div>${open ? html`<div class="lu-panel car-panel" id="${`panel-${E.id}`}">${panelHTML(E, sel, fs)}</div>` : ''}`;
+}
+
+// < > 버튼: 넘칠 때만 켜고, 끝에 닿으면 끈다
+export function updateCarousels(root) {
+  for (const car of root.querySelectorAll('[data-car]')) {
+    const t = car.querySelector('.car-track');
+    const max = t.scrollWidth - t.clientWidth - 2;
+    car.classList.toggle('overflow', max > 0);
+    car.querySelector('.prev').disabled = t.scrollLeft <= 2;
+    car.querySelector('.next').disabled = t.scrollLeft >= max;
+  }
+}
+export function scrollCarousel(btn) {
+  const t = btn.closest('[data-car]')?.querySelector('.car-track');
+  if (!t) return;
+  const item = t.querySelector('.car-item');
+  const step = item ? item.getBoundingClientRect().width + 8 : t.clientWidth * 0.8;
+  const n = Math.max(1, Math.floor(t.clientWidth / step) - 1);
+  t.scrollBy({ left: Number(btn.dataset.d) * step * n, behavior: 'smooth' });
+}
+
 // 펼치기 패널: 현재 곡의 풀캠 전부, 단체·유닛, 여러 개 칸(멤버별), 움짤
 export function panelHTML(E, sel, fs) {
   const ix = app.ix;
@@ -184,7 +255,7 @@ function mobileCard(r) {
   const cams = ctx.cols.map((m) => {
     const list = fs.cells.get(m.id) || [];
     if (!list.length) {
-      if (app.prefs.hideEmpty) return '';
+      if (app.prefs.hideEmpty || carousel()) return '';
       return html`<div class="mthumb">${emptyCell({ member: m, g: E.group.id, e: E.id, s: sel || undefined, label: '없음' })}</div>`;
     }
     const v = list[0];
@@ -194,8 +265,9 @@ function mobileCard(r) {
   });
   return html`<article class="mcard" id="${`row-${E.id}`}" data-row="${E.id}">
     <div class="mcard-head">${dateBlock(E, keys, sel, ctx.forceSong)}</div>
+    ${carousel() && fs.full[0] ? html`<div class="mfull">${videoThumb(fs.full[0], { ratio: '169', songKey: sel, badges: fs.full.length > 1 ? [{ text: `+${fs.full.length - 1}` }] : [] })}</div>` : ''}
     ${ctx.cols.length && (hasCam(fs) || app.prefs.hideEmpty) ? html`<div class="mstrip" role="list" aria-label="멤버 직캠">${cams}</div>` : ''}
-    ${ctx.cols.length && !hasCam(fs) && !app.prefs.hideEmpty ? html`<p class="mnocam">멤버 직캠이 아직 없어요</p>` : ''}
+    ${ctx.cols.length && !hasCam(fs) && !app.prefs.hideEmpty && !carousel() ? html`<p class="mnocam">멤버 직캠이 아직 없어요</p>` : ''}
     <button type="button" class="sumbtn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}"><span>${summaryText(c)}</span><span aria-hidden="true">${open ? '↑' : '↓'}</span></button>
     ${open ? html`<div id="${`panel-${E.id}`}">${panelHTML(E, sel, fs)}</div>` : ''}
   </article>`;
@@ -207,7 +279,7 @@ function monthHTML(item) {
 
 function itemHTML(item) {
   if (item.type === 'month') return monthHTML(item);
-  return app.mobile ? mobileCard(item) : rowHTML(item);
+  return app.mobile ? mobileCard(item) : carousel() ? carRowHTML(item) : rowHTML(item);
 }
 
 // 라인업 전체 HTML. rows: [{E, keys}] (정렬·필터 끝난 것)
@@ -245,6 +317,7 @@ export function lineupHTML({ group, events, f, forceSong = null, open = null }) 
   const more = ctx.rendered < items.length ? html`<div class="lu-more" data-more aria-hidden="true" style="height:1px"></div>` : '';
 
   if (app.mobile) return html`<div class="mcards" id="lu-body">${body}</div>${more}`;
+  if (carousel()) return html`<div class="lu lu-car"><div id="lu-body">${body}${more}</div></div>`;
 
   const head = html`<div class="lu-headrow">
     <div class="lu-hcell first">날짜 · 행사</div>
@@ -264,9 +337,17 @@ export function mountLineup(root) {
   const headWrap = root.querySelector('.lu-head-wrap');
   if (sc && headWrap) {
     sc.addEventListener('scroll', () => { headWrap.scrollLeft = sc.scrollLeft; }, { passive: true });
-    const setW = () => root.querySelector('.lu')?.style.setProperty('--vis-w', `${sc.clientWidth}px`);
+    // 다시 그리면(격자 ↔ 넘겨보기) 떨어져 나간 스크롤 영역의 폭(0)을 새 화면에 넣지 않게 멈춘다
+    const ro = new ResizeObserver(() => setW());
+    const setW = () => { if (!sc.isConnected) { ro.disconnect(); return; } root.querySelector('.lu')?.style.setProperty('--vis-w', `${sc.clientWidth}px`); };
     setW();
-    new ResizeObserver(setW).observe(sc);
+    ro.observe(sc);
+  }
+  if (root.querySelector('[data-car]')) {
+    updateCarousels(root);
+    root.addEventListener('scroll', (e) => { if (e.target.classList?.contains('car-track')) updateCarousels(e.target.closest('[data-car]').parentElement); }, { capture: true, passive: true });
+    root.addEventListener('lu:more', () => updateCarousels(root));
+    new ResizeObserver(() => updateCarousels(root)).observe(root);
   }
   const sentinel = root.querySelector('[data-more]');
   if (sentinel) {
@@ -300,6 +381,7 @@ function replaceRow(root, eid) {
   el.insertAdjacentHTML('afterend', String(itemHTML(item)));
   const fresh = el.nextElementSibling;
   el.remove();
+  if (fresh.querySelector('[data-car]')) updateCarousels(fresh);
   return fresh;
 }
 
