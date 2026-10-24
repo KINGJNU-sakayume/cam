@@ -83,7 +83,8 @@ function stageHTML(v, t, kind) {
     return html`<div class="stage-wrap r169"><div class="ph"><img src="${ph}" alt="" class="${kind === 'full' ? 'full' : ''}"></div>
       <div class="ph-msg">${ICON.playLine}샘플 영상입니다${t ? ` · ${Math.floor(t / 60)}:${String(Math.floor(t % 60)).padStart(2, '0')}부터` : ''}</div></div>`;
   }
-  return html`<div class="stage-wrap r169"><iframe src="${ytEmbed(v.ytId, t)}" title="${v.title || '유튜브 영상'}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>`;
+  const vert = (v.tags || []).includes('세로');
+  return html`<div class="${`stage-wrap ${vert ? 'r916' : 'r169'}`}"><iframe src="${ytEmbed(v.ytId, t)}" title="${v.title || '유튜브 영상'}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>`;
 }
 
 function navBtn(dir, t, arrow, kindLabel) {
