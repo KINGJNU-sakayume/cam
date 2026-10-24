@@ -1,9 +1,17 @@
 // YouTube search with continuation paging (no API key needed beyond page's public innertube key)
 const UA='Mozilla/5.0';
+// "조회수 673,342회" · "조회수 131만회" · "1.2천회" · "12,155 views" → 숫자(모르면 null)
+export function parseViews(t){
+  const s=String(t||'').replace(/조회수|views?|회|,|\s/gi,'');
+  if(!s) return null;
+  const m=s.match(/^([\d.]+)(억|만|천|[KkMmBb])?$/); if(!m) return null;
+  const n=parseFloat(m[1]); const u={억:1e8,만:1e4,천:1e3,k:1e3,m:1e6,b:1e9}[(m[2]||'').toLowerCase()]||1;
+  return Math.round(n*u);
+}
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 function walk(o,f){ if(Array.isArray(o)) o.forEach(x=>walk(x,f)); else if(o&&typeof o==='object'){ f(o); for(const v of Object.values(o)) walk(v,f);} }
 function parse(d){ const vids=[]; let tok=null;
-  walk(d,o=>{ if(o.videoRenderer){const v=o.videoRenderer; vids.push({id:v.videoId,title:(v.title?.runs||[]).map(x=>x.text).join(''),ch:v.ownerText?.runs?.[0]?.text||'',pub:v.publishedTimeText?.simpleText||'',len:v.lengthText?.simpleText||''});}
+  walk(d,o=>{ if(o.videoRenderer){const v=o.videoRenderer; vids.push({id:v.videoId,title:(v.title?.runs||[]).map(x=>x.text).join(''),ch:v.ownerText?.runs?.[0]?.text||'',pub:v.publishedTimeText?.simpleText||'',len:v.lengthText?.simpleText||'',views:parseViews(v.viewCountText?.simpleText||v.viewCountText?.runs?.map(x=>x.text).join('')||'')});}
     if(o.continuationItemRenderer) tok=o.continuationItemRenderer.continuationEndpoint?.continuationCommand?.token||tok; });
   return {vids,tok}; }
 export async function search(q,{pages=3,sp=''}={}){
