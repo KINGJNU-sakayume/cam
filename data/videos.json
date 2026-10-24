@@ -1794,28 +1794,6 @@
       "note": ""
     },
     {
-      "id": "e41",
-      "groupId": "g2",
-      "date": "2026-01-11",
-      "show": "팬사인회",
-      "label": "",
-      "setlist": [
-        "g2s13"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e42",
-      "groupId": "g2",
-      "date": "2026-01-25",
-      "show": "팬사인회",
-      "label": "",
-      "setlist": [
-        "g2s13"
-      ],
-      "note": ""
-    },
-    {
       "id": "e43",
       "groupId": "g2",
       "date": "2026-02-24",
@@ -2031,17 +2009,6 @@
       "note": ""
     },
     {
-      "id": "e61",
-      "groupId": "g2",
-      "date": "2026-05-24",
-      "show": "팬사인회",
-      "label": "",
-      "setlist": [
-        "g2s14"
-      ],
-      "note": ""
-    },
-    {
       "id": "e62",
       "groupId": "g2",
       "date": "2026-05-25",
@@ -2090,17 +2057,6 @@
       "note": ""
     },
     {
-      "id": "e66",
-      "groupId": "g2",
-      "date": "2026-07-10",
-      "show": "팬사인회",
-      "label": "",
-      "setlist": [
-        "g2s14"
-      ],
-      "note": ""
-    },
-    {
       "id": "e67",
       "groupId": "g2",
       "date": "2026-07-12",
@@ -2145,17 +2101,6 @@
         "g2s14",
         "g2s5",
         "g2s9"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e71",
-      "groupId": "g2",
-      "date": "2026-08-22",
-      "show": "팬사인회",
-      "label": "",
-      "setlist": [
-        "g2s19"
       ],
       "note": ""
     },
@@ -2236,17 +2181,6 @@
       "groupId": "g2",
       "date": "2026-10-22",
       "show": "엠카운트다운",
-      "label": "",
-      "setlist": [
-        "g2s15"
-      ],
-      "note": ""
-    },
-    {
-      "id": "e79",
-      "groupId": "g2",
-      "date": "2026-10-22",
-      "show": "팬사인회",
       "label": "",
       "setlist": [
         "g2s15"
@@ -2649,17 +2583,6 @@
       "note": ""
     },
     {
-      "id": "e114",
-      "groupId": "g3",
-      "date": "2026-08-30",
-      "show": "팬사인회",
-      "label": "",
-      "setlist": [
-        "g3s8"
-      ],
-      "note": ""
-    },
-    {
       "id": "e115",
       "groupId": "g3",
       "date": "2026-09-04",
@@ -2886,15 +2809,6 @@
       "setlist": [
         "g3s5"
       ],
-      "note": ""
-    },
-    {
-      "id": "e132",
-      "groupId": "g3",
-      "date": "2026-10-18",
-      "show": "팬사인회",
-      "label": "",
-      "setlist": [],
       "note": ""
     },
     {
@@ -9536,48 +9450,6 @@
       "gone": false
     },
     {
-      "id": "v270",
-      "ytId": "P9WVJorvVcU",
-      "eventId": "e41",
-      "songs": [
-        {
-          "songId": "g2s13",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m2"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "260111 NMIXX LILY 엔믹스 릴리 - “Blue Valentine” 직캠(FanCam) | FANSIGN",
-      "channel": "Mercury VW ☿",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v271",
-      "ytId": "69_aO1XAQTg",
-      "eventId": "e42",
-      "songs": [
-        {
-          "songId": "g2s13",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m2"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "260125 NMIXX LILY 엔믹스 릴리 - “Blue Valentine” 직캠(FanCam) | FANSIGN",
-      "channel": "Mercury VW ☿",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v272",
       "ytId": "hcOYgbLQlgU",
       "eventId": "e43",
@@ -11505,27 +11377,6 @@
       "gone": false
     },
     {
-      "id": "v368",
-      "ytId": "aL0qIsRHVQY",
-      "eventId": "e61",
-      "songs": [
-        {
-          "songId": "g2s14",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m2"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "260524 NMIXX LILY 엔믹스 릴리 - “Heavy Serenade” 직캠(FanCam) | FANSIGN",
-      "channel": "Mercury VW ☿",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v369",
       "ytId": "gwoqi3ezUfg",
       "eventId": "e62",
@@ -11948,29 +11799,6 @@
       "gone": false
     },
     {
-      "id": "v391",
-      "ytId": "HA0o86pLDhk",
-      "eventId": "e66",
-      "songs": [
-        {
-          "songId": "g2s14",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m4"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K] 260710 \"Heavy Serenade\" NMIXX BAE Fancam 엔믹스 배이 직캠 @ Kaohsiung Fansign",
-      "channel": "LIKEOO. NMIXX BAE.",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v392",
       "ytId": "yAZVPv29uTc",
       "eventId": "e67",
@@ -12181,27 +12009,6 @@
       "tags": [],
       "title": "260815 Beyond the Dragons Roar | NMIXX 엔믹스SULLYOON 설윤 - DASH FanCam",
       "channel": "阿彥",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v402",
-      "ytId": "_Fe0742SJns",
-      "eventId": "e71",
-      "songs": [
-        {
-          "songId": "g2s19",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m2"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "260822 NMIXX LILY 엔믹스 릴리 - “RICO” 직캠(FanCam) | FANSIGN",
-      "channel": "Mercury VW ☿",
       "pin": false,
       "gone": false
     },
@@ -13475,71 +13282,6 @@
       "tags": [],
       "title": "261022 NMIXX BAE 엔믹스 배이-\"Birthday Wish\" 직캠(FanCam)",
       "channel": "paw_bae",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v462",
-      "ytId": "-K4k75TdOS8",
-      "eventId": "e79",
-      "songs": [
-        {
-          "songId": "g2s15",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m1"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "[4K]261022 팬싸 NMIXX HAEWON 엔믹스 해원 - 긴 소원 (Birthday Wish) 직캠",
-      "channel": "온리원☀️",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v463",
-      "ytId": "pqIjmuMYuas",
-      "eventId": "e79",
-      "songs": [
-        {
-          "songId": "g2s15",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m6"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "261022 NMIXX KYUJIN 엔믹스 규진 FANSIGN - \"긴 소원 (Birthday Wish)\" 직캠(FanCam)",
-      "channel": "STAR💫",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v464",
-      "ytId": "szQ2RDwcmgs",
-      "eventId": "e79",
-      "songs": [
-        {
-          "songId": "g2s15",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g2m3"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "261022 팬싸 긴 소원(Birthday Wish) NMIXX 엔믹스  SULLYOON 설윤  FANCAM 직캠",
-      "channel": "PAXXWORD🗝",
       "pin": false,
       "gone": false
     },
@@ -16351,29 +16093,6 @@
       "gone": false
     },
     {
-      "id": "v602",
-      "ytId": "k12IEqn2BNs",
-      "eventId": "e114",
-      "songs": [
-        {
-          "songId": "g3s8",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g3m5"
-      ],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "260830 프로미스나인 백지헌 - Vitamin ME 4K 직캠 @수원 스타필드 공개팬사인회 (fromis_9 BAEKJIHEON FANCAM)",
-      "channel": "Day_Day",
-      "pin": false,
-      "gone": false
-    },
-    {
       "id": "v603",
       "ytId": "k6A85_DezL0",
       "eventId": "e115",
@@ -18201,22 +17920,6 @@
       ],
       "title": "[4K 60p] 261008 프로미스나인 (fromis_9) - Supersonic 이나경 직캠 (fancam)",
       "channel": "undecided_124",
-      "pin": false,
-      "gone": false
-    },
-    {
-      "id": "v693",
-      "ytId": "vPP5qsEGIPk",
-      "eventId": "e132",
-      "songs": [],
-      "type": "fancam",
-      "memberIds": [
-        "g3m1"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "261018 프로미스나인(fromis_9) 송하영 8K 직캠 - Blue Heart (점프업 사인회)",
-      "channel": "퓨리",
       "pin": false,
       "gone": false
     },
