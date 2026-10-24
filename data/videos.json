@@ -1547,6 +1547,555 @@
           "release": ""
         }
       ]
+    },
+    {
+      "id": "g5",
+      "name": "에스파",
+      "en": "aespa",
+      "hue": 108,
+      "members": [
+        {
+          "id": "g5m1",
+          "name": "카리나",
+          "aliases": [
+            "KARINA",
+            "Karina",
+            "유지민",
+            "YU JIMIN",
+            "Yu Jimin"
+          ],
+          "order": 1,
+          "active": true,
+          "color": "#c2553f"
+        },
+        {
+          "id": "g5m2",
+          "name": "지젤",
+          "aliases": [
+            "GISELLE",
+            "Giselle",
+            "우치나가 애리",
+            "AERI UCHINAGA",
+            "Aeri Uchinaga"
+          ],
+          "order": 2,
+          "active": true,
+          "color": "#2f7d6d"
+        },
+        {
+          "id": "g5m3",
+          "name": "윈터",
+          "aliases": [
+            "WINTER",
+            "Winter",
+            "김민정",
+            "KIM MINJEONG",
+            "Kim Minjeong"
+          ],
+          "order": 3,
+          "active": true,
+          "color": "#3d6fb6"
+        },
+        {
+          "id": "g5m4",
+          "name": "닝닝",
+          "aliases": [
+            "NINGNING",
+            "Ningning",
+            "닝이줘",
+            "宁艺卓",
+            "NING YIZHUO",
+            "Ning Yizhuo"
+          ],
+          "order": 4,
+          "active": true,
+          "color": "#b07f22"
+        }
+      ],
+      "songs": [
+        {
+          "id": "g5s1",
+          "title": "Black Mamba",
+          "aliases": [
+            "블랙 맘바",
+            "블랙맘바"
+          ],
+          "order": 1,
+          "release": "2020-11-17"
+        },
+        {
+          "id": "g5s2",
+          "title": "Next Level",
+          "aliases": [
+            "넥스트 레벨",
+            "넥스트레벨"
+          ],
+          "order": 2,
+          "release": "2021-05-17"
+        },
+        {
+          "id": "g5s3",
+          "title": "Savage",
+          "aliases": [
+            "새비지"
+          ],
+          "order": 3,
+          "release": "2021-10-05"
+        },
+        {
+          "id": "g5s4",
+          "title": "Girls",
+          "aliases": [
+            "걸스"
+          ],
+          "order": 4,
+          "release": "2022-07-08"
+        },
+        {
+          "id": "g5s5",
+          "title": "Spicy",
+          "aliases": [
+            "스파이시"
+          ],
+          "order": 5,
+          "release": "2023-05-08"
+        },
+        {
+          "id": "g5s6",
+          "title": "Drama",
+          "aliases": [
+            "드라마"
+          ],
+          "order": 6,
+          "release": "2023-11-10"
+        },
+        {
+          "id": "g5s7",
+          "title": "Supernova",
+          "aliases": [
+            "슈퍼노바"
+          ],
+          "order": 7,
+          "release": "2024-05-13"
+        },
+        {
+          "id": "g5s8",
+          "title": "Armageddon",
+          "aliases": [
+            "아마겟돈"
+          ],
+          "order": 8,
+          "release": "2024-05-27"
+        },
+        {
+          "id": "g5s9",
+          "title": "Hot Mess",
+          "aliases": [
+            "핫 메스"
+          ],
+          "order": 9,
+          "release": "2024-07-03"
+        },
+        {
+          "id": "g5s10",
+          "title": "Up",
+          "aliases": [
+            "업",
+            "Up (Karina)"
+          ],
+          "order": 10,
+          "release": "2024-10-09"
+        },
+        {
+          "id": "g5s11",
+          "title": "Dopamine",
+          "aliases": [
+            "도파민"
+          ],
+          "order": 11,
+          "release": "2024-10-09"
+        },
+        {
+          "id": "g5s12",
+          "title": "Bored!",
+          "aliases": [
+            "Bored",
+            "보어드"
+          ],
+          "order": 12,
+          "release": "2024-10-09"
+        },
+        {
+          "id": "g5s13",
+          "title": "Spark",
+          "aliases": [
+            "스파크"
+          ],
+          "order": 13,
+          "release": "2024-10-09"
+        },
+        {
+          "id": "g5s14",
+          "title": "Whiplash",
+          "aliases": [
+            "위플래시",
+            "위플래쉬"
+          ],
+          "order": 14,
+          "release": "2024-10-21"
+        },
+        {
+          "id": "g5s15",
+          "title": "Kill It",
+          "aliases": [
+            "킬 잇"
+          ],
+          "order": 15,
+          "release": "2024-10-21"
+        },
+        {
+          "id": "g5s16",
+          "title": "Flights, Not Feelings",
+          "aliases": [
+            "Flights Not Feelings",
+            "플라이츠 낫 필링스"
+          ],
+          "order": 16,
+          "release": "2024-10-21"
+        },
+        {
+          "id": "g5s17",
+          "title": "Pink Hoodie",
+          "aliases": [
+            "핑크 후디"
+          ],
+          "order": 17,
+          "release": "2024-10-21"
+        },
+        {
+          "id": "g5s18",
+          "title": "Flowers",
+          "aliases": [
+            "플라워스"
+          ],
+          "order": 18,
+          "release": "2024-10-21"
+        },
+        {
+          "id": "g5s19",
+          "title": "Just Another Girl",
+          "aliases": [
+            "저스트 어나더 걸"
+          ],
+          "order": 19,
+          "release": "2024-10-21"
+        },
+        {
+          "id": "g5s20",
+          "title": "Dirty Work",
+          "aliases": [
+            "더티 워크"
+          ],
+          "order": 20,
+          "release": "2025-06-27"
+        },
+        {
+          "id": "g5s21",
+          "title": "Rich Man",
+          "aliases": [
+            "리치 맨"
+          ],
+          "order": 21,
+          "release": "2025-09-05"
+        },
+        {
+          "id": "g5s22",
+          "title": "Drift",
+          "aliases": [
+            "드리프트"
+          ],
+          "order": 22,
+          "release": "2025-09-05"
+        },
+        {
+          "id": "g5s23",
+          "title": "Bubble",
+          "aliases": [
+            "버블"
+          ],
+          "order": 23,
+          "release": "2025-09-05"
+        },
+        {
+          "id": "g5s24",
+          "title": "Count on Me",
+          "aliases": [
+            "카운트 온 미"
+          ],
+          "order": 24,
+          "release": "2025-09-05"
+        },
+        {
+          "id": "g5s25",
+          "title": "Angel #48",
+          "aliases": [
+            "Angel 48",
+            "엔젤 48"
+          ],
+          "order": 25,
+          "release": "2025-09-05"
+        },
+        {
+          "id": "g5s26",
+          "title": "To the Girls",
+          "aliases": [
+            "투 더 걸스"
+          ],
+          "order": 26,
+          "release": "2025-09-05"
+        },
+        {
+          "id": "g5s27",
+          "title": "Blue",
+          "aliases": [
+            "블루"
+          ],
+          "order": 27,
+          "release": "2025-11-17"
+        },
+        {
+          "id": "g5s28",
+          "title": "Ketchup and Lemonade",
+          "aliases": [
+            "케첩 앤 레모네이드"
+          ],
+          "order": 28,
+          "release": "2025-11-17"
+        },
+        {
+          "id": "g5s29",
+          "title": "Tornado",
+          "aliases": [
+            "토네이도"
+          ],
+          "order": 29,
+          "release": "2025-11-17"
+        },
+        {
+          "id": "g5s30",
+          "title": "Good Stuff",
+          "aliases": [
+            "굿 스터프"
+          ],
+          "order": 30,
+          "release": "2025-11-17"
+        },
+        {
+          "id": "g5s31",
+          "title": "WDA (Whole Different Animal)",
+          "aliases": [
+            "WDA",
+            "Whole Different Animal",
+            "WDA (Whole Different Animal) (feat. G-DRAGON)",
+            "더블유디에이"
+          ],
+          "order": 31,
+          "release": "2026-05-11"
+        },
+        {
+          "id": "g5s32",
+          "title": "Lemonade",
+          "aliases": [
+            "레모네이드"
+          ],
+          "order": 32,
+          "release": "2026-05-29"
+        },
+        {
+          "id": "g5s33",
+          "title": "Shakin'",
+          "aliases": [
+            "Shakin",
+            "셰이킨"
+          ],
+          "order": 33,
+          "release": "2026-05-29"
+        },
+        {
+          "id": "g5s34",
+          "title": "Can't Help Myself",
+          "aliases": [
+            "Cant Help Myself",
+            "캔트 헬프 마이셀프"
+          ],
+          "order": 34,
+          "release": "2026-05-29"
+        },
+        {
+          "id": "g5s35",
+          "title": "Camouflage",
+          "aliases": [
+            "카모플라주"
+          ],
+          "order": 35,
+          "release": "2026-05-29"
+        },
+        {
+          "id": "g5s36",
+          "title": "Bite",
+          "aliases": [
+            "바이트"
+          ],
+          "order": 36,
+          "release": "2026-05-29"
+        },
+        {
+          "id": "g5s37",
+          "title": "Switchblade",
+          "aliases": [
+            "스위치블레이드"
+          ],
+          "order": 37,
+          "release": "2026-05-29"
+        },
+        {
+          "id": "g5s38",
+          "title": "Roll",
+          "aliases": [
+            "롤"
+          ],
+          "order": 38,
+          "release": "2026-05-29"
+        },
+        {
+          "id": "g5s39",
+          "title": "My Plan",
+          "aliases": [
+            "마이 플랜"
+          ],
+          "order": 39,
+          "release": "2026-05-29"
+        },
+        {
+          "id": "g5s40",
+          "title": "'Til We Die",
+          "aliases": [
+            "Til We Die",
+            "틸 위 다이"
+          ],
+          "order": 40,
+          "release": "2026-05-29"
+        },
+        {
+          "id": "g5s41",
+          "title": "Kiss n Tell",
+          "aliases": [
+            "키스 앤 텔"
+          ],
+          "order": 41,
+          "release": "2026-07-24"
+        },
+        {
+          "id": "g5s42",
+          "title": "Orbit Pop",
+          "aliases": [
+            "오빗 팝"
+          ],
+          "order": 42,
+          "release": "2026-07-24"
+        },
+        {
+          "id": "g5s43",
+          "title": "Fangirl",
+          "aliases": [
+            "팬걸"
+          ],
+          "order": 43,
+          "release": "2026-07-24"
+        },
+        {
+          "id": "g5s44",
+          "title": "Attitude",
+          "aliases": [
+            "애티튜드"
+          ],
+          "order": 44,
+          "release": ""
+        },
+        {
+          "id": "g5s45",
+          "title": "Done with Rules",
+          "aliases": [
+            "던 위드 룰스"
+          ],
+          "order": 45,
+          "release": "2026-07-24"
+        },
+        {
+          "id": "g5s46",
+          "title": "In Halo",
+          "aliases": [
+            "인 헤일로"
+          ],
+          "order": 46,
+          "release": "2026-07-24"
+        },
+        {
+          "id": "g5s47",
+          "title": "Serenade",
+          "aliases": [
+            "세레나데"
+          ],
+          "order": 47,
+          "release": "2026-08-09"
+        },
+        {
+          "id": "g5s48",
+          "title": "Lollipop",
+          "aliases": [
+            "롤리팝"
+          ],
+          "order": 48,
+          "release": "2026-08-09"
+        },
+        {
+          "id": "g5s49",
+          "title": "16 Bit",
+          "aliases": [
+            "16비트"
+          ],
+          "order": 49,
+          "release": "2026-09-14"
+        },
+        {
+          "id": "g5s50",
+          "title": "Saddle Up",
+          "aliases": [
+            "새들 업"
+          ],
+          "order": 50,
+          "release": "2026-09-14"
+        },
+        {
+          "id": "g5s51",
+          "title": "BYEB4HELLO",
+          "aliases": [
+            "Bye B4 Hello",
+            "바이비포헬로"
+          ],
+          "order": 51,
+          "release": "2026-09-14"
+        },
+        {
+          "id": "g5s52",
+          "title": "I Love You But I Gotta Let You Go",
+          "aliases": [
+            "아이 러브 유 벗 아이 가타 렛 유 고"
+          ],
+          "order": 52,
+          "release": "2026-09-14"
+        }
+      ]
     }
   ],
   "events": [
