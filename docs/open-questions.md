@@ -23,6 +23,12 @@
 | 13cfG2OY35A · EiarumROf0k | M2 [입덕직캠] 하츠투하츠 스텔라·이안 'ICONIC HEART (Korean Ver.)' @MCOUNTDOWN | 제목에 날짜가 없고 엠카운트다운 10-15·10-22 둘 다 가능 |
 | hG9cPDT_jqI · T6rsKrhsKnw | 260822 엔믹스 설윤·해원 'RICO' (Makestar) | 날짜는 있지만 행사 이름을 확인 못 함 |
 | uKuhJy8uAJw | 장원영 '해야' IVE 4TH FAN CONCERT | 03-21·03-22 중 어느 날인지 모름 |
+| Ll7-5aDkWhM | Hearts2Hearts TIMA Live 2026 Hong Kong Full Performance | 하츠투하츠 TIMA 2026 공연이 07-25·08-16·08-22·08-23 넷이라 홍콩이 어느 날인지 모름 (2026-10-24 `--gaps --all-events`) |
+| MR8noFcOGqU | 아이브 INTRO + BANG BANG 2026 INKIGAYO LIVE in TOKYO (SBSKPOP) | 09-22·09-23 중 어느 날인지 모름 |
+| FX-m_h9fDuo | 엔믹스 규진 'TIC TIC' 1ST WORLD TOUR 직캠 | 제목에 날짜·도시 없음 |
+| RpePaAgytP8 | 프로미스나인 채영 세로직캠 하얀그리움+DM 앙콘 3일차 막콘 | 날짜를 모르고 담아 둔 앙코르 콘서트 공연이 없음 |
+
+2025년 연말 무대(SBS 가요대전 12-25, 뮤직뱅크 글로벌 페스티벌 12-30)의 하츠투하츠 직캠 10여 개는 찾았지만 담아 둔 공연이 없어 새 공연을 만들지 않았어요. 담을지 정하면 `harvest --gaps --all-events`의 결과로 다시 찾을 수 있어요.
 
 멤버 직캠이 빈 음악 방송 35개는 대부분 1위 발표·스페셜 MC·특집 재업로드만 있는 공연이라, 검색해도 멤버 직캠이 나오지 않았어요.
 
