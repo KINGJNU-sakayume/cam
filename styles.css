@@ -40,6 +40,7 @@
   --font: 'Gothic A1', -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', system-ui, sans-serif;
   --font-num: 'Space Grotesk', 'Gothic A1', system-ui, sans-serif;
   --topbar-h: 112px;
+  --page-max: 3200px;
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
@@ -115,7 +116,7 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 
 /* ---------- 상단: 흰 머리 + 인덱스 탭 ---------- */
 .topbar { position: sticky; top: 0; z-index: 30; background: var(--surface); box-shadow: 0 1px 0 var(--line); }
-.topbar-row { display: flex; align-items: center; gap: 12px; padding: 12px 24px 10px; max-width: 1920px; margin: 0 auto; }
+.topbar-row { display: flex; align-items: center; gap: 12px; padding: 12px 24px 10px; max-width: var(--page-max); margin: 0 auto; }
 .brand { font-weight: 800; font-size: 18px; color: var(--text); letter-spacing: -0.02em; white-space: nowrap; margin-right: 8px; }
 .brand:hover { text-decoration: none; }
 .search { flex: 1; max-width: 560px; position: relative; display: flex; align-items: center; }
@@ -127,7 +128,7 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 .search input::placeholder { color: var(--muted); }
 .search input:focus-visible { outline: 2px solid var(--text); outline-offset: 1px; }
 .topbar-row .iconbtn { margin-left: auto; }
-.tabs { display: flex; gap: 4px; padding: 0 24px; overflow-x: auto; scrollbar-width: none; max-width: 1920px; margin: 0 auto; align-items: flex-end; }
+.tabs { display: flex; gap: 4px; padding: 0 24px; overflow-x: auto; scrollbar-width: none; max-width: var(--page-max); margin: 0 auto; align-items: flex-end; }
 .tabs::-webkit-scrollbar { display: none; }
 .tab {
   display: inline-flex; align-items: center; gap: 7px; height: 36px; padding: 0 14px; border-radius: var(--r) var(--r) 0 0;
@@ -149,7 +150,7 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
   .tabs { -webkit-mask-image: linear-gradient(90deg, #000 0, #000 calc(100% - 24px), transparent 100%); mask-image: linear-gradient(90deg, #000 0, #000 calc(100% - 24px), transparent 100%); }
 }
 
-main { max-width: 1920px; margin: 0 auto; padding: 18px 24px 80px; min-height: 60vh; }
+main { max-width: var(--page-max); margin: 0 auto; padding: 18px 24px 80px; min-height: 60vh; }
 @media (max-width: 719px) { main { padding: 12px 12px 64px; } }
 
 /* ---------- 그룹 화면 공통 ---------- */
@@ -268,7 +269,7 @@ button.badge[aria-expanded="true"] { background: var(--surface); color: var(--te
 .month-head .m-unit { font-weight: 800; font-size: 16px; margin-left: -6px; }
 .month-head .m-sub { color: var(--muted); font-size: 13px; font-family: var(--font-num); font-variant-numeric: tabular-nums; }
 
-.lu { --car-h: clamp(300px, 24vw, 460px); --date-w: 156px; --gap: 10px; --tab-w: 30px; position: relative; padding-left: var(--tab-w); }
+.lu { --car-h: clamp(280px, min(26vw, 100dvh - var(--topbar-h) - 170px), 480px); --date-w: 156px; --gap: 10px; --tab-w: 30px; position: relative; padding-left: var(--tab-w); }
 .lu-month { position: relative; }
 /* 인덱스 탭: 날짜. 멤버 직캠이 없는 공연은 옅게 */
 .lu-tab {
@@ -342,7 +343,7 @@ a.d-big:hover { text-decoration: none; opacity: 0.75; }
 /* ---------- 공연 폴더 ---------- */
 .fhead {
   padding: 22px 22px 22px 46px;
-  display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 420px); gap: 24px; margin-bottom: 26px;
+  display: grid; grid-template-columns: minmax(0, 1fr) clamp(300px, 30%, 560px); gap: 24px; margin-bottom: 26px;
 }
 .fhead-main { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
 .f-date { display: flex; align-items: flex-end; gap: 12px; }
@@ -685,14 +686,12 @@ pre.code { background: var(--soft); border-radius: var(--r); padding: 10px; over
 /* 직캠 없는 공연: 풀캠을 카드 높이만큼 크게(1~3장) */
 .car-fulls { grid-column: span 2; display: grid; grid-template-columns: repeat(var(--n, 3), minmax(0, calc(var(--car-h) * 16 / 9))); gap: var(--gap); min-width: 0; }
 .car-none { grid-column: span 2; }
-@media (max-width: 1100px) {
-  .lu { --car-h: 300px; --date-w: 132px; }
-  .car-row { grid-template-columns: var(--date-w) minmax(0, 1fr); row-gap: 12px; }
-  .car, .car.wide { grid-column: 1 / -1; }
-  .car-full { grid-column: 1 / -1; grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .car-full:has(> .tcell:nth-child(2)) .cap { display: block; }
-  .car-fulls, .car-none { grid-column: 2; }
-}
+/* 좁은 창(720~1499px, 16:9 절반창): 날짜 열은 왼쪽에 두고, 풀캠은 넘기기 줄 끝에 붙인다(js/views/lineup.js) */
+[data-layout="compact"] .lu { --date-w: 124px; }
+[data-layout="compact"] .car-row { grid-template-columns: var(--date-w) minmax(0, 1fr); }
+[data-layout="compact"] .car, [data-layout="compact"] .car.wide, [data-layout="compact"] .car-fulls, [data-layout="compact"] .car-none { grid-column: 2; }
+[data-layout="compact"] .d-big { font-size: 26px; }
+.car-item.r169 { aspect-ratio: 16 / 9; }
 .mfull { padding: 10px 14px 0; }
 
 /* ---------- 낱장: 라인업 한 줄과 같은 바탕(흰 낱장 + 바인더 구멍 + 왼쪽 인덱스 탭). 공연 폴더·공연·멤버·곡·움짤 공용 ---------- */
@@ -785,3 +784,69 @@ pre.code { background: var(--soft); border-radius: var(--r); padding: 10px; over
 }
 .qlist a, .qlist .cur { grid-template-columns: 34px minmax(0, 1fr); padding: 4px 6px; }
 .qlist .mini { width: 34px; }
+
+/* ---------- 창 크기 맞춤: 왼쪽 패널(1500px 이상) · 도구 막대 + 서랍(그보다 좁을 때) ---------- */
+.layout { min-width: 0; }
+.content { min-width: 0; }
+.rail { background: var(--surface); box-shadow: var(--sheet-shadow); padding: 14px 14px 18px; display: grid; gap: 18px; align-content: start; min-width: 0; }
+.rail-head { display: flex; align-items: center; gap: 8px; }
+.rail-head b { font-size: 14px; font-weight: 800; }
+.rail-head .rail-close { margin-left: auto; }
+.rail-sec { display: grid; gap: 8px; min-width: 0; }
+.rail-sec > h2 { font-size: 12px; font-weight: 800; color: var(--muted); display: flex; align-items: center; gap: 6px; }
+.rail-sec > h2 .n { background: var(--text); color: var(--surface); border-radius: 4px; padding: 0 6px; font-size: 11px; line-height: 18px; }
+.rail-views { gap: 2px; }
+.rail-list { display: grid; gap: 2px; }
+.rail-item {
+  display: flex; align-items: center; gap: 8px; width: 100%; min-height: 36px; padding: 6px 10px; border-radius: var(--r); border: 0; background: none;
+  color: var(--text); font-weight: 700; font-size: 13.5px; text-align: left; cursor: pointer;
+}
+.rail-item:hover { background: var(--soft); text-decoration: none; }
+.rail-item[aria-current] { background: var(--text); color: var(--surface); }
+.rail-item .no { color: var(--muted); font-weight: 500; font-size: 12px; width: 20px; flex: none; }
+.rail-item .t { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.rail-item .n { color: var(--muted); font-weight: 500; font-size: 12px; }
+.rail .seg { width: 100%; }
+.rail .seg button { flex: 1; justify-content: center; }
+.rail .fgroups { padding: 0; gap: 14px; }
+.rail .fgroup > .flabel { width: 100%; }
+.rail .songmore { padding-left: 0; }
+.rail .songmore .songq { max-width: none; width: 100%; }
+.rail .fmembers { display: flex; flex-wrap: wrap; gap: 6px; }
+.rail-nav { gap: 6px; }
+.rail-nav .btn { justify-content: flex-start; height: auto; min-height: 40px; padding: 6px 12px; text-align: left; }
+.rail-nav .btn small { display: block; color: var(--muted); font-weight: 500; font-size: 11.5px; }
+.rail-scrim { display: none; }
+
+[data-layout="rail"] .layout { display: grid; grid-template-columns: var(--rail-w, 280px) minmax(0, 1fr); gap: 22px; align-items: start; }
+[data-layout="rail"] .rail {
+  position: sticky; top: calc(var(--topbar-h) + 14px); max-height: calc(100dvh - var(--topbar-h) - 28px); overflow-y: auto; overscroll-behavior: contain;
+  border-radius: var(--r); scrollbar-width: thin;
+}
+[data-layout="rail"] .rail-close { display: none; }
+[data-layout="rail"] .egrid { grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); }
+@media (min-width: 2400px) { [data-layout="rail"] .layout { --rail-w: 320px; } }
+
+/* 서랍 */
+[data-layout="compact"] .rail, [data-layout="mobile"] .rail {
+  position: fixed; left: 0; top: 0; bottom: 0; z-index: 70; width: min(360px, 88vw); overflow-y: auto; overscroll-behavior: contain;
+  transform: translateX(-104%); visibility: hidden; transition: transform 160ms ease-out, visibility 0s linear 160ms; padding-top: 16px;
+}
+body.rail-open .rail { transform: none; visibility: visible; transition: transform 160ms ease-out; }
+body.rail-open .rail-scrim { display: block; position: fixed; inset: 0; z-index: 69; background: rgba(8, 8, 10, 0.45); animation: fade 120ms ease-out; }
+body.rail-open { overflow: hidden; }
+
+/* 도구 막대 한 줄 */
+.toolbar { display: flex; align-items: center; gap: 8px 10px; flex-wrap: wrap; margin-bottom: 12px; }
+.toolbar .spacer { flex: 1; }
+.railbtn .n { background: var(--text); color: var(--surface); border-radius: 4px; padding: 0 6px; font-size: 11px; line-height: 18px; }
+.railbtn[aria-expanded="true"] { border-color: var(--text); }
+.onrow { display: flex; align-items: center; gap: 6px; overflow-x: auto; scrollbar-width: none; margin: -2px 0 14px; padding: 2px 0; }
+.onrow::-webkit-scrollbar { display: none; }
+.onrow .chip { flex: none; }
+.onrow .linkbtn { flex: none; font-size: 12px; margin-left: 4px; }
+@media (max-width: 719px) { .toolbar nav.seg { order: -1; flex-basis: 100%; overflow-x: auto; } .toolbar .seg a { flex: 1; justify-content: center; } }
+
+/* 플레이어: 아주 넓은 창은 더 크게, 좁은 창은 옆 열을 줄여 영상을 키운다 */
+@media (min-width: 2400px) { .ov-box { width: min(3200px, 100%); } .ov-body { grid-template-columns: minmax(0, 1fr) 380px; } }
+@media (min-width: 900px) and (max-width: 1499px) { .ov-body { grid-template-columns: minmax(0, 1fr) 260px; } .ov-main { --stage-h: calc(100dvh - 170px); } }
