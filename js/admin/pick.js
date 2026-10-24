@@ -38,7 +38,7 @@ function rowHTML(it, n) {
     <a class="pk-thumb" href="${`https://www.youtube.com/watch?v=${it.id}`}" target="_blank" rel="noopener noreferrer" aria-label="새 탭에서 영상 보기"><img src="${`https://i.ytimg.com/vi/${it.id}/mqdefault.jpg`}" alt="" loading="lazy" width="160" height="90"></a>
     <div class="pk-body">
       <p class="pk-title"><b>${n}</b> ${g ? g.name : ''} · ${it.title}</p>
-      <p class="hint">${it.ch} · 올린 날 ${it.up}</p>
+      <p class="hint">${it.ch} · 올린 날 ${it.up}${it.views != null ? ` · 조회수 ${it.views.toLocaleString('ko-KR')}` : ''}</p>
       <div class="pk-opts" role="radiogroup" aria-label="공연 고르기">
         ${cands.map((e) => radio(e.id, eventLabel(e)))}
         ${radio('new', '새 공연', html`<span class="pk-new" ${p && p.v === 'new' ? '' : html`hidden`}><input class="input" type="date" data-f="date" value="${p && p.date || ''}" aria-label="공연 날짜"><input class="input" type="text" data-f="show" placeholder="행사 이름" value="${p && p.show || ''}" aria-label="행사 이름"></span>`)}

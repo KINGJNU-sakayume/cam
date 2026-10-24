@@ -167,6 +167,7 @@ const COMMANDS = {
   pin <영상id>                   칸 대표로 (같은 칸 다른 영상은 해제)
   cover <공연id> <영상id|auto>   공연 표지
   remove <id> [--cascade] [--with-empty-event]   영상·공연·움짤 지우기
+  remove-videos <id목록.json>     영상 여러 개를 한 번에 지우기 (--with-empty-event)
   merge <남길공연id> <합칠공연id>...   같은 행사가 쪼개진 공연을 하나로 (--show 로 이름도 지정)
   dedupe-events                  같은 그룹·날짜의 같은 행사(이름 표기만 다른) 공연을 모두 합치기
 
@@ -600,6 +601,36 @@ const COMMANDS = {
     }
     if (!n) { out('합칠 공연이 없어요.'); return; }
     save(`공연 ${m + n}개를 ${n}개로 합침`);
+  },
+
+  'remove-videos'() {
+    if (flags.help || !pos[0]) {
+      out(`remove-videos <영상id 목록.json> [--with-empty-event] [--dry-run]
+
+JSON 배열(영상 id 또는 ytId) 또는 {"ids":[...]} 파일의 영상을 한 번에 지워요. 연결된 움짤은 공연에 직접 연결해 남겨요.
+--with-empty-event: 영상이 하나도 남지 않은 공연도 함께 지워요.`);
+      return;
+    }
+    const raw = JSON.parse(readFileSync(resolve(pos[0]), 'utf8'));
+    const ids = new Set((Array.isArray(raw) ? raw : raw.ids || []).map((x) => (typeof x === 'string' ? x : x.id)));
+    const gone = data.videos.filter((v) => ids.has(v.id) || ids.has(v.ytId));
+    if (!gone.length) { out('지울 영상이 없어요.'); return; }
+    const goneSet = new Set(gone);
+    const evs = new Set(gone.map((v) => v.eventId));
+    for (const cl of data.clips) {
+      const v = gone.find((x) => x.id === cl.videoId);
+      if (v) { cl.videoId = null; cl.eventId = v.eventId; cl.songId = v.songs[0]?.songId || null; cl.memberIds = [...v.memberIds]; }
+    }
+    for (const eid of evs) { const ev = eventById(eid); if (ev?.cover && gone.some((v) => v.id === ev.cover)) delete ev.cover; }
+    data.videos = data.videos.filter((v) => !goneSet.has(v));
+    let emptied = 0;
+    for (const eid of evs) {
+      const ev = eventById(eid);
+      if (ev && !data.videos.some((x) => x.eventId === ev.id) && !data.clips.some((c) => c.eventId === ev.id)) {
+        if (flags['with-empty-event']) { data.events = data.events.filter((x) => x !== ev); emptied++; } else warn(`${ev.id} ${evLabel(ev)} 공연에 영상이 남지 않았어요.`);
+      }
+    }
+    save(`영상 ${gone.length}개${emptied ? `, 빈 공연 ${emptied}개` : ''} 지움`);
   },
 
   remove() {

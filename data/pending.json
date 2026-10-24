@@ -3,59 +3,6 @@
  "note": "제목에 날짜가 없는 영상. 관리 화면 \"영상 고르기\" 탭에서 공연 후보를 고른다.",
  "items": [
   {
-   "id": "tBmjaAlLIB4",
-   "g": "g3",
-   "title": "[4K] 이채영 - Toxic 솔로무대 직캠 @프로미스나인 앵콜 콘서트",
-   "ch": "Day_Day",
-   "up": "2026-01-30",
-   "c": [
-    "e81",
-    "e313"
-   ]
-  },
-  {
-   "id": "4NOJpZenNlA",
-   "g": "g3",
-   "title": "프로미스나인 (fromis_9) - 1부 풀영상 (2025-26 fromis_9 WORLD TOUR ENCORE [NOW TOMORROW.])",
-   "ch": "재패니즘TV",
-   "up": "2026-02-01",
-   "c": [
-    "e83",
-    "e82",
-    "e319",
-    "e81",
-    "e313"
-   ]
-  },
-  {
-   "id": "way2OwTR3oI",
-   "g": "g3",
-   "title": "프로미스나인 (fromis_9) - 2부 풀영상 (2025-26 fromis_9 WORLD TOUR ENCORE [NOW TOMORROW.])",
-   "ch": "재패니즘TV",
-   "up": "2026-02-01",
-   "c": [
-    "e83",
-    "e82",
-    "e319",
-    "e81",
-    "e313"
-   ]
-  },
-  {
-   "id": "IQZXK_6sT78",
-   "g": "g3",
-   "title": "프로미스나인 (fromis_9) - 솔로무대 풀영상 (2025-26 fromis_9 WORLD TOUR ENCORE [NOW TOMORROW.])",
-   "ch": "재패니즘TV",
-   "up": "2026-02-01",
-   "c": [
-    "e83",
-    "e82",
-    "e319",
-    "e81",
-    "e313"
-   ]
-  },
-  {
    "id": "ZPOcm3lpv2g",
    "g": "g3",
    "title": "[4K] 프로미스나인 콘서트(fromis_9 Concert) WORLD TOUR ENCORE [NOW TOMORROW] VCR#1",
@@ -63,11 +10,10 @@
    "up": "2026-02-02",
    "c": [
     "e83",
-    "e82",
     "e319",
-    "e81",
     "e313"
-   ]
+   ],
+   "views": null
   },
   {
    "id": "RpePaAgytP8",
@@ -75,18 +21,8 @@
    "title": "[4k] 프로미스나인 채영 세로직캠.ver 하얀그리움+DM 앙콘 3일차 막콘",
    "ch": "아싸힘이나용",
    "up": "2026-02-10",
-   "c": []
-  },
-  {
-   "id": "UdoOUtPI_PI",
-   "g": "g3",
-   "title": "프로미스나인 박지원 베텔기우스 (Betelgeuse) fancam 직캠 @fromis_9 WORLD TOUR [NOW TOMORROW ENCORE] IN TOKYO",
-   "ch": "🍌바나나킥지원",
-   "up": "2026-03-01",
-   "c": [
-    "e84",
-    "e85"
-   ]
+   "c": [],
+   "views": 7042
   },
   {
    "id": "Vb55wRUOvww",
@@ -95,144 +31,9 @@
    "ch": "Rock Music",
    "up": "2026-05-01",
    "c": [
-    "e86",
-    "e320"
-   ]
-  },
-  {
-   "id": "D0DBPe0jR6A",
-   "g": "g3",
-   "title": "05/19/26 fromis_9 Song Ha-young 8K Fancam - Supersonic (KAIST Festival)",
-   "ch": "퓨리",
-   "up": "2026-05-19",
-   "c": [
-    "e93",
-    "e307",
-    "e308",
-    "e316",
-    "e92",
-    "e315",
-    "e91",
-    "e306",
-    "e89",
-    "e90"
-   ]
-  },
-  {
-   "id": "AYJLIRniWEg",
-   "g": "g3",
-   "title": "프로미스나인 (fromis_9) 2026 KAIST 카이스트 축제 Full Ver. (Supersonic+ LIKE YOU BETTER+White Memories+DM+WE GO)",
-   "ch": "Rock Music",
-   "up": "2026-05-19",
-   "c": [
-    "e93",
-    "e307",
-    "e308",
-    "e316",
-    "e92",
-    "e315",
-    "e91",
-    "e306",
-    "e89",
-    "e90"
-   ]
-  },
-  {
-   "id": "Ml7h5IzDPiA",
-   "g": "g3",
-   "title": "fromis_9 BAEK JIHEON (프로미스나인 백지헌) 2026 KAIST 카이스트 축제 Supersonic+LIKE YOU BETTER+White Memories+DM+위고",
-   "ch": "Rock Music",
-   "up": "2026-05-21",
-   "c": [
-    "e95",
-    "e321",
-    "e94",
-    "e309",
-    "e93",
-    "e307",
-    "e308",
-    "e316",
-    "e92",
-    "e315"
-   ]
-  },
-  {
-   "id": "-5PM3Tz1dYE",
-   "g": "g3",
-   "title": "26.05.22 포스코 노사 문화 콘서트 프로미스나인 백지헌-DM 26울트라 4K-60 촬영",
-   "ch": "나진지해허니",
-   "up": "2026-05-24",
-   "c": [
-    "e96",
-    "e95",
-    "e321",
-    "e94",
-    "e309",
-    "e93",
-    "e307",
-    "e308",
-    "e316"
-   ]
-  },
-  {
-   "id": "N56CgrB2kgM",
-   "g": "g3",
-   "title": "DAY1 fromis_9 Full ver. 🧩2026 세종연회 : Hidden PIECE🧩",
-   "ch": "세종대학교 총학생회",
-   "up": "2026-05-28",
-   "c": [
-    "e317",
-    "e96"
-   ]
-  },
-  {
-   "id": "o0TuByBPNOQ",
-   "g": "g3",
-   "title": "프로미스나인(fromis_9) Full Ver. l 2026 단국대학교 축제 '청풍명월'",
-   "ch": "단국대학교",
-   "up": "2026-06-08",
-   "c": [
-    "e98",
-    "e97"
-   ]
-  },
-  {
-   "id": "eCSN2Bvg4bE",
-   "g": "g3",
-   "title": "fromis_9 - LIKE YOU BETTER | 2026 울산뮤직페스티벌 | Show! MusicCore",
-   "ch": "울산MBC_뮤직",
-   "up": "2026-07-21",
-   "c": []
-  },
-  {
-   "id": "cGnoPMx8-d4",
-   "g": "g3",
-   "title": "Nagyung-Vitamin Me fancam 26.07.2026 (fromis_9)",
-   "ch": "Allegsi_Lex",
-   "up": "2026-08-01",
-   "c": [
-    "e110",
-    "e109",
-    "e108",
-    "e323",
-    "e312",
-    "e107"
-   ]
-  },
-  {
-   "id": "UXb8y2vs7rI",
-   "g": "g3",
-   "title": "Nagyung-Vitamin Me fancam 30.07.2026 (fromis_9)",
-   "ch": "Allegsi_Lex",
-   "up": "2026-08-01",
-   "c": [
-    "e110",
-    "e109",
-    "e108",
-    "e323",
-    "e312",
-    "e107"
-   ]
+    "e86"
+   ],
+   "views": 22265
   },
   {
    "id": "96RdpeRxoVs",
@@ -246,7 +47,8 @@
     "e108",
     "e323",
     "e312"
-   ]
+   ],
+   "views": 929991
   },
   {
    "id": "AWUeyqxterA",
@@ -255,11 +57,11 @@
    "ch": "KBS WORLD TV",
    "up": "2026-08-05",
    "c": [
-    "e324",
     "e110",
     "e109",
     "e108"
-   ]
+   ],
+   "views": null
   },
   {
    "id": "Cq4M7EOAfaU",
@@ -267,7 +69,8 @@
    "title": "[직캠] 프로미스나인 이채영 ‘Vitamin ME’ (Chaeyoung Focus)",
    "ch": "Kpopcam4u",
    "up": "2026-08-15",
-   "c": []
+   "c": [],
+   "views": null
   },
   {
    "id": "6VEiuO5pVHo",
@@ -276,92 +79,11 @@
    "ch": "사랑은회전문",
    "up": "2026-09-06",
    "c": [
-    "e119",
     "e120",
-    "e117",
     "e118",
-    "e115",
     "e116"
-   ]
-  },
-  {
-   "id": "KyA-yBLksWg",
-   "g": "g3",
-   "title": "4K_프로미스나인 이나경 fromis_9 'Rewind+'Attitude' Tomorrow Glow. 직캠",
-   "ch": "나꼰대지 모얌",
-   "up": "2026-09-07",
-   "c": [
-    "e119",
-    "e120",
-    "e117",
-    "e118",
-    "e115",
-    "e116"
-   ]
-  },
-  {
-   "id": "mct-WJvR2FI",
-   "g": "g3",
-   "title": "프로미스나인 콘서트에서 한 곡을 28번, 30분 동안 부른 사건",
-   "ch": "치즈로버🧀",
-   "up": "2026-09-08",
-   "c": [
-    "e119",
-    "e120",
-    "e117",
-    "e118",
-    "e115",
-    "e116"
-   ]
-  },
-  {
-   "id": "g-QTGS42F1Q",
-   "g": "g3",
-   "title": "사운드체크 풀영상ㅣ2026 프로미스나인 서울 콘서트",
-   "ch": "디복",
-   "up": "2026-09-11",
-   "c": [
-    "e119",
-    "e120",
-    "e117",
-    "e118"
-   ]
-  },
-  {
-   "id": "UruByB9Hasc",
-   "g": "g3",
-   "title": "FROMIS_9 - JIWON FANCAM - LIKE YOU BETTER",
-   "ch": "Kpopcam4u",
-   "up": "2026-09-28",
-   "c": []
-  },
-  {
-   "id": "ohOXG5JF3HI",
-   "g": "g3",
-   "title": "10/01/26 fromis_9 'WE GO' (Hayoung Fancam) Anyang University Festival",
-   "ch": "신짱캠",
-   "up": "2026-10-01",
-   "c": [
-    "e127",
-    "e206",
-    "e125",
-    "e126",
-    "e124"
-   ]
-  },
-  {
-   "id": "EIigMVv1ZjE",
-   "g": "g3",
-   "title": "We go | 프로미스나인 | 이나경 직캠 | 이나경 얼굴 개작아",
-   "ch": "맹고",
-   "up": "2026-10-01",
-   "c": [
-    "e127",
-    "e206",
-    "e125",
-    "e126",
-    "e124"
-   ]
+   ],
+   "views": null
   },
   {
    "id": "36ZTYqyP2OU",
@@ -378,7 +100,8 @@
     "e125",
     "e126",
     "e124"
-   ]
+   ],
+   "views": null
   },
   {
    "id": "iWEqlzne1e8",
@@ -395,59 +118,8 @@
     "e125",
     "e126",
     "e124"
-   ]
-  },
-  {
-   "id": "ecnxdODKP2w",
-   "g": "g3",
-   "title": "[풀버전] 프로미스나인 #fromis_9 WE GO | 2026 입크페스티벌 #프로미스나인",
-   "ch": "두잇성혁",
-   "up": "2026-10-05",
-   "c": [
-    "e207",
-    "e130",
-    "e128",
-    "e129",
-    "e127",
-    "e206",
-    "e125",
-    "e126",
-    "e124"
-   ]
-  },
-  {
-   "id": "D2fpGFipA0o",
-   "g": "g3",
-   "title": "Supersonic - fromis_9 입크페스티벌2026 직캠",
-   "ch": "AAA건전지",
-   "up": "2026-10-06",
-   "c": [
-    "e207",
-    "e130",
-    "e128",
-    "e129",
-    "e127",
-    "e206",
-    "e125",
-    "e126"
-   ]
-  },
-  {
-   "id": "m0VeeCFrC3I",
-   "g": "g3",
-   "title": "프로미스나인 - LIKE YOU BETTER 직캠ㅣ2026 입크페스티벌",
-   "ch": "디복",
-   "up": "2026-10-06",
-   "c": [
-    "e207",
-    "e130",
-    "e128",
-    "e129",
-    "e127",
-    "e206",
-    "e125",
-    "e126"
-   ]
+   ],
+   "views": 14858
   },
   {
    "id": "WHDTZHEmHkk",
@@ -455,15 +127,8 @@
    "title": "[11분짜리] 프로미스나인 (fromis_9) 이채영 (LeeChaeYoung) 직캠 (fancam) FULL 강남대",
    "ch": "신이즈",
    "up": "2026-10-15",
-   "c": []
-  },
-  {
-   "id": "smGL-JeSc1w",
-   "g": "g3",
-   "title": "프로미스나인 백지헌 직캠 확대 We Go",
-   "ch": "rotten",
-   "up": "2026-10-15",
-   "c": []
+   "c": [],
+   "views": 4010
   },
   {
    "id": "bSz4EYyYTP4",
@@ -471,7 +136,8 @@
    "title": "프로미스나인 백지헌 직캠 확대 We Go",
    "ch": "rotten",
    "up": "2026-10-15",
-   "c": []
+   "c": [],
+   "views": null
   },
   {
    "id": "DJN56bU8KFs",
@@ -479,15 +145,8 @@
    "title": "새벽 감성이 아니라 새벽 광기 백지헌은 이날 2시간 30분 동안 47곡 공연을 했다 [프로미스나인 백지헌]",
    "ch": "주둥핑마즈나요",
    "up": "2026-10-16",
-   "c": []
-  },
-  {
-   "id": "BYFvqfyWs74",
-   "g": "g4",
-   "title": "Hearts2Hearts Jiwoo 'Dirty Work + Anymotion' Fancam 2025 가요대전 + 가요대제전",
-   "ch": "syzygy.",
-   "up": "2026-01-03",
-   "c": []
+   "c": [],
+   "views": null
   },
   {
    "id": "9-hTDlaOnfE",
@@ -495,23 +154,8 @@
    "title": "Hearts2Hearts Juun 'Dirty Work + Anymotion' Fancam 2025 가요대전 + 가요대제전",
    "ch": "syzygy.",
    "up": "2026-01-03",
-   "c": []
-  },
-  {
-   "id": "5cGoNUrjd2I",
-   "g": "g4",
-   "title": "하츠투하츠 Hearts2Hearts 'THE CHASE' 경희대 축제 주은 Juun 직캠 Fancam",
-   "ch": "MrPitchBlackz",
-   "up": "2026-01-03",
-   "c": []
-  },
-  {
-   "id": "RXJqAdZ_KcQ",
-   "g": "g4",
-   "title": "Hearts2Hearts - STYLE | 2025 MBC Music Festival | #Hearts2Hearts",
-   "ch": "MBC WORLD",
-   "up": "2026-01-05",
-   "c": []
+   "c": [],
+   "views": 4648
   },
   {
    "id": "kNrYaz0DLl4",
@@ -519,7 +163,8 @@
    "title": "Hearts2Hearts Focus 12.25 SBS 가요대전",
    "ch": "Jeono752",
    "up": "2026-01-10",
-   "c": []
+   "c": [],
+   "views": null
   },
   {
    "id": "cPqeKCpJnGo",
@@ -531,58 +176,8 @@
     "e329",
     "e134",
     "e328"
-   ]
-  },
-  {
-   "id": "9kE3-HRghjA",
-   "g": "g4",
-   "title": "【4K]】26.2.22 하츠투하츠 유하 'RUDE!' 직캠 (Hearts2Hearts YUHA FanCam) #yuha #유하",
-   "ch": "paperrru",
-   "up": "2026-02-22",
-   "c": [
-    "e136",
-    "e137",
-    "e332",
-    "e135",
-    "e330",
-    "e331",
-    "e359",
-    "e329"
-   ]
-  },
-  {
-   "id": "0yrO019HTZQ",
-   "g": "g4",
-   "title": "26.2.22 하츠투하츠 유하 'Electric Shock' 직캠 (Hearts2Hearts YUHA FanCam)#yuha #유하",
-   "ch": "paperrru",
-   "up": "2026-02-22",
-   "c": [
-    "e136",
-    "e137",
-    "e332",
-    "e135",
-    "e330",
-    "e331",
-    "e359",
-    "e329"
-   ]
-  },
-  {
-   "id": "SX2tlyF3rRQ",
-   "g": "g4",
-   "title": "Hearts2Hearts 하츠투하츠 'Electric Shock' Stage Rehearsal (Original Song by f(x))",
-   "ch": "Hearts2Hearts",
-   "up": "2026-02-23",
-   "c": [
-    "e333",
-    "e136",
-    "e137",
-    "e332",
-    "e135",
-    "e330",
-    "e331",
-    "e359"
-   ]
+   ],
+   "views": null
   },
   {
    "id": "eL3ZU8CoXMM",
@@ -592,138 +187,10 @@
    "up": "2026-02-24",
    "c": [
     "e333",
-    "e136",
     "e137",
-    "e332",
-    "e135",
-    "e330",
-    "e331",
-    "e359"
-   ]
-  },
-  {
-   "id": "QMGmAGgHgzw",
-   "g": "g4",
-   "title": "[Yeon focus] 🦉 'RUDE!' dance practice ♡ hearts2hearts (하츠투하츠 예온)",
-   "ch": "wandi nabi",
-   "up": "2026-02-24",
-   "c": [
-    "e333",
-    "e136",
-    "e137",
-    "e332",
-    "e135",
-    "e330",
-    "e331",
-    "e359"
-   ]
-  },
-  {
-   "id": "ms8tYZQyq80",
-   "g": "g4",
-   "title": "A-NA -RUDE fancam mirror 28.02.2026 (hearts2hearts)",
-   "ch": "Allegsi_Lex",
-   "up": "2026-02-28",
-   "c": [
-    "e140",
-    "e139",
-    "e138",
-    "e334",
-    "e333",
-    "e136",
-    "e137",
-    "e332"
-   ]
-  },
-  {
-   "id": "8NUV-92lLQQ",
-   "g": "g4",
-   "title": "Jiwoo-RUDE fancam mirror 28.02.2026 (hearts2hearts)",
-   "ch": "Allegsi_Lex",
-   "up": "2026-02-28",
-   "c": [
-    "e140",
-    "e139",
-    "e138",
-    "e334",
-    "e333",
-    "e136",
-    "e137",
-    "e332"
-   ]
-  },
-  {
-   "id": "POJT4qcINWg",
-   "g": "g4",
-   "title": "STELLA (Hearts2Hearts) 'RUDE!' fancam mirror 28.02.2026",
-   "ch": "WonheeRya",
-   "up": "2026-02-28",
-   "c": [
-    "e140",
-    "e139",
-    "e138",
-    "e334",
-    "e333",
-    "e136",
-    "e137",
-    "e332"
-   ]
-  },
-  {
-   "id": "1IChCmMxiUI",
-   "g": "g4",
-   "title": "'RUDE!'(Hearts2Hearts A-na fancam mirrored) ",
-   "ch": "p_mirrored",
-   "up": "2026-03-02",
-   "c": [
-    "e141",
-    "e140",
-    "e139",
-    "e138",
-    "e334"
-   ]
-  },
-  {
-   "id": "GdjTcyZlpTk",
-   "g": "g4",
-   "title": "'RUDE!'(Hearts2Hearts Jiwoo fancam mirrored) ",
-   "ch": "p_mirrored",
-   "up": "2026-03-02",
-   "c": [
-    "e141",
-    "e140",
-    "e139",
-    "e138",
-    "e334"
-   ]
-  },
-  {
-   "id": "VR3fVubh7wc",
-   "g": "g4",
-   "title": "'RUDE!'(Hearts2Hearts Juun fancam mirrored) ",
-   "ch": "p_mirrored",
-   "up": "2026-03-02",
-   "c": [
-    "e141",
-    "e140",
-    "e139",
-    "e138",
-    "e334"
-   ]
-  },
-  {
-   "id": "XneuS3EDiKk",
-   "g": "g4",
-   "title": "'RUDE!'(Hearts2Hearts Yuha fancam mirrored) ",
-   "ch": "p_mirrored",
-   "up": "2026-03-02",
-   "c": [
-    "e141",
-    "e140",
-    "e139",
-    "e138",
-    "e334"
-   ]
+    "e331"
+   ],
+   "views": 2215
   },
   {
    "id": "gQrM7MiidfU",
@@ -737,155 +204,8 @@
     "e139",
     "e138",
     "e334"
-   ]
-  },
-  {
-   "id": "RwDU9D1gC8U",
-   "g": "g4",
-   "title": "'RUDE!'(Hearts2Hearts Stella fancam mirrored) ",
-   "ch": "p_mirrored",
-   "up": "2026-03-03",
-   "c": [
-    "e142",
-    "e335",
-    "e141",
-    "e140",
-    "e139",
-    "e138",
-    "e334"
-   ]
-  },
-  {
-   "id": "BL6Yb-wwLSU",
-   "g": "g4",
-   "title": "26.2.22 하츠투하츠 유하 'Gee' 직캠 (Hearts2Hearts YUHA FanCam)#yuha #유하",
-   "ch": "paperrru",
-   "up": "2026-03-03",
-   "c": [
-    "e142",
-    "e335",
-    "e141",
-    "e140",
-    "e139",
-    "e138",
-    "e334"
-   ]
-  },
-  {
-   "id": "E2bwRd9eq40",
-   "g": "g4",
-   "title": "'STYLE'(Hearts2Hearts Juun fancam mirrored) ",
-   "ch": "p_mirrored",
-   "up": "2026-03-04",
-   "c": [
-    "e142",
-    "e335",
-    "e141",
-    "e140",
-    "e139",
-    "e138"
-   ]
-  },
-  {
-   "id": "SeiqLu-Qkmc",
-   "g": "g4",
-   "title": "'STYLE'(Hearts2Hearts Ye-on fancam mirrored) ",
-   "ch": "p_mirrored",
-   "up": "2026-03-04",
-   "c": [
-    "e142",
-    "e335",
-    "e141",
-    "e140",
-    "e139",
-    "e138"
-   ]
-  },
-  {
-   "id": "H9Yo-SCaIyc",
-   "g": "g4",
-   "title": "4K - 2026 Kpop Hearts2Hearts (하츠투하츠) Premiere Showcase (HEARTS 2 HOUSE) Full Concert IN NY 3/19/2026",
-   "ch": "FMAcreates",
-   "up": "2026-03-20",
-   "c": [
-    "e150",
-    "e337",
-    "e338",
-    "e149"
-   ]
-  },
-  {
-   "id": "j9uiIgAvMwo",
-   "g": "g4",
-   "title": "4K - Hearts2Hearts YUHA (하츠투하츠 유하) -- Rude! Fancam | HEARTS 2 HOUSE Premiere NY Showcase",
-   "ch": "Yuting",
-   "up": "2026-03-21",
-   "c": [
-    "e362",
-    "e150",
-    "e337",
-    "e338"
-   ]
-  },
-  {
-   "id": "-yAfeGYI3VA",
-   "g": "g4",
-   "title": "Hearts2Hearts - Butterflies Soundcheck fancam at HEARTS2HOUSE LA 03-22-26",
-   "ch": "al51723",
-   "up": "2026-03-22",
-   "c": [
-    "e339",
-    "e363",
-    "e362",
-    "e150",
-    "e337",
-    "e338"
-   ]
-  },
-  {
-   "id": "pQt1JxXy0l8",
-   "g": "g4",
-   "title": "Hearts2Hearts - FOCUS Soundcheck fancam at HEARTS2HOUSE LA 03-22-26",
-   "ch": "al51723",
-   "up": "2026-03-22",
-   "c": [
-    "e339",
-    "e363",
-    "e362",
-    "e150",
-    "e337",
-    "e338"
-   ]
-  },
-  {
-   "id": "WVxxfIixyUU",
-   "g": "g4",
-   "title": "Hearts2Hearts - RUDE! fancam at HEARTS2HOUSE LA 03-22-26",
-   "ch": "al51723",
-   "up": "2026-03-22",
-   "c": [
-    "e339",
-    "e363",
-    "e362",
-    "e150",
-    "e337",
-    "e338"
-   ]
-  },
-  {
-   "id": "X2URyySBITo",
-   "g": "g4",
-   "title": "Hearts2Hearts Hearts2House showcase in LA - 03.22.26 - \"Butterflies\" (fan cam) ",
-   "ch": "Bluventures",
-   "up": "2026-03-22",
-   "c": [
-    "e339",
-    "e363",
-    "e362",
-    "e150",
-    "e337",
-    "e338"
-   ]
+   ],
+   "views": 3591435
   },
   {
    "id": "PPEyrwyHvOA",
@@ -897,104 +217,9 @@
     "e339",
     "e363",
     "e362",
-    "e150",
-    "e337",
-    "e338"
-   ]
-  },
-  {
-   "id": "S6vyL-n9ixY",
-   "g": "g4",
-   "title": "Hearts2Hearts [FANCAM/4K] [LOS ANGELES: HEARTS2HOUSE-2026 Premiere Showcase] @ The Wiltern 3/22/2026",
-   "ch": "Asian Pop Footage!",
-   "up": "2026-03-23",
-   "c": [
-    "e340",
-    "e339",
-    "e363",
-    "e362",
-    "e150",
-    "e337",
-    "e338"
-   ]
-  },
-  {
-   "id": "6s0j2pPR_94",
-   "g": "g4",
-   "title": "Hearts2Hearts fancam - Rude - Los Angeles 3-22-2026 ​ @hearts2hearts.official #hearts2hearts",
-   "ch": "Denyce Da Drone",
-   "up": "2026-03-23",
-   "c": [
-    "e340",
-    "e339",
-    "e363",
-    "e362",
-    "e150",
-    "e337",
-    "e338"
-   ]
-  },
-  {
-   "id": "NVn0nRkL3qM",
-   "g": "g4",
-   "title": "Hearts2Hearts Full Fancam HEARTS2HOUSE PREMIERE SHOWCASE in LA 03-22-26",
-   "ch": "al51723",
-   "up": "2026-03-23",
-   "c": [
-    "e340",
-    "e339",
-    "e363",
-    "e362",
-    "e150",
-    "e337",
-    "e338"
-   ]
-  },
-  {
-   "id": "SM8VvKbJzgg",
-   "g": "g4",
-   "title": "Hearts2Hearts (하츠투하츠) - Rude - Hearts2House Premier Showcase LA 2026",
-   "ch": "DWong1",
-   "up": "2026-03-24",
-   "c": [
-    "e340",
-    "e339",
-    "e363",
-    "e362",
-    "e150",
-    "e337",
-    "e338"
-   ]
-  },
-  {
-   "id": "cTVOsrfa2n4",
-   "g": "g4",
-   "title": "Hearts2Hearts [SOUNDCHECK/4K] [LOS ANGELES: HEARTS2HOUSE-2026 Premiere Showcase] @ Wiltern 3/22/2026",
-   "ch": "Asian Pop Footage!",
-   "up": "2026-03-25",
-   "c": [
-    "e340",
-    "e339",
-    "e363",
-    "e362",
-    "e150",
-    "e337",
-    "e338"
-   ]
-  },
-  {
-   "id": "IG5zOiUri8g",
-   "g": "g4",
-   "title": "MIRROR 4K 'RUDE!' (Hearts2Hearts STELLA FanCam)",
-   "ch": "sther",
-   "up": "2026-03-30",
-   "c": [
-    "e364",
-    "e151",
-    "e152",
-    "e342",
-    "e341"
-   ]
+    "e150"
+   ],
+   "views": null
   },
   {
    "id": "hiZ67HBRQZA",
@@ -1004,40 +229,9 @@
    "up": "2026-04-01",
    "c": [
     "e153",
-    "e364",
-    "e151",
-    "e152",
-    "e342",
-    "e341"
-   ]
-  },
-  {
-   "id": "ZHDSLyj-cU4",
-   "g": "g4",
-   "title": "Jiwoo Rude hearts2hearts mirrored fancam",
-   "ch": "Minmin",
-   "up": "2026-04-11",
-   "c": []
-  },
-  {
-   "id": "smLv7PSUobc",
-   "g": "g4",
-   "title": "Juun Rude hearts2hearts mirrored fancam",
-   "ch": "Minmin",
-   "up": "2026-04-11",
-   "c": []
-  },
-  {
-   "id": "tkcew8woFvw",
-   "g": "g4",
-   "title": "JIWOO Hearts2Hearts slowfocuscam",
-   "ch": "리치 아이돌 창고",
-   "up": "2026-05-10",
-   "c": [
-    "e155",
-    "e360",
-    "e367"
-   ]
+    "e152"
+   ],
+   "views": null
   },
   {
    "id": "QCjtBVOb46Y",
@@ -1046,22 +240,9 @@
    "ch": "ECLIPSE Extras",
    "up": "2026-05-18",
    "c": [
-    "e344",
-    "e369",
-    "e368"
-   ]
-  },
-  {
-   "id": "hqqhfKAQ1uU",
-   "g": "g4",
-   "title": "Hearts2Hearts - STYLE | ARTIST STAGE | KCON JAPAN 2026",
-   "ch": "KCON official",
-   "up": "2026-05-21",
-   "c": [
-    "e345",
-    "e156",
     "e344"
-   ]
+   ],
+   "views": 8570
   },
   {
    "id": "jOg2Q4a6JfE",
@@ -1069,7 +250,8 @@
    "title": "Who's 5th Gen Top Tier?!👑Hearts2Hearts vs KiiiKiii Performance Comparison🔥",
    "ch": "K-contents Voyage",
    "up": "2026-05-27",
-   "c": []
+   "c": [],
+   "views": 581802
   },
   {
    "id": "OlMaBabHYaE",
@@ -1082,22 +264,8 @@
     "e346",
     "e157",
     "e158"
-   ]
-  },
-  {
-   "id": "3t_szEd2KaY",
-   "g": "g4",
-   "title": "\"FOCUS\" - Hearts2Hearts",
-   "ch": "GRAMMY Museum",
-   "up": "2026-06-05",
-   "c": [
-    "e347",
-    "e160",
-    "e371",
-    "e370",
-    "e159",
-    "e346"
-   ]
+   ],
+   "views": 8739
   },
   {
    "id": "To6mqr47pxE",
@@ -1109,7 +277,8 @@
     "e162",
     "e161",
     "e350"
-   ]
+   ],
+   "views": 7425946
   },
   {
    "id": "QZZA7quOIok",
@@ -1124,107 +293,8 @@
     "e164",
     "e351",
     "e163"
-   ]
-  },
-  {
-   "id": "K8gthZ1Vrlk",
-   "g": "g4",
-   "title": "[Front Row FanCam 4K] Hearts2Hearts YE-ON 'LemonTang' @SBS Inkigayo 06/28/26",
-   "ch": "SBSKPOP ZOOM",
-   "up": "2026-06-30",
-   "c": [
-    "e374",
-    "e352",
-    "e165",
-    "e164",
-    "e351",
-    "e163"
-   ]
-  },
-  {
-   "id": "-SO9jJyUINE",
-   "g": "g4",
-   "title": "'Lemon Tung'(Hearts2Hearts Jiwoo fancam mirrored) ",
-   "ch": "p_mirrored",
-   "up": "2026-07-04",
-   "c": [
-    "e168",
-    "e167",
-    "e166",
-    "e374",
-    "e352",
-    "e165"
-   ]
-  },
-  {
-   "id": "gKAAoZQ7lc8",
-   "g": "g4",
-   "title": "'Lemon Tung'(Hearts2Hearts Yuha fancam mirrored) ",
-   "ch": "p_mirrored",
-   "up": "2026-07-04",
-   "c": [
-    "e168",
-    "e167",
-    "e166",
-    "e374",
-    "e352",
-    "e165"
-   ]
-  },
-  {
-   "id": "wZMbXzpdt9E",
-   "g": "g4",
-   "title": "'Lemon Tang'(Hearts2Hearts Stella fancam mirrored) ",
-   "ch": "p_mirrored",
-   "up": "2026-07-06",
-   "c": [
-    "e168",
-    "e167",
-    "e166",
-    "e374"
-   ]
-  },
-  {
-   "id": "0jnR4pHQfjI",
-   "g": "g4",
-   "title": "[Idol Radio Cam 4K] Hearts2Hearts - Lemon Tang | Performance Fancam | IDOL RADIO Season 4",
-   "ch": "아이돌 라디오 유니버스 IDOL RADIO UNIVERSE",
-   "up": "2026-07-08",
-   "c": [
-    "e169",
-    "e168",
-    "e167",
-    "e166"
-   ]
-  },
-  {
-   "id": "gOXWmmMkwZE",
-   "g": "g4",
-   "title": "Hearts2Hearts IAN Fancam 'Lemon Tang'｜IDOL RADIO 07/26/08",
-   "ch": "Spinel CAM",
-   "up": "2026-07-08",
-   "c": [
-    "e169",
-    "e168",
-    "e167",
-    "e166"
-   ]
-  },
-  {
-   "id": "khgO2djRonI",
-   "g": "g4",
-   "title": "[#OpenConcert] You're MY H2H🍋 Hearts2Hearts 'Lemon Tang' + 'RUDE!' | Aired on KBS 07/19/26",
-   "ch": "KBS 한국방송",
-   "up": "2026-07-19",
-   "c": []
-  },
-  {
-   "id": "Oaitx2W0nGE",
-   "g": "g4",
-   "title": "[근접촬영원본] Hearts2Hearts - Lemon Tang [열린 음악회/Open Concert] | KBS 방송",
-   "ch": "KBS 레전드 케이팝",
-   "up": "2026-07-19",
-   "c": []
+   ],
+   "views": null
   },
   {
    "id": "MpQKW6Tiwno",
@@ -1232,61 +302,8 @@
    "title": "[4K] 하츠투하츠(Hearts2Hearts), '인사부터 상큼함이 팡팡🙌🏻' KWDA 무대 하츄들도 기대해줄거지?💕 | 2026 KWDA",
    "ch": "티브이데일리",
    "up": "2026-08-04",
-   "c": []
-  },
-  {
-   "id": "XTkTWlEU0JE",
-   "g": "g4",
-   "title": "H2H (Hearts2Hearts) – Full Performance | SBS Gayo Daejeon ✨",
-   "ch": "Haneul Archive\n\n",
-   "up": "2026-08-09",
-   "c": [
-    "e174",
-    "e361"
-   ]
-  },
-  {
-   "id": "Wf0_M072DP8",
-   "g": "g4",
-   "title": "Hearts2Hearts Lemon Tang Style Rude & Iconic Heart Full Performance at Mezamashi Wangan festival",
-   "ch": "carmen",
-   "up": "2026-08-14",
-   "c": [
-    "e176",
-    "e175",
-    "e354",
-    "e174",
-    "e361"
-   ]
-  },
-  {
-   "id": "T412tWDFa0A",
-   "g": "g4",
-   "title": "Hearts2Hearts Full Performance at TGC Matsuyama 2026 🇯🇵• RUDE!• Lemon Tang• ICONIC HEART",
-   "ch": "lschuettna",
-   "up": "2026-08-16",
-   "c": [
-    "e355",
-    "e375",
-    "e176",
-    "e175",
-    "e354"
-   ]
-  },
-  {
-   "id": "eBnh016KyVc",
-   "g": "g4",
-   "title": "[2026 가요대전 썸머 4K] 하츠투하츠 스텔라 'INTRO + Lemon Tang + 15-LOVE' (Hearts2Hearts STELLA FanCam) @SBS",
-   "ch": "SBSKPOP ZOOM",
-   "up": "2026-08-18",
-   "c": [
-    "e356",
-    "e355",
-    "e375",
-    "e176",
-    "e175",
-    "e354"
-   ]
+   "c": [],
+   "views": 11453
   },
   {
    "id": "1mO_Y8Omr1c",
@@ -1297,26 +314,11 @@
    "c": [
     "e356",
     "e355",
-    "e375",
     "e176",
     "e175",
     "e354"
-   ]
-  },
-  {
-   "id": "KpvBdLiu8ec",
-   "g": "g4",
-   "title": "[2026 가요대전 썸머 4K] 하츠투하츠 예온 'INTRO + Lemon Tang + 15-LOVE' (Hearts2Hearts YE-ON FanCam) @SBS",
-   "ch": "SBSKPOP ZOOM",
-   "up": "2026-08-18",
-   "c": [
-    "e356",
-    "e355",
-    "e375",
-    "e176",
-    "e175",
-    "e354"
-   ]
+   ],
+   "views": 9101
   },
   {
    "id": "Ej-qXYLa00k",
@@ -1327,11 +329,11 @@
    "c": [
     "e356",
     "e355",
-    "e375",
     "e176",
     "e175",
     "e354"
-   ]
+   ],
+   "views": 6877
   },
   {
    "id": "VW40Rhl9vdA",
@@ -1342,11 +344,11 @@
    "c": [
     "e356",
     "e355",
-    "e375",
     "e176",
     "e175",
     "e354"
-   ]
+   ],
+   "views": 17391
   },
   {
    "id": "fEuCnD4DUdo",
@@ -1357,11 +359,11 @@
    "c": [
     "e356",
     "e355",
-    "e375",
     "e176",
     "e175",
     "e354"
-   ]
+   ],
+   "views": 5310
   },
   {
    "id": "qlWdQDBroyM",
@@ -1372,11 +374,11 @@
    "c": [
     "e356",
     "e355",
-    "e375",
     "e176",
     "e175",
     "e354"
-   ]
+   ],
+   "views": 19164
   },
   {
    "id": "Si-qbZpEVZM",
@@ -1387,23 +389,11 @@
    "c": [
     "e356",
     "e355",
-    "e375",
     "e176",
     "e175",
     "e354"
-   ]
-  },
-  {
-   "id": "0zFjcwDAiIM",
-   "g": "g4",
-   "title": "하츠투하츠 스텔라 풀캠 | 마지막처럼 · 2026 SBS SUMMER",
-   "ch": "RECDOL",
-   "up": "2026-08-21",
-   "c": [
-    "e356",
-    "e355",
-    "e375"
-   ]
+   ],
+   "views": 41894
   },
   {
    "id": "tfGyOS8ZkTA",
@@ -1415,7 +405,8 @@
     "e357",
     "e356",
     "e355"
-   ]
+   ],
+   "views": 2589
   },
   {
    "id": "Eoe-YaNldX0",
@@ -1427,7 +418,8 @@
     "e357",
     "e356",
     "e355"
-   ]
+   ],
+   "views": 3552
   },
   {
    "id": "W7hRX_sTuzQ",
@@ -1439,7 +431,8 @@
     "e357",
     "e356",
     "e355"
-   ]
+   ],
+   "views": null
   },
   {
    "id": "oC52T3hDH48",
@@ -1452,7 +445,8 @@
     "e179",
     "e178",
     "e177"
-   ]
+   ],
+   "views": 254467
   },
   {
    "id": "_ibIqKIET_E",
@@ -1462,10 +456,10 @@
    "up": "2026-09-14",
    "c": [
     "e182",
-    "e209",
     "e181",
     "e208"
-   ]
+   ],
+   "views": 15297
   },
   {
    "id": "o1WE3ij2IK8",
@@ -1477,10 +471,10 @@
     "e183",
     "e210",
     "e182",
-    "e209",
     "e181",
     "e208"
-   ]
+   ],
+   "views": null
   },
   {
    "id": "Lh2_HZSj8vs",
@@ -1488,59 +482,8 @@
    "title": "시구식 무대를 하러 도쿄돔에 왔습니다!(ᵔᗜᵔ)✧* | Hearts2Hearts 하츠투하츠 ‘ICONIC HEART’ Promotion Event in Japan BH2ND #2",
    "ch": "Hearts2Hearts",
    "up": "2026-10-01",
-   "c": []
-  },
-  {
-   "id": "ReUHxHn3wFA",
-   "g": "g4",
-   "title": "하츠투하츠 이안 직캠 확대 Lemon Tang",
-   "ch": "rotten",
-   "up": "2026-10-01",
-   "c": []
-  },
-  {
-   "id": "ZTiBevPH0cg",
-   "g": "g4",
-   "title": "10/03/26 Hearts2Hearts - Full Version [SMTOWN RUN CLUB 26]",
-   "ch": "나비던캠 NaviDunCam",
-   "up": "2026-10-03",
-   "c": [
-    "e185",
-    "e184"
-   ]
-  },
-  {
-   "id": "jvqowCsxCh8",
-   "g": "g4",
-   "title": "하츠투하츠 Hearts2Hearts 'RUDE!' SMRUN 축하공연 FANCAM",
-   "ch": "전람회",
-   "up": "2026-10-03",
-   "c": [
-    "e185",
-    "e184"
-   ]
-  },
-  {
-   "id": "_w46PWlXXnQ",
-   "g": "g4",
-   "title": "하츠투하츠 이안 직캠 확대 The Chase + Butterflies + STYLE + Gee",
-   "ch": "rotten",
-   "up": "2026-10-07",
-   "c": [
-    "e185",
-    "e184"
-   ]
-  },
-  {
-   "id": "wfyNi3pm6vI",
-   "g": "g4",
-   "title": "[4k] 2025-2026 Hearts2Hearts IAN ‘Gee’ 직캠|교차직캠(H2H IAN Focus)",
-   "ch": "I_Andlove",
-   "up": "2026-10-08",
-   "c": [
-    "e185",
-    "e184"
-   ]
+   "c": [],
+   "views": 639280
   },
   {
    "id": "hY6nt33ALyE",
@@ -1551,7 +494,8 @@
    "c": [
     "e187",
     "e186"
-   ]
+   ],
+   "views": null
   },
   {
    "id": "yJnTDhabAmI",
@@ -1562,72 +506,8 @@
    "c": [
     "e187",
     "e186"
-   ]
-  },
-  {
-   "id": "j29A7ZoQ7Mc",
-   "g": "g4",
-   "title": "Juun-Iconic Heart fancam 17.10.2026 (Hearts2hearts)",
-   "ch": "Allegsi_Lex",
-   "up": "2026-10-17",
-   "c": [
-    "e188",
-    "e189",
-    "e187",
-    "e186"
-   ]
-  },
-  {
-   "id": "9W-TGhGOwo8",
-   "g": "g4",
-   "title": "JUUN-ICONIC HEART fancam 17.10.2026 (hearts2hearts)",
-   "ch": "Allegsi_Lex",
-   "up": "2026-10-17",
-   "c": [
-    "e188",
-    "e189",
-    "e187",
-    "e186"
-   ]
-  },
-  {
-   "id": "49aMylagKNE",
-   "g": "g4",
-   "title": "HEARTS2HEARTS Full Performance at NOL Music Festival (NMF) 2026 ",
-   "ch": "Idolized Lab",
-   "up": "2026-10-18",
-   "c": [
-    "e188",
-    "e189",
-    "e187",
-    "e186"
-   ]
-  },
-  {
-   "id": "zmtjfNflsZk",
-   "g": "g4",
-   "title": "하츠투하츠 지우 직캠 확대 Lemon Tang",
-   "ch": "rotten",
-   "up": "2026-10-20",
-   "c": [
-    "e188",
-    "e189",
-    "e187",
-    "e186"
-   ]
-  },
-  {
-   "id": "VSDCHaC0C4c",
-   "g": "g4",
-   "title": "하츠투하츠 지우 직캠 확대 Lemon Tang",
-   "ch": "rotten",
-   "up": "2026-10-20",
-   "c": [
-    "e188",
-    "e189",
-    "e187",
-    "e186"
-   ]
+   ],
+   "views": null
   },
   {
    "id": "VmqNGD_kpc8",
@@ -1639,7 +519,8 @@
     "e215",
     "e188",
     "e189"
-   ]
+   ],
+   "views": null
   },
   {
    "id": "7kpNXWjJdcM",
@@ -1651,19 +532,8 @@
     "e215",
     "e188",
     "e189"
-   ]
-  },
-  {
-   "id": "j8_NI330I2A",
-   "g": "g4",
-   "title": "10/26/23 Hearts2Hearts - Next Chapter @ RoV T-POP Tournament 2026 [Overall Stage 4K 60p]",
-   "ch": "037M2",
-   "up": "2026-10-23",
-   "c": [
-    "e215",
-    "e188",
-    "e189"
-   ]
+   ],
+   "views": 25272
   },
   {
    "id": "es9qQnBGVYs",
@@ -1672,9 +542,9 @@
    "ch": "THE IDOL × Nikon",
    "up": "2026-01-16",
    "c": [
-    "e216",
     "e1"
-   ]
+   ],
+   "views": 9109
   },
   {
    "id": "uVpGElT--E8",
@@ -1683,47 +553,9 @@
    "ch": "IVE",
    "up": "2026-02-10",
    "c": [
-    "e220",
-    "e219"
-   ]
-  },
-  {
-   "id": "pypoLmOwMaU",
-   "g": "g1",
-   "title": "'BANG BANG'(IVE Rei fancam mirrored) ",
-   "ch": "p_mirrored",
-   "up": "2026-02-18",
-   "c": [
-    "e5",
-    "e4",
-    "e3",
-    "e2"
-   ]
-  },
-  {
-   "id": "fE4Y8TjSIxw",
-   "g": "g1",
-   "title": "'BANG BANG'(IVE Leeseo fancam mirrored) ",
-   "ch": "p_mirrored",
-   "up": "2026-02-20",
-   "c": [
-    "e5",
-    "e4"
-   ]
-  },
-  {
-   "id": "xCOE70KsQfk",
-   "g": "g1",
-   "title": "S2IT 에스투잇 효빈 - 아이브 XOXZ 엑스오엑스지 @한류문화공동체 신촌케이팝페스티벌 (26.03.02)",
-   "ch": "z a m",
-   "up": "2026-03-02",
-   "c": [
-    "e222",
-    "e9",
-    "e8",
-    "e7",
-    "e6"
-   ]
+    "e220"
+   ],
+   "views": null
   },
   {
    "id": "uNeMSpN4fVY",
@@ -1736,7 +568,8 @@
     "e15",
     "e14",
     "e236"
-   ]
+   ],
+   "views": 10548
   },
   {
    "id": "ZDjjq13x20s",
@@ -1749,7 +582,8 @@
     "e15",
     "e14",
     "e236"
-   ]
+   ],
+   "views": 66448
   },
   {
    "id": "uKuhJy8uAJw",
@@ -1762,7 +596,8 @@
     "e15",
     "e14",
     "e236"
-   ]
+   ],
+   "views": 39213
   },
   {
    "id": "r_dVIEF1Sq4",
@@ -1775,29 +610,8 @@
     "e15",
     "e14",
     "e236"
-   ]
-  },
-  {
-   "id": "ArUssrHlAJE",
-   "g": "g1",
-   "title": "(4k60p) 2026 IVE THE 4TH FAN CONCERT 〈DIVE into IVE〉DAY 2 소원을 말해봐 (원곡: 소녀시대)",
-   "ch": "테메레르",
-   "up": "2026-03-30",
-   "c": [
-    "e239",
-    "e238"
-   ]
-  },
-  {
-   "id": "mZa-caiabd8",
-   "g": "g1",
-   "title": "[4k] 앵콜 Dear, My Feelings + Fireworks - IVE(아이브 팬콘서트 2026 0322)",
-   "ch": "RainTiger",
-   "up": "2026-03-31",
-   "c": [
-    "e239",
-    "e238"
-   ]
+   ],
+   "views": 7699678
   },
   {
    "id": "TzP00ZvhFB8",
@@ -1806,10 +620,9 @@
    "ch": "Yoshiro Club",
    "up": "2026-04-04",
    "c": [
-    "e225",
-    "e226",
-    "e239"
-   ]
+    "e226"
+   ],
+   "views": 77543
   },
   {
    "id": "E9ix_Co_J18",
@@ -1820,9 +633,9 @@
    "c": [
     "e246",
     "e16",
-    "e245",
     "e244"
-   ]
+   ],
+   "views": 109929
   },
   {
    "id": "va4oiCP5JR4",
@@ -1832,9 +645,9 @@
    "up": "2026-04-30",
    "c": [
     "e246",
-    "e16",
-    "e245"
-   ]
+    "e16"
+   ],
+   "views": 195599
   },
   {
    "id": "QKFKmblW9Yg",
@@ -1844,12 +657,10 @@
    "up": "2026-05-11",
    "c": [
     "e17",
-    "e227",
-    "e250",
     "e247",
-    "e248",
-    "e249"
-   ]
+    "e248"
+   ],
+   "views": 215459
   },
   {
    "id": "heum0G_QVmg",
@@ -1860,9 +671,9 @@
    "c": [
     "e21",
     "e20",
-    "e19",
     "e259"
-   ]
+   ],
+   "views": 6102
   },
   {
    "id": "k0kfOsZFWLw",
@@ -1873,9 +684,9 @@
    "c": [
     "e21",
     "e20",
-    "e19",
     "e259"
-   ]
+   ],
+   "views": null
   },
   {
    "id": "K79PoSoCqXI",
@@ -1886,7 +697,8 @@
    "c": [
     "e21",
     "e20"
-   ]
+   ],
+   "views": 2099
   },
   {
    "id": "5GknJf8oAp8",
@@ -1896,45 +708,11 @@
    "up": "2026-07-25",
    "c": [
     "e23",
-    "e233",
     "e22",
-    "e265",
     "e232",
-    "e264",
     "e263"
-   ]
-  },
-  {
-   "id": "leig24V3D14",
-   "g": "g1",
-   "title": "IVE (아이브) Full Concert | Bell Centre, Montreal | July 23, 2026 | Full Show 4K Fancam | Front Row",
-   "ch": "HamHam Peanut",
-   "up": "2026-07-26",
-   "c": [
-    "e266",
-    "e23",
-    "e233",
-    "e22",
-    "e265",
-    "e232",
-    "e264"
-   ]
-  },
-  {
-   "id": "Oi9byQGW_U8",
-   "g": "g1",
-   "title": "IVE (아이브) Full Concert | Newark, NJ | July 25, 2026 | Full Show 4K Fancam",
-   "ch": "HamHam Peanut",
-   "up": "2026-07-26",
-   "c": [
-    "e266",
-    "e23",
-    "e233",
-    "e22",
-    "e265",
-    "e232",
-    "e264"
-   ]
+   ],
+   "views": null
   },
   {
    "id": "214uCv4hkog",
@@ -1946,10 +724,9 @@
     "e257",
     "e266",
     "e23",
-    "e233",
-    "e22",
-    "e265"
-   ]
+    "e22"
+   ],
+   "views": 10640
   },
   {
    "id": "ceaadYTFO48",
@@ -1960,22 +737,9 @@
    "c": [
     "e257",
     "e266",
-    "e23",
-    "e233"
-   ]
-  },
-  {
-   "id": "6W6nkP0QyZk",
-   "g": "g1",
-   "title": "072926 Odd [SHOW WHAT I AM WORLD TOUR] 아이브 가을 IVE Gaeul Fancam Austin TX",
-   "ch": "BE",
-   "up": "2026-07-31",
-   "c": [
-    "e257",
-    "e266",
-    "e23",
-    "e233"
-   ]
+    "e23"
+   ],
+   "views": null
   },
   {
    "id": "-PFc17c4N0I",
@@ -1985,39 +749,9 @@
    "up": "2026-08-05",
    "c": [
     "e26",
-    "e267",
-    "e24",
-    "e25",
-    "e234"
-   ]
-  },
-  {
-   "id": "nW5x1Ix84nU",
-   "g": "g1",
-   "title": "IVE - Full Concert fancam SHOW WHAT I AM TOUR OAKLAND 08-04-2026",
-   "ch": "al51723",
-   "up": "2026-08-05",
-   "c": [
-    "e26",
-    "e267",
-    "e24",
-    "e25",
-    "e234"
-   ]
-  },
-  {
-   "id": "IIZg4g4LC6g",
-   "g": "g1",
-   "title": "IVE - Attitude, Love Dive, Rebel Heart, Bang Bang - Fancam Vancouver 8-9-2026 - Show What I Am Tour",
-   "ch": "SuperFried",
-   "up": "2026-08-10",
-   "c": [
-    "e235",
-    "e268",
-    "e27",
-    "e26",
-    "e267"
-   ]
+    "e25"
+   ],
+   "views": 7046
   },
   {
    "id": "zH84htCAkEw",
@@ -2027,9 +761,9 @@
    "up": "2026-08-21",
    "c": [
     "e30",
-    "e28",
     "e29"
-   ]
+   ],
+   "views": 67109
   },
   {
    "id": "ZOamkuIBTKw",
@@ -2040,7 +774,8 @@
    "c": [
     "e31",
     "e30"
-   ]
+   ],
+   "views": 35449
   },
   {
    "id": "4M_nK0m_lGs",
@@ -2051,7 +786,8 @@
    "c": [
     "e31",
     "e30"
-   ]
+   ],
+   "views": 32721
   },
   {
    "id": "YL_43jIGRRA",
@@ -2062,15 +798,8 @@
    "c": [
     "e33",
     "e200"
-   ]
-  },
-  {
-   "id": "x2a8rtAPTJs",
-   "g": "g1",
-   "title": "아이브 이서 직캠 확대 BANG BANG + XOXZ + KITSCH + REBEL HEART + I AM",
-   "ch": "rotten",
-   "up": "2026-10-07",
-   "c": []
+   ],
+   "views": null
   },
   {
    "id": "vL4y-ZuKzZs",
@@ -2082,24 +811,8 @@
     "e36",
     "e37",
     "e35"
-   ]
-  },
-  {
-   "id": "DsjZA7tRlNI",
-   "g": "g1",
-   "title": "2026 10 23 롯데 시네마 아이브 영화 코앞에서 보는 여신 아이브 멤버들 무대인사 직캠 #무대인사 #ive #장원영 #리즈 #가을선배 #안유진 ",
-   "ch": "상상이네 일상",
-   "up": "2026-10-23",
-   "c": [
-    "e39",
-    "e40",
-    "e202",
-    "e203",
-    "e38",
-    "e36",
-    "e37",
-    "e35"
-   ]
+   ],
+   "views": 1625265
   },
   {
    "id": "L1JNz9uhkJo",
@@ -2107,7 +820,8 @@
    "title": "NMIXX - Blue Valentine | 2025 MBC Music Festival | KOCOWA+",
    "ch": "KOCOWA TV",
    "up": "2026-01-01",
-   "c": []
+   "c": [],
+   "views": 39139
   },
   {
    "id": "HigtOGj4e1s",
@@ -2118,7 +832,8 @@
    "c": [
     "e271",
     "e43"
-   ]
+   ],
+   "views": 41553
   },
   {
    "id": "7thH4kfblMQ",
@@ -2129,18 +844,8 @@
    "c": [
     "e271",
     "e43"
-   ]
-  },
-  {
-   "id": "PGDD3TSkauY",
-   "g": "g2",
-   "title": "엔믹스 nmixx FULL VER - O.O WORLD TOUR CONCERT [ZERO FRONTIER] IN INCHEON",
-   "ch": "sj-KPOP",
-   "up": "2026-02-27",
-   "c": [
-    "e271",
-    "e43"
-   ]
+   ],
+   "views": 999782
   },
   {
    "id": "ohE4WGmH3o8",
@@ -2153,7 +858,8 @@
     "e273",
     "e45",
     "e44"
-   ]
+   ],
+   "views": 20940
   },
   {
    "id": "SEQF2Jc69z8",
@@ -2167,7 +873,8 @@
     "e274",
     "e273",
     "e45"
-   ]
+   ],
+   "views": 16502
   },
   {
    "id": "j7FX4CsrinI",
@@ -2181,7 +888,8 @@
     "e274",
     "e273",
     "e45"
-   ]
+   ],
+   "views": null
   },
   {
    "id": "mg-Jjn6E74g",
@@ -2194,7 +902,8 @@
     "e275",
     "e274",
     "e273"
-   ]
+   ],
+   "views": 3356
   },
   {
    "id": "UDTHIX7ZZMk",
@@ -2206,7 +915,8 @@
     "e276",
     "e275",
     "e274"
-   ]
+   ],
+   "views": 10626
   },
   {
    "id": "AqBEtgrfiXU",
@@ -2216,26 +926,10 @@
    "up": "2026-04-05",
    "c": [
     "e47",
-    "e280",
     "e279",
-    "e46",
-    "e278"
-   ]
-  },
-  {
-   "id": "RPEgo9k6Dps",
-   "g": "g2",
-   "title": "NMIXX - KNOW ABOUT ME - EPISODE 1:ZERO FRONTIER - Oakland (fancam)",
-   "ch": "IMPACT",
-   "up": "2026-04-07",
-   "c": [
-    "e49",
-    "e294",
-    "e48",
-    "e47",
-    "e280",
-    "e279"
-   ]
+    "e46"
+   ],
+   "views": 399208
   },
   {
    "id": "FX-m_h9fDuo",
@@ -2245,58 +939,11 @@
    "up": "2026-04-08",
    "c": [
     "e49",
-    "e294",
     "e48",
     "e47",
-    "e280",
     "e279"
-   ]
-  },
-  {
-   "id": "jqwJrVHbGls",
-   "g": "g2",
-   "title": "NMIXX - EPISODE 1: ZERO FRONTIER World Tour @ OAKLAND | Full Show [Fancam] 04-07-26",
-   "ch": "iHeart_TWICE",
-   "up": "2026-04-08",
-   "c": [
-    "e49",
-    "e294",
-    "e48",
-    "e47",
-    "e280",
-    "e279"
-   ]
-  },
-  {
-   "id": "UrU5VmgBNqw",
-   "g": "g2",
-   "title": "NMIXX - Full Concert Fancam Episode 1: Zero Frontier Tour in Oakland 04-07-26",
-   "ch": "al51723",
-   "up": "2026-04-08",
-   "c": [
-    "e49",
-    "e294",
-    "e48",
-    "e47",
-    "e280",
-    "e279"
-   ]
-  },
-  {
-   "id": "9wWxBMcQfTk",
-   "g": "g2",
-   "title": "NMIXX (엔믹스) Encore Moving On + Adore U Fancam Episode 1: Zero Frontier Tour in LA",
-   "ch": "Pearin",
-   "up": "2026-04-10",
-   "c": [
-    "e50",
-    "e295",
-    "e49",
-    "e294",
-    "e48",
-    "e47",
-    "e280"
-   ]
+   ],
+   "views": 11640
   },
   {
    "id": "_-8TZJkAcCQ",
@@ -2306,45 +953,11 @@
    "up": "2026-04-10",
    "c": [
     "e50",
-    "e295",
     "e49",
-    "e294",
     "e48",
-    "e47",
-    "e280"
-   ]
-  },
-  {
-   "id": "LBdxbJO9aFA",
-   "g": "g2",
-   "title": "NMIXX [LOS ANGELES] [EPISODE 1: ZERO FRONTIER-1ST WORLD TOUR] [FANCAM/4K] @ YouTube Theater 4/9/2026",
-   "ch": "Asian Pop Footage!",
-   "up": "2026-04-10",
-   "c": [
-    "e50",
-    "e295",
-    "e49",
-    "e294",
-    "e48",
-    "e47",
-    "e280"
-   ]
-  },
-  {
-   "id": "xLZH_FQaKto",
-   "g": "g2",
-   "title": "NMIXX Phoenix Zero Frontier Concert Fancam Los Angeles 4/9/2026",
-   "ch": "mechawonton",
-   "up": "2026-04-10",
-   "c": [
-    "e50",
-    "e295",
-    "e49",
-    "e294",
-    "e48",
-    "e47",
-    "e280"
-   ]
+    "e47"
+   ],
+   "views": 2792
   },
   {
    "id": "jeht3HnZAg8",
@@ -2354,25 +967,10 @@
    "up": "2026-04-11",
    "c": [
     "e50",
-    "e295",
     "e49",
-    "e294",
     "e48"
-   ]
-  },
-  {
-   "id": "T9aMtXicQZo",
-   "g": "g2",
-   "title": "NMIXX (엔믹스) Full Concert Full Cam Fancam Episode 1: Zero Frontier Tour in LA 040926",
-   "ch": "Pearin",
-   "up": "2026-04-11",
-   "c": [
-    "e50",
-    "e295",
-    "e49",
-    "e294",
-    "e48"
-   ]
+   ],
+   "views": 5159
   },
   {
    "id": "MLCINzEoqCg",
@@ -2381,9 +979,9 @@
    "ch": "Sun스노",
    "up": "2026-04-24",
    "c": [
-    "e51",
-    "e281"
-   ]
+    "e51"
+   ],
+   "views": 5068
   },
   {
    "id": "WDBjRxFMggk",
@@ -2393,9 +991,9 @@
    "up": "2026-04-30",
    "c": [
     "e282",
-    "e51",
-    "e281"
-   ]
+    "e51"
+   ],
+   "views": 607437
   },
   {
    "id": "ZqRJCeCAkX8",
@@ -2406,7 +1004,8 @@
    "c": [
     "e53",
     "e52"
-   ]
+   ],
+   "views": 2540166
   },
   {
    "id": "x3lzcCJsMy4",
@@ -2421,7 +1020,8 @@
     "e54",
     "e53",
     "e52"
-   ]
+   ],
+   "views": 108644
   },
   {
    "id": "n7wKns9BcmU",
@@ -2435,10 +1035,9 @@
     "e59",
     "e287",
     "e285",
-    "e286",
-    "e58",
-    "e284"
-   ]
+    "e58"
+   ],
+   "views": 195989
   },
   {
    "id": "a4n15qSygsA",
@@ -2452,9 +1051,9 @@
     "e60",
     "e59",
     "e287",
-    "e285",
-    "e286"
-   ]
+    "e285"
+   ],
+   "views": 596774
   },
   {
    "id": "nZvRfZ6ME8k",
@@ -2467,7 +1066,8 @@
     "e63",
     "e62",
     "e60"
-   ]
+   ],
+   "views": 2489
   },
   {
    "id": "01w7CVCW7kY",
@@ -2480,7 +1080,8 @@
     "e288",
     "e63",
     "e62"
-   ]
+   ],
+   "views": 128727
   },
   {
    "id": "dNUkrrqmwug",
@@ -2490,9 +1091,9 @@
    "up": "2026-07-13",
    "c": [
     "e68",
-    "e67",
     "e291"
-   ]
+   ],
+   "views": 142052
   },
   {
    "id": "0xQpqv3TOcY",
@@ -2502,9 +1103,9 @@
    "up": "2026-07-16",
    "c": [
     "e68",
-    "e67",
     "e291"
-   ]
+   ],
+   "views": 52282
   },
   {
    "id": "bG4-9M2n_lI",
@@ -2513,20 +1114,9 @@
    "ch": "Docyte Live",
    "up": "2026-07-25",
    "c": [
-    "e69",
-    "e292"
-   ]
-  },
-  {
-   "id": "P3VX2lqdaK4",
-   "g": "g2",
-   "title": "[FANCAM] NMIXX - \"O.O\" | IN HONG KONG 25-07-2026",
-   "ch": "Docyte Live",
-   "up": "2026-07-25",
-   "c": [
-    "e69",
-    "e292"
-   ]
+    "e69"
+   ],
+   "views": 5789
   },
   {
    "id": "8s5Rq-kVG9w",
@@ -2536,26 +1126,9 @@
    "up": "2026-07-26",
    "c": [
     "e293",
-    "e298",
-    "e69",
-    "e292"
-   ]
-  },
-  {
-   "id": "yf2E2eJD-wc",
-   "g": "g2",
-   "title": "[NMIXX 엔믹스 ZERO FRONTIER CONCERT] HK 香港場 \"Papillion\" 直拍 Fullcam",
-   "ch": "JCGG Lyrics",
-   "up": "2026-08-08",
-   "c": []
-  },
-  {
-   "id": "GB67pnHgBtw",
-   "g": "g2",
-   "title": "[NMIXX 엔믹스 ZERO FRONTIER CONCERT] HK 香港場 \"Heavy Serenade\" 直拍 Fullcam",
-   "ch": "JCGG Lyrics",
-   "up": "2026-08-09",
-   "c": []
+    "e69"
+   ],
+   "views": 7768
   },
   {
    "id": "KxanJbZOR6A",
@@ -2563,7 +1136,8 @@
    "title": "緊急告知！NMIXX JAPAN DEBUT SHOWCASE “N=MIXX” 開催決定！",
    "ch": "NMIXX JAPAN OFFICIAL YouTube Channel",
    "up": "2026-08-09",
-   "c": []
+   "c": [],
+   "views": null
   },
   {
    "id": "K6dmo8VJeRk",
@@ -2572,175 +1146,9 @@
    "ch": "cam",
    "up": "2026-08-27",
    "c": [
-    "e72",
-    "e299"
-   ]
-  },
-  {
-   "id": "9wuXtOopxIo",
-   "g": "g2",
-   "title": "NMIXX in Oakland - Soundcheck 1 [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-28",
-   "c": []
-  },
-  {
-   "id": "OQqcMyMH5tE",
-   "g": "g2",
-   "title": "NMIXX in Oakland - Soundcheck 3 [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-28",
-   "c": []
-  },
-  {
-   "id": "SeU-YFQwmic",
-   "g": "g2",
-   "title": "NMIXX in Oakland - Soundcheck 4 [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-28",
-   "c": []
-  },
-  {
-   "id": "od3LSEKknWk",
-   "g": "g2",
-   "title": "NMIXX in Oakland - ADORE U and Outro [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-29",
-   "c": []
-  },
-  {
-   "id": "BwEKlMITA4g",
-   "g": "g2",
-   "title": "NMIXX in Oakland - BEAT BEAT [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-29",
-   "c": []
-  },
-  {
-   "id": "arbdvf4MaUI",
-   "g": "g2",
-   "title": "NMIXX in Oakland - Blue Valentine [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-29",
-   "c": []
-  },
-  {
-   "id": "JMYRtoQXfgc",
-   "g": "g2",
-   "title": "NMIXX in Oakland - Break the Wall [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-29",
-   "c": []
-  },
-  {
-   "id": "iK3Ac8vkatU",
-   "g": "g2",
-   "title": "NMIXX in Oakland - DICE [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-29",
-   "c": []
-  },
-  {
-   "id": "7wst_RIQSF4",
-   "g": "g2",
-   "title": "NMIXX in Oakland - High Horse [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-29",
-   "c": []
-  },
-  {
-   "id": "eePo_DW6Lok",
-   "g": "g2",
-   "title": "NMIXX in Oakland - KNOW ABOUT ME [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-29",
-   "c": []
-  },
-  {
-   "id": "3NVizdkZfBg",
-   "g": "g2",
-   "title": "NMIXX in Oakland - Moving On [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-29",
-   "c": []
-  },
-  {
-   "id": "I4gTc9XiC-o",
-   "g": "g2",
-   "title": "NMIXX in Oakland - O.O [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-29",
-   "c": []
-  },
-  {
-   "id": "lq-ofkX2Z7I",
-   "g": "g2",
-   "title": "NMIXX in Oakland - PAXXWORD [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-29",
-   "c": []
-  },
-  {
-   "id": "hagUIF_bYUw",
-   "g": "g2",
-   "title": "NMIXX in Oakland - Run for Roses [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-29",
-   "c": []
-  },
-  {
-   "id": "LHvHUWQQMcM",
-   "g": "g2",
-   "title": "NMIXX in Oakland - See that? [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-29",
-   "c": []
-  },
-  {
-   "id": "iw21PwTlBvQ",
-   "g": "g2",
-   "title": "NMIXX in Oakland - Soñar (Breaker) [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-29",
-   "c": []
-  },
-  {
-   "id": "SOAcabQ9pKc",
-   "g": "g2",
-   "title": "NMIXX in Oakland - SPINNIN' ON IT [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-29",
-   "c": []
-  },
-  {
-   "id": "gUhlJmivXQY",
-   "g": "g2",
-   "title": "NMIXX in Oakland - Young, Dumb, Stupid [4k] [FANCAM]",
-   "ch": "TriArcFrank",
-   "up": "2026-09-29",
-   "c": []
-  },
-  {
-   "id": "V-iKrbJSsws",
-   "g": "g2",
-   "title": "엔믹스 설윤 Heavy serenade 직캠 | NMIXX SULLYOON Fancam",
-   "ch": "씬포켓",
-   "up": "2026-10-09",
-   "c": [
-    "e76",
-    "e75"
-   ]
-  },
-  {
-   "id": "_TRNyD6oC84",
-   "g": "g2",
-   "title": "엔믹스 해원 직캠 헤비세레나데 1시간",
-   "ch": "띵글이",
-   "up": "2026-10-11",
-   "c": [
-    "e76",
-    "e75"
-   ]
+    "e72"
+   ],
+   "views": 56461
   },
   {
    "id": "Njnc08bKWA0",
@@ -2751,19 +1159,8 @@
    "c": [
     "e78",
     "e77"
-   ]
-  },
-  {
-   "id": "ZU4V7SIoC9E",
-   "g": "g2",
-   "title": "[Haewon Focus] - NMIXX(엔믹스) “긴 소원 (Birthday Wish)” Stage Practice [MIRRORED]",
-   "ch": "AIVEPA",
-   "up": "2026-10-23",
-   "c": [
-    "e204",
-    "e78",
-    "e77"
-   ]
+   ],
+   "views": null
   },
   {
    "id": "Hm6puxFnPvA",
@@ -2775,7 +1172,8 @@
     "e204",
     "e78",
     "e77"
-   ]
+   ],
+   "views": null
   }
  ]
 }
