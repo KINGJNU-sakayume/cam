@@ -10,7 +10,7 @@ import { spawnSync } from 'node:child_process';
 import { dirname, join, resolve, extname, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { validateData, fileRefs } from '../js/validate-core.js';
-import { extractYt, parseTitle, parseFileName, fetchOEmbed, findDate } from '../js/admin/parse.js';
+import { extractYt, parseTitle, parseFileName, fetchOEmbed, findDate, sameShow, showKey, excludedReason } from '../js/admin/parse.js';
 import { GROUP_KEY, DEFAULT_COLORS, cellKey, isSampleYt } from '../js/model.js';
 import { isRealDate, parseTime, fmtTime, norm, dateForms } from '../js/util.js';
 
@@ -167,6 +167,8 @@ const COMMANDS = {
   pin <영상id>                   칸 대표로 (같은 칸 다른 영상은 해제)
   cover <공연id> <영상id|auto>   공연 표지
   remove <id> [--cascade] [--with-empty-event]   영상·공연·움짤 지우기
+  merge <남길공연id> <합칠공연id>...   같은 행사가 쪼개진 공연을 하나로 (--show 로 이름도 지정)
+  dedupe-events                  같은 그룹·날짜의 같은 행사(이름 표기만 다른) 공연을 모두 합치기
 
 그룹·멤버·곡
   roster <그룹정보.json> [--reorder]   그룹·멤버·곡을 한 번에 등록·보강 (형식: roster --help)
@@ -293,6 +295,8 @@ const COMMANDS = {
       }
       const where = `${tag} ${yt.id}`;
       const ctx = `(제목: ${title || '없음'})`;
+      const exWhy = (r.include ?? req.include) ? null : excludedReason(title, channel);
+      if (exWhy) { out(`  - 제외 ${where}: ${exWhy} ${ctx}`); continue; }
       // 그룹: 영상 → 요청 → 제목
       let g = null;
       const gq = r.group ?? req.group;
@@ -319,7 +323,15 @@ const COMMANDS = {
       items.push({ tag: where, r, yt, title, channel, auto, g, p, date, show, label, ctx });
     }
 
-    // 2) 공연별로 묶는다(기존 공연이면 거기에, 없으면 새로)
+    // 2) 공연별로 묶는다(기존 공연이면 거기에, 없으면 새로). 같은 행사의 다른 표기(도시·방송사·연도 차이)는 한 공연으로 본다
+    for (const it of items) {
+      const ex = data.events.find((e) => e.groupId === it.g.id && e.date === it.date && (e.label || '').trim() === it.label && sameShow(e.show, it.show));
+      if (ex) it.show = ex.show.trim();
+    }
+    const bestShow = new Map();
+    const skey = (it) => [it.g.id, it.date, it.label, showKey(it.show)].join('|');
+    for (const it of items) if (!bestShow.has(skey(it)) || it.show.length > bestShow.get(skey(it)).length) bestShow.set(skey(it), it.show);
+    for (const it of items) it.show = bestShow.get(skey(it));
     const buckets = new Map();
     for (const it of items) {
       const key = [it.g.id, it.date, it.show, it.label].join('|');
@@ -532,6 +544,62 @@ const COMMANDS = {
     if (!pos[1] || pos[1] === 'auto') delete e.cover;
     else { const v = findVideo(pos[1]); if (v.eventId !== e.id) die(`${v.id}는 ${e.id} 공연 영상이 아니에요.`); e.cover = v.id; }
     save(`${e.id} 표지 ${e.cover || '자동'}`);
+  },
+
+  merge() {
+    if (flags.help || pos.length < 2) {
+      out(`merge <남길공연id> <합칠공연id>... [--show "행사명"] [--force] [--dry-run]
+
+같은 행사가 여러 공연으로 쪼개졌을 때 영상·움짤을 남길 공연으로 옮기고 setlist를 합친 뒤 나머지 공연을 지워요.
+그룹과 날짜가 같아야 해요(다르면 --force).`);
+      return;
+    }
+    const keep = eventById(pos[0]);
+    if (!keep) die(`공연 ${pos[0]}이 없어요.`);
+    const others = pos.slice(1).map((id) => eventById(id) || die(`공연 ${id}이 없어요.`));
+    for (const o of others) {
+      if (o.groupId !== keep.groupId) die(`${o.id}는 다른 그룹 공연이에요.`);
+      if (o.date !== keep.date && !flags.force) die(`${o.id}(${o.date})와 ${keep.id}(${keep.date})의 날짜가 달라요. 맞다면 --force`);
+    }
+    if (flags.show) keep.show = String(flags.show);
+    mergeEvents(keep, others);
+    save(`${keep.id} ${evLabel(keep)}로 ${others.map((o) => o.id).join(', ')} 합침`);
+  },
+
+  'dedupe-events'() {
+    if (flags.help) { out('dedupe-events [--dry-run]\n같은 그룹·같은 날짜·같은 label에서 이름이 같은 행사(showKey 기준)인 공연을 하나로 합쳐요. 가장 구체적인(긴) 이름을 남겨요.'); return; }
+    const clusters = new Map();
+    for (const e of data.events) {
+      const k = [e.groupId, e.date, (e.label || '').trim(), showKey(e.show)].join('|');
+      if (!clusters.has(k)) clusters.set(k, []);
+      clusters.get(k).push(e);
+    }
+    let n = 0, m = 0;
+    for (const list of clusters.values()) {
+      if (list.length < 2) continue;
+      const cnt = (e) => data.videos.filter((v) => v.eventId === e.id).length;
+      const keep = [...list].sort((a, b) => b.show.length - a.show.length || cnt(b) - cnt(a))[0];
+      const others = list.filter((e) => e !== keep);
+      out(`  ${keep.id} ${evLabel(keep)} ← ${others.map((o) => `${o.id} ${o.show}`).join(', ')}`);
+      mergeEvents(keep, others);
+      n++; m += others.length;
+    }
+    // 이름이 너무 일반적인 공연(팬미팅·Spotify·쇼케이스)은 같은 날 투어·콘서트·페스티벌이 하나뿐이면 그 공연으로 본다
+    const GENERIC = new Set(['팬미팅', 'spotify', '쇼케이스']);
+    const HOST = /HEARTS 2 HOUSE|TOUR|CONCERT|HOME ?GROUND|ENCORE|FESTIVAL|GLOW|콘서트|페스티벌|투어/i;
+    const byDay = new Map();
+    for (const e of data.events) { const k = `${e.groupId}|${e.date}`; (byDay.get(k) || byDay.set(k, []).get(k)).push(e); }
+    for (const list of byDay.values()) {
+      const hosts = list.filter((e) => HOST.test(e.show));
+      if (hosts.length !== 1) continue;
+      const gen = list.filter((e) => GENERIC.has(e.show.trim().toLowerCase()) && (e.label || '') === (hosts[0].label || ''));
+      if (!gen.length) continue;
+      out(`  ${hosts[0].id} ${evLabel(hosts[0])} ← ${gen.map((o) => `${o.id} ${o.show}`).join(', ')} (일반 이름)`);
+      mergeEvents(hosts[0], gen);
+      n++; m += gen.length;
+    }
+    if (!n) { out('합칠 공연이 없어요.'); return; }
+    save(`공연 ${m + n}개를 ${n}개로 합침`);
   },
 
   remove() {
@@ -794,6 +862,16 @@ function unpinOthers(v) {
       o.pin = false;
       out(`  (같은 칸 ${o.id}의 대표 표시를 풀었어요)`);
     }
+  }
+}
+function mergeEvents(keep, others) {
+  for (const o of others) {
+    for (const v of data.videos) if (v.eventId === o.id) v.eventId = keep.id;
+    for (const c of data.clips) if (c.eventId === o.id) c.eventId = keep.id;
+    for (const sid of o.setlist || []) if (!keep.setlist.includes(sid)) keep.setlist.push(sid);
+    if (!keep.cover && o.cover) keep.cover = o.cover;
+    if (o.note && o.note !== keep.note) keep.note = [keep.note, o.note].filter(Boolean).join(' / ');
+    data.events = data.events.filter((x) => x !== o);
   }
 }
 function removeEvent(e) {

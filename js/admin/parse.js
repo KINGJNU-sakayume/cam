@@ -27,15 +27,71 @@ export function extractYt(input) {
   return { id, t: Number.isFinite(t) ? t : null };
 }
 
-// 6·8자리 날짜 → YYYY-MM-DD
-export function findDate(text) {
-  const re = /(?:^|[^\d])(\d{8}|\d{6})(?=[^\d]|$)/g;
-  let m;
-  while ((m = re.exec(text))) {
-    const d = m[1];
-    const iso = d.length === 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : `20${d.slice(0, 2)}-${d.slice(2, 4)}-${d.slice(4, 6)}`;
-    if (isRealDate(iso)) return { iso, raw: d };
+const MONTHS = { jan: 1, feb: 2, mar: 3, apr: 4, may: 5, jun: 6, jul: 7, aug: 8, sep: 9, sept: 9, oct: 10, nov: 11, dec: 12 };
+const pad = (n) => String(n).padStart(2, '0');
+const mk = (y, m, d) => { const iso = `${y}-${pad(m)}-${pad(d)}`; return isRealDate(iso) && y >= 2020 && y <= 2030 ? iso : null; };
+const fullYear = (y) => (y < 100 ? 2000 + y : y);
+
+// 제목의 날짜 → { iso, raw }. 261024 · 20261024 · 2026.10.24 · 2026-10-24 · 26.10.24 · 10/24/26 · 24.10.2026 ·
+// 10-24-2026 · 2026년 10월 24일 · 10월 24일(opts.year 필요) · Oct 24, 2026 · 24 Oct 2026 를 읽는다.
+export function findDate(text, opts = {}) {
+  const t = String(text || '');
+  let m, iso;
+  // YYYY.M.D / YYYY-MM-DD / YYYY/M/D / YYYY M D
+  const ymd = /(?:^|[^\d])(20\d\d)\s*[.\-/ ]\s*(\d{1,2})\s*[.\-/ ]\s*(\d{1,2})(?!\d)/g;
+  while ((m = ymd.exec(t))) if ((iso = mk(+m[1], +m[2], +m[3]))) return { iso, raw: m[0].trim() };
+  // 2026년 10월 24일
+  m = /(20\d\d)\s*년\s*(\d{1,2})\s*월\s*(\d{1,2})\s*일/.exec(t);
+  if (m && (iso = mk(+m[1], +m[2], +m[3]))) return { iso, raw: m[0] };
+  // YY.MM.DD (연도가 앞, 25~27)
+  const yymd = /(?:^|[^\d])(2[5-7])[.\-/](\d{1,2})[.\-/](\d{1,2})(?!\d)/g;
+  while ((m = yymd.exec(t))) if ((iso = mk(2000 + +m[1], +m[2], +m[3]))) return { iso, raw: m[0].trim() };
+  // A.B.YYYY / A.B.YY : 앞이 12보다 크면 일.월, 뒤가 12보다 크면 월.일, 둘 다 12 이하면 . 은 일.월, / - 는 월.일
+  const abY = /(?:^|[^\d])(\d{1,2})([.\-/])(\d{1,2})\2(20\d\d|\d{2})(?!\d)/g;
+  while ((m = abY.exec(t))) {
+    const a = +m[1], b = +m[3], y = fullYear(+m[4]);
+    const dm = a > 12 || (b <= 12 && m[2] === '.');
+    iso = dm ? mk(y, b, a) : mk(y, a, b);
+    if (iso) return { iso, raw: m[0].trim() };
   }
+  // Oct 24, 2026 / October 24 2026 / 24 Oct 2026
+  m = /\b(jan|feb|mar|apr|may|jun|jul|aug|sept?|oct|nov|dec)[a-z]*\.?\s+(\d{1,2})(?:st|nd|rd|th)?,?\s+(20\d\d)\b/i.exec(t);
+  if (m && (iso = mk(+m[3], MONTHS[m[1].toLowerCase()], +m[2]))) return { iso, raw: m[0] };
+  m = /\b(\d{1,2})(?:st|nd|rd|th)?\s+(jan|feb|mar|apr|may|jun|jul|aug|sept?|oct|nov|dec)[a-z]*\.?,?\s+(20\d\d)\b/i.exec(t);
+  if (m && (iso = mk(+m[3], MONTHS[m[2].toLowerCase()], +m[1]))) return { iso, raw: m[0] };
+  // 6·8자리 붙은 날짜: 261024 · 20261024
+  const re = /(?:^|[^\d])(\d{8}|\d{6})(?=[^\d]|$)/g;
+  while ((m = re.exec(t))) {
+    const d = m[1];
+    iso = mk(d.length === 8 ? +d.slice(0, 4) : 2000 + +d.slice(0, 2), +d.slice(d.length === 8 ? 4 : 2, d.length === 8 ? 6 : 4), +d.slice(d.length === 8 ? 6 : 4));
+    if (iso) return { iso, raw: d };
+  }
+  // 10월 24일 (연도는 opts.year로)
+  if (opts.year) {
+    m = /(\d{1,2})\s*월\s*(\d{1,2})\s*일/.exec(t);
+    if (m && (iso = mk(+opts.year, +m[1], +m[2]))) return { iso, raw: m[0] };
+  }
+  return null;
+}
+
+// 공연 이름 비교용 핵심 키: 도시·방송사·연도·Day 표기를 빼고 낱말을 정렬한다. 같은 행사의 다른 표기는 같은 키가 된다.
+const SHOW_STOP = new Set(['2025', '2026', '2027', 'sbs', 'kbs', 'mbc', 'mnet', 'tvn', 'jtbc', 'day', 'ver', 'the', 'in', 'of', 'at', 'live', '서울', '도쿄', '오사카', '요코하마', '뉴욕', '뉴어크', 'la', '엘에이', '오클랜드', '시애틀', '댈러스', '시카고', '토론토', '몬트리올', '마닐라', '싱가포르', '쿠알라룸푸르', '마카오', '홍콩', '가오슝', '타이베이', '방콕', '자카르타', '시드니', '멜버른', '런던', '파리', '베를린', '마드리드', '암스테르담', '부산', '대구']);
+const SHOW_SYN = { 썸머: 'summer', 윈터: 'winter', 대학교: '대', 대학: '대', 대동제: '축제', 페스티벌: '축제', festival: '축제', 가요대제전: '가요대전', 앙코르: 'encore', 앵콜: 'encore', 앵콘: 'encore', 콘서트: 'concert' };
+export function showKey(name) {
+  const toks = String(name || '').toLowerCase().replace(/water ?music( pool party)?|워터 ?뮤직|캐리비안 ?베이|스타쉽 ?데이/g, '캐리비안베이').replace(/대학교|대학/g, '대').replace(/[^\p{L}\p{N}]+/gu, ' ').split(' ').filter(Boolean)
+    .map((w) => w.replace(/^day(\d)$/, '$1')).map((w) => SHOW_SYN[w] || w).filter((w) => !SHOW_STOP.has(w) && !/^\d$/.test(w));
+  const uni = [...new Set(toks)].sort();
+  return uni.length ? uni.join(' ') : String(name || '').toLowerCase().replace(/\s+/g, '');
+}
+export const sameShow = (a, b) => showKey(a) === showKey(b);
+
+// 담지 않는 영상: 퇴근길·출근길, 팬사인회, mirrored, 댄스 동아리·팀의 커버. 이유를 돌려주고 해당 없으면 null.
+export function excludedReason(title, channel = '') {
+  const t = `${title || ''} ${channel || ''}`;
+  if (/퇴근길|출근길|퇴근 ?직캠|출근 ?직캠/.test(t)) return '퇴근길·출근길';
+  if (/팬싸|팬사인|사인회|fan ?sign|fansign/i.test(t)) return '팬사인회';
+  if (/mirror(ed)?\b|미러드|좌우반전/i.test(t)) return 'mirrored';
+  if (/댄스\s?(동아리|팀|크루|클럽)|dance\s?(team|club|crew|cover)|댄스 ?커버|dance ?cover|\bcover\b|커버 ?(댄스|영상)|동아리|\bDENIS\b/i.test(t)) return '댄스팀·동아리 커버';
   return null;
 }
 
