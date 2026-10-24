@@ -35,7 +35,7 @@ export function songListHTML(g, f) {
       <button type="button" data-act="songSort" data-v="recent" aria-pressed="${String(!!(app.prefs.songSort === 'recent'))}">최근 무대순</button>
       <button type="button" data-act="songSort" data-v="count" aria-pressed="${String(!!(app.prefs.songSort === 'count'))}">직캠 많은 순</button>
     </div></div></div>
-    <div class="tiles">${rows.map(({ s, st }) => {
+    <section class="sheet psheet"><div class="tiles">${rows.map(({ s, st }) => {
       const h = href({ g: g.id, v: 'song', s: s.id });
       const cover = st.latestFull
         ? videoThumb(st.latestFull.v, { ratio: '169', songKey: s.id, label: `${s.title} 최신 풀캠 재생` })
@@ -44,7 +44,7 @@ export function songListHTML(g, f) {
         <a class="tname" href="${h}">${s.title}</a>
         <div class="tmeta">무대 ${st.stages} · 직캠 ${st.cams}${st.clips ? ` · 움짤 ${st.clips}` : ''}${st.last ? ` · 최근 ${fmtMD(st.last.date)}` : ''}</div>
       </div>`;
-    })}</div>
+    })}</div></section>
     ${none.length ? html`<p class="nodays"><b>아직 무대가 없는 곡 ${none.length}:</b> ${none.map(({ s }, i) => html`${i ? ', ' : ''}${s.title}`)}</p>` : ''}`;
 }
 
@@ -79,10 +79,10 @@ export function songPageHTML(g, song, member, f, open) {
     : html`<div style="max-width:200px">${emptyCell({ member, g: g.id, s: song.id, label: '이 곡 직캠이 아직 없어요' })}</div>`;
   const memberClips = items.flatMap((x) => x.clips);
   return html`${head}${chips}
-    <h2 class="subhead">${member.name}의 ${song.title} 직캠 ${items.length}</h2>
-    ${grid}
+    <section class="sheet psheet"><h2 class="sheet-h"><span class="big-dot" style="${`background:${member._color}`}"></span>${member.name}의 ${song.title} 직캠 <span class="cnt">${items.length}</span></h2>
+    ${grid}</section>
     ${missing.length ? html`<p class="nodays"><b>직캠 없는 날:</b> ${missing.map((E, i) => html`${i ? ', ' : ''}<a href="${href({ g: g.id, e: E.id })}">${fmtMD(E.date)} ${E.ev.show}${E.ev.label ? ` ${E.ev.label}` : ''}</a>`)}</p>` : ''}
-    ${memberClips.length ? html`<h2 class="subhead">움짤 ${memberClips.length}</h2><div class="grid-23">${memberClips.map((C) => clipThumb(C, {
+    ${memberClips.length ? html`<section class="sheet psheet"><h2 class="sheet-h">움짤 <span class="cnt">${memberClips.length}</span></h2><div class="grid-23 big">${memberClips.map((C) => clipThumb(C, {
       caption: html`<div class="l1"><span class="num">${fmtMD(C.E.date)}</span>${dowPill(C.E.date)}</div><div class="lm">${C.E.ev.show}</div><div class="lm">${C.clip.note || ''}</div>`,
-    }))}</div>` : ''}`;
+    }))}</div></section>` : ''}`;
 }

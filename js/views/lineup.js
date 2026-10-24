@@ -2,11 +2,11 @@
 import { html, fmtMD, parseDate } from '../util.js';
 import { GROUP_KEY, NOSONG } from '../model.js';
 import { app, filteredSection, visibleSongKeys, adminHref, matchVideo } from '../state.js';
-import { href } from '../router.js';
+import { href, baseOf } from '../router.js';
 import {
   videoThumb, clipThumb, dowPill, srcTags, srcShort, tagLine, cellKeyLabel, memberDots, ICON,
 } from '../components.js';
-import { cellOrder } from '../indexer.js';
+import { cellOrder, memberQueue } from '../indexer.js';
 
 const CHUNK = 24;
 let ctx = null; // 현재 그려진 라인업
@@ -66,13 +66,27 @@ function songControl(E, keys, sel, forced) {
 
 // 보이는 멤버 열에 직캠이 하나라도 있는지
 const hasCam = (fs) => ctx.cols.some((m) => (fs.cells.get(m.id) || []).length);
-function dateBlock(E, keys, sel, forced) {
+// 멤버 칩이 한 명만 걸려 있으면: 이 공연에서 그 멤버 직캠을 곡 순서대로 이어 보기
+export function queueButton(E, m) {
+  const q = memberQueue(E, m.id);
+  if (q.length < 2) return '';
+  const first = q.find((x) => !x.v.gone) || q[0];
+  return html`<a class="qbtn" href="${href({ ...baseOf(app.state), play: first.v.id, ps: first.songKey || undefined })}" data-autoplay aria-label="${`${fmtMD(E.date)} ${E.ev.show} ${m.name} 직캠 ${q.length}곡 이어 보기`}">${ICON.play}<span>${m.name} 이어보기</span><span class="n">${q.length}곡</span></a>`;
+}
+function soloPick() {
+  if (ctx.forceSong) return null;
+  const picked = [...ctx.f.members].filter((k) => k !== GROUP_KEY);
+  return picked.length === 1 && ctx.f.members.size === 1 ? app.ix.member.get(picked[0]) : null;
+}
+
+export function dateBlock(E, keys, sel, forced) {
   const folder = href({ g: E.group.id, e: E.id });
   return html`
     <div class="dl"><a class="d-big" href="${folder}" aria-label="${`${fmtMD(E.date)} ${E.ev.show} 공연 폴더`}">${fmtMD(E.date)}</a>${dowPill(E.date)}</div>
     <a class="show" href="${folder}">${E.ev.show}${E.ev.label ? html`<span class="lbl">${E.ev.label}</span>` : ''}</a>
     ${E.ev.note ? html`<p class="note">${E.ev.note}</p>` : ''}
-    ${songControl(E, keys, sel, forced)}`;
+    ${songControl(E, keys, sel, forced)}
+    ${ctx && soloPick() ? queueButton(E, soloPick()) : ''}`;
 }
 
 // ---------- 공연 한 줄 = 바인더 낱장: 직캠 있는 멤버 카드를 < > 로 넘겨 보고, 풀캠은 오른쪽에 ----------
@@ -249,7 +263,6 @@ export function lineupHTML({ group, events, f, forceSong = null, open = null }) 
 
 // 렌더 후 연결: 남은 행 지연 렌더, < > 버튼 상태
 export function mountLineup(root) {
-  if (!ctx) return;
   if (!app.mobile) {
     updateCarousels(root);
     // root는 다시 그려도 그대로라 한 번만 연결한다
@@ -260,7 +273,7 @@ export function mountLineup(root) {
       new ResizeObserver(() => updateCarousels(root)).observe(root);
     }
   }
-  const sentinel = root.querySelector('[data-more]');
+  const sentinel = ctx && root.querySelector('[data-more]');
   if (sentinel) {
     const io = new IntersectionObserver((entries) => {
       if (entries.some((e) => e.isIntersecting)) lineupLoadMore(root);

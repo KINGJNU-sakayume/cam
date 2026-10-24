@@ -3,7 +3,9 @@ import { html, fmtMD, fmtDow, parseDate } from '../util.js';
 import { NOSONG, thumbSrc, thumbFallback } from '../model.js';
 import { app, sortEvents, matchVideo, NO_FILTER } from '../state.js';
 import { href } from '../router.js';
-import { videoThumb, dowPill, srcTags, posOf } from '../components.js';
+import { memberQueue } from '../indexer.js';
+import { queueButton } from './lineup.js';
+import { videoThumb, dowPill, srcTags, posOf, srcShort } from '../components.js';
 import { silhouetteURL } from '../placeholder.js';
 
 // 멤버의 칸 대표 목록: 공연 × 곡 단위
@@ -54,8 +56,8 @@ export function memberListHTML(g) {
   const act = g._members.filter((m) => m.active !== false);
   const ret = g._members.filter((m) => m.active === false);
   return html`<div class="pagehead"><h1>멤버</h1><span class="sub">${act.length}명${ret.length ? ` · 활동 종료 ${ret.length}` : ''}</span></div>
-    <div class="tiles m">${act.map((m) => tile(g, m))}</div>
-    ${ret.length ? html`<h2 class="subhead">활동 종료</h2><div class="tiles m">${ret.map((m) => tile(g, m))}</div>` : ''}`;
+    <section class="sheet psheet"><div class="tiles m">${act.map((m) => tile(g, m))}</div></section>
+    ${ret.length ? html`<section class="sheet psheet"><h2 class="sheet-h">활동 종료 <span class="cnt">${ret.length}</span></h2><div class="tiles m">${ret.map((m) => tile(g, m))}</div></section>` : ''}`;
 }
 
 const songName = (k) => (k === NOSONG ? '전체 공연' : app.ix.song.get(k)?.title || k);
@@ -93,26 +95,68 @@ export function memberPageHTML(g, m, f) {
     const bySong = new Map();
     for (const it of items) { if (!bySong.has(it.k)) bySong.set(it.k, []); bySong.get(it.k).push(it); }
     const order = [...g._songs.map((s) => s.id), NOSONG].filter((k) => bySong.has(k));
-    return html`${head}${order.map((k) => html`<section class="songrow"><h3>${songName(k)}<span class="cnt">${bySong.get(k).length}</span>
+    return html`${head}${order.map((k) => html`<section class="songrow sheet"><h3>${songName(k)}<span class="cnt">${bySong.get(k).length}</span>
       ${k ? html`<a class="textlink" href="${href({ g: g.id, v: 'song', s: k, m: m.id })}">모아보기 →</a>` : ''}</h3>
       <div class="grid-23 big">${bySong.get(k).map((it) => itemThumb(m, it))}</div></section>`)}`;
   }
-  // 월 머리로 구분
-  const out = [];
-  let lastM = null, buf = [];
-  const flush = () => { if (buf.length) out.push(html`<div class="grid-23 big">${buf}</div>`); buf = []; };
+  // 공연마다 라인업 같은 낱장 한 줄: 왼쪽 날짜, 오른쪽 이 멤버의 곡별 직캠(곡 순서). 월 머리로 구분
+  const rows = [];
+  for (const E of sortEvents(app.ix.eventsByGroup.get(g.id))) {
+    const q = memberQueue(E, m.id).filter((x) => (!f.songs.size || f.songs.has(x.songKey)) && matchVideo(x.v, f));
+    if (q.length) rows.push({ E, q });
+  }
   const counts = new Map();
-  for (const it of items) { const k = it.E.date.slice(0, 7); counts.set(k, (counts.get(k) || 0) + 1); }
-  for (const it of items) {
-    const k = it.E.date.slice(0, 7);
+  for (const { E } of rows) { const k = E.date.slice(0, 7); counts.set(k, (counts.get(k) || 0) + 1); }
+  const out = [];
+  let lastM = null;
+  for (const r of rows) {
+    const k = r.E.date.slice(0, 7);
     if (k !== lastM) {
-      flush();
-      const p = parseDate(it.E.date);
-      out.push(html`<div class="month-head"><span class="m-big">${p.m}</span><span class="m-unit">월</span><span class="m-sub">${p.y} · 직캠 ${counts.get(k)}</span></div>`);
+      const p = parseDate(r.E.date);
+      out.push(html`<div class="lu-month"><div class="month-head"><span class="m-big">${p.m}</span><span class="m-unit">월</span><span class="m-sub">${p.y} · 공연 ${counts.get(k)}</span></div></div>`);
       lastM = k;
     }
-    buf.push(itemThumb(m, it));
+    out.push(app.mobile ? memberCard(g, m, r) : memberRow(g, m, r));
   }
-  flush();
-  return html`${head}${out}`;
+  return html`${head}${app.mobile ? html`<div class="mcards">${out}</div>` : html`<div class="lu">${out}</div>`}`;
+}
+
+function rowCards(m, { E, q }) {
+  return q.map(({ v, songKey }) => {
+    const S = E.sections.get(songKey);
+    const n = (S && S.cells.get(m.id) || []).length;
+    const badges = [];
+    if (n > 1) badges.push({ text: `+${n - 1}` });
+    if (S && S.clips.some((C) => C.key === m.id)) badges.push({ text: '움짤' });
+    if ((v.tags || []).includes('세로')) badges.push({ text: '세로' });
+    return videoThumb(v, { ratio: '23', songKey, badges, stripText: songName(songKey), stripExtra: srcShort(v), label: `${fmtMD(E.date)} ${E.ev.show} ${songName(songKey)} ${m.name} 직캠 재생` });
+  });
+}
+
+function rowHead(g, m, { E, q }) {
+  const folder = href({ g: g.id, e: E.id, m: m.id });
+  return html`<div class="dl"><a class="d-big" href="${folder}" aria-label="${`${fmtMD(E.date)} ${E.ev.show} 공연 폴더 (${m.name})`}">${fmtMD(E.date)}</a>${dowPill(E.date)}</div>
+    <a class="show" href="${folder}">${E.ev.show}${E.ev.label ? html`<span class="lbl">${E.ev.label}</span>` : ''}</a>
+    <span class="songfixed">${q.length === 1 ? songName(q[0].songKey) : `${q.length}곡`}</span>
+    ${queueButton(E, m)}`;
+}
+
+function memberRow(g, m, r) {
+  const cards = rowCards(m, r);
+  return html`<div class="car-row mrow" data-row="${r.E.id}">
+    <span class="lu-tab" aria-hidden="true">${fmtMD(r.E.date)}</span>
+    <div class="lu-date">${rowHead(g, m, r)}</div>
+    <div class="car wide" data-car>
+      <button type="button" class="car-btn prev" data-act="car" data-d="-1" aria-label="이전 곡 직캠" disabled>‹</button>
+      <div class="car-track" role="list" aria-label="${`${m.name} 곡별 직캠`}">${cards.map((x) => html`<div class="car-item" role="listitem">${x}</div>`)}</div>
+      <button type="button" class="car-btn next" data-act="car" data-d="1" aria-label="다음 곡 직캠">›</button>
+    </div>
+  </div>`;
+}
+
+function memberCard(g, m, r) {
+  return html`<article class="mcard" data-row="${r.E.id}">
+    <div class="mcard-head">${rowHead(g, m, r)}</div>
+    <div class="mstrip" role="list" aria-label="${`${m.name} 곡별 직캠`}">${rowCards(m, r).map((x) => html`<div class="mthumb" role="listitem">${x}</div>`)}</div>
+  </article>`;
 }

@@ -154,6 +154,25 @@ export function cellOrder(E, S, { includeEmpty = true, members } = {}) {
   return out;
 }
 
+// 이어보기: 한 공연에서 한 멤버의 솔로 직캠을 곡 순서대로 하나씩.
+// 곡마다 아직 안 나온 영상 중 대표(pin) → 곡 하나짜리 → 아무거나, 삭제된 영상은 뒤로. 여러 곡 영상은 한 번만.
+export function memberQueue(E, memberId) {
+  const used = new Set();
+  const out = [];
+  for (const k of E.sectionKeys) {
+    const S = E.sections.get(k);
+    const list = (S && S.cells.get(memberId) || []).filter((v) => !used.has(v.id));
+    if (!list.length) continue;
+    const live = list.filter((v) => !v.gone);
+    const pool = live.length ? live : list;
+    const v = pool.find((x) => x.pin) || pool.find((x) => (x.songs || []).length <= 1) || pool[0];
+    used.add(v.id);
+    const t = (v.songs || []).find((x) => x.songId === k)?.t || 0;
+    out.push({ v, songKey: k, t });
+  }
+  return out;
+}
+
 export function eventCover(E) {
   const c = E.ev.cover && E.videos.find((v) => v.id === E.ev.cover);
   if (c) return c;

@@ -9,7 +9,7 @@ export const app = {
   filters: new Map(), // gid → { songs, members, types, tags }
   rowSong: new Map(), // eventId → 곡 키 (라인업 행에서 고른 곡)
   songsOpen: false, // 필터의 "곡 N개 더" 펼침
-  prefs: { sort: 'desc', hideEmpty: false, songSort: 'order', bySong: false },
+  prefs: { sort: 'desc', showEmpty: false, songSort: 'order', bySong: false, autoNext: true },
   mobile: false,
   reduced: false,
   stress: false,
