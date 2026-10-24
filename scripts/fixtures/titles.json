@@ -1011,7 +1011,7 @@
   "want": {
    "date": "2026-10-03",
    "show": "SM Run Club",
-   "conf": "raw",
+   "conf": "known",
    "members": [
     "이안"
    ],
@@ -5244,7 +5244,7 @@
   "title": "Hearts2Hearts SMTOWN RUN CLUB in 왕산마리나 하츠투하츠 에스엠 타운 런 클럽 4K full cam /26.10.03/",
   "want": {
    "date": "2026-10-03",
-   "show": "SMTOWN LIVE",
+   "show": "SM Run Club",
    "conf": "known",
    "members": [],
    "songs": [],

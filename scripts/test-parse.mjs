@@ -6,7 +6,7 @@ import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
-  findDate, findShow, findShowInfo, showKey, showSimilarity, parseTitle, songGuessOk, matchSong, weakShowFits,
+  findDate, findShow, findShowInfo, showKey, showSimilarity, parseTitle, songGuessOk, matchSong, weakShowFits, excludedReason, cityOf,
 } from '../js/admin/parse.js';
 import { parseViews, publishToKst, relativeToDate, parsePlayer, parseWatchHtml } from './lib/yt.mjs';
 
@@ -72,6 +72,25 @@ eq('챌린지는 곡 후보가 아니다', songGuessOk('바라밤 챌린지', G)
 eq('새 곡 후보', songGuessOk('Paper Moon', G), true);
 eq('오타 곡 찾기', matchSong(G, 'Blue valentain')?.id, 's7');
 eq('짧은 이름은 오타 찾기 안 함', matchSong(G, 'Forc')?.id ?? null, null);
+
+// ---------- 담지 않는 영상 ----------
+const ex = (t, ch) => excludedReason(t, ch);
+eq('예능 먹방', ex("아이브 '리즈'도 반한 맛! 수북이 쌓아 먹는 오이 산더미 냉면 MBN 261023 방송", 'MBN Entertainment'), '예능·소개 영상');
+eq('맛집 채널의 콘서트는 담는다', ex('[프로미스나인 콘서트]Ending / Stay This Way 2026 fromis_9 ASIA TOUR IN SEOUL', '비엠슐랭_BMW 맛집'), null);
+eq('인터뷰', ex('(ENG)[MusicBank Interview Cam] 엔믹스 (NMIXX Interview) l @MusicBank KBS 260515'), '인터뷰');
+eq('1위 인터뷰 앵콜은 담는다', ex('하츠투하츠 1위 인터뷰 앵콜 (Hearts2Hearts Rude! No.1 Interview Encore) @ 엠카운트다운'), null);
+eq('공항', ex("아이브 'TIMA' 출국 직캠｜IVE Airport Depature 260822"), '공항 출입국');
+eq('퇴근', ex('261023 아이브 ive 뮤직뱅크 퇴근 Musicbank 4K'), '퇴근길·출근길');
+eq('포토콜', ex('260423 아이브 ive 장원영 wonyoung 다이슨 팝업스토어 포토콜 4K 60P'), '포토콜·레드카펫·브랜드 행사');
+eq('팝업 무대인사는 담는다', ex('[4K] 261023 아이브 무대인사 & 럭드 팝업스토어 FULL Ver. - 아이브 Looks Can Kill 무대인사'), null);
+eq('시구', ex('[4K60] 260507 아이브 이서 - 시구 직캠 @LG트윈스 VS 두산베어스'), '시구·시타');
+eq('시구 날 무대는 담는다', ex("260818 하츠투하츠 'RUDE!(Japanese Ver.) + 지우 시구' 전체 직캠"), null);
+eq('치어리더', ex("[4K] 260424 SSG 랜더스 안지현 치어리더 - IVE 아이브 '뱅뱅' 직캠"), '치어리더 공연');
+eq('커버팀', ex('260302 에스투잇 S2iT - XOXZ 아이브 커버 | 세아 SE-A 세로 직캠'), '다른 팀의 커버 무대');
+eq('리액션 직캠', ex('[4K] 260215 하츠투하츠 이안 - 이영지 무대 리액션 직캠 | 한터뮤직어워즈 2025'), '다른 무대 리액션');
+eq('편집 클립', ex("Liz IVE - 4K 'Bang Bang' Facecam 260212 Edit Clips (Slow Mo/Twixtor)"), '편집 영상(확대·교차편집)');
+eq('엔딩 직캠은 담는다', ex("[4K] 260904 프로미스나인 - 엔딩 멘트 직캠"), null);
+eq('Auckland는 Oakland와 다르다', [cityOf('IVE Auckland Full Concert'), cityOf('IVE Oakland Arena')], ['오클랜드(뉴질랜드)', '오클랜드']);
 
 // ---------- 유튜브 정보 읽기(harvest) ----------
 eq('조회수 만', parseViews('조회수 131만회'), 1310000);
