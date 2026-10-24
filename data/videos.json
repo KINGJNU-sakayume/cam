@@ -6869,6 +6869,311 @@
         "g5s50"
       ],
       "note": ""
+    },
+    {
+      "id": "e464",
+      "groupId": "g6",
+      "date": "2026-05-13",
+      "show": "가천대 축제",
+      "label": "",
+      "setlist": [
+        "g6s36",
+        "g6s9",
+        "g6s28",
+        "g6s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e465",
+      "groupId": "g6",
+      "date": "2026-05-14",
+      "show": "서강대 축제",
+      "label": "",
+      "setlist": [
+        "g6s2",
+        "g6s9",
+        "g6s28",
+        "g6s36"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e466",
+      "groupId": "g6",
+      "date": "2026-05-14",
+      "show": "서울대 축제",
+      "label": "",
+      "setlist": [
+        "g6s2",
+        "g6s28"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e467",
+      "groupId": "g6",
+      "date": "2026-05-20",
+      "show": "경인여대 축제",
+      "label": "",
+      "setlist": [
+        "g6s28",
+        "g6s2",
+        "g6s36",
+        "g6s16",
+        "g6s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e468",
+      "groupId": "g6",
+      "date": "2026-05-30",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g6s47"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e469",
+      "groupId": "g6",
+      "date": "2026-06-01",
+      "show": "쇼케이스",
+      "label": "",
+      "setlist": [
+        "g6s48",
+        "g6s47",
+        "g6s34"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e470",
+      "groupId": "g6",
+      "date": "2026-06-05",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g6s47"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e471",
+      "groupId": "g6",
+      "date": "2026-06-06",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g6s47"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e472",
+      "groupId": "g6",
+      "date": "2026-06-07",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g6s47",
+        "g6s48"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e473",
+      "groupId": "g6",
+      "date": "2026-06-10",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g6s48",
+        "g6s47"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e474",
+      "groupId": "g6",
+      "date": "2026-06-11",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g6s47"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e475",
+      "groupId": "g6",
+      "date": "2026-06-12",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g6s48"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e476",
+      "groupId": "g6",
+      "date": "2026-06-13",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g6s47"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e477",
+      "groupId": "g6",
+      "date": "2026-06-14",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g6s47"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e478",
+      "groupId": "g6",
+      "date": "2026-07-12",
+      "show": "KBS 열린음악회",
+      "label": "",
+      "setlist": [
+        "g6s9",
+        "g6s47"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e479",
+      "groupId": "g6",
+      "date": "2026-09-09",
+      "show": "성결대 축제",
+      "label": "",
+      "setlist": [
+        "g6s47",
+        "g6s2",
+        "g6s36",
+        "g6s9",
+        "g6s28"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e480",
+      "groupId": "g6",
+      "date": "2026-09-10",
+      "show": "서울과학기술대 축제",
+      "label": "",
+      "setlist": [
+        "g6s28",
+        "g6s36",
+        "g6s2",
+        "g6s47",
+        "g6s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e481",
+      "groupId": "g6",
+      "date": "2026-09-15",
+      "show": "강원대 축제",
+      "label": "",
+      "setlist": [
+        "g6s9",
+        "g6s36",
+        "g6s28",
+        "g6s2",
+        "g6s47"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e482",
+      "groupId": "g6",
+      "date": "2026-09-17",
+      "show": "국립공주대 축제",
+      "label": "",
+      "setlist": [
+        "g6s9",
+        "g6s28",
+        "g6s36",
+        "g6s47",
+        "g6s2"
+      ],
+      "note": "",
+      "aliases": [
+        "공주대 축제"
+      ]
+    },
+    {
+      "id": "e483",
+      "groupId": "g6",
+      "date": "2026-09-19",
+      "show": "TMA 2026",
+      "label": "",
+      "setlist": [
+        "g6s47"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e484",
+      "groupId": "g6",
+      "date": "2026-09-30",
+      "show": "충남대 축제",
+      "label": "",
+      "setlist": [
+        "g6s28",
+        "g6s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e485",
+      "groupId": "g6",
+      "date": "2026-09-30",
+      "show": "전북대 축제",
+      "label": "",
+      "setlist": [
+        "g6s2",
+        "g6s28",
+        "g6s9",
+        "g6s47"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e486",
+      "groupId": "g6",
+      "date": "2026-10-07",
+      "show": "전남대 축제",
+      "label": "",
+      "setlist": [
+        "g6s28",
+        "g6s2",
+        "g6s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e487",
+      "groupId": "g6",
+      "date": "2026-10-22",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g6s57"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -115683,6 +115988,4883 @@
       "pin": false,
       "gone": false,
       "uploaded": "2026-10-16"
+    },
+    {
+      "id": "v8761",
+      "ytId": "7d52JeeiV2w",
+      "eventId": "e464",
+      "songs": [
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260513 트리플에스 김유연 - Love2Love | 2026 가천대학교 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8762",
+      "ytId": "GppnmhPRCl8",
+      "eventId": "e464",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m16"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260513 트리플에스 마유  tripleS Mayu Girls Never Die 가천대축제 직캠",
+      "channel": "url",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8763",
+      "ytId": "eEZRGfg8s9k",
+      "eventId": "e464",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260513 트리플에스 김유연 - 깨어 (Are You Alive) | 2026 가천대학교 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8764",
+      "ytId": "va6X5eLhD_0",
+      "eventId": "e464",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260513 트리플에스 김유연 - Girls Never Die | 2026 가천대학교 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8765",
+      "ytId": "VymwYHJeK8M",
+      "eventId": "e464",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260513 트리플에스 김유연 - Rising | 2026 가천대학교 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8766",
+      "ytId": "C9a4Wiyq3Uk",
+      "eventId": "e465",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        },
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "김유연 YooYeon tripleS 트리플에스 - Rising + Girls Never Die @260514 서강대 축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8767",
+      "ytId": "sQx6Zhn64PE",
+      "eventId": "e465",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        },
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "김유연 YooYeon tripleS 트리플에스 - 깨어 Are You Alive + Love2Love @260514 서강대 축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8768",
+      "ytId": "QjM0QCCYLgE",
+      "eventId": "e465",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m9"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260514 tripleS - 깨어 (Are You Alive) [Kaede focus] @ 서강대학교 축제",
+      "channel": "단풍자리 Acérnus",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8769",
+      "ytId": "nI4EcuWVp_Q",
+      "eventId": "e465",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m9"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260514 tripleS - Girls Never Die [Kaede focus] @ 서강대학교 축제",
+      "channel": "단풍자리 Acérnus",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8770",
+      "ytId": "qOKhvOALSQc",
+      "eventId": "e466",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260514 tripleS 김채연 - Rising | 2026 서울대학교 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8771",
+      "ytId": "ETCIXL8Y43U",
+      "eventId": "e466",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260514 tripleS 김채연 - 깨어 (Are You Alive) | 2026 서울대학교 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8772",
+      "ytId": "PVC1a3B6VqI",
+      "eventId": "e467",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m2",
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "정혜린 HyeRin tripleS 트리플에스 - 깨어 (Are You Alive) 4K 세로 직캠 @260520 경인여대 축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8773",
+      "ytId": "ZpiTyi1zwDE",
+      "eventId": "e467",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        },
+        {
+          "songId": "g6s36",
+          "t": 0
+        },
+        {
+          "songId": "g6s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m2",
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "정혜린 HyeRin tripleS 트리플에스 - Rising + Love2Love + Non Scale 4K 세로 직캠 @260520 경인여대 축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8774",
+      "ytId": "NONE93bb4as",
+      "eventId": "e467",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m2",
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "정혜린 HyeRin tripleS 트리플에스 - Girls Never Die 4K 세로 직캠 @260520 경인여대 축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8775",
+      "ytId": "SDnRggLyJ4I",
+      "eventId": "e468",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260530 트리플에스(tripleS) Baby flower 이지우(JIWOO) M COUNTDOWN X MEGA CONCERT",
+      "channel": "𝗙𝗹𝘂",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8776",
+      "ytId": "wquqg_SSCyI",
+      "eventId": "e468",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m16"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260530 M COUNTDOWN X MEGA CONCERT 2026 'Baby Flower' tripleS MAYU 트리플에스 마유 직캠 FANCAM",
+      "channel": "𝐌𝐘.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8777",
+      "ytId": "WVrrZQ9Vpag",
+      "eventId": "e468",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260530 ‘Baby Flower’ 트리플에스 곽연지 tripleS YEONJI fan cam | 2026 M COUNTDOWN X MEGACONCERT",
+      "channel": "𝗦𝘂𝗺𝗺𝗲𝗿.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8778",
+      "ytId": "WslbsPSuNdw",
+      "eventId": "e468",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260530 트리플에스(tripleS) 김수민 Baby Flower 직캠　|　M COUNTDOWN X MEGA CONCERT",
+      "channel": "peaches",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8779",
+      "ytId": "Tx7g5kjZO0A",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m8"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260601 트리플에스 (tripleS) 공유빈 (YuBin) - Sad Girls Schemin' 직캠 @ ASSEMBLE26 LOVE&POP pt.1 Showcase",
+      "channel": "하트",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8780",
+      "ytId": "ph5kUrhnGeg",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260601 트리플에스(tripleS) 연지(YeonJi) - BabyFlower ShowCase Fancam",
+      "channel": "연지몰래채원",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8781",
+      "ytId": "a0aAHNFIfIs",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "트리플에스 김수민 - Sad Girls Schemin' 직캠 tripleS Soomin Fancam @260601 ASSEMBLE26 Showcase",
+      "channel": "비니콩",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8782",
+      "ytId": "oWpxmQN29XQ",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m15"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260601 트리플에스(tripleS) 신위 (XINYU) -Baby Flower @ASSEMBLE26 LOVE&POP pt.1 Showcase 직캠(Fancam)",
+      "channel": "yaya",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8783",
+      "ytId": "hPS4zP9p7qk",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m8"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260601 트리플에스 (tripleS) 공유빈 (YuBin) - Baby Flower 직캠 @ ASSEMBLE26 LOVE&POP pt.1 Showcase",
+      "channel": "하트",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8784",
+      "ytId": "jUgZcg5j40o",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260601 트리플에스(tripleS) 연지(YeonJi) - Diablo ShowCase Fancam",
+      "channel": "연지몰래채원",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8785",
+      "ytId": "e7I5lQufr2A",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m18"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260601 트리플에스 tripleS 주빈 JOOBIN - Sad Girls Schemin' fancam. | ASSEMBLE26 쇼케이스",
+      "channel": "BB.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8786",
+      "ytId": "U_1ircCMiHQ",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260601 tripleS 트리플에스 YooYeon 김유연 LOVE&POP pt.1 Showcase ‘Sad Girls Schemin’ 직캠 Focus Fancam [4K]",
+      "channel": "MelodyXxin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8787",
+      "ytId": "bHj8NKc6DBc",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m18"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260601 트리플에스 tripleS 주빈 JOOBIN - Baby Flower fancam. | ASSEMBLE26 쇼케이스",
+      "channel": "BB.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8788",
+      "ytId": "KxOdjiip4MY",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m9"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]260601 tripleS 카에데 Kaede Baby Flower ASSEMBLE26 《LOVE&POP》 pt.1 Showcase 트리플에스 직캠",
+      "channel": "Dijkstra Japan /ダイクストラ ジャパン",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8789",
+      "ytId": "-PMhblelMVQ",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m23"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260601 tripleS 서아 트리플에스 'Baby Flower' 직캠 | LOVE&POP pt.1 Showcase",
+      "channel": "Elysian",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8790",
+      "ytId": "TAdN5vjvLFY",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m15"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260601 “Baby Flower” 트리플에스(tripleS) 신위(XINYU) 직캠 Fancam ｜ASSEMBLE26 LOVE&POP pt.1 Showcase",
+      "channel": "L107",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8791",
+      "ytId": "w4X8AIYklrM",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "(fancam) tripleS - Baby Flower (Chaewon 채원 Focus) @ LOVE&POP pt.1 Showcase 260601",
+      "channel": "賴特 라이트",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8792",
+      "ytId": "9k-DquRCx-8",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260601 트리플에스(tripleS) 연지(YeonJi) - Sad Girls Schemin' ShowCase Fancam",
+      "channel": "연지몰래채원",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8793",
+      "ytId": "qrENAybhjD4",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260601 'Baby Flower' tripleS 김유연 （Kim YooYeon) Fancam |  [LOVE & POP] pt.1 Showcase",
+      "channel": "감튀0209",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8794",
+      "ytId": "1LobsR2l6j4",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "tripleS 260601 ＜LOVE&POP＞ pt.1 쇼케이스『Sad Girls Schemin'』 트리플에스 지연 JiYeon 직캠",
+      "channel": "Iris_Carrot24",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8795",
+      "ytId": "a7LN0a9PsMg",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[SHOWCASE] ASSEMBLE26 “Baby Flower” live stage | 260601 tripleS",
+      "channel": "Celeb Confirmed",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8796",
+      "ytId": "8OVjjrqlZek",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m16"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260601 트리플에스 마유 tripleS Mayu Baby Flower 쇼케이스 직캠",
+      "channel": "url",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8797",
+      "ytId": "pEcloM6azvY",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260601 트리플에스 김채연 - BabyFlower / 쇼케이스",
+      "channel": "설렘",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8798",
+      "ytId": "wBqg4g8xg6U",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m9"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]260601 tripleS 카에데 Kaede Sad Girls Schemin' ASSEMBLE26 《LOVE&POP》 pt.1 Showcase 트리플에스 직캠",
+      "channel": "Dijkstra Japan /ダイクストラ ジャパン",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8799",
+      "ytId": "vaMNbnF3Uys",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260601 트리플에스 tripleS 지연 JiYeon Baby Flower 직캠 fancam @TripleS ASSEMBLE26 Showcase",
+      "channel": "nevernot",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8800",
+      "ytId": "hw66yT_Bo08",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260601 tripleS Jiyeon 지연 - 'Baby Flower' Fancam | LOVE&POP pt.1 Showcase",
+      "channel": "ian",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8801",
+      "ytId": "dmumTJxaYBU",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260601 tripleS YooYeon ASSEMBLE26 LOVE&POP pt.1 Showcase ‘Baby Flower’ Fancam [4K]",
+      "channel": "MelodyXxin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8802",
+      "ytId": "xz84LN3j2Mk",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260601 트리플에스 (tripleS) 김유연 - Baby Flower 4K 직캠 @쇼케이스",
+      "channel": "gonigy",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8803",
+      "ytId": "Vh9nnwi57WQ",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m14"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260601 트리플에스 박소현 ‘Baby Flower' 쇼케이스 무대 직캠 | tripleS Sohyun LOVE&POP pt.1 Showcase fancam",
+      "channel": "FEELTHEFLOW",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-04"
+    },
+    {
+      "id": "v8804",
+      "ytId": "I17waMzCbew",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m14"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260601 트리플에스 박소현 Baby Flower 직캠 | tripleS Sohyun LOVE&POP pt.1 Showcase 쇼케이스",
+      "channel": "미온 meon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-02"
+    },
+    {
+      "id": "v8805",
+      "ytId": "OVXGfsi5SAw",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m14"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260601 트리플에스 박소현 ‘Sad Girls Schemin'' 쇼케이스 무대 직캠 | tripleS Sohyun LOVE&POP pt.1 Showcase fancam",
+      "channel": "FEELTHEFLOW",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-04"
+    },
+    {
+      "id": "v8806",
+      "ytId": "JqCUuKPeGPs",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260601 트리플에스(tripleS) 김수민 Sad Girls Schemin' 직캠　|　tripleS LOVE&POP pt.1 SHOWCASE 쇼케이스",
+      "channel": "peaches",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8807",
+      "ytId": "zV1WyaEEEQ8",
+      "eventId": "e469",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260601 | Sad Girls Schemin' | 지연 직캠 JIYEON FANCAM | tripleS LOVE&POP Showcase 트리플에스",
+      "channel": "콩이",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8808",
+      "ytId": "nDPwzzNmm58",
+      "eventId": "e470",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 트리플에스 김유연 'Baby Flower' (tripleS YooYeon Facecam) @뮤직뱅크(Music Bank) 260605",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8809",
+      "ytId": "4USO1Vxxz18",
+      "eventId": "e470",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 트리플에스 김채연 'Baby Flower' (tripleS ChaeYeon Facecam) @뮤직뱅크(Music Bank) 260605",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8810",
+      "ytId": "wO7Eu0hAUNw",
+      "eventId": "e470",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS (트리플에스) YOOYEON (유연) 'Baby Flower' @MusicBank 260605 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8811",
+      "ytId": "dxfZfKM_DhQ",
+      "eventId": "e470",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m19"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS (트리플에스)HAYEON (정하연) - 'Baby Flower' @MusicBank 260605 UNOFFICIAL  FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8812",
+      "ytId": "_Xzf53gzfnE",
+      "eventId": "e471",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m19"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] tripleS JEONG HAYEON (트리플에스 정하연) – Baby Flower FanCam | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8813",
+      "ytId": "LMgD4vrn4OM",
+      "eventId": "e471",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] tripleS KIM SOOMIN (트리플에스 김수민) – Baby Flower | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8814",
+      "ytId": "a5KcAFT6d5s",
+      "eventId": "e471",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m8"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] tripleS GONG YUBIN (트리플에스 공유빈) – Baby Flower FanCam | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8815",
+      "ytId": "yCdNENjxRNg",
+      "eventId": "e471",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] tripleS KIM YOOYEON (트리플에스 김유연) – Baby Flower FanCam | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8816",
+      "ytId": "jbnybpxuu3M",
+      "eventId": "e471",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] tripleS KIM NAKYOUNG (트리플에스 김나경) – Baby Flower | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-08"
+    },
+    {
+      "id": "v8817",
+      "ytId": "AQdXStkvvzs",
+      "eventId": "e471",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] tripleS KIM NAKYOUNG (트리플에스 김나경) – Baby Flower FanCam | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-06"
+    },
+    {
+      "id": "v8818",
+      "ytId": "NaKyrU-jslk",
+      "eventId": "e471",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m10"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] tripleS SEO DAHYUN (트리플에스 서다현) – Baby Flower | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-08"
+    },
+    {
+      "id": "v8819",
+      "ytId": "W-jbWnZwguQ",
+      "eventId": "e471",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m10"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] tripleS SEO DAHYUN (트리플에스 서다현) – Baby Flower FanCam | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-06"
+    },
+    {
+      "id": "v8820",
+      "ytId": "Bh2T-E0oOsg",
+      "eventId": "e471",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] tripleS YOON SEOYEON (트리플에스 윤서연) – Baby Flower | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-08"
+    },
+    {
+      "id": "v8821",
+      "ytId": "fuoTojvINao",
+      "eventId": "e471",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] tripleS YOON SEOYEON (트리플에스 윤서연) – Baby Flower FanCam | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-06"
+    },
+    {
+      "id": "v8822",
+      "ytId": "TeHwnM6K2sQ",
+      "eventId": "e471",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] tripleS KIM SOOMIN (트리플에스 김수민) – Baby Flower FanCam | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-06"
+    },
+    {
+      "id": "v8823",
+      "ytId": "QyZdsF3A-Xo",
+      "eventId": "e471",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] tripleS KIM YOOYEON (트리플에스 김유연) – Baby Flower | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-08"
+    },
+    {
+      "id": "v8824",
+      "ytId": "haVh7pQShjI",
+      "eventId": "e471",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m8"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] tripleS GONG YUBIN (트리플에스 공유빈) – Baby Flower | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-08"
+    },
+    {
+      "id": "v8825",
+      "ytId": "jpdKqY7wXr4",
+      "eventId": "e472",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 트리플에스 'Baby Flower' (tripleS FullCam) @SBS Inkigayo 260607",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8826",
+      "ytId": "lEAYL_7kc5w",
+      "eventId": "e472",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 트리플에스 'Sad Girls Schemin'' (tripleS FullCam) @SBS Inkigayo 260607",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8827",
+      "ytId": "-bIU4iZmWVc",
+      "eventId": "e472",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 트리플에스 김유연 'Baby Flower' (tripleS Kim YooYeon FaceCam) @SBS Inkigayo 260607",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8828",
+      "ytId": "WdACQIMdWjU",
+      "eventId": "e472",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m10"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 트리플에스 서다현 'Baby Flower' (tripleS Seo DaHyun FanCam) @SBS Inkigayo 260607",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8829",
+      "ytId": "XAoIf1eEHQE",
+      "eventId": "e472",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m19"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 트리플에스 정하연 'Baby Flower' (tripleS Jeong HaYeon FanCam) @SBS Inkigayo 260607",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8830",
+      "ytId": "b8OQAalo0YA",
+      "eventId": "e472",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS (트리플에스) JIYEON (지연) - 'Sad Girls Schemin'' @SBS Inkigayo 260607 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8831",
+      "ytId": "md5Bvq7DvNY",
+      "eventId": "e472",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 트리플에스 김나경 'Baby Flower' (tripleS Kim NaKyoung FaceCam) @SBS Inkigayo 260607",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8832",
+      "ytId": "tjb5H37eHwQ",
+      "eventId": "e472",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m15"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS (트리플에스) XINYU (신위) - 'Sad Girls Schemin' @SBS Inkigayo 260607  UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8833",
+      "ytId": "F0kge-PoYHw",
+      "eventId": "e472",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 트리플에스 윤서연 'Baby Flower' (tripleS Yoon SeoYeon FanCam) @SBS Inkigayo 260607",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-10"
+    },
+    {
+      "id": "v8834",
+      "ytId": "PH7EfNB2ZkE",
+      "eventId": "e473",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m2",
+        "g6m17"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] tripleS HyeRin(트리플에스 혜린) - Sad Girls Schemin’ | Show Champion | EP.600 | 260610",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8835",
+      "ytId": "I04jjog3jyU",
+      "eventId": "e473",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m23"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] tripleS SeoAh(트리플에스 서아) - Sad Girls Schemin’ | Show Champion | EP.600 | 260610",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8836",
+      "ytId": "O5g_jkha-TA",
+      "eventId": "e473",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] tripleS ChaeYeon(트리플에스 채연) - Baby Flower | Show Champion | EP.600 | 260610",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8837",
+      "ytId": "6HRzbPMqpx4",
+      "eventId": "e473",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] tripleS JiYeon(트리플에스 지연) - Baby Flower | Show Champion | EP.600 | 260610",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8838",
+      "ytId": "FCh5r086f3s",
+      "eventId": "e473",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m14"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] tripleS SoHyun(트리플에스 소현) - Baby Flower | Show Champion | EP.600 | 260610",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8839",
+      "ytId": "OvtLpSrmKRI",
+      "eventId": "e473",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m18"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] tripleS JooBin(트리플에스 주빈) - Sad Girls Schemin’ | Show Champion | EP.600 | 260610",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8840",
+      "ytId": "bR_taK2dc6E",
+      "eventId": "e473",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m9"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] tripleS Kaede(트리플에스 카에데) - Baby Flower | Show Champion | EP.600 | 260610",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8841",
+      "ytId": "bscJoTwnLQI",
+      "eventId": "e473",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m20"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] tripleS ShiOn(트리플에스 시온) - Baby Flower | Show Champion | EP.600 | 260610",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8842",
+      "ytId": "Jr_9d314mAQ",
+      "eventId": "e473",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] tripleS YeonJi(트리플에스 연지) - Baby Flower | Show Champion | EP.600 | 260610",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8843",
+      "ytId": "V3mJV5oMyO0",
+      "eventId": "e473",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[ENG SUB] 🏆 tripleS Show Champion 1st Place Speech & Encore [FULL] | 'Baby Flower' | 260610",
+      "channel": "MangoNim",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8844",
+      "ytId": "tjROmfHYW2E",
+      "eventId": "e473",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m19"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] tripleS HaYeon(트리플에스 하연) - Sad Girls Schemin’ | Show Champion | EP.600 | 260610",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8845",
+      "ytId": "ckma_3LliXo",
+      "eventId": "e473",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m16"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] tripleS Mayu(트리플에스 마유) - Baby Flower | Show Champion | EP.600 | 260610",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-10"
+    },
+    {
+      "id": "v8846",
+      "ytId": "D6h5UNI78Z0",
+      "eventId": "e473",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] tripleS JiWoo(트리플에스 지우) - Baby Flower | Show Champion | EP.600 | 260610",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8847",
+      "ytId": "NN9IJwQym6o",
+      "eventId": "e474",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 트리플에스 지연 직캠 4K 'Baby Flower' (tripleS JiYeon FanCam) | @MCOUNTDOWN_2026.6.11",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8848",
+      "ytId": "VXBkzKDwD3I",
+      "eventId": "e474",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m19"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 하연 직캠 4K 'Baby Flower' (tripleS HaYeon FanCam) | @MCOUNTDOWN_2026.6.11",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8849",
+      "ytId": "ejomj1B_9p8",
+      "eventId": "e474",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m11"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 코토네 직캠 4K 'Baby Flower' (tripleS Kotone FanCam) | @MCOUNTDOWN_2026.6.11",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-11"
+    },
+    {
+      "id": "v8850",
+      "ytId": "7cN9cALpPNs",
+      "eventId": "e474",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 지연 직캠 4K 'Baby Flower' (tripleS JiYeon FanCam) | @MCOUNTDOWN_2026.6.11",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-11"
+    },
+    {
+      "id": "v8851",
+      "ytId": "pjXudgbnq8Y",
+      "eventId": "e474",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m8"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 유빈 직캠 4K 'Baby Flower' (tripleS YuBin FanCam) | @MCOUNTDOWN_2026.6.11",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-11"
+    },
+    {
+      "id": "v8852",
+      "ytId": "q2FCLIKB2r8",
+      "eventId": "e474",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m7"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 나경 직캠 4K 'Baby Flower' (tripleS NaKyoung FanCam) | @MCOUNTDOWN_2026.6.11",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-11"
+    },
+    {
+      "id": "v8853",
+      "ytId": "kwAuHB8CNmo",
+      "eventId": "e474",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 수민 직캠 4K 'Baby Flower' (tripleS SooMin FanCam) | @MCOUNTDOWN_2026.6.11",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-11"
+    },
+    {
+      "id": "v8854",
+      "ytId": "UTGWIiYgRpE",
+      "eventId": "e474",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 유연 직캠 4K 'Baby Flower' (tripleS YooYeon FanCam) | @MCOUNTDOWN_2026.6.11",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-11"
+    },
+    {
+      "id": "v8855",
+      "ytId": "p33mc8PxQ1A",
+      "eventId": "e474",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 서연 직캠 4K 'Baby Flower' (tripleS SeoYeon FanCam) | @MCOUNTDOWN_2026.6.11",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-11"
+    },
+    {
+      "id": "v8856",
+      "ytId": "YMpejacUFtc",
+      "eventId": "e474",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 트리플에스 유연 직캠 4K 'Baby Flower' (tripleS YooYeon FanCam) | @MCOUNTDOWN_2026.6.11",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8857",
+      "ytId": "XQWHdp4Haw4",
+      "eventId": "e474",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 채원 직캠 4K 'Baby Flower' (tripleS ChaeWon FanCam) | @MCOUNTDOWN_2026.6.11",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8858",
+      "ytId": "dXQtR9IrWLc",
+      "eventId": "e475",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m19"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS (트리플에스) HAYEON (하연) - 'Sad Girls Schemin'' @MusicBank 260612 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8859",
+      "ytId": "uhSt1nGoX4E",
+      "eventId": "e475",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS (트리플에스) CHAEWON (김채원) - 'Sad Girls Schemin'' @MusicBank 260612 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8860",
+      "ytId": "IVs6o9ABvNg",
+      "eventId": "e475",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS (트리플에스) JIWOO (지우) - 'Sad Girls Schemin'' @MusicBank 260612 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8861",
+      "ytId": "Y2kMgV4886M",
+      "eventId": "e475",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS (트리플에스)  SEOYEON (박소연)  - 'Sad Girls Schemin'' @MusicBank 260612 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8862",
+      "ytId": "RIMQXRFQNuM",
+      "eventId": "e475",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS (트리플에스) JIYEON (지연) - 'Sad Girls Schemin'' @MusicBank 260612 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8863",
+      "ytId": "gPp1RYU7JfI",
+      "eventId": "e475",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m2",
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS (트리플에스) HYERIN (혜린)  - 'Sad Girls Schemin'' @MusicBank 260612 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8864",
+      "ytId": "js-VsD8MXSc",
+      "eventId": "e475",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS (트리플에스) YOOYEON (유연)  - 'Sad Girls Schemin'' @MusicBank 260612 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8865",
+      "ytId": "5Fd4oAvjb8E",
+      "eventId": "e475",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS (트리플에스) YEONJI (연지) - 'Sad Girls Schemin'' @MusicBank 260612 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8866",
+      "ytId": "nOGl5MHbB8o",
+      "eventId": "e475",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m14"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS (트리플에스) SOHYUN (소현) - 'Sad Girls Schemin'' @MusicBank 260612 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8867",
+      "ytId": "4YdXylnmWrE",
+      "eventId": "e475",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS (트리플에스)  CHAEYEON (김채연)  - 'Sad Girls Schemin'' @MusicBank 260612 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8868",
+      "ytId": "acqSHpWnc6w",
+      "eventId": "e475",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m8"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS (트리플에스) YUBIN (유빈) - 'Sad Girls Schemin'' @MusicBank 260612 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8869",
+      "ytId": "7f7rxmOQ8Lg",
+      "eventId": "e476",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] tripleS LEE JIWOO (트리플에스 이지우) – Baby Flower | 쇼! 음악중심 | MBC260613",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8870",
+      "ytId": "zpWJv459LqE",
+      "eventId": "e476",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] tripleS KIM CHAEYEON (트리플에스 김채연) – Baby Flower FanCam | 쇼! 음악중심 | MBC260613",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8871",
+      "ytId": "H6cVN8w_F_M",
+      "eventId": "e476",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] tripleS KIM YOOYEON (트리플에스 김유연) – Baby Flower | 쇼! 음악중심 | MBC260613",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8872",
+      "ytId": "1Wf4SQpviXU",
+      "eventId": "e476",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m9"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] tripleS KAEDE (트리플에스 카에데) – Baby Flower | 쇼! 음악중심 | MBC260613",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8873",
+      "ytId": "vkuMEyescOI",
+      "eventId": "e476",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m19"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] tripleS JEONG HAYEON (트리플에스 정하연) – Baby Flower | 쇼! 음악중심 | MBC260613",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8874",
+      "ytId": "RxJRIN6wtzU",
+      "eventId": "e476",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] tripleS KIM SOOMIN (트리플에스 김수민) – Baby Flower FanCam | 쇼! 음악중심 | MBC260613",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8875",
+      "ytId": "mqlvzK4H1nQ",
+      "eventId": "e476",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠] tripleS (트리플에스) – Baby Flower FullCam | 쇼! 음악중심 | MBC260613",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8876",
+      "ytId": "h2Uc39O4-Mc",
+      "eventId": "e476",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m18"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] tripleS JOOBIN (트리플에스 주빈) – Baby Flower FanCam | 쇼! 음악중심 | MBC260613",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8877",
+      "ytId": "Io8N107wIko",
+      "eventId": "e476",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m15"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] tripleS XINYU (트리플에스 신위) – Baby Flower FanCam | 쇼! 음악중심 | MBC260613",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-13"
+    },
+    {
+      "id": "v8878",
+      "ytId": "0cWwgGAo6jA",
+      "eventId": "e476",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m8"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] tripleS GONG YUBIN (트리플에스 공유빈) – Baby Flower | 쇼! 음악중심 | MBC260613",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-15"
+    },
+    {
+      "id": "v8879",
+      "ytId": "Tx8nqRHhX1c",
+      "eventId": "e476",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] tripleS KWAK YEONJI (트리플에스 곽연지) – Baby Flower | 쇼! 음악중심 | MBC260613",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-15"
+    },
+    {
+      "id": "v8880",
+      "ytId": "ypF-_SoeDsE",
+      "eventId": "e477",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 트리플에스 'Baby Flower' (tripleS FullCam) @SBS Inkigayo 260614",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8881",
+      "ytId": "XBvPQsvHzS0",
+      "eventId": "e477",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 트리플에스 김유연 'Baby Flower' (tripleS Kim YooYeon FaceCam) @SBS Inkigayo 260614",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8882",
+      "ytId": "yeZ1t1HIfEw",
+      "eventId": "e478",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "tripleS - Girls Never Die [열린 음악회/Open Concert] | KBS 260712 방송",
+      "channel": "KBS 레전드 케이팝",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8883",
+      "ytId": "TxDg6PsEN4A",
+      "eventId": "e478",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "tripleS - Baby Flower [열린 음악회/Open Concert] | KBS 260712 방송",
+      "channel": "KBS 레전드 케이팝",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8884",
+      "ytId": "OWQND48eoV8",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        },
+        {
+          "songId": "g6s2",
+          "t": 0
+        },
+        {
+          "songId": "g6s36",
+          "t": 0
+        },
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260909 트리플에스 린 Baby Flower+Rising+Love2Love+깨어+Girls Never Die 4K 직캠 @성결대 (tripleS LYNN FANCAM)",
+      "channel": "Day_Day",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8885",
+      "ytId": "pK3EAjRoU8U",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m7"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "트리플에스 나경 \"깨어+Girls Never Die\" 직캠 tripleS NaKyoung fancam 260909 성결대축제",
+      "channel": "사악키",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8886",
+      "ytId": "-uE9gyZx0wU",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "윤서연(트리플에스) - 깨어 [4k직캠] @성결대축제 260909",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8887",
+      "ytId": "TrMkQisQlGk",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m18"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "주빈 JooBin tripleS 트리플에스 - Baby Flower 4K 세로 직캠 @260909 성결대 축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8888",
+      "ytId": "I1VwUzYktgE",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m7"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "트리플에스 나경 \"Baby Flower+인사\" 직캠 tripleS NaKyoung fancam 260909 성결대축제",
+      "channel": "사악키",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8889",
+      "ytId": "caA4DxNf8Ko",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "윤서연(트리플에스) - Baby Flower [4k직캠] @성결대축제 260909",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8890",
+      "ytId": "ProeDIXMfHg",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        },
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m18"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "주빈 JooBin tripleS 트리플에스 - Rising + Love2Love 4K 세로 직캠 @260909 성결대 축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8891",
+      "ytId": "Obkwso_TxYY",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "윤서연(트리플에스) - Girls Never Die [4k직캠] @성결대축제 260909",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8892",
+      "ytId": "vaF9u73qsys",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "윤서연(트리플에스) - Love2Love [4k직캠] @성결대축제 260909",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8893",
+      "ytId": "4ZsCaIxsKus",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "윤서연(트리플에스) - Rising [4k직캠] @성결대축제 260909",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8894",
+      "ytId": "gMPgMaN1GmU",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260909 tripleS(트리플에스) 'Baby Flower' (린 직캠) 성결대학교 축제",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8895",
+      "ytId": "p6mYg7i3Rds",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20260909 트리플에스(tripleS) 윤서연 \"Girls Never Die\" @ 성결대학교 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8896",
+      "ytId": "8WX7BczO2CQ",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        },
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m18"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "주빈 JooBin tripleS 트리플에스 - 깨어 (Are You Alive) + Girls Never Die 4K 세로 직캠 @260909 성결대 축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8897",
+      "ytId": "Zbj-beneiZ4",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260909 트리플에스(tripleS) 김나경 (NAKYOUNG) - Baby Flower 직캠 @성결대학교 축제",
+      "channel": "Clover",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8898",
+      "ytId": "jwLRRxwXN-w",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m18"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260909 ‘Baby Flower’ 트리플에스 주빈 tripleS JooBin Fancam | 성결대학교 축제",
+      "channel": "𝗱𝗲𝗲𝗿.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8899",
+      "ytId": "UWj016GIohQ",
+      "eventId": "e480",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260910 트리플에스 지연 - 깨어 (Are You Alive) | 2026 서울과학기술대학교 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8900",
+      "ytId": "GjJvKUxhqsY",
+      "eventId": "e480",
+      "songs": [
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20260910 트리플에스(tripleS) 지연 \"Love2Love\" @ 서울과학기술대학교 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8901",
+      "ytId": "L8nyT7Y2wk4",
+      "eventId": "e480",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260910 트리플에스 김채원 - Rising | 2026 서울과학기술대학교 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8902",
+      "ytId": "Uo8hNy5XUHk",
+      "eventId": "e480",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260910 트리플에스 김유연 - Baby Flower | 2026 서울과학기술대학교 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8903",
+      "ytId": "j69fbdFBss0",
+      "eventId": "e480",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20260910 트리플에스(tripleS) 지연 \"깨어+Girls Never Die\" @ 서울과학기술대학교 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8904",
+      "ytId": "NmzoOLNwUJs",
+      "eventId": "e480",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m2",
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260910 서울과학기술대학교 축제 'Baby Flower' tripleS Hyerin 트리플에스 정혜린 직캠 (4K Fancam)",
+      "channel": "Serin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-11"
+    },
+    {
+      "id": "v8905",
+      "ytId": "yDpRDm-2O7U",
+      "eventId": "e480",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20260910 트리플에스(tripleS) 지연 \"Rising\" @ 서울과학기술대학교 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8906",
+      "ytId": "B94qf6A7Uts",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260915 트리플에스 tripleS - Girls Never Die | 김채원 Kim ChaeWon 가로 직캠 | 강원대학교 춘천캠 축제 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8907",
+      "ytId": "2H2pFFUSSB4",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "tripleS 260915 강원대학교 백령대동제『Love2Love』트리플에스 지연 JiYeon 직캠",
+      "channel": "Iris_Carrot24",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8908",
+      "ytId": "9VPq76s8UEU",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260915 트리플에스 tripleS - 깨어 Are You Alive | 김채원 Kim ChaeWon 가로 직캠 | 강원대학교 춘천캠 축제 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8909",
+      "ytId": "86KjAHHm12g",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260915 트리플에스 tripleS - 라이징 Rising | 곽연지 Kwak YeonJi 가로 직캠 | 강원대학교 춘천캠 축제 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8910",
+      "ytId": "ym1BIKzq-Vo",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260915 트리플에스 Triples 윤서연  :  깨어 (Are You Alive) 직캠  @ 강원대학교 대동제  / Plumia2 (4K 60p)",
+      "channel": "Plumia2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8911",
+      "ytId": "s6xV8SLPs_Q",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "tripleS 260915 강원대학교 백령대동제『깨어 (Are You Alive)』트리플에스 지연 JiYeon 직캠",
+      "channel": "Iris_Carrot24",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8912",
+      "ytId": "xJPOpnFL_HM",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260915 트리플에스(tripleS) 곽연지(Kwak YeonJi) - Baby Flower 강원대학교 축제 직캠",
+      "channel": "카르바할 CARVAJAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8913",
+      "ytId": "mvJkYf_aBM0",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "tripleS 260915 강원대학교 백령대동제 『Girls Never Die』 트리플에스 지연 JiYeon 직캠",
+      "channel": "Iris_Carrot24",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8914",
+      "ytId": "coP5q3LNMDo",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260915 트리플에스 tripleS - 베이비 플라워 Baby Flower | 김유연 Kim YooYeon 가로 직캠 | 강원대학교 춘천캠 축제 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8915",
+      "ytId": "9WfbqhEs_ZM",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        },
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260915 트리플에스(tripleS) 곽연지(Kwak YeonJi) - RISING & 깨어(Are You Alive) 강원대학교 축제 직캠",
+      "channel": "카르바할 CARVAJAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8916",
+      "ytId": "zyXo6rVDxxo",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "tripleS 260915 강원대학교 백령대동제 『Baby Flower』 트리플에스 지연 JiYeon 직캠",
+      "channel": "Iris_Carrot24",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8917",
+      "ytId": "vPd82f9qQ7I",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "tripleS 260915 강원대학교 백령대동제 『Rising』 트리플에스 지연 JiYeon 직캠",
+      "channel": "Iris_Carrot24",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8918",
+      "ytId": "RHaW6AiJSzU",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        },
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m2",
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "정혜린 HyeRin tripleS 트리플에스 - Baby Flower + Rising 4K 세로 직캠 @260915 강원대 춘천캠 축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8919",
+      "ytId": "AgAIfymVO6s",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        },
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m2",
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "정혜린 HyeRin tripleS 트리플에스 - 깨어 (Are You Alive) + Girls Never Die 4K 세로 직캠 @260915 강원대 춘천캠 축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8920",
+      "ytId": "Cw5d-qhdi2s",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260915 트리플에스 김채원 Baby Flower 직캠 강원대학교 춘천캠 백령대동제",
+      "channel": "StrawberryOrbit",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8921",
+      "ytId": "5ozXqW2BHJ8",
+      "eventId": "e481",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260915 트리플에스 Triples 김채원  :  Girls Never Die  직캠  @ 강원대학교 대동제  / Plumia2 (4K 60p)",
+      "channel": "Plumia2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8922",
+      "ytId": "vk8Lo1Djyl4",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260917 공주대 천안캠퍼스 대동제 'Girls Never Die' 트리플에스 tripleS 린 Lynn #트리플에스 #tripleS #린 #lynn",
+      "channel": "달코미",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8923",
+      "ytId": "fRqR0zV63sw",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260917 tripleS 윤서연 트리플에스 '깨어(Are You Alive)' 2026 공주대학교 천안캠퍼스 축제 직캠",
+      "channel": "햄앤햄",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8924",
+      "ytId": "FnHLgwI01nk",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260917 tripleS 윤서연 트리플에스 'Love2Love' 2026 공주대학교 천안캠퍼스 축제 직캠",
+      "channel": "햄앤햄",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8925",
+      "ytId": "gODh1BuXLok",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m16"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "tripleS 260917 국립공주대학교 천안캠퍼스 대동제 『Girls Never Die』 트리플에스 마유 Mayu 직캠",
+      "channel": "Iris_Carrot24",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8926",
+      "ytId": "UOQkOe1eMpY",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m16"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "260917 트리플에스 tripleS - 베이비 플라워 Baby Flower | 마유 Mayu 세로 직캠 | 공주대학교 천안공과대학 축제 청춘열차 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8927",
+      "ytId": "0_fw_nhtZWI",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "tripleS 260917 국립공주대학교 천안캠퍼스 대동제 『깨어 (Are You Alive)』 트리플에스 연지 YeonJi 직캠",
+      "channel": "Iris_Carrot24",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8928",
+      "ytId": "90o3_shc-uQ",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260917 트리플에스(tripleS) 곽연지(Kwak YeonJi) - Love2Love 국립공주대학교 천안공과대 축제 직캠",
+      "channel": "카르바할 CARVAJAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8929",
+      "ytId": "ILeFEebmVmg",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s36",
+          "t": 0
+        },
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "트리플에스 김유연 ( Love2Love + 깨어 ) 공주대학교 천안캠퍼스 축제 직캠 tripleS Fancam 260917",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8930",
+      "ytId": "T4m9VpkO9Bs",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        },
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1",
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260917 tripleS(트리플에스) 'Rising' (윤서연) & 'Love2Love' (곽연지) 국립공주대학교 천안캠퍼스 축제",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8931",
+      "ytId": "JBW-Lt5bpEo",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260917 트리플에스(tripleS) 김유연 - Girls Never Die / 국립공주대학교 천안캠퍼스 축제",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8932",
+      "ytId": "8LJW_nVP72s",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        },
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260917 트리플에스(tripleS) 곽연지(Kwak YeonJi) - RISING & 깨어(Are You Alive) 국립공주대학교 천안공과대 축제 직캠",
+      "channel": "카르바할 CARVAJAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8933",
+      "ytId": "bVmcXDgesHI",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "260917 트리플에스 김유연 Rising 세로직캠 @국립공주대",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8934",
+      "ytId": "0jG0MYnBzOs",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 260917 tripleS  윤서연 - Rising | 2026 공주대학교 천안캠퍼스 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8935",
+      "ytId": "aM5oSIOE43Y",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260917 트리플에스(tripleS) 김채원 - Love2Love / 국립공주대학교 천안캠퍼스 축제",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8936",
+      "ytId": "6ctGcuQiEv0",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260917 tripleS 윤서연 트리플에스 'Rising' 2026 공주대학교 천안캠퍼스 축제 직캠",
+      "channel": "햄앤햄",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8937",
+      "ytId": "X02FSF9ONhQ",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260917 공주대 천안캠퍼스 대동제 'Baby Flower' 트리플에스 tripleS 린 Lynn #트리플에스 #tripleS #린 #lynn",
+      "channel": "달코미",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8938",
+      "ytId": "Fg4Dq4Ow_kE",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260917 공주대 천안캠퍼스 대동제 '깨어' 트리플에스 tripleS 린 Lynn #트리플에스 #tripleS #린 #lynn",
+      "channel": "달코미",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8939",
+      "ytId": "Ght8zn4sm3s",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260917 트리플에스(tripleS) 곽연지(Kwak YeonJi) - Baby Flower 국립공주대학교 천안공과대 축제 직캠",
+      "channel": "카르바할 CARVAJAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8940",
+      "ytId": "u8ZcNUQGAJw",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "tripleS 260917 국립공주대학교 천안캠퍼스 대동제 『Love2Love』 트리플에스 채원 ChaeWon 직캠",
+      "channel": "Iris_Carrot24",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8941",
+      "ytId": "-MslKIsHrEs",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260917 트리플에스(tripleS) 린 - 깨어 (Are You Alive) / 국립공주대학교 천안캠퍼스 축제",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8942",
+      "ytId": "EV-M4CgOjto",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "트리플에스 김유연 ( Girls Never Die ) 공주대학교 천안캠퍼스 축제 직캠 tripleS Fancam 260917",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8943",
+      "ytId": "n5DX0MZ5mow",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260917 tripleS(트리플에스) 'Girls Never Die' (김유연 직캠) 국립공주대학교 천안캠퍼스 축제",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8944",
+      "ytId": "swougskdb0A",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260917 공주대 천안캠퍼스 대동제 'Rising' 트리플에스 tripleS 린 Lynn #트리플에스 #tripleS #린 #lynn",
+      "channel": "달코미",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8945",
+      "ytId": "Av2CosqZfsQ",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260917 트리플에스 김유연 - 깨어 (Are You Alive) | 2026 공주대학교 천안캠퍼스 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8946",
+      "ytId": "zm4oHga5UfU",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260917 트리플에스 김채원 - Baby Flower | 2026 공주대학교 천안캠퍼스 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8947",
+      "ytId": "QZzWaQl85p0",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20260917 트리플에스(tripleS) 곽연지 \"Girls Never Die\" @ 공주대학교 천안캠퍼스 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-18"
+    },
+    {
+      "id": "v8948",
+      "ytId": "D4Oy1zOB9pQ",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m16"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20260917 트리플에스(tripleS) 마유 \"Baby Flower\" @ 공주대학교 천안캠퍼스 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-18"
+    },
+    {
+      "id": "v8949",
+      "ytId": "FcY4mCmUSLs",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "260917 트리플에스 tripleS - 라이징 Rising | 곽연지 Kwak YeonJi 세로 직캠 | 공주대학교 천안공과대학 축제 청춘열차 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-25"
+    },
+    {
+      "id": "v8950",
+      "ytId": "1Nxf_pA1pJo",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260917 트리플에스(tripleS) 곽연지 - Rising / 국립공주대학교 천안캠퍼스 축제",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-18"
+    },
+    {
+      "id": "v8951",
+      "ytId": "fxzRPoyzMFI",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        },
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20260917 트리플에스(tripleS) 윤서연 \"Rising+Love2Love+깨어\" @ 공주대학교 천안캠퍼스 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8952",
+      "ytId": "XG2MwR1eXqA",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260917 트리플에스 혜린 Rising 직캠 / 공주대학교 천안캠퍼스 축제 / #tripleS #fancam",
+      "channel": "TOYS",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8953",
+      "ytId": "eGBFPrEGJ1g",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m16"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260917 트리플에스 마유 Baby Flower 직캠 / 공주대학교 천안캠퍼스 축제 / #tripleS #fancam",
+      "channel": "TOYS",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8954",
+      "ytId": "6oCorJzWYLo",
+      "eventId": "e482",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        },
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "트리플에스 김유연 ( Baby Flower + Rising ) 공주대학교 천안캠퍼스 축제 직캠 tripleS Fancam 260917",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8955",
+      "ytId": "vZAYxN8WpCs",
+      "eventId": "e483",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260919 트리플에스 tripleS 김채연 ChaeYeon Baby Flower 직캠 fancam @더팩트 뮤직 어워즈 2026 TMA",
+      "channel": "ritzz",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8956",
+      "ytId": "UO-CdlFzjo4",
+      "eventId": "e483",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260919 트리플에스 김채원 Baby Flower 직캠 TMA 더팩트뮤직어워즈",
+      "channel": "StrawberryOrbit",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8957",
+      "ytId": "9nw9A2sEksE",
+      "eventId": "e483",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260919 tripleS 김채연 - Baby Flower | 2026 THE FACT MUSIC AWARDS",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8958",
+      "ytId": "npv_5np4Do4",
+      "eventId": "e483",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260919 TMA Baby Flower 트리플에스 유연 Fancam #트리플에스 #tripleS #김유연 #유연 #KimYooyeon #YooYeon #TMA",
+      "channel": "유연하게",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8959",
+      "ytId": "hr0vPJlEQ7Q",
+      "eventId": "e483",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12",
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20260919 트리플에스(tripleS) \"Baby Flower\" 곽연지,지연 위주 Focus @ 2026 TMA",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8960",
+      "ytId": "fI9ghWCprUw",
+      "eventId": "e483",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260919 tripleS 트리플에스 YooYeon 김유연 TMA 더팩트뮤직어워즈 ‘Baby Flower’ 직캠 Focus Fancam [4K]",
+      "channel": "MelodyXxin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8961",
+      "ytId": "_RNz-W1sO44",
+      "eventId": "e484",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        },
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260930 트리플에스 김수민 깨어, Girls Never Die 직캠 충남대학교 축제  tripleS SooMin fancam",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8962",
+      "ytId": "LVDmRyt6olU",
+      "eventId": "e485",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        },
+        {
+          "songId": "g6s28",
+          "t": 0
+        },
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m2",
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "정혜린 HyeRin tripleS 트리플에스 - Rising + 깨어 Are You Alive + Girls Never Die 4K 세로 직캠 @260930 전북대 연합축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-01"
+    },
+    {
+      "id": "v8963",
+      "ytId": "eCFQf3Jiie8",
+      "eventId": "e485",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m2",
+        "g6m17"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "정혜린 HyeRin tripleS 트리플에스 - Baby Flower 4K 세로 직캠 @260930 전북대 연합축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-01"
+    },
+    {
+      "id": "v8964",
+      "ytId": "CeT_jnKL5UM",
+      "eventId": "e486",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m19"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20261007 트리플에스(tripleS) 정하연 \"깨어 (Are You Alive)\" @ 전남대학교 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8965",
+      "ytId": "NK1Kovsw2Ps",
+      "eventId": "e486",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m13"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20261007 트리플에스(tripleS) 니엔 \"Rising\" @ 전남대학교 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-08"
+    },
+    {
+      "id": "v8966",
+      "ytId": "6MSpmh0O9z8",
+      "eventId": "e486",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20261007 트리플에스(tripleS) 김유연 \"Girls Never Die\" @ 전남대학교 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-08"
+    },
+    {
+      "id": "v8967",
+      "ytId": "E-6crxMKIaQ",
+      "eventId": "e487",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m11"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 코토네 직캠 4K 'Andless' (tripleS Kotone FanCam) | @MCOUNTDOWN_2026.10.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8968",
+      "ytId": "Gs_F1TBQqjU",
+      "eventId": "e487",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 채연 직캠 4K 'Andless' (tripleS ChaeYeon FanCam) | @MCOUNTDOWN_2026.10.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8969",
+      "ytId": "dR9pPc8DPiA",
+      "eventId": "e487",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 유연 직캠 4K 'Andless' (tripleS YooYeon FanCam) | @MCOUNTDOWN_2026.10.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8970",
+      "ytId": "3bA399opdf8",
+      "eventId": "e487",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 지연 직캠 4K 'Andless' (tripleS JiYeon FanCam) | @MCOUNTDOWN_2026.10.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8971",
+      "ytId": "xWgNt3cuKEk",
+      "eventId": "e487",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m19"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 하연 직캠 4K 'Andless' (tripleS HaYeon FanCam) | @MCOUNTDOWN_2026.10.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8972",
+      "ytId": "tqe4Dse8A5o",
+      "eventId": "e487",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m7"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 나경 직캠 4K 'Andless' (tripleS NaKyoung FanCam) | @MCOUNTDOWN_2026.10.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8973",
+      "ytId": "xmU3jQzACEs",
+      "eventId": "e487",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 채원 직캠 4K 'Andless' (tripleS ChaeWon FanCam) | @MCOUNTDOWN_2026.10.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
