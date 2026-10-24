@@ -93,7 +93,7 @@ node scripts/archive.mjs reclassify --all --dry-run                           # 
 node scripts/archive.mjs lint                                                 # 쪼개진 공연·중복 곡·곡 없는 영상 점검
 ```
 
-곡을 합치거나 `kind`를 바꾼 뒤에는 `reclassify --all --dry-run`으로 영향을 보고 실행해요. `kind=other` 항목을 아예 지우는 건 사용자 확인 후에만.
+곡을 합치거나 `kind`를 바꾼 뒤에는 `reclassify --all --dry-run`으로 영향을 보고 실행해요. 곡 항목을 지우는 건 사용자 확인 후 `remove-songs <곡id>...`(`--kind other`로 곡 아닌 항목 모두). 영상·움짤이 쓰는 곡은 지우지 않고, setlist에서는 빼요(여러 곡을 묶은 항목은 낱곡으로 바꿔 넣음).
 
 ## 삭제된 영상 이슈(`dead-videos`) 처리
 

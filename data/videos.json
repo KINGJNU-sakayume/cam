@@ -250,27 +250,11 @@
           "release": ""
         },
         {
-          "id": "g1s24",
-          "title": "놀 페스티벌",
-          "aliases": [],
-          "order": 24,
-          "release": "",
-          "kind": "other"
-        },
-        {
           "id": "g1s25",
           "title": "Super ICY",
           "aliases": [],
           "order": 25,
           "release": ""
-        },
-        {
-          "id": "g1s26",
-          "title": "Super Icy & Force",
-          "aliases": [],
-          "order": 26,
-          "release": "",
-          "kind": "other"
         },
         {
           "id": "g1s27",
@@ -322,43 +306,11 @@
           "release": ""
         },
         {
-          "id": "g1s35",
-          "title": "리즈",
-          "aliases": [],
-          "order": 35,
-          "release": "",
-          "kind": "other"
-        },
-        {
           "id": "g1s36",
           "title": "삐빅 (♥beats)",
           "aliases": [],
           "order": 36,
           "release": ""
-        },
-        {
-          "id": "g1s37",
-          "title": "음반 부문 본상",
-          "aliases": [],
-          "order": 37,
-          "release": "",
-          "kind": "other"
-        },
-        {
-          "id": "g1s38",
-          "title": "Dear My Feelings + Fireworks",
-          "aliases": [],
-          "order": 38,
-          "release": "",
-          "kind": "other"
-        },
-        {
-          "id": "g1s39",
-          "title": "야채튀김브 + 안어울리는 챌린지",
-          "aliases": [],
-          "order": 39,
-          "release": "",
-          "kind": "other"
         },
         {
           "id": "g1s40",
@@ -375,27 +327,11 @@
           "release": ""
         },
         {
-          "id": "g1s42",
-          "title": "DIVE into IVE",
-          "aliases": [],
-          "order": 42,
-          "release": "",
-          "kind": "other"
-        },
-        {
           "id": "g1s43",
           "title": "8",
           "aliases": [],
           "order": 43,
           "release": ""
-        },
-        {
-          "id": "g1s45",
-          "title": "2026 봄·여름 컬렉션 프레젠테이션",
-          "aliases": [],
-          "order": 45,
-          "release": "",
-          "kind": "other"
         },
         {
           "id": "g1s46",
@@ -428,35 +364,11 @@
           "release": ""
         },
         {
-          "id": "g1s50",
-          "title": "REVIVE+",
-          "aliases": [],
-          "order": 50,
-          "release": "",
-          "kind": "other"
-        },
-        {
           "id": "g1s51",
           "title": "HOT COFFEE",
           "aliases": [],
           "order": 51,
           "release": ""
-        },
-        {
-          "id": "g1s52",
-          "title": "슈퍼소닉 트래블 라운지",
-          "aliases": [],
-          "order": 52,
-          "release": "",
-          "kind": "other"
-        },
-        {
-          "id": "g1s53",
-          "title": "Dyson Supersonic Travel Lounge Event",
-          "aliases": [],
-          "order": 53,
-          "release": "",
-          "kind": "other"
         },
         {
           "id": "g1s55",
@@ -473,14 +385,6 @@
           "release": ""
         },
         {
-          "id": "g1s57",
-          "title": "팬서비스 좋은 워녕",
-          "aliases": [],
-          "order": 57,
-          "release": "",
-          "kind": "other"
-        },
-        {
           "id": "g1s58",
           "title": "WOW",
           "aliases": [],
@@ -493,22 +397,6 @@
           "aliases": [],
           "order": 59,
           "release": ""
-        },
-        {
-          "id": "g1s60",
-          "title": "WMAC",
-          "aliases": [],
-          "order": 60,
-          "release": "",
-          "kind": "other"
-        },
-        {
-          "id": "g1s61",
-          "title": "TIMA",
-          "aliases": [],
-          "order": 61,
-          "release": "",
-          "kind": "other"
         }
       ]
     },
@@ -776,35 +664,11 @@
           "release": ""
         },
         {
-          "id": "g2s24",
-          "title": "올해의 아티스트상",
-          "aliases": [],
-          "order": 24,
-          "release": "",
-          "kind": "other"
-        },
-        {
-          "id": "g2s25",
-          "title": "SOUND OF THE YEAR OF THE YEAR",
-          "aliases": [],
-          "order": 25,
-          "release": "",
-          "kind": "other"
-        },
-        {
           "id": "g2s26",
           "title": "TIC TIC",
           "aliases": [],
           "order": 26,
           "release": ""
-        },
-        {
-          "id": "g2s28",
-          "title": "Episode 1: Zero Frontier",
-          "aliases": [],
-          "order": 28,
-          "release": "",
-          "kind": "other"
         },
         {
           "id": "g2s29",
@@ -884,38 +748,6 @@
           "aliases": [],
           "order": 39,
           "release": ""
-        },
-        {
-          "id": "g2s41",
-          "title": "캐치캐치 + 잇츠미 + 레드레드 + 홀리건 + 루드 + 모시모시",
-          "aliases": [],
-          "order": 41,
-          "release": "",
-          "kind": "other"
-        },
-        {
-          "id": "g2s42",
-          "title": "TIMA",
-          "aliases": [],
-          "order": 42,
-          "release": "",
-          "kind": "other"
-        },
-        {
-          "id": "g2s43",
-          "title": "기분 좋은 믹둥이",
-          "aliases": [],
-          "order": 43,
-          "release": "",
-          "kind": "other"
-        },
-        {
-          "id": "g2s44",
-          "title": "버스 지나갈때 포즈 바꾸기",
-          "aliases": [],
-          "order": 44,
-          "release": "",
-          "kind": "other"
         }
       ]
     },
@@ -1141,14 +973,6 @@
           "release": ""
         },
         {
-          "id": "g3s12",
-          "title": "Blue Heart+Teacher",
-          "aliases": [],
-          "order": 12,
-          "release": "",
-          "kind": "other"
-        },
-        {
           "id": "g3s13",
           "title": "Cold Blood",
           "aliases": [],
@@ -1179,35 +1003,11 @@
           "release": ""
         },
         {
-          "id": "g3s17",
-          "title": "멘트+Merry Go Round+Wonderland",
-          "aliases": [],
-          "order": 17,
-          "release": "",
-          "kind": "other"
-        },
-        {
           "id": "g3s18",
           "title": "Teacher",
           "aliases": [],
           "order": 18,
           "release": ""
-        },
-        {
-          "id": "g3s19",
-          "title": "Cold Blood + Teacher",
-          "aliases": [],
-          "order": 19,
-          "release": "",
-          "kind": "other"
-        },
-        {
-          "id": "g3s20",
-          "title": "TOMORROW GLOW",
-          "aliases": [],
-          "order": 20,
-          "release": "",
-          "kind": "other"
         },
         {
           "id": "g3s21",
@@ -1266,14 +1066,6 @@
           "release": ""
         },
         {
-          "id": "g3s30",
-          "title": "NOW TOMORROW ENCORE",
-          "aliases": [],
-          "order": 30,
-          "release": "",
-          "kind": "other"
-        },
-        {
           "id": "g3s31",
           "title": "Attitude",
           "aliases": [],
@@ -1318,14 +1110,6 @@
           "release": ""
         },
         {
-          "id": "g3s37",
-          "title": "Where you at 챌린지",
-          "aliases": [],
-          "order": 37,
-          "release": "",
-          "kind": "other"
-        },
-        {
           "id": "g3s38",
           "title": "Greedy",
           "aliases": [],
@@ -1361,35 +1145,11 @@
           "release": ""
         },
         {
-          "id": "g3s44",
-          "title": "OVERDRIVE 챌린지",
-          "aliases": [],
-          "order": 44,
-          "release": "",
-          "kind": "other"
-        },
-        {
           "id": "g3s45",
           "title": "from",
           "aliases": [],
           "order": 45,
           "release": ""
-        },
-        {
-          "id": "g3s46",
-          "title": "바라밤챌린지",
-          "aliases": [],
-          "order": 46,
-          "release": "",
-          "kind": "other"
-        },
-        {
-          "id": "g3s48",
-          "title": "Game boy 챌린지",
-          "aliases": [],
-          "order": 48,
-          "release": "",
-          "kind": "other"
         },
         {
           "id": "g3s49",
@@ -1418,22 +1178,6 @@
           "aliases": [],
           "order": 52,
           "release": ""
-        },
-        {
-          "id": "g3s53",
-          "title": "Grrr 챌린지",
-          "aliases": [],
-          "order": 53,
-          "release": "",
-          "kind": "other"
-        },
-        {
-          "id": "g3s55",
-          "title": "카이스트 사행시+멘트",
-          "aliases": [],
-          "order": 55,
-          "release": "",
-          "kind": "other"
         },
         {
           "id": "g3s56",
@@ -1730,14 +1474,6 @@
           "kind": "cover"
         },
         {
-          "id": "g4s19",
-          "title": "Hearts2House",
-          "aliases": [],
-          "order": 19,
-          "release": "",
-          "kind": "other"
-        },
-        {
           "id": "g4s20",
           "title": "마지막처럼",
           "aliases": [],
@@ -1753,14 +1489,6 @@
           "release": ""
         },
         {
-          "id": "g4s23",
-          "title": "NOL FESTIVAL",
-          "aliases": [],
-          "order": 23,
-          "release": "",
-          "kind": "other"
-        },
-        {
           "id": "g4s24",
           "title": "Second",
           "aliases": [],
@@ -1774,22 +1502,6 @@
           "order": 27,
           "release": "",
           "kind": "cover"
-        },
-        {
-          "id": "g4s29",
-          "title": "Gee + Genie",
-          "aliases": [],
-          "order": 29,
-          "release": "",
-          "kind": "other"
-        },
-        {
-          "id": "g4s30",
-          "title": "소원을 말해봐 + 빨간 맛",
-          "aliases": [],
-          "order": 30,
-          "release": "",
-          "kind": "other"
         },
         {
           "id": "g4s31",
@@ -1821,30 +1533,6 @@
           "kind": "cover"
         },
         {
-          "id": "g4s39",
-          "title": "멘트 모음",
-          "aliases": [],
-          "order": 39,
-          "release": "",
-          "kind": "other"
-        },
-        {
-          "id": "g4s40",
-          "title": "ENCORE/ENDING",
-          "aliases": [],
-          "order": 40,
-          "release": "",
-          "kind": "other"
-        },
-        {
-          "id": "g4s41",
-          "title": "SOUNDCHECK?",
-          "aliases": [],
-          "order": 41,
-          "release": "",
-          "kind": "other"
-        },
-        {
           "id": "g4s42",
           "title": "GAME",
           "aliases": [],
@@ -1857,14 +1545,6 @@
           "aliases": [],
           "order": 43,
           "release": ""
-        },
-        {
-          "id": "g4s44",
-          "title": "본투비 아이돌 팬서비스",
-          "aliases": [],
-          "order": 44,
-          "release": "",
-          "kind": "other"
         }
       ]
     }
@@ -1878,8 +1558,7 @@
       "label": "",
       "setlist": [
         "g1s36",
-        "g1s11",
-        "g1s37"
+        "g1s11"
       ],
       "note": ""
     },
@@ -2269,7 +1948,6 @@
         "g1s13",
         "g1s11",
         "g1s5",
-        "g1s24",
         "g1s7"
       ],
       "note": ""
@@ -2378,8 +2056,7 @@
         "g2s1",
         "g2s13",
         "g2s9",
-        "g2s20",
-        "g2s28"
+        "g2s20"
       ],
       "note": "",
       "aliases": [
@@ -2421,8 +2098,7 @@
         "g2s8",
         "g2s1",
         "g2s2",
-        "g2s4",
-        "g2s28"
+        "g2s4"
       ],
       "note": ""
     },
@@ -2436,8 +2112,7 @@
         "g2s11",
         "g2s10",
         "g2s1",
-        "g2s4",
-        "g2s28"
+        "g2s4"
       ],
       "note": ""
     },
@@ -3069,14 +2744,13 @@
       "setlist": [
         "g3s8",
         "g3s11",
-        "g3s12",
+        "g3s14",
+        "g3s18",
         "g3s13",
         "g3s1",
-        "g3s14",
         "g3s15",
         "g3s16",
-        "g3s17",
-        "g3s18",
+        "g3s33",
         "g3s2",
         "g3s3"
       ],
@@ -3090,8 +2764,7 @@
       "label": "",
       "setlist": [
         "g3s5",
-        "g3s19",
-        "g3s20",
+        "g3s13",
         "g3s18",
         "g3s21",
         "g3s6",
@@ -3110,7 +2783,6 @@
         "g3s23",
         "g3s3",
         "g3s1",
-        "g3s20",
         "g3s2",
         "g3s8",
         "g3s14"
@@ -3447,7 +3119,6 @@
       "show": "HEARTS 2 HOUSE 자카르타",
       "label": "",
       "setlist": [
-        "g4s19",
         "g4s2",
         "g4s5"
       ],
@@ -3886,7 +3557,7 @@
       "setlist": [
         "g1s5",
         "g1s25",
-        "g1s26",
+        "g1s30",
         "g1s14",
         "g1s11",
         "g1s12",
@@ -4213,7 +3884,6 @@
         "g1s5",
         "g1s29",
         "g1s30",
-        "g1s26",
         "g1s25"
       ],
       "note": ""
@@ -4240,8 +3910,7 @@
       "show": "브랜드 행사",
       "label": "",
       "setlist": [
-        "g1s11",
-        "g1s45"
+        "g1s11"
       ],
       "note": ""
     },
@@ -4272,7 +3941,6 @@
         "g1s48",
         "g1s49",
         "g1s43",
-        "g1s50",
         "g1s27",
         "g1s51",
         "g1s29",
@@ -4286,9 +3954,7 @@
       "date": "2026-04-12",
       "show": "광안리",
       "label": "",
-      "setlist": [
-        "g1s42"
-      ],
+      "setlist": [],
       "note": ""
     },
     {
@@ -4324,10 +3990,8 @@
       "show": "팝업스토어 오픈 행사",
       "label": "",
       "setlist": [
-        "g1s52",
         "g1s27",
-        "g1s14",
-        "g1s53"
+        "g1s14"
       ],
       "note": ""
     },
@@ -4389,9 +4053,7 @@
       "date": "2026-05-29",
       "show": "팝업스토어 오픈 행사",
       "label": "",
-      "setlist": [
-        "g1s35"
-      ],
+      "setlist": [],
       "note": ""
     },
     {
@@ -4442,9 +4104,7 @@
       "date": "2026-07-19",
       "show": "팝업스토어 오픈 행사",
       "label": "",
-      "setlist": [
-        "g1s35"
-      ],
+      "setlist": [],
       "note": ""
     },
     {
@@ -4544,7 +4204,6 @@
       "show": "NMIXX WORLD TOUR ZERO FRONTIER 토론토",
       "label": "",
       "setlist": [
-        "g2s28",
         "g2s13",
         "g2s19"
       ],
@@ -4665,7 +4324,6 @@
       "show": "NMIXX WORLD TOUR ZERO FRONTIER 홍콩",
       "label": "",
       "setlist": [
-        "g2s28",
         "g2s5"
       ],
       "note": ""
@@ -5334,9 +4992,7 @@
       "date": "2026-01-09",
       "show": "골든디스크어워즈",
       "label": "",
-      "setlist": [
-        "g1s35"
-      ],
+      "setlist": [],
       "note": ""
     },
     {
@@ -5488,9 +5144,7 @@
       "date": "2026-08-22",
       "show": "TIMA 2026",
       "label": "",
-      "setlist": [
-        "g1s61"
-      ],
+      "setlist": [],
       "note": ""
     },
     {
@@ -5519,9 +5173,7 @@
       "date": "2026-08-22",
       "show": "TIMA 2026",
       "label": "",
-      "setlist": [
-        "g2s42"
-      ],
+      "setlist": [],
       "note": ""
     },
     {
@@ -5530,9 +5182,7 @@
       "date": "2026-08-24",
       "show": "TIMA 2026",
       "label": "",
-      "setlist": [
-        "g2s42"
-      ],
+      "setlist": [],
       "note": ""
     },
     {
@@ -5541,10 +5191,7 @@
       "date": "2026-09-11",
       "show": "뮤직뱅크",
       "label": "",
-      "setlist": [
-        "g2s43",
-        "g2s44"
-      ],
+      "setlist": [],
       "note": ""
     },
     {

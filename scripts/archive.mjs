@@ -205,6 +205,7 @@ const COMMANDS = {
   merge <남길공연id> <합칠공연id>...   같은 행사가 쪼개진 공연을 하나로 (--show 로 이름도 지정)
   dedupe-events [--fuzzy]        같은 그룹·날짜의 같은 행사(이름 표기만 다른) 공연을 모두 합치기
   merge-songs <남길곡id> <곡id>...  같은 곡 항목을 하나로 (이름은 별칭으로)
+  remove-songs <곡id>... | --kind other   쓰지 않는 곡 항목 지우기(사용자 확인 후)
   dedupe-songs                   대소문자·띄어쓰기·오타만 다른 곡을 모두 합치기
   reclassify [--all]             제목을 지금 규칙으로 다시 읽어 곡 바로잡기
   lint                           쪼개진 공연·중복 곡·안 쓰는 곡·곡 없는 영상 점검(실패하지 않음)
@@ -770,6 +771,43 @@ const COMMANDS = {
     }
     if (!n) { out('합칠 곡이 없어요.'); return; }
     save(`곡 묶음 ${n}개 합침`);
+  },
+
+  'remove-songs'() {
+    if (flags.help || (!pos.length && !flags.kind)) {
+      out(`remove-songs <곡id>... | --kind other [--group 그룹] [--dry-run]
+곡 항목을 지워요(사용자 확인 후). 영상·움짤·setlist가 아직 쓰는 곡은 지우지 않고 알려 줘요
+(먼저 merge-songs로 합치거나 reclassify로 옮기세요). --kind other: 곡이 아닌 항목을 모두.`);
+      return;
+    }
+    const groups = flags.group ? [resolveGroup(flags.group)] : data.groups;
+    const targets = [];
+    for (const g of groups) for (const s of g.songs) if (pos.includes(s.id) || (flags.kind && (s.kind || 'song') === flags.kind)) targets.push({ g, s });
+    for (const id of pos) if (!targets.some((t) => t.s.id === id)) die(`곡 ${id}이 없어요.`);
+    if (!targets.length) { out('지울 곡이 없어요.'); return; }
+    const used = (id) => [
+      ...data.videos.filter((v) => v.songs.some((x) => x.songId === id)).map((v) => v.id),
+      ...data.clips.filter((c) => c.songId === id).map((c) => c.id),
+    ];
+    const busy = targets.filter((t) => used(t.s.id).length);
+    if (busy.length) die(`영상·움짤이 아직 쓰는 곡이 있어 지우지 않았어요: ${busy.map((t) => `${t.s.id} ${t.s.title} ← ${used(t.s.id).slice(0, 5).join(', ')}`).join(' / ')}`);
+    const ids = new Set(targets.map((t) => t.s.id));
+    // setlist에서는 빼고, "Blue Heart+Teacher"처럼 여러 곡을 묶은 항목이면 그 자리에 낱곡을 넣는다
+    for (const e of data.events) {
+      if (!e.setlist?.some((x) => ids.has(x))) continue;
+      const g = groupById(e.groupId);
+      const next = [];
+      for (const sid of e.setlist) {
+        if (!ids.has(sid)) { if (!next.includes(sid)) next.push(sid); continue; }
+        const t = targets.find((x) => x.s.id === sid).s;
+        const parts = t.title.split(/\s*[+,&/]\s*/).map((nm) => matchSong({ ...g, songs: g.songs.filter((x) => !ids.has(x.id)) }, nm)).filter(Boolean);
+        for (const p of parts) if (!next.includes(p.id)) next.push(p.id);
+      }
+      out(`  setlist ${e.id} ${evLabel(e)}: ${e.setlist.map(songTitle).join(' → ') || '없음'}  ⇒  ${next.map(songTitle).join(' → ') || '없음'}`);
+      e.setlist = next;
+    }
+    for (const { g, s } of targets) { g.songs = g.songs.filter((x) => x !== s); out(`  - ${g.name}: ${s.id} ${s.title}`); }
+    save(`곡 ${targets.length}개 지움`);
   },
 
   reclassify() {
