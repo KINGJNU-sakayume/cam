@@ -101814,6 +101814,25 @@
       "channel": "",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v8207",
+      "ytId": "BdKRenqJf_0",
+      "eventId": "e74",
+      "songs": [
+        {
+          "songId": "g2s20",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 ( NMIXX ) - 피닉스 ( Phoenix ) TMA 2026",
+      "channel": "하트디렉터",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
