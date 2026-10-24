@@ -2096,6 +2096,866 @@
           "release": "2026-09-14"
         }
       ]
+    },
+    {
+      "id": "g6",
+      "name": "트리플에스",
+      "en": "tripleS",
+      "hue": 175,
+      "members": [
+        {
+          "id": "g6m1",
+          "name": "윤서연",
+          "aliases": [
+            "SEOYEON",
+            "Seoyeon",
+            "YOON SEOYEON",
+            "Yoon Seoyeon"
+          ],
+          "order": 1,
+          "active": true,
+          "color": "#c2553f"
+        },
+        {
+          "id": "g6m2",
+          "name": "정혜린",
+          "aliases": [
+            "HYERIN",
+            "Hyerin",
+            "JUNG HYERIN",
+            "Jung Hyerin",
+            "JEONG HYERIN",
+            "Jeong Hyerin"
+          ],
+          "order": 2,
+          "active": true,
+          "color": "#2f7d6d"
+        },
+        {
+          "id": "g6m3",
+          "name": "이지우",
+          "aliases": [
+            "JIWOO",
+            "Jiwoo",
+            "LEE JIWOO",
+            "Lee Jiwoo"
+          ],
+          "order": 3,
+          "active": true,
+          "color": "#3d6fb6"
+        },
+        {
+          "id": "g6m4",
+          "name": "김채연",
+          "aliases": [
+            "CHAEYEON",
+            "Chaeyeon",
+            "KIM CHAEYEON",
+            "Kim Chaeyeon"
+          ],
+          "order": 4,
+          "active": true,
+          "color": "#b07f22"
+        },
+        {
+          "id": "g6m5",
+          "name": "김유연",
+          "aliases": [
+            "YOOYEON",
+            "Yooyeon",
+            "KIM YOOYEON",
+            "Kim Yooyeon"
+          ],
+          "order": 5,
+          "active": true,
+          "color": "#8a5aa8"
+        },
+        {
+          "id": "g6m6",
+          "name": "김수민",
+          "aliases": [
+            "SOOMIN",
+            "Soomin",
+            "KIM SOOMIN",
+            "Kim Soomin"
+          ],
+          "order": 6,
+          "active": true,
+          "color": "#c0567e"
+        },
+        {
+          "id": "g6m7",
+          "name": "김나경",
+          "aliases": [
+            "NAKYOUNG",
+            "Nakyoung",
+            "KIM NAKYOUNG",
+            "Kim Nakyoung"
+          ],
+          "order": 7,
+          "active": true,
+          "color": "#4f8a3c"
+        },
+        {
+          "id": "g6m8",
+          "name": "공유빈",
+          "aliases": [
+            "YUBIN",
+            "Yubin",
+            "GONG YUBIN",
+            "Gong Yubin"
+          ],
+          "order": 8,
+          "active": true,
+          "color": "#7a6a58"
+        },
+        {
+          "id": "g6m9",
+          "name": "카에데",
+          "aliases": [
+            "KAEDE",
+            "Kaede",
+            "야마다 카에데",
+            "YAMADA KAEDE",
+            "Yamada Kaede"
+          ],
+          "order": 9,
+          "active": true,
+          "color": "#c2553f"
+        },
+        {
+          "id": "g6m10",
+          "name": "서다현",
+          "aliases": [
+            "DAHYUN",
+            "Dahyun",
+            "SEO DAHYUN",
+            "Seo Dahyun"
+          ],
+          "order": 10,
+          "active": true,
+          "color": "#2f7d6d"
+        },
+        {
+          "id": "g6m11",
+          "name": "코토네",
+          "aliases": [
+            "KOTONE",
+            "Kotone",
+            "카미모토 코토네",
+            "KAMIMOTO KOTONE",
+            "Kamimoto Kotone"
+          ],
+          "order": 11,
+          "active": true,
+          "color": "#3d6fb6"
+        },
+        {
+          "id": "g6m12",
+          "name": "곽연지",
+          "aliases": [
+            "YEONJI",
+            "Yeonji",
+            "KWAK YEONJI",
+            "Kwak Yeonji"
+          ],
+          "order": 12,
+          "active": true,
+          "color": "#b07f22"
+        },
+        {
+          "id": "g6m13",
+          "name": "니엔",
+          "aliases": [
+            "NIEN",
+            "Nien",
+            "쉬니엔츠",
+            "許念慈"
+          ],
+          "order": 13,
+          "active": true,
+          "color": "#8a5aa8"
+        },
+        {
+          "id": "g6m14",
+          "name": "박소현",
+          "aliases": [
+            "SOHYUN",
+            "Sohyun",
+            "PARK SOHYUN",
+            "Park Sohyun"
+          ],
+          "order": 14,
+          "active": true,
+          "color": "#c0567e"
+        },
+        {
+          "id": "g6m15",
+          "name": "신위",
+          "aliases": [
+            "XINYU",
+            "Xinyu",
+            "저우신위",
+            "周心语"
+          ],
+          "order": 15,
+          "active": true,
+          "color": "#4f8a3c"
+        },
+        {
+          "id": "g6m16",
+          "name": "마유",
+          "aliases": [
+            "MAYU",
+            "Mayu",
+            "코우마 마유"
+          ],
+          "order": 16,
+          "active": true,
+          "color": "#7a6a58"
+        },
+        {
+          "id": "g6m17",
+          "name": "린",
+          "aliases": [
+            "LYNN",
+            "Lynn",
+            "카와카미 린"
+          ],
+          "order": 17,
+          "active": true,
+          "color": "#c2553f"
+        },
+        {
+          "id": "g6m18",
+          "name": "주빈",
+          "aliases": [
+            "JOOBIN",
+            "Joobin"
+          ],
+          "order": 18,
+          "active": true,
+          "color": "#2f7d6d"
+        },
+        {
+          "id": "g6m19",
+          "name": "정하연",
+          "aliases": [
+            "HAYEON",
+            "Hayeon",
+            "JUNG HAYEON",
+            "Jung Hayeon"
+          ],
+          "order": 19,
+          "active": true,
+          "color": "#3d6fb6"
+        },
+        {
+          "id": "g6m20",
+          "name": "박시온",
+          "aliases": [
+            "SHION",
+            "Shion",
+            "PARK SHION",
+            "Park Shion"
+          ],
+          "order": 20,
+          "active": true,
+          "color": "#b07f22"
+        },
+        {
+          "id": "g6m21",
+          "name": "김채원",
+          "aliases": [
+            "CHAEWON",
+            "Chaewon",
+            "KIM CHAEWON",
+            "Kim Chaewon"
+          ],
+          "order": 21,
+          "active": true,
+          "color": "#8a5aa8"
+        },
+        {
+          "id": "g6m22",
+          "name": "설린",
+          "aliases": [
+            "SULLIN",
+            "Sullin",
+            "피라다 분락사"
+          ],
+          "order": 22,
+          "active": true,
+          "color": "#c0567e"
+        },
+        {
+          "id": "g6m23",
+          "name": "서아",
+          "aliases": [
+            "SEOAH",
+            "Seoah",
+            "정해린",
+            "JUNG HAERIN",
+            "Jung Haerin"
+          ],
+          "order": 23,
+          "active": true,
+          "color": "#4f8a3c"
+        },
+        {
+          "id": "g6m24",
+          "name": "지연",
+          "aliases": [
+            "JIYEON",
+            "Jiyeon",
+            "지서연",
+            "JI SEOYEON",
+            "Ji Seoyeon"
+          ],
+          "order": 24,
+          "active": true,
+          "color": "#7a6a58"
+        }
+      ],
+      "songs": [
+        {
+          "id": "g6s1",
+          "title": "Generation",
+          "aliases": [
+            "제너레이션"
+          ],
+          "order": 1,
+          "release": "2022-10-28"
+        },
+        {
+          "id": "g6s2",
+          "title": "Rising",
+          "aliases": [
+            "라이징"
+          ],
+          "order": 2,
+          "release": "2023-02-13"
+        },
+        {
+          "id": "g6s3",
+          "title": "Cherry Talk",
+          "aliases": [
+            "체리 토크"
+          ],
+          "order": 3,
+          "release": "2023-05-04"
+        },
+        {
+          "id": "g6s4",
+          "title": "Cherry Gene",
+          "aliases": [
+            "체리 진"
+          ],
+          "order": 4,
+          "release": "2023-06-06"
+        },
+        {
+          "id": "g6s5",
+          "title": "Girls' Capitalism",
+          "aliases": [
+            "걸스 캐피털리즘",
+            "Girls Capitalism"
+          ],
+          "order": 5,
+          "release": "2023-08-17"
+        },
+        {
+          "id": "g6s6",
+          "title": "Invincible",
+          "aliases": [
+            "인빈서블"
+          ],
+          "order": 6,
+          "release": "2023-10-11"
+        },
+        {
+          "id": "g6s7",
+          "title": "Just Do It",
+          "aliases": [
+            "저스트 두 잇"
+          ],
+          "order": 7,
+          "release": "2023-12-23"
+        },
+        {
+          "id": "g6s8",
+          "title": "Door",
+          "aliases": [
+            "도어"
+          ],
+          "order": 8,
+          "release": "2024-01-15"
+        },
+        {
+          "id": "g6s9",
+          "title": "Girls Never Die",
+          "aliases": [
+            "걸스 네버 다이"
+          ],
+          "order": 9,
+          "release": "2024-05-08"
+        },
+        {
+          "id": "g6s10",
+          "title": "Heart Raider",
+          "aliases": [
+            "가시권",
+            "하트 레이더"
+          ],
+          "order": 10,
+          "release": "2024-05-08"
+        },
+        {
+          "id": "g6s11",
+          "title": "Midnight Flower",
+          "aliases": [
+            "미드나잇 플라워"
+          ],
+          "order": 11,
+          "release": "2024-05-08"
+        },
+        {
+          "id": "g6s12",
+          "title": "White Soul Sneakers",
+          "aliases": [
+            "화이트 소울 스니커즈"
+          ],
+          "order": 12,
+          "release": "2024-05-08"
+        },
+        {
+          "id": "g6s13",
+          "title": "Chiyu",
+          "aliases": [
+            "치유"
+          ],
+          "order": 13,
+          "release": "2024-05-08"
+        },
+        {
+          "id": "g6s14",
+          "title": "24",
+          "aliases": [
+            "투엔티포"
+          ],
+          "order": 14,
+          "release": "2024-05-08"
+        },
+        {
+          "id": "g6s15",
+          "title": "Beyond the Beyond",
+          "aliases": [
+            "이면의 이면",
+            "비욘드 더 비욘드"
+          ],
+          "order": 15,
+          "release": "2024-05-08"
+        },
+        {
+          "id": "g6s16",
+          "title": "Non Scale",
+          "aliases": [
+            "논 스케일"
+          ],
+          "order": 16,
+          "release": "2024-05-08"
+        },
+        {
+          "id": "g6s17",
+          "title": "내적 댄스",
+          "aliases": [
+            "Inner Dance",
+            "이너 댄스"
+          ],
+          "order": 17,
+          "release": "2024-06-21"
+        },
+        {
+          "id": "g6s18",
+          "title": "###",
+          "aliases": [
+            "Hash",
+            "해시",
+            "### (Hatchi Ver.)"
+          ],
+          "order": 18,
+          "release": "2024-07-21"
+        },
+        {
+          "id": "g6s19",
+          "title": "Hit the Floor",
+          "aliases": [
+            "힛 더 플로어"
+          ],
+          "order": 19,
+          "release": "2024-10-23"
+        },
+        {
+          "id": "g6s20",
+          "title": "CHOOM",
+          "aliases": [
+            "춤"
+          ],
+          "order": 20,
+          "release": "2024-10-23"
+        },
+        {
+          "id": "g6s21",
+          "title": "Éclair",
+          "aliases": [
+            "에클레어",
+            "Eclair"
+          ],
+          "order": 21,
+          "release": "2024-10-23"
+        },
+        {
+          "id": "g6s22",
+          "title": "Love Soseol",
+          "aliases": [
+            "연애소설",
+            "러브 소설"
+          ],
+          "order": 22,
+          "release": "2024-10-23"
+        },
+        {
+          "id": "g6s23",
+          "title": "Atmosphere (VV Ver.)",
+          "aliases": [
+            "Atmosphere",
+            "애트머스피어"
+          ],
+          "order": 23,
+          "release": "2024-10-23"
+        },
+        {
+          "id": "g6s24",
+          "title": "12 Rings",
+          "aliases": [
+            "트웰브 링스"
+          ],
+          "order": 24,
+          "release": "2024-10-23"
+        },
+        {
+          "id": "g6s25",
+          "title": "Vision",
+          "aliases": [
+            "비전"
+          ],
+          "order": 25,
+          "release": "2024-10-23"
+        },
+        {
+          "id": "g6s26",
+          "title": "Bionic Power",
+          "aliases": [
+            "바이오닉 파워"
+          ],
+          "order": 26,
+          "release": "2024-10-23"
+        },
+        {
+          "id": "g6s27",
+          "title": "Untitled",
+          "aliases": [
+            "アンタイトル",
+            "언타이틀드"
+          ],
+          "order": 27,
+          "release": "2024-11-18"
+        },
+        {
+          "id": "g6s28",
+          "title": "Are You Alive",
+          "aliases": [
+            "깨어",
+            "깨어 (Are You Alive)",
+            "아 유 얼라이브",
+            "Stranger Things"
+          ],
+          "order": 28,
+          "release": "2025-05-12"
+        },
+        {
+          "id": "g6s29",
+          "title": "Detective Soseol",
+          "aliases": [
+            "추리소설",
+            "디텍티브 소설"
+          ],
+          "order": 29,
+          "release": "2025-05-12"
+        },
+        {
+          "id": "g6s30",
+          "title": "Firework Diary",
+          "aliases": [
+            "어제 우리 불꽃놀이",
+            "파이어워크 다이어리"
+          ],
+          "order": 30,
+          "release": "2025-05-12"
+        },
+        {
+          "id": "g6s31",
+          "title": "Love Child",
+          "aliases": [
+            "러브 차일드"
+          ],
+          "order": 31,
+          "release": "2025-05-12"
+        },
+        {
+          "id": "g6s32",
+          "title": "Persona",
+          "aliases": [
+            "페르소나"
+          ],
+          "order": 32,
+          "release": "2025-05-12"
+        },
+        {
+          "id": "g6s33",
+          "title": "Too Hot",
+          "aliases": [
+            "투 핫"
+          ],
+          "order": 33,
+          "release": "2025-05-12"
+        },
+        {
+          "id": "g6s34",
+          "title": "Diablo",
+          "aliases": [
+            "디아블로"
+          ],
+          "order": 34,
+          "release": "2025-05-12"
+        },
+        {
+          "id": "g6s35",
+          "title": "Friend Zone",
+          "aliases": [
+            "프렌드 존"
+          ],
+          "order": 35,
+          "release": "2025-05-12"
+        },
+        {
+          "id": "g6s36",
+          "title": "Love2Love",
+          "aliases": [
+            "러브투러브",
+            "Love 2 Love"
+          ],
+          "order": 36,
+          "release": "2025-05-12"
+        },
+        {
+          "id": "g6s37",
+          "title": "Password",
+          "aliases": [
+            "패스워드"
+          ],
+          "order": 37,
+          "release": "2025-09-17"
+        },
+        {
+          "id": "g6s38",
+          "title": "Headphones",
+          "aliases": [
+            "ヘッドフォン",
+            "헤드폰",
+            "헤드폰즈"
+          ],
+          "order": 38,
+          "release": "2025-10-01"
+        },
+        {
+          "id": "g6s39",
+          "title": "Tokimetique",
+          "aliases": [
+            "トキメティック",
+            "토키메틱"
+          ],
+          "order": 39,
+          "release": "2025-10-01"
+        },
+        {
+          "id": "g6s40",
+          "title": "TOKYO",
+          "aliases": [
+            "도쿄"
+          ],
+          "order": 40,
+          "release": "2025-10-01"
+        },
+        {
+          "id": "g6s41",
+          "title": "Oshare",
+          "aliases": [
+            "오샤레"
+          ],
+          "order": 41,
+          "release": "2025-10-01"
+        },
+        {
+          "id": "g6s42",
+          "title": "Fly Up",
+          "aliases": [
+            "플라이 업"
+          ],
+          "order": 42,
+          "release": "2025-11-24"
+        },
+        {
+          "id": "g6s43",
+          "title": "Cameo Love",
+          "aliases": [
+            "카메오 러브"
+          ],
+          "order": 43,
+          "release": "2025-11-24"
+        },
+        {
+          "id": "g6s44",
+          "title": "Bubble Gum Girl",
+          "aliases": [
+            "버블 검 걸",
+            "버블검 걸"
+          ],
+          "order": 44,
+          "release": "2025-11-24"
+        },
+        {
+          "id": "g6s45",
+          "title": "Q&A",
+          "aliases": [
+            "큐앤에이",
+            "큐 앤 에이"
+          ],
+          "order": 45,
+          "release": "2025-11-24"
+        },
+        {
+          "id": "g6s46",
+          "title": "Christmas Alone",
+          "aliases": [
+            "크리스마스 얼론"
+          ],
+          "order": 46,
+          "release": "2025-11-24"
+        },
+        {
+          "id": "g6s47",
+          "title": "Baby Flower",
+          "aliases": [
+            "베이비 플라워"
+          ],
+          "order": 47,
+          "release": "2026-06-01"
+        },
+        {
+          "id": "g6s48",
+          "title": "Sad Girls Schemin'",
+          "aliases": [
+            "Sad Girls Scheming",
+            "새드 걸스 스키밍"
+          ],
+          "order": 48,
+          "release": "2026-06-01"
+        },
+        {
+          "id": "g6s49",
+          "title": "Peer",
+          "aliases": [
+            "피어"
+          ],
+          "order": 49,
+          "release": "2026-06-01"
+        },
+        {
+          "id": "g6s50",
+          "title": "Type of Girl",
+          "aliases": [
+            "타입 오브 걸"
+          ],
+          "order": 50,
+          "release": "2026-06-01"
+        },
+        {
+          "id": "g6s51",
+          "title": "Sleek",
+          "aliases": [
+            "슬릭"
+          ],
+          "order": 51,
+          "release": "2026-06-01"
+        },
+        {
+          "id": "g6s52",
+          "title": "I Like That",
+          "aliases": [
+            "아이 라이크 댓"
+          ],
+          "order": 52,
+          "release": "2026-06-01"
+        },
+        {
+          "id": "g6s53",
+          "title": "Me Myself Mode",
+          "aliases": [
+            "미 마이셀프 모드"
+          ],
+          "order": 53,
+          "release": "2026-06-01"
+        },
+        {
+          "id": "g6s54",
+          "title": "Dream Dress",
+          "aliases": [
+            "드림 드레스"
+          ],
+          "order": 54,
+          "release": "2026-08-01"
+        },
+        {
+          "id": "g6s55",
+          "title": "DNA (Dream N Access)",
+          "aliases": [
+            "DNA",
+            "디엔에이"
+          ],
+          "order": 55,
+          "release": "2026-09-01"
+        },
+        {
+          "id": "g6s56",
+          "title": "Welcome to Heaven",
+          "aliases": [
+            "웰컴 투 헤븐"
+          ],
+          "order": 56,
+          "release": "2026-10-01"
+        },
+        {
+          "id": "g6s57",
+          "title": "Andless",
+          "aliases": [
+            "앤드리스",
+            "앤드리스 (Andless)"
+          ],
+          "order": 57,
+          "release": "2026-10-16"
+        }
+      ]
     }
   ],
   "events": [
