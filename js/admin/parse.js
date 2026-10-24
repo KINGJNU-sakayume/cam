@@ -89,9 +89,12 @@ export function findDate(text, opts = {}) {
   const all = findDates(text, opts);
   const plain = all.filter((c) => !c.alt);
   if (opts.uploaded && isRealDate(opts.uploaded)) {
-    const ok = all.filter((c) => { const d = dayDiff(opts.uploaded, c.iso); return d >= -1 && d <= 120; });
-    const pick = ok.find((c) => !c.alt) || ok[0];
-    if (pick) return { iso: pick.iso, raw: pick.raw };
+    // 제목 순서대로 표기(raw)마다 보고, 그 표기의 읽기 중 범위 안이면서 업로드 날짜에 가장 가까운 것
+    const inRange = (c) => { const d = dayDiff(opts.uploaded, c.iso); return d >= -1 && d <= 120; };
+    for (const raw of [...new Set(all.map((c) => c.raw))]) {
+      const ok = all.filter((c) => c.raw === raw && inRange(c)).sort((a, b) => Math.abs(dayDiff(opts.uploaded, a.iso)) - Math.abs(dayDiff(opts.uploaded, b.iso)) || a.alt - b.alt);
+      if (ok[0]) return { iso: ok[0].iso, raw: ok[0].raw };
+    }
   }
   return plain[0] ? { iso: plain[0].iso, raw: plain[0].raw } : null;
 }
@@ -297,15 +300,21 @@ export const songKey = (s) => String(s || '').toLowerCase().normalize('NFC').rep
 function editDistance(a, b) {
   if (Math.abs(a.length - b.length) > 2) return 3;
   let prev = Array.from({ length: b.length + 1 }, (_, j) => j);
+  let pprev = prev;
   for (let i = 1; i <= a.length; i++) {
     const cur = [i];
-    for (let j = 1; j <= b.length; j++) cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+    for (let j = 1; j <= b.length; j++) {
+      cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+      // 이웃 글자 바뀜(Phoneix/Phoenix)은 1
+      if (i > 1 && j > 1 && a[i - 1] === b[j - 2] && a[i - 2] === b[j - 1]) cur[j] = Math.min(cur[j], pprev[j - 2] + 1);
+    }
+    pprev = prev;
     prev = cur;
   }
   return prev[b.length];
 }
 
-// 그룹 곡 목록에서 이름으로 곡 찾기: 같은 키 → 오타 1~2자(키 6자 이상이면 2자, 4자 이상이면 1자) → null
+// 그룹 곡 목록에서 이름으로 곡 찾기: 같은 키 → 오타(키 8자 이상이면 2자, 5자 이상이면 1자) → null
 export function matchSong(group, name) {
   const k = songKey(name);
   if (!k || !group) return null;
@@ -313,12 +322,12 @@ export function matchSong(group, name) {
   const names = (s) => [s.title, ...(s.aliases || [])].map(songKey).filter(Boolean);
   const exact = songs.find((s) => names(s).includes(k));
   if (exact) return exact;
-  if (k.length < 4 || !/[a-z]/.test(k)) return null;
+  if (k.length < 5 || !/[a-z]/.test(k)) return null;
   let best = null;
   for (const s of songs) for (const n of names(s)) {
-    if (n.length < 4) continue;
+    if (n.length < 5) continue;
     const d = editDistance(k, n);
-    const lim = Math.min(k.length, n.length) >= 6 ? 2 : 1;
+    const lim = Math.min(k.length, n.length) >= 8 ? 2 : 1;
     if (d <= lim && (!best || d < best.d)) best = { s, d };
   }
   return best ? best.s : null;

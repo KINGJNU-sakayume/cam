@@ -23,6 +23,8 @@ jobs:
           node-version: 24
       - name: data/videos.json 검증
         run: node scripts/validate.mjs
+      - name: 제목 해석 회귀 테스트
+        run: node scripts/test-parse.mjs
       - name: 스크립트 문법 확인
         run: |
           for f in app.js admin.js js/*.js js/views/*.js js/admin/*.js scripts/*.mjs; do
