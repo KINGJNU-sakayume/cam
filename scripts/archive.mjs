@@ -198,6 +198,7 @@ const COMMANDS = {
 고치기
   set <id> 키=값 ...             영상·공연·움짤·멤버·곡·그룹 필드 고치기 (형식: set --help)
   gone <영상id|ytId> [--undo]    삭제·비공개 표시(또는 해제)
+  thumbpos <파일.json> [--force]  썸네일 위치 한 번에 넣기(scripts/face-pos.py 결과)
   pin <영상id>                   칸 대표로 (같은 칸 다른 영상은 해제)
   cover <공연id> <영상id|auto>   공연 표지
   remove <id> [--cascade] [--with-empty-event]   영상·공연·움짤 지우기
@@ -927,6 +928,29 @@ const COMMANDS = {
     if (gaps.length) { out(`\n멤버 직캠이 빠진 음악 방송 ${gaps.length}개 (harvest.mjs --gaps):`); gaps.forEach((x) => out(x.line)); }
     if (flags.json) writeFileSync(resolve(flags.json === true ? 'audit.json' : flags.json), `${JSON.stringify({ excluded: rows }, null, 1)}\n`);
     out(`\n규칙에 걸린 영상 ${rows.length} · 요일 ${dow.length} · 도시 없음 ${noCity.length} · 도시 다름 ${other.length} · 직캠 빈 공연 ${gaps.length}`);
+  },
+
+  thumbpos() {
+    if (flags.help || !pos[0]) {
+      out(`thumbpos <파일.json> [--dry-run] [--force]
+
+{"영상id": "62% 35%", ...}(scripts/face-pos.py 결과)의 썸네일 위치를 한 번에 넣어요.
+이미 thumbPos가 있는 영상(사람이 고른 값)은 건너뛰어요. --force면 덮어써요.`);
+      return;
+    }
+    const map = JSON.parse(readFileSync(resolve(pos[0]), 'utf8'));
+    let n = 0, kept = 0, missing = 0;
+    for (const [id, p] of Object.entries(map)) {
+      const v = data.videos.find((x) => x.id === id);
+      if (!v) { missing++; continue; }
+      if (!/^\d{1,3}(\.\d+)?% \d{1,3}(\.\d+)?%$/.test(p)) die(`${id}: "${p}"는 "50% 35%" 형식이 아니에요.`);
+      if (v.thumbPos && !flags.force) { kept++; continue; }
+      if (v.thumbPos !== p) { v.thumbPos = p; n++; }
+    }
+    if (kept) out(`  이미 있는 위치 ${kept}개는 그대로 둠`);
+    if (missing) warn(`없는 영상 ${missing}개는 건너뜀`);
+    if (!n) { out('바꿀 영상이 없어요.'); return; }
+    save(`영상 ${n}개 썸네일 위치`);
   },
 
   'remove-videos'() {
