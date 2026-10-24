@@ -1,0 +1,430 @@
+# 담지 못한 영상 (에스파·트리플에스, 2026-05-01 ~ 10-24)
+
+2026-10-24 harvest 뒤 판정에서 날짜·행사·멤버·곡을 제목만으로 정할 수 없어 **담지 않은** 영상이에요(지어내지 않음). 사용자가 알려 주면 `add`로 담아요. 한 줄 = `유튜브ID 이유 · 제목`.
+
+## 에스파 (200개)
+
+- CoLl2h534XI 날짜·도시 없음(투어 어느 공연인지 불명), 멤버 POV 직캠인데 멤버도 없음 · aespa LIVE TOUR SYNK COMPLæXITY - Next Level, SHAKIN', & Supernova POV fancam
+- OLCe0F77ht0 LA 2026-10-03 Black Mamba 직캠인데 멤버를 제목에서 알 수 없음 · [4k] 261003 AESPA 아스파 SYNK : COMPLæXITY BLACK MAMBA 직캠 @SYNK : COMPLæXITY LA fancam
+- 9n1YOBByjco 고려대 2026-05-22 WDA 직캠인데 멤버를 제목에서 알 수 없음(Coating) · 260522 에스파 aespa🎵WDA (Whole Different Animal) 직캠 FANCAM @IPSELENTI2026
+- yWC_WX2K1rU 뮤직뱅크 2026-06-05 앵콜직캠인데 제목의 곡이 WDA — 그날 공연 setlist는 Lemonade뿐이라 곡이 어긋남(Encore Facecam이라 단체 직캠으로 추정) · [4K] 에스파  'WDA (Whole Different Animal)' 뮤직뱅크 1위 앵콜직캠(aespa Encore Facecam) @뮤직뱅크(Music Bank) 260605
+- 2XVoLZ_kBwE 한국외대 2026-06-02 Lemonade 직캠인데 멤버를 제목에서 알 수 없음(Coating, @QUINQUATRIA2026) · 260602 에스파 aespa 🎵LEMONADE 직캠 FANCAM @ QUINQUATRIA2026
+- sVwYpHqdt3o aespa 공식 채널 Switchblade 투어 영상, 어느 공연(날짜·도시)인지 제목에 없음 · aespa 에스파 'Switchblade (Feat. Ty Dolla $ign)' @2026-27 aespa LIVE TOUR - SYNK : COMPLæXITY -
+- zrKQzryenEA 신보 Lemonade 라이브 일부(12분) — 날짜·행사·성격 불명 · A part of Aespa live for their new album Lemonade 
+- YxND_mNpkJ4 LA 2026-10-03 Whiplash 직캠인데 멤버를 제목에서 알 수 없음 · [4k] 261003 AESPA 아스파 SYNK : COMPLæXITY WHIPLASH 직캠 @SYNK : COMPLæXITY LA fancam
+- DNKcKNCQPKo 한국외대 2026-06-02 직캠인데 멤버를 제목에서 알 수 없음 · 260602 aespa 에스파 - WDA & 슈퍼노바 & 위플래쉬 & 넥스트레벨 (한국외국어대 축제) 직캠 fancam by zam
+- JMfE_3V6qtQ 한양대(추정, @RACHIOS2026) 2026-05-27 WDA 직캠인데 멤버를 알 수 없고 행사명 표기가 한양대인지 불명 · 260527 에스파 aespa🎵WDA (Whole Different Animal) 직캠 FANCAM @RACHIOS2026
+- UeWfHzdIDvY 날짜·도시 없음(투어 어느 공연인지 불명), 멤버도 없음 · 에스파 'Next Level' 직캠｜aespa concert SYNK : COMPLæXITY
+- uXHReYtZsr0 제목 날짜 10/2/2026이 위키 LA 공연일(10/3)과 어긋남, 멤버도 없음 · Aespa Switch Blade Los Angeles 10/2/2026 Concert Fancam
+- uYQr5BFEjZc 날짜가 260807-08로 두 날 중 어느 날인지 불명(카리나 Armageddon 직캠) · [4K] 260807-08 aespa Karina 에스파 카리나 'Armageddon' 직캠 2026-27 aespa SYNK : COMPLaeXITY Seoul
+- ZUYwzw6KEfs M2 MPD직캠 8K WDA — 멤버 표기 없음(단체 직캠으로 추정되나 제목에 단체 없음) · [MPD직캠] 에스파 직캠 8K 'WDA (Whole Different Animal) (Feat. G-DRAGON)' (aespa FanCam)
+- MIGJQ-epVXA KBS WORLD [Meet On Stage] WDA 260515 — 뮤직뱅크 무대인지 별도 코너인지 불명(5분 13초) · aespa エスパ 에스파 - WDA (Whole Different Animal) [Meet On Stage] | KBS WORLD TV 260515
+- 2sJEbtprlhY 한국외대 2026-06-02 직캠인데 멤버를 제목에서 알 수 없음 · 260602 에스파 WDA+SuperNova+Wiplash+NextLevel+LEMONADE 4K 직캠 @한국외대(aespa FANCAM)
+- 59GYCJejcoU 뉴욕(벨몬트파크) 2026-09-18 Black Mamba 직캠인데 멤버를 제목에서 알 수 없음 · 260918 aespa 에스파 'Black Mamba' aespa SYNK: COMPLæXITY in Belmont Park NEW YORK FanCam 직캠
+- snrLQJaF0Q0 고려대 KULIMAX 1일차 260519 — 입실렌티(5/22)와 날짜 어긋남, 멤버 없음, 1분 17초 · [4K 직캠] 에스파(aespa) ‘민족의 아리아’ | 260519 고려대학교 KULIMAX 1일차
+- htP8mmimS0U 닝닝 생일파티 팬이벤트: 정식 행사명·커버곡 여부 불명 (261020, 닝닝 직캠) · [4K]261020 NINGNING B-day PARTY ['02/ECHOES] - 我只在乎你 에스파 닝닝 직캠 ｜ aespa NingNing focus
+- KVFcWVNjWrs 닝닝 생일파티 팬이벤트: 정식 행사명·커버곡 여부 불명 (261020, 닝닝 직캠) · [4K]261020 NINGNING B-day PARTY ['02/ECHOES] -  꿈에 (In dreams) 에스파 닝닝 직캠 ｜ aespa NingNing focus
+- -ediKABHbjQ 연세대 5/23 짧은 클립(1:53/0:45), 곡 불명 · 260523 에스파 aespa at yonsei university festival today  #aespa #æspa #에스파
+- XvgayY3xHKo 연세대 5/23 짧은 클립(1:53/0:45), 곡 불명 · 260523 에스파 aespa at yonsei university festival today  #aespa #æspa #에스파
+- 5ni67TxF16o 아카라카 5/23 3~4분 영상, 제목에 곡 없음 · 260523 아카라카 에스파
+- gFgZj1kui5A 아카라카 5/23 3~4분 영상, 제목에 곡 없음 · 260523 아카라카 에스파
+- puGVYQNNWgk 연세대 5/23 24분 "full fancam", 멤버 불명 · 에스파 연세대 아카라카 2026 aespa WDA Whiplash위플래쉬 live my life supernova #aespa full fancam
+- Cnzeh-IXISo 한국외대 6/2 비몽 직캠, 멤버 불명 · 에스파(aespa) Full ver. (LEMONADE + WDA + Supernova + Whiplash + Next Level) 직캠 | 한국외대 축제 • 260602
+- dHiH1MWyc5k 한국외대 6/2 비몽 직캠, 멤버 불명 · 에스파(aespa) - WDA (Whole Different Animal) 직캠 | 한국외대 축제 • 260602
+- O_z8AStKKi8 한국외대 6/2 비몽 직캠, 멤버 불명 · 에스파(aespa) - LEMONADE (레모네이드) 직캠 | 한국외대 축제 • 260602
+- F6Z7aCwwtHc 한국외대 6/2 비몽 직캠, 멤버 불명 · 에스파(aespa) - Next Level (넥스트레벨) 직캠 | 한국외대 축제 • 260602
+- LPT9e8gKePM 한국외대 6/2 벤뎅이 직캠, 멤버 불명 · 260602 에스파 직캠 'WDA' aespa Fancam @한국외국어대학교 서울캠퍼스 축제  By 벤뎅이
+- wzEt6mQpIoI 한양대 5/27 DaftTaengk 직캠, 멤버 불명 · 260527 에스파 aespa 'WDA (Whole Different Animal)' 4K 60P 직캠 @한양대 축제 by DaftTaengk
+- U4hlBcHj6tM 한양대 5/27 DaftTaengk 직캠, 멤버 불명 · 260527 에스파 aespa 'Whiplash' 4K 60P 직캠 @한양대 축제 by DaftTaengk
+- uVtKrYgewLs 한양대 5/27 DaftTaengk 직캠, 멤버 불명 · 260527 에스파 aespa 'Supernova' 4K 60P 직캠 @한양대 축제 by DaftTaengk
+- lbYUMFue54c 한양대 5/27 Spinel CAM 직캠, 멤버 불명 · aespa 에스파 'WDA (Whole Different Animal)' 4K 직캠｜한양대 축제 260527
+- 9cNuExzxjC8 한양대 5/27 Spinel CAM 직캠, 멤버 불명 · aespa 에스파 'Supernova' 4K 직캠｜한양대 축제 260527
+- SlMITC_NhFo Split Bank 라이브 영상: 제목에 날짜 없어 어느 뮤직뱅크(5/29 or 6/5)인지 불명 · [📺Split Bank] aespa (에스파) - LEMONADE | KBS WORLD TV
+- B0zHPWyxecY KBS WORLD Meet On Stage 5:48: 무대+인터뷰 혼합 여부 불명 · aespa エスパ 에스파 - LEMONADE [Meet On Stage] | KBS WORLD TV 260529
+- 7jFODdgFMw4 KOCOWA 인기가요 EP1314: 5/31 or 6/7 불명 · aespa - LEMONADE | Inkigayo EP1314 | KOCOWA+
+- 1MJxa2b1T4o 인기가요 "Day 2" 직캠(멤버 불명, 5/31 or 6/7 불명) · AESPA "LEMONADE" 2FanCams2Facecams // SBS Inkigayo Day 2
+- XCZp0obr-9E 밴쿠버 윈터 Saddle Up: 제목 261010, 위키 일정 10/11 — 날짜 충돌 · 261010 aespa 에스파 SYNK : COMPLAEXITY World Tour in Vancouver - Winter Solo - Saddle Up
+- 9N8zi6Dr57Y LA "10/2/2026" Whiplash 직캠: 위키 LA 공연 10/3과 충돌, 멤버 불명 · Aespa Whiplash Los Angeles 10/2/2026 Concert Fancam
+- KLohDGEjzFQ 시애틀 261009 직캠 3곡, 멤버 불명 · 261009 에스파 aespa - Next Level, SHAKIN' & Supernova (4k fancam)
+- YTOfHMfYIUY 카리나 서울 "260807-8": 8/7·8/8 중 어느 날인지 불명 · 260807-8 에스파 카리나 aespa KARINA SOLO 🎵16bit 직캠 @SYNK_ COMPLæXITY26-27 SEOUL
+- b1glYJUuiA0 카리나 서울 "260807-8": 8/7·8/8 중 어느 날인지 불명 · 260807-08 "Drama” aespa 2026-27 LIVE TOUR -SYNK: COMPLaeXITY IN SEOUL 에스파 aespa 카리나  karina 4K 60 직캠
+- EQTH1XbiO4I 멤버 불명(제목에 멤버·단체 표기 없음) · [260915] aespa 에스파 | Armageddon | LIVE TOUR SYNK : COMPLæXITY Hamilton CANADA Fancam 직캠 #aespa #에스파
+- 8TbSnxBxRX0 멤버 불명(제목에 멤버·단체 표기 없음) · aespa (에스파) 'Black Mamba' SYNK : COMPLæXITY NYC 260918
+- RL5uIGq6LIw 멤버 불명(제목에 멤버·단체 표기 없음) · [4K16:9] 에스파 'Supernova'  | aespa | 2026 TIMA 260822
+- tY9wsV6R_Os 멤버 불명(제목에 멤버·단체 표기 없음) · aespa (에스파) 'WDA (Whole Different Animal)' SYNK : COMPLæXITY NYC 260918
+- WjF4iQBXQ1M 멤버 불명(제목에 멤버·단체 표기 없음) · 260911 Aespa 에스파 - Black Mamba in Mexico City
+- B0a98xfIXTo 멤버 불명(제목에 멤버·단체 표기 없음) · Lemonade aespa SYNK COMPLaeXITY 2026 Live Tour Concert Elmont NY Sept 18 UBS Arena
+- AWTLarqz7n8 멤버 불명(제목에 멤버·단체 표기 없음) · aespa (에스파) 'Whiplash' SYNK : COMPLæXITY NYC  260918
+- 45kWQYkqX1w 260719 Lemonade CLASSMaeTE2026 직캠(Coating): 멤버 불명 · 260719 에스파 aespa 🎵LEMONADE 직캠 FANCAM @CLASSMaeTE2026
+- nt4IsxW_jKY TIMA 260822 Camouflage+Can't Help Myself 6분: 멤버 불명 · [4K] 260822 aespa 에스파 'Camouflage' 'Can't Help Myself' Fancam | TIMA 2026 Day 1
+- wcx4ixMZoQk 멤버 불명(제목에 멤버·단체 표기 없음) · [4K] 260822 aespa 에스파 'LEMONADE' Live Fancam | TIMA 2026 Day 1
+- AU3W94Be04w 멤버 불명(제목에 멤버·단체 표기 없음) · aespa (에스파) - Switchblade  Live in Washington, DC  20260922
+- 0yARKI3b7Hk 멤버 불명(제목에 멤버·단체 표기 없음) · 260807 aespa - Black Mamba / 2026-27 aespa LIVE TOUR -SYNK : COMPLaeXITY-
+- sGEEdLq1nxE 멤버 불명(제목에 멤버·단체 표기 없음) · 에스파 æspa 'WDA' TIMA IN HONGKONG 260822
+- zizKA4oo5mw 서울 아닌 Act 2 POV 직캠 24분: 날짜·곡·멤버 불명 · aespa LIVE TOUR SYNK COMPLæXITY - Act 2 POV fancam
+- tUtRVTcTsSk 멤버 불명(제목에 멤버·단체 표기 없음) · aespa (에스파) - Camouflage | Atlanta 260924 | SYNK : COMPLaeXITY Tour
+- nGwqx4Y_R-8 멤버 불명(제목에 멤버·단체 표기 없음) · aespa (에스파) - LEMONADE | Atlanta 260924 | SYNK : COMPLaeXITY Tour
+- L59NYx7ZU9g 멤버 불명(제목에 멤버·단체 표기 없음) · aespa (에스파) - WDA (Whole Different Animal) | Atlanta 260924 | SYNK : COMPLaeXITY Tour
+- 09greW2QfXk 멤버 불명(제목에 멤버·단체 표기 없음) · aespa (에스파) - Whiplash | Atlanta 260924 | SYNK : COMPLaeXITY Tour
+- RrnSMDOLLB8 멤버 불명(제목에 멤버·단체 표기 없음) · aespa (에스파) - Black Mamba | Atlanta 260924 | SYNK : COMPLaeXITY Tour
+- lp0QnKek-lI COMPLæXITY Armageddon & Bite POV 12분: 날짜·도시·멤버 불명 · aespa LIVE TOUR SYNK COMPLæXITY - Armageddon & Bite, POV fancam
+- bDPDl8VXMAA 멤버 불명(제목에 멤버·단체 표기 없음) · aespa (에스파) - Supernova | Atlanta 260924 | SYNK : COMPLaeXITY Tour
+- mXCln9iAOMY 멤버 불명(제목에 멤버·단체 표기 없음) · aespa (에스파) - Next Level | Atlanta 260924 | SYNK : COMPLaeXITY Tour
+- a9RihVOPy_Q SBS 인기가요 UNICON in TOKYO DOME 일본어 버전 Hot Mess: 공연 날짜를 제목에서 알 수 없음(2025년 가능성 큼) · [Spotify Exclusive] aespa 에스파 'Hot Mess (Japanese ver.)' | SBS INKIGAYO UNICON in TOKYO DOME
+- hNvGwGB3_jg 260704 Lemonade '[소울(Soul) 지우] 퍼블릭 직캠': 행사 불명(7/4 음악방송 없음)·누구의 직캠인지 불명, 커버일 수도 · [4K60P] 260704 aespa(에스파) - LEMONADE(레모네이드) [소울(Soul) 지우] 퍼블릭 직캠
+- -YuulFWja7s 멤버 불명(제목에 멤버·단체 표기 없음) · 260807 aespa - 'Till We Die / 2026-27 aespa LIVE TOUR -SYNK : COMPLaeXITY-
+- TXfNdRPk5lU 260807 카리나 Lemonade 사운드체크(리허설): 무대로 담을지 확인 필요 · 260807 에스파 카리나 aespa KARINA sound check”LEMONADE “ aespa LIVE TOUR SYNK:COMPLæXITY in SEOUL
+- 4UTghMBd5Wc 260807 Lemonade 사운드체크(리허설): 무대로 담을지·멤버 불명 · aespa (에스파) - Lemonade Soundcheck Fancam 4K60 (Synk : Complaexity in Seoul 260807)
+- v_YvM70v0K4 멤버 불명(제목에 멤버·단체 표기 없음) · 260807 aespa LIVE TOUR - SYNK : COMPLaeXITY- Whiplash
+- 6p2FzE7urRU 260807 KISS N TELL 서울(Coating): 멤버 불명 · 260807 에스파  aespa 🎵KISS N TELL 직캠 @SYNK_ COMPLæXITY26-27 SEOUL
+- KfFtY7IPMKs 260807-08 카리나 KISS N TELL: 날짜가 이틀 중 하나(8/7/8/8 불명) · [8K] 260807-08 aespa Karina 에스파 카리나 'KISS N TELL' @ SYNK : COMPLæXITY in SEOUL
+- OetZlywwN1c 260807 Drama 서울 콘서트: 멤버 불명 · 260807 aespa – Drama | 에스파 드라마 콘서트 LIVE
+- k3Yx75HJV-w 260929 댈러스 Lemonade+Switchblade+Whiplash+Black Mamba+WDA 17분: 멤버 불명, 곡별 시작 시각 불명 · 260929 aespa(에스파) 'LEMONADE + Switchblade + Whiplash + Black Mamba + WDA'  SYNK:COMPLæXITY in DALLAS
+- wikqkIaD59g 멤버 불명(제목에 멤버·단체 표기 없음) · AESPA (에스파) 'BLACK MAMBA' [4K] 💫 SYNK : COMPLAEXITY TOUR - LOS ANGELES (FULL SONG) - 261003
+- XsK2oeSt89o 멤버 불명(제목에 멤버·단체 표기 없음) · AESPA (에스파) 'SWITCHBLADE' [4K] 💫 SYNK : COMPLAEXITY TOUR - LOS ANGELES (CUT) - 261003
+- s5XQ8IBM9WE 멤버 불명(제목에 멤버·단체 표기 없음) · [260802] aespa 에스파 | Lemonade | Lollapalooza Chicago 2026 Fancam 직캠 #aespa #에스파
+- UmXQugSt37c 멤버 불명(제목에 멤버·단체 표기 없음) · Aespa Synk Concert in Vancouver Oct 11 2026 - Lemonade 4K HD
+- MQX6Zb0iBqI 멤버 불명(제목에 멤버·단체 표기 없음) · [4K 260808] 에스파 aespa " LEMONADE "  @ SYNK : COMPLaeXITY-
+- uhFlRoopyb4 멤버 불명(제목에 멤버·단체 표기 없음) · aespa 에스파 'Whiplash' 4K 직캠｜한양대 축제 260527
+- I9OYNruHXww Lollapalooza Chicago 풀 퍼포먼스: 제목 날짜 20260803(KST 추정)과 현지 공연일 2026-08-02 불일치 → 날짜 확인 필요(8/2로 두면 add 경고). 전체 공연·풀캠 후보 · 20260803 aespa Full Performance at Lollapalooza #aespaAtLollapalooza
+- z1MSNq1U9js 260719-20 KISS N TELL CLASSMaeTE: 날짜 범위, 멤버 불명 · 260719-20 에스파 aespa 🎵KISS N TELL 직캠 FANCAM @CLASSMaeTE2026
+- 7sWc2Tw8d1w MY CLASSMaeTE Japan Fanmeeting Kiss n Tell: 날짜(7/18~20)·멤버 불명 · AESPA "KISS N TELL" LIVE at MY CLASSMaeTE Japan Fanmeeting 2026 ​
+- dMwcIZhmgh4 TIMA 260822 Supernova+LEMONADE 7분(poptforming): 멤버 불명 · 에스파 æspa 'Supernova+LEMONADE' TIMA 260822
+- CXkep0DxEI0 멤버 불명(제목에 멤버·단체 표기 없음) · [4K HDR] aespa(에스파), SHAKIN' - 260808 LIVE TOUR -SYNK : COMPLaeXITY-
+- ufwkYM44xzY 멤버 불명(제목에 멤버·단체 표기 없음) · 260808 aespa SHAKIN' LIVE TOUR - SYNK : COMPLaeXITY -in  Seoul
+- IErRDsWe-VA 260723 KISS N TELL 'Fuji TV STAR': 방송/행사 정식명 불명, 멤버·type 불명 · 260723 aespa エスパ​ performing KISS N TELL at Fuji TV STAR
+- cDV_NWODcQw 멤버 불명(제목에 멤버·단체 표기 없음) · [4K] aespa LIVE TOUR - SYNK：COMPLæXITY Seoul - Switchblade 20260807
+- sBlXa77cr_c 260807-8 카리나&윈터 Serenade: 날짜가 이틀 중 하나(8/7/8/8 불명) · 260807-8 에스파 카리나&윈터 aespa KARINA&WINTER🎵SERENADE 직캠 @SYNK_ COMPLæXITY26-27 SEOUL
+- 2hXqlVgKFxc 260807-08 카리나 Bite: 날짜가 이틀 중 하나(8/7/8/8 불명) · 260807-08 bite aespa 2026-27 LIVE TOUR -SYNK: COMPLaeXITY IN SEOUL 에스파 aespa 카리나  karina 4K 60 직캠
+- 38REqbGyVNI 멤버 불명(제목에 멤버·단체 표기 없음) · 260918 aespa 에스파 'Next Level' aespa SYNK: COMPLæXITY in Belmont Park NEW YORK FanCam 직캠
+- eg4Z8RCOdTk 260911 멕시코시티 Whiplash+Black Mamba+WDA 9분: 멤버 불명 · aespa (에스파) - 20260911 - Whiplash + Black Mamba + WDA - Mexico City [Fancam / 직캠]
+- _IYynxzquik 멤버 불명(제목에 멤버·단체 표기 없음) · 260802 AESPA 'Next Level' 4K LOLLAPALOOZA '26 CHICAGO
+- S2V6XUpAn7g Lollapalooza 1분 클립, 곡·멤버 불명 · Aespa performance at Lollapalooza 2026, Karina, Giselle, Winter & Ningning Light Up at Lollapalooza
+- BW7zEumV1tg 260807-08 지젤 BYEB4HELLO: 날짜가 이틀 중 하나(8/7/8/8 불명) · [4K] 260807-08 aespa LIVE TOUR SYNK COMPLæXITY 'BYEB4HELLO' GISELLE solo fancam 에스파 콘서트 지젤 솔로 직캠
+- axRnkTPMqZA Lollapalooza Chicago 'Performance Highlights' 57분: 이름은 하이라이트인데 길이는 풀셋급 → 풀 영상인지 확인 필요(8/2 풀캠 후보) · aespa LIVE at Lollapalooza Chicago 2026 | Performance Highlights (4K)
+- 4G-eGLoTsCk 멤버 불명(제목에 멤버·단체 표기 없음) · AESPA (에스파) 'TIL WE DIE' [4K] 💫 SYNK : COMPLAEXITY TOUR - LOS ANGELES (FULL SONG) - 261003
+- COnt0Q5_aAk 멤버 불명(제목에 멤버·단체 표기 없음) · 20260807 aespa 4th World Tour ‘SYNK  COMPLaeXITY’ in Seoul ‘Til We Die
+- qZv9cDuYxN0 멤버 불명(제목에 멤버·단체 표기 없음) · [4K HDR] aespa(에스파), Camouflage - 260807 LIVE TOUR -SYNK : COMPLaeXITY-
+- 2vy40_e7mVo 260807 서울 Switchblade+Whiplash+Black Mamba 10분(poptforming): 멤버 불명 · 에스파 æspa 'Switchblade+Whiplash+Black Mamba' æspa TOUR -SYNK : COMPLaeXITY 260807
+- v6xAnZYhVtE 멤버 불명(제목에 멤버·단체 표기 없음) · 260807 aespa - Bite / 2026-27 aespa LIVE TOUR -SYNK : COMPLaeXITY-
+- XkrsOlfFb3I 멤버 불명(제목에 멤버·단체 표기 없음) · 260807 aespa - WDA (Whole Different Animal) | aespa Concert SYNK: COMPLaeXITY fancam 에스파 콘서트 직캠
+- 7L483nf2KCY 멤버·직캠/풀캠 불명(서울 2026-08-07 Lemonade, 3:20) · 에스파 æspa 'LEMONADE' æspa TOUR -SYNK : COMPLaeXITY 260807
+- JPxk92My_Cs 날짜 7일·8일 중 불명(제목 260807-08) · 제안: 날짜 확인 후 SYNK : COMPLæXITY 서울, 카리나 Bite · [4K][FANCAM] 260807-08 aespa KARINA 에스파 카리나 'Bite' 직캠 @SYNK : COMPLaeXITY
+- vPda55kNQ3A 날짜 7일·8일 중 불명(제목 260807-08) · 제안: 카리나 Lemonade · [4K] 260807-08 aespa Karina 에스파 카리나 'Lemonade' 직캠 2026-27 aespa SYNK : COMPLaeXITY Seoul
+- 4FQBQpajShE 날짜·멤버 불명(Spinel CAM, 서울 Lemonade 3:24) · aespa 에스파 'LEMONADE' 직캠｜aespa concert SYNK : COMPLæXITY
+- vXWOmBHwSyU 날짜 7일·8일 중 불명(제목 260807-08) · 제안: 카리나 16 Bit · [4K] 260807-08 에스파 카리나 aespa KARINA SOLO  - 16 Bit FANCAM 직캠 @ SYNK : COMPLæXITY in SEOUL
+- zcZLXO_i1YY 날짜 7일·8일 중 불명 + 곡 없음(윈터&카리나 여러 곡) · [4K] 260807-260808 aespa WINTER & KARINA FANCAM @ SYNK : COMPLæXITY with @flux_0411
+- ygXxDaOy_fA 멤버 불명(서울 2026-08-08 Thirsty 직캠) · 260808 aespa - Thirsty | aespa Concert SYNK: COMPLaeXITY fancam 에스파 콘서트 직캠
+- edqvDpI8BSE 멤버·직캠/풀캠 불명(서울 2026-08-08 Switchblade 4K HDR) · [4K HDR] aespa(에스파), Switchblade (Feat. Ty Dolla $ign) - 260808 LIVE TOUR -SYNK : COMPLaeXITY-
+- O1jKirEgkE0 멤버·직캠/풀캠 불명(서울 2026-08-08 Bite 4K HDR) · [4K HDR] aespa(에스파), Bite - 260808 LIVE TOUR -SYNK : COMPLaeXITY-
+- pXK8mumEmdM 멤버·직캠/풀캠 불명(서울 2026-08-08 'Til We Die + Ending 6:57) · [4K HDR] aespa(에스파), ’Til We Die + Ending - 260808 LIVE TOUR -SYNK : COMPLaeXITY-
+- cwpvRCh88Js 날짜 7일·8일 중 불명(제목 260807-08) · 제안: 윈터 Saddle Up · [4K] 260807-08 에스파 윈터 aespa WINTER 'Saddle Up' 직캠 (SYNK : COMPLæXITY - in SEOUL)
+- qA7RgR3JSK0 날짜·곡 없음(KpopHots 카리나 직캠, 행사 불명) · aespa 에스파 KARINA 카리나 직캠 Fancam Ver KpopHots
+- d1_EdJP809o 멤버·직캠/풀캠 불명(시애틀 2026-10-09 Whiplash) · 261009 AESPA SEATTLE CONCERT - WHIPLASH
+- yLTxJ8nj5OU 날짜·멤버 불명(Spinel CAM, 서울 WDA 2:22) · 에스파 'WDA (Whole Different Animal)' 직캠｜aespa concert SYNK : COMPLæXITY
+- A_Be9zo5jYA 멤버·직캠/풀캠 불명(타이베이 2026-08-11 'Til We Die 6:15) · aespa 에스파 ' ’Til We Die ' | 260811 aespa LIVE TOUR-SYNK : COMPLaeXITY in TAIPEI
+- sIn9GWOaNNY 멤버·직캠/풀캠 불명(타이베이 2026-08-11 'Til We Die 6:13) · aespa 에스파 ' ’Til We Die ' | 260811 aespa LIVE TOUR-SYNK : COMPLaeXITY in TAIPEI
+- PQsrtJ1EaNQ 멤버·직캠/풀캠 불명(해밀턴 2026-09-15 Next Level, K-POP Concert Highlights) · 260915 ‘Next Level’ - aespa (에스파) - SYNK : COMPLaeXITY - HAMILTON 4K60
+- cbZRKQy-AyU 멤버·직캠/풀캠 불명(해밀턴 2026-09-15 WDA) · 260915 ‘WDA (Whole Different Animal)’ - aespa (에스파) - SYNK : COMPLaeXITY - HAMILTON 4K60
+- Yf5wT25m_RU 멤버·직캠/풀캠 불명 + 0:47 쇼트(뉴욕 2026-09-18 Switchblade) · aespa (에스파) 'Switchblade' SYNK : COMPLæXITY NYC 260918 (Short Version)
+- FIf1rpTTyh4 멤버·직캠/풀캠 불명(뉴욕 2026-09-18 Next Level; 같은 채널 Lemonade는 Full Stage라 담음) · aespa (에스파) 'Next Level' SYNK : COMPLæXITY NYC 260918
+- u9-R_CFxSC8 멤버·직캠/풀캠 불명(서울 2026-08-07 Shakin' Day1) · Shakin 260807 에스파 (aespa) 2026 SYNK: COMPLaeXITY Day1
+- c6HXMt_wJ_U 멤버 불명(TIMA 2026 Day1 2026-08-22 Whiplash; 기존 e438에 넣을 수 있음) · [4K] 260822 aespa 에스파 'Whiplash' Live Fancam | TIMA 2026 Day 1
+- nIa1WqJ_sNM 제목 날짜 260823이나 에스파 TIMA 2026은 08-22 하루뿐(위키·기존 e438) · 날짜 오기 가능, 카리나 Supernova · 260823| SUPERNOVA - AESPA [KARINA FANCAM]
+- fQX83FNAU5A 제목 날짜 260823이나 에스파 TIMA 2026은 08-22 하루뿐 · 카리나 Lemonade · 260823| LEMONADE - AESPA [KARINA FANCAM]
+- NOiYPUpnoeA 제목 날짜 260823이나 에스파 TIMA 2026은 08-22 하루뿐 · 닝닝 Supernova · 260823| SUPERNOVA - AESPA [NINGNING FANCAM]
+- 67I3T4UeYe0 날짜 07-08-2026 표기 모호(8/7 또는 7/8?) · 제안: 2026-08-07 서울 윈터 Whiplash이면 확인 · 《Whiplash》aespa 2026–27 aespa LIVE TOUR – SYNK : COMPLæXITY 07-08-2026 winter 4k focus cam
+- 4Wa14p8n5XU 날짜 불명(일본 후지TV STAR 출연 Kiss n Tell; 위키상 2026-07-23 방송 한 번뿐이라 맞다면 show=STAR, type=full 제안) · [4K+60FPS] aespa 'KISS N TELL' from Fuji Television [STAR]
+- g5Z7ie7Qzbw 멤버·직캠/풀캠 불명(상파울루 Count on Me + Camouflage + Angel #48 10:09) · 260904 aespa(에스파) - Count on Me + Camouflage + Angel #48
+- 8ywL2yRx-TQ 멤버·직캠/풀캠 불명(상파울루 'Til We Die 4:23) · 260904 aespa(에스파) - Till We Die
+- VvFxrpnn_4Y 멤버 불명 + 0:58 쇼트(상파울루 Switchblade) · 260904 에스파 브라질 콘서트 Switchblade 직캠
+- H3aJLTg6k0k 멤버·직캠/풀캠 불명(LA 2026-10-03 Kiss n Tell) · [4k] 261003 AESPA 아스파  SYNK : COMPLæXITY KISS N TELL 직캠 @SYNK : COMPLæXITY LA fancam
+- krLKFSqKWNg 멤버 불명(산티아고 2026-09-06 Serenade; 유닛곡이라 카리나·윈터 추정 불가) · 260906 Aespa in Chile - Serenade
+- 8lp5EOQYOHM 멤버·직캠/풀캠 불명(산티아고 2026-09-06 Armageddon) · 260906 Armageddon - Aespa Synk Complaexity Tour in Santiago, Chile
+- YCmBiHK9mp4 멤버·직캠/풀캠 불명(산티아고 2026-09-06 Whiplash, 06092026) · 06092026 - WHIPLASH AESPA IN SANTIAGO CHILE - SYNK COMPLÆXITY TOUR
+- SVSi5EQq5RQ 멤버 불명(산티아고 2026-09-06 Lollipop 유닛곡, 060926) · LOLLIPOP - AESPA Synk complexity - Concert in Chile - 060926
+- CPPGPjZHgRg 날짜 7일·8일 중 불명(제목 260807-08) · 제안: 카리나 Kiss n Tell · [4K] 260807-08 aespa Karina 에스파 카리나 'KISS N TELL' 직캠 2026-27 aespa SYNK : COMPLaeXITY Seoul
+- 8K0HnURIPEA 행사·곡 불명(카리나 260907 클립 6:05; 9/7엔 공연 없음) · aespa - karina 260907 #kpopfap #aespa
+- _DaHc7ahApc 행사·곡 불명(카리나 260908 클립; 9/8엔 공연 없음) · aespa - karina 260908 #kpopfap #aespa
+- fOR2-g7NgXo 멤버·직캠/풀캠 불명 + 6:52(멕시코시티 Lemonade 등 여러 곡 가능) · 1. LEMONADE - aespa SYNK : COMPLaeXITY Tour in Mexico 2026
+- 6NQE-sJ2wWw 멤버·직캠/풀캠 불명 + 6:44(리마 Switchblade + Whiplash) · 🩵💜AESPA (에스파) en Lima 2026: Switchblade + Whiplash | Costa 21 Duomo (4K 60fps)
+- 5WZsDXxGowg 멤버·직캠/풀캠 불명(시애틀 2026-10-09 Switchblade) · 261009 AESPA SEATTLE CONCERT - SWITCHBLADE
+- 5XNRBbJTWvc 멤버 불명 + 여러 곡 16:57(시애틀 2026-10-09) · 261009 에스파 aespa - Lemonade, Switchblade, Whiplash, Black Mamba & WDA (4k fancam)
+- lE2YaFwhmSI 멤버·곡 불명 + 18:25(시애틀 2026-10-09, 3/6) · aespa 에스파 SYNK : COMPLAEXITY World Tour in Seattle 261009 직캠 (3/6)
+- TV3IDO5TZ7A 멤버·직캠/풀캠 불명(멕시코시티 2026-09-11 WDA) · aespa (에스파) - WDA (Whole Different Animal) [SYNK : COMPLæXITY] [Mexico City] [4K] [260911]
+- 0sYQYBt-Amc 멤버·직캠/풀캠 불명(멕시코시티 2026-09-11 Lemonade, Chris) · 260911 Aespa 에스파 - Lemonade in Mexico City
+- keq1QjiepkQ 멤버·직캠/풀캠 불명(멕시코시티 2026-09-11 Lemonade, Photographleb) · aespa (에스파) - LEMONADE [SYNK : COMPLæXITY] [Mexico City] [4K] [260911]
+- rQHG1FgH1sQ 멤버·직캠/풀캠 불명(멕시코시티 2026-09-11 Whiplash, Chris) · 260911 Aespa 에스파 - Whiplash in Mexico City
+- 7VwTsFZOCYw 멤버·직캠/풀캠 불명(멕시코시티 2026-09-11 Black Mamba) · aespa (에스파) - BLACK MAMBA [SYNK : COMPLæXITY] [Mexico City] [4K] [260911]
+- kb_VYV2UR50 멤버·직캠/풀캠 불명(멕시코시티 2026-09-11 Whiplash, Photographleb) · aespa (에스파) - WHIPLASH [SYNK : COMPLæXITY] [Mexico City] [4K] [260911]
+- 51mHib8mHCk 멤버·직캠/풀캠 불명 + 10:11(리마 Next Level + Shakin' + Supernova) · 🩵💜AESPA (에스파) en Lima 2026: NEXT LEVEL + SHAKIN' + Supernova | Costa 21 Duomo (4K 60fps)
+- TN2WGOjugzM 곡 없음 + 0:46 쇼트(카리나 멕시코시티 직캠) · KARINA 카리나 260911 멕시코시티 직캠 | aespa Mexico City Palacio de los Deportes #Karina #aespa
+- K8Xv7C0zLXU 멤버·직캠/풀캠 불명(해밀턴 2026-09-15 Shakin') · 260915 ‘SHAKIN’’ - aespa (에스파) - SYNK : COMPLaeXITY - HAMILTON 4K60
+- kPHggHBe3Mo 멤버·직캠/풀캠 불명(해밀턴 2026-09-15 Black Mamba) · 260915 ‘Black Mamba’ - aespa (에스파) - SYNK : COMPLaeXITY - HAMILTON 4K60
+- TQ6qQFMHuVs 멤버·직캠/풀캠 불명(해밀턴 2026-09-15 Can't Help Myself) · 260915 ‘Can’t Help Myself’ - aespa (에스파) - SYNK : COMPLaeXITY - HAMILTON 4K60
+- o-1GRLZ9JXk 멤버·직캠/풀캠 불명(해밀턴 2026-09-15 'Til We Die Encore) · 260915 ‘’Til We Die (Encore)’ - aespa (에스파) - SYNK : COMPLaeXITY - HAMILTON 4K60
+- er9ghmLY5Dk 곡 불명(카리나 해밀턴 2026-09-15 직캠 5:41, 여러 곡 추정) · KARINA 카리나 AESPA FANCAM 직캠 — Hamilton Ontario Live 260915 #KARINA #카리나 #AESPA #SYNKCOMPLAEXITY #직캠
+- yia5BFaefME 멤버·직캠/풀캠 불명(멕시코시티 2026-09-11 Armageddon) · 260911 Aespa 에스파 - Armageddon in Mexico City
+- WLnE53cW0s0 여러 곡·멤버 불명 28:25(멕시코시티 2026-09-11 Lollipop+솔로 모음 추정) · 260911 AESPA COMPLÆXITY WORLD TOUR IN MEXICO CITY - "LOLLIPOP"+"KARINA,WINTER,NINGNING,GISELLE 
+- iH36qzETKBQ 멤버·직캠/풀캠 불명(멕시코시티 2026-09-11 Whiplash, Rodi Mena) · [4K] aespa - WHIPLASH | LIVE TOUR - SYNK: COMPLÆXITY - IN MEXICO CITY 260911
+- VD4LHa6VU8s 멤버·직캠/풀캠 불명(멕시코시티 2026-09-11 Bite) · 20. Bite - aespa SYNK : COMPLaeXITY Tour in Mexico 2026
+- oSBkttMmXDE 방송일 불명: 엠카운트다운 EP.946 추석 특집 Spicy(EP.943=08-27, EP.949=10-15이라 09-17 또는 09-24 · 기존 데이터에 EP.944~948 없음) · [추석 특집] aespa (에스파) - Spicy #엠카운트다운 EP.946
+- -D38HdnfZ9s 멤버 불명(뉴욕 2026-09-18 Lemonade FanCam) · 260918 aespa 에스파 'LEMONADE' aespa SYNK: COMPLæXITY in Belmont Park NEW YORK FanCam 직캠
+- 2lO4wj2MIoM 날짜·멤버·곡 불명 32:33(Solo Stage POV fancam) · aespa LIVE TOUR SYNK COMPLæXITY - Solo Stage POV fancam
+- QnUn20KOP70 멤버·직캠/풀캠 불명(애틀랜타 2026-09-24 Kiss n Tell) · aespa (에스파) - KISS N TELL | Atlanta 260924 | SYNK : COMPLaeXITY Tour
+- Rw9LdTmreLY 멤버·직캠/풀캠 불명(애틀랜타 2026-09-24 Armageddon) · aespa (에스파) - Armageddon | Atlanta 260924 | SYNK : COMPLaeXITY Tour
+- EhKlJ9H7iNw 멤버·직캠/풀캠 불명(애틀랜타 2026-09-24 Bite) · aespa (에스파) - Bite | Atlanta 260924 | SYNK : COMPLaeXITY Tour
+- fSB9-46sx_E 멤버 불명(마이애미 2026-09-26 Black Mamba FANCAM) · 260926 에스파 AESPA - BLACK MAMBA! (FANCAM) SYNK Complaexity World Tour. Night 4, Miami, FL. #aespa 
+- pt27UNOy6FI 제목 날짜 092526(9/25)에 공연 없음(애틀랜타 9/24, 마이애미 9/26) · 카리나·윈터 Serenade · [4k]092526 | 에스파(aespa) KARINA 카리나 WINTER 윈터 -🎵 SERENADE 직캠
+- rUUq8cMRVC0 멤버 불명 + 여러 곡 9:27(시애틀 2026-10-09) · 261009 에스파 aespa - Armageddon, Bite & Dirty Work / Dark Arts (Dance Interlude) (4k fancam)
+- EQ7aFeCd8DA 멤버 불명(댈러스 2026-09-29 Lollipop FANCAM) · 260929 aespa 에스파 [SYNK: COMPLaeXITY in Dallas] - Lollipop (4K FANCAM)
+- U_cuuyrhAgg 멤버 불명(워싱턴 2026-09-22 Armageddon; 채널명 윈터캠이나 제목에 멤버 없음) · [4K] 09222026 aespa - Armageddon in DC
+- KZ71reuJF0I 멤버·직캠/풀캠 불명(LA 2026-10-03 Whiplash FULL SONG) · AESPA 'WHIPLASH'  [4K] 💫 SYNK : COMPLAEXITY TOUR - LOS ANGELES (FULL SONG) - 261003
+- IMW3I31pVqU 멤버·직캠/풀캠 불명(LA 2026-10-03 Kiss n Tell FULL SONG) · AESPA (에스파) 'KISS N TELL' [4K] 💫 SYNK : COMPLAEXITY TOUR - LOS ANGELES (FULL SONG) - 261003
+- D0zWu7TEpQ8 멤버·직캠/풀캠 불명(LA 2026-10-03 Lemonade FULL SONG) · AESPA (에스파) 'LEMONADE'  [4K] 💫 SYNK : COMPLAEXITY TOUR - LOS ANGELES (FULL SONG) - 261003
+- ir7rA4y6_hA 멤버·직캠/풀캠 불명(LA 2026-10-03 WDA FULL SONG) · AESPA (에스파) 'WDA (WHOLE DIFFERENT ANIMAL)'  [4K] 💫 SYNK : COMPLAEXITY TOUR - LA FULL SONG 261003
+- Y8ruGXjDSi0 멤버 불명(오클랜드 2026-10-06 Lemonade) · 261006 AESPA @Oakland Arena 4K Fancam | LEMONADE
+- AXdM-Mgg-1g 멤버 불명(오클랜드 2026-10-06 WDA) · 261006 AESPA @Oakland Arena 4K Fancam | WHOLE DIFFERENT ANIMAL
+- oBPJ-7VujmY 시애틀 261009: 직캠 대상 멤버 불명(Serenade 4k fancam, 설명에 Giselle 중간 퇴장 메모만) · 261009 에스파 aespa - Serenade (4k fancam)
+- qxK2IIofmIY 시애틀 261009: 멤버/풀캠 여부 불명(Next Level) · 261009 AESPA SEATTLE CONCERT - NEXT LEVEL
+- a6wM1SqSYc4 해밀턴 09-15 Armageddon: 멤버/풀캠 여부 불명 · Armageddon - aespa - Hamilton, Canada [Sep 15 2026]
+- z4KS3xjnxwQ 260807-08 두 날짜 중 어느 날인지 제목·설명으로 정할 수 없음(서울 08-07/08-08) · [4K] 260807-08 aespa LIVE TOUR SYNK COMPLæXITY 'Switchblade' GISELLE fancam 에스파 콘서트 지젤 직캠
+- UVY062NIS9E 260807-08 두 날짜 중 어느 날인지 제목·설명으로 정할 수 없음(서울 08-07/08-08) · [4K] 260807-08 aespa LIVE TOUR SYNK COMPLæXITY 'Bite' GISELLE fancam 에스파 콘서트 지젤 직캠
+- F2rQQiC7DYQ 260807-08 두 날짜 중 어느 날인지 제목·설명으로 정할 수 없음(서울 08-07/08-08) · [4K] 260807-08 aespa LIVE TOUR SYNK COMPLæXITY 'SHAKIN' GISELLE fancam 에스파 콘서트 지젤 직캠
+- WfmGZa05kOA 날짜·행사·곡 없음(카리나 직캠 이름만) · aespa 에스파 KARINA 카리나 직캠 Fancam Ver KpopHots
+- U6Ios_npE_Y 260807-08 두 날짜 중 어느 날인지 제목·설명으로 정할 수 없음(서울 08-07/08-08) · [4K] [260807-08] 에스파 aespa 지젤 (Giselle) 'BYEB4HELLO' 직캠 @ SYNK:COMPLaeXITY in SEOUL
+- UK55TMUF-_I 날짜·행사 없음(Whiplash 카리나 직캠, 업로드 2026-10-22 추정) · 에스파 카리나 직캠 ‘Whiplash’ (aespa KARINA Fancam)
+- MYxKFCvKxUQ 멤버 없음: 한국외대 260602 Lemonade, 해시태그로 4명 모두 나열(단체 표기 없음) · LEMONADE | aespa fancam #에스파 #직캠 #카리나 #윈터 #닝닝 #지젤 #한국외대 #260602
+- m6cjVbcSfDA 워터밤 서울 2026 날짜를 제목·메타에서 확인 못 함 · [4K] 2026 워터밤 서울 에스파 카리나(aespa KARINA) - LEMONADE 직캠 | WATERBOMB SEOUL 2026
+- weiGuhPwZ9g 날짜·행사 없음(Lemonade 윈터 직캠, 업로드 2026-10-19 추정) · 에스파 윈터 직캠 ‘Lemonade’ (aespa WINTER Fancam)
+- 7SmAdPmbPPI 260807-08 두 날짜 중 어느 날인지 제목·설명으로 정할 수 없음(서울 08-07/08-08) · 260807-0808 에스파 윈터 aespa winter ’SWITCHBLADE‘ 직캠
+- v9o-hljWpF0 롤라팔루자 2026 날짜·개최지 확인 못 함 · AESPA - LEMONADE - WINTER FANCAM | LOLLAPALOOZA 2026
+- ejJUXcQM9mc 날짜·행사 없음(윈터 Drama, 설명 없음) · 정말정말미친여자 #윈터 #Drama #에스파
+- NKPcPkBVpRE 날짜 없음: 투어 어느 도시인지 모름(Saddle Up 윈터, 업로드 09-17) · WINTER 윈터 'Saddle Up' @2026-27 aespa LIVE TOUR - SYNK : COMPLæXITY
+- qZ5-lG0UUjI 곡 없음(멕시코시티 260911 카리나 직캠, 곡 불명) · KARINA 카리나 AESPA Mexico City 직캠 — SYNK: COMPLæXITY Live 260911 #KARINA #카리나 #AESPA #에스파
+- 2fi0oa5X9O8 날짜·행사·곡 없음(카리나 직캠 이름만) · aespa karina fancam
+- 3sg_C0SCuBc 시애틀 261009: 멤버/풀캠 여부 불명(Lemonade) · 261009 AESPA SEATTLE CONCERT - LEMONADE
+
+## 트리플에스 (220개)
+
+- N09Hf8EDayw 두근두근썸머동구 두두썸동 전체영상: 제목에 날짜 없음(UOGmT2oPQ8o 제목 260725 - optional 파일) · (8K60P 고화질) 트리플에스(tripleS) 💕 전체영상 💚 두근두근썸머동구 두두썸동 8K영상 (James Lee TV)
+- WMqxzbsHRXA [SDA 2026] 축하무대: 제목에 날짜·곡 없음(같은 행사 DQo290_xRhE는 261008 방송 Baby Flower - optional 파일) · [SDA 2026] 트리플에스(tripleS) 축하무대
+- _PwWeeKGSqg MyK FESTA DAY1 깨어: 제목에 날짜 없음(같은 행사 Q0z9mRPngPc 제목 260626 - optional 파일) · tripleS(트리플에스) - 깨어 | 2026 MyK FESTA | MyK Live DAY1
+- wyEA7r_FKMY 261011 Psycho 직캠인데 멤버 불명(제목에 멤버 없음). 투어 Day2 · [4K] 261011 트리플에스 tripleS - Psycho 직캠 | ANDLESS in Seoul
+- 4bMeTS4hOSA 261011 Hit the Floor 직캠인데 멤버 불명(걸그룹갤러리) · 261011 트리플에스 Hit the Floor 직캠 4K60p tripleS fancam
+- KMcX9GbFztE 260530 엠카운트다운 Baby Flower 직캠인데 멤버 불명(걸그룹갤러리) · 260530 tripleS(트리플에스) Baby Flower 직캠 4K60p 엠카운트다운 X 메가콘서트
+- KqTP4PmiReg 날짜가 261010-11 두 날 중 하나 불명(김채연 World Wild Women) · [4K] 261010-11 트리플에스 tripleS 김채연 ChaeYeon World Wild Women 직캠 fancam @2026 tripleS WORLD TOUR 콘서트
+- ddwB0FeiacM 주주2 무대캠 "곡 | 투어 | Day 1", 직캠/멤버 표기 없어 풀캠으로 본 추정 (optional 파일) · 261010 tripleS (트리플에스) | ANDLESS |  2026 tripleS World Tour ⟨ANDLESS⟩ in Seoul | Day 1
+- IU48v5tnw34 제목은 뮤직뱅크 260612 Baby Flower(KBS WORLD)인데 06-12 방송 setlist(e475)는 Sad Girls Schemin'뿐이고 Baby Flower 무대는 06-05(e470). 06-05 방송분의 재방/업로드 날짜일 수 있어 확인 필요(dry-run도 setlist 경고) · Baby Flower - tripleS 트리플에스 [Music Bank] | KBS
+- UJfG4N2nQz0 제목은 뮤직뱅크 260612 Baby Flower(KBS WORLD)인데 06-12 방송 setlist(e475)는 Sad Girls Schemin'뿐이고 Baby Flower 무대는 06-05(e470). 06-05 방송분의 재방/업로드 날짜일 수 있어 확인 필요(dry-run도 setlist 경고) · tripleS トリプルエス 트리플에스 - Baby Flower [Music Bank
+- Jt919dahk9o 261010 24 직캠인데 멤버 불명(햄햄햄) · 261010 24 - tripleS World tour Andless in Seoul 직캠 4K60P
+- swRnA365whY Andless 공식 Performance Stage @ANDLESS in Seoul: 제목에 날짜 없음(10/10·10/11 중 불명), 공식 퍼포먼스 영상이라 무대 영상인지도 확인 필요 · tripleS(트리플에스) ‘Andless’ Official Performance Stage @ANDLESS in Seoul
+- d5EzIZ3a61M 261010 유닛 무대 4곡(CHEER UP, 누난 너무 예뻐, Psycho, Mr.Mr.) 합본, 멤버 불명 - 제목에 단체/완전체 없음 · 261010 트리플에스 유닛 무대 직캠 CHEER UP, 누난 너무 예뻐, Psycho, Mr.Mr. 4K60p tripleS fancam
+- mVgWtpK1AlM 260827 강진하맥축제 Girls Never Die 직캠인데 멤버 불명, 행사 이름도 확실하지 않음 · 260827 트리플에스 tripleS 'Girls Never Die' 4K 60P 직캠 @강진하맥축제 by DaftTaengk
+- ZEfJYBirv78 THE IDOL x Nikon 가로 직캠: 제목에 멤버·유닛 없음(Day로 날짜는 확정). 가로 와이드 풀캠으로 보면 optional 파일 · [4K] tripleS(트리플에스) 「Hit The Floor」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1
+- 5tO0LmScWJE 260513 Full ver. 5곡(깨어+Rising+Love2Love+Non Scale+Girls Never Die) 학교 이름 없음: 같은 날 가천대(e464)와 UNIST 두 행사가 있어 어느 쪽인지 불명(25:27은 UNIST 풀 25:31과 길이가 비슷) · 260513 트리플에스 tripleS Full ver 'Are You Alive+Rising+Love2Love+Non Sc
+- 6D3ec9MbONo THE IDOL x Nikon 가로 직캠: 제목에 멤버·유닛 없음(Day로 날짜는 확정). 가로 와이드 풀캠으로 보면 optional 파일 · [4K] tripleS(트리플에스) 「Diablo」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1
+- l6CnDAUDVhM [MPD직캠] 트리플에스 Andless 엠카운트다운 261022: 멤버 표기 없음(공식 M2 채널, optional 파일) · [MPD직캠] 트리플에스 직캠 8K 'Andless' (tripleS FanCam) | @MCOUNTDOWN_2026.10.22
+- XQyAsF6tE64 261011 깨어 직캠인데 멤버 불명(일육영) · [4K] 261011 트리플에스 tripleS - 깨어 (Are You Alive) 직캠 | ANDLESS in Seoul
+- ZBpdnQNkVss THE IDOL x Nikon 가로 직캠: 제목에 멤버·유닛 없음(Day로 날짜는 확정). 가로 와이드 풀캠으로 보면 optional 파일 · [4K] tripleS(트리플에스) 「Sad Girls Schemin'」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day2
+- UWiILGIWwcA 20261010 Diablo 음향사고+앵콜 직캠인데 멤버 불명(Greeming) · [4K 60P 직캠] 20261010 트리플에스(tripleS) "Diablo" 음향사고+앵콜VER @ 2026 tripleS World Tour [ANDLESS]
+- uPR11CDtXJQ 260530 Girls Never Die M COUNTDOWN X MEGA CONCERT: 직캠/풀캠·멤버 표기 없음(optional 파일) · 260530 | Girls Never Die | #트리플에스 #tripleS #トリプルS | M COUNTDOWN X MEGA CONCERT
+- ya-Upe_QIz8 천안 K-컬처 박람회 두시탈출 컬투쇼 Full Ver.: 제목에 날짜 없음(박람회 무대는 260905이므로 같은 날일 가능성 - optional 파일) · tripleS (트리플에스) 2026 천안 K-컬처 박람회 두시탈출 컬투쇼 Full Ver.(Baby Flower + Girls Never Die)
+- rSqjsxA8tbo 조선대 GRACIA 대동제 풀버전: 제목에 날짜 없음(공연 날짜 불명) · [조선대학교 교육방송국] 2026 GRACIA 대동제 tripleS (트리플에스) 4K FULL ver
+- SAuBRWlpWxc 260725 거제 여름해양축제 직캠(20분) 멤버 표기 없음: 풀 영상인지 불명(optional 파일). 같은 날 두근두근썸머동구도 있음 · 260725 tripleS (트리플에스) - 거제 여름해양축제 직캠 (Fancam)
+- jfCwhd7tFqs 260919 Lemonade(aespa 곡) 지우/주빈 직캠: 행사 불명(같은 날 TMA 2026이 있음), 영상 길이 0:49/1:53 · [4K] 260919 트리플에스 tripleS - Lemonade 지우 JiWoo 직캠 fancam
+- Ekpj2Y-BOPU 260919 Lemonade(aespa 곡) 지우/주빈 직캠: 행사 불명(같은 날 TMA 2026이 있음), 영상 길이 0:49/1:53 · [4K] 260919 트리플에스 tripleS - Lemonade 주빈 JooBin 직캠 fancam
+- 1BIa-DdPDZQ 주주2 무대캠 "곡 | 투어 | Day 1", 직캠/멤버 표기 없어 풀캠으로 본 추정 (optional 파일) · 261010 tripleS (트리플에스) | Sad Girls Schemin' | 2026 tripleS World Tour ⟨ANDLESS⟩ in Seoul | Day 1
+- kkKPKFQXH8w 261010 Andless 미공개 신곡 직캠인데 멤버 불명(걸그룹갤러리) · 261010 트리플에스 Andless 미공개 신곡 직캠 4K60p tripleS fancam
+- uWhuU3dVyTI 날짜 261010,261011 두 날 합본, 어느 날인지 불명(주빈 ANDLESS) · [4K] 261010,261011 트리플에스 tripleS 주빈 JOOBIN - ANDLESS fancam. | ANDLESS in Seoul
+- RgwYK50tnUE 주주2 무대캠 "곡 | 투어 | Day 1", 직캠/멤버 표기 없어 풀캠으로 본 추정 (optional 파일) · 261010 tripleS (트리플에스) Aura | Dream Drip | 2026 tripleS World Tour ⟨ANDLESS⟩ in Seoul | Day 1
+- zVvJL6c8RSU 261010 Diablo 음향사고 MULTI FANCAM, 멤버 불명 · [tripleS(트리플에스)] 261010 ANDLESS in Seoul: Diablo 음향사고 - MULTI FANCAM
+- I87yYBKcFig 날짜 261010 261011 두 날 합본(니엔 ANDLESS focus) · 261010 261011 tripleS ANDLESS in Seoul - “ANDLESS” Nien 니엔 focus
+- JD2XYc5PENU 261010 World Wild Women 직캠인데 멤버 불명(햄햄햄) · 261010 World Wild Women - tripleS World tour Andless in Seoul 직캠 4K60P
+- xULjDr81cKU THE IDOL x Nikon 가로 직캠: 제목에 멤버·유닛 없음(Day로 날짜는 확정). 가로 와이드 풀캠으로 보면 optional 파일 · [4K] tripleS(트리플에스) 「Rising」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1
+- 0k760kSISRU THE IDOL x Nikon 가로 직캠: 제목에 멤버·유닛 없음(Day로 날짜는 확정). 가로 와이드 풀캠으로 보면 optional 파일 · [4K] tripleS(트리플에스) 「Non Scale」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1, 261010
+- LAqMU-b8J4c THE IDOL x Nikon 가로 직캠: 제목에 멤버·유닛 없음(Day로 날짜는 확정). 가로 와이드 풀캠으로 보면 optional 파일 · [4K] tripleS(트리플에스) 「Love2Love」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1, 261010
+- EaM8bn77mkE 날짜 261010-261011 두 날 합본(설린 ANDLESS focus) · 261010-261011 tripleS World Tour [ANDLESS] in Seoul Day 1&2 - “ANDLESS” Sullin 설린 focus
+- 2cHX4oxZTLk 20261010 Baby Flower+Bionic Power 직캠인데 멤버 불명(Greeming) · [4K 60P 직캠] 20261010 트리플에스(tripleS) "Baby Flower+Bionic Power" @ 2026 tripleS World Tour [ANDLESS]
+- WSmQZcKT1NM THE IDOL x Nikon 가로 직캠: 제목에 멤버·유닛 없음(Day로 날짜는 확정). 가로 와이드 풀캠으로 보면 optional 파일 · [4K] tripleS(트리플에스) 「Love2Love」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day2, 261011
+- OaJt8b7jr6M 261010 Diablo(음향사고) 직캠인데 멤버 불명(햄햄햄) · 261010 Diablo(음향사고) - tripleS World tour Andless in Seoul 직캠 4K60P
+- tgOxAJU11Uc 261011 World Wild Women 직캠인데 멤버 불명(걸그룹갤러리) · 261011 트리플에스 World Wild Women 직캠 4K60p tripleS fancam
+- r2tH9EfMx74 THE IDOL x Nikon 가로 직캠: 제목에 멤버·유닛 없음(Day로 날짜는 확정). 가로 와이드 풀캠으로 보면 optional 파일 · [4K] tripleS(트리플에스) 「24」 + ENDING 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1
+- nLAdzJkk34s 261010 Love2Love & Detective Soseol 직캠인데 멤버 불명(카르바할) · 261010 트리플에스(tripleS) - Love2Love & Detective Soseol ANDLESS 콘서트 직캠
+- 1SJO6mwtfuk [K-Choreo 8K] Sad Girls Schemin 뮤직뱅크 260612: 멤버 표기 없음(KBS Kpop 공식, optional 파일) · [K-Choreo 8K] 트리플에스 직캠 'Sad Girls Schemin'' (tripleS Choreography) @MusicBank 260612
+- yzOsMAMrCkE 260513 UNIST Girls Never Die 직캠인데 멤버 불명 · 260513 tripleS (트리플에스) - 🎵Girls Never Die @ 유니스트 (UNIST) 축제 직캠 (Fancam) #triples #트리플에스 #unist #유니스트
+- fDA0Xu6VrZE 260513 린 Girls Never Die 직캠, 학교 이름 없음: 같은 날 가천대·UNIST 두 행사 중 불명 · [4K] 260513 트리플에스 tripleS - Girls Never Die 린 Lynn 직캠 fancam
+- Vl7q0VdWEwI 260513 곽연지 Rising: 같은 날 가천대와 UNIST 공연이 둘 다 있어 어느 쪽인지 제목에 없음 · [4K] 260513 트리플에스 곽연지 'Rising' 직캠 //TripleS Kwak YeonJi 'Rising' focus fan cam
+- V00k4YjrxAY 260513 곽연지 깨어: 같은 날 가천대/UNIST 어느 쪽인지 제목에 없음 · [4K] 260513 트리플에스 곽연지 '깨어' 직캠 / TripleS KwakYeonJi 'Are You Alive?' focus fan cam
+- -M8907DrUe8 260513 곽연지 Girls Never Die: 같은 날 가천대/UNIST 어느 쪽인지 제목에 없음 · [4K] 260513 트리플에스 곽연지 'Girls Never Die' 직캠 / TripleS KwakYeonJi 'Girls Never Die' focus fan cam
+- EKDgkavd9xU 가천대 Global Campus FANCAM: 멤버·곡 제목에 없음 · TripleS Gachon University Global Campus #FANCAM 13/05/26
+- jOwu3mQPvGw 서강대 Sogang Spring Festival: RIIZE·The Wind 등 여러 팀 합본, 트리플에스 구간·곡 불명 · 260514 Sogang Spring Festival (RIIZE , TripleS, The Wind)
+- kurgYQIK4KM 울산 음악중심 카메라 리허설(260615 월요일): 기존 6/13 음중과 날짜 안 맞고 멤버 없음 — 공연/날짜 확인 필요 · 260615 트리플에스 tripleS💿Baby Flower [8K 30P] 직캠  카메라 리허설 | 울산 음악중심 | GalaxyMaru
+- VKz75yFLfNs 울산 음악중심 드라이 리허설(260615 월요일): 기존 6/13 음중과 날짜 안 맞고 멤버 없음 — 공연/날짜 확인 필요 · 260615 트리플에스 tripleS💿Baby Flower [4K 30P] 직캠 드라이 리허설 | 울산 음악중심 | GalaxyMaru
+- M9nbbzN3Jqw 서울 Day2 ENDING MENT: 곡 없는 멘트 영상(담을지 결정 필요) · [4K] tripleS(트리플에스) ENDING MENT 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day2, 261011
+- T4hqb78uOzI 260915 강원대 Love2Love 직캠: 멤버 제목에 없음 · 260915 트리플에스(tripleS) - Love2Love 강원대학교 축제 직캠
+- 0n4RpMNds6U 260815 WBSC 장충체육관 공연: 공식 행사명·곡 불명 · [4k] tripleS - WBSC Seoul 가로직캠 fancam│260815 WBSC 장충체육관
+- qS3eDDoTewM 서울 Day1 Sound Check: 리허설·곡 없음(담을지 결정 필요) · [4K] tripleS(트리플에스) Sound Check 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1, 261010
+- k_wdJEGkK9M 260917 공주대 천안캠퍼스 직캠: 멤버·곡 제목에 없음 · 트리플에스 - 공주대학교 천안캠퍼스 축제 직캠 tripleS Fancam 260917
+- SQxAjcjb_Ms 거제여름해양축제 깨어(MBC 엠콘): 날짜 제목에 없음(다른 영상 제목으로는 260725 추정 가능, 확인 필요) · TripleS - 깨어 | 2026 거제여름해양축제
+- tWKqgpsOLjI 260920 박소현 GND 직캠: 행사 불명(그날 알려진 공연 없음) · [4K CAM] 260920 트리플에스 박소현 tripleS Park SoHyun 'Girls Never Die' 직캠
+- c28jX_chNJs 260520 윤서연 깨어(SEABW performance in Bangkok): 같은 날 경인여대/중원대와 충돌, 행사 불명 · [4K] 260520 '깨어' 트리플에스 윤서연 직캠 | SEABW performance in Bangkok
+- GGUy4x1IxgI 260520 설린 깨어 SEABW2026: 같은 날 국내 대학 공연과 충돌, 행사 불명 · [4K] 260520 트리플에스 tripleS - Are You Alive (설린 Sullin 직캠 fancam) SEABW2026
+- 8fYVfP2Yihk 260520 주빈 Love2Love: 경인여대/중원대 중 어느 쪽인지 제목에 없음 · [4K] 260520 트리플에스 tripleS - Love2Love 주빈 JooBin 직캠 fancam
+- FngBDoVqHDE 260520 설린 GND SEABW2026: 같은 날 국내 대학 공연과 충돌, 행사 불명 · [4K] 260520 트리플에스 tripleS - Girls Never Die (설린 Sullin 직캠 fancam) SEABW2026
+- p-Adjw1sHW0 261010 Andless 직캠(AxCam): 멤버 제목에 없음 · 261010 tripleS 트리플에스 - Andless Fancam 직캠 | Andless Seoul Concert Day 1
+- DxEej3xl_44 261010-261011 지우 누난 너무 예뻐: Day1/Day2 중 날짜 불명 · 261010-261011 tripleS World Tour ANDLESS Seoul 누난 너무 예뻐(Replay) JIWOO 캠 4K
+- BkM9vLA42t0 OT24 Concerts in Asia Seoul Day 2: 날짜 불명(위키에 일정 없음, 기간 안인지 불명) · 2026 tripleS OT24 Concerts in Asia [My Secret New Zone] — Seoul Day 2
+- WdnWZnU_aJc 서울 Day1 OPENING MENT: 곡 없는 멘트 영상(담을지 결정 필요) · [4K] tripleS(트리플에스) OPENING MENT 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1, 261010
+- nJ_X8I-9QwM MPD직캠 Baby Flower 엠카 260611: 멤버 제목에 없음 · [MPD직캠] 트리플에스 직캠 4K 'Baby Flower' (tripleS FanCam) | @MCOUNTDOWN_2026.6.11
+- _1ymOV0Uf5U Sad Girls Schemin' 팬쇼케이스 Full cam: 날짜 제목에 없음(pt.1 260601인지 불명) · [4K] tripleS(트리플에스) 「Sad Girls Schemin'」 팬쇼케이스 직캠(Full cam) | ASSEMBLE26 'LOVE & POP' FanShowcase
+- LnaWiG0kVrA 서울 Day2 PHOTO TIME + VCR: 곡 없는 영상(담을지 결정 필요) · [4K] tripleS(트리플에스) PHOTO TIME + VCR 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day2, 261011
+- v8ZLPJCo7pk 260606 Baby Flower 미니 팬미팅 직캠: 멤버 제목에 없음 · 트리플에스(tripleS) Full ver. 'Baby Flower' 미니 팬미팅 (Mini Fanmeeting) 직캠 | 음악중심 • 260606
+- Bo6VMYz4C4s 서울 Day1 BRIDGE MENT 1: 곡 없는 멘트 영상(담을지 결정 필요) · [4K] tripleS BRIDGE MENT 1 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1, 261010
+- V1zFzwKnSEc 260725 김수민 Baby Flower: 같은 날 거제/대구 공연 중 어느 쪽인지 제목에 없음 · 260725 트리플에스 김수민 Baby Flower 직캠 4K60p tripleS fancam
+- 36plP11zSwU KBS WORLD TV Meet On Stage 260612: 뮤직뱅크 무대 편집본인지 불명 · tripleS トリプルエス 트리플에스 - Baby Flower & Sad Girls Schemin' [Meet On Stage] | KBS WORLD TV 260612
+- KFzwjFBlXSs ASSEMBLE26 Special Offline Event 260531: 곡 없음·무대인지 팬 이벤트인지 불명 · [4K] tripleS 정하연(Jeong HaYeon) 주빈(JooBin) 세로 직캠 | ASSEMBLE26 LOVE&POP Special Offline Event, 260531
+- Vv16RPD-zxQ ASSEMBLE26 Special Offline Event 260531: 곡 없음·무대인지 팬 이벤트인지 불명 · [4K] tripleS(트리플에스) 김유연(Kim YooYeon) 세로 직캠 | ASSEMBLE26 LOVE&POP Special Offline Event, 260531
+- GSfDbTwvKjQ ASSEMBLE26 Special Offline Event 260531: 곡 없음·무대인지 팬 이벤트인지 불명 · [4K] tripleS 박소현(Park SoHyun) 린(Lynn) 세로 직캠 | ASSEMBLE26 LOVE&POP Special Offline Event, 260531
+- SCODcpmoUYQ ASSEMBLE26 Special Offline Event 260531: 곡 없음·무대인지 팬 이벤트인지 불명 · [4K] tripleS 공유빈(Gong YuBin) 이지우(Lee JiWoo) 세로 직캠 | ASSEMBLE26 LOVE&POP Special Offline Event,260531
+- ueJ---gAhvk ASSEMBLE26 Special Offline Event 260531: 곡 없음·무대인지 팬 이벤트인지 불명 · [4K] tripleS(트리플에스) 니엔(Nien) 서아(SeoAh) 세로 직캠 | ASSEMBLE26 LOVE&POP Special Offline Event, 260531
+- c5GdoopLLmw ASSEMBLE26 Special Offline Event 260531: 곡 없음·무대인지 팬 이벤트인지 불명 · [4K] tripleS 김채연(Kim ChaeYeon) 신위(Xinyu) 세로 직캠 | ASSEMBLE26 LOVE&POP Special Offline Event, 260531
+- D1d1QmWSMBg 쇼케이스 곽연지 포커스 직캠인데 곡 불명(Sad Girls Schemin'·Baby Flower·Diablo 중 무엇인지 제목에 없음) · [4K] tripleS(트리플에스) 곽연지(Kwak YeonJi) 포커스 직캠 | ASSEMBLE26 'LOVE & POP' pt.1 Media Showcase, 260601
+- dK0zt84yAxs 쇼케이스 공유빈 포커스 직캠인데 곡 불명 · [4K] tripleS(트리플에스) 공유빈(Gong YuBin) 포커스 직캠 | ASSEMBLE26 'LOVE & POP' pt.1 Media Showcase, 260601
+- 82qDxifTJ-w 쇼케이스 전체 영상 33분(질의응답 포함 추정), 제목에 날짜 없음 — 6/1 쇼케이스로 추정되나 확정 못 함 · [FULL] 트리플에스, 24명 소녀들 진정성·간절함 담았다 I tripleS Showcase
+- W9G5sdxPpBo 260719 서아 Baby Flower 직캠 — 7/19 행사명을 제목·자료로 확정 못 함 · [4K] 260719 tripleS 서아 트리플에스 'Baby Flower' 직캠
+- AqKDGDOgZYE KBS WORLD [Meet On Stage] Baby Flower 5분 — 행사/프로그램 성격 불명(뮤직뱅크 6/5 무대와 다른 별도 프로그램일 수 있음) · tripleS トリプルエス 트리플에스 - Baby Flower [Meet On Stage] | KBS WORLD TV 260605
+- W2YNHl49jk0 음중 미니팬미팅(곡 없는 팬미팅·챌린지, 무대 아님 — 담을지 사용자 확인) · [4k] tripleS 정하연 미니팬미팅 fancam │260606 음악중심 미니팬미팅
+- FRfqwajgmOY 음중 미니팬미팅(곡 없는 팬미팅·챌린지, 무대 아님 — 담을지 사용자 확인) · [260606]트리플에스 채연 직캠 풀버전 음악중심 미니팬미팅 tripleS ChaeYeon FANCAM
+- PnT-EhxQwaY 음중 미니팬미팅(곡 없는 팬미팅·챌린지, 무대 아님 — 담을지 사용자 확인) · 260606 음중 트리플에스(tripleS) 미니 팬미팅(Mini Fanmeeting) 공유빈(Gong YuBin) 직캠
+- Zm99fDsuG4k 음중 미니팬미팅(곡 없는 팬미팅·챌린지, 무대 아님 — 담을지 사용자 확인) · 260606 음중 트리플에스(tripleS) 미니 팬미팅(Mini Fanmeeting) 곽연지(Kwak YeonJi) 직캠
+- J-FWFMdgX80 음중 미니팬미팅(곡 없는 팬미팅·챌린지, 무대 아님 — 담을지 사용자 확인) · TripleS 트리플에스 Mini Fan Meeting Introduction 260606
+- oXnRUIicHqI 음중 미니팬미팅(곡 없는 팬미팅·챌린지, 무대 아님 — 담을지 사용자 확인) · 260606 트리플에스 김채연 미니 팬미팅 4K 직캠(tripleS KIMCHAEYEON MINI FANMEETING FANCAM)
+- PAYRig9W30M 음중 미니팬미팅(곡 없는 팬미팅·챌린지, 무대 아님 — 담을지 사용자 확인) · tripleS MBC Show! Music Core Mini Fan Meeting Fancam (Sang-am MBC / 2026.06.06)
+- q2xaJyfjjtE 음중 미니팬미팅(곡 없는 팬미팅·챌린지, 무대 아님 — 담을지 사용자 확인) · 'challenge 모음' 트리플에스 카에데,공유빈 (tripleS Kaede,GongYubin) (260606) @미니팬미팅 Fancam By 천둥
+- nm9yw9EXA7A 음중 미니팬미팅(곡 없는 팬미팅·챌린지, 무대 아님 — 담을지 사용자 확인) · 260606 음중 트리플에스(tripleS) 미니팬미팅(Mini Fanmeeting) 스마트폰 촬영
+- wIajDYjnYEs 음중 미니팬미팅(곡 없는 팬미팅·챌린지, 무대 아님 — 담을지 사용자 확인) · tripleS Kim Yooyeon Comeback Mini Fan Meeting Fancam 260606 @Sangam
+- CvO7ZznRgkg 음중 미니팬미팅(곡 없는 팬미팅·챌린지, 무대 아님 — 담을지 사용자 확인) · 260606 tripleS (트리플에스) 상암 음악중심 미니팬미팅｜tripleS mini fan meeting fancam
+- 0Vw6CZKVvMw 음중 미니팬미팅(곡 없는 팬미팅·챌린지, 무대 아님 — 담을지 사용자 확인) · 260606 tripleS challenge fancam #tripleS #triples
+- nUTD5b6sVVg 두시탈출 컬투쇼 Baby Flower 라이브 — 제목에 날짜 없음(같은 프로그램 260607 영상이 있으나 같은 회차인지 확정 못 함)·라디오 · [LIVE] tripleS (트리플에스) - Baby Flower | 두시탈출 컬투쇼
+- aJRoBVCCZvw 260610 ODS 8분 영상 — 곡·멤버·내용 불명(쇼챔피언 6/10 추정) · 260610 트리플에스(tripleS)
+- S7VmSkHz3vE 261011 Hit the floor + Andless 직캠 — 멤버·단체 여부 불명(제목에 없음) · [4K] 261011 TripleS 트리플에스 Hit the floor + Andless
+- C7WR96Yi-Yw 음중 미니팬미팅(곡 없는 팬미팅·챌린지, 무대 아님 — 담을지 사용자 확인) · tripleS [ Full Video ] MBC Show! Music Core Mini Fan Meeting _ 06/06/26 _ Sangam-dong MBC
+- xDmkWZoBZ8Q [My Secret New Zone] Day1 콘서트 — 날짜가 제목·자료에 없음(업로드 6개월 전이라 4월경, 기간 밖 가능성 높음) · [4K/ZR] tripleS(트리플에스) 정하연(Jeong HaYeon) 「Speed Love」 세로 직캠 | 2026 tripleS [My Secret New Zone] Day1
+- kD-OqxzYidc 260615 울산 음악중심 Baby Flower 직캠 — 멤버 불명(제목에 이름·단체 표기 없음) · 260615 트리플에스 tripleS 'Baby Flower' 4K 60P 직캠 @울산 음악중심 by DaftTaengk
+- f6TTtgHkslg 260909 성결대 축제 15분 5곡 직캠 — 멤버 불명(buchaCAM) · 트리플에스 - "Baby flower" "Rising" "Love2Love" "깨어" "Girls Never Die" [4k직캠] @성결대축제 260909
+- NfSU2GsSvIM 260615 울산 Baby Flower/Girls Never Die 직캠 — 멤버 불명, 두 곡 · [4K] 260615 트리플에스 'Baby Flower / Girls Never Die ( tripleS FAN CAM) l 울산뮤직페스티벌
+- KCZ3T3GvpRY 261018 타이베이 윤서연 직캠 — "World Wild Woman"이 곡명인지 코너명인지 불명 · [tripleS(트리플에스)] 261018 ANDLESS in Taipei: World Wild Woman - YoonSeoYeon 윤서연 FANCAM 직캠
+- vDuZB4KE7nI 260619 윤서연 Baby Flower 직캠 — 6/19 행사명 제목에 없음(금요일, 뮤직뱅크 가능성) · 260619 tripleS 트리플에스 윤서연 'Baby Flower' Fancam
+- rNHvt5NPT8Y 260619 곽연지 Baby Flower 직캠 — 6/19 행사명 제목에 없음(금요일, 뮤직뱅크 가능성) · 260619 트리플에스 곽연지 'Baby Flower' 직캠/TripleS KwakYeonJi 'Baby Flower' focus fan cam
+- MKS3V3Tvnm0 260619 서아 Baby Flower 직캠 — 6/19 행사명 제목에 없음(금요일, 뮤직뱅크 가능성) · [4K] 260619 tripleS 서아 트리플에스 'Baby Flower' 직캠
+- V8wNUAIGijQ [My Secret New Zone] 콘서트 — 날짜 불명(4월경 기간 밖 가능성 높음), 곡 Love Child+Heavy Metal Wings+Ending · [4K] tripleS(트리플에스) 「Love Child + Heavy Metal Wings + Ending」 직캠 | 2026 tripleS [My Secret New Zone]
+- eaOfnKkkv0I 260626 MyK FESTA Love2Love 가로 FANCAM — 멤버 불명(제목에 이름·단체 표기 없음) · tripleS 트리플에스 | 가로 FANCAM | Love2Love | 2026 MyK FESTA | 260626 | 4K60P
+- gpNrg14kyrg 260626 MyK FESTA Girls Never Die 가로 FANCAM — 멤버 불명 · tripleS 트리플에스 | 가로 FANCAM | Girls Never Die | 2026 MyK FESTA | 260626 | 4K60P
+- ib3ovHS25yE 260626 MyK FESTA Girls Never Die(MyK Live I) 영상 — 멤버/풀캠 여부 불명(신짱캠) · 260626 tripleS(트리플에스) 'Girls Never Die' MyK FESTA(마이케이 페스타) MyK Live I
+- W6KRQtFGJCY 260626 MyK FESTA Girls Never Die 직캠 — 멤버 불명 · tripleS (트리플에스) 'Girls Never Die' 직캠 (fancam) / MyK FESTA(마이케이 페스타) 260626
+- 9lVSlFb4W_Q 260627 행사 불명(제목에 행사 없음, BOF는 6/28) · 260627 Baby Flower tripleS Chaewon
+- JBwESmmNi8E 260627 행사 불명(제목에 행사 없음, BOF는 6/28) · 260627 tripleS 트리플에스 공유빈 Yubin - 'Baby Flower' 4K 직캠 Fancam
+- tLahdwyq9Aw 260627 행사 불명(제목에 행사 없음, BOF는 6/28) · [4K] 260627 트리플에스 tripleS - Baby Flower 린 Lynn 직캠 Lynn Focus Cam
+- swvPMtoI9bo BOF 260628 Rising 직캠이라는데 멤버 없음(famcam, 단체 표기 없음) - 풀캠인지 멤버 직캠인지 불명 · [4K] 260628 트리플에스 tripleS - Rising @ BOF 부산 원아시아 페스티벌 famcam
+- 5HhF9blEnn4 My Secret New Zone(2026 OT24 아시아 콘서트) 날짜 불명(업로드 추정만 있음, 5월 이전일 가능성) · [4K] tripleS(트리플에스) 박소현(Park SoHyun) 「White Soul Sneakers」 세로 직캠 | 2026 tripleS [My Secret New Zone]
+- M9BbI1pak_0 전북대 260930 Baby Flower, 멤버 표기 없음 - 풀캠(full)인지 불명 · 260930 트리플에스 tripleS 'Baby Flower' 4K 60P @전북대
+- jE62I9OjBbw 261011 Love2Love & 추리소설 직캠, 멤버 불명(카르바할) · 261011 트리플에스(tripleS) - Love2Love & Detective Soseol ANDLESS 콘서트 직캠
+- 8d9Pe6GwNc0 TMA 부산 260919 직캠, 멤버·곡 불명 · 260919 더팩트 뮤직 어워즈 부산 트리플에스 직캠 TRIPLES FANCAM l 2026 THE FACT MUSIC AWARDS
+- Fj8f9L-sLgc 7월 Baby Flower 직캠, 행사 불명(팬사인회로 추정되나 제목에 없음) · [4K] 260703 트리플에스 곽연지 'Baby Flower' 직캠/TripleS Kwak YeonJi 'Baby Flower' focus fan cam.
+- vs592hQ_l1E 7월 Baby Flower 직캠, 행사 불명(팬사인회로 추정되나 제목에 없음) · 260705 트리플에스 곽연지 'Baby Flower' 직캠/TripleS Kwak YeonJi 'Baby Flower' focus fan cam.
+- vMHXwztUwhk 7월 Baby Flower 직캠, 행사 불명(팬사인회로 추정되나 제목에 없음) · [4K] 260705 tripleS 서아 트리플에스 'Baby Flower' 직캠
+- mHTWTqC5ao8 날짜가 261010,261011 두 날 합본이라 하루로 정할 수 없음 · [4K] 261010,261011 트리플에스 tripleS 주빈 JOOBIN - 누난 너무 예뻐 (Replay) fancam. | ANDLESS in Seoul
+- T6-Zr07tz7M 강진 하맥축제 260827 직캠, 멤버·곡 불명 · 260827 tripleS (트리플에스) - 강진 하맥축제 직캠 (Fancam)
+- JW2DNU4_SwQ Baby Flower 직캠, 행사 불명(1stmusic/에버라인 등 팬사인회로 추정되나 제목에 없음) · [4K] 260710 “ Baby Flower ” tripleS 트리플에스 Kotone 코토네 Fancam 직캠
+- sleZZLneFTQ Baby Flower 직캠, 행사 불명(1stmusic/에버라인 등 팬사인회로 추정되나 제목에 없음) · 260710 퍼스트뮤직 1stmusic  'Baby Flower' tripleS Kotone 트리플에스 코토네 직캠 (4K Fancam)
+- 42IakowFbf4 Baby Flower 직캠, 행사 불명(1stmusic/에버라인 등 팬사인회로 추정되나 제목에 없음) · [4K] 260711 tripleS 서아 트리플에스 'Baby Flower' 직캠
+- RH1yGoyN3aQ Baby Flower 직캠, 행사 불명(1stmusic/에버라인 등 팬사인회로 추정되나 제목에 없음) · 260711 tripleS(트리플에스) - Baby Flower | Jiyeon 지연 직캠 Fancam
+- j_1S5_pW3Ic Baby Flower 직캠, 행사 불명(1stmusic/에버라인 등 팬사인회로 추정되나 제목에 없음) · [4K] 260711 트리플에스 tripleS - Baby Flower 채연 ChaeYeon 직캠 fancam
+- 5dMA03qTS34 Baby Flower 직캠, 행사 불명(1stmusic/에버라인 등 팬사인회로 추정되나 제목에 없음) · 260712 tripleS Sullin 트리플에스 설린 'Baby Flower' 직캠
+- cbRuSNxAAZk 7월 Baby Flower 직캠, 행사 불명(팬사인회로 추정되나 제목에 없음) · [4K] 260717 트리플에스 곽연지 Baby Flower 직캠/tripleS KwakYeonJi Baby Flower focus fan cam.
+- _37ksdS0XdI 261001 지연 Girls Never Die, 행사 불명 · [4K] 261001 트리플에스 지연 'Girls Never Die' 직캠 / tripleS JiYeon Girls Never Die focus fan cam.
+- nowMxcNEPhY PICKCON ASSEMBLE 26 CENTER 완전체 Baby Flower 풀캠, 날짜·행사 불명(6/1 쇼케이스 가능성) · [LIVE] tripleS(트리플에스) - ‘Baby Flower' STAGE | ASSEMBLE 26 CENTER 완전체 | 2F Full Cam
+- VTvnqWAOA6g 2026 World Tour Seoul Day 1(=10/10) 영상, 전체 공연인지 한 곡 영상인지 불명(길이 확인 불가) · 2026 tripleS World Tour ⟨ANDLESS⟩ in Seoul Day 1
+- uTLOp9Rz8Co 백제문화제 261003 막내즈 직캠, 멤버(막내즈 호칭만)·곡 불명 · 261003 트리플에스 막내즈 직캠 / 제72회 부여 백제 문화제 개막식 / #tripleS #fancam
+- knon73AnX6k 260725 같은 날 거제·대구 두 행사가 있어 제목에 행사 없는 이 영상은 어느 쪽인지 불명 · 260725 트리플에스 tripleS Full ver 'Baby Flower+Rising+Love2Love+Are You Alive+Girls Never Die' 4K 60P
+- Hj0E_xgFIk8 260725 같은 날 거제·대구 두 행사가 있어 제목에 행사 없는 이 영상은 어느 쪽인지 불명 · 260725 트리플에스 김수민 깨어 직캠 4K60p tripleS fancam
+- bliu7nuyKB8 260725 같은 날 거제·대구 두 행사가 있어 제목에 행사 없는 이 영상은 어느 쪽인지 불명 · [4K] 260725 트리플에스 tripleS - Rising 채연 ChaeYeon 직캠 fancam
+- IH1SevZWYpI 260725 같은 날 거제·대구 두 행사가 있어 제목에 행사 없는 이 영상은 어느 쪽인지 불명 · [4K] 260725 트리플에스 tripleS - Are You Alive 주빈 JooBin 직캠 fancam
+- MG8h5q0ZM5k 260808 김채연 Love2Love, 행사 없음(오션월드 세트에 Love2Love 확인 안 됨) · 260808 tripleS 김채연 ‘Love2Love’ 직캠 (레전d 미모 무대)
+- Uqhv86EhdkM Baby Flower 직캠, 행사 불명(1stmusic/에버라인 등 팬사인회로 추정되나 제목에 없음) · 261002 에버라인 Everline 'Baby Flower' tripleS Kotone 트리플에스 코토네 직캠 (4K Fancam)
+- uEOCGXObngM MBC 버추얼 라이브 페스티벌 깨어, 날짜 불명 · [VLF] tripleS - 깨어 (Are You Alive) | MBC 버추얼 라이브 페스티벌 with CoupangPlay
+- SZBcqMUrk1k 261010 Girls Never Die 직캠(햄햄햄), 멤버 불명 · 261010 Girls Never Die - tripleS World tour Andless in Seoul 직캠 4K60P
+- VBV1xfrE0VI 261010 Hit the Floor 직캠(햄햄햄), 멤버 불명 · 261010 Hit the Floor - tripleS World tour Andless in Seoul 직캠 4K60P
+- ShKaT6Ow9-o Baby Flower 직캠, 행사 불명(1stmusic/에버라인 등 팬사인회로 추정되나 제목에 없음) · [4K]260731 트리플에스 윤서연 Baby Flower 직캠
+- oWQV_2KcA_o Baby Flower 직캠, 행사 불명(1stmusic/에버라인 등 팬사인회로 추정되나 제목에 없음) · [4K] 260801 tripleS 서아 트리플에스 'Baby Flower' 직캠
+- WZFEnqhZSGE 천안 컬투 공개방송 260905 Baby Flower, 멤버 표기 없음 - 풀캠(full)인지 불명 · 260905 트리플에스 tripleS 'Baby Flower' 4K 60P @천안 컬투 공개방송
+- Paiifxzxn8A Store Link Live(고고씽) Baby Flower, 촬영·공개 날짜 불명 · [Store Link Live] tripleS - Baby Flower | Store Link Live | S.R.L.A | Live Performance | GOGOSING
+- ByWekuTS200 260808 공연/행사 미상(제목에 행사 없음) · 260808 tripleS 김채연 'Girls Never Die' 직캠 (Kim ChaeYeon Fancam)
+- mRfkYgxlMzI 260809 주빈 Baby Flower, 행사 미상(같은 날 moon 도쿄 이벤트는 Dream Dress라 다른 행사일 수 있음) · [4K] 260809 트리플에스 tripleS 주빈 JOOBIN - Baby Flower fancam.
+- A8HULiaLHnA 261011 Lit Pop 직캠, 멤버를 제목으로 알 수 없음 · 261011 트리플에스 Lit Pop 직캠 4K60p tripleS fancam
+- 9Ym8b9yYoqY 261010 서울 Day1 Ending Ment 클립, 곡 없음 · [4K] tripleS ENDING MENT 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1, 261010
+- EH3dTRAU-sM 260919 TMA 김숨냥 Baby Flower: "김숨냥"이 김수민 별명인지 확인 안 됨 · 260919 트리플에스 김숨냥 Baby Flower 직캠 4K60p tripleS fancam 더팩트뮤직어워즈 TMA
+- VYlsiQcwRzc 260822 설린 Baby Flower, 행사 미상 · 260822 tripleS Sullin 트리플에스 설린 'Baby Flower' 직캠
+- L3FRFTZueRA 260828 채원 Baby Flower, 행사 미상 · 260828 Baby flower tripleS Chaewon
+- ukpTtNDQ0bE 260829 코토네 Baby Flower, 행사 미상 · [4K] 260829 “ Baby Flower ” tripleS 트리플에스 Kotone 코토네 Fancam 직캠
+- rcQuH-HBfxY 260903 코토네 Baby Flower, 행사 미상 · [4K] 260903 “ Baby Flower ” tripleS 트리플에스 Kotone 코토네 Fancam 직캠
+- JtKDPCalw58 260909 성결대 Girls Never Die 직캠, 멤버를 제목으로 알 수 없음 · [4K] 260909 트리플에스 tripleS - Girls Never Die @ 성결대학교 2026 영암축전 ARCHIVE fancam
+- WVvRWynHjFI 260905 5부 김채연 DNA: DNA(Sun 일본 싱글)는 천안 K-컬처박람회 곡이 아니라 다른 행사로 보임, 행사 미상 · 260905 5部 tripleS 김채연 'DNA' 직캠 Chaeyeon focus fancam
+- sbvZ-8DInKw 260906 서아 Baby Flower, 행사 미상 · [4K] 260906 tripleS 서아 트리플에스 'Baby Flower' 직캠
+- lo723QalTK8 260910 Ot.8 Baby Flower: 학교명이 한국과학기술대로 서울과기대와 어긋나고 멤버 불명 · 260910 트리플에스(triples) Ot.8 Baby Flower 한국과학기술대학교축제
+- zNeo9flnhRM 260920 안양춤축제 Girls Never Die, 멤버를 제목으로 알 수 없음(DaftTaengk 채널은 채연 직캠이 많지만 제목엔 없음) · 260920 트리플에스 tripleS 'Girls Never Die' 4K 60P 직캠 @안양춤축제 by DaftTaengk
+- ep6zZxSojAI 260920 안양 춤 축제 22분 직캠, 멤버 불명 · 트리플에스 - 안양 춤 축제 직캠 tripleS Fancam 260920
+- IDILYEiLzqk 멤버 불명(제목에 멤버 없음, 설명 캐시 없음). 2026-09-20 안양춤축제 Baby Flower/Rising 직캠 추정 · 트리플에스 #tripleS @260920 안양춤축제 ♬ Baby Flower ♬ Rising
+- EFUi1NownCg 김채연 직캠인데 곡 불명(2026-09-20 안양춤축제, 여러 곡이라 하나로 정할 수 없음) · 260920 트리플에스(tripleS) 김채연 직캠 @안양춤축제
+- 73udV7U5Tuk 멤버·직캠/풀캠 불명(2026-09-20 안양춤축제 Love2Love) · 260920 트리플에스 LOVE2LOVE
+- 7xdp2ZkubKw 멤버가 '김채원?'으로 불확실(2026-09-20 안양춤축제 Love2Love) · 260920 트리플에스(tripleS) 김채원? - Love2Love / 안양춤축제
+- 7diovlywj-U 편집본, 멤버·곡 불명(2026-09-20 안양춤축제) · 260920 트리플에스(tripleS) - 안양춤축제 / 평촌중앙공원 (편집 Ver.)
+- lUkhtl43Skc 제목에 날짜 없음(팬쇼케이스 LOVE&POP pt.1, 업로드 06-27). 기존 2026-06-01 쇼케이스와 같은 공연인지 불명, 멤버도 없음 · [4K] tripleS(트리플에스) 「Sad Girls Schemin'」 팬쇼케이스 가로 직캠 | ASSEMBLE26 'LOVE & POP' pt.1 FanShowcase
+- oQ8mGDEBWYI 2026-09-30 전북대 연합축제 편집 라이브(이창섭 함께), 멤버·곡 불명 · tripleS(트리플에스)·이창섭 LIVE｜2026 전북대학교 연합축제 ‘찬란(燦爛): SHINE’｜9월 30일
+- TAmJZh3djYI 261001 지연 Baby Flower인데 행사 불명(제목·설명에 행사 없음) · [4K] 261001 트리플에스 지연 'Baby Flower' 직캠 / tripleS JiYeon Baby Flower focus fan cam.
+- uO6lNUPx_yY 261002 김채원 Baby Flower인데 행사 불명 · 261002 Baby flower tripleS Chaewon
+- roodIobySx8 2026-10-11 서울 Day2 직캠이나 멤버·곡 불명 · 261011 tripleS 트리플에스 - Andless Fancam 직캠 | Andless Seoul Concert Day 2
+- zYbukfunQlM 2026-10-03 백제문화제 Baby Flower이나 멤버 불명(직캠/풀캠 모름) · 261003 tripleS (트리플에스) Baby Flower 부여백제문화제 #tripleS #kpop #트리플에스
+- pfs4M4NSysM 날짜가 261010-1011로 이틀 중 하나 불명(김유연 ANDLESS) · 261010-1011 tripleS 트리플에스 YooYeon 김유연 ANDLESS in Seoul ‘ANDLESS’ 직캠 Focus Fancam [4K]
+- K2ivzL5AI1Y 2026-10-10 서울 Lit Pop 직캠이나 멤버 불명(제목에 멤버 없음) · 261010 Lit Pop - tripleS World tour Andless in Seoul 직캠 4K60P
+- 8qlzE0C3l0s 날짜가 261010-11로 이틀 중 하나 불명(이지우 ANDLESS) · 261010-11 트리플에스(tripleS) Andless 이지우(JIWOO) ANDLESS IN SEOUL
+- VE7FEjjDKfc 날짜가 261010~11로 이틀 중 하나 불명(카에데 PSYCHO) · 261010~11 트리플에스 카에데 PSYCHO @ World Tour [ANDLESS] in Seoul
+- 9wEaLmA6HxM 날짜가 261010, 261011로 이틀 중 하나 불명(니엔 Mr.Mr.) · [4K] 261010, 261011 트리플에스 tripleS 니엔 NIEN - Mr.Mr. fancam | ANDLESS in Seoul
+- 3GSg-OXqZ5k 2026-10-11 서울 Andless 가로 직캠이나 제목에 멤버(단체) 표기 없음 · 261011 트리플에스 tripleS - 앤들리스 Andless | 월드투어 첫공개곡 가로 직캠 | World Tour ANDLESS in Seoul [KPOP FanCam 4K]
+- w4gPmDXcblg 날짜가 261010-261011 멀티캠, 어느 날인지 불명(정혜린 World Wild Women) · 261010 - 261011 〈ANDLESS〉 서울 'World Wild Women' tripleS Hyerin Multicam 트리플에스 정혜린 직캠 멀티캠 (4K Fancam)
+- zKJj9C61Q-8 SIGNAL LIVE 261016(공식 컴백 라이브 54분): 공연으로 담을지, 행사명·곡 구성을 어떻게 할지 사용자 판단 필요 · 🤍LOVE&POP pt.2도 끝까지 Andless🤍 | tripleS 트리플에스 : SIGNAL LIVE 261016
+- B4debaqNP-0 2026-10-18 타이베이 직캠이나 멤버·곡 불명 · tripleS 트리플에스 - 2026 tripleS World Tour [ANDLESS] TAIPEI 261018 FANCAM 4K 60FPS
+- BQZ93SSHdUo 2026-10-10 서울 Day1 World Wild Women 가로 직캠이나 제목에 멤버(단체) 표기 없음 · [4K] tripleS(트리플에스) 「World Wild Women」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1
+- s0tDbBvKmNM 2026-10-11 서울 Day2 Girls Never Die 직캠이나 멤버 불명 · 261011 트리플에스(tripleS) - Girs Never Die Stage Fancam @Andless Concert Day2
+- dQ2M4vk5GyA 2026-10-10 서울 Girls Capitalism 직캠이나 멤버 불명(Lovelution 유닛 구성원 미확인) · 261010 Girls Capitalism(Lovelution) - tripleS World tour Andless in Seoul 직캠 4K60P
+- fdFHuvJriAs 날짜가 261010-1011 믹스캠, 이틀 중 하나 불명(카에데 World Wild Women) · [4K] 261010-1011 트리플에스(tripleS) 카에데 Kaede Fancam “World Wild Women” @2026 tripleS World Tour ANDLESS
+- -7gmlxwkR94 2026-08-15 WBSC 행사 정식 이름 확인 못 함 · 260815 트리플에스(tripleS) 채연(ChaeYeon) - Girls Never Die 직캠 WBSC
+- 12KlTdnGFlQ 제목은 김채연 CHEER UP, 설명은 김나경 Diablo로 어긋남 · 261011 tripleS (트리플에스) 김채연 'CHEER UP ' 직캠 ( CHAEYEON FOCUS FANCAM) @ANDLESS  in Seoul
+- 1pBYkrhRpys 인기가요 날짜 불명(6/7·6/14 외 가능성, 업로드 추정) · [Front Row FanCam 4K] tripleS Gong YuBin 'Baby Flower' (tripleS Gong YuBin FanCam) @SBS Inkigayo ...
+- 2OAT4RGzBXg 쇼케이스(2026-06-01) 포커스 직캠, 곡 불명 · [4K] tripleS(트리플에스) 지연(JiYeon) 포커스 직캠 | ASSEMBLE26 'LOVE & POP' pt.1 Media Showcase, 260601
+- 6lsDbEfhrOs 쇼케이스(2026-06-01) 포커스 직캠, 곡 불명 · [4K] tripleS(트리플에스) 박소현(Park SoHyun) 포커스 직캠 | ASSEMBLE26 'LOVE & POP' pt.1 Media Showcase, 260601
+- AcBQNhQr2Ec 쇼케이스(2026-06-01) 포커스 직캠, 곡 불명 · [4K] tripleS(트리플에스) 김유연(Kim YooYeon) 포커스 직캠 | ASSEMBLE26 'LOVE & POP' pt.1 Media Showcase, 260601
+- JhJhUfS7Yac Sad Girls Schemin' 포메이션 캠, 공연·날짜 불명 · tripleS - Sad Girls Schemin' | DANCE FORMATION
+- JkWax8iNlG8 261010~11 이틀 중 어느 날인지 불명 · 261010~11 트리플에스 김채연 깨어 @ World Tour [ANDLESS] in Seoul
+- P23criiYUrU 2026-08-15 WBSC 행사 정식 이름 확인 못 함 · 260815 트리플에스(tripleS) 채연(ChaeYeon) - BabyFlower 직캠 WBSC
+- ZvS0FipZUg4 ASSEMBLE26 Special Offline Event 날짜·곡 불명 · [4K] tripleS(트리플에스) 윤서연(Yoon SeoYeon) 코토네(Kotone) 세로 직캠 | ASSEMBLE26 LOVE&POP Special Offline Event
+- bbnG5BTpmCI Day2인데 도시 불명(서울 Day2 10/11 추정이나 업로드 10/18이라 타이베이 가능성) · [4K] tripleS zenith 이지우(Lee JiWoo) 「누난 너무 예뻐 (원곡:SHINee)」 세로 직캠 | 2026 World Tour [ANDLESS] Day2
+- lb5_a1JMdHQ 261010-261011 이틀 멀티캠이라 공연일 하나로 못 정함 · 261010 - 261011 〈ANDLESS〉 서울 'ANDLESS' tripleS Hyerin Multicam 트리플에스 정혜린 직캠 멀티캠 (4K Fancam)
+- oXYm3p3cHAo Seoul Sound Check(리허설?) 곡·날짜(Day1/2) 불명 · [4K] tripleS(트리플에스) 김채연(Kim ChaeYeon) Sound Check 세로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul
+- qkQnvwoRXSE ASSEMBLE26 Special Offline Event 날짜·곡 불명 · [4K] tripleS(트리플에스) 마유(Mayu) 김채원(Kim ChaeWon) 세로 직캠 | ASSEMBLE26 LOVE&POP Special Offline Event
+- vfCV-JbGLgU 10/11 서울 Day2 정혜린이나 곡 불명 · 10/11/26 tripleS HyeRin
+- vz6_vdEkP_I ASSEMBLE26 Special Offline Event 날짜·곡 불명 · [4K] tripleS 곽연지(Kwak YeonJi) 김수민(Kim SooMin) 세로 직캠 | ASSEMBLE26 LOVE&POP Special Offline Event
+- j0jUfEol124 My Secret New Zone in Seoul DAY1&DAY2 린 Diablo: 공연 날짜 불명(업로드 4월 말 추정이라 범위 밖일 가능성 큼, 위키에 일정 없음) · [4k] 트리플에스 린 Diablo 직캠 tripleS lynn fancam @ my secret new zone in Seoul DAY1&DAY2
+- e4hkw-361cI My Secret New Zone Day2 김채원/김채연 찰나: 공연 날짜 불명(업로드 4월 말 추정, 범위 밖 가능성 큼) · [4K/ZR] tripleS(트리플에스) 김채연(Kim ChaeYeon) 「찰나(Charla)」 세로 직캠 | 2026 tripleS [My Secret New Zone] Day2
+- gkPtPtexLe8 My Secret New Zone Day1 김채원 찰나: 공연 날짜 불명(업로드 4월 말 추정, 범위 밖 가능성 큼) · [4K/ZR] tripleS(트리플에스) 김채원(Kim ChaeWon) 「찰나 (Charla)」 세로 직캠 | 2026 tripleS [My Secret New Zone] Day1
+- f1KmDCYQiks 날짜 충돌: 제목 20260920 서울과학기술대인데 서울과학기술대 축제는 e480 2026-09-10이고 09-20은 안양춤축제 날(같은 업로더의 다른 영상은 20260910). 오타인지 확인 필요 · [4K] 20260920 서울과학기술대 "Baby Flower" tripleS 트리플에스 Kotone 코토네 Fancam 직캠
+- 5zwOuuXe1sA 260917 中信兄弟 대만 야구장 공연(Nien): 같은 날 국립공주대 축제와 겹치고 행사 공식명·참여 멤버 불확실 · 【4K】260917 tripleS 니엔(Nien) 念慈 - Girls Never Die + Baby Flower｜中信兄弟 대만 야구장 공연 직캠
+- DwAatoUZDxk 260920 Baby Flower 소현, 제목의 "Ind"가 무엇인지 모름(안양춤축제인지 확정 불가) · TripleS 트리플에스 Sohyun 소현 Baby Flower 260920 Ind
+- fprhH719Z5w ASSEMBLE26 LOVE&POP Special Offline Event 김나경·서다현: 날짜 불명(업로드 6월 말 추정), 곡 없음 · [4K] tripleS 김나경(Kim NaKyoung) 서다현(Seo DaHyun) 세로 직캠 | ASSEMBLE26 LOVE&POP Special Offline Event
+- sLfO40RcwiA 260719 카에데 MEGABOX COEX MEGASTAGE "IRION [카린] - MEMORIA": 행사 정식명·곡(타 가수/게임 곡 여부) 불명 · [4K] 260719 트리플에스 카에데 직캠 'IRION [카린] - MEMORIA' (tripleS Kaede) - MEGASTAGE @ MEGABOX COEX -
+- cz2e-3y06q8 Diablo 혜린 직캠: 날짜·행사 불명(업로드 4월 말 추정) · [4K] 트리플에스 tripleS - Diablo 혜린 HyeRin 직캠 Hyerin Focus Fancam
+- omAIMH0xZCY 260606 미니팬미팅 카에데: 곡이 아니라 코너 이름("귀여운 카에데에 빠져보기"), 공연이 팬미팅 코너인지 불명 · '귀여운 카에데에 빠져보기' 트리플에스 카에데 (tripleS Kaede) (260606) @미니팬미팅 Fancam By 천둥
+- Jg_fAyEeZk0 261011 ANDLESS in Seoul 추리소설 직캠: 제목에 멤버 없음 · [4K] 261011 트리플에스 tripleS - 추리소설 직캠 | ANDLESS in Seoul
+- k_rIK4ttosw 곽연지 디아블로 직캠(걸그룹갤러리): 날짜·행사 없음(업로드 10-15 추정) · 곽연지디아블로직캠진짜레전드 #곽연지 #트리플에스
+
