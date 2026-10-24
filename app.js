@@ -8,7 +8,7 @@ import { app, loadPrefs, savePrefs, saveFilters, filtersOf, filterCount, sortEve
 import { GROUP_KEY } from './js/model.js';
 import { ICON } from './js/components.js';
 import { lineupHTML, mountLineup, setRowSong, setOpen, lineupLoadMore, scrollCarousel } from './js/views/lineup.js';
-import { folderHTML, mountFolder, toggleFolderCell } from './js/views/folder.js';
+import { folderHTML, folderRailHTML, mountFolder, toggleFolderCell } from './js/views/folder.js';
 import { songListHTML, songPageHTML } from './js/views/song.js';
 import { memberListHTML, memberPageHTML } from './js/views/member.js';
 import { clipGridHTML } from './js/views/clips.js';
@@ -40,7 +40,16 @@ async function start() {
   app.reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
   const mq = matchMedia('(max-width: 719px)');
   app.mobile = mq.matches;
-  mq.addEventListener('change', () => { app.mobile = mq.matches; lastBaseKey = null; render(); });
+  // 넓은 창(21:9 전체·절반, 1500px 이상): 왼쪽 고정 패널. 그보다 좁으면 도구 막대 + 서랍
+  const mqRail = matchMedia('(min-width: 1500px)');
+  const setLayout = () => {
+    app.layout = mqRail.matches ? 'rail' : app.mobile ? 'mobile' : 'compact';
+    document.body.dataset.layout = app.layout;
+  };
+  setLayout();
+  const relayout = () => { app.mobile = mq.matches; setLayout(); setRail(false, { focus: false }); lastBaseKey = null; render(); };
+  mq.addEventListener('change', relayout);
+  mqRail.addEventListener('change', relayout);
   themeButton(document.getElementById('theme-btn'), () => applyAccent(currentGroup()?.hue));
   new ResizeObserver(() => {
     document.documentElement.style.setProperty('--topbar-h', `${document.getElementById('topbar').offsetHeight}px`);
@@ -112,7 +121,7 @@ function render() {
   renderTabs();
 
   const base = baseOf(s);
-  const key = `${toHash(base)}|${app.query}|${app.mobile ? 'm' : 'd'}`;
+  const key = `${toHash(base)}|${app.query}|${app.layout}`;
   if (key !== lastBaseKey) {
     const onlyOpen = lastBaseKey && lastBase && !app.query && lastBase.open !== base.open && sameExcept(lastBase, base, 'open') && !base.e && !base.v;
     if (lastBaseKey) scrollMem.set(lastBaseKey, scrollY);
@@ -180,7 +189,10 @@ function renderBase(s) {
     const evTitle = `${E.date.slice(5).replace('-', '.')} ${E.ev.show}${E.ev.label ? ` ${E.ev.label}` : ''}`;
     crumbs = [[g.name, href({ g: g.id })], ['공연', href({ g: g.id, v: 'event' })], [evTitle, m ? href({ g: g.id, e: E.id }) : null]];
     if (m) crumbs.push([m.name]);
-    main.innerHTML = String(html`${crumbsHTML(crumbs)}${folderHTML(E, m && m._group === g ? m : null)}`);
+    const fm = m && m._group === g ? m : null;
+    const top = app.layout === 'rail' ? crumbsHTML(crumbs)
+      : html`${crumbsHTML(crumbs)}<div class="toolbar">${railBtn(fm ? '멤버별' : '곡 목차·멤버별')}<span class="spacer"></span><a class="btn btn-sm" href="${href({ g: g.id, v: 'event' })}">공연 목록</a></div>`;
+    main.innerHTML = String(layoutHTML(eventRailHTML(g, E, fm), top, folderHTML(E, fm, { rail: app.layout === 'rail' })));
     mountFolder(main);
     afterRender();
     document.title = `${E.date} ${E.ev.show} · ${g.name} · 무대 서랍`;
@@ -217,7 +229,8 @@ function renderBase(s) {
     crumbs = [[g.name, href({ g: g.id })], ['움짤']];
     body = clipGridHTML(g, f);
   }
-  main.innerHTML = String(html`${crumbs.length ? crumbsHTML(crumbs) : ''}${viewbarHTML(g, view)}${filtersHTML(g, f, view)}<div id="view">${body}</div>`);
+  const top = html`${crumbs.length ? crumbsHTML(crumbs) : ''}${app.layout === 'rail' ? '' : toolbarHTML(g, f, view)}`;
+  main.innerHTML = String(layoutHTML(groupRailHTML(g, f, view), top, html`<div id="view">${body}</div>`));
   mountLineup(main);
   afterRender();
   document.title = `${g.name} · 무대 서랍`;
@@ -231,30 +244,31 @@ function crumbsHTML(list) {
   return html`<nav class="crumbs" aria-label="현재 위치">${list.map(([t, h], i) => html`${i ? html`<span class="sep" aria-hidden="true">›</span>` : ''}${h ? html`<a href="${h}">${t}</a>` : html`<span aria-current="page">${t}</span>`}`)}</nav>`;
 }
 
-function viewbarHTML(g, view) {
-  const items = [['lineup', '라인업', href({ g: g.id })], ['event', '공연', href({ g: g.id, v: 'event' })], ['song', '곡', href({ g: g.id, v: 'song' })], ['member', '멤버', href({ g: g.id, v: 'member' })], ['clip', '움짤', href({ g: g.id, v: 'clip' })]];
-  return html`<div class="viewbar">
-    <nav class="seg" aria-label="보기">${items.map(([k, t, h]) => html`<a href="${h}" ${k === view ? html`aria-current="page"` : ''}>${t}</a>`)}</nav>
-    <div class="viewopts">
-      <div class="seg" role="group" aria-label="정렬">
-        <button type="button" data-act="sort" data-v="desc" aria-pressed="${String(!!(app.prefs.sort === 'desc'))}">최신순</button>
-        <button type="button" data-act="sort" data-v="asc" aria-pressed="${String(!!(app.prefs.sort === 'asc'))}">오래된순</button>
-      </div>
-    </div>
+const viewItems = (g) => [['lineup', '라인업', href({ g: g.id })], ['event', '공연', href({ g: g.id, v: 'event' })], ['song', '곡', href({ g: g.id, v: 'song' })], ['member', '멤버', href({ g: g.id, v: 'member' })], ['clip', '움짤', href({ g: g.id, v: 'clip' })]];
+
+function sortSeg() {
+  return html`<div class="seg" role="group" aria-label="정렬">
+    <button type="button" data-act="sort" data-v="desc" aria-pressed="${String(app.prefs.sort === 'desc')}">최신순</button>
+    <button type="button" data-act="sort" data-v="asc" aria-pressed="${String(app.prefs.sort === 'asc')}">오래된순</button>
   </div>`;
 }
 
-function filtersHTML(g, f, view) {
+function filterDesc(f) {
   const ix = app.ix;
-  const n = filterCount(f);
-  const chip = (k, v, label, dot) => html`<button type="button" class="chip" data-act="filter" data-k="${k}" data-v="${v}" aria-pressed="${String(!!(f[k].has(v)))}">${dot || ''}${label}</button>`;
-  const tags = [...ix.groupStats.get(g.id).tags].sort((a, b) => a.localeCompare(b, 'ko'));
   const desc = [];
   for (const id of f.songs) desc.push(ix.song.get(id)?.title);
   for (const id of f.members) desc.push(id === GROUP_KEY ? '단체' : ix.member.get(id)?.name);
   for (const t of f.types) desc.push(t === 'full' ? '풀캠' : '직캠');
   for (const t of f.tags) desc.push(t);
-  const open = !app.mobile;
+  return desc.filter(Boolean);
+}
+
+// 필터 칩 묶음(곡·멤버·종류·태그). 넓은 창에서는 왼쪽 패널, 좁은 창에서는 서랍 안에 들어간다
+function filterGroupsHTML(g, f) {
+  const ix = app.ix;
+  const n = filterCount(f);
+  const chip = (k, v, label, dot) => html`<button type="button" class="chip" data-act="filter" data-k="${k}" data-v="${v}" aria-pressed="${String(!!(f[k].has(v)))}">${dot || ''}${label}</button>`;
+  const tags = [...ix.groupStats.get(g.id).tags].sort((a, b) => a.localeCompare(b, 'ko'));
   // 곡: 영상 있는 곡만, 많이 담긴 순 상위 SONG_TOP개 + 고른 곡. 나머지(커버 포함)는 "곡 N개 더"로 접고 이름으로 찾는다
   const counts = ix.groupStats.get(g.id).songs;
   const cnt = (s) => counts.get(s.id) || 0;
@@ -265,9 +279,7 @@ function filtersHTML(g, f, view) {
   const rest = pool.filter((s) => !shown.includes(s));
   const songChip = (s) => html`<button type="button" class="chip" data-act="filter" data-k="songs" data-v="${s.id}" data-name="${norm([s.title, ...(s.aliases || [])].join(' '))}" aria-pressed="${String(f.songs.has(s.id))}">${s.title}<span class="n">${cnt(s)}</span></button>`;
   const restOwn = rest.filter((s) => s.kind !== 'cover'), restCover = rest.filter((s) => s.kind === 'cover');
-  return html`<details class="filters" ${open ? html`open` : ''} id="filters">
-    <summary><span>필터</span>${n ? html`<span class="on">${desc.filter(Boolean).join(', ')}</span>` : html`<span class="hint">곡·멤버·종류·태그</span>`}<span style="margin-left:auto">${ICON.chev}</span></summary>
-    <div class="fgroups">
+  return html`<div class="fgroups">
       <div class="fgroup" role="group" aria-label="곡"><span class="flabel">곡</span>${shown.map(songChip)}
         ${rest.length ? html`<button type="button" class="chip chip-more" data-act="moreSongs" aria-expanded="${String(app.songsOpen)}" aria-controls="songmore">${app.songsOpen ? '접기' : `곡 ${rest.length}개 더`}</button>` : ''}
       </div>
@@ -283,9 +295,63 @@ function filtersHTML(g, f, view) {
       </div>
       <div class="fgroup" role="group" aria-label="종류"><span class="flabel">종류</span>${chip('types', 'full', '풀캠')}${chip('types', 'fancam', '직캠')}</div>
       ${tags.length ? html`<div class="fgroup" role="group" aria-label="태그"><span class="flabel">태그</span>${tags.map((t) => chip('tags', t, t))}</div>` : ''}
-      ${n ? html`<div class="fgroup"><span class="flabel"></span><button type="button" class="btn btn-sm" data-act="clearFilters">필터 모두 해제 (${n})</button></div>` : ''}
-    </div>
-  </details>`;
+      ${n ? html`<div class="fgroup"><button type="button" class="btn btn-sm" data-act="clearFilters">필터 모두 해제 (${n})</button></div>` : ''}
+    </div>`;
+}
+
+// 왼쪽 패널(넓은 창) = 서랍(좁은 창). 머리의 닫기 버튼은 서랍일 때만 보인다
+function railHead(title) {
+  return html`<div class="rail-head"><b>${title}</b><button type="button" class="iconbtn rail-close" data-act="rail" aria-label="닫기 (Esc)">${ICON.close}</button></div>`;
+}
+function groupRailHTML(g, f, view) {
+  const wide = app.layout === 'rail';
+  const n = filterCount(f);
+  return html`${railHead('보기·필터')}
+    ${wide ? html`<nav class="rail-sec rail-views" aria-label="보기">${viewItems(g).map(([k, t, h]) => html`<a class="rail-item" href="${h}" ${k === view ? html`aria-current="page"` : ''}><span class="t">${t}</span></a>`)}</nav>
+    <div class="rail-sec"><h2>정렬</h2>${sortSeg()}</div>` : ''}
+    <div class="rail-sec rail-filters" role="region" aria-label="필터"><h2>필터${n ? html` <span class="n num">${n}</span>` : ''}</h2>${filterGroupsHTML(g, f)}</div>`;
+}
+function eventRailHTML(g, E, m) {
+  const wide = app.layout === 'rail';
+  return html`${railHead('이 공연')}
+    ${wide ? html`<nav class="rail-sec rail-views" aria-label="보기">${viewItems(g).map(([k, t, h]) => html`<a class="rail-item" href="${h}" ${k === 'event' ? html`aria-current="true"` : ''}><span class="t">${t}</span></a>`)}</nav>` : ''}
+    ${folderRailHTML(E, m, { withNav: wide })}`;
+}
+
+const railBtn = (label, extra = '') => html`<button type="button" class="btn railbtn" data-act="rail" aria-controls="rail" aria-expanded="${String(!!app.railOpen)}">${ICON.filter}${label}${extra}</button>`;
+
+// 좁은 창: 위쪽은 도구 막대 한 줄. 걸린 필터는 아래에 한 줄(누르면 해제)
+function toolbarHTML(g, f, view) {
+  const n = filterCount(f);
+  const on = [];
+  for (const [k, set] of Object.entries(f)) for (const v of set) on.push([k, v]);
+  const desc = filterDesc(f);
+  return html`<div class="toolbar">
+    <nav class="seg" aria-label="보기">${viewItems(g).map(([k, t, h]) => html`<a href="${h}" ${k === view ? html`aria-current="page"` : ''}>${t}</a>`)}</nav>
+    ${railBtn('필터', n ? html`<span class="n num">${n}</span>` : '')}
+    <span class="spacer"></span>${sortSeg()}
+  </div>
+  ${n ? html`<div class="onrow" role="group" aria-label="걸린 필터 (누르면 해제)">${on.map(([k, v], i) => html`<button type="button" class="chip" data-act="filter" data-k="${k}" data-v="${v}" aria-pressed="true">${desc[i] || v}<span aria-hidden="true">×</span></button>`)}<button type="button" class="linkbtn" data-act="clearFilters">모두 해제</button></div>` : ''}`;
+}
+
+function layoutHTML(rail, top, body) {
+  return html`<div class="layout">
+    <aside class="rail" id="rail" aria-label="보기와 필터" ${app.layout !== 'rail' && !app.railOpen ? html`inert` : ''}>${rail}</aside>
+    <div class="rail-scrim" data-act="railClose" aria-hidden="true"></div>
+    <div class="content">${top}${body}</div>
+  </div>`;
+}
+
+function setRail(open, { focus = true } = {}) {
+  if (app.layout === 'rail') open = false;
+  app.railOpen = open;
+  document.body.classList.toggle('rail-open', open);
+  const rail = document.getElementById('rail');
+  if (rail) rail.inert = app.layout !== 'rail' && !open;
+  for (const b of main.querySelectorAll('.railbtn')) b.setAttribute('aria-expanded', String(open));
+  if (!focus) return;
+  if (open) rail?.querySelector('a[href], button:not(.rail-close), input')?.focus({ preventScroll: true });
+  else main.querySelector('.railbtn')?.focus({ preventScroll: true });
 }
 
 // ---------- 오버레이 ----------
@@ -358,6 +424,7 @@ function bindGlobal() {
       baseAtNav = toHash(baseOf(app.state));
       returnFocus = a;
     }
+    if (app.railOpen && a.closest('#rail')) setRail(false, { focus: false });
     if (app.query && !next.play && !next.clip) clearQuery(false);
   });
 
@@ -419,6 +486,7 @@ function bindGlobal() {
       if (e.key === 'Tab') trapFocus(e);
       return;
     }
+    if (e.key === 'Escape' && app.railOpen) { e.preventDefault(); setRail(false); return; }
     if (e.key === '/' && document.activeElement === document.body) { e.preventDefault(); qInput.focus(); }
   });
 }
@@ -494,11 +562,17 @@ function onAction(e) {
       f.songs.clear(); f.members.clear(); f.types.clear(); f.tags.clear();
       saveFilters();
       rerenderKeepFocus(null);
-      document.getElementById('filters')?.querySelector('summary')?.focus();
+      main.querySelector('.railbtn, #rail [data-act="filter"]')?.focus({ preventScroll: true });
       break;
     }
     case 'sort':
       app.prefs.sort = el.dataset.v; savePrefs(); rerenderKeepFocus(el);
+      break;
+    case 'rail':
+      setRail(!app.railOpen);
+      break;
+    case 'railClose':
+      setRail(false);
       break;
     case 'car':
       scrollCarousel(el);
@@ -518,6 +592,7 @@ function onAction(e) {
       break;
     case 'jump': {
       const t = document.getElementById(`sec-${el.dataset.s}`);
+      if (app.railOpen) setRail(false, { focus: false });
       if (t) { t.scrollIntoView({ behavior: app.reduced ? 'auto' : 'smooth' }); t.querySelector('h2')?.focus({ preventScroll: true }); }
       break;
     }
@@ -527,12 +602,12 @@ function onAction(e) {
 
 function rerenderKeepFocus(el) {
   const sel = el ? selectorFor(el) : null;
-  const filtersOpen = document.getElementById('filters')?.open;
+  const railY = document.getElementById('rail')?.scrollTop || 0;
   const y = scrollY;
   lastBaseKey = null;
   render();
-  const fd = document.getElementById('filters');
-  if (fd && filtersOpen != null) fd.open = filtersOpen;
+  const rail = document.getElementById('rail');
+  if (rail) rail.scrollTop = railY;
   scrollTo(0, y);
   if (sel) main.querySelector(sel)?.focus({ preventScroll: true });
 }

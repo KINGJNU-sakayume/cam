@@ -17,6 +17,7 @@ export const ICON = {
   playLine: svg('<path d="M8 5.5v13l11-6.5z"/>'),
   folder: svg('<path d="M3.5 7.5a2 2 0 0 1 2-2h4l2 2h7a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-13a2 2 0 0 1-2-2z"/>'),
   grid: svg('<rect x="4" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.5"/>'),
+  filter: svg('<path d="M4 6h16M7 12h10M10 18h4"/>'),
   chev: svg('<path d="M6 9l6 6 6-6"/>', ' ic-sm chev'),
 };
 

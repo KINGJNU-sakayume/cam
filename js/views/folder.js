@@ -90,7 +90,7 @@ function memberChips(E, member) {
   const g = E.group;
   const ms = g._members.map((m) => ({ m, n: memberQueue(E, m.id).length })).filter((x) => x.n);
   if (!ms.length) return '';
-  return html`<nav class="fmembers" aria-label="멤버별로 보기"><span class="flabel">멤버별</span>
+  return html`<nav class="fmembers" aria-label="멤버별로 보기">
     <a class="chip" href="${href({ g: g.id, e: E.id })}" ${!member ? html`aria-current="page"` : ''}>전체</a>
     ${ms.map(({ m, n }) => html`<a class="chip" href="${href({ g: g.id, e: E.id, m: m.id })}" ${member && member.id === m.id ? html`aria-current="page"` : ''}><span class="dot" style="${`background:${m._color}`}"></span>${m.name}<span class="n">${n}</span></a>`)}
   </nav>`;
@@ -128,17 +128,39 @@ function memberModeHTML(E, m) {
   </section>`;
 }
 
-export function folderHTML(E, member = null) {
+function navBtn(g, X, dir) {
+  return X
+    ? html`<a class="btn" href="${href({ g: g.id, e: X.id })}" rel="${dir === 'prev' ? 'prev' : 'next'}"><span>${dir === 'prev' ? '← 이전 공연' : '다음 공연 →'}<small>${fmtMD(X.date)} ${X.ev.show}${X.ev.label ? ` ${X.ev.label}` : ''}</small></span></a>`
+    : html`<span class="btn" aria-disabled="true"><span>${dir === 'prev' ? '← 이전 공연' : '다음 공연 →'}<small>없음</small></span></span>`;
+}
+function neighbors(E) {
+  const list = app.ix.eventsByGroup.get(E.group.id);
+  return { prev: list[E.seq - 1], next: list[E.seq + 1] };
+}
+function navRow(E) {
+  const g = E.group;
+  const { prev, next } = neighbors(E);
+  return html`${navBtn(g, prev, 'prev')}${navBtn(g, next, 'next')}
+    <label class="check"><input type="checkbox" data-act="showEmpty" ${app.prefs.showEmpty ? html`checked` : ''}>빈 칸 보기</label>
+    <a class="btn btn-sm" href="${adminHref({ g: g.id, e: E.id })}">이 공연에 담기</a>`;
+}
+
+// 왼쪽 패널(넓은 창) 또는 서랍(좁은 창)에 들어가는 공연 목차: 곡 목차·멤버별·이동
+// withNav: 넓은 창에서는 이전/다음 공연·빈 칸 보기도 패널로 옮긴다(좁은 창은 머리에 남김)
+export function folderRailHTML(E, member, { withNav = false } = {}) {
+  const keys = E.sectionKeys;
+  const count = (k) => { const S = E.sections.get(k); return S ? S.full.length + [...S.cells.values()].reduce((a, l) => a + l.length, 0) : 0; };
+  return html`${withNav ? html`<div class="rail-sec rail-nav"><h2>이동</h2>${navRow(E)}</div>` : ''}
+    ${!member && keys.length ? html`<nav class="rail-sec" aria-label="곡 목차"><h2>곡 목차</h2><ol class="rail-list">${keys.map((k) => html`<li><button type="button" class="rail-item" data-act="jump" data-s="${k || 'none'}"><span class="no num">${E.songNo.get(k) ? no2(E.songNo.get(k)) : '–'}</span><span class="t">${songTitle(k)}</span><span class="n num">${count(k)}</span></button></li>`)}</ol></nav>` : ''}
+    ${memberChips(E, member) ? html`<div class="rail-sec"><h2>멤버별 이어보기</h2>${memberChips(E, member)}</div>` : ''}`;
+}
+
+export function folderHTML(E, member = null, { rail = false } = {}) {
   if (curEvent !== E.id) { openCell = null; curEvent = E.id; }
   const g = E.group;
-  const list = app.ix.eventsByGroup.get(g.id);
-  const prev = list[E.seq - 1], next = list[E.seq + 1];
   const st = stats(E);
   const cover = eventCover(E);
   const keys = E.sectionKeys;
-  const navBtn = (X, dir) => X
-    ? html`<a class="btn" href="${href({ g: g.id, e: X.id })}" rel="${dir === 'prev' ? 'prev' : 'next'}"><span>${dir === 'prev' ? '← 이전 공연' : '다음 공연 →'}<small>${fmtMD(X.date)} ${X.ev.show}${X.ev.label ? ` ${X.ev.label}` : ''}</small></span></a>`
-    : html`<span class="btn" aria-disabled="true"><span>${dir === 'prev' ? '← 이전 공연' : '다음 공연 →'}<small>없음</small></span></span>`;
   return html`<article>
     <header class="fhead sheet">
       <span class="lu-tab" aria-hidden="true">${fmtMD(E.date)}</span>
@@ -146,13 +168,8 @@ export function folderHTML(E, member = null) {
         <div class="f-date"><span class="f-big">${fmtMD(E.date)}</span><span class="f-yd"><span class="y">${fmtYear(E.date)}</span>${dowPill(E.date)}</span></div>
         <h1>${E.ev.show}${E.ev.label ? html`<span class="lbl">${E.ev.label}</span>` : ''}</h1>
         ${E.ev.note ? html`<p class="note">${E.ev.note}</p>` : ''}
-        ${keys.length ? html`<div class="fsongs">${keys.map((k) => html`<button type="button" class="chip" data-act="jump" data-s="${k || 'none'}">${E.songNo.get(k) ? html`<span class="no num">${no2(E.songNo.get(k))}</span>` : ''}${songTitle(k)}</button>`)}</div>` : ''}
-        ${memberChips(E, member)}
-        <p class="fstats">영상 ${st.videos} · 움짤 ${st.clips} · 빈 칸 ${st.empty}</p>
-        <div class="fnav">${navBtn(prev, 'prev')}${navBtn(next, 'next')}
-          <label class="check"><input type="checkbox" data-act="showEmpty" ${app.prefs.showEmpty ? html`checked` : ''}>빈 칸 보기</label>
-          <a class="btn btn-sm" href="${adminHref({ g: g.id, e: E.id })}">이 공연에 담기</a>
-        </div>
+        <p class="fstats">${keys.filter((k) => k).length}곡 · 영상 ${st.videos} · 움짤 ${st.clips} · 빈 칸 ${st.empty}</p>
+        ${rail ? '' : html`<div class="fnav">${navRow(E)}</div>`}
       </div>
       <div class="fcover">${cover ? videoThumb(cover, { ratio: '169', songKey: cover.songs?.[0]?.songId, caption: html`<div class="lm">표지 · ${cover.type === 'full' ? '풀캠' : cellKeyLabel(app.ix, cover.memberIds.length ? cover.memberIds.join('+') : GROUP_KEY)}</div>` }) : emptyCell({ g: g.id, e: E.id, ratio: '169', label: '영상 없음' })}</div>
     </header>

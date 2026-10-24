@@ -125,6 +125,14 @@ function rowHTML(r) {
     body = full.length
       ? html`<div class="car-fulls" style="${`--n:${Math.min(full.length, 3)}`}">${full.slice(0, 3).map((v, i) => fullThumb(v, sel, i === 2 && full.length > 3 ? [{ text: `+${full.length - 3}` }] : []))}</div>`
       : html`<div class="lu-nocam car-none"><span>이 곡은 영상이 아직 없어요</span><a class="add" href="${adminHref({ g: E.group.id, e: E.id, s: sel || undefined })}">+ 담기</a></div>`;
+  } else if (app.layout === 'compact') {
+    // 좁은 창: 풀캠을 같은 넘기기 줄 끝에 16:9 카드로 붙여 한 줄 높이를 지킨다
+    const fulls = full.map((v) => html`<div class="car-item r169" role="listitem">${videoThumb(v, { ratio: '169', songKey: sel, badges: [{ text: '풀캠' }] })}</div>`);
+    body = html`<div class="car wide" data-car>
+      <button type="button" class="car-btn prev" data-act="car" data-d="-1" aria-label="이전 영상" disabled>‹</button>
+      <div class="car-track" role="list" aria-label="멤버 직캠과 풀캠">${cards.map((x) => html`<div class="car-item" role="listitem">${x}</div>`)}${fulls}</div>
+      <button type="button" class="car-btn next" data-act="car" data-d="1" aria-label="다음 영상">›</button>
+    </div>`;
   } else {
     // 풀캠은 카드 높이에 맞춰 두 개까지 위아래로
     const side = full.length

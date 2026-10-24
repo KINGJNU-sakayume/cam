@@ -11,6 +11,8 @@ export const app = {
   songsOpen: false, // 필터의 "곡 N개 더" 펼침
   prefs: { sort: 'desc', showEmpty: false, songSort: 'order', bySong: false, autoNext: true },
   mobile: false,
+  layout: 'compact', // rail(1500px 이상, 왼쪽 고정 패널) | compact(도구 막대 + 서랍) | mobile
+  railOpen: false, // 좁은 창의 서랍
   reduced: false,
   stress: false,
 };
