@@ -609,3 +609,26 @@ pre.code { background: var(--soft); border-radius: 10px; padding: 10px; overflow
 .pk-new[hidden] { display: none; }
 .pk-bar { position: sticky; bottom: 0; display: flex; flex-wrap: wrap; gap: 8px; padding: 10px 0; background: var(--bg); margin-top: 12px; }
 @media (max-width: 560px) { .pk-row { grid-template-columns: 1fr; } .pk-thumb img { width: 100%; height: auto; aspect-ratio: 16 / 9; } }
+
+/* ---------- 필터 곡 더 보기·직캠 없는 행 ---------- */
+.chip .n { font-family: var(--font-num); font-variant-numeric: tabular-nums; font-size: 11px; font-weight: 600; color: var(--muted); }
+.chip[aria-pressed="true"] .n { color: inherit; opacity: 0.7; }
+.chip-more { border-style: dashed; color: var(--muted); }
+.songmore { display: grid; gap: 8px; padding: 10px 0 2px 46px; }
+.songmore .songq { max-width: 320px; min-height: 32px; padding: 5px 10px; border-radius: var(--r-ctl); border: 1px solid var(--line); background: var(--soft-2); }
+@media (max-width: 719px) { .songmore { padding-left: 0; } }
+.lu-nocam {
+  display: flex; align-items: center; gap: 10px; min-height: 52px; padding: 0 14px; align-self: center;
+  border: 1px dashed var(--line); border-radius: var(--r-thumb); color: var(--muted); font-size: 12.5px;
+}
+.lu-nocam .add { font-weight: 700; font-size: 12px; }
+.mnocam { margin: 10px 14px 0; color: var(--muted); font-size: 12.5px; }
+/* 빈 칸의 "+ 담기"는 마우스를 올리거나 포커스가 갈 때만(터치 화면은 늘 보임) */
+@media (hover: hover) {
+  .empty-cell .add, .lu-nocam .add { opacity: 0; transition: opacity 120ms; }
+  .empty-cell:hover .add, .empty-cell:focus-within .add, .lu-nocam:hover .add, .lu-nocam:focus-within .add { opacity: 1; }
+}
+/* 그룹 탭이 넘칠 때 끝을 흐리게 해 더 있다는 걸 보여 준다 */
+@media (max-width: 719px) {
+  .tabs { -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 16px, #000 calc(100% - 24px), transparent 100%); mask-image: linear-gradient(90deg, transparent 0, #000 16px, #000 calc(100% - 24px), transparent 100%); }
+}

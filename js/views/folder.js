@@ -4,7 +4,7 @@ import { NOSONG, GROUP_KEY } from '../model.js';
 import { app, adminHref } from '../state.js';
 import { href } from '../router.js';
 import { cellOrder, eventCover } from '../indexer.js';
-import { videoThumb, clipThumb, emptyCell, dowPill, srcTags, cellKeyLabel, memberDots } from '../components.js';
+import { videoThumb, clipThumb, emptyCell, dowPill, srcTags, tagLine, cellKeyLabel, memberDots } from '../components.js';
 
 let openCell = null; // `${songKey}|${cellKey}`
 let curEvent = null;
@@ -54,7 +54,7 @@ function cellListHTML(E, S, c) {
     <h4>${cellKeyLabel(app.ix, c.key)} 칸의 영상 ${c.videos.length}</h4>
     <div class="grid-23">${c.videos.map((v, i) => videoThumb(v, {
       ratio: '23', songKey: S.key, badges: i === 0 ? [{ text: '대표' }] : [],
-      caption: html`<div class="lm">${srcTags(v)}</div><div class="lm">${v.channel || ''}</div>`,
+      caption: html`<div class="lm">${v.channel || '채널 모름'}</div><div class="lm">${tagLine(v)}</div>`,
     }))}</div>
   </div>`;
 }
@@ -76,9 +76,9 @@ function sectionHTML(E, k) {
     </div>
     ${count === 0 && !S.clips.length ? html`<p class="note">이 곡 영상은 아직 없어요. <a href="${adminHref({ g: g.id, e: E.id, s: k || undefined })}">+ 담기</a></p>` : ''}
     ${S.full.length ? html`<div class="frow"><h3>풀캠 ${S.full.length}</h3><div class="grid-169">${S.full.map((v) => videoThumb(v, {
-      ratio: '169', songKey: k, caption: html`<div class="l1 clamp1"><span>${v.title || '풀캠'}</span></div><div class="lm">${srcTags(v)} · ${v.channel || ''}</div>`,
+      ratio: '169', songKey: k, caption: html`<div class="l1 clamp1"><span>${v.title || '풀캠'}</span></div><div class="lm">${[v.channel, tagLine(v)].filter(Boolean).join(' · ')}</div>`,
     }))}</div></div>` : (showEmpty && count ? html`<div class="frow"><h3>풀캠</h3><div class="grid-169" style="max-width:320px">${emptyCell({ g: g.id, e: E.id, s: k || undefined, ratio: '169', label: '풀캠 없음' })}</div></div>` : '')}
-    ${cells.length ? html`<div class="frow"><h3>직캠 칸 <span class="hint">단체 → 멤버 → 유닛</span></h3>
+    ${cells.length ? html`<div class="frow"><h3>직캠</h3>
       <div class="fcells">${cells.map((c) => cellHTML(E, S, c))}</div>
       ${openC ? cellListHTML(E, S, openC) : ''}
     </div>` : ''}

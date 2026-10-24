@@ -4,7 +4,7 @@ import { GROUP_KEY, NOSONG } from '../model.js';
 import { app, filteredSection, visibleSongKeys, adminHref, matchVideo } from '../state.js';
 import { href } from '../router.js';
 import {
-  videoThumb, clipThumb, emptyCell, dowPill, srcTags, cellKeyLabel, memberDots, ICON,
+  videoThumb, clipThumb, emptyCell, dowPill, srcTags, tagLine, cellKeyLabel, memberDots, ICON,
 } from '../components.js';
 import { cellOrder } from '../indexer.js';
 
@@ -82,6 +82,14 @@ function memberCell(E, fs, m, songKey) {
   })}</div>`;
 }
 
+// 보이는 멤버 열에 직캠이 하나라도 있는지. 없으면 빈 칸을 멤버 수만큼 그리지 않고 한 줄로 줄인다
+const hasCam = (fs) => ctx.cols.some((m) => (fs.cells.get(m.id) || []).length);
+function noCamCell(E, songKey) {
+  if (!ctx.cols.length) return '';
+  return html`<div class="lu-nocam" style="${`grid-column:span ${ctx.cols.length}`}"><span>이 곡은 멤버 직캠이 아직 없어요</span>
+    <a class="add" href="${adminHref({ g: E.group.id, e: E.id, s: songKey || undefined })}">+ 담기</a></div>`;
+}
+
 function lastCell(E, fs, songKey, open) {
   const v = fs.full[0];
   const c = summaryCounts(fs);
@@ -112,7 +120,7 @@ function rowHTML(r) {
     <div class="lu-date">${dateBlock(E, keys, sel, ctx.forceSong)}
       <button type="button" class="linkbtn expand-btn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}">${open ? '접기 ↑' : '이 날 전체 보기 ↓'}</button>
     </div>
-    ${ctx.cols.map((m) => memberCell(E, fs, m, sel))}
+    ${hasCam(fs) || app.prefs.hideEmpty ? ctx.cols.map((m) => memberCell(E, fs, m, sel)) : noCamCell(E, sel)}
     ${lastCell(E, fs, sel, open)}
   </div>${open ? html`<div class="lu-panel" id="${`panel-${E.id}`}">${panelHTML(E, sel, fs)}</div>` : ''}`;
 }
@@ -141,7 +149,7 @@ export function panelHTML(E, sel, fs) {
       <h4><span class="dot" style="${`background:${c.member._color}`}"></span>${c.member.name} · ${c.videos.length}개</h4>
       <div class="grid-23">${c.videos.map((v, i) => videoThumb(v, {
         ratio: '23', songKey: sel, badges: i === 0 ? [{ text: '대표' }] : [],
-        caption: html`<div class="lm">${srcTags(v)}</div><div class="lm">${v.channel || ''}</div>`,
+        caption: html`<div class="lm">${v.channel || '채널 모름'}</div><div class="lm">${tagLine(v)}</div>`,
       }))}</div></div>`)}</div>` : ''}
     ${fs.clips.length ? html`<div class="psec"><h4>움짤 ${fs.clips.length}</h4><div class="grid-23">${fs.clips.map((C) => clipThumb(C, {
       caption: html`<div class="l1">${memberDots(ix, C.memberIds)}<span>${C.key === 'full' ? '풀캠' : cellKeyLabel(ix, C.key)}</span></div><div class="lm">${C.clip.note || ''}</div>`,
@@ -172,7 +180,8 @@ function mobileCard(r) {
   });
   return html`<article class="mcard" id="${`row-${E.id}`}" data-row="${E.id}">
     <div class="mcard-head">${dateBlock(E, keys, sel, ctx.forceSong)}</div>
-    ${ctx.cols.length ? html`<div class="mstrip" role="list" aria-label="멤버 직캠">${cams}</div>` : ''}
+    ${ctx.cols.length && (hasCam(fs) || app.prefs.hideEmpty) ? html`<div class="mstrip" role="list" aria-label="멤버 직캠">${cams}</div>` : ''}
+    ${ctx.cols.length && !hasCam(fs) && !app.prefs.hideEmpty ? html`<p class="mnocam">멤버 직캠이 아직 없어요</p>` : ''}
     <button type="button" class="sumbtn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}"><span>${summaryText(c)}</span><span aria-hidden="true">${open ? '↑' : '↓'}</span></button>
     ${open ? html`<div id="${`panel-${E.id}`}">${panelHTML(E, sel, fs)}</div>` : ''}
   </article>`;

@@ -23,12 +23,17 @@ function songStats(g, song) {
 }
 
 export function songListHTML(g, f) {
-  const rows = g._songs.map((s) => ({ s, st: songStats(g, s) }));
+  // 곡이 아닌 항목(kind=other)은 빼고, 무대가 아직 없는 곡은 맨 아래 한 줄로
+  const all = g._songs.filter((s) => s.kind !== 'other').map((s) => ({ s, st: songStats(g, s) }));
+  const rows = all.filter((r) => r.st.stages);
+  const none = all.filter((r) => !r.st.stages);
   if (app.prefs.songSort === 'recent') rows.sort((a, b) => (b.st.last?.date || '').localeCompare(a.st.last?.date || ''));
-  return html`<div class="pagehead"><h1>곡</h1><span class="sub">${g._songs.length}곡</span>
+  else if (app.prefs.songSort === 'count') rows.sort((a, b) => b.st.cams - a.st.cams || b.st.stages - a.st.stages);
+  return html`<div class="pagehead"><h1>곡</h1><span class="sub">${rows.length}곡</span>
     <div class="tools"><div class="seg" role="group" aria-label="곡 정렬">
-      <button type="button" data-act="songSort" data-v="order" aria-pressed="${String(!!(app.prefs.songSort !== 'recent'))}">곡 순서</button>
+      <button type="button" data-act="songSort" data-v="order" aria-pressed="${String(!!(!['recent', 'count'].includes(app.prefs.songSort)))}">곡 순서</button>
       <button type="button" data-act="songSort" data-v="recent" aria-pressed="${String(!!(app.prefs.songSort === 'recent'))}">최근 무대순</button>
+      <button type="button" data-act="songSort" data-v="count" aria-pressed="${String(!!(app.prefs.songSort === 'count'))}">직캠 많은 순</button>
     </div></div></div>
     <div class="tiles">${rows.map(({ s, st }) => {
       const h = href({ g: g.id, v: 'song', s: s.id });
@@ -39,7 +44,8 @@ export function songListHTML(g, f) {
         <a class="tname" href="${h}">${s.title}</a>
         <div class="tmeta">무대 ${st.stages} · 직캠 ${st.cams}${st.clips ? ` · 움짤 ${st.clips}` : ''}${st.last ? ` · 최근 ${fmtMD(st.last.date)}` : ''}</div>
       </div>`;
-    })}</div>`;
+    })}</div>
+    ${none.length ? html`<p class="nodays"><b>아직 무대가 없는 곡 ${none.length}:</b> ${none.map(({ s }, i) => html`${i ? ', ' : ''}${s.title}`)}</p>` : ''}`;
 }
 
 export function songPageHTML(g, song, member, f, open) {

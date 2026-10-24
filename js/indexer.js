@@ -24,7 +24,7 @@ export function buildIndex(data) {
     for (const m of g._members) { ix.member.set(m.id, m); m._group = g; m._color = memberColor(g, m); }
     for (const s of g._songs) { ix.song.set(s.id, s); s._group = g; }
     ix.eventsByGroup.set(g.id, []);
-    ix.groupStats.set(g.id, { videos: 0, clips: 0, events: 0, tags: new Set() });
+    ix.groupStats.set(g.id, { videos: 0, clips: 0, events: 0, tags: new Set(), songs: new Map() });
   }
 
   for (const e of data.events) {
@@ -48,6 +48,7 @@ export function buildIndex(data) {
     const st = ix.groupStats.get(E.group.id);
     st.videos++;
     for (const t of v.tags || []) st.tags.add(t);
+    for (const so of v.songs || []) st.songs.set(so.songId, (st.songs.get(so.songId) || 0) + 1);
   });
 
   data.clips.forEach((c, i) => {

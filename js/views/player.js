@@ -4,7 +4,7 @@ import { NOSONG, cellKey, isSampleYt, ytUrl, ytEmbed } from '../model.js';
 import { app } from '../state.js';
 import { go, href, baseOf } from '../router.js';
 import { cellOrder } from '../indexer.js';
-import { ICON, imgOf, srcTags, clipThumb, cellKeyLabel, toast, posOf } from '../components.js';
+import { ICON, imgOf, tagLine, clipThumb, cellKeyLabel, toast, posOf } from '../components.js';
 import { attachClipPlayback } from '../clipplay.js';
 
 let nav = {};
@@ -120,7 +120,7 @@ export function openPlayer(root, s, close) {
       <div class="ov-body">
         <div class="ov-main">
           ${stageHTML(v, t, kind)}
-          <div class="vmeta"><h2>${v.title || '(제목 없음)'}</h2><p>${v.channel || '채널 모름'} · ${srcTags(v)}${v.gone ? ' · 삭제됨' : ''}</p></div>
+          <div class="vmeta"><h2>${v.title || '(제목 없음)'}</h2><p>${[v.channel || '채널 모름', tagLine(v), v.gone ? '삭제됨' : ''].filter(Boolean).join(' · ')}</p></div>
         </div>
         <div class="ov-side">
           <div class="cross" role="group" aria-label="이동 (화살표 키)">
@@ -132,9 +132,9 @@ export function openPlayer(root, s, close) {
           </div>
           <section class="side-sec"><h3>이 칸의 영상 ${cellList.length}</h3>
             <div class="vlist">${cellList.map((x) => {
-              const { src, ph } = imgOf(x, kind === 'full' ? '169' : '23');
+              const { src, ph } = imgOf(x, kind === 'full' ? '169' : '23', true);
               const inner = html`<span class="mini${kind === 'full' ? ' r169' : ''}"><img src="${src}" data-ph="${ph}" alt="" loading="lazy" style="${`object-position:${posOf(x)}`}"></span>
-                <span><span class="vt">${x.id === v.id ? html`<span class="now">재생 중 · </span>` : ''}${srcTags(x)}</span><span class="vs">${x.channel || ''}${x.pin ? ' · 대표' : ''}${x.gone ? ' · 삭제됨' : ''}</span></span>`;
+                <span><span class="vt">${x.id === v.id ? html`<span class="now">재생 중 · </span>` : ''}${tagLine(x) || (x.type === 'full' ? '풀캠' : '직캠')}</span><span class="vs">${x.channel || ''}${x.pin ? ' · 대표' : ''}${x.gone ? ' · 삭제됨' : ''}</span></span>`;
               return x.id === v.id ? html`<div class="cur" aria-current="true">${inner}</div>` : html`<a href="${href({ ...baseOf(app.state), play: x.id, ps: songKey || undefined })}">${inner}</a>`;
             })}</div>
           </section>

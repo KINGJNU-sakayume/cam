@@ -1,6 +1,6 @@
 // 멤버 보기: 멤버 목록 → 멤버 페이지(의상 타임라인)
 import { html, fmtMD, parseDate } from '../util.js';
-import { NOSONG, thumbSrc } from '../model.js';
+import { NOSONG, thumbSrc, thumbFallback } from '../model.js';
 import { app, sortEvents, matchVideo, NO_FILTER } from '../state.js';
 import { href } from '../router.js';
 import { videoThumb, dowPill, srcTags, posOf } from '../components.js';
@@ -38,11 +38,11 @@ function tile(g, m) {
   let src, pos = '50% 35%';
   const ph = silhouetteURL({ eventId: latest ? latest.E.id : m.id, kind: 'fancam', order: m.order });
   if (m.thumb) { src = m.thumb; pos = posOf(m); }
-  else if (latest) { src = thumbSrc(latest.v) || ph; pos = posOf(latest.v); }
+  else if (latest) { src = thumbSrc(latest.v, '23') || ph; pos = posOf(latest.v); }
   else src = ph;
   return html`<div class="tile">
     <a class="thumb r23" href="${h}" aria-label="${`${m.name} 멤버 페이지`}">
-      <img src="${src}" data-ph="${ph}" alt="" loading="lazy" decoding="async" style="${`object-position:${pos}`}">
+      <img src="${src}" data-fb="${latest && !m.thumb ? thumbFallback(latest.v) : ''}" data-ph="${ph}" alt="" loading="lazy" decoding="async" style="${`object-position:${pos}`}">
       <span class="band"><i style="${`background:${m._color}`}"></i></span>
     </a>
     <a class="tname" href="${h}"><span class="dot" style="${`background:${m._color}`}"></span>${m.name}</a>
