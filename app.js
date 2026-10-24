@@ -229,15 +229,10 @@ function viewbarHTML(g, view) {
   return html`<div class="viewbar">
     <nav class="seg" aria-label="보기">${items.map(([k, t, h]) => html`<a href="${h}" ${k === view ? html`aria-current="page"` : ''}>${t}</a>`)}</nav>
     <div class="viewopts">
-      ${view === 'lineup' || view === 'song' ? html`<div class="seg" role="group" aria-label="배치">
-        <button type="button" data-act="layout" data-v="grid" aria-pressed="${String(app.prefs.layout !== 'carousel')}">격자</button>
-        <button type="button" data-act="layout" data-v="carousel" aria-pressed="${String(app.prefs.layout === 'carousel')}">넘겨보기</button>
-      </div>` : ''}
       <div class="seg" role="group" aria-label="정렬">
         <button type="button" data-act="sort" data-v="desc" aria-pressed="${String(!!(app.prefs.sort === 'desc'))}">최신순</button>
         <button type="button" data-act="sort" data-v="asc" aria-pressed="${String(!!(app.prefs.sort === 'asc'))}">오래된순</button>
       </div>
-      <label class="check"><input type="checkbox" data-act="hideEmpty" ${app.prefs.hideEmpty ? html`checked` : ''}>빈 칸 숨기기</label>
     </div>
   </div>`;
 }
@@ -490,17 +485,11 @@ function onAction(e) {
     case 'sort':
       app.prefs.sort = el.dataset.v; savePrefs(); rerenderKeepFocus(el);
       break;
-    case 'layout':
-      app.prefs.layout = el.dataset.v; savePrefs(); rerenderKeepFocus(el);
-      break;
     case 'car':
       scrollCarousel(el);
       break;
     case 'songSort':
       app.prefs.songSort = el.dataset.v; savePrefs(); rerenderKeepFocus(el);
-      break;
-    case 'hideEmpty':
-      app.prefs.hideEmpty = el.checked; savePrefs(); rerenderKeepFocus(el);
       break;
     case 'showEmpty':
       app.prefs.hideEmpty = !el.checked; savePrefs(); rerenderKeepFocus(el);

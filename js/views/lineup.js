@@ -4,7 +4,7 @@ import { GROUP_KEY, NOSONG } from '../model.js';
 import { app, filteredSection, visibleSongKeys, adminHref, matchVideo } from '../state.js';
 import { href } from '../router.js';
 import {
-  videoThumb, clipThumb, emptyCell, dowPill, srcTags, srcShort, tagLine, cellKeyLabel, memberDots, ICON,
+  videoThumb, clipThumb, dowPill, srcTags, srcShort, tagLine, cellKeyLabel, memberDots, ICON,
 } from '../components.js';
 import { cellOrder } from '../indexer.js';
 
@@ -64,56 +64,8 @@ function songControl(E, keys, sel, forced) {
   })}</div>`;
 }
 
-function memberCell(E, fs, m, songKey) {
-  const list = fs.cells.get(m.id) || [];
-  if (!list.length) {
-    if (app.prefs.hideEmpty) return html`<div class="lu-cell"></div>`;
-    return html`<div class="lu-cell">${emptyCell({ member: m, g: E.group.id, e: E.id, s: songKey || undefined })}</div>`;
-  }
-  const v = list[0];
-  const badges = [];
-  if (list.length > 1) badges.push({ text: `+${list.length - 1}` });
-  if (fs.clips.some((C) => C.key === m.id)) badges.push({ text: '움짤' });
-  if ((v.tags || []).includes('세로')) badges.push({ text: '세로' });
-  return html`<div class="lu-cell">${videoThumb(v, {
-    ratio: '23', songKey, badges,
-    label: `${m.name} 직캠 재생 (${srcTags(v)})`,
-    stripExtra: srcShort(v),
-  })}</div>`;
-}
-
-// 보이는 멤버 열에 직캠이 하나라도 있는지. 없으면 빈 칸을 멤버 수만큼 그리지 않는다
+// 보이는 멤버 열에 직캠이 하나라도 있는지
 const hasCam = (fs) => ctx.cols.some((m) => (fs.cells.get(m.id) || []).length);
-// 멤버 직캠이 없는 공연: 멤버 칸 자리를 풀캠·단체 사진으로 크게 채운다(멤버 두 칸에 사진 하나). 사진도 없으면 한 줄 안내
-function noCamCell(E, fs, songKey) {
-  if (!ctx.cols.length) return '';
-  const span = `grid-column:span ${ctx.cols.length}`;
-  const pics = [...fs.full, ...(fs.cells.get(GROUP_KEY) || [])];
-  if (!pics.length) {
-    return html`<div class="lu-nocam" style="${span}"><span>이 곡은 멤버 직캠이 아직 없어요</span>
-      <a class="add" href="${adminHref({ g: E.group.id, e: E.id, s: songKey || undefined })}">+ 담기</a></div>`;
-  }
-  const n = Math.max(1, Math.ceil(ctx.cols.length / 2));
-  const shown = pics.slice(0, n);
-  return html`<div class="lu-wide" style="${`${span};--n:${n}`}">${shown.map((v, i) => videoThumb(v, {
-    ratio: '169', songKey,
-    badges: i === shown.length - 1 && pics.length > n ? [{ text: `+${pics.length - n}` }] : [],
-    caption: html`<div class="clamp1">${v.title || '풀캠'}</div>`,
-  }))}</div>`;
-}
-
-function lastCell(E, fs, songKey, open, wide) {
-  // 멤버 칸에 풀캠을 크게 깔았으면 여기는 요약 버튼만
-  const v = wide ? null : fs.full[0];
-  const c = summaryCounts(fs);
-  const top = wide ? '' : v
-    ? videoThumb(v, { ratio: '169', songKey, badges: fs.full.length > 1 ? [{ text: `+${fs.full.length - 1}` }] : [], caption: html`<div class="clamp2">${v.title || '풀캠'}</div>` })
-    : (app.prefs.hideEmpty ? '' : emptyCell({ g: E.group.id, e: E.id, s: songKey || undefined, ratio: '169', label: '풀캠 없음' }));
-  return html`<div class="lu-last">${top}
-    <button type="button" class="sumbtn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}">${summaryText(c)}</button>
-  </div>`;
-}
-
 function dateBlock(E, keys, sel, forced) {
   const folder = href({ g: E.group.id, e: E.id });
   return html`
@@ -123,33 +75,9 @@ function dateBlock(E, keys, sel, forced) {
     ${songControl(E, keys, sel, forced)}`;
 }
 
-function rowHTML(r) {
-  const { E, keys } = r;
-  const sel = selectedKey(E, keys);
-  const S = E.sections.get(sel);
-  const fs = S ? filteredSection(S, ctx.f) : { full: [], cells: new Map(), clips: [] };
-  const open = ctx.open === E.id;
-  const cam = hasCam(fs);
-  const wide = !cam && !app.prefs.hideEmpty && ctx.cols.length > 0 && (fs.full.length + (fs.cells.get(GROUP_KEY) || []).length) > 0;
-  return html`<div class="${`lu-row${cam ? '' : ' nocam'}`}" id="${`row-${E.id}`}" data-row="${E.id}">
-    <span class="lu-tab" aria-hidden="true">${fmtMD(E.date)}</span>
-    <div class="lu-date">${dateBlock(E, keys, sel, ctx.forceSong)}
-      <button type="button" class="linkbtn expand-btn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}">${open ? '접기 ↑' : '이 날 전체 보기 ↓'}</button>
-    </div>
-    ${cam || app.prefs.hideEmpty ? ctx.cols.map((m) => memberCell(E, fs, m, sel)) : noCamCell(E, fs, sel)}
-    ${lastCell(E, fs, sel, open, wide)}
-  </div>${open ? html`<div class="lu-panel" id="${`panel-${E.id}`}">${panelHTML(E, sel, fs)}</div>` : ''}`;
-}
-
-// ---------- 넘겨보기(시안): 풀캠을 왼쪽에 크게, 직캠이 있는 멤버 카드만 < > 로 넘겨 본다 ----------
-const carousel = () => app.prefs.layout === 'carousel';
-function carRowHTML(r) {
-  const { E, keys } = r;
-  const sel = selectedKey(E, keys);
-  const S = E.sections.get(sel);
-  const fs = S ? filteredSection(S, ctx.f) : { full: [], cells: new Map(), clips: [] };
-  const open = ctx.open === E.id;
-  // 멤버 순서대로 직캠이 있는 멤버만, 그 뒤에 단체·유닛
+// ---------- 공연 한 줄 = 바인더 낱장: 직캠 있는 멤버 카드를 < > 로 넘겨 보고, 풀캠은 오른쪽에 ----------
+// 멤버 순서대로 직캠이 있는 멤버만, 그 뒤에 단체·유닛
+function camCards(fs, sel) {
   const cards = [];
   for (const m of ctx.cols) {
     const list = fs.cells.get(m.id) || [];
@@ -164,33 +92,44 @@ function carRowHTML(r) {
     if (k !== GROUP_KEY && !k.includes('+')) continue;
     for (const v of list) cards.push(videoThumb(v, { ratio: '23', songKey: sel, label: `${cellKeyLabel(app.ix, k)} 직캠 재생`, stripExtra: srcShort(v) }));
   }
+  return cards;
+}
+const fullThumb = (v, sel, badges = []) => videoThumb(v, { ratio: '169', songKey: sel, badges, caption: html`<div class="clamp1">${v.title || '풀캠'}</div>` });
+
+function rowHTML(r) {
+  const { E, keys } = r;
+  const sel = selectedKey(E, keys);
+  const S = E.sections.get(sel);
+  const fs = S ? filteredSection(S, ctx.f) : { full: [], cells: new Map(), clips: [] };
+  const open = ctx.open === E.id;
+  const cards = camCards(fs, sel);
   const full = fs.full;
   const c = summaryCounts(fs);
-  const sum = html`<button type="button" class="sumbtn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}">${summaryText(c)}</button>`;
   let body;
   if (!cards.length) {
     // 직캠이 없으면 풀캠을 가로로 크게 늘어놓는다
     body = full.length
-      ? html`<div class="car-fulls">${full.slice(0, 3).map((v, i) => videoThumb(v, { ratio: '169', songKey: sel, badges: i === 2 && full.length > 3 ? [{ text: `+${full.length - 3}` }] : [], caption: html`<div class="clamp1">${v.title || '풀캠'}</div>` }))}</div>`
+      ? html`<div class="car-fulls" style="${`--n:${Math.min(full.length, 3)}`}">${full.slice(0, 3).map((v, i) => fullThumb(v, sel, i === 2 && full.length > 3 ? [{ text: `+${full.length - 3}` }] : []))}</div>`
       : html`<div class="lu-nocam car-none"><span>이 곡은 영상이 아직 없어요</span><a class="add" href="${adminHref({ g: E.group.id, e: E.id, s: sel || undefined })}">+ 담기</a></div>`;
   } else {
-    const main = full[0]
-      ? html`<div class="car-full">${videoThumb(full[0], { ratio: '169', songKey: sel, badges: full.length > 1 ? [{ text: `+${full.length - 1}` }] : [], caption: html`<div class="clamp1">${full[0].title || '풀캠'}</div>` })}</div>`
+    // 풀캠은 카드 높이에 맞춰 두 개까지 위아래로
+    const side = full.length
+      ? html`<div class="car-full">${full.slice(0, 2).map((v, i) => fullThumb(v, sel, i === 1 && full.length > 2 ? [{ text: `+${full.length - 2}` }] : []))}</div>`
       : '';
-    body = html`${main}<div class="${`car${main ? '' : ' wide'}`}" data-car>
+    body = html`<div class="${`car${side ? '' : ' wide'}`}" data-car>
       <button type="button" class="car-btn prev" data-act="car" data-d="-1" aria-label="이전 직캠" disabled>‹</button>
       <div class="car-track" role="list" aria-label="멤버 직캠">${cards.map((x) => html`<div class="car-item" role="listitem">${x}</div>`)}</div>
       <button type="button" class="car-btn next" data-act="car" data-d="1" aria-label="다음 직캠">›</button>
-    </div>`;
+    </div>${side}`;
   }
   return html`<div class="${`car-row${cards.length ? '' : ' nocam'}`}" id="${`row-${E.id}`}" data-row="${E.id}">
     <span class="lu-tab" aria-hidden="true">${fmtMD(E.date)}</span>
     <div class="lu-date">${dateBlock(E, keys, sel, ctx.forceSong)}
       <button type="button" class="linkbtn expand-btn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}">${open ? '접기 ↑' : '이 날 전체 보기 ↓'}</button>
-      ${sum}
+      <button type="button" class="sumbtn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}">${summaryText(c)}</button>
     </div>
     ${body}
-  </div>${open ? html`<div class="lu-panel car-panel" id="${`panel-${E.id}`}">${panelHTML(E, sel, fs)}</div>` : ''}`;
+  </div>${open ? html`<div class="lu-panel" id="${`panel-${E.id}`}">${panelHTML(E, sel, fs)}</div>` : ''}`;
 }
 
 // < > 버튼: 넘칠 때만 켜고, 끝에 닿으면 끈다
@@ -255,8 +194,7 @@ function mobileCard(r) {
   const cams = ctx.cols.map((m) => {
     const list = fs.cells.get(m.id) || [];
     if (!list.length) {
-      if (app.prefs.hideEmpty || carousel()) return '';
-      return html`<div class="mthumb">${emptyCell({ member: m, g: E.group.id, e: E.id, s: sel || undefined, label: '없음' })}</div>`;
+      return ''; // 직캠이 없는 멤버는 보이지 않는다
     }
     const v = list[0];
     const badges = list.length > 1 ? [{ text: `+${list.length - 1}` }] : [];
@@ -265,9 +203,9 @@ function mobileCard(r) {
   });
   return html`<article class="mcard" id="${`row-${E.id}`}" data-row="${E.id}">
     <div class="mcard-head">${dateBlock(E, keys, sel, ctx.forceSong)}</div>
-    ${carousel() && fs.full[0] ? html`<div class="mfull">${videoThumb(fs.full[0], { ratio: '169', songKey: sel, badges: fs.full.length > 1 ? [{ text: `+${fs.full.length - 1}` }] : [] })}</div>` : ''}
-    ${ctx.cols.length && (hasCam(fs) || app.prefs.hideEmpty) ? html`<div class="mstrip" role="list" aria-label="멤버 직캠">${cams}</div>` : ''}
-    ${ctx.cols.length && !hasCam(fs) && !app.prefs.hideEmpty && !carousel() ? html`<p class="mnocam">멤버 직캠이 아직 없어요</p>` : ''}
+    ${ctx.cols.length && hasCam(fs) ? html`<div class="mstrip" role="list" aria-label="멤버 직캠">${cams}</div>` : ''}
+    ${fs.full[0] ? html`<div class="mfull">${videoThumb(fs.full[0], { ratio: '169', songKey: sel, badges: fs.full.length > 1 ? [{ text: `+${fs.full.length - 1}` }] : [] })}</div>` : ''}
+    ${!hasCam(fs) && !fs.full.length ? html`<p class="mnocam">영상이 아직 없어요</p>` : ''}
     <button type="button" class="sumbtn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}"><span>${summaryText(c)}</span><span aria-hidden="true">${open ? '↑' : '↓'}</span></button>
     ${open ? html`<div id="${`panel-${E.id}`}">${panelHTML(E, sel, fs)}</div>` : ''}
   </article>`;
@@ -279,7 +217,7 @@ function monthHTML(item) {
 
 function itemHTML(item) {
   if (item.type === 'month') return monthHTML(item);
-  return app.mobile ? mobileCard(item) : carousel() ? carRowHTML(item) : rowHTML(item);
+  return app.mobile ? mobileCard(item) : rowHTML(item);
 }
 
 // 라인업 전체 HTML. rows: [{E, keys}] (정렬·필터 끝난 것)
@@ -298,17 +236,6 @@ export function lineupHTML({ group, events, f, forceSong = null, open = null }) 
   ctx = { group, f, forceSong, open, cols, items, rendered: 0 };
   if (!rows.length) return null;
 
-  // 열 머리 직캠 수(보이는 범위의 멤버 단독 직캠)
-  const camCount = new Map(cols.map((m) => [m.id, 0]));
-  for (const { E, keys } of rows) {
-    const seen = new Set();
-    for (const k of keys) {
-      const S = E.sections.get(k);
-      if (!S) continue;
-      for (const m of cols) for (const v of S.cells.get(m.id) || []) if (!seen.has(v.id) && matchVideo(v, f)) { seen.add(v.id); camCount.set(m.id, camCount.get(m.id) + 1); }
-    }
-  }
-
   // 열린 행이 있으면 그 행까지는 처음부터 그린다
   let first = CHUNK;
   if (open) { const i = items.findIndex((it) => it.type === 'row' && it.E.id === open); if (i >= 0) first = Math.max(first, i + 4); }
@@ -317,37 +244,21 @@ export function lineupHTML({ group, events, f, forceSong = null, open = null }) 
   const more = ctx.rendered < items.length ? html`<div class="lu-more" data-more aria-hidden="true" style="height:1px"></div>` : '';
 
   if (app.mobile) return html`<div class="mcards" id="lu-body">${body}</div>${more}`;
-  if (carousel()) return html`<div class="lu lu-car"><div id="lu-body">${body}${more}</div></div>`;
-
-  const head = html`<div class="lu-headrow">
-    <div class="lu-hcell first">날짜 · 행사</div>
-    ${cols.map((m) => html`<div class="${`lu-hcell${m.active === false ? ' retired' : ''}`}"><a href="${href({ g: group.id, v: 'member', m: m.id })}"><span class="dot" style="${`background:${m._color}`}"></span><span class="nm">${m.name}${m.active === false ? ' (활동 종료)' : ''}</span></a><span class="cnt">${camCount.get(m.id)}</span></div>`)}
-    <div class="lu-hcell">풀캠 · 단체 · 움짤</div>
-  </div>`;
-  return html`<div class="lu" style="${`--ncols:${cols.length}`}">
-    <div class="lu-head-wrap" aria-hidden="false"><div class="lu-grid">${head}</div></div>
-    <div class="lu-scroll" tabindex="-1"><div class="lu-grid" id="lu-body">${body}${more}</div></div>
-  </div>`;
+  return html`<div class="lu"><div id="lu-body">${body}${more}</div></div>`;
 }
 
-// 렌더 후 연결: 남은 행 지연 렌더, 가로 스크롤 동기화, 보이는 폭
+// 렌더 후 연결: 남은 행 지연 렌더, < > 버튼 상태
 export function mountLineup(root) {
   if (!ctx) return;
-  const sc = root.querySelector('.lu-scroll');
-  const headWrap = root.querySelector('.lu-head-wrap');
-  if (sc && headWrap) {
-    sc.addEventListener('scroll', () => { headWrap.scrollLeft = sc.scrollLeft; }, { passive: true });
-    // 다시 그리면(격자 ↔ 넘겨보기) 떨어져 나간 스크롤 영역의 폭(0)을 새 화면에 넣지 않게 멈춘다
-    const ro = new ResizeObserver(() => setW());
-    const setW = () => { if (!sc.isConnected) { ro.disconnect(); return; } root.querySelector('.lu')?.style.setProperty('--vis-w', `${sc.clientWidth}px`); };
-    setW();
-    ro.observe(sc);
-  }
-  if (root.querySelector('[data-car]')) {
+  if (!app.mobile) {
     updateCarousels(root);
-    root.addEventListener('scroll', (e) => { if (e.target.classList?.contains('car-track')) updateCarousels(e.target.closest('[data-car]').parentElement); }, { capture: true, passive: true });
-    root.addEventListener('lu:more', () => updateCarousels(root));
-    new ResizeObserver(() => updateCarousels(root)).observe(root);
+    // root는 다시 그려도 그대로라 한 번만 연결한다
+    if (!root.dataset.carBound) {
+      root.dataset.carBound = '1';
+      root.addEventListener('scroll', (e) => { if (e.target.classList?.contains('car-track')) updateCarousels(e.target.closest('[data-car]').parentElement); }, { capture: true, passive: true });
+      root.addEventListener('lu:more', () => updateCarousels(root));
+      new ResizeObserver(() => updateCarousels(root)).observe(root);
+    }
   }
   const sentinel = root.querySelector('[data-more]');
   if (sentinel) {
