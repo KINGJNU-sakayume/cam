@@ -146,16 +146,27 @@ export function weakShowFits(name, conf, day) {
   return HOST_SHOW.test(day.show) || !EVENT_WORD.test(name || '');
 }
 
-// 담지 않는 영상: 퇴근길·출근길, 팬사인회, mirrored, 댄스 동아리·팀의 커버. 이유를 돌려주고 해당 없으면 null.
+// 담지 않는 영상: 무대가 아닌 것(출퇴근·공항·인터뷰·예능·포토콜·시구·팬사인회)과 다른 사람의 무대(커버·치어리더),
+// 편집·모음 영상. 이유를 돌려주고 해당 없으면 null. 채널 이름은 커버팀 판단에만 쓴다(맛집 채널이 콘서트를 올리기도 해서)
 export function excludedReason(title, channel = '') {
-  const t = `${title || ''} ${channel || ''}`;
-  if (/퇴근길|출근길|퇴근 ?직캠|출근 ?직캠/.test(t)) return '퇴근길·출근길';
+  const ti = String(title || '');
+  const t = `${ti} ${channel || ''}`;
+  const stage = /무대|stage|공연|live|라이브|full ?ver|직캠 ?full/i;
+  if (/퇴근|출근|on the way to|사녹 ?후 ?외출/i.test(ti)) return '퇴근길·출근길';
+  if (/공항|출국|입국|airport|departure|deparute|arrival|ICN/i.test(ti)) return '공항 출입국';
+  if (/interview|인터뷰/i.test(ti) && !/앵콜|encore|ending|엔딩|winner|1위|win/i.test(ti)) return '인터뷰';
+  if (/먹트립|맛집|먹방|냉면|곰탕|엠카드림/.test(ti)) return '예능·소개 영상';
+  if (/리액션|reaction/i.test(ti)) return '다른 무대 리액션';
+  if (/포토콜|포토월|photo ?call|photo ?wall|레드 ?카펫|red ?carpet|브랜드 ?(행사|프레젠테이션)/i.test(ti)) return '포토콜·레드카펫·브랜드 행사';
+  if (/팝업|pop-?up/i.test(ti) && !stage.test(ti)) return '포토콜·레드카펫·브랜드 행사';
+  if (/시구|시타|first pitch/i.test(ti) && !/\+|&|기념 ?무대|stage/i.test(ti)) return '시구·시타';
   if (/팬싸|팬사인|사인회|fan ?sign|fansign/i.test(t)) return '팬사인회';
   if (/mirror(ed)?\b|미러드|좌우반전/i.test(t)) return 'mirrored';
-  if (/댄스\s?(동아리|팀|크루|클럽)|dance\s?(team|club|crew|cover)|댄스 ?커버|dance ?cover|\bcover\b|커버 ?(댄스|영상)|동아리|\bDENIS\b/i.test(t)) return '댄스팀·동아리 커버';
+  if (/치어리더|cheerleader/i.test(t)) return '치어리더 공연';
+  if (/댄스\s?(동아리|팀|크루|클럽)|dance\s?(team|club|crew|cover)|댄스 ?커버|dance ?cover|\bcover\b|커버|동아리|\bDENIS\b|버스킹|busking|kpop in public|에스투잇|\bS2iT\b|SOLAR MILD|에이퓨처|AFuture|학엔터|아트비트|ARTBEAT/i.test(t)) return '다른 팀의 커버 무대';
   if (/performance ?video|퍼포먼스 ?비디오|stage ?practice|스테이지 ?프랙티스|무대 ?연습/i.test(t)) return '공식 퍼포먼스 영상·연습 영상';
   if (/\.zip\b|📂|무대 ?(영상 ?)?모음|몰아보기|모아보기|compilation|역대 .*무대/i.test(t)) return '무대 모음(zip·compilation)';
-  if (/직캠 ?확대|확대 ?직캠|확대본|확대 ?영상|교차 ?편집|stage ?mix|편집본/i.test(t)) return '편집 영상(확대·교차편집)';
+  if (/직캠 ?확대|확대 ?직캠|확대본|확대 ?영상|교차 ?편집|stage ?mix|편집본|mixed ?fancam|edit ?clips|twixtor|slow ?mo/i.test(t)) return '편집 영상(확대·교차편집)';
   return null;
 }
 
@@ -183,8 +194,8 @@ const TOKEN_SPLIT = /[\s@|[\](){}'"‘’“”·,_\-/:#<>【】「」]+/;
 
 
 // ---------- 행사 추정: 음악 방송이 아닌 행사(축제·투어·어워즈·방송 프로그램) ----------
-const CITY = [[/Kuala|\bKL\b|쿠알라/i, '쿠알라룸푸르'], [/Manila|마닐라/i, '마닐라'], [/Singapore|싱가포르/i, '싱가포르'], [/Macau|마카오/i, '마카오'], [/Sydney|시드니/i, '시드니'], [/Melbourne|멜버른/i, '멜버른'], [/Montreal|몬트리올/i, '몬트리올'], [/Prudential|Newark|뉴어크/i, '뉴어크'], [/\bLA\b|Los Angeles|로스앤젤레스/i, 'LA'], [/Oakland|오클랜드/i, '오클랜드'], [/Seattle|시애틀/i, '시애틀'], [/Hong ?Kong|홍콩/i, '홍콩'], [/Madrid|마드리드/i, '마드리드'], [/Amsterdam|암스테르담/i, '암스테르담'], [/New York|뉴욕/i, '뉴욕'], [/Dallas|댈러스/i, '댈러스'], [/Kaohsiung|가오슝/i, '가오슝'], [/Tokyo|도쿄/i, '도쿄'], [/Osaka|오사카/i, '오사카'], [/Bangkok|방콕/i, '방콕'], [/Jakarta|자카르타/i, '자카르타'], [/Paris|파리/i, '파리'], [/London|런던/i, '런던'], [/Berlin|베를린/i, '베를린'], [/Chicago|시카고/i, '시카고'], [/Toronto|토론토/i, '토론토'], [/Taipei|타이베이/i, '타이베이'], [/Mexico|멕시코/i, '멕시코시티']];
-const cityOf = (t) => { for (const [r, n] of CITY) if (r.test(t)) return n; return ''; };
+const CITY = [[/Auckland|뉴질랜드/i, '오클랜드(뉴질랜드)'], [/Vancouver|밴쿠버/i, '밴쿠버'], [/Austin|오스틴/i, '오스틴'], [/Frankfurt|프랑크푸르트/i, '프랑크푸르트'], [/National Harbor|Washington|워싱턴/i, '워싱턴 D.C.'], [/Kuala|\bKL\b|쿠알라/i, '쿠알라룸푸르'], [/Manila|마닐라/i, '마닐라'], [/Singapore|싱가포르/i, '싱가포르'], [/Macau|마카오/i, '마카오'], [/Sydney|시드니/i, '시드니'], [/Melbourne|멜버른/i, '멜버른'], [/Montreal|몬트리올/i, '몬트리올'], [/Prudential|Newark|뉴어크/i, '뉴어크'], [/\bLA\b|Los Angeles|로스앤젤레스|Inglewood|잉글우드/i, 'LA'], [/Oakland|오클랜드/i, '오클랜드'], [/Seattle|시애틀/i, '시애틀'], [/Hong ?Kong|홍콩/i, '홍콩'], [/Madrid|마드리드/i, '마드리드'], [/Amsterdam|암스테르담/i, '암스테르담'], [/New York|뉴욕|Brooklyn|브루클린/i, '뉴욕'], [/Dallas|댈러스/i, '댈러스'], [/Kaohsiung|가오슝/i, '가오슝'], [/Tokyo|도쿄/i, '도쿄'], [/Osaka|오사카/i, '오사카'], [/Bangkok|방콕/i, '방콕'], [/Jakarta|자카르타/i, '자카르타'], [/Paris|파리/i, '파리'], [/London|런던/i, '런던'], [/Berlin|베를린/i, '베를린'], [/Chicago|시카고/i, '시카고'], [/Toronto|토론토/i, '토론토'], [/Taipei|타이베이/i, '타이베이'], [/Mexico|멕시코/i, '멕시코시티']];
+export const cityOf = (t) => { for (const [r, n] of CITY) if (r.test(t)) return n; return ''; };
 const withCity = (base) => (t) => `${base}${cityOf(t) ? ` ${cityOf(t)}` : ''}`;
 const SHOW_RULES = [
   [/울산 ?음악중심/, '울산 음악중심'],
@@ -215,6 +226,7 @@ const SHOW_RULES = [
   [/열린 ?음악회|open ?concert/i, 'KBS 열린음악회'],
   [/불후의 ?명곡|immortal songs/i, '불후의 명곡'],
   [/가요광장/, 'KBS 가요광장'],
+  [/(SMTOWN|SM) ?RUN ?CLUB/i, 'SM Run Club'],
   [/SMTOWN/i, 'SMTOWN LIVE'],
   [/\bASEA\b/, 'ASEA 2026'],
   [/ASIATOP/i, 'ASIATOP MUSIC FESTIVAL'],

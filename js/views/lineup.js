@@ -4,7 +4,7 @@ import { GROUP_KEY, NOSONG } from '../model.js';
 import { app, filteredSection, visibleSongKeys, adminHref, matchVideo } from '../state.js';
 import { href } from '../router.js';
 import {
-  videoThumb, clipThumb, emptyCell, dowPill, srcTags, tagLine, cellKeyLabel, memberDots, ICON,
+  videoThumb, clipThumb, emptyCell, dowPill, srcTags, srcShort, tagLine, cellKeyLabel, memberDots, ICON,
 } from '../components.js';
 import { cellOrder } from '../indexer.js';
 
@@ -78,22 +78,35 @@ function memberCell(E, fs, m, songKey) {
   return html`<div class="lu-cell">${videoThumb(v, {
     ratio: '23', songKey, badges,
     label: `${m.name} 직캠 재생 (${srcTags(v)})`,
-    caption: html`<div class="lm">${srcTags(v)}</div>`,
+    stripExtra: srcShort(v),
   })}</div>`;
 }
 
-// 보이는 멤버 열에 직캠이 하나라도 있는지. 없으면 빈 칸을 멤버 수만큼 그리지 않고 한 줄로 줄인다
+// 보이는 멤버 열에 직캠이 하나라도 있는지. 없으면 빈 칸을 멤버 수만큼 그리지 않는다
 const hasCam = (fs) => ctx.cols.some((m) => (fs.cells.get(m.id) || []).length);
-function noCamCell(E, songKey) {
+// 멤버 직캠이 없는 공연: 멤버 칸 자리를 풀캠·단체 사진으로 크게 채운다(멤버 두 칸에 사진 하나). 사진도 없으면 한 줄 안내
+function noCamCell(E, fs, songKey) {
   if (!ctx.cols.length) return '';
-  return html`<div class="lu-nocam" style="${`grid-column:span ${ctx.cols.length}`}"><span>이 곡은 멤버 직캠이 아직 없어요</span>
-    <a class="add" href="${adminHref({ g: E.group.id, e: E.id, s: songKey || undefined })}">+ 담기</a></div>`;
+  const span = `grid-column:span ${ctx.cols.length}`;
+  const pics = [...fs.full, ...(fs.cells.get(GROUP_KEY) || [])];
+  if (!pics.length) {
+    return html`<div class="lu-nocam" style="${span}"><span>이 곡은 멤버 직캠이 아직 없어요</span>
+      <a class="add" href="${adminHref({ g: E.group.id, e: E.id, s: songKey || undefined })}">+ 담기</a></div>`;
+  }
+  const n = Math.max(1, Math.ceil(ctx.cols.length / 2));
+  const shown = pics.slice(0, n);
+  return html`<div class="lu-wide" style="${`${span};--n:${n}`}">${shown.map((v, i) => videoThumb(v, {
+    ratio: '169', songKey,
+    badges: i === shown.length - 1 && pics.length > n ? [{ text: `+${pics.length - n}` }] : [],
+    caption: html`<div class="clamp1">${v.title || '풀캠'}</div>`,
+  }))}</div>`;
 }
 
-function lastCell(E, fs, songKey, open) {
-  const v = fs.full[0];
+function lastCell(E, fs, songKey, open, wide) {
+  // 멤버 칸에 풀캠을 크게 깔았으면 여기는 요약 버튼만
+  const v = wide ? null : fs.full[0];
   const c = summaryCounts(fs);
-  const top = v
+  const top = wide ? '' : v
     ? videoThumb(v, { ratio: '169', songKey, badges: fs.full.length > 1 ? [{ text: `+${fs.full.length - 1}` }] : [], caption: html`<div class="clamp2">${v.title || '풀캠'}</div>` })
     : (app.prefs.hideEmpty ? '' : emptyCell({ g: E.group.id, e: E.id, s: songKey || undefined, ratio: '169', label: '풀캠 없음' }));
   return html`<div class="lu-last">${top}
@@ -116,13 +129,15 @@ function rowHTML(r) {
   const S = E.sections.get(sel);
   const fs = S ? filteredSection(S, ctx.f) : { full: [], cells: new Map(), clips: [] };
   const open = ctx.open === E.id;
-  return html`<div class="${`lu-row${hasCam(fs) ? '' : ' nocam'}`}" id="${`row-${E.id}`}" data-row="${E.id}">
+  const cam = hasCam(fs);
+  const wide = !cam && !app.prefs.hideEmpty && ctx.cols.length > 0 && (fs.full.length + (fs.cells.get(GROUP_KEY) || []).length) > 0;
+  return html`<div class="${`lu-row${cam ? '' : ' nocam'}`}" id="${`row-${E.id}`}" data-row="${E.id}">
     <span class="lu-tab" aria-hidden="true">${fmtMD(E.date)}</span>
     <div class="lu-date">${dateBlock(E, keys, sel, ctx.forceSong)}
       <button type="button" class="linkbtn expand-btn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}">${open ? '접기 ↑' : '이 날 전체 보기 ↓'}</button>
     </div>
-    ${hasCam(fs) || app.prefs.hideEmpty ? ctx.cols.map((m) => memberCell(E, fs, m, sel)) : noCamCell(E, sel)}
-    ${lastCell(E, fs, sel, open)}
+    ${cam || app.prefs.hideEmpty ? ctx.cols.map((m) => memberCell(E, fs, m, sel)) : noCamCell(E, fs, sel)}
+    ${lastCell(E, fs, sel, open, wide)}
   </div>${open ? html`<div class="lu-panel" id="${`panel-${E.id}`}">${panelHTML(E, sel, fs)}</div>` : ''}`;
 }
 
@@ -170,12 +185,12 @@ function mobileCard(r) {
     const list = fs.cells.get(m.id) || [];
     if (!list.length) {
       if (app.prefs.hideEmpty) return '';
-      return html`<div class="mthumb">${emptyCell({ member: m, g: E.group.id, e: E.id, s: sel || undefined, label: '없음' })}<div class="src">&nbsp;</div></div>`;
+      return html`<div class="mthumb">${emptyCell({ member: m, g: E.group.id, e: E.id, s: sel || undefined, label: '없음' })}</div>`;
     }
     const v = list[0];
     const badges = list.length > 1 ? [{ text: `+${list.length - 1}` }] : [];
     if (fs.clips.some((C) => C.key === m.id)) badges.push({ text: '움짤' });
-    return html`<div class="mthumb">${videoThumb(v, { ratio: '23', songKey: sel, badges, label: `${m.name} 직캠 재생` })}<div class="src">${srcTags(v)}</div></div>`;
+    return html`<div class="mthumb">${videoThumb(v, { ratio: '23', songKey: sel, badges, label: `${m.name} 직캠 재생`, stripExtra: srcShort(v) })}</div>`;
   });
   return html`<article class="mcard" id="${`row-${E.id}`}" data-row="${E.id}">
     <div class="mcard-head">${dateBlock(E, keys, sel, ctx.forceSong)}</div>

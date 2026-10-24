@@ -56,9 +56,11 @@ description: 무대 서랍에 유튜브 무대 영상(직캠·풀캠·단체 직
    ```bash
    node scripts/harvest.mjs 2026-09-01 2026-10-24 --deep        # 전체 그룹
    node scripts/harvest.mjs --since-last --deep                 # 지난번 이어서
+   node scripts/harvest.mjs --gaps --out .cache/harvest-gaps    # 멤버 직캠이 빈 음악 방송 공연만(멤버 × 날짜)
    ```
+   - 유튜브가 영상 정보 페이지를 막으면(429) `--no-info`로 검색 결과만 써요. 업로드 날짜가 추정이라 review가 늘어요.
    - 날짜마다 `<그룹명> YYMMDD`·`<영문명> YYMMDD`를 동시에 4개씩 검색하고(`--jobs`), `--deep`이면 후보 5개 이상인 날에 멤버 × 날짜를 더 찾아요.
-   - 이미 담은 영상, 그룹 이름이 없거나 여럿인 제목, 제외 규칙(퇴근길·팬사인회·mirrored·커버·공식 퍼포먼스 비디오·연습·모음·확대/교차편집, `excludedReason`), 조회수 기준(2,000회 미만, 4K·8K·60P·FanCam 제목이나 직캠 5개 이상 채널은 1,000회 미만, 방송사 채널은 예외), 기간 밖을 걸러요.
+   - 이미 담은 영상, 그룹 이름이 없거나 여럿인 제목, 제외 규칙(퇴근길·공항·인터뷰·예능·포토콜·레드카펫·시구·리액션·팬사인회·치어리더·커버팀·mirrored·공식 퍼포먼스 비디오·연습·모음·확대/교차편집/슬로모, `excludedReason`), 조회수 기준(2,000회 미만, 4K·8K·60P·FanCam 제목이나 직캠 5개 이상 채널은 1,000회 미만, 방송사 채널은 예외), 기간 밖을 걸러요.
    - 남은 영상마다 **정확한 업로드 날짜**(유튜브 publishDate, 한국 날짜)와 조회수를 불러와 `.cache/yt-meta.json`에 캐시해요. 다시 돌려도, `add`의 dry-run·실제 실행도 다시 불러오지 않아요.
    - 결과는 `.cache/harvest/`: `auto.json`(확실한 영상), `review.txt`·`review.json`(확인할 영상과 이유), `summary.txt`. 중간에 끊겨도 같은 명령으로 이어서 해요(`done.txt`).
 3. **확실한 것부터 담기**: `node scripts/archive.mjs add .cache/harvest/auto.json --create-songs --dry-run` → 경고를 읽고 → 실제 실행.
@@ -68,8 +70,9 @@ description: 무대 서랍에 유튜브 무대 영상(직캠·풀캠·단체 직
    - `새 행사(확실하지 않음)`·`행사 없음`: 같은 날 공연이 있으면 그 `show`, 정말 새 행사면 정식 이름(위키·공식 공지로 확인)으로.
    - `멤버 없음`: 제목에 멤버가 없으면 **단체로 정하지 말고** 썸네일·설명으로 확인되면 넣고, 아니면 빼요. 제목에 "단체"·"group"이 있어야 단체예요.
    - `곡 없음`·`새 곡?`: 곡 구분 없는 공연 전체 영상(풀캠 1시간 등)만 `"song": "전체 공연"`. 곡 하나짜리 무대인데 곡을 못 정하면 빼고 보고해요. 새 곡은 정식 발매곡인지 확인한 뒤 `--create-songs`.
+   - `뉴스·예능 채널`·`곡도 무대 낱말도 없음`: 무대가 아닐 가능성이 커요(예능 먹방, 인터뷰, 예고). 무대가 확실할 때만 담아요.
    고친 항목만 골라 `{ "videos": [...] }`로 만들어 `add`에 넘겨요(제목·채널·업로드가 들어 있어 다시 불러오지 않아요).
-5. **정리 점검**: `node scripts/archive.mjs lint` — 쪼개졌을 수 있는 공연, 같은 곡 항목, 곡 없는 영상 중 제목에서 곡을 찾을 수 있는 것을 알려 줘요. 각각 `dedupe-events --fuzzy --dry-run`, `dedupe-songs --dry-run`, `reclassify --dry-run`으로 보고 맞으면 실행해요.
+5. **정리 점검**: `node scripts/archive.mjs lint` — 쪼개졌을 수 있는 공연, 같은 곡 항목, 곡 없는 영상 중 제목에서 곡을 찾을 수 있는 것을 알려 줘요. 각각 `dedupe-events --fuzzy --dry-run`, `dedupe-songs --dry-run`, `reclassify --dry-run`으로 보고 맞으면 실행해요. `node scripts/archive.mjs audit`은 제외 규칙에 걸리는 영상, 요일이 맞지 않는 음악 방송, 도시가 없거나 다른 투어 공연, 멤버 직캠이 빈 공연을 보여 줘요(지우는 건 사용자 확인 후).
 
 ## 2. dry-run
 
@@ -97,6 +100,7 @@ node scripts/archive.mjs add /path/req.json --create-songs --dry-run
 
 ```bash
 node scripts/archive.mjs add /path/req.json --create-songs
+python3 scripts/face-pos.py && node scripts/archive.mjs thumbpos .cache/face-pos.json   # 새 직캠 썸네일을 얼굴 가운데로(opencv 없으면 pip install opencv-python-headless, 안 되면 건너뜀)
 node scripts/archive.mjs validate
 ```
 

@@ -29,7 +29,7 @@
 | 움짤 파일 첨부, “이 움짤 넣어줘” | `.claude/skills/add-clips/SKILL.md` |
 | 고치기·지우기·삭제된 영상 처리·대표/표지·의상 메모·setlist·멤버/곡/그룹 추가·멤버색·썸네일 위치·샘플 지우기·`dead-videos` 이슈 처리 | `.claude/skills/edit-archive/SKILL.md` |
 
-현재 상태는 언제든 `node scripts/archive.mjs status`, 찾기는 `find <단어...>`, 공연 목록은 `events [그룹]`, 쪼개진 공연·중복 곡 점검은 `lint`, 전체 명령은 `help`.
+현재 상태는 언제든 `node scripts/archive.mjs status`, 찾기는 `find <단어...>`, 공연 목록은 `events [그룹]`, 쪼개진 공연·중복 곡 점검은 `lint`, 무대 아닌 영상·요일·투어 도시·빈 직캠 점검은 `audit`, 전체 명령은 `help`.
 해석 규칙(`js/admin/parse.js`)을 고치면 `node scripts/test-parse.mjs`가 통과해야 해요(일부러 바꾼 결과면 확인 후 `--update`).
 
 ## Git 흐름 (사용자가 따로 말하지 않으면)

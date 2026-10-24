@@ -10,7 +10,7 @@ import { spawnSync } from 'node:child_process';
 import { dirname, join, resolve, extname, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { validateData, fileRefs } from '../js/validate-core.js';
-import { extractYt, parseTitle, parseFileName, fetchOEmbed, findDate, showKey, showSimilarity, songKey, matchSong, excludedReason, HOST_SHOW, weakShowFits } from '../js/admin/parse.js';
+import { extractYt, parseTitle, parseFileName, fetchOEmbed, findDate, showKey, showSimilarity, songKey, matchSong, excludedReason, HOST_SHOW, weakShowFits, cityOf } from '../js/admin/parse.js';
 import { GROUP_KEY, DEFAULT_COLORS, cellKey, isSampleYt } from '../js/model.js';
 import { isRealDate, parseTime, fmtTime, norm, dateForms } from '../js/util.js';
 
@@ -198,6 +198,7 @@ const COMMANDS = {
 고치기
   set <id> 키=값 ...             영상·공연·움짤·멤버·곡·그룹 필드 고치기 (형식: set --help)
   gone <영상id|ytId> [--undo]    삭제·비공개 표시(또는 해제)
+  thumbpos <파일.json> [--force]  썸네일 위치 한 번에 넣기(scripts/face-pos.py 결과)
   pin <영상id>                   칸 대표로 (같은 칸 다른 영상은 해제)
   cover <공연id> <영상id|auto>   공연 표지
   remove <id> [--cascade] [--with-empty-event]   영상·공연·움짤 지우기
@@ -209,6 +210,7 @@ const COMMANDS = {
   dedupe-songs                   대소문자·띄어쓰기·오타만 다른 곡을 모두 합치기
   reclassify [--all]             제목을 지금 규칙으로 다시 읽어 곡 바로잡기
   lint                           쪼개진 공연·중복 곡·안 쓰는 곡·곡 없는 영상 점검(실패하지 않음)
+  audit [--json=파일]            무대 아닌 영상(제외 규칙)·요일 다른 음악 방송·투어 도시·멤버 직캠 빈 공연 점검(읽기만)
 
 그룹·멤버·곡
   roster <그룹정보.json> [--reorder]   그룹·멤버·곡을 한 번에 등록·보강 (형식: roster --help)
@@ -366,6 +368,7 @@ const COMMANDS = {
         else { errors.push(`${where}: 그룹을 정할 수 없어요. 등록된 그룹(${data.groups.map((x) => x.name).join(', ') || '없음'})이 제목에 없어요. 새 그룹이면 register-group 스킬로 먼저 등록하고, 아니면 "group"을 주세요. ${ctx}`); continue; }
       }
       const p = parseTitle(title, g, { channel, uploaded });
+      if (title && !p.songIds.length && !(r.song ?? req.song) && !/직캠|fancam|facecam|cam\b|stage|무대|full|콘서트|concert|축제|festival|performance|공연|live|라이브|encore|앵콜|tour|투어|@/i.test(title)) warn(`${where}: 곡도 무대 낱말도 없어요. 무대 영상이 맞는지 확인하세요. ${ctx}`);
       // 공연: 영상 → 요청 → 제목
       let date = (r.date ?? req.date) ? normDate(r.date ?? req.date) : p.date;
       const userShow = (r.show ?? req.show) ? String(r.show ?? req.show).trim() : '';
@@ -880,6 +883,74 @@ const COMMANDS = {
     const noTitle = data.videos.filter((v) => !v.title).length;
     if (noTitle) out(`제목 없는 영상 ${noTitle}개 (find로 확인)`);
     out(issues ? `\n점검할 것 ${issues}건` : '\n점검할 것이 없어요.');
+  },
+
+  audit() {
+    // 읽기만 하는 점검: 담지 않는 영상, 요일이 맞지 않는 음악 방송, 도시가 없거나 다른 투어 공연, 멤버 직캠이 빈 음악 방송
+    const rows = [];
+    const byWhy = new Map();
+    for (const v of data.videos) {
+      const why = v.title ? excludedReason(v.title, v.channel) : null;
+      if (why) (byWhy.get(why) || byWhy.set(why, []).get(why)).push(v);
+    }
+    if (byWhy.size) {
+      out('담지 않는 규칙(excludedReason)에 걸리는 영상:');
+      for (const [why, list] of byWhy) {
+        out(`\n  [${why}] ${list.length}개`);
+        for (const v of list) { const e = eventById(v.eventId); out(`    ${v.id} ${e?.date} ${e?.show} | ${v.title.slice(0, 90)} · ${v.channel}`); rows.push({ id: v.id, why }); }
+      }
+    }
+    const DOW = { 뮤직뱅크: 5, '쇼! 음악중심': 6, 인기가요: 0, 엠카운트다운: 4, '더 쇼': 2, 쇼챔피언: 3 };
+    const SPECIAL = /\bin [A-Z]|라이브 ?인|live ?in|K-EXPO|KCON|MEGA ?CONCERT|바르셀로나|barcelona|도쿄|tokyo|파리|paris|울산/i;
+    const vidsOf = (e) => data.videos.filter((v) => v.eventId === e.id);
+    const dow = data.events.filter((e) => e.show in DOW && !e.label && new Date(`${e.date}T00:00:00Z`).getUTCDay() !== DOW[e.show] && !vidsOf(e).some((v) => SPECIAL.test(v.title || '')));
+    if (dow.length) { out(`\n요일이 맞지 않는 음악 방송 ${dow.length}개 (방송일이 아니라 공개일일 수 있어요):`); for (const e of dow) out(`  ${e.id} ${evLabel(e)} [${vidsOf(e).length}] ${vidsOf(e)[0]?.title?.slice(0, 80) || ''}`); }
+    const TOUR = /SHOW WHAT I AM|ZERO FRONTIER|NOW TOMORROW|TOMORROW GLOW|HEARTS 2 HOUSE/i;
+    const tours = data.events.filter((e) => TOUR.test(e.show));
+    const noCity = tours.filter((e) => !cityOf(e.show) && !/서울$|ENCORE$/.test(e.show));
+    if (noCity.length) { out(`\n도시가 없는 투어 공연 ${noCity.length}개:`); for (const e of noCity) out(`  ${e.id} ${evLabel(e)} [${vidsOf(e).length}] 제목의 도시: ${[...new Set(vidsOf(e).map((v) => cityOf(v.title || '')).filter(Boolean))].join(', ') || '없음'}`); }
+    const other = [];
+    for (const e of tours) {
+      const c = cityOf(e.show);
+      if (!c) continue;
+      const odd = vidsOf(e).filter((v) => { const x = cityOf(v.title || ''); return x && x !== c; });
+      if (odd.length) other.push(`  ${e.id} ${evLabel(e)}: ${odd.map((v) => `${v.id}(${cityOf(v.title)})`).join(' ')}`);
+    }
+    if (other.length) { out(`\n공연 도시와 제목 도시가 다른 영상:`); other.forEach((x) => out(x)); }
+    const gaps = [];
+    for (const e of data.events) {
+      if (!(e.show in DOW) || e.label) continue;
+      const g = data.groups.find((x) => x.id === e.groupId);
+      const have = new Set(vidsOf(e).filter((v) => v.type === 'fancam').flatMap((v) => v.memberIds));
+      const miss = membersOf(g).filter((m) => m.active !== false && !have.has(m.id));
+      if (miss.length) gaps.push({ id: e.id, line: `  ${e.id} ${g.name} ${evLabel(e)} [${vidsOf(e).length}] 없음: ${miss.map((m) => m.name).join(', ')}` });
+    }
+    if (gaps.length) { out(`\n멤버 직캠이 빠진 음악 방송 ${gaps.length}개 (harvest.mjs --gaps):`); gaps.forEach((x) => out(x.line)); }
+    if (flags.json) writeFileSync(resolve(flags.json === true ? 'audit.json' : flags.json), `${JSON.stringify({ excluded: rows }, null, 1)}\n`);
+    out(`\n규칙에 걸린 영상 ${rows.length} · 요일 ${dow.length} · 도시 없음 ${noCity.length} · 도시 다름 ${other.length} · 직캠 빈 공연 ${gaps.length}`);
+  },
+
+  thumbpos() {
+    if (flags.help || !pos[0]) {
+      out(`thumbpos <파일.json> [--dry-run] [--force]
+
+{"영상id": "62% 35%", ...}(scripts/face-pos.py 결과)의 썸네일 위치를 한 번에 넣어요.
+이미 thumbPos가 있는 영상(사람이 고른 값)은 건너뛰어요. --force면 덮어써요.`);
+      return;
+    }
+    const map = JSON.parse(readFileSync(resolve(pos[0]), 'utf8'));
+    let n = 0, kept = 0, missing = 0;
+    for (const [id, p] of Object.entries(map)) {
+      const v = data.videos.find((x) => x.id === id);
+      if (!v) { missing++; continue; }
+      if (!/^\d{1,3}(\.\d+)?% \d{1,3}(\.\d+)?%$/.test(p)) die(`${id}: "${p}"는 "50% 35%" 형식이 아니에요.`);
+      if (v.thumbPos && !flags.force) { kept++; continue; }
+      if (v.thumbPos !== p) { v.thumbPos = p; n++; }
+    }
+    if (kept) out(`  이미 있는 위치 ${kept}개는 그대로 둠`);
+    if (missing) warn(`없는 영상 ${missing}개는 건너뜀`);
+    if (!n) { out('바꿀 영상이 없어요.'); return; }
+    save(`영상 ${n}개 썸네일 위치`);
   },
 
   'remove-videos'() {

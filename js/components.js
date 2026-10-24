@@ -29,6 +29,10 @@ export const dowPill = (date) => {
 export function sourceLabel(v) {
   return v.source === 'official' ? '공식' : v.source === 'fan' ? '팬' : '출처 모름';
 }
+// 이름띠 오른쪽에 붙이는 짧은 출처: 공식·팬, 모르면 채널 이름
+export function srcShort(v) {
+  return v.source ? sourceLabel(v) : (v.channel || '');
+}
 // 썸네일 아래 한 줄: 출처(모르면 채널 이름) · 태그
 export function srcTags(v) {
   return [v.source ? sourceLabel(v) : (v.channel || '출처 모름'), ...(v.tags || [])].join(' · ');
@@ -69,7 +73,7 @@ function stripHTML(v, stripText, extra) {
 }
 
 // 영상 썸네일. caption: html 조각 또는 null. badges: [{text, cls}]
-export function videoThumb(v, { ratio = v.type === 'full' ? '169' : '23', songKey, t, badges = [], caption = null, label, extraBadge = '', stripText } = {}) {
+export function videoThumb(v, { ratio = v.type === 'full' ? '169' : '23', songKey, t, badges = [], caption = null, label, extraBadge = '', stripText, stripExtra } = {}) {
   const { src, fb, ph } = imgOf(v, ratio);
   const all = [...badges];
   if (v.gone) all.push({ text: '삭제됨', cls: 'danger' });
@@ -78,7 +82,7 @@ export function videoThumb(v, { ratio = v.type === 'full' ? '169' : '23', songKe
   return html`<div class="tcell">
     <a class="thumb r${ratio}${v.gone ? ' gone' : ''}" href="${playHref(v, songKey, t)}" aria-label="${aria}">
       <img src="${src}" data-fb="${fb}" data-ph="${ph}" alt="" loading="lazy" decoding="async" style="${`object-position:${pos}`}">
-      ${ratio === '23' ? stripHTML(v, stripText) : ''}
+      ${ratio === '23' ? stripHTML(v, stripText, stripExtra) : ''}
       <span class="play-ic">${ICON.play}</span>
       ${all.length ? html`<span class="badges">${all.map((b) => html`<span class="badge ${b.cls || ''}">${b.text}</span>`)}</span>` : ''}
     </a>${extraBadge}

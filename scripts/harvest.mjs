@@ -3,6 +3,7 @@
 //
 //   node scripts/harvest.mjs 2026-10-01 2026-10-24 [--group g1] [--deep] [--out <폴더>] [--jobs 4]
 //   node scripts/harvest.mjs --since-last [--group g1]        그룹마다 지난번 끝 날짜 3일 전부터 오늘까지
+//   node scripts/harvest.mjs --gaps [--group g1] [--no-info]  멤버 직캠이 빈 음악 방송 공연만 멤버 × 날짜로 찾기
 //
 // 결과(<폴더>, 기본 .cache/harvest):
 //   auto.json    확실한 영상. 그대로 node scripts/archive.mjs add <폴더>/auto.json --create-songs --dry-run → 실제 실행
@@ -26,12 +27,12 @@ for (let i = 0; i < argv.length; i++) {
   const a = argv[i];
   if (a.startsWith('--')) {
     const k = a.slice(2);
-    if (['deep', 'since-last', 'help', 'no-info'].includes(k)) flags[k] = true;
+    if (['deep', 'since-last', 'help', 'no-info', 'gaps'].includes(k)) flags[k] = true;
     else flags[k] = argv[++i];
   } else pos.push(a);
 }
-if (flags.help || (!pos[0] && !flags['since-last'])) {
-  console.log(readFileSync(fileURLToPath(import.meta.url), 'utf8').split('\n').slice(1, 14).map((l) => l.replace(/^\/\/ ?/, '')).join('\n'));
+if (flags.help || (!pos[0] && !flags['since-last'] && !flags.gaps)) {
+  console.log(readFileSync(fileURLToPath(import.meta.url), 'utf8').split('\n').slice(1, 15).map((l) => l.replace(/^\/\/ ?/, '')).join('\n'));
   process.exit(0);
 }
 
@@ -66,7 +67,18 @@ async function pool(items, n, fn) {
 }
 
 // ---------- 1) 검색: 날짜(YYMMDD) × 그룹 이름 ----------
+// --gaps: 멤버 직캠이 빈 음악 방송 공연(사전녹화 제외)
+const MUSIC_SHOWS = new Set(['뮤직뱅크', '인기가요', '쇼! 음악중심', '엠카운트다운', '더 쇼', '쇼챔피언']);
+const gapEvents = flags.gaps ? data.events.filter((e) => groups.some((g) => g.id === e.groupId) && MUSIC_SHOWS.has(e.show) && !e.label).map((e) => {
+  const g = groups.find((x) => x.id === e.groupId);
+  const have = new Set(data.videos.filter((v) => v.eventId === e.id && v.type === 'fancam').flatMap((v) => v.memberIds));
+  return { e, g, miss: g.members.filter((m) => m.active !== false && !have.has(m.id)) };
+}).filter((x) => x.miss.length) : [];
 const ranges = groups.map((g) => {
+  if (flags.gaps) {
+    const ds = gapEvents.filter((x) => x.g === g).map((x) => x.e.date).sort();
+    return { g, from: ds[0] || today, to: ds.at(-1) || today };
+  }
   let from = pos[0], to = pos[1] || today;
   if (flags['since-last']) { from = state[g.id] ? addDays(state[g.id], -3) : addDays(today, -14); to = today; }
   return { g, from, to };
@@ -75,7 +87,12 @@ const doneFile = join(OUT, 'done.txt');
 const doneQ = new Set(existsSync(doneFile) ? readFileSync(doneFile, 'utf8').split('\n') : []);
 const found = readJson(join(OUT, 'found.json'), {});
 const queries = [];
-for (const { g, from, to } of ranges) {
+if (flags.gaps) {
+  for (const { e, g, miss } of gapEvents) for (const m of miss) {
+    queries.push({ g, day: e.date, q: `${g.name} ${m.name} 직캠 ${yymmdd(e.date)}`, pages: 2 });
+    if (m.aliases?.[0] && g.en) queries.push({ g, day: e.date, q: `${g.en} ${m.aliases[0]} fancam ${yymmdd(e.date)}`, pages: 2 });
+  }
+} else for (const { g, from, to } of ranges) {
   for (let d = from; d <= to; d = addDays(d, 1)) for (const n of [g.name, g.en].filter(Boolean)) queries.push({ g, day: d, q: `${n} ${yymmdd(d)}`, pages: 5 });
 }
 const runQueries = async (list, label) => {
@@ -150,6 +167,8 @@ writeFileSync(CACHE, JSON.stringify(meta));
 const evByGroupDay = new Map();
 for (const e of data.events) { const k = `${e.groupId}|${e.date}`; (evByGroupDay.get(k) || evByGroupDay.set(k, []).get(k)).push(e); }
 const auto = [], review = [];
+const NEWS_CH = /MBN|뉴스|news|스타뉴스|STARPLUS|연합|YTN|디스패치|dispatch|스포츠|일간|TV리포트|bnt|텐아시아|엑스포츠|OSEN|마이데일리/i;
+const STAGE_WORD = /직캠|fancam|facecam|cam\b|stage|무대|full|콘서트|concert|축제|festival|performance|공연|live|라이브|encore|앵콜|tour|투어|@/i;
 const rangeOf = new Map(ranges.map((r) => [r.g.id, r]));
 for (const c of cands) {
   const m = meta[c.id] || {};
@@ -161,6 +180,10 @@ for (const c of cands) {
   const uploaded = m.uploaded || null;
   const p = parseTitle(title, c.g, { channel, uploaded });
   const why = [];
+  // 무대라는 근거: 곡이 있거나 무대 낱말이 있어야 자동으로 담는다(예능·뉴스 영상이 업로드 날짜로 공연에 붙지 않게)
+  const staged = p.songIds.length > 0 || STAGE_WORD.test(title);
+  if (NEWS_CH.test(channel)) why.push(`뉴스·예능 채널(${channel})`);
+  if (!staged) why.push('곡도 무대 낱말도 없음');
   let date = p.date;
   const { from, to } = rangeOf.get(c.g.id);
   if (date && (date < addDays(from, -7) || date > to)) { rej('기간 밖'); continue; }
@@ -169,7 +192,7 @@ for (const c of cands) {
   if (!date) {
     const up = uploaded || approx?.date;
     const near = up ? data.events.filter((e) => e.groupId === c.g.id && dayGap(up, e.date) >= 0 && dayGap(up, e.date) <= 7) : [];
-    if (uploaded && near.length === 1) date = near[0].date; // archive add가 같은 규칙으로 정한다
+    if (uploaded && near.length === 1 && staged) date = near[0].date; // archive add가 같은 규칙으로 정한다
     else why.push(`제목에 날짜 없음${up ? ` (업로드 ${up}${uploaded ? '' : ' 추정'}, 앞 7일 공연 ${near.map((e) => `${e.date} ${e.show}`).join(', ') || '없음'})` : ''}`);
   }
   const day = date ? evByGroupDay.get(`${c.g.id}|${date}`) || [] : [];
@@ -191,6 +214,6 @@ writeFileSync(join(OUT, 'review.txt'), review.map((r, i) => `${String(i).padStar
 const sum = [`후보 ${Object.keys(found).length} → 확실 ${auto.length} · 확인 필요 ${review.length}`, ...Object.entries(reject).sort((a, b) => b[1] - a[1]).map(([k, n]) => `  걸러짐 ${k}: ${n}`)].join('\n');
 writeFileSync(join(OUT, 'summary.txt'), `${sum}\n`);
 // 검색을 모두 마친 그룹만 '어디까지 찾았는지'를 남긴다(--since-last가 실패한 날을 건너뛰지 않게)
-for (const { g, to } of ranges) if (queries.filter((x) => x.g === g).every((x) => doneQ.has(x.q)) && (!state[g.id] || state[g.id] < to)) state[g.id] = to;
+if (!flags.gaps) for (const { g, to } of ranges) if (queries.filter((x) => x.g === g).every((x) => doneQ.has(x.q)) && (!state[g.id] || state[g.id] < to)) state[g.id] = to;
 writeFileSync(STATE, JSON.stringify(state, null, 1));
 console.log(`\n${sum}\n\n다음:\n  node scripts/archive.mjs add ${join(OUT, 'auto.json')} --create-songs --dry-run\n  확인 필요: ${join(OUT, 'review.txt')}`);
