@@ -40,9 +40,12 @@ async function start() {
   app.reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
   const mq = matchMedia('(max-width: 719px)');
   app.mobile = mq.matches;
-  // 넓은 창(21:9 전체·절반, 1500px 이상): 왼쪽 고정 패널. 그보다 좁으면 도구 막대 + 서랍
-  const mqRail = matchMedia('(min-width: 1500px)');
+  // 아주 넓은 창(21:9 전체창, 2600px 이상)만 왼쪽 고정 패널. 16:9 전체창·절반창은 도구 막대 + 서랍
+  // 1500px 미만(절반창)은 라인업 풀캠을 넘기기 줄 끝에 붙인다(app.narrow)
+  const mqRail = matchMedia('(min-width: 2600px)');
+  const mqNarrow = matchMedia('(max-width: 1499px)');
   const setLayout = () => {
+    app.narrow = mqNarrow.matches;
     app.layout = mqRail.matches ? 'rail' : app.mobile ? 'mobile' : 'compact';
     document.body.dataset.layout = app.layout;
   };
@@ -50,6 +53,7 @@ async function start() {
   const relayout = () => { app.mobile = mq.matches; setLayout(); setRail(false, { focus: false }); lastBaseKey = null; render(); };
   mq.addEventListener('change', relayout);
   mqRail.addEventListener('change', relayout);
+  mqNarrow.addEventListener('change', relayout);
   themeButton(document.getElementById('theme-btn'), () => applyAccent(currentGroup()?.hue));
   new ResizeObserver(() => {
     document.documentElement.style.setProperty('--topbar-h', `${document.getElementById('topbar').offsetHeight}px`);
@@ -121,7 +125,7 @@ function render() {
   renderTabs();
 
   const base = baseOf(s);
-  const key = `${toHash(base)}|${app.query}|${app.layout}`;
+  const key = `${toHash(base)}|${app.query}|${app.layout}|${app.narrow ? 'n' : 'w'}`;
   if (key !== lastBaseKey) {
     const onlyOpen = lastBaseKey && lastBase && !app.query && lastBase.open !== base.open && sameExcept(lastBase, base, 'open') && !base.e && !base.v;
     if (lastBaseKey) scrollMem.set(lastBaseKey, scrollY);

@@ -686,11 +686,13 @@ pre.code { background: var(--soft); border-radius: var(--r); padding: 10px; over
 /* 직캠 없는 공연: 풀캠을 카드 높이만큼 크게(1~3장) */
 .car-fulls { grid-column: span 2; display: grid; grid-template-columns: repeat(var(--n, 3), minmax(0, calc(var(--car-h) * 16 / 9))); gap: var(--gap); min-width: 0; }
 .car-none { grid-column: span 2; }
-/* 좁은 창(720~1499px, 16:9 절반창): 날짜 열은 왼쪽에 두고, 풀캠은 넘기기 줄 끝에 붙인다(js/views/lineup.js) */
-[data-layout="compact"] .lu { --date-w: 124px; }
-[data-layout="compact"] .car-row { grid-template-columns: var(--date-w) minmax(0, 1fr); }
-[data-layout="compact"] .car, [data-layout="compact"] .car.wide, [data-layout="compact"] .car-fulls, [data-layout="compact"] .car-none { grid-column: 2; }
-[data-layout="compact"] .d-big { font-size: 26px; }
+/* 절반창(720~1499px): 날짜 열은 왼쪽에 두고, 풀캠은 넘기기 줄 끝에 붙인다(js/views/lineup.js) */
+@media (max-width: 1499px) {
+  [data-layout="compact"] .lu { --date-w: 124px; }
+  [data-layout="compact"] .car-row { grid-template-columns: var(--date-w) minmax(0, 1fr); }
+  [data-layout="compact"] .car, [data-layout="compact"] .car.wide, [data-layout="compact"] .car-fulls, [data-layout="compact"] .car-none { grid-column: 2; }
+  [data-layout="compact"] .d-big { font-size: 26px; }
+}
 .car-item.r169 { aspect-ratio: 16 / 9; }
 .mfull { padding: 10px 14px 0; }
 
@@ -785,7 +787,7 @@ pre.code { background: var(--soft); border-radius: var(--r); padding: 10px; over
 .qlist a, .qlist .cur { grid-template-columns: 34px minmax(0, 1fr); padding: 4px 6px; }
 .qlist .mini { width: 34px; }
 
-/* ---------- 창 크기 맞춤: 왼쪽 패널(1500px 이상) · 도구 막대 + 서랍(그보다 좁을 때) ---------- */
+/* ---------- 창 크기 맞춤: 왼쪽 패널(2600px 이상, 21:9 전체창) · 도구 막대 + 서랍(그보다 좁을 때) ---------- */
 .layout { min-width: 0; }
 .content { min-width: 0; }
 .rail { background: var(--surface); box-shadow: var(--sheet-shadow); padding: 14px 14px 18px; display: grid; gap: 18px; align-content: start; min-width: 0; }
