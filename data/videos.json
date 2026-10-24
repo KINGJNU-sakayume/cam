@@ -6255,6 +6255,202 @@
         "g4s17"
       ],
       "note": ""
+    },
+    {
+      "id": "e423",
+      "groupId": "g5",
+      "date": "2026-05-15",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g5s31"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e424",
+      "groupId": "g5",
+      "date": "2026-05-16",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g5s31"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e425",
+      "groupId": "g5",
+      "date": "2026-05-17",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g5s31"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e426",
+      "groupId": "g5",
+      "date": "2026-05-22",
+      "show": "고려대 축제",
+      "label": "",
+      "setlist": [
+        "g5s7",
+        "g5s14",
+        "g5s31"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e427",
+      "groupId": "g5",
+      "date": "2026-05-27",
+      "show": "한양대 축제",
+      "label": "",
+      "setlist": [
+        "g5s31",
+        "g5s7",
+        "g5s14",
+        "g5s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e428",
+      "groupId": "g5",
+      "date": "2026-05-29",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g5s32"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e429",
+      "groupId": "g5",
+      "date": "2026-05-30",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g5s32"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e430",
+      "groupId": "g5",
+      "date": "2026-05-31",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g5s32"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e431",
+      "groupId": "g5",
+      "date": "2026-06-02",
+      "show": "한국외국어대 축제",
+      "label": "",
+      "setlist": [
+        "g5s32",
+        "g5s31",
+        "g5s7",
+        "g5s14",
+        "g5s2"
+      ],
+      "note": "",
+      "aliases": [
+        "한국외대 축제"
+      ]
+    },
+    {
+      "id": "e432",
+      "groupId": "g5",
+      "date": "2026-06-05",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g5s32"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e433",
+      "groupId": "g5",
+      "date": "2026-06-06",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g5s32"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e434",
+      "groupId": "g5",
+      "date": "2026-06-07",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g5s32"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e435",
+      "groupId": "g5",
+      "date": "2026-07-18",
+      "show": "팬미팅",
+      "label": "",
+      "setlist": [
+        "g5s41",
+        "g5s44",
+        "g5s31"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e436",
+      "groupId": "g5",
+      "date": "2026-07-19",
+      "show": "팬미팅",
+      "label": "",
+      "setlist": [
+        "g5s32",
+        "g5s44"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e437",
+      "groupId": "g5",
+      "date": "2026-07-20",
+      "show": "팬미팅",
+      "label": "",
+      "setlist": [
+        "g5s44",
+        "g5s32"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e438",
+      "groupId": "g5",
+      "date": "2026-08-22",
+      "show": "TIMA 2026",
+      "label": "",
+      "setlist": [
+        "g5s14",
+        "g5s31",
+        "g5s7",
+        "g5s32",
+        "g5s34"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -103204,6 +103400,2984 @@
       "tags": [],
       "title": "엔믹스 ( NMIXX ) - 피닉스 ( Phoenix ) TMA 2026",
       "channel": "하트디렉터",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8208",
+      "ytId": "VBwiFSUiEgk",
+      "eventId": "e423",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 에스파 닝닝 'WDA (Whole Different Animal)' (aespa NINGNING Facecam) @뮤직뱅크(Music Bank) 260515",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8209",
+      "ytId": "PBuAJTkbCz4",
+      "eventId": "e423",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 지젤 직캠 'WDA(Whole Different Animal)' (aespa GISELLE Fancam) @뮤직뱅크(Music Bank) 260515",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8210",
+      "ytId": "DXsGDsamhsE",
+      "eventId": "e423",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 닝닝 직캠 'WDA(Whole Different Animal)' (aespa NINGNING Fancam) @뮤직뱅크(Music Bank) 260515",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8211",
+      "ytId": "64yKTikZmAM",
+      "eventId": "e423",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 에스파 카리나 'WDA (Whole Different Animal)' (aespa KARINA Facecam) @뮤직뱅크(Music Bank) 260515",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8212",
+      "ytId": "dlvgt65mJ0Y",
+      "eventId": "e423",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 에스파 윈터 'WDA (Whole Different Animal)' (aespa WINTER Facecam) @뮤직뱅크(Music Bank) 260515",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8213",
+      "ytId": "r5JfExjkYsI",
+      "eventId": "e423",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 카리나 직캠 'WDA(Whole Different Animal)' (aespa KARINA Fancam) @뮤직뱅크(Music Bank) 260515",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8214",
+      "ytId": "7SRpLEUoswk",
+      "eventId": "e423",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 에스파 지젤 'WDA (Whole Different Animal)' (aespa GISELLE Facecam) @뮤직뱅크(Music Bank) 260515",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8215",
+      "ytId": "0dn-739lbdo",
+      "eventId": "e423",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 윈터 직캠 'WDA(Whole Different Animal)' (aespa WINTER Fancam) @뮤직뱅크(Music Bank) 260515",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8216",
+      "ytId": "jRAgSAUmaGk",
+      "eventId": "e424",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠8K] aespa (에스파) – WDA (Whole Different Animal) (Feat. G-DRAGON) FullCam | 쇼! 음악중심 | MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8217",
+      "ytId": "4o1CtEsysyE",
+      "eventId": "e424",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] aespa NINGNING(에스파 닝닝) WDA (Whole Different Animal) (Feat. G-DRAGON)FanCam|쇼! 음악중심|MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8218",
+      "ytId": "FwJ4x2_vP9k",
+      "eventId": "e424",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] aespa KARINA (에스파 카리나) – WDA (Whole Different Animal) (Feat. G-DRAGON) | 쇼! 음악중심 | MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8219",
+      "ytId": "qhqNyiVWiXs",
+      "eventId": "e424",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] aespa NINGNING (에스파 닝닝) – WDA (Whole Different Animal) (Feat. G-DRAGON) | 쇼! 음악중심 |MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8220",
+      "ytId": "-6USZVUFOtc",
+      "eventId": "e424",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] aespa KARINA(에스파 카리나)–WDA(Whole Different Animal)(Feat. G-DRAGON)FanCam| 쇼! 음악중심 | MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8221",
+      "ytId": "sctc5bJ7q_s",
+      "eventId": "e424",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] aespa GISELLE (에스파 지젤) – WDA (Whole Different Animal) (Feat. G-DRAGON) | 쇼! 음악중심 | MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8222",
+      "ytId": "hxexGMp29Ck",
+      "eventId": "e424",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] aespa WINTER(에스파 윈터)–WDA(Whole Different Animal)(Feat. G-DRAGON) FanCam |쇼! 음악중심| MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8223",
+      "ytId": "xIwWoKilsIU",
+      "eventId": "e424",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] aespa GISELLE(에스파 지젤)–WDA(Whole Different Animal)(Feat. G-DRAGON)FanCam| 쇼! 음악중심 | MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8224",
+      "ytId": "irdoc1F7_ds",
+      "eventId": "e424",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] aespa WINTER (에스파 윈터) – WDA (Whole Different Animal) (Feat. G-DRAGON) | 쇼! 음악중심 | MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8225",
+      "ytId": "2n3tdFz-ARQ",
+      "eventId": "e425",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 에스파 'WDA (Whole Different Animal) (Feat. G-DRAGON)' (aespa FullCam) @SBS Inkigayo 260517",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8226",
+      "ytId": "I-Qn5HkTA-k",
+      "eventId": "e426",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260522 에스파 윈터 직캠 'SUPERNOVA' (aespa WINTER FanCam) @고려대 축제",
+      "channel": "ChaeCam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8227",
+      "ytId": "FrT7FRfXYZ8",
+      "eventId": "e426",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260522 에스파 윈터 직캠 'WHIPLASH' (aespa WINTER FanCam) @고려대 축제",
+      "channel": "ChaeCam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8228",
+      "ytId": "pmg0Bg0icPM",
+      "eventId": "e426",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K】260522 고려대 축제 aespa 지젤 GISELLE WDA (Whole Different Animal) 직캠",
+      "channel": "Moon tour.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8229",
+      "ytId": "3RX8PyFbZt8",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1",
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260527 aespa 에스파 카리나 닝닝 - (신곡) WDA & Live My Life & Supernova (한양대 축제) 직캠 fancam by zam",
+      "channel": "z a m",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8230",
+      "ytId": "TU-eDGWikKc",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa 에스파 Full ver. 'WDA, Supernova, Whiplash, Next Level, Live My Life'｜한양대 축제  260527",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8231",
+      "ytId": "sa-JU3WkBaU",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260527 aespa (에스파) 'Whiplash' (카리나 직캠) 한양대학교 축제",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8232",
+      "ytId": "DuFlShiZ2Wk",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260527 에스파 aespa - 닝닝 Whiplash 직캠 @한양대",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8233",
+      "ytId": "0lMN1XFlwxc",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260527 에스파 aespa - 닝닝 Supernova 직캠 @한양대",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8234",
+      "ytId": "SkJnA6onVA0",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260527 에스파 카리나 - Whiplash | 2026 한양대학교 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8235",
+      "ytId": "im8_fgdtGV4",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260527 aespa 에스파 카리나 - 멘트 & Whiplash위플래쉬 & NEXT LEVEL 넥스트레벨 (한양대 축제) 직캠 fancam by zam",
+      "channel": "z a m",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8236",
+      "ytId": "WR9eRb4gvkE",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "260527 에스파 aespa - 닝닝 Next Level 세로직캠 @한양대",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8237",
+      "ytId": "WJEA348D1rs",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "260527 에스파 aespa - 닝닝 Supernova 세로직캠 @한양대",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8238",
+      "ytId": "uc_welIJsTc",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260527 에스파 카리나 - WDA (Whole Different Animal) | 2026 한양대학교 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8239",
+      "ytId": "Q4ye7IAnduE",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260527 aespa (에스파) 'Next Level' (닝닝 직캠) 한양대학교 축제",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8240",
+      "ytId": "Q0ffJ0Nf8y8",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P] 20260527 에스파 (aespa) 윈터 Full Ver \"Live My Life+Supernova+Whiplash+Next Level\" 직캠 @ 한양대학교 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8241",
+      "ytId": "X2clvUVwb2Y",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1",
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260527 | Aespa Karina & Winter - WDA (Whole Different Animal) 4k Fancam @ 한양대 축제",
+      "channel": "Qizi",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8242",
+      "ytId": "kpOOTia35o0",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P] 20260527 에스파 (aespa) 윈터 \"WDA (Whole Different Animal)\" 직캠 @ 한양대학교 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-28"
+    },
+    {
+      "id": "v8243",
+      "ytId": "nn7VjpcKFP0",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260527 에스파 카리나 직캠 \"WDA\" @한양대 축제",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8244",
+      "ytId": "320lhOD-QWs",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260527 에스파 aespa - 윈터 WDA 직캠 @한양대",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8245",
+      "ytId": "O1kyT6gQWF0",
+      "eventId": "e428",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 카리나 직캠 'LEMONADE' (aespa KARINA Fancam) @뮤직뱅크(Music Bank) 260529",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8246",
+      "ytId": "Vl8gg75mQ74",
+      "eventId": "e428",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 에스파 윈터 'LEMONADE' (aespa WINTER Facecam) @뮤직뱅크(Music Bank) 260529",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8247",
+      "ytId": "h-dwiz7_8iY",
+      "eventId": "e428",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 에스파 카리나 'LEMONADE' (aespa KARINA Facecam) @뮤직뱅크(Music Bank) 260529",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8248",
+      "ytId": "20VYZf6g8WI",
+      "eventId": "e428",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 에스파 지젤 'LEMONADE' (aespa GISELLE Facecam) @뮤직뱅크(Music Bank) 260529",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8249",
+      "ytId": "32LngfwkyHc",
+      "eventId": "e428",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 윈터 직캠 'LEMONADE' (aespa WINTER Fancam) @뮤직뱅크(Music Bank) 260529",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8250",
+      "ytId": "mrRU3R4Y0ks",
+      "eventId": "e428",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 지젤 직캠 'LEMONADE' (aespa GISELLE Fancam) @뮤직뱅크(Music Bank) 260529",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8251",
+      "ytId": "Pcb9aEK5y0U",
+      "eventId": "e428",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 닝닝 직캠 'LEMONADE' (aespa NINGNING Fancam) @뮤직뱅크(Music Bank) 260529",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8252",
+      "ytId": "8j1xcBmYn5Y",
+      "eventId": "e428",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 에스파 닝닝 'LEMONADE' (aespa NINGNING Facecam) @뮤직뱅크(Music Bank) 260529",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8253",
+      "ytId": "SaZv4YXZbIU",
+      "eventId": "e429",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] aespa NINGNING (에스파 닝닝) – LEMONADE FanCam | 쇼! 음악중심 | MBC260530",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8254",
+      "ytId": "fHV-xlIM4_4",
+      "eventId": "e429",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠8K] aespa (에스파) – LEMONADE FullCam | 쇼! 음악중심 | MBC260530",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8255",
+      "ytId": "kzaiaIYRdC0",
+      "eventId": "e429",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] aespa KARINA (에스파 카리나) – LEMONADE FanCam | 쇼! 음악중심 | MBC260530",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8256",
+      "ytId": "fVZ1YsaiaY8",
+      "eventId": "e429",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] aespa NINGNING (에스파 닝닝) – LEMONADE | 쇼! 음악중심 | MBC260530",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8257",
+      "ytId": "7G0l4v6gOD8",
+      "eventId": "e429",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] aespa WINTER (에스파 윈터) – LEMONADE | 쇼! 음악중심 | MBC260530",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8258",
+      "ytId": "6RuwYynkefE",
+      "eventId": "e429",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] aespa WINTER (에스파 윈터) – LEMONADE FanCam | 쇼! 음악중심 | MBC260530",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8259",
+      "ytId": "9ngVGRJNVzs",
+      "eventId": "e429",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] aespa KARINA (에스파 카리나) – LEMONADE | 쇼! 음악중심 | MBC260530",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8260",
+      "ytId": "PnpEV8M22Us",
+      "eventId": "e429",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] aespa GISELLE (에스파 지젤) – LEMONADE | 쇼! 음악중심 | MBC260530",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8261",
+      "ytId": "vIFvrCLPlKU",
+      "eventId": "e429",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] aespa GISELLE (에스파 지젤) – LEMONADE FanCam | 쇼! 음악중심 | MBC260530",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8262",
+      "ytId": "SgSMQ9C8cB8",
+      "eventId": "e430",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 에스파 'LEMONADE' (aespa FullCam) @SBS Inkigayo 260531",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8263",
+      "ytId": "7K2j8PRIcJY",
+      "eventId": "e430",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[Comeback Stage] 260531 aespa (에스파) - LEMONADE | SBS INKIGAYO 인기가요 방송 [1080P]",
+      "channel": "K-EVER KPOP LIVE [VOD]",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8264",
+      "ytId": "ZsS_1SCiA28",
+      "eventId": "e430",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 에스파 'LEMONADE' 단독샷 별도녹화│aespa ONE TAKE STAGE│@SBS Inkigayo 260531",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8265",
+      "ytId": "a1a2HKZwEr0",
+      "eventId": "e430",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 에스파 카리나 'LEMONADE' (aespa KARINA FaceCam) @SBS Inkigayo 260531",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8266",
+      "ytId": "WRZ1lPGjUwY",
+      "eventId": "e430",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 에스파 닝닝 'LEMONADE' (aespa NINGNING FaceCam) @SBS Inkigayo 260531",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8267",
+      "ytId": "PBXG1QzC4Uo",
+      "eventId": "e430",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 에스파 윈터 'LEMONADE' (aespa WINTER FaceCam) @SBS Inkigayo 260531",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8268",
+      "ytId": "8vV_IYQuVeA",
+      "eventId": "e430",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 에스파 지젤 'LEMONADE' (aespa GISELLE FaceCam) @SBS Inkigayo 260531",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8269",
+      "ytId": "qyn8m_JA6rU",
+      "eventId": "e430",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 에스파 카리나 'LEMONADE' (aespa KARINA FanCam) @SBS Inkigayo 260531",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8270",
+      "ytId": "QlkyIfVIMRI",
+      "eventId": "e430",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 에스파 지젤 'LEMONADE' (aespa GISELLE FanCam) @SBS Inkigayo 260531",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8271",
+      "ytId": "TerTVKd7sVQ",
+      "eventId": "e430",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 에스파 윈터 'LEMONADE' (aespa WINTER FanCam) @SBS Inkigayo 260531",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8272",
+      "ytId": "gfnWppw6iZ4",
+      "eventId": "e430",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 에스파 닝닝 'LEMONADE' (aespa NINGNING FanCam) @SBS Inkigayo 260531",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8273",
+      "ytId": "HjVxvLQtMj4",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260602 에스파 카리나 LEMONADE 4K 직캠 @한국외대(aespa KARINA FANCAM)",
+      "channel": "Day_Day",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8274",
+      "ytId": "WGQscnZquag",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s2",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260602 에스파 윈터 직캠 'WDA + Supernova + Whiplash + Next Level + LEMONADE' aespa(WINTER) Fancam @한국외국어대학교",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8275",
+      "ytId": "GlZAShgysrI",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "에스파 지젤 세로 직캠 4K 'LEMONADE 레모네이드' (aespa GISELLE Vertical FanCam) | 한국외대 서울캠퍼스 축제 260602",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8276",
+      "ytId": "XOvIw5QEjNE",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        },
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260602 에스파 카리나 WDA+SuperNova+Wiplash+NextLevel+LEMONADE 4K 직캠 @한국외대(aespa KARINA FANCAM)",
+      "channel": "Day_Day",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8277",
+      "ytId": "PDNHFe2BsBg",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260602 4K 60 직캠 fancam 윈터 WINTER 에스파 aespa 'LEMONADE' 한국외대 축제 Hankuk University of Foreign Studies",
+      "channel": "mistletoe_01",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8278",
+      "ytId": "T6EySJ6CbaQ",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s2",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260602 에스파 닝닝 직캠 'WDA+Supernova+Whiplash+Next Level+LEMONADE' aespa(NINGNING) Fancam @한국외국어대학교",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8279",
+      "ytId": "P0qGrlpPfvI",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]260602 한국외국어대학교 축제 - LEMONADE🍋 카리나 Karina 에스파 aespa FANCAM 직캠",
+      "channel": "notes0411",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8280",
+      "ytId": "Qb5lVD_RXPo",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s2",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260602 에스파 카리나 직캠 'WDA+Supernova+Whiplash+Next Level+LEMONADE' aespa(KARINA) Fancam @한국외국어대학교",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8281",
+      "ytId": "wIfd_ZZUa-c",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "에스파 닝닝 세로 직캠 4K 'LEMONADE 레모네이드' (aespa NINGNING Vertical FanCam)🔥 | 한국외대축제 260602",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8282",
+      "ytId": "TBIFzZtRUR8",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1",
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260602 | Aespa Karina & Winter - Lemonade 4k Fancam @ 한국외대",
+      "channel": "Qizi",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8283",
+      "ytId": "B4BaOwCd9lk",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "카리나[에스파] - whiplash 4k60p 직캠 @한국외대축제 260602",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8284",
+      "ytId": "kL3J2nkwcUs",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "에스파 윈터 4K 세로 직캠 'LEMONADE 레모네이드' (aespa WINTER Vertical FanCam)🔥 | 한국외대축제 260602",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8285",
+      "ytId": "37dGqJjZHMM",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "카리나[에스파] - Lemonade 4k60p 직캠 @한국외대축제 260602",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8286",
+      "ytId": "gjCk-Bj8ofg",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260602  Karina “LEMONADE” 한국외국어대학교 축제 에스파 aespa 카리나  karina 4K 60 직캠",
+      "channel": "BLUE💙",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8287",
+      "ytId": "ZzAPIh0gNnc",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s2",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260602 에스파 지젤 직캠 'WDA+Supernova+Whiplash+Next Level+LEMONADE' aespa(GISELLE) Fancam @한국외국어대학교",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8288",
+      "ytId": "ywZTN9l7XGE",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "에스파 카리나 세로 직캠 4K 'LEMONADE 레모네이드' (aespa KARINA FanCam)🔥 | 한국외대축제 260602",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-03"
+    },
+    {
+      "id": "v8289",
+      "ytId": "W0IwhJVaVYk",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        },
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260602 한국외대 축제 aespa 에스파 KARINA 카리나 - LEMONADE + WDA 직캠",
+      "channel": "im_chirey",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8290",
+      "ytId": "DngvFaf9Uco",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260602 에스파 카리나 aespa KARINA - Supernova FANCAM 직캠 @한국외대",
+      "channel": "jiminiverse411",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-28"
+    },
+    {
+      "id": "v8291",
+      "ytId": "OojlbI2DdgQ",
+      "eventId": "e432",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 카리나 직캠 'LEMONADE' (aespa KARINA Fancam) @뮤직뱅크(Music Bank) 260605",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8292",
+      "ytId": "90gUAIS-jBQ",
+      "eventId": "e432",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 에스파 카리나 'LEMONADE' (aespa KARINA Facecam) @뮤직뱅크(Music Bank) 260605",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8293",
+      "ytId": "iF9di-AySFo",
+      "eventId": "e432",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 에스파 윈터 'LEMONADE' (aespa WINTER Facecam) @뮤직뱅크(Music Bank) 260605",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8294",
+      "ytId": "4BZg9B36Exo",
+      "eventId": "e432",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 지젤 직캠 'LEMONADE' (aespa GISELLE Fancam) @뮤직뱅크(Music Bank) 260605",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8295",
+      "ytId": "UZa1wrEnR_E",
+      "eventId": "e432",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 윈터 직캠 'LEMONADE' (aespa WINTER Fancam) @뮤직뱅크(Music Bank) 260605",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8296",
+      "ytId": "232bqMkpDCE",
+      "eventId": "e432",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 에스파 닝닝 'LEMONADE' (aespa NINGNING Facecam) @뮤직뱅크(Music Bank) 260605",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8297",
+      "ytId": "IYnEtgAwD3A",
+      "eventId": "e432",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 닝닝 직캠 'LEMONADE' (aespa NINGNING Fancam) @뮤직뱅크(Music Bank) 260605",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8298",
+      "ytId": "Zoo03LXJ_4I",
+      "eventId": "e432",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 에스파 지젤 'LEMONADE' (aespa GISELLE Facecam) @뮤직뱅크(Music Bank) 260605",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8299",
+      "ytId": "vxnGh3NYcmA",
+      "eventId": "e433",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] aespa KARINA (에스파 카리나) – LEMONADE | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8300",
+      "ytId": "exEYipIrDLU",
+      "eventId": "e433",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠] aespa (에스파) – LEMONADE FullCam | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8301",
+      "ytId": "q999rpyR0B4",
+      "eventId": "e433",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] aespa WINTER (에스파 윈터) – LEMONADE | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8302",
+      "ytId": "B8l_qT7j9pQ",
+      "eventId": "e433",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] aespa WINTER (에스파 윈터) – LEMONADE FanCam | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8303",
+      "ytId": "CX6RsuJvZj0",
+      "eventId": "e433",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] aespa KARINA (에스파 카리나) – LEMONADE FanCam | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8304",
+      "ytId": "TXwvWK-4NrM",
+      "eventId": "e433",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] aespa GISELLE (에스파 지젤) – LEMONADE FanCam | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8305",
+      "ytId": "qYykZcej7So",
+      "eventId": "e433",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] aespa GISELLE (에스파 지젤) – LEMONADE | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8306",
+      "ytId": "eIbdsU8RXyw",
+      "eventId": "e433",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] aespa NINGNING (에스파 닝닝) – LEMONADE FanCam | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8307",
+      "ytId": "1AxwtAwIFMY",
+      "eventId": "e433",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] aespa NINGNING (에스파 닝닝) – LEMONADE | 쇼! 음악중심 | MBC260606",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-08"
+    },
+    {
+      "id": "v8308",
+      "ytId": "jVUocdK3dEM",
+      "eventId": "e434",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 에스파 윈터 'LEMONADE' (aespa WINTER FaceCam) @SBS Inkigayo 260607",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8309",
+      "ytId": "p98r7HbT0VE",
+      "eventId": "e434",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 에스파 'LEMONADE' (aespa FullCam) @SBS Inkigayo 260607",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8310",
+      "ytId": "6wpm0Ny8SV8",
+      "eventId": "e434",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 에스파 카리나 'LEMONADE' (aespa KARINA FaceCam) @SBS Inkigayo 260607",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8311",
+      "ytId": "HQmi3xVORU8",
+      "eventId": "e434",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 에스파 닝닝 'LEMONADE' (aespa NINGNING FanCam) @SBS Inkigayo 260607",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8312",
+      "ytId": "x5e2tCoDdtQ",
+      "eventId": "e434",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "에스파 윈터 직캠 'LEMONADE' (aespa WINTER FanCam) @Inkigayo 260607",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8313",
+      "ytId": "SWVmzedj6Is",
+      "eventId": "e434",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 에스파 지젤 'LEMONADE' (aespa GISELLE FanCam) @SBS Inkigayo 260607",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8314",
+      "ytId": "6CnmiMTxRDk",
+      "eventId": "e434",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260607 에스파 윈터 직캠 (aespa WINTER FanCam) 'LEMONADE' @ Inkigayo #인기가요 #kpop",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8315",
+      "ytId": "o2CxMKCsst4",
+      "eventId": "e435",
+      "songs": [
+        {
+          "songId": "g5s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K][FANCAM]260718-20 aespa KARINA 에스파 카리나 - “KISS N TELL” 직캠 @2026 JAPAN FANMEETING “MY CLASSMaeTE”",
+      "channel": "Lucid.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8316",
+      "ytId": "csXwaT1HCwQ",
+      "eventId": "e435",
+      "songs": [
+        {
+          "songId": "g5s44",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K][FANCAM]260718-20 aespa KARINA 에스파 카리나 - “ATTITUDE” 직캠 @2026 JAPAN FANMEETING “MY CLASSMaeTE”",
+      "channel": "Lucid.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8317",
+      "ytId": "Mx6s2oDcsvo",
+      "eventId": "e435",
+      "songs": [
+        {
+          "songId": "g5s44",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260718 에스파 윈터 aespa WINTER 'ATTITUDE' 직캠 (aespa JAPAN FANMEETING 2026 “MY CLASSMaeTE”)",
+      "channel": "Salvation",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8318",
+      "ytId": "LjUD-luXpMo",
+      "eventId": "e435",
+      "songs": [
+        {
+          "songId": "g5s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260718-19  Karina “KISS N TELL”FANMEETING 2026 “MY CLASSMaeTE에스파 aespa 카리나  karina 4K 60 직캠",
+      "channel": "BLUE💙",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8319",
+      "ytId": "G90oc1Ajp0k",
+      "eventId": "e435",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260718-20  Karina “WDA”JAPAN FANMEETING 2026 “MY CLASSMaeTE에스파 aespa 카리나  karina 4K 60 직캠",
+      "channel": "BLUE💙",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8320",
+      "ytId": "Ot0mCaycFBw",
+      "eventId": "e435",
+      "songs": [
+        {
+          "songId": "g5s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260718 aespa FANMEETING MY CLASSMaeTE - 'KISS N TELL' 에스파 윈터 직캠 aespa WINTER FOCUS fancam",
+      "channel": "White.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8321",
+      "ytId": "uRQuJHemhEk",
+      "eventId": "e435",
+      "songs": [
+        {
+          "songId": "g5s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260718-19 aespa JAPAN FANMEETING MY CLASSMaeTE 'KISS N TELL' aespa GISELLE fancam 에스파 지젤 직캠",
+      "channel": "flow.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8322",
+      "ytId": "-ZD_uLcmkoo",
+      "eventId": "e435",
+      "songs": [
+        {
+          "songId": "g5s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]  260718 에스파 윈터 aespa WINTER 'KISS N TELL' 직캠 (aespa JAPAN FANMEETING 2026 “MY CLASSMaeTE”)",
+      "channel": "Salvation",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8323",
+      "ytId": "b-SePblx1P0",
+      "eventId": "e435",
+      "songs": [
+        {
+          "songId": "g5s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260718 WINTER “KISS N TELL”JAPAN FANMEETING 2026 “MY CLASSMaeTE” 에스파 aespa 윈터 WINTER 4K 60 직캠",
+      "channel": "yuseong",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8324",
+      "ytId": "jn8LfJnXO5s",
+      "eventId": "e435",
+      "songs": [
+        {
+          "songId": "g5s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K][FANCAM] 260718.20 KARINA KISS N TELL 직캠 @aespa JAPAN FANMEETING 2026 “MY CLASSMaeTE\"",
+      "channel": "Flux",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8325",
+      "ytId": "ruvijvp3Chk",
+      "eventId": "e435",
+      "songs": [
+        {
+          "songId": "g5s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260718-20  Karina “KISS N TELL”JAPAN FANMEETING 2026 “MY CLASSMaeTE 에스파 aespa 카리나  karina 4K 60 직캠",
+      "channel": "BLUE💙",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8326",
+      "ytId": "3NSjQWShlPs",
+      "eventId": "e436",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K)(fancam)260719-20 aespa Karina 에스파 카리나 -LEMONADE 직캠 fancam@ aespa JAPAN FANMEETING MY CLASSMaeTE",
+      "channel": "𝗺𝗲𝘁𝗲𝗼𝗿𝗶𝘁𝗲",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8327",
+      "ytId": "LyfApqf4nLE",
+      "eventId": "e436",
+      "songs": [
+        {
+          "songId": "g5s44",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K)(fancam)260719-20 aespa Karina 에스파 카리나 -ATTITUDE 직캠 fancam@ aespa JAPAN FANMEETING MY CLASSMaeTE",
+      "channel": "𝗺𝗲𝘁𝗲𝗼𝗿𝗶𝘁𝗲",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8328",
+      "ytId": "vkhUKgmqflY",
+      "eventId": "e437",
+      "songs": [
+        {
+          "songId": "g5s44",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260720  Karina “ATTITUDE”JAPAN FANMEETING 2026 “MY CLASSMaeTE 에스파 aespa 카리나  karina 4K 60 직캠",
+      "channel": "BLUE💙",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8329",
+      "ytId": "1tcLQdagKo8",
+      "eventId": "e437",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260720 에스파 카리나 (aespa KARINA) - 'LEMONADE' 직캠 (aespa KARINA FOCUS Fancam) | JAPAN FANMEETING",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8330",
+      "ytId": "b-mIQKboJhI",
+      "eventId": "e438",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1",
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "260822 에스파 카리나 직캠 TIMA Whiplash (AESPA KARINA FANCAM) #에스파 #aespa #카리나 #karina #winter #윈터 #shorts",
+      "channel": "GSJS 외 2명",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8331",
+      "ytId": "r4HUsKKZbxo",
+      "eventId": "e438",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "에스파 카리나 'Whiplash + WDA + Supernova' 직캠 (aespa KARINA FanCam) | 260822 TIMA",
+      "channel": "라미",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8332",
+      "ytId": "ZbFFJK8z_XM",
+      "eventId": "e438",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K][FANCAM] aespa 'LEMONADE’ WINTER FOCUS｜260822 TIMA 직캠",
+      "channel": "justaespahk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8333",
+      "ytId": "EeWsf4BjAIA",
+      "eventId": "e438",
+      "songs": [
+        {
+          "songId": "g5s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4k】260822 TIMA Hong Kong｜aespa“Can’t Help Myself” NINGNING Focus ",
+      "channel": "LauraSY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8334",
+      "ytId": "-nYTugOziJQ",
+      "eventId": "e438",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[260822] WINTER 윈터 | Supernova | TIMA / TMELive International Music Award 2026 Fancam #aespa #winter",
+      "channel": "imgie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8335",
+      "ytId": "H8eoHLaWuIw",
+      "eventId": "e438",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260822 에스파 카리나 직캠 (aespa KARINA FanCam) 'Supernova' @ 2026 TIMA in Hongkong #Whiplash #SM #kpop",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8336",
+      "ytId": "7JcvNvZLaPU",
+      "eventId": "e438",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1",
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "260822 에스파 카리나 직캠 TIMA Supernova (AESPA KARINA FANCAM) #에스파 #aespa #카리나 #karina #winter #윈터 #shorts",
+      "channel": "GSJS 외 2명",
       "pin": false,
       "gone": false
     }
