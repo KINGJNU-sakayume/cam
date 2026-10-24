@@ -4690,7 +4690,9 @@
       "date": "2026-04-12",
       "show": "광안리",
       "label": "",
-      "setlist": [],
+      "setlist": [
+        "g1s42"
+      ],
       "note": ""
     },
     {
@@ -5019,7 +5021,9 @@
       "date": "2026-03-05",
       "show": "2026NEOSHOCK 동아리 소개한마당",
       "label": "",
-      "setlist": [],
+      "setlist": [
+        "g2s13"
+      ],
       "note": ""
     },
     {
@@ -153451,6 +153455,579 @@
       "tags": [],
       "title": "[HANEUL] 하츠투하츠(Hearts2Hearts) NOL FESTIVAL M COUNTDOWN 무대 Full Ver. (26.10.17.)",
       "channel": "PDC HANEUL TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7853",
+      "ytId": "3-l7rpY1Fp0",
+      "eventId": "e221",
+      "songs": [
+        {
+          "songId": "g1s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "IVE 아이브 GAEUL 가을 'Odd' PERFORMANCE VIDEO",
+      "channel": "IVE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7854",
+      "ytId": "EElldPxaKzs",
+      "eventId": "e240",
+      "songs": [
+        {
+          "songId": "g1s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "IVE 2026 FAN CONCERT \"DIVE into IVE\", \"소원을 말해봐\" 리즈",
+      "channel": "Kpoplogcat",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7855",
+      "ytId": "cHtadFz9RlU",
+      "eventId": "e262",
+      "songs": [
+        {
+          "songId": "g1s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 안유진 직캠 확대 1",
+      "channel": "cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7856",
+      "ytId": "aFvBUMopA8s",
+      "eventId": "e33",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4kFancam] 아이브 안유진 배디 - IVE An Yujin Baddie 직캠 FanMeeting MAGAZINE 2403091",
+      "channel": "체리tv10",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7857",
+      "ytId": "vUjjuGH0Waw",
+      "eventId": "e33",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4kFancam] 아이브 안유진 홀리몰리 - IVE An Yujin Holy Moly 직캠 FanMeeting MAGAZINE 2403091",
+      "channel": "체리tv10",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7858",
+      "ytId": "xTydJ0qn0FI",
+      "eventId": "e33",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4kFancam] 아이브 이서 Baddie - IVE LEESEO 직캠 FanMeeting MAGAZINE 2403091",
+      "channel": "체리tv10",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7859",
+      "ytId": "7GUTKgPXe1w",
+      "eventId": "e33",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4kFancam] 아이브 이서 아이엠 - IVE LEESEO I AM직캠 FanMeeting MAGAZINE 2403091",
+      "channel": "체리tv10",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7860",
+      "ytId": "Py6NX_Dvj20",
+      "eventId": "e33",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4kFancam] 아이브 장원영 베디 - IVE JANGWonYoung Baddie 직캠 FanMeeting MAGAZINE 24030911",
+      "channel": "체리tv10",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7861",
+      "ytId": "2P0aXKGXHNc",
+      "eventId": "e33",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4kFancam] 아이브 장원영 키치 - IVE WonYoung Kitsch 직캠 FanMeeting MAGAZINE 24030911",
+      "channel": "체리tv10",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7862",
+      "ytId": "nw36-sw7m6A",
+      "eventId": "e33",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4kFancam] 아이브 장원영 홓리몰리 - IVE JANGWonYoung HolyMoly 직캠 FanMeeting MAGAZINE 24030911",
+      "channel": "체리tv10",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7863",
+      "ytId": "G35z0QDrcEA",
+      "eventId": "e33",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 이서 직캠 확대 ELEVEN",
+      "channel": "rotten",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7864",
+      "ytId": "iha45JvKsjE",
+      "eventId": "e201",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "IVE [4K] BADDIE Auckland Concert - 'SHOW WHAT I AM' Tour 20.06.26",
+      "channel": "Ashley Ng",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7865",
+      "ytId": "7xdCObXE2w0",
+      "eventId": "e34",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[IN YOUR HEART] IVE Rei Mixed Fancam",
+      "channel": "YEP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7866",
+      "ytId": "PIwUrh5Tx38",
+      "eventId": "e270",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX - Love Me Like This (FULL FANCAM CHOREOGRAPHY) (Bloco Da Pabllo 2026)",
+      "channel": "WalfyPoppy ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7867",
+      "ytId": "71PLFkIk8M0",
+      "eventId": "e272",
+      "songs": [
+        {
+          "songId": "g2s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "'Blue Valentine'(NMIXX Lily fancam mirrored) ",
+      "channel": "p_mirrored",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7868",
+      "ytId": "3yUWCmd28Gk",
+      "eventId": "e52",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX(엔믹스) \"Heavy Serenade & Crescendo\" at Ewha Womans University Open Concert",
+      "channel": "mymixxie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7869",
+      "ytId": "lIDfAxkwzGI",
+      "eventId": "e52",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX(엔믹스) “Heavy Serenade” Performance Video",
+      "channel": "NMIXX",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7870",
+      "ytId": "PwTbiCB9Pxk",
+      "eventId": "e70",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "味全龍大巨蛋 NMIXX 賽後演唱會 #nmixx #味全龍 #大巨蛋 #賽後演唱會 #fancam ",
+      "channel": "新莊城堡特派員阿良",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7871",
+      "ytId": "y2WbM83E9RI",
+      "eventId": "e70",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "NMIXX - Break The Wall  味全龍 龍星大樂 賽後表演 外野視角 (4K Fancam)",
+      "channel": "Cenesthesia",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7872",
+      "ytId": "jPjK8fPCwE4",
+      "eventId": "e77",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX(엔믹스) \"긴 소원 (Birthday Wish)\" Performance Video",
+      "channel": "NMIXX",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7873",
+      "ytId": "QA4DVpNl_8U",
+      "eventId": "e77",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX(엔믹스) “긴 소원 (Birthday Wish)” Stage Practice",
+      "channel": "NMIXX",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7874",
+      "ytId": "7dvhJNWdQ30",
+      "eventId": "e314",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "콘서트 마지막 팬송 from | fromis_9",
+      "channel": "더블원스튜디오",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7875",
+      "ytId": "-W2jXtJUr4U",
+      "eventId": "e317",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "fromis_9(프로미스나인) - Supersonic l 2026 울산뮤직페스티벌 미리보기",
+      "channel": "울산MBC_뮤직",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7876",
+      "ytId": "Uiu4ayA1lFE",
+      "eventId": "e123",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 인하대 축제 프로미스나인(fromis_9) 직캠 'Vitamin ME' l 2026 비룡제 Day1 l IBS",
+      "channel": "인하대학교방송국 IBS",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7877",
+      "ytId": "yCRzXDK8j3o",
+      "eventId": "e131",
+      "songs": [
+        {
+          "songId": "g3s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "프로미스나인 백지헌 직캠 확대 We Go",
+      "channel": "rotten",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7878",
+      "ytId": "1BbChK-azUY",
+      "eventId": "e131",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "프로미스나인 백지헌 직캠 확대 FUN!",
+      "channel": "rotten",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7879",
+      "ytId": "qixNvE01Opo",
+      "eventId": "e133",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "fromis_9(프로미스나인) 지헌-DM fancam [TOMORROW GLOW.] DAY2-3",
+      "channel": "오리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7880",
+      "ytId": "WByGw4_27Ew",
+      "eventId": "e133",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "fromis_9(프로미스나인) 지헌-LIKE YOU BETTER fancam[TOMORROW GLOW.] DAY1 DAY2",
+      "channel": "오리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7881",
+      "ytId": "I0SiZGgb6kQ",
+      "eventId": "e213",
+      "songs": [
+        {
+          "songId": "g4s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[Full ver.] Hearts2Hearts 하츠투하츠 청소년 마약 예방 캠페인",
+      "channel": "공소청",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7882",
+      "ytId": "a2ylkvWY7-o",
+      "eventId": "e214",
+      "songs": [
+        {
+          "songId": "g4s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] Hearts2Hearts 이안 경기대학교 축제 \"Focus\" 직캠",
+      "channel": "mame",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v7883",
+      "ytId": "xz2EGhGMFI4",
+      "eventId": "e214",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[KPOP IN PUBLIC] Hearts2Hearts(하츠투하츠) ‘FOCUS’ & &TEAM(앤팀) ‘Big好き(suki)’ |FREECON 2026| Seoula System",
+      "channel": "SEOULA SYSTEM",
       "pin": false,
       "gone": false
     }

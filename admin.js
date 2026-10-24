@@ -9,9 +9,11 @@ import { renderThumbs } from './js/admin/thumbs.js';
 import { renderClips } from './js/admin/clips.js';
 import { renderSave } from './js/admin/save.js';
 import { renderImport } from './js/admin/import.js';
+import { renderPick } from './js/admin/pick.js';
 
 const TABS = [
   ['bulk', '공연 단위 담기', renderBulk],
+  ['pick', '영상 고르기', renderPick],
   ['edit', '수정·삭제', renderEdit],
   ['roster', '그룹·멤버·곡', renderRoster],
   ['thumbs', '썸네일', renderThumbs],
