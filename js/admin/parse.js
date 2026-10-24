@@ -117,6 +117,79 @@ export const SHOWS = [
 ];
 const TOKEN_SPLIT = /[\s@|[\](){}'"‘’“”·,_\-/:#<>【】「」]+/;
 
+
+// ---------- 행사 추정: 음악 방송이 아닌 행사(축제·투어·어워즈·방송 프로그램) ----------
+const CITY = [[/Kuala|\bKL\b|쿠알라/i, '쿠알라룸푸르'], [/Manila|마닐라/i, '마닐라'], [/Singapore|싱가포르/i, '싱가포르'], [/Macau|마카오/i, '마카오'], [/Sydney|시드니/i, '시드니'], [/Melbourne|멜버른/i, '멜버른'], [/Montreal|몬트리올/i, '몬트리올'], [/Prudential|Newark|뉴어크/i, '뉴어크'], [/\bLA\b|Los Angeles|로스앤젤레스/i, 'LA'], [/Oakland|오클랜드/i, '오클랜드'], [/Seattle|시애틀/i, '시애틀'], [/Hong ?Kong|홍콩/i, '홍콩'], [/Madrid|마드리드/i, '마드리드'], [/Amsterdam|암스테르담/i, '암스테르담'], [/New York|뉴욕/i, '뉴욕'], [/Dallas|댈러스/i, '댈러스'], [/Kaohsiung|가오슝/i, '가오슝'], [/Tokyo|도쿄/i, '도쿄'], [/Osaka|오사카/i, '오사카'], [/Bangkok|방콕/i, '방콕'], [/Jakarta|자카르타/i, '자카르타'], [/Paris|파리/i, '파리'], [/London|런던/i, '런던'], [/Berlin|베를린/i, '베를린'], [/Chicago|시카고/i, '시카고'], [/Toronto|토론토/i, '토론토'], [/Taipei|타이베이/i, '타이베이'], [/Mexico|멕시코/i, '멕시코시티']];
+const cityOf = (t) => { for (const [r, n] of CITY) if (r.test(t)) return n; return ''; };
+const withCity = (base) => (t) => `${base}${cityOf(t) ? ` ${cityOf(t)}` : ''}`;
+const SHOW_RULES = [
+  [/울산 ?음악중심/, '울산 음악중심'],
+  [/가요대전.{0,20}(summer|썸머)|(summer|썸머).{0,20}가요대전|sbs.{0,20}summer|summer.{0,20}sbs/i, 'SBS 가요대전 SUMMER'],
+  [/가요대전|sbs gayo|gayo daejeon/i, 'SBS 가요대전'],
+  [/가요대제전|mbc (music )?festival|mbc 가요/i, 'MBC 가요대제전'],
+  [/KBS 가요대축제|가요대축제/, 'KBS 가요대축제'],
+  [/golden ?disc|골든 ?디스크/i, '골든디스크어워즈'],
+  [/서울가요대상|서가대|\bSMA\b|seoul music awards/i, '서울가요대상'],
+  [/한터 ?뮤직 ?어워즈|hanteo music award/i, '한터뮤직어워즈'],
+  [/\bMAMA\b/, 'MAMA AWARDS'],
+  [/KM ?차트|한국대중음악상|KMA\b/i, '한국대중음악상'],
+  [/TMElive|\bTIMA\b/i, 'TIMA 2026'],
+  [/\bTMA\b|the fact music/i, 'TMA 2026'],
+  [/KCON ?(JAPAN|LA|SAUDI|AUSTRALIA)?/i, null],
+  [/DIVE ?in ?to IVE|4TH FAN ?CONCERT|팬콘서트|팬콘/i, 'IVE 4TH FAN CONCERT DIVE into IVE'],
+  [/SHOW WHAT I AM/i, withCity('IVE WORLD TOUR SHOW WHAT I AM')],
+  [/ZERO FRONTIER|1st world tour/i, withCity('NMIXX WORLD TOUR ZERO FRONTIER')],
+  [/NOW TOMORROW/i, withCity('NOW TOMORROW. ENCORE')],
+  [/TOMORROW ?GLOW/i, withCity('TOMORROW GLOW')],
+  [/HEARTS ?2 ?HOUSE/i, withCity('HEARTS 2 HOUSE')],
+  [/NOL ?FESTIVAL|놀 ?페스티벌|놀페/i, 'NOL FESTIVAL'],
+  [/대구 ?세계마스터즈|WMAC/i, '대구 세계마스터즈 육상경기대회'],
+  [/팝업스토어/, '팝업스토어 오픈 행사'],
+  [/포토콜|브랜드 ?행사/, '브랜드 행사'],
+  [/더 ?시즌즈|THE SEASONS/i, '더 시즌즈'],
+  [/water ?music|워터 ?뮤직|캐리비안 ?베이|starship day/i, '캐리비안 베이 Water Music Pool Party'],
+  [/열린 ?음악회|open ?concert/i, 'KBS 열린음악회'],
+  [/불후의 ?명곡|immortal songs/i, '불후의 명곡'],
+  [/가요광장/, 'KBS 가요광장'],
+  [/SMTOWN/i, 'SMTOWN LIVE'],
+  [/\bASEA\b/, 'ASEA 2026'],
+  [/ASIATOP/i, 'ASIATOP MUSIC FESTIVAL'],
+  [/한강가요제/, '한강가요제'],
+  [/THE PERFORMANCE/i, 'THE PERFORMANCE JAPAN'],
+  [/시구|night game/i, '야구 시구 행사'],
+  [/입학식|\bOT\b|신입생/, '신입생 행사'],
+  [/listening party|리스닝 ?파티/i, 'IVE Listening Party'],
+  [/팬미팅|fan ?meeting/i, '팬미팅'],
+  [/컴백 ?쇼케이스|쇼케이스|showcase/i, '쇼케이스'],
+];
+// 대학 축제: "OO대 축제" · "OO대학교 대동제" · "2026 OO대학교 가을 대동제"
+function findUniFestival(t) {
+  if (!/축제|대동제|festival|festa|페스타|행사|연회|제$/i.test(t)) return null;
+  const m = /([가-힣]{2,8}?)(대학교|전문대학|전문대|대학|대)(?![가-힣]*학과)/.exec(t);
+  if (!m) return null;
+  const name = `${m[1]}${m[2] === '전문대학' || m[2] === '전문대' ? '전문대' : '대'}`;
+  return `${name} 축제`;
+}
+export function inferShow(title, { segments = true } = {}) {
+  const t = String(title || '');
+  const uni = findUniFestival(t);
+  if (uni) return uni;
+  for (const [re, name] of SHOW_RULES) {
+    const m = re.exec(t);
+    if (!m) continue;
+    if (name === null) { const loc = (m[1] || 'JAPAN').toUpperCase(); return `KCON ${loc} 2026`; }
+    return typeof name === 'function' ? name(t) : name;
+  }
+  if (!segments) return null;
+  // 마지막 수단: 구분자로 나눈 조각 중 행사 낱말이 있는 조각
+  for (const seg of t.split(/[|｜@·]/).map((x) => x.replace(/\[[^\]]*\]|\([^)]*\)/g, ' ').trim())) {
+    if (/축제|festival|페스티벌|콘서트|concert|어워즈|awards|페스타|festa|시상식|fan ?concert/i.test(seg) && !/직캠|fancam|focus|full/i.test(seg) && seg.length >= 3 && seg.length <= 40) {
+      return seg.replace(/\b(20\d\d|2[5-7]\d{4})\b/g, '').replace(/\s+/g, ' ').trim();
+    }
+  }
+  return null;
+}
+
 // 제목에서 행사명: 알려진 음악 방송 → "@행사명" 꼴 → null
 export function findShow(title) {
   const text = lc(title);
@@ -124,12 +197,16 @@ export function findShow(title) {
   for (const [name, words, shorts] of SHOWS) {
     if (words.some((w) => has(text, w)) || shorts.some((s) => tokens.some((t) => t === s || /^(직캠|풀캠|사녹)$/.test(t.slice(s.length)) && t.startsWith(s)))) return name;
   }
+  const known = inferShow(title, { segments: false });
+  if (known) return known;
   const m = /@\s*([^|[\]()@]+?)\s*(?:$|[|[\]()@]|\b\d{6}\b|\b\d{8}\b)/.exec(String(title || ''));
   if (m) {
     const raw = m[1].replace(/\s+(직캠|fancam|full|풀캠|4k)\b.*$/i, '').trim();
+    const uni = /^([가-힣]{2,8}?)(대학교|전문대학|전문대|대학|대)$/.exec(raw);
+    if (uni) return `${uni[1]}${/전문대/.test(uni[2]) ? '전문대' : '대'} 축제`;
     if (raw && raw.length <= 40) return raw;
   }
-  return null;
+  return inferShow(title);
 }
 
 // 제목 해석: { date, show, label, memberIds, groupCam, songId, songGuess, type, tags, source }
