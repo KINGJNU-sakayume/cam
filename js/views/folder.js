@@ -3,8 +3,8 @@ import { html, fmtMD, fmtYear } from '../util.js';
 import { NOSONG, GROUP_KEY } from '../model.js';
 import { app, adminHref } from '../state.js';
 import { href } from '../router.js';
-import { cellOrder, eventCover } from '../indexer.js';
-import { videoThumb, clipThumb, emptyCell, dowPill, srcTags, tagLine, cellKeyLabel, memberDots } from '../components.js';
+import { cellOrder, eventCover, memberQueue } from '../indexer.js';
+import { videoThumb, clipThumb, emptyCell, dowPill, srcTags, tagLine, cellKeyLabel, memberDots, ICON } from '../components.js';
 
 let openCell = null; // `${songKey}|${cellKey}`
 let curEvent = null;
@@ -58,12 +58,13 @@ function cellListHTML(E, S, c) {
 function sectionHTML(E, k) {
   const g = E.group;
   const S = E.sections.get(k) || { key: k, full: [], cells: new Map(), clips: [] };
-  const showEmpty = !app.prefs.hideEmpty;
+  const showEmpty = !!app.prefs.showEmpty;
   const cells = cellOrder(E, S, { includeEmpty: showEmpty });
   const count = S.full.length + [...S.cells.values()].reduce((a, l) => a + l.length, 0);
   const no = E.songNo.get(k);
   const openC = cells.find((c) => openCell === `${k || 'none'}|${c.key}`);
-  return html`<section class="fsec" id="${`sec-${k || 'none'}`}" aria-labelledby="${`h-${k || 'none'}`}">
+  return html`<section class="fsec sheet" id="${`sec-${k || 'none'}`}" aria-labelledby="${`h-${k || 'none'}`}">
+    <span class="lu-tab" aria-hidden="true">${no ? no2(no) : '전체'}</span>
     <div class="fsec-head">
       ${no ? html`<span class="no">${no2(no)}</span>` : ''}
       <h2 id="${`h-${k || 'none'}`}" tabindex="-1">${songTitle(k)}</h2>
@@ -84,7 +85,50 @@ function sectionHTML(E, k) {
   </section>`;
 }
 
-export function folderHTML(E) {
+// 멤버 고르기: 이 공연에 솔로 직캠이 있는 멤버만. 고르면 그 멤버의 곡별 직캠을 곡 순서대로
+function memberChips(E, member) {
+  const g = E.group;
+  const ms = g._members.map((m) => ({ m, n: memberQueue(E, m.id).length })).filter((x) => x.n);
+  if (!ms.length) return '';
+  return html`<nav class="fmembers" aria-label="멤버별로 보기"><span class="flabel">멤버별</span>
+    <a class="chip" href="${href({ g: g.id, e: E.id })}" ${!member ? html`aria-current="page"` : ''}>전체</a>
+    ${ms.map(({ m, n }) => html`<a class="chip" href="${href({ g: g.id, e: E.id, m: m.id })}" ${member && member.id === m.id ? html`aria-current="page"` : ''}><span class="dot" style="${`background:${m._color}`}"></span>${m.name}<span class="n">${n}</span></a>`)}
+  </nav>`;
+}
+
+function memberModeHTML(E, m) {
+  const g = E.group;
+  const q = memberQueue(E, m.id);
+  if (!q.length) {
+    return html`<section class="fsec sheet"><p class="note">${m.name} 직캠은 이 공연에 아직 없어요. <a href="${adminHref({ g: g.id, e: E.id, m: m.id })}">+ 담기</a></p></section>`;
+  }
+  const first = q.find((x) => !x.v.gone) || q[0];
+  return html`<section class="fsec sheet fmember" aria-labelledby="h-member">
+    <span class="lu-tab" aria-hidden="true">${m.name}</span>
+    <div class="fsec-head">
+      <span class="big-dot" style="${`background:${m._color}`}"></span>
+      <h2 id="h-member" tabindex="-1">${m.name}의 이 공연 직캠</h2>
+      <span class="cnt">${q.length}곡 · 곡 순서대로</span>
+      <a class="btn btn-fill qstart" href="${href({ g: g.id, e: E.id, m: m.id, play: first.v.id, ps: first.songKey || undefined })}" data-autoplay>${ICON.play}처음부터 이어 보기</a>
+    </div>
+    <div class="fcells big">${q.map(({ v, songKey }) => {
+      const no = E.songNo.get(songKey);
+      const S = E.sections.get(songKey);
+      const n = (S && S.cells.get(m.id) || []).length;
+      const badges = [];
+      if (n > 1) badges.push({ text: `+${n - 1}` });
+      if ((v.tags || []).includes('세로')) badges.push({ text: '세로' });
+      return html`<div class="fcell">${videoThumb(v, {
+        ratio: '23', songKey, badges, stripText: `${no ? `${no2(no)} ` : ''}${songTitle(songKey)}`,
+        label: `${songTitle(songKey)} ${m.name} 직캠 재생`,
+        caption: html`<div class="l1 clamp1"><span>${songTitle(songKey)}</span></div><div class="lm">${srcTags(v)}</div>`,
+      })}</div>`;
+    })}</div>
+    <p class="hint qhint">플레이어에서 영상이 끝나면 다음 곡으로 넘어가요. N 다음 곡 · P 이전 곡</p>
+  </section>`;
+}
+
+export function folderHTML(E, member = null) {
   if (curEvent !== E.id) { openCell = null; curEvent = E.id; }
   const g = E.group;
   const list = app.ix.eventsByGroup.get(g.id);
@@ -96,21 +140,23 @@ export function folderHTML(E) {
     ? html`<a class="btn" href="${href({ g: g.id, e: X.id })}" rel="${dir === 'prev' ? 'prev' : 'next'}"><span>${dir === 'prev' ? '← 이전 공연' : '다음 공연 →'}<small>${fmtMD(X.date)} ${X.ev.show}${X.ev.label ? ` ${X.ev.label}` : ''}</small></span></a>`
     : html`<span class="btn" aria-disabled="true"><span>${dir === 'prev' ? '← 이전 공연' : '다음 공연 →'}<small>없음</small></span></span>`;
   return html`<article>
-    <header class="fhead">
+    <header class="fhead sheet">
+      <span class="lu-tab" aria-hidden="true">${fmtMD(E.date)}</span>
       <div class="fhead-main">
         <div class="f-date"><span class="f-big">${fmtMD(E.date)}</span><span class="f-yd"><span class="y">${fmtYear(E.date)}</span>${dowPill(E.date)}</span></div>
         <h1>${E.ev.show}${E.ev.label ? html`<span class="lbl">${E.ev.label}</span>` : ''}</h1>
         ${E.ev.note ? html`<p class="note">${E.ev.note}</p>` : ''}
         ${keys.length ? html`<div class="fsongs">${keys.map((k) => html`<button type="button" class="chip" data-act="jump" data-s="${k || 'none'}">${E.songNo.get(k) ? html`<span class="no num">${no2(E.songNo.get(k))}</span>` : ''}${songTitle(k)}</button>`)}</div>` : ''}
+        ${memberChips(E, member)}
         <p class="fstats">영상 ${st.videos} · 움짤 ${st.clips} · 빈 칸 ${st.empty}</p>
         <div class="fnav">${navBtn(prev, 'prev')}${navBtn(next, 'next')}
-          <label class="check"><input type="checkbox" data-act="showEmpty" ${app.prefs.hideEmpty ? '' : html`checked`}>빈 칸 보기</label>
+          <label class="check"><input type="checkbox" data-act="showEmpty" ${app.prefs.showEmpty ? html`checked` : ''}>빈 칸 보기</label>
           <a class="btn btn-sm" href="${adminHref({ g: g.id, e: E.id })}">이 공연에 담기</a>
         </div>
       </div>
       <div class="fcover">${cover ? videoThumb(cover, { ratio: '169', songKey: cover.songs?.[0]?.songId, caption: html`<div class="lm">표지 · ${cover.type === 'full' ? '풀캠' : cellKeyLabel(app.ix, cover.memberIds.length ? cover.memberIds.join('+') : GROUP_KEY)}</div>` }) : emptyCell({ g: g.id, e: E.id, ratio: '169', label: '영상 없음' })}</div>
     </header>
-    ${keys.map((k) => sectionHTML(E, k))}
+    ${member ? memberModeHTML(E, member) : keys.map((k) => sectionHTML(E, k))}
   </article>`;
 }
 

@@ -71,9 +71,12 @@ export const DEFAULT_THUMB_POS = '50% 35%';
 export function ytUrl(ytId, t) {
   return `https://www.youtube.com/watch?v=${encodeURIComponent(ytId)}${t ? `&t=${Math.floor(t)}s` : ''}`;
 }
-export function ytEmbed(ytId, t) {
+// api: 끝남 신호를 받으려고 enablejsapi를 켠다(이어보기). autoplay: 이어보기에서 다음 곡으로 넘어갈 때
+export function ytEmbed(ytId, t, { api = false, autoplay = false, origin = '' } = {}) {
   const q = new URLSearchParams({ rel: '0', modestbranding: '1', playsinline: '1' });
   if (t) q.set('start', String(Math.floor(t)));
+  if (api) { q.set('enablejsapi', '1'); if (origin) q.set('origin', origin); }
+  if (autoplay) q.set('autoplay', '1');
   return `https://www.youtube-nocookie.com/embed/${encodeURIComponent(ytId)}?${q}`;
 }
 

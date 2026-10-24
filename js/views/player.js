@@ -1,15 +1,18 @@
 // 플레이어: 어두운 오버레이, youtube-nocookie 임베드, 상하좌우 이동
 import { html, fmtFull, fmtMD } from '../util.js';
 import { NOSONG, cellKey, isSampleYt, ytUrl, ytEmbed } from '../model.js';
-import { app } from '../state.js';
+import { app, savePrefs } from '../state.js';
 import { go, href, baseOf } from '../router.js';
-import { cellOrder } from '../indexer.js';
+import { cellOrder, memberQueue } from '../indexer.js';
 import { ICON, imgOf, tagLine, clipThumb, cellKeyLabel, toast, posOf } from '../components.js';
 import { attachClipPlayback } from '../clipplay.js';
 
 let nav = {};
 let rootEl = null;
 let closeFn = null;
+let autoStart = false; // 이어보기로 넘어온 영상은 바로 재생
+let endedFor = null; // 끝남 신호를 한 번만 처리
+let pingTimer = null;
 
 const songTitle = (k) => (k === NOSONG ? '전체 공연' : app.ix.song.get(k)?.title || '');
 const keyLabel = (k) => (k === 'full' ? '풀캠' : cellKeyLabel(app.ix, k));
@@ -64,17 +67,39 @@ function dateTargets(E, songKey, key) {
   return { up: lab(up), down: lab(down) };
 }
 
+// 이어보기: 이 공연에서 같은 멤버의 다음/이전 곡 직캠. 지금 영상이 큐에 없으면 같은 곡 자리에서 이어 간다.
+function queueOf(E, v, songKey) {
+  if (v.type !== 'fancam' || v.memberIds.length !== 1) return null;
+  const member = app.ix.member.get(v.memberIds[0]);
+  const list = member ? memberQueue(E, member.id) : [];
+  if (list.length < 2) return null;
+  let i = list.findIndex((x) => x.v.id === v.id && x.songKey === songKey);
+  if (i < 0) i = list.findIndex((x) => x.v.id === v.id);
+  const exact = i >= 0;
+  if (i < 0) i = list.findIndex((x) => x.songKey === songKey);
+  // 삭제된 영상은 건너뛰고 다음 곡을 고른다
+  const step = (dir) => { for (let j = i + dir; j >= 0 && j < list.length; j += dir) if (!list[j].v.gone) return list[j]; return null; };
+  const lab = (x) => x && { v: x.v, songKey: x.songKey, label: songTitle(x.songKey) || '전체 공연' };
+  return { member, list, i, exact, prev: i < 0 ? null : lab(step(-1)), next: lab(i < 0 ? list.find((x) => !x.v.gone) : step(1)) };
+}
+
 export function playerKey() { return nav; }
 
 export function playerNav(dir) {
   const t = nav[dir];
   if (!t) return;
+  if (dir === 'qnext' || dir === 'qprev') {
+    autoStart = true;
+    go({ ...baseOf(app.state), play: t.v.id, ps: t.songKey || undefined }, { replace: true });
+    requestAnimationFrame(() => rootEl?.querySelector(`[data-dir="${dir}"]:not([disabled])`)?.focus({ preventScroll: true }));
+    return;
+  }
   go({ ...baseOf(app.state), play: t.v.id, ps: nav.songKey || undefined }, { replace: true });
   if (t.skipped && t.skipped.length) toast(`${t.skipped.join('·')} 칸은 비어 있어 건너뜀`);
   requestAnimationFrame(() => rootEl?.querySelector(`[data-dir="${dir}"]`)?.focus({ preventScroll: true }));
 }
 
-function stageHTML(v, t, kind) {
+function stageHTML(v, t, kind, { api = false, autoplay = false } = {}) {
   if (v.gone) {
     return html`<div class="stage-wrap r169"><div class="gone-box"><b>삭제·비공개된 영상</b><span>${v.title || ''}</span><span>${v.channel || ''}</span></div></div>`;
   }
@@ -84,7 +109,7 @@ function stageHTML(v, t, kind) {
       <div class="ph-msg">${ICON.playLine}샘플 영상입니다${t ? ` · ${Math.floor(t / 60)}:${String(Math.floor(t % 60)).padStart(2, '0')}부터` : ''}</div></div>`;
   }
   const vert = (v.tags || []).includes('세로');
-  return html`<div class="${`stage-wrap ${vert ? 'r916' : 'r169'}`}"><iframe src="${ytEmbed(v.ytId, t)}" title="${v.title || '유튜브 영상'}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>`;
+  return html`<div class="${`stage-wrap ${vert ? 'r916' : 'r169'}`}"><iframe src="${ytEmbed(v.ytId, t, { api, autoplay, origin: location.origin })}" title="${v.title || '유튜브 영상'}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>`;
 }
 
 function navBtn(dir, t, arrow, kindLabel) {
@@ -99,7 +124,10 @@ export function openPlayer(root, s, close) {
   const g = E.group;
   const side = sideTargets(E, S, key);
   const dates = dateTargets(E, songKey, key);
-  nav = { ...side, ...dates, songKey };
+  const q = queueOf(E, v, songKey);
+  nav = { ...side, ...dates, songKey, qprev: q && q.prev, qnext: q && q.next };
+  const autoplay = autoStart;
+  autoStart = false;
   const kind = v.type === 'full' ? 'full' : 'fancam';
   const who = v.type === 'full' ? '' : v.memberIds.length ? cellKeyLabel(ix, key) : '단체';
   const typeText = v.type === 'full' ? '풀캠' : !v.memberIds.length ? '단체 직캠' : v.memberIds.length > 1 ? '유닛 직캠' : '직캠';
@@ -120,10 +148,11 @@ export function openPlayer(root, s, close) {
       </div>
       <div class="ov-body">
         <div class="ov-main">
-          ${stageHTML(v, t, kind)}
+          ${stageHTML(v, t, kind, { api: !!q, autoplay })}
           <div class="vmeta"><h2>${v.title || '(제목 없음)'}</h2><p>${[v.channel || '채널 모름', tagLine(v), v.gone ? '삭제됨' : ''].filter(Boolean).join(' · ')}</p></div>
         </div>
         <div class="ov-side">
+          ${q ? queueHTML(q, v, songKey) : ''}
           <div class="cross" role="group" aria-label="이동 (화살표 키)">
             ${navBtn('up', nav.up, ICON.up, '이전 날짜')}
             ${navBtn('left', nav.left, ICON.left, '이전 칸')}
@@ -159,7 +188,67 @@ export function openPlayer(root, s, close) {
     const b = e.target.closest('[data-dir]');
     if (b && !b.disabled) playerNav(b.dataset.dir);
   });
+  ov.addEventListener('change', (e) => {
+    if (e.target.matches('[data-autonext]')) { app.prefs.autoNext = e.target.checked; savePrefs(); }
+  });
   attachClipPlayback(root);
+  listenEnded(root, q ? v.id : null);
   if (!wasOpen) root.querySelector('[data-close]').focus();
 }
+
+function queueHTML(q, v, songKey) {
+  const { member, list, i, exact } = q;
+  const E = list[0] && app.ix.E.get(list[0].v.eventId);
+  const no = (k) => (E && E.songNo.get(k) ? String(E.songNo.get(k)).padStart(2, '0') : '–');
+  return html`<section class="side-sec qsec" aria-label="${`${member.name} 이어보기`}">
+    <h3><span class="dot" style="${`background:${member._color}`}"></span>${member.name} 이어보기 · 이 공연 ${list.length}곡${i >= 0 ? html`<span class="qpos num">${i + 1}/${list.length}</span>` : ''}</h3>
+    <div class="qbtns">
+      <button type="button" class="nb" data-dir="qprev" ${nav.qprev ? '' : html`disabled`} aria-label="${nav.qprev ? `이전 곡: ${nav.qprev.label} (P)` : '이전 곡 없음'}"><span class="k">${ICON.left}이전 곡</span><span class="t">${nav.qprev ? nav.qprev.label : '없음'}</span></button>
+      <button type="button" class="nb" data-dir="qnext" ${nav.qnext ? '' : html`disabled`} aria-label="${nav.qnext ? `다음 곡: ${nav.qnext.label} (N)` : '다음 곡 없음'}"><span class="k">다음 곡${ICON.right}</span><span class="t">${nav.qnext ? nav.qnext.label : '없음'}</span></button>
+    </div>
+    <label class="check qauto"><input type="checkbox" data-autonext ${app.prefs.autoNext ? html`checked` : ''}>끝나면 다음 곡 자동 재생</label>
+    <ol class="vlist qlist">${list.map((x, j) => {
+      const { src, ph } = imgOf(x.v, '23', true);
+      const cur = j === i && exact;
+      const inner = html`<span class="mini"><img src="${src}" data-ph="${ph}" alt="" loading="lazy" style="${`object-position:${posOf(x.v)}`}"></span>
+        <span><span class="vt"><span class="num qno">${no(x.songKey)}</span> ${songTitle(x.songKey) || '전체 공연'}</span><span class="vs">${cur ? '재생 중 · ' : ''}${x.v.channel || ''}${x.v.gone ? ' · 삭제됨' : ''}</span></span>`;
+      return html`<li>${cur ? html`<div class="cur" aria-current="true">${inner}</div>` : html`<a href="${href({ ...baseOf(app.state), play: x.v.id, ps: x.songKey || undefined })}">${inner}</a>`}</li>`;
+    })}</ol>
+  </section>`;
+}
+
+// 유튜브 임베드의 끝남 신호(postMessage). iframe_api 스크립트 없이 'listening'으로 구독한다.
+function listenEnded(root, vid) {
+  clearInterval(pingTimer);
+  endedFor = null;
+  const frame = vid && root.querySelector('.stage-wrap iframe');
+  if (!frame) return;
+  let heard = false, tries = 0;
+  const ping = () => {
+    const w = frame.contentWindow;
+    if (!w || heard || tries++ > 20) { clearInterval(pingTimer); return; }
+    w.postMessage(JSON.stringify({ event: 'listening', id: vid, channel: 'widget' }), '*');
+    w.postMessage(JSON.stringify({ event: 'command', func: 'addEventListener', args: ['onStateChange'], id: vid, channel: 'widget' }), '*');
+  };
+  frame.addEventListener('load', () => { ping(); clearInterval(pingTimer); pingTimer = setInterval(ping, 500); });
+  frame._sdHeard = () => { heard = true; };
+  frame._sdVid = vid;
+}
+
+// "처음부터 이어 보기" 같은 링크로 열면 바로 재생
+document.addEventListener('click', (e) => { if (e.target.closest?.('a[data-autoplay]')) autoStart = true; }, true);
+
+window.addEventListener('message', (e) => {
+  if (!/^https:\/\/www\.youtube(-nocookie)?\.com$/.test(e.origin)) return;
+  const frame = rootEl && rootEl.querySelector('.stage-wrap iframe');
+  if (!frame || e.source !== frame.contentWindow || !frame._sdVid) return;
+  let d;
+  try { d = typeof e.data === 'string' ? JSON.parse(e.data) : e.data; } catch { return; }
+  if (!d || typeof d !== 'object') return;
+  frame._sdHeard?.();
+  const ended = (d.event === 'onStateChange' && d.info === 0) || (d.event === 'infoDelivery' && d.info && d.info.playerState === 0);
+  if (!ended || endedFor === frame._sdVid) return;
+  endedFor = frame._sdVid;
+  if (app.prefs.autoNext && nav.qnext) playerNav('qnext');
+});
 

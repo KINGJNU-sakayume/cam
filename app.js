@@ -12,6 +12,7 @@ import { folderHTML, mountFolder, toggleFolderCell } from './js/views/folder.js'
 import { songListHTML, songPageHTML } from './js/views/song.js';
 import { memberListHTML, memberPageHTML } from './js/views/member.js';
 import { clipGridHTML } from './js/views/clips.js';
+import { eventGridHTML } from './js/views/events.js';
 import { searchHTML, PAGE } from './js/views/search.js';
 import { loadErrorHTML, emptyDataHTML, noResultHTML } from './js/views/states.js';
 import { openPlayer, playerNav } from './js/views/player.js';
@@ -23,7 +24,7 @@ const tabsEl = document.getElementById('tabs');
 const overlayRoot = document.getElementById('overlay-root');
 const qInput = document.getElementById('q');
 const LAST_KEY = 'sd.last';
-const VIEWS = ['song', 'member', 'clip'];
+const VIEWS = ['event', 'song', 'member', 'clip'];
 const SONG_TOP = 8; // 필터에 바로 보이는 곡 수
 
 let lastBaseKey = null;
@@ -175,8 +176,11 @@ function renderBase(s) {
   const f = filtersOf(g.id);
   if (s.e) {
     const E = ix.E.get(s.e);
-    crumbs = [[g.name, href({ g: g.id })], [`${E.date.slice(5).replace('-', '.')} ${E.ev.show}${E.ev.label ? ` ${E.ev.label}` : ''}`]];
-    main.innerHTML = String(html`${crumbsHTML(crumbs)}${folderHTML(E)}`);
+    const m = s.m ? ix.member.get(s.m) : null;
+    const evTitle = `${E.date.slice(5).replace('-', '.')} ${E.ev.show}${E.ev.label ? ` ${E.ev.label}` : ''}`;
+    crumbs = [[g.name, href({ g: g.id })], ['공연', href({ g: g.id, v: 'event' })], [evTitle, m ? href({ g: g.id, e: E.id }) : null]];
+    if (m) crumbs.push([m.name]);
+    main.innerHTML = String(html`${crumbsHTML(crumbs)}${folderHTML(E, m && m._group === g ? m : null)}`);
     mountFolder(main);
     afterRender();
     document.title = `${E.date} ${E.ev.show} · ${g.name} · 무대 서랍`;
@@ -206,6 +210,9 @@ function renderBase(s) {
       crumbs = [[g.name, href({ g: g.id })], ['멤버']];
       body = memberListHTML(g, f);
     }
+  } else if (view === 'event') {
+    crumbs = [[g.name, href({ g: g.id })], ['공연']];
+    body = eventGridHTML(g, f);
   } else if (view === 'clip') {
     crumbs = [[g.name, href({ g: g.id })], ['움짤']];
     body = clipGridHTML(g, f);
@@ -225,7 +232,7 @@ function crumbsHTML(list) {
 }
 
 function viewbarHTML(g, view) {
-  const items = [['lineup', '라인업', href({ g: g.id })], ['song', '곡', href({ g: g.id, v: 'song' })], ['member', '멤버', href({ g: g.id, v: 'member' })], ['clip', '움짤', href({ g: g.id, v: 'clip' })]];
+  const items = [['lineup', '라인업', href({ g: g.id })], ['event', '공연', href({ g: g.id, v: 'event' })], ['song', '곡', href({ g: g.id, v: 'song' })], ['member', '멤버', href({ g: g.id, v: 'member' })], ['clip', '움짤', href({ g: g.id, v: 'clip' })]];
   return html`<div class="viewbar">
     <nav class="seg" aria-label="보기">${items.map(([k, t, h]) => html`<a href="${h}" ${k === view ? html`aria-current="page"` : ''}>${t}</a>`)}</nav>
     <div class="viewopts">
@@ -395,6 +402,14 @@ function bindGlobal() {
   document.addEventListener('keydown', (e) => {
     if (overlayKey) {
       if (e.key === 'Escape') { e.preventDefault(); closeOverlay(); return; }
+      // 이어보기: N 다음 곡, P 이전 곡
+      if (overlayKey.startsWith('p:') && ['n', 'p', 'N', 'P'].includes(e.key) && !e.metaKey && !e.ctrlKey && !e.altKey) {
+        const tag = (e.target.tagName || '').toLowerCase();
+        if (tag === 'input' || tag === 'textarea' || tag === 'select') return;
+        e.preventDefault();
+        playerNav(e.key.toLowerCase() === 'n' ? 'qnext' : 'qprev');
+        return;
+      }
       if (overlayKey.startsWith('p:') && ['ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown'].includes(e.key)) {
         const tag = (e.target.tagName || '').toLowerCase();
         if (tag === 'input' || tag === 'textarea' || tag === 'select') return;
@@ -492,7 +507,7 @@ function onAction(e) {
       app.prefs.songSort = el.dataset.v; savePrefs(); rerenderKeepFocus(el);
       break;
     case 'showEmpty':
-      app.prefs.hideEmpty = !el.checked; savePrefs(); rerenderKeepFocus(el);
+      app.prefs.showEmpty = el.checked; savePrefs(); rerenderKeepFocus(el);
       break;
     case 'bySong':
       app.prefs.bySong = el.checked; savePrefs(); rerenderKeepFocus(el);
