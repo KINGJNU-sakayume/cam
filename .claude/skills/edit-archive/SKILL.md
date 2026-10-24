@@ -52,7 +52,7 @@ ffmpeg -i in.jpg -vf "crop=iw:iw*9/16:0:(ih-iw*9/16)/2,scale=640:360" -q:v 3 thu
 
 멤버 썸네일(멤버 보기 타일, 2:3)도 같은 방법으로 `thumbs/<멤버id>.jpg`를 만들고 `set <멤버id> thumb=thumbs/<멤버id>.jpg`. 되돌리기는 `thumb=none`.
 
-이미지 없이 위치만 바꾸면 되는 경우(유튜브 기본 썸네일에서 얼굴이 잘림)는 `thumbPos`만 고쳐요. 끌어서 맞추고 싶어 하면 관리 화면 썸네일 탭도 있다고 알려요.
+이미지 없이 위치만 바꾸면 되는 경우(유튜브 기본 썸네일에서 얼굴이 잘림)는 `thumbPos`만 고쳐요. 여러 개면 `python3 scripts/face-pos.py --ids v1,v2 --sheet 10`(얼굴 인식, 확인용 이미지 `.cache/face-pos-sheet.jpg`) → `archive.mjs thumbpos .cache/face-pos.json --force`. 직캠 썸네일은 대부분 이미 얼굴 위치로 잡혀 있어요(여러 명이 비슷한 크기로 나오면 그대로 둠). 끌어서 맞추고 싶어 하면 관리 화면 썸네일 탭도 있다고 알려요.
 
 ## 지우기 (사용자 확인 후)
 
