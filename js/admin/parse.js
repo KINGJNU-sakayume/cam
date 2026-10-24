@@ -92,6 +92,9 @@ export function excludedReason(title, channel = '') {
   if (/팬싸|팬사인|사인회|fan ?sign|fansign/i.test(t)) return '팬사인회';
   if (/mirror(ed)?\b|미러드|좌우반전/i.test(t)) return 'mirrored';
   if (/댄스\s?(동아리|팀|크루|클럽)|dance\s?(team|club|crew|cover)|댄스 ?커버|dance ?cover|\bcover\b|커버 ?(댄스|영상)|동아리|\bDENIS\b/i.test(t)) return '댄스팀·동아리 커버';
+  if (/performance ?video|퍼포먼스 ?비디오|stage ?practice|스테이지 ?프랙티스|무대 ?연습/i.test(t)) return '공식 퍼포먼스 영상·연습 영상';
+  if (/\.zip\b|📂|무대 ?(영상 ?)?모음|몰아보기|모아보기|compilation|역대 .*무대/i.test(t)) return '무대 모음(zip·compilation)';
+  if (/직캠 ?확대|확대 ?직캠|확대본|확대 ?영상|교차 ?편집|stage ?mix|편집본/i.test(t)) return '편집 영상(확대·교차편집)';
   return null;
 }
 

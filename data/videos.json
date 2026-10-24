@@ -97281,6 +97281,215 @@
       "channel": "037M2",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v8197",
+      "ytId": "es9qQnBGVYs",
+      "eventId": "e1",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "IVE(아이브) 「Intro + 삐빅 (♥beats) + REBEL HEART」 가로 직캠 | Golden Disc Awards(골든디스크 어워즈) 2026",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8198",
+      "ytId": "Vb55wRUOvww",
+      "eventId": "e86",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "프로미스나인 (fromis_9) 노동절기념 제3회 슈퍼히어로 콘서트 Full Ver. (Supersonic+LIKE YOU BETTER+White Memories+DM+WE GO)",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8199",
+      "ytId": "1mO_Y8Omr1c",
+      "eventId": "e174",
+      "songs": [
+        {
+          "songId": "g4s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2026 가요대전 썸머 4K] 하츠투하츠 에이나 'INTRO + Lemon Tang + 15-LOVE' (Hearts2Hearts A-NA FanCam) @SBS",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8200",
+      "ytId": "Ej-qXYLa00k",
+      "eventId": "e174",
+      "songs": [
+        {
+          "songId": "g4s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2026 가요대전 썸머 4K] 하츠투하츠 유하 'INTRO + Lemon Tang + 15-LOVE' (Hearts2Hearts YUHA FanCam) @SBS",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8201",
+      "ytId": "VW40Rhl9vdA",
+      "eventId": "e174",
+      "songs": [
+        {
+          "songId": "g4s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2026 가요대전 썸머 4K] 하츠투하츠 이안 'INTRO + Lemon Tang + 15-LOVE' (Hearts2Hearts IAN FanCam) @SBS",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8202",
+      "ytId": "fEuCnD4DUdo",
+      "eventId": "e174",
+      "songs": [
+        {
+          "songId": "g4s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2026 가요대전 썸머 4K] 하츠투하츠 주은 'INTRO + Lemon Tang + 15-LOVE' (Hearts2Hearts JUUN FanCam) @SBS",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8203",
+      "ytId": "qlWdQDBroyM",
+      "eventId": "e174",
+      "songs": [
+        {
+          "songId": "g4s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2026 가요대전 썸머 4K] 하츠투하츠 지우 'INTRO + Lemon Tang + 15-LOVE' (Hearts2Hearts JIWOO FanCam) @SBS",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8204",
+      "ytId": "Si-qbZpEVZM",
+      "eventId": "e174",
+      "songs": [
+        {
+          "songId": "g4s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2026 가요대전 썸머 4K] 하츠투하츠 카르멘 'INTRO + Lemon Tang + 15-LOVE' (Hearts2Hearts CARMEN FanCam) @SBS",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8205",
+      "ytId": "tfGyOS8ZkTA",
+      "eventId": "e355",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Hearts2Hearts TIMA 2026 Full Performance (FOCUS + RUDE + STYLE + LEMON-TANG)",
+      "channel": "Gwiyomi Hearts ♡",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v8206",
+      "ytId": "_ibIqKIET_E",
+      "eventId": "e182",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "",
+      "channel": "",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
