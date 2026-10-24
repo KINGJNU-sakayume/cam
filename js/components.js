@@ -1,6 +1,6 @@
 // 공용 화면 조각: 썸네일, 빈 칸, 아이콘, 요일 알약
 import { html, raw, fmtMD, fmtDow, parseDate } from './util.js';
-import { thumbSrc, DEFAULT_THUMB_POS, GROUP_KEY } from './model.js';
+import { thumbSrc, thumbFallback, DEFAULT_THUMB_POS, GROUP_KEY } from './model.js';
 import { silhouetteURL } from './placeholder.js';
 import { app, playHref, clipHref, adminHref } from './state.js';
 
@@ -29,8 +29,13 @@ export const dowPill = (date) => {
 export function sourceLabel(v) {
   return v.source === 'official' ? '공식' : v.source === 'fan' ? '팬' : '출처 모름';
 }
+// 썸네일 아래 한 줄: 출처(모르면 채널 이름) · 태그
 export function srcTags(v) {
-  return [sourceLabel(v), ...(v.tags || [])].join(' · ');
+  return [v.source ? sourceLabel(v) : (v.channel || '출처 모름'), ...(v.tags || [])].join(' · ');
+}
+// 채널을 따로 적는 곳에서 쓰는 한 줄: 아는 출처 · 태그
+export function tagLine(v) {
+  return [...(v.source ? [sourceLabel(v)] : []), ...(v.tags || [])].join(' · ');
 }
 
 const POS_RE = /^[0-9.%a-z\s-]{1,40}$/i;
@@ -38,13 +43,13 @@ export function posOf(v, fallback = DEFAULT_THUMB_POS) {
   return v && v.thumbPos && POS_RE.test(v.thumbPos) ? v.thumbPos : fallback;
 }
 
-// 썸네일 이미지 주소와 실패 시 대신할 실루엣
-export function imgOf(v, ratio) {
+// 썸네일 이미지 주소, 실패 시 다음 주소(fb), 마지막으로 대신할 실루엣(ph)
+export function imgOf(v, ratio, small = false) {
   const ix = app.ix;
   const kind = v.type === 'full' || ratio === '169' ? 'full' : 'fancam';
   const order = v.memberIds && v.memberIds.length === 1 ? (ix.member.get(v.memberIds[0])?.order ?? 0) : 0;
   const ph = silhouetteURL({ eventId: v.eventId, kind, order });
-  return { src: thumbSrc(v) || ph, ph };
+  return { src: thumbSrc(v, ratio, small) || ph, fb: thumbFallback(v), ph };
 }
 
 export function memberBand(v) {
@@ -62,14 +67,14 @@ function bandHTML(v) {
 
 // 영상 썸네일. caption: html 조각 또는 null. badges: [{text, cls}]
 export function videoThumb(v, { ratio = v.type === 'full' ? '169' : '23', songKey, t, badges = [], caption = null, label, extraBadge = '' } = {}) {
-  const { src, ph } = imgOf(v, ratio);
+  const { src, fb, ph } = imgOf(v, ratio);
   const all = [...badges];
   if (v.gone) all.push({ text: '삭제됨', cls: 'danger' });
   const pos = ratio === '23' ? posOf(v) : posOf(v, '50% 50%');
   const aria = label || `${v.title || '영상'} 재생`;
   return html`<div class="tcell">
     <a class="thumb r${ratio}${v.gone ? ' gone' : ''}" href="${playHref(v, songKey, t)}" aria-label="${aria}">
-      <img src="${src}" data-ph="${ph}" alt="" loading="lazy" decoding="async" style="${`object-position:${pos}`}">
+      <img src="${src}" data-fb="${fb}" data-ph="${ph}" alt="" loading="lazy" decoding="async" style="${`object-position:${pos}`}">
       ${bandHTML(v)}
       <span class="play-ic">${ICON.play}</span>
       ${all.length ? html`<span class="badges">${all.map((b) => html`<span class="badge ${b.cls || ''}">${b.text}</span>`)}</span>` : ''}

@@ -1,5 +1,5 @@
 // 무대 서랍 보기 화면: 데이터 로드 → 색인 → 해시 라우팅 → 렌더
-import { html, debounce } from './js/util.js';
+import { html, debounce, norm } from './js/util.js';
 import { loadData, inflate, LoadError } from './js/data.js';
 import { buildIndex } from './js/indexer.js';
 import { initRouter, parseHash, toHash, baseOf, go, href } from './js/router.js';
@@ -24,6 +24,7 @@ const overlayRoot = document.getElementById('overlay-root');
 const qInput = document.getElementById('q');
 const LAST_KEY = 'sd.last';
 const VIEWS = ['song', 'member', 'clip'];
+const SONG_TOP = 8; // 필터에 바로 보이는 곡 수
 
 let lastBaseKey = null;
 let lastBase = null;
@@ -248,10 +249,28 @@ function filtersHTML(g, f, view) {
   for (const t of f.types) desc.push(t === 'full' ? '풀캠' : '직캠');
   for (const t of f.tags) desc.push(t);
   const open = !app.mobile;
+  // 곡: 영상 있는 곡만, 많이 담긴 순 상위 SONG_TOP개 + 고른 곡. 나머지(커버 포함)는 "곡 N개 더"로 접고 이름으로 찾는다
+  const counts = ix.groupStats.get(g.id).songs;
+  const cnt = (s) => counts.get(s.id) || 0;
+  const pool = g._songs.filter((s) => s.kind !== 'other' && (cnt(s) || f.songs.has(s.id))).sort((a, b) => cnt(b) - cnt(a));
+  const own = pool.filter((s) => s.kind !== 'cover');
+  const top = own.slice(0, SONG_TOP);
+  const shown = [...top, ...pool.filter((s) => f.songs.has(s.id) && !top.includes(s))];
+  const rest = pool.filter((s) => !shown.includes(s));
+  const songChip = (s) => html`<button type="button" class="chip" data-act="filter" data-k="songs" data-v="${s.id}" data-name="${norm([s.title, ...(s.aliases || [])].join(' '))}" aria-pressed="${String(f.songs.has(s.id))}">${s.title}<span class="n">${cnt(s)}</span></button>`;
+  const restOwn = rest.filter((s) => s.kind !== 'cover'), restCover = rest.filter((s) => s.kind === 'cover');
   return html`<details class="filters" ${open ? html`open` : ''} id="filters">
     <summary><span>필터</span>${n ? html`<span class="on">${desc.filter(Boolean).join(', ')}</span>` : html`<span class="hint">곡·멤버·종류·태그</span>`}<span style="margin-left:auto">${ICON.chev}</span></summary>
     <div class="fgroups">
-      <div class="fgroup" role="group" aria-label="곡"><span class="flabel">곡</span>${g._songs.map((s) => chip('songs', s.id, s.title))}</div>
+      <div class="fgroup" role="group" aria-label="곡"><span class="flabel">곡</span>${shown.map(songChip)}
+        ${rest.length ? html`<button type="button" class="chip chip-more" data-act="moreSongs" aria-expanded="${String(app.songsOpen)}" aria-controls="songmore">${app.songsOpen ? '접기' : `곡 ${rest.length}개 더`}</button>` : ''}
+      </div>
+      ${rest.length && app.songsOpen ? html`<div class="songmore" id="songmore">
+        <input class="input songq" type="search" data-act="songq" placeholder="${`곡 이름으로 찾기 (${rest.length}곡)`}" aria-label="곡 이름으로 찾기" autocomplete="off" spellcheck="false">
+        ${restOwn.length ? html`<div class="fgroup" role="group" aria-label="그 밖의 곡"><span class="flabel">그 밖</span>${restOwn.map(songChip)}</div>` : ''}
+        ${restCover.length ? html`<div class="fgroup" role="group" aria-label="커버"><span class="flabel">커버</span>${restCover.map(songChip)}</div>` : ''}
+        <p class="hint songq-none" hidden>접힌 곡 중에는 없어요</p>
+      </div>` : ''}
       <div class="fgroup" role="group" aria-label="멤버"><span class="flabel">멤버</span>
         ${g._members.map((m) => chip('members', m.id, m.active === false ? `${m.name}(종료)` : m.name, html`<span class="dot" style="${`background:${m._color}`}"></span>`))}
         ${chip('members', GROUP_KEY, '단체', html`<span class="dot ring"></span>`)}
@@ -301,9 +320,19 @@ export function closeOverlay() {
 // ---------- 이벤트 ----------
 function bindGlobal() {
   // 썸네일 실패 → 실루엣
+  // 썸네일 실패 → 다음 주소(data-fb) → 실루엣(data-ph)
+  const fallback = (t) => {
+    if (t.dataset.fb && t.getAttribute('src') !== t.dataset.fb) { const fb = t.dataset.fb; t.dataset.fb = ''; t.src = fb; return; }
+    if (t.dataset.ph && t.getAttribute('src') !== t.dataset.ph) t.src = t.dataset.ph;
+  };
   document.addEventListener('error', (e) => {
     const t = e.target;
-    if (t && t.tagName === 'IMG' && t.dataset.ph && t.getAttribute('src') !== t.dataset.ph) t.src = t.dataset.ph;
+    if (t && t.tagName === 'IMG' && t.dataset.ph) fallback(t);
+  }, true);
+  // 유튜브는 hq720이 없으면 오류 대신 120px 회색 그림을 준다
+  document.addEventListener('load', (e) => {
+    const t = e.target;
+    if (t && t.tagName === 'IMG' && t.dataset.fb && t.naturalWidth > 0 && t.naturalWidth <= 120) fallback(t);
   }, true);
 
   // 해시 링크를 누를 때 기억: 오버레이를 연 배경
@@ -327,6 +356,17 @@ function bindGlobal() {
   });
 
   main.addEventListener('click', onAction);
+  // 곡 찾기: 다시 그리지 않고 칩만 숨긴다
+  main.addEventListener('input', (e) => {
+    const q = e.target.closest('[data-act="songq"]');
+    if (!q) return;
+    const box = q.closest('.songmore');
+    const t = norm(q.value);
+    let any = false;
+    for (const c of box.querySelectorAll('.chip[data-name]')) { const hit = !t || c.dataset.name.includes(t); c.hidden = !hit; any ||= hit; }
+    for (const grp of box.querySelectorAll('.fgroup')) grp.hidden = ![...grp.querySelectorAll('.chip[data-name]')].some((c) => !c.hidden);
+    box.querySelector('.songq-none').hidden = any;
+  });
   main.addEventListener('lu:more', () => attachClipPlayback(main));
   main.addEventListener('change', onAction);
 
@@ -430,6 +470,11 @@ function onAction(e) {
       rerenderKeepFocus(el);
       break;
     }
+    case 'moreSongs':
+      app.songsOpen = !app.songsOpen;
+      rerenderKeepFocus(el);
+      if (app.songsOpen) main.querySelector('.songq')?.focus({ preventScroll: true });
+      break;
     case 'clearFilters': {
       const f = filtersOf(g.id);
       f.songs.clear(); f.members.clear(); f.types.clear(); f.tags.clear();

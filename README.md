@@ -8,6 +8,8 @@
 
 ---
 
+> 지금 `data/videos.json`은 실제 데이터(아이브·엔믹스·프로미스나인·하츠투하츠)예요. 아래 "샘플로 둘러볼 순서"는 처음 만들 때의 가상 샘플 기준이에요. `scripts/make-samples.mjs`는 데이터 파일을 덮어쓰니 실행하지 마세요.
+
 ## 평가용 빠른 시작
 
 ```bash
@@ -70,6 +72,18 @@ Claude는 다음 순서로 일해요.
 
 직접 써도 돼요: `node scripts/archive.mjs help` (또는 `npm run archive -- help`).
 
+### 기간을 정해 한꺼번에 찾기
+
+```bash
+node scripts/harvest.mjs 2026-09-01 2026-10-24 --deep     # 검색·거르기·업로드 날짜·분류를 한 번에(동시 실행, 캐시)
+node scripts/archive.mjs add .cache/harvest/auto.json --create-songs --dry-run   # 확실한 영상
+# .cache/harvest/review.txt 에 남은 영상만 확인해서 담기
+node scripts/harvest.mjs --since-last --deep              # 다음엔 지난번 이어서
+node scripts/archive.mjs lint                             # 쪼개진 공연·같은 곡 항목·곡 없는 영상 점검
+```
+
+`.cache/`(제목·업로드 날짜 캐시, 검색 진행 상황)는 저장소에 올리지 않아요.
+
 ### 클라우드 환경에서 허용할 도메인
 
 Claude Code 클라우드 환경의 Network access → Allowed domains에 넣으세요(세션 제목 옆 환경 메뉴 → Edit, [안내](https://code.claude.com/docs/en/cloud-environments#network-access)).
@@ -98,7 +112,7 @@ Claude Code 클라우드 환경의 Network access → Allowed domains에 넣으�
 
 | 워크플로 | 언제 | 하는 일 |
 |---|---|---|
-| `validate` | 모든 push·PR, 수동 실행 | `node scripts/validate.mjs`로 데이터 검증 + 스크립트 문법 확인. 실패하면 커밋 옆에 ✗가 떠요 |
+| `validate` | 모든 push·PR, 수동 실행 | `node scripts/validate.mjs`로 데이터 검증 + `node scripts/test-parse.mjs` 제목 해석 회귀 테스트 + 스크립트 문법 확인. 실패하면 커밋 옆에 ✗가 떠요 |
 | `check-alive` | 매주 월요일 12:17(KST), 수동 실행 | 유튜브 영상 생존 확인 → 이슈 하나로 정리(아래 참고). 워크플로 안에서 `issues: write` 권한을 스스로 요청해요 |
 
 - 예약 실행(schedule)과 Actions 탭의 **Run workflow** 버튼은 **기본 브랜치**에 있는 워크플로만 동작해요. Settings → General → Default branch가 `main`인지 확인하세요.
@@ -182,7 +196,8 @@ ffmpeg -i clips/c9.mp4 -frames:v 1 -q:v 4 clips/posters/c9.jpg
 
 - `groups[]` — `members[]`(id, name, aliases, order, active, color, thumb), `songs[]`(id, title, aliases, order, release)
 - `events[]` — 공연 = 같은 그룹·날짜·행사·label. `setlist`(곡 순서), `note`(의상 메모), `cover`(표지 영상)
-- `videos[]` — `songs: [{songId, t}]`(빈 배열 = 곡 구분 없는 전체 공연), `type`(full/fancam), `memberIds`(빈 배열 = 단체), `source`(official/fan/null), `tags`, `thumb`, `thumbPos`, `pin`(칸 대표), `gone`
+- `videos[]` — `songs: [{songId, t}]`(빈 배열 = 곡 구분 없는 전체 공연, 여러 개 = 메들리·풀 퍼포먼스), `type`(full/fancam), `memberIds`(빈 배열 = 단체), `source`(official/fan/null), `tags`, `thumb`, `thumbPos`, `pin`(칸 대표), `gone`, `uploaded`(유튜브 업로드 날짜, 한국 기준, 있을 때만)
+- `songs[].kind` — 없음(그룹 곡) / `cover`(다른 가수 곡) / `other`(곡이 아닌 항목: 제목 해석·화면에서 빠짐). `events[].aliases` — 같은 공연의 다른 표기(다음 담기 때 같은 공연으로 연결)
 - `clips[]` — `videoId`가 있으면 공연·곡·멤버를 영상에서, 없으면 `eventId`·`songId`·`memberIds`를 직접. `t`·`end`는 원본 안 구간(초)
 
 ```bash
@@ -212,7 +227,8 @@ js/           util·model·data·indexer·router·theme·state·components·plac
 js/views/     lineup·folder·player·clipdetail·song·member·clips·search·states
 js/admin/     store·parse·zip·ui·bulk·edit·roster·thumbs·clips·save·import
 data/videos.json   thumbs/   clips/   clips/posters/
-scripts/      validate.mjs  archive.mjs  make-samples.mjs  check-alive.mjs
+scripts/      validate.mjs  archive.mjs  harvest.mjs  test-parse.mjs  make-samples.mjs  check-alive.mjs
+scripts/lib/  yt.mjs (유튜브 검색·영상 정보)   scripts/fixtures/  titles.json (제목 해석 스냅숏)
 CLAUDE.md  .claude/skills/   Claude에게 부탁할 때 읽는 규칙과 절차
 .github/workflows/  validate.yml  check-alive.yml
 ```

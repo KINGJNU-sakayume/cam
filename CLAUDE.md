@@ -24,12 +24,13 @@
 
 | 사용자가 말하는 것 | 볼 스킬 |
 |---|---|
-| “이 링크들 담아줘”, “10.23 뮤직뱅크 직캠 추가”, 유튜브 링크만 붙여넣기 | `.claude/skills/add-videos/SKILL.md` |
+| “이 링크들 담아줘”, “10.23 뮤직뱅크 직캠 추가”, 유튜브 링크만 붙여넣기, “9월 영상 찾아서 넣어줘” | `.claude/skills/add-videos/SKILL.md` (찾기는 `scripts/harvest.mjs` 한 번, 서브에이전트로 나누지 않음) |
 | 등록 안 된 그룹의 영상, “○○ 그룹 추가해줘”, 담기가 그룹·멤버·곡을 몰라 멈춤 | `.claude/skills/register-group/SKILL.md` |
 | 움짤 파일 첨부, “이 움짤 넣어줘” | `.claude/skills/add-clips/SKILL.md` |
 | 고치기·지우기·삭제된 영상 처리·대표/표지·의상 메모·setlist·멤버/곡/그룹 추가·멤버색·썸네일 위치·샘플 지우기·`dead-videos` 이슈 처리 | `.claude/skills/edit-archive/SKILL.md` |
 
-현재 상태는 언제든 `node scripts/archive.mjs status`, 찾기는 `find <단어...>`, 공연 목록은 `events [그룹]`, 전체 명령은 `help`.
+현재 상태는 언제든 `node scripts/archive.mjs status`, 찾기는 `find <단어...>`, 공연 목록은 `events [그룹]`, 쪼개진 공연·중복 곡 점검은 `lint`, 전체 명령은 `help`.
+해석 규칙(`js/admin/parse.js`)을 고치면 `node scripts/test-parse.mjs`가 통과해야 해요(일부러 바꾼 결과면 확인 후 `--update`).
 
 ## Git 흐름 (사용자가 따로 말하지 않으면)
 
@@ -67,4 +68,5 @@
 
 - 데이터 모델·검증 규칙·URL 형식: `README.md`의 “데이터와 검증”, “URL”.
 - 화면 명세 원본은 사용자가 처음 준 프롬프트이고, 화면 동작은 `README.md` “평가용 빠른 시작”에 요약돼 있어요.
-- 샘플 데이터(`SMPL…` 유튜브 ID, 가상 그룹 르니에·하이디어·모노키)는 사용자가 지우라고 할 때까지 그대로 둬요.
+- 샘플 데이터(`SMPL…` 유튜브 ID, 가상 그룹 르니에·하이디어·모노키)는 이미 지웠어요. `README.md`의 샘플 둘러보기는 지금 데이터에는 해당하지 않아요. `scripts/make-samples.mjs`는 `data/videos.json`을 덮어쓰니 실행하지 않아요.
+- 곡의 `kind`: 없음=그룹 곡, `cover`=다른 가수 곡, `other`=곡이 아닌 항목(투어·상·챌린지 이름). `other`는 제목 해석·화면에서 빠져요.
