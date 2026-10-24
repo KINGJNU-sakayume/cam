@@ -33,6 +33,7 @@ node scripts/archive.mjs show v62                  # 한 항목의 JSON
 | 공식/팬 | `set <영상id> source=official` (`fan`, `none`) |
 | 태그 | `set <영상id> tags=4K,세로` (모두 지우기 `tags=none`) |
 | 다른 공연으로 옮기기 | `set <영상id> event=<공연id>` |
+| 같은 행사가 공연 여럿으로 쪼개짐 | `merge <남길공연id> <공연id>...` 또는 `dedupe-events --fuzzy --dry-run` |
 | 썸네일 위치(전신이 보이게) | `set <영상id> thumbPos="50% 25%"` (위쪽을 더 보이려면 두 번째 값을 줄여요. 기본 `50% 35%`, 되돌리기 `thumbPos=none`) |
 | 움짤 구간·메모 | `set <움짤id> t=0:42 end=0:48 note="..."` |
 
@@ -80,6 +81,19 @@ node scripts/archive.mjs set <그룹id> name=하이디어 en=HIDEAR hue=150
 - 멤버를 새로 만들 때 영문 별칭(제목 자동 해석에 쓰임)을 꼭 물어보거나 알면 넣어요.
 - 멤버색 기본 팔레트: `#c2553f #2f7d6d #3d6fb6 #b07f22 #8a5aa8 #c0567e #4f8a3c #7a6a58`. 지정하지 않으면 순서대로 배정돼요.
 - 그만둔 멤버는 지우지 말고 `active=false`(영상이 있는 멤버는 지울 수 없어요).
+
+### 곡 정리
+
+```bash
+node scripts/archive.mjs merge-songs <남길곡id> <합칠곡id>... [--title "곡명"]   # 같은 곡 항목 합치기(이름은 별칭으로)
+node scripts/archive.mjs dedupe-songs --dry-run                               # 대소문자·띄어쓰기·오타만 다른 곡 모두
+node scripts/archive.mjs set <곡id> kind=cover                                # 다른 가수 곡(필터에서 '커버'로 따로)
+node scripts/archive.mjs set <곡id> kind=other                                # 곡이 아님(투어·상·챌린지 이름): 제목에서 찾지 않고 화면에서 숨김
+node scripts/archive.mjs reclassify --all --dry-run                           # 바뀐 규칙·곡 목록으로 제목을 다시 읽어 곡 바로잡기
+node scripts/archive.mjs lint                                                 # 쪼개진 공연·중복 곡·곡 없는 영상 점검
+```
+
+곡을 합치거나 `kind`를 바꾼 뒤에는 `reclassify --all --dry-run`으로 영향을 보고 실행해요. `kind=other` 항목을 아예 지우는 건 사용자 확인 후에만.
 
 ## 삭제된 영상 이슈(`dead-videos`) 처리
 

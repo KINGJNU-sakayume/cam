@@ -8,6 +8,7 @@ import { fileURLToPath } from 'node:url';
 import {
   findDate, findShow, findShowInfo, showKey, showSimilarity, parseTitle, songGuessOk, matchSong, weakShowFits,
 } from '../js/admin/parse.js';
+import { parseViews, publishToKst, relativeToDate, parsePlayer, parseWatchHtml } from './lib/yt.mjs';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const FIX = join(HERE, 'fixtures', 'titles.json');
@@ -71,6 +72,17 @@ eq('챌린지는 곡 후보가 아니다', songGuessOk('바라밤 챌린지', G)
 eq('새 곡 후보', songGuessOk('Paper Moon', G), true);
 eq('오타 곡 찾기', matchSong(G, 'Blue valentain')?.id, 's7');
 eq('짧은 이름은 오타 찾기 안 함', matchSong(G, 'Forc')?.id ?? null, null);
+
+// ---------- 유튜브 정보 읽기(harvest) ----------
+eq('조회수 만', parseViews('조회수 131만회'), 1310000);
+eq('조회수 views', parseViews('12,155 views'), 12155);
+eq('업로드 시각은 한국 날짜로', publishToKst('2026-10-22T20:30:00-07:00'), '2026-10-23');
+eq('날짜만 있으면 그대로', publishToKst('2026-10-23'), '2026-10-23');
+eq('N일 전', relativeToDate('3일 전', new Date('2026-10-24T03:00:00Z')), { date: '2026-10-21', err: 1 });
+eq('weeks ago 오차', relativeToDate('2 weeks ago', new Date('2026-10-24T03:00:00Z'))?.err, 7);
+eq('player 응답', parsePlayer({ videoDetails: { title: 'T', author: 'C', viewCount: '42', lengthSeconds: '200', shortDescription: 'd' }, microformat: { playerMicroformatRenderer: { publishDate: '2026-10-23T01:00:00-07:00' } } }),
+  { title: 'T', channel: 'C', uploaded: '2026-10-23', views: 42, seconds: 200, description: 'd' });
+eq('watch 페이지', parseWatchHtml('<meta name="title" content="제목"><script>"publishDate":"2026-10-23T09:00:00+09:00","ownerChannelName":"채널"</script>')?.uploaded, '2026-10-23');
 
 // ---------- 실제 제목 스냅숏 ----------
 const data = JSON.parse(readFileSync(DATA, 'utf8'));
