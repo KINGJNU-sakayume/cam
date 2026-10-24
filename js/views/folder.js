@@ -21,19 +21,15 @@ function stats(E) {
   return { videos: E.videos.length, clips: E.clips.length, empty };
 }
 
+// 이름은 포토카드 이름띠에 있어 캡션은 출처·태그만
 function cellCaption(c) {
-  const ix = app.ix;
-  const v = c.videos[0];
-  if (c.kind === 'member') return html`<div class="l1"><span class="dot" style="${`background:${c.member._color}`}"></span><span>${c.member.name}</span></div><div class="lm">${srcTags(v)}</div>`;
-  if (c.kind === 'group') return html`<div class="l1"><span>단체</span></div><div class="lm">${srcTags(v)}</div>`;
-  return html`<div class="l1">${memberDots(ix, c.memberIds)}<span>${cellKeyLabel(ix, c.key)}</span></div><div class="lm">${srcTags(v)}</div>`;
+  return html`<div class="lm">${srcTags(c.videos[0])}</div>`;
 }
 
 function cellHTML(E, S, c) {
   const songKey = S.key;
   if (!c.videos.length) {
-    return html`<div class="fcell">${emptyCell({ member: c.member, g: E.group.id, e: E.id, s: songKey || undefined })}
-      <div class="cap"><div class="l1"><span class="dot" style="${`background:${c.member._color}`}"></span><span>${c.member.name}</span></div><div class="lm">빈 칸</div></div></div>`;
+    return html`<div class="fcell">${emptyCell({ member: c.member, g: E.group.id, e: E.id, s: songKey || undefined, label: '빈 칸' })}</div>`;
   }
   const v = c.videos[0];
   const id = `${songKey || 'none'}|${c.key}`;

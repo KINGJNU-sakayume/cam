@@ -1,5 +1,5 @@
 // 멤버 보기: 멤버 목록 → 멤버 페이지(의상 타임라인)
-import { html, fmtMD, parseDate } from '../util.js';
+import { html, fmtMD, fmtDow, parseDate } from '../util.js';
 import { NOSONG, thumbSrc, thumbFallback } from '../model.js';
 import { app, sortEvents, matchVideo, NO_FILTER } from '../state.js';
 import { href } from '../router.js';
@@ -66,11 +66,10 @@ function itemThumb(m, it) {
   if (n > 1) badges.push({ text: `+${n - 1}` });
   if (clips) badges.push({ text: '움짤' });
   return videoThumb(v, {
-    ratio: '23', songKey: k, badges,
+    ratio: '23', songKey: k, badges, stripText: `${fmtMD(E.date)} ${fmtDow(E.date)}`,
     label: `${fmtMD(E.date)} ${E.ev.show} ${songName(k)} ${m.name} 직캠 재생`,
-    caption: html`<div class="l1"><span class="num">${fmtMD(E.date)}</span>${dowPill(E.date)}</div>
-      <div class="lm">${E.ev.show}${E.ev.label ? ` ${E.ev.label}` : ''}</div>
-      <div class="lm" style="color:var(--text)">${songName(k)}</div>
+    caption: html`<div class="lm" style="color:var(--text);font-weight:700">${E.ev.show}${E.ev.label ? ` ${E.ev.label}` : ''}</div>
+      <div class="lm">${songName(k)}</div>
       <div class="lm">${srcTags(v)}</div>`,
   });
 }

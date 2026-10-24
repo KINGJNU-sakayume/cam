@@ -58,15 +58,18 @@ export function memberBand(v) {
   if (cols.length === 1) return cols[0];
   return null;
 }
-function bandHTML(v) {
-  if (v.type === 'full' || !v.memberIds.length) return '';
-  const cols = v.memberIds.map((id) => app.ix.member.get(id)?._color).filter(Boolean);
-  if (!cols.length) return '';
-  return html`<span class="band">${cols.map((c) => html`<i style="${`background:${c}`}"></i>`)}</span>`;
+// 포토카드 이름띠: 멤버 한 명이면 그 멤버색(흰 글자가 읽히게 어둡게), 여럿·단체면 짙은 회색에 멤버색 점.
+// stripText를 주면 이름 대신 그 글자(멤버 보기처럼 이름이 뻔한 곳은 날짜)
+function stripHTML(v, stripText, extra) {
+  if (v.type === 'full') return '';
+  const ms = v.memberIds.map((id) => app.ix.member.get(id)).filter(Boolean);
+  const text = stripText ?? (ms.length ? ms.map((m) => m.name).join('·') : '단체');
+  const bg = ms.length === 1 ? ms[0]._strip : '';
+  return html`<span class="pc-name" style="${bg ? `--pc:${bg}` : ''}">${ms.length > 1 ? html`<span class="pc-dots">${ms.map((m) => html`<i style="${`background:${m._color}`}"></i>`)}</span>` : ''}<span class="pc-t">${text}</span>${extra ? html`<span class="pc-x">${extra}</span>` : ''}</span>`;
 }
 
 // 영상 썸네일. caption: html 조각 또는 null. badges: [{text, cls}]
-export function videoThumb(v, { ratio = v.type === 'full' ? '169' : '23', songKey, t, badges = [], caption = null, label, extraBadge = '' } = {}) {
+export function videoThumb(v, { ratio = v.type === 'full' ? '169' : '23', songKey, t, badges = [], caption = null, label, extraBadge = '', stripText } = {}) {
   const { src, fb, ph } = imgOf(v, ratio);
   const all = [...badges];
   if (v.gone) all.push({ text: '삭제됨', cls: 'danger' });
@@ -75,7 +78,7 @@ export function videoThumb(v, { ratio = v.type === 'full' ? '169' : '23', songKe
   return html`<div class="tcell">
     <a class="thumb r${ratio}${v.gone ? ' gone' : ''}" href="${playHref(v, songKey, t)}" aria-label="${aria}">
       <img src="${src}" data-fb="${fb}" data-ph="${ph}" alt="" loading="lazy" decoding="async" style="${`object-position:${pos}`}">
-      ${bandHTML(v)}
+      ${ratio === '23' ? stripHTML(v, stripText) : ''}
       <span class="play-ic">${ICON.play}</span>
       ${all.length ? html`<span class="badges">${all.map((b) => html`<span class="badge ${b.cls || ''}">${b.text}</span>`)}</span>` : ''}
     </a>${extraBadge}
@@ -100,12 +103,12 @@ export function clipThumb(C, { caption = null, ratio = '23' } = {}) {
 
 export function initialOf(name) { return (name || '?').trim().charAt(0); }
 
+// 빈 칸 = 빈 포켓: 안쪽 그림자에 멤버 이름만. "+ 담기"는 마우스를 올리거나 포커스가 갈 때
 export function emptyCell({ member, g, e, s, ratio = '23', label = '아직 없음' }) {
-  const mc = member ? member._color : null;
   return html`<div class="empty-cell${ratio === '169' ? ' r169' : ''}">
-    ${member ? html`<span class="initial" style="${`--mc:${mc}`}" aria-hidden="true">${initialOf(member.name)}</span>` : ''}
-    <span>${label}</span>
     <a class="add" href="${adminHref({ g, e, m: member ? member.id : undefined, s: s || undefined })}" aria-label="${`${member ? `${member.name} ` : ''}${label}, 담기`}">+ 담기</a>
+    <span class="pk-label">${label}</span>
+    ${member ? html`<span class="pk-name"><span class="dot" style="${`background:${member._color}`}"></span>${member.name}</span>` : ''}
   </div>`;
 }
 

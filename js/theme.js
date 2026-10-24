@@ -47,7 +47,13 @@ function fit(h, s, l, bgs, step, extra) {
   return hslToRgb(h, s, Math.max(0, Math.min(100, l)));
 }
 
+// B안(포토카드 바인더): 강조색을 그룹 hue로 계산하지 않고 먹색 하나로 쓴다. 그룹 색은 탭의 작은 표시에만.
 export function accentVars(hue, dark) {
+  if (!dark) return { '--accent': '#1a1b1e', '--accent-ink': '#1a1b1e', '--accent-soft': '#dfe1e5', '--on-accent': '#fafafa', '--accent-dark': '#ecedef' };
+  return { '--accent': '#ecedef', '--accent-ink': '#ecedef', '--accent-soft': '#2c2f35', '--on-accent': '#141518', '--accent-dark': '#ecedef' };
+}
+// 예전 계산식(그룹 hue로 대비 4.5:1 강조색). 다시 쓰려면 accentVars를 이것으로 바꾼다
+export function hueAccentVars(hue, dark) {
   const h = Number.isFinite(hue) ? hue : 200;
   if (!dark) {
     const soft = hslToRgb(h, 60, 92);

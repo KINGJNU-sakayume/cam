@@ -58,13 +58,15 @@
 | `i.ytimg.com` | 유튜브 썸네일 확인·자르기 |
 | `ko.wikipedia.org`, `en.wikipedia.org` | `register-group`: 멤버·영문 표기·곡·발매일 (필수) |
 | `namu.wiki`, `kprofiles.com`, `www.wikidata.org` | `register-group` 보조 자료 |
-| `cdn.jsdelivr.net` | 화면 확인 때 본문 글꼴(없어도 동작은 같음) |
+| `fonts.googleapis.com`, `fonts.gstatic.com` | 화면 확인 때 글꼴(없어도 동작은 같음) |
 
 - **제목을 못 불러올 때:** “제목·채널을 불러오지 못했어요” 경고가 나오면, 사용자가 준 정보로 `date`·`show`·`members`·`song`·`type`을 채워요. 그것도 없으면 사용자에게 물어요.
 - **그룹 자료를 못 읽을 때:** 위키백과가 막혀 있으면 어느 도메인을 허용해야 하는지 알리고, 그동안은 멤버·곡을 사용자에게 물어요.
 - **허용 방법:** 세션 제목 옆 클라우드 환경 메뉴 → Edit → Network access → Allowed domains (https://code.claude.com/docs/en/cloud-environments#network-access)
 
 ## 참고
+
+- **보류 중인 판단은 `docs/open-questions.md`.** 거기 적힌 공연·영상은 사용자가 정하기 전까지 합치거나 지우지 않아요. 새로 애매한 것을 발견하면 묻거나 거기에 적어요.
 
 - 데이터 모델·검증 규칙·URL 형식: `README.md`의 “데이터와 검증”, “URL”.
 - 화면 명세 원본은 사용자가 처음 준 프롬프트이고, 화면 동작은 `README.md` “평가용 빠른 시작”에 요약돼 있어요.

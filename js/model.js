@@ -20,6 +20,17 @@ export function memberColor(group, member) {
   return DEFAULT_COLORS[Math.max(0, idx) % DEFAULT_COLORS.length];
 }
 
+// 포토카드 이름띠 색: 멤버색을 흰 글자와 4.5:1 이상이 될 때까지 어둡게 한다(색상은 그대로)
+export function stripColor(hex) {
+  const m = /^#?([0-9a-f]{6})$/i.exec(hex || '');
+  if (!m) return '#3f444d';
+  let [r, g, b] = [0, 2, 4].map((i) => parseInt(m[1].slice(i, i + 2), 16));
+  const lin = (c) => { c /= 255; return c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4; };
+  const contrastWithWhite = () => 1.05 / (0.2126 * lin(r) + 0.7152 * lin(g) + 0.0722 * lin(b) + 0.05);
+  for (let i = 0; i < 40 && contrastWithWhite() < 4.5; i++) { r *= 0.94; g *= 0.94; b *= 0.94; }
+  return `#${[r, g, b].map((c) => Math.round(c).toString(16).padStart(2, '0')).join('')}`;
+}
+
 export function cellKey(memberIds) {
   if (!memberIds || memberIds.length === 0) return GROUP_KEY;
   return [...memberIds].sort().join('+');
