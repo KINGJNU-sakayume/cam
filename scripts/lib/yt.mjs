@@ -14,6 +14,15 @@ export function parseViews(t) {
   return Math.round(n * u);
 }
 
+// 조회수 컷: 올라온 지 얼마 안 된 영상은 조회수가 쌓이기 전이라 컷을 낮춘다.
+// 조회수는 처음 1~2개월 동안 늘다가 거의 멈춰서, 컷도 600까지 포화 곡선으로 올린다(4K·직캠 표기가 없으면 2배).
+//   1일 20 · 7일 125 · 14일 224 · 30일 379 · 60일 519 · 90일 이후 약 600
+export function viewsCut(ageDays, { quality = true } = {}) {
+  const age = Number.isFinite(ageDays) ? Math.max(0, ageDays) : 365; // 나이를 모르면 충분히 오래된 영상으로 본다
+  const cut = 600 * (1 - Math.exp(-age / 30));
+  return Math.round(quality ? cut : cut * 2);
+}
+
 // 한국 시간 날짜(YYYY-MM-DD). 공연 날짜가 한국 기준이라 업로드 날짜도 한국 기준으로 맞춘다
 export function kstDate(d) {
   const t = d instanceof Date ? d.getTime() : Date.parse(d);
