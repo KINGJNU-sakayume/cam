@@ -2273,6 +2273,54 @@
           ],
           "order": 60,
           "release": ""
+        },
+        {
+          "id": "g5s61",
+          "title": "거짓말 거짓말 거짓말",
+          "aliases": [],
+          "order": 61,
+          "release": "",
+          "kind": "cover"
+        },
+        {
+          "id": "g5s62",
+          "title": "imperfect for you",
+          "aliases": [],
+          "order": 62,
+          "release": "",
+          "kind": "cover"
+        },
+        {
+          "id": "g5s63",
+          "title": "Only Wanna Give It To You",
+          "aliases": [],
+          "order": 63,
+          "release": "",
+          "kind": "cover"
+        },
+        {
+          "id": "g5s64",
+          "title": "Be Be Your Love",
+          "aliases": [],
+          "order": 64,
+          "release": "",
+          "kind": "cover"
+        },
+        {
+          "id": "g5s65",
+          "title": "Yukon",
+          "aliases": [],
+          "order": 65,
+          "release": "",
+          "kind": "cover"
+        },
+        {
+          "id": "g5s66",
+          "title": "21",
+          "aliases": [],
+          "order": 66,
+          "release": "",
+          "kind": "cover"
         }
       ]
     },
@@ -11193,6 +11241,15 @@
         "g6s39",
         "g6s9"
       ],
+      "note": ""
+    },
+    {
+      "id": "e762",
+      "groupId": "g3",
+      "date": "2025-08-10",
+      "show": "NOW TOMORROW 서울",
+      "label": "",
+      "setlist": [],
       "note": ""
     }
   ],
@@ -213475,6 +213532,3572 @@
       "pin": false,
       "gone": false,
       "uploaded": "2026-10-19"
+    },
+    {
+      "id": "v12713",
+      "ytId": "ZEHefsG-QnE",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s61",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251203 WINTER Blues 거짓말 거짓말 거짓말 #aespa #에스파 #winter #윈터 직캠",
+      "channel": "𝐒𝐧𝐨𝐰 𝐝𝐫𝐨𝐩",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-05"
+    },
+    {
+      "id": "v12714",
+      "ytId": "7YTmC-QV3F8",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s62",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251203 WINTER B-day Party Winter Blues imperfect for you 에스파(aespa) 윈터(WINTER) 직캠  Fancam",
+      "channel": "Aeonian",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-04"
+    },
+    {
+      "id": "v12715",
+      "ytId": "Ut5LdKy64G4",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s61",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251203 WINTER B-day Party Winter Blues 거짓말 거짓말 거짓말 에스파(aespa) 윈터(WINTER) 직캠  Fancam",
+      "channel": "Aeonian",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-04"
+    },
+    {
+      "id": "v12716",
+      "ytId": "oolQ0UuKFeI",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s63",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251203 WINTER B-day Party Winter Blues Only Wanna Give It To You 에스파(aespa) 윈터(WINTER) 직캠  Fancam",
+      "channel": "Aeonian",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-04",
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v12717",
+      "ytId": "ZBQDb7kH63w",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s64",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251203 WINTER B-day Party Winter Blues Be Be Your Love 에스파(aespa) 윈터(WINTER) 직캠  Fancam",
+      "channel": "Aeonian",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-04"
+    },
+    {
+      "id": "v12718",
+      "ytId": "JCK8g1DoIsA",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s65",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251203 WINTER B-day Party Winter Blues Yukon 에스파(aespa) 윈터(WINTER) 직캠  Fancam",
+      "channel": "Aeonian",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-04"
+    },
+    {
+      "id": "v12719",
+      "ytId": "PyDVjK29tAM",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s66",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251203 WINTER B-day Party Winter Blues 21 에스파(aespa) 윈터(WINTER) 직캠  Fancam",
+      "channel": "Aeonian",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-04",
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v12720",
+      "ytId": "9pCxN2dzHP8",
+      "eventId": "e666",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "프로미스나인 fromis9 @250705 서울 워터밤 직캠",
+      "channel": "TheGsd",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-28"
+    },
+    {
+      "id": "v12721",
+      "ytId": "sgxGStxD8hI",
+      "eventId": "e676",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "프로미스나인(Fromis_9)  @250726 대구 달성 워터 스플래시 직캠",
+      "channel": "TheGsd",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-27"
+    },
+    {
+      "id": "v12722",
+      "ytId": "_3bY-KTLYsI",
+      "eventId": "e676",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "프로미스나인 250726 fromis_9 대구 달성 워터스플래시 청년축제 ",
+      "channel": "이채훈",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-26"
+    },
+    {
+      "id": "v12723",
+      "ytId": "Q31-0ytlnPg",
+      "eventId": "e683",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "250808 tripleS (트리플에스) - 완도 섬의 날 직캠 (Fancam)",
+      "channel": "Starrysky",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-09"
+    },
+    {
+      "id": "v12724",
+      "ytId": "XHJWEZSCCmI",
+      "eventId": "e587",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "프로미스나인 fromis_9 중부대 축제 250925 중부대학교",
+      "channel": "이채훈",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-25"
+    },
+    {
+      "id": "v12725",
+      "ytId": "vp9burhoZrM",
+      "eventId": "e711",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "250927 tripleS (트리플에스) - 거창 한마당대축제 직캠 (Fancam)",
+      "channel": "Starrysky",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-28"
+    },
+    {
+      "id": "v12726",
+      "ytId": "fwlf-5qNmEI",
+      "eventId": "e595",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "프로미스나인 fromis_9 전남대 축제 250929 전남대학교 ",
+      "channel": "이채훈",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-29"
+    },
+    {
+      "id": "v12727",
+      "ytId": "Eztq14b7-rI",
+      "eventId": "e718",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "251016 프로미스나인 (fromis_9) - 남원 국제드론제전 직캠 (Fancam)",
+      "channel": "Starrysky",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-17"
+    },
+    {
+      "id": "v12728",
+      "ytId": "5-pA5IOJTn8",
+      "eventId": "e637",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251129 nmixx world tour 4K",
+      "channel": "choco",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-13"
+    },
+    {
+      "id": "v12729",
+      "ytId": "fKu00DX2V9c",
+      "eventId": "e742",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "251220 트리플에스(tripleS) - 화천산천어축제 선등거리 점등식 특별공연",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-21"
+    },
+    {
+      "id": "v12730",
+      "ytId": "krqYcrr9PBU",
+      "eventId": "e742",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 25
+        },
+        {
+          "songId": "g6s2",
+          "t": 377
+        },
+        {
+          "songId": "g6s36",
+          "t": 566
+        },
+        {
+          "songId": "g6s46",
+          "t": 922
+        },
+        {
+          "songId": "g6s9",
+          "t": 1165
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "251220 트리플에스 직캠 / 화천산천어축제 선등거리 점등식 / #tripleS #fancam",
+      "channel": "TOYS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-21"
+    },
+    {
+      "id": "v12731",
+      "ytId": "C32XiyRpUtI",
+      "eventId": "e656",
+      "songs": [
+        {
+          "songId": "g3s51",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "짧은 치마 (Miniskirt) - fromis_9(프로미스나인) [2025 가요대축제 글로벌 페스티벌] | KBS 251219 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-19"
+    },
+    {
+      "id": "v12732",
+      "ytId": "QzjVyhFbGew",
+      "eventId": "e656",
+      "songs": [
+        {
+          "songId": "g3s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "하얀 그리움 - fromis_9 (프로미스나인) [2025 가요대축제 글로벌 페스티벌] | KBS 251219 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-19"
+    },
+    {
+      "id": "v12733",
+      "ytId": "YDeBl-5JABA",
+      "eventId": "e655",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Rich Man - aespa [2025 가요대축제 글로벌 페스티벌] | KBS 251219 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-19"
+    },
+    {
+      "id": "v12734",
+      "ytId": "WWJFJXooWk8",
+      "eventId": "e654",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Intro + 깨어(Are You Alive) - tripleS(트리플에스) [2025 가요대축제 글로벌 페스티벌] | KBS 251219 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-19"
+    },
+    {
+      "id": "v12735",
+      "ytId": "vkwwZQwN1ws",
+      "eventId": "e743",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "【tripleS】250720 tripleS A Live 25 in Tokyo 线上直播舞台全场",
+      "channel": "Angie X. Velasco L.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-24"
+    },
+    {
+      "id": "v12736",
+      "ytId": "leaydesCAuk",
+      "eventId": "e547",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "프로미스나인 fromis_9 250809 콘서트 2025 WORLD TOUR [NOW TOMORROW.] IN SEOUL Day 2",
+      "channel": "이채훈",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-10"
+    },
+    {
+      "id": "v12737",
+      "ytId": "Fu9bU_U_IIY",
+      "eventId": "e762",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "250810   2025 fromis_9 WORLD TOUR [NOW TOMORROW] IN SEOUL",
+      "channel": "Aaruuniiika",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-30"
+    },
+    {
+      "id": "v12738",
+      "ytId": "XbRG0qRy1Zc",
+      "eventId": "e762",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "20250810 프로미스나인 NOW TOMORROW 콘서트 풀버전에서 배터리방전으로 조금?빠진버전",
+      "channel": "세젤귀하냥",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-14"
+    },
+    {
+      "id": "v12739",
+      "ytId": "HgAKM1GSBeg",
+      "eventId": "e746",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "Triple S (트리플에스) Full concert [4K] fancam Alphie Percent, Indianapolis IN 2025.09.07",
+      "channel": "Shy Bat Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-08"
+    },
+    {
+      "id": "v12740",
+      "ytId": "3ARmVdpXXJs",
+      "eventId": "e752",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "NMIXX (엔믹스) - Sydney FULL CONCERT 251108 | K-CONTENT Planet | 4K60 Front Row 직캠",
+      "channel": "Nixie_AU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-10"
+    },
+    {
+      "id": "v12741",
+      "ytId": "yzOsMAMrCkE",
+      "eventId": "e488",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260513 tripleS (트리플에스) - 🎵Girls Never Die @ 유니스트 (UNIST) 축제 직캠 (Fancam) #triples #트리플에스 #unist #유니스트",
+      "channel": "Lunatic Soul",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-13"
+    },
+    {
+      "id": "v12742",
+      "ytId": "EKDgkavd9xU",
+      "eventId": "e464",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "트리플에스 TripleS 가천대학교 글로벌캠퍼스 #직캠 #FANCAM 260513",
+      "channel": "David Park",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-13"
+    },
+    {
+      "id": "v12743",
+      "ytId": "ZUYwzw6KEfs",
+      "eventId": "e440",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[MPD직캠] 에스파 직캠 8K 'WDA (Whole Different Animal) (Feat. G-DRAGON)' (aespa FanCam)",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-14"
+    },
+    {
+      "id": "v12744",
+      "ytId": "9n1YOBByjco",
+      "eventId": "e426",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260522 에스파 aespa🎵WDA (Whole Different Animal) 직캠 FANCAM @IPSELENTI2026",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-22"
+    },
+    {
+      "id": "v12745",
+      "ytId": "JMfE_3V6qtQ",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260527 에스파 aespa🎵WDA (Whole Different Animal) 직캠 FANCAM @RACHIOS2026",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-27"
+    },
+    {
+      "id": "v12746",
+      "ytId": "wzEt6mQpIoI",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260527 에스파 aespa 'WDA (Whole Different Animal)' 4K 60P 직캠 @한양대 축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-28"
+    },
+    {
+      "id": "v12747",
+      "ytId": "U4hlBcHj6tM",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260527 에스파 aespa 'Whiplash' 4K 60P 직캠 @한양대 축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-28"
+    },
+    {
+      "id": "v12748",
+      "ytId": "uVtKrYgewLs",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260527 에스파 aespa 'Supernova' 4K 60P 직캠 @한양대 축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-28"
+    },
+    {
+      "id": "v12749",
+      "ytId": "lbYUMFue54c",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "aespa 에스파 'WDA (Whole Different Animal)' 4K 직캠｜한양대 축제 260527",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-27"
+    },
+    {
+      "id": "v12750",
+      "ytId": "9cNuExzxjC8",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "aespa 에스파 'Supernova' 4K 직캠｜한양대 축제 260527",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-28"
+    },
+    {
+      "id": "v12751",
+      "ytId": "uhFlRoopyb4",
+      "eventId": "e427",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "aespa 에스파 'Whiplash' 4K 직캠｜한양대 축제 260527",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-28"
+    },
+    {
+      "id": "v12752",
+      "ytId": "KMcX9GbFztE",
+      "eventId": "e468",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260530 tripleS(트리플에스) Baby Flower 직캠 4K60p 엠카운트다운 X 메가콘서트",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-30"
+    },
+    {
+      "id": "v12753",
+      "ytId": "uPR11CDtXJQ",
+      "eventId": "e468",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260530 | Girls Never Die | #트리플에스 #tripleS #トリプルS | M COUNTDOWN X MEGA CONCERT",
+      "channel": "파란너구리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-31"
+    },
+    {
+      "id": "v12754",
+      "ytId": "2XVoLZ_kBwE",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260602 에스파 aespa 🎵LEMONADE 직캠 FANCAM @ QUINQUATRIA2026",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-02"
+    },
+    {
+      "id": "v12755",
+      "ytId": "DNKcKNCQPKo",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        },
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260602 aespa 에스파 - WDA & 슈퍼노바 & 위플래쉬 & 넥스트레벨 (한국외국어대 축제) 직캠 fancam by zam",
+      "channel": "z a m",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-03"
+    },
+    {
+      "id": "v12756",
+      "ytId": "2sJEbtprlhY",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        },
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260602 에스파 WDA+SuperNova+Wiplash+NextLevel+LEMONADE 4K 직캠 @한국외대(aespa FANCAM)",
+      "channel": "Day_Day",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-03"
+    },
+    {
+      "id": "v12757",
+      "ytId": "dHiH1MWyc5k",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파(aespa) - WDA (Whole Different Animal) 직캠 | 한국외대 축제 • 260602",
+      "channel": "비몽 BIMONG",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-02"
+    },
+    {
+      "id": "v12758",
+      "ytId": "O_z8AStKKi8",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파(aespa) - LEMONADE (레모네이드) 직캠 | 한국외대 축제 • 260602",
+      "channel": "비몽 BIMONG",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-02"
+    },
+    {
+      "id": "v12759",
+      "ytId": "F6Z7aCwwtHc",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파(aespa) - Next Level (넥스트레벨) 직캠 | 한국외대 축제 • 260602",
+      "channel": "비몽 BIMONG",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-02"
+    },
+    {
+      "id": "v12760",
+      "ytId": "LPT9e8gKePM",
+      "eventId": "e431",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260602 에스파 직캠 'WDA' aespa Fancam @한국외국어대학교 서울캠퍼스 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-03"
+    },
+    {
+      "id": "v12761",
+      "ytId": "nJ_X8I-9QwM",
+      "eventId": "e474",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 트리플에스 직캠 4K 'Baby Flower' (tripleS FanCam) | @MCOUNTDOWN_2026.6.11",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-11"
+    },
+    {
+      "id": "v12762",
+      "ytId": "1SJO6mwtfuk",
+      "eventId": "e475",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Choreo 8K] 트리플에스 직캠 'Sad Girls Schemin'' (tripleS Choreography) @MusicBank 260612",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-13"
+    },
+    {
+      "id": "v12763",
+      "ytId": "kD-OqxzYidc",
+      "eventId": "e492",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260615 트리플에스 tripleS 'Baby Flower' 4K 60P 직캠 @울산 음악중심 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-15"
+    },
+    {
+      "id": "v12764",
+      "ytId": "NfSU2GsSvIM",
+      "eventId": "e492",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        },
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260615 트리플에스 'Baby Flower / Girls Never Die ( tripleS FAN CAM) l 울산뮤직페스티벌",
+      "channel": "PEACH CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-16"
+    },
+    {
+      "id": "v12765",
+      "ytId": "eaOfnKkkv0I",
+      "eventId": "e494",
+      "songs": [
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "tripleS 트리플에스 | 가로 FANCAM | Love2Love | 2026 MyK FESTA | 260626 | 4K60P",
+      "channel": "7CLOVER",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-26"
+    },
+    {
+      "id": "v12766",
+      "ytId": "gpNrg14kyrg",
+      "eventId": "e494",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "tripleS 트리플에스 | 가로 FANCAM | Girls Never Die | 2026 MyK FESTA | 260626 | 4K60P",
+      "channel": "7CLOVER",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-26"
+    },
+    {
+      "id": "v12767",
+      "ytId": "ib3ovHS25yE",
+      "eventId": "e494",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260626 tripleS(트리플에스) 'Girls Never Die' MyK FESTA(마이케이 페스타) MyK Live I",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-27"
+    },
+    {
+      "id": "v12768",
+      "ytId": "W6KRQtFGJCY",
+      "eventId": "e494",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "tripleS (트리플에스) 'Girls Never Die' 직캠 (fancam) / MyK FESTA(마이케이 페스타) 260626",
+      "channel": "쿨타임 케이팝",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-28"
+    },
+    {
+      "id": "v12769",
+      "ytId": "swvPMtoI9bo",
+      "eventId": "e495",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260628 트리플에스 tripleS - Rising @ BOF 부산 원아시아 페스티벌 famcam",
+      "channel": "예리아",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-29"
+    },
+    {
+      "id": "v12770",
+      "ytId": "45kWQYkqX1w",
+      "eventId": "e436",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260719 에스파 aespa 🎵LEMONADE 직캠 FANCAM @CLASSMaeTE2026",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-20"
+    },
+    {
+      "id": "v12771",
+      "ytId": "SAuBRWlpWxc",
+      "eventId": "e497",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260725 tripleS (트리플에스) - 거제 여름해양축제 직캠 (Fancam)",
+      "channel": "Starrysky",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-25"
+    },
+    {
+      "id": "v12772",
+      "ytId": "I9OYNruHXww",
+      "eventId": "e445",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "20260803 aespa Full Performance at Lollapalooza #aespaAtLollapalooza",
+      "channel": "KillTimeCH",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-04"
+    },
+    {
+      "id": "v12773",
+      "ytId": "axRnkTPMqZA",
+      "eventId": "e445",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "aespa LIVE at Lollapalooza Chicago 2026 | Performance Highlights (4K)",
+      "channel": "Momo's Kpop Fancams",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-04"
+    },
+    {
+      "id": "v12774",
+      "ytId": "s5XQ8IBM9WE",
+      "eventId": "e445",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[260802] aespa 에스파 | Lemonade | Lollapalooza Chicago 2026 Fancam 직캠 #aespa #에스파",
+      "channel": "imgie",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-23"
+    },
+    {
+      "id": "v12775",
+      "ytId": "-YuulFWja7s",
+      "eventId": "e446",
+      "songs": [
+        {
+          "songId": "g5s40",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260807 aespa - 'Till We Die / 2026-27 aespa LIVE TOUR -SYNK : COMPLaeXITY-",
+      "channel": "찍다보니찍은거",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-08"
+    },
+    {
+      "id": "v12776",
+      "ytId": "0yARKI3b7Hk",
+      "eventId": "e446",
+      "songs": [
+        {
+          "songId": "g5s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260807 aespa - Black Mamba / 2026-27 aespa LIVE TOUR -SYNK : COMPLaeXITY-",
+      "channel": "찍다보니찍은거",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-08"
+    },
+    {
+      "id": "v12777",
+      "ytId": "v_YvM70v0K4",
+      "eventId": "e446",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260807 aespa LIVE TOUR - SYNK : COMPLaeXITY- Whiplash",
+      "channel": "불갸리스",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-08"
+    },
+    {
+      "id": "v12778",
+      "ytId": "6p2FzE7urRU",
+      "eventId": "e446",
+      "songs": [
+        {
+          "songId": "g5s41",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260807 에스파  aespa 🎵KISS N TELL 직캠 @SYNK_ COMPLæXITY26-27 SEOUL",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-08"
+    },
+    {
+      "id": "v12779",
+      "ytId": "cDV_NWODcQw",
+      "eventId": "e446",
+      "songs": [
+        {
+          "songId": "g5s37",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] aespa LIVE TOUR - SYNK：COMPLæXITY Seoul - Switchblade 20260807",
+      "channel": "gaojidaza",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-09"
+    },
+    {
+      "id": "v12780",
+      "ytId": "2vy40_e7mVo",
+      "eventId": "e446",
+      "songs": [
+        {
+          "songId": "g5s37",
+          "t": 0
+        },
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 æspa 'Switchblade+Whiplash+Black Mamba' æspa TOUR -SYNK : COMPLaeXITY 260807",
+      "channel": "poptforming",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-07"
+    },
+    {
+      "id": "v12781",
+      "ytId": "v6xAnZYhVtE",
+      "eventId": "e446",
+      "songs": [
+        {
+          "songId": "g5s36",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260807 aespa - Bite / 2026-27 aespa LIVE TOUR -SYNK : COMPLaeXITY-",
+      "channel": "찍다보니찍은거",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-08"
+    },
+    {
+      "id": "v12782",
+      "ytId": "7L483nf2KCY",
+      "eventId": "e446",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 æspa 'LEMONADE' æspa TOUR -SYNK : COMPLaeXITY 260807",
+      "channel": "poptforming",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-07"
+    },
+    {
+      "id": "v12783",
+      "ytId": "MQX6Zb0iBqI",
+      "eventId": "e447",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 260808] 에스파 aespa \" LEMONADE \"  @ SYNK : COMPLaeXITY-",
+      "channel": "__mfdd",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-09"
+    },
+    {
+      "id": "v12784",
+      "ytId": "CXkep0DxEI0",
+      "eventId": "e447",
+      "songs": [
+        {
+          "songId": "g5s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K HDR] aespa(에스파), SHAKIN' - 260808 LIVE TOUR -SYNK : COMPLaeXITY-",
+      "channel": "kimbilly",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-09"
+    },
+    {
+      "id": "v12785",
+      "ytId": "ufwkYM44xzY",
+      "eventId": "e447",
+      "songs": [
+        {
+          "songId": "g5s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260808 aespa SHAKIN' LIVE TOUR - SYNK : COMPLaeXITY -in  Seoul",
+      "channel": "chen1117",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-09"
+    },
+    {
+      "id": "v12786",
+      "ytId": "edqvDpI8BSE",
+      "eventId": "e447",
+      "songs": [
+        {
+          "songId": "g5s37",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K HDR] aespa(에스파), Switchblade (Feat. Ty Dolla $ign) - 260808 LIVE TOUR -SYNK : COMPLaeXITY-",
+      "channel": "kimbilly",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-09"
+    },
+    {
+      "id": "v12787",
+      "ytId": "O1jKirEgkE0",
+      "eventId": "e447",
+      "songs": [
+        {
+          "songId": "g5s36",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K HDR] aespa(에스파), Bite - 260808 LIVE TOUR -SYNK : COMPLaeXITY-",
+      "channel": "kimbilly",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-09"
+    },
+    {
+      "id": "v12788",
+      "ytId": "pXK8mumEmdM",
+      "eventId": "e447",
+      "songs": [
+        {
+          "songId": "g5s40",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K HDR] aespa(에스파), ’Til We Die + Ending - 260808 LIVE TOUR -SYNK : COMPLaeXITY-",
+      "channel": "kimbilly",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-09"
+    },
+    {
+      "id": "v12789",
+      "ytId": "sIn9GWOaNNY",
+      "eventId": "e448",
+      "songs": [
+        {
+          "songId": "g5s40",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa 에스파 ' ’Til We Die ' | 260811 aespa LIVE TOUR-SYNK : COMPLaeXITY in TAIPEI",
+      "channel": "real_chy",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-14"
+    },
+    {
+      "id": "v12790",
+      "ytId": "0n4RpMNds6U",
+      "eventId": "e501",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] tripleS - WBSC Seoul 가로직캠 fancam│260815 WBSC 장충체육관",
+      "channel": "탐정단_fancam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-16"
+    },
+    {
+      "id": "v12791",
+      "ytId": "RL5uIGq6LIw",
+      "eventId": "e438",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K16:9] 에스파 'Supernova'  | aespa | 2026 TIMA 260822",
+      "channel": "kpopmylife1314",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-24"
+    },
+    {
+      "id": "v12792",
+      "ytId": "nt4IsxW_jKY",
+      "eventId": "e438",
+      "songs": [
+        {
+          "songId": "g5s35",
+          "t": 0
+        },
+        {
+          "songId": "g5s34",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260822 aespa 에스파 'Camouflage' 'Can't Help Myself' Fancam | TIMA 2026 Day 1",
+      "channel": "pipishuut",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-23"
+    },
+    {
+      "id": "v12793",
+      "ytId": "wcx4ixMZoQk",
+      "eventId": "e438",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260822 aespa 에스파 'LEMONADE' Live Fancam | TIMA 2026 Day 1",
+      "channel": "pipishuut",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-23"
+    },
+    {
+      "id": "v12794",
+      "ytId": "sGEEdLq1nxE",
+      "eventId": "e438",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 æspa 'WDA' TIMA IN HONGKONG 260822",
+      "channel": "poptforming",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-24"
+    },
+    {
+      "id": "v12795",
+      "ytId": "dMwcIZhmgh4",
+      "eventId": "e438",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 æspa 'Supernova+LEMONADE' TIMA 260822",
+      "channel": "poptforming",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-23"
+    },
+    {
+      "id": "v12796",
+      "ytId": "c6HXMt_wJ_U",
+      "eventId": "e438",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260822 aespa 에스파 'Whiplash' Live Fancam | TIMA 2026 Day 1",
+      "channel": "pipishuut",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-23"
+    },
+    {
+      "id": "v12797",
+      "ytId": "mVgWtpK1AlM",
+      "eventId": "e502",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260827 트리플에스 tripleS 'Girls Never Die' 4K 60P 직캠 @강진하맥축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-27"
+    },
+    {
+      "id": "v12798",
+      "ytId": "T6-Zr07tz7M",
+      "eventId": "e502",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260827 tripleS (트리플에스) - 강진 하맥축제 직캠 (Fancam)",
+      "channel": "Starrysky",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-28"
+    },
+    {
+      "id": "v12799",
+      "ytId": "VvFxrpnn_4Y",
+      "eventId": "e450",
+      "songs": [
+        {
+          "songId": "g5s37",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260904 에스파 브라질 콘서트 Switchblade 직캠",
+      "channel": "camproclub",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-05"
+    },
+    {
+      "id": "v12800",
+      "ytId": "YCmBiHK9mp4",
+      "eventId": "e451",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "06092026 - WHIPLASH AESPA IN SANTIAGO CHILE - SYNK COMPLÆXITY TOUR",
+      "channel": "Andrés Pérez",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-07"
+    },
+    {
+      "id": "v12801",
+      "ytId": "8lp5EOQYOHM",
+      "eventId": "e451",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260906 Armageddon - Aespa Synk Complaexity Tour in Santiago, Chile",
+      "channel": "frani",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-07"
+    },
+    {
+      "id": "v12802",
+      "ytId": "6NQE-sJ2wWw",
+      "eventId": "e452",
+      "songs": [
+        {
+          "songId": "g5s37",
+          "t": 0
+        },
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "🩵💜AESPA (에스파) en Lima 2026: Switchblade + Whiplash | Costa 21 Duomo (4K 60fps)",
+      "channel": "Asian Neko Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-11"
+    },
+    {
+      "id": "v12803",
+      "ytId": "51mHib8mHCk",
+      "eventId": "e452",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        },
+        {
+          "songId": "g5s33",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "🩵💜AESPA (에스파) en Lima 2026: NEXT LEVEL + SHAKIN' + Supernova | Costa 21 Duomo (4K 60fps)",
+      "channel": "Asian Neko Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-12"
+    },
+    {
+      "id": "v12804",
+      "ytId": "f6TTtgHkslg",
+      "eventId": "e479",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        },
+        {
+          "songId": "g6s2",
+          "t": 0
+        },
+        {
+          "songId": "g6s36",
+          "t": 0
+        },
+        {
+          "songId": "g6s28",
+          "t": 0
+        },
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "트리플에스 - \"Baby flower\" \"Rising\" \"Love2Love\" \"깨어\" \"Girls Never Die\" [4k직캠] @성결대축제 260909",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-10"
+    },
+    {
+      "id": "v12805",
+      "ytId": "fOR2-g7NgXo",
+      "eventId": "e453",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "1. LEMONADE - aespa SYNK : COMPLaeXITY Tour in Mexico 2026",
+      "channel": "regina317",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-12"
+    },
+    {
+      "id": "v12806",
+      "ytId": "VD4LHa6VU8s",
+      "eventId": "e453",
+      "songs": [
+        {
+          "songId": "g5s36",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "20. Bite - aespa SYNK : COMPLaeXITY Tour in Mexico 2026",
+      "channel": "regina317",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-13"
+    },
+    {
+      "id": "v12807",
+      "ytId": "WjF4iQBXQ1M",
+      "eventId": "e453",
+      "songs": [
+        {
+          "songId": "g5s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260911 Aespa 에스파 - Black Mamba in Mexico City",
+      "channel": "Chris",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-12"
+    },
+    {
+      "id": "v12808",
+      "ytId": "eg4Z8RCOdTk",
+      "eventId": "e453",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s1",
+          "t": 0
+        },
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - 20260911 - Whiplash + Black Mamba + WDA - Mexico City [Fancam / 직캠]",
+      "channel": "South Texas Once",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-12"
+    },
+    {
+      "id": "v12809",
+      "ytId": "0sYQYBt-Amc",
+      "eventId": "e453",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260911 Aespa 에스파 - Lemonade in Mexico City",
+      "channel": "Chris",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-12"
+    },
+    {
+      "id": "v12810",
+      "ytId": "rQHG1FgH1sQ",
+      "eventId": "e453",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260911 Aespa 에스파 - Whiplash in Mexico City",
+      "channel": "Chris",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-12"
+    },
+    {
+      "id": "v12811",
+      "ytId": "yia5BFaefME",
+      "eventId": "e453",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260911 Aespa 에스파 - Armageddon in Mexico City",
+      "channel": "Chris",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-12"
+    },
+    {
+      "id": "v12812",
+      "ytId": "iH36qzETKBQ",
+      "eventId": "e453",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] aespa - WHIPLASH | LIVE TOUR - SYNK: COMPLÆXITY - IN MEXICO CITY 260911",
+      "channel": "Rodi Mena",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-13"
+    },
+    {
+      "id": "v12813",
+      "ytId": "EQTH1XbiO4I",
+      "eventId": "e454",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[260915] aespa 에스파 | Armageddon | LIVE TOUR SYNK : COMPLæXITY Hamilton CANADA Fancam 직캠 #aespa #에스파",
+      "channel": "imgie",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-18"
+    },
+    {
+      "id": "v12814",
+      "ytId": "PQsrtJ1EaNQ",
+      "eventId": "e454",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260915 ‘Next Level’ - aespa (에스파) - SYNK : COMPLaeXITY - HAMILTON 4K60",
+      "channel": "K-POP Concert Highlights",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-17"
+    },
+    {
+      "id": "v12815",
+      "ytId": "a6wM1SqSYc4",
+      "eventId": "e454",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Armageddon - aespa - Hamilton, Canada [Sep 15 2026]",
+      "channel": "Chris Murray",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-16"
+    },
+    {
+      "id": "v12816",
+      "ytId": "k_wdJEGkK9M",
+      "eventId": "e482",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "트리플에스 - 공주대학교 천안캠퍼스 축제 직캠 tripleS Fancam 260917",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-18"
+    },
+    {
+      "id": "v12817",
+      "ytId": "CoLl2h534XI",
+      "eventId": "e455",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        },
+        {
+          "songId": "g5s33",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa LIVE TOUR SYNK COMPLæXITY - Next Level, SHAKIN', & Supernova POV fancam",
+      "channel": "JVcasualgamer",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-21"
+    },
+    {
+      "id": "v12818",
+      "ytId": "lp0QnKek-lI",
+      "eventId": "e455",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        },
+        {
+          "songId": "g5s36",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa LIVE TOUR SYNK COMPLæXITY - Armageddon & Bite, POV fancam",
+      "channel": "JVcasualgamer",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-21"
+    },
+    {
+      "id": "v12819",
+      "ytId": "B0a98xfIXTo",
+      "eventId": "e455",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Lemonade aespa SYNK COMPLaeXITY 2026 Live Tour Concert Elmont NY Sept 18 UBS Arena",
+      "channel": "UnboxWhatever",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-19"
+    },
+    {
+      "id": "v12820",
+      "ytId": "zizKA4oo5mw",
+      "eventId": "e455",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa LIVE TOUR SYNK COMPLæXITY - Act 2 POV fancam",
+      "channel": "JVcasualgamer",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-20"
+    },
+    {
+      "id": "v12821",
+      "ytId": "59GYCJejcoU",
+      "eventId": "e455",
+      "songs": [
+        {
+          "songId": "g5s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260918 aespa 에스파 'Black Mamba' aespa SYNK: COMPLæXITY in Belmont Park NEW YORK FanCam 직캠",
+      "channel": "UmiKakki",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-19"
+    },
+    {
+      "id": "v12822",
+      "ytId": "8TbSnxBxRX0",
+      "eventId": "e455",
+      "songs": [
+        {
+          "songId": "g5s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) 'Black Mamba' SYNK : COMPLæXITY NYC 260918",
+      "channel": "KPOP Studio Fancams 직캠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-19"
+    },
+    {
+      "id": "v12823",
+      "ytId": "tY9wsV6R_Os",
+      "eventId": "e455",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) 'WDA (Whole Different Animal)' SYNK : COMPLæXITY NYC 260918",
+      "channel": "KPOP Studio Fancams 직캠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-19"
+    },
+    {
+      "id": "v12824",
+      "ytId": "38REqbGyVNI",
+      "eventId": "e455",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260918 aespa 에스파 'Next Level' aespa SYNK: COMPLæXITY in Belmont Park NEW YORK FanCam 직캠",
+      "channel": "UmiKakki",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-19"
+    },
+    {
+      "id": "v12825",
+      "ytId": "FIf1rpTTyh4",
+      "eventId": "e455",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) 'Next Level' SYNK : COMPLæXITY NYC 260918",
+      "channel": "KPOP Studio Fancams 직캠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-20"
+    },
+    {
+      "id": "v12826",
+      "ytId": "-D38HdnfZ9s",
+      "eventId": "e455",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260918 aespa 에스파 'LEMONADE' aespa SYNK: COMPLæXITY in Belmont Park NEW YORK FanCam 직캠",
+      "channel": "UmiKakki",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-19"
+    },
+    {
+      "id": "v12827",
+      "ytId": "ep6zZxSojAI",
+      "eventId": "e506",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "트리플에스 - 안양 춤 축제 직캠 tripleS Fancam 260920",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-21"
+    },
+    {
+      "id": "v12828",
+      "ytId": "IDILYEiLzqk",
+      "eventId": "e506",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        },
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "트리플에스 #tripleS @260920 안양춤축제 ♬ Baby Flower ♬ Rising",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-21"
+    },
+    {
+      "id": "v12829",
+      "ytId": "zNeo9flnhRM",
+      "eventId": "e506",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260920 트리플에스 tripleS 'Girls Never Die' 4K 60P 직캠 @안양춤축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-20"
+    },
+    {
+      "id": "v12830",
+      "ytId": "AU3W94Be04w",
+      "eventId": "e456",
+      "songs": [
+        {
+          "songId": "g5s37",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - Switchblade  Live in Washington, DC  20260922",
+      "channel": "Ken K-Pop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-23"
+    },
+    {
+      "id": "v12831",
+      "ytId": "tUtRVTcTsSk",
+      "eventId": "e457",
+      "songs": [
+        {
+          "songId": "g5s35",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - Camouflage | Atlanta 260924 | SYNK : COMPLaeXITY Tour",
+      "channel": "nightbloom",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-25"
+    },
+    {
+      "id": "v12832",
+      "ytId": "nGwqx4Y_R-8",
+      "eventId": "e457",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - LEMONADE | Atlanta 260924 | SYNK : COMPLaeXITY Tour",
+      "channel": "nightbloom",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-25"
+    },
+    {
+      "id": "v12833",
+      "ytId": "L59NYx7ZU9g",
+      "eventId": "e457",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - WDA (Whole Different Animal) | Atlanta 260924 | SYNK : COMPLaeXITY Tour",
+      "channel": "nightbloom",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-25"
+    },
+    {
+      "id": "v12834",
+      "ytId": "09greW2QfXk",
+      "eventId": "e457",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - Whiplash | Atlanta 260924 | SYNK : COMPLaeXITY Tour",
+      "channel": "nightbloom",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-25"
+    },
+    {
+      "id": "v12835",
+      "ytId": "RrnSMDOLLB8",
+      "eventId": "e457",
+      "songs": [
+        {
+          "songId": "g5s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - Black Mamba | Atlanta 260924 | SYNK : COMPLaeXITY Tour",
+      "channel": "nightbloom",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-25"
+    },
+    {
+      "id": "v12836",
+      "ytId": "bDPDl8VXMAA",
+      "eventId": "e457",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - Supernova | Atlanta 260924 | SYNK : COMPLaeXITY Tour",
+      "channel": "nightbloom",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-25"
+    },
+    {
+      "id": "v12837",
+      "ytId": "QnUn20KOP70",
+      "eventId": "e457",
+      "songs": [
+        {
+          "songId": "g5s41",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - KISS N TELL | Atlanta 260924 | SYNK : COMPLaeXITY Tour",
+      "channel": "nightbloom",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-25"
+    },
+    {
+      "id": "v12838",
+      "ytId": "Rw9LdTmreLY",
+      "eventId": "e457",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - Armageddon | Atlanta 260924 | SYNK : COMPLaeXITY Tour",
+      "channel": "nightbloom",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-25"
+    },
+    {
+      "id": "v12839",
+      "ytId": "EhKlJ9H7iNw",
+      "eventId": "e457",
+      "songs": [
+        {
+          "songId": "g5s36",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - Bite | Atlanta 260924 | SYNK : COMPLaeXITY Tour",
+      "channel": "nightbloom",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-25"
+    },
+    {
+      "id": "v12840",
+      "ytId": "fSB9-46sx_E",
+      "eventId": "e458",
+      "songs": [
+        {
+          "songId": "g5s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260926 에스파 AESPA - BLACK MAMBA! (FANCAM) SYNK Complaexity World Tour. Night 4, Miami, FL. #aespa ",
+      "channel": "Reverend Ce's Korner",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-28"
+    },
+    {
+      "id": "v12841",
+      "ytId": "k3Yx75HJV-w",
+      "eventId": "e459",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        },
+        {
+          "songId": "g5s37",
+          "t": 0
+        },
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s1",
+          "t": 0
+        },
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260929 aespa(에스파) 'LEMONADE + Switchblade + Whiplash + Black Mamba + WDA'  SYNK:COMPLæXITY in DALLAS",
+      "channel": "nvr4GGet93o39🌸",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-30"
+    },
+    {
+      "id": "v12842",
+      "ytId": "M9BbI1pak_0",
+      "eventId": "e485",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260930 트리플에스 tripleS 'Baby Flower' 4K 60P @전북대",
+      "channel": "그냥취미활동",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-01"
+    },
+    {
+      "id": "v12843",
+      "ytId": "OLCe0F77ht0",
+      "eventId": "e460",
+      "songs": [
+        {
+          "songId": "g5s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 261003 AESPA 아스파 SYNK : COMPLæXITY BLACK MAMBA 직캠 @SYNK : COMPLæXITY LA fancam",
+      "channel": "Omni ",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-06"
+    },
+    {
+      "id": "v12844",
+      "ytId": "YxND_mNpkJ4",
+      "eventId": "e460",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 261003 AESPA 아스파 SYNK : COMPLæXITY WHIPLASH 직캠 @SYNK : COMPLæXITY LA fancam",
+      "channel": "Omni ",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-07"
+    },
+    {
+      "id": "v12845",
+      "ytId": "XsK2oeSt89o",
+      "eventId": "e460",
+      "songs": [
+        {
+          "songId": "g5s37",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "AESPA (에스파) 'SWITCHBLADE' [4K] 💫 SYNK : COMPLAEXITY TOUR - LOS ANGELES (CUT) - 261003",
+      "channel": "tinyencore 🌙",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-04"
+    },
+    {
+      "id": "v12846",
+      "ytId": "H3aJLTg6k0k",
+      "eventId": "e460",
+      "songs": [
+        {
+          "songId": "g5s41",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 261003 AESPA 아스파  SYNK : COMPLæXITY KISS N TELL 직캠 @SYNK : COMPLæXITY LA fancam",
+      "channel": "Omni ",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-05"
+    },
+    {
+      "id": "v12847",
+      "ytId": "Y8ruGXjDSi0",
+      "eventId": "e461",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261006 AESPA @Oakland Arena 4K Fancam | LEMONADE",
+      "channel": "Chamiel",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-07"
+    },
+    {
+      "id": "v12848",
+      "ytId": "AXdM-Mgg-1g",
+      "eventId": "e461",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261006 AESPA @Oakland Arena 4K Fancam | WHOLE DIFFERENT ANIMAL",
+      "channel": "Chamiel",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-07"
+    },
+    {
+      "id": "v12849",
+      "ytId": "lE2YaFwhmSI",
+      "eventId": "e462",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa 에스파 SYNK : COMPLAEXITY World Tour in Seattle 261009 직캠 (3/6)",
+      "channel": "swiftsomnia",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-10"
+    },
+    {
+      "id": "v12850",
+      "ytId": "KLohDGEjzFQ",
+      "eventId": "e462",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        },
+        {
+          "songId": "g5s33",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261009 에스파 aespa - Next Level, SHAKIN' & Supernova (4k fancam)",
+      "channel": "Stardust Nebulae",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-11"
+    },
+    {
+      "id": "v12851",
+      "ytId": "5XNRBbJTWvc",
+      "eventId": "e462",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        },
+        {
+          "songId": "g5s37",
+          "t": 0
+        },
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s1",
+          "t": 0
+        },
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261009 에스파 aespa - Lemonade, Switchblade, Whiplash, Black Mamba & WDA (4k fancam)",
+      "channel": "Stardust Nebulae",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-11"
+    },
+    {
+      "id": "v12852",
+      "ytId": "rUUq8cMRVC0",
+      "eventId": "e462",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        },
+        {
+          "songId": "g5s36",
+          "t": 0
+        },
+        {
+          "songId": "g5s20",
+          "t": 0
+        },
+        {
+          "songId": "g5s56",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261009 에스파 aespa - Armageddon, Bite & Dirty Work / Dark Arts (Dance Interlude) (4k fancam)",
+      "channel": "Stardust Nebulae",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-11"
+    },
+    {
+      "id": "v12853",
+      "ytId": "ZEfJYBirv78",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s19",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS(트리플에스) 「Hit The Floor」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-14"
+    },
+    {
+      "id": "v12854",
+      "ytId": "6D3ec9MbONo",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s34",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS(트리플에스) 「Diablo」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-14"
+    },
+    {
+      "id": "v12855",
+      "ytId": "xULjDr81cKU",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS(트리플에스) 「Rising」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-14"
+    },
+    {
+      "id": "v12856",
+      "ytId": "r2tH9EfMx74",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS(트리플에스) 「24」 + ENDING 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-15"
+    },
+    {
+      "id": "v12857",
+      "ytId": "BQZ93SSHdUo",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s63",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS(트리플에스) 「World Wild Women」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-11"
+    },
+    {
+      "id": "v12858",
+      "ytId": "UWiILGIWwcA",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s34",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20261010 트리플에스(tripleS) \"Diablo\" 음향사고+앵콜VER @ 2026 tripleS World Tour [ANDLESS]",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-11"
+    },
+    {
+      "id": "v12859",
+      "ytId": "kkKPKFQXH8w",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261010 트리플에스 Andless 미공개 신곡 직캠 4K60p tripleS fancam",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-10"
+    },
+    {
+      "id": "v12860",
+      "ytId": "JD2XYc5PENU",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s63",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261010 World Wild Women - tripleS World tour Andless in Seoul 직캠 4K60P",
+      "channel": "햄햄햄",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-11"
+    },
+    {
+      "id": "v12861",
+      "ytId": "0k760kSISRU",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS(트리플에스) 「Non Scale」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1, 261010",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-11"
+    },
+    {
+      "id": "v12862",
+      "ytId": "LAqMU-b8J4c",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS(트리플에스) 「Love2Love」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day1, 261010",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-11"
+    },
+    {
+      "id": "v12863",
+      "ytId": "2cHX4oxZTLk",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        },
+        {
+          "songId": "g6s26",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20261010 트리플에스(tripleS) \"Baby Flower+Bionic Power\" @ 2026 tripleS World Tour [ANDLESS]",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-11"
+    },
+    {
+      "id": "v12864",
+      "ytId": "p-Adjw1sHW0",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261010 tripleS 트리플에스 - Andless Fancam 직캠 | Andless Seoul Concert Day 1",
+      "channel": "AxCam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-10"
+    },
+    {
+      "id": "v12865",
+      "ytId": "SZBcqMUrk1k",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261010 Girls Never Die - tripleS World tour Andless in Seoul 직캠 4K60P",
+      "channel": "햄햄햄",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-11"
+    },
+    {
+      "id": "v12866",
+      "ytId": "VBV1xfrE0VI",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s19",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261010 Hit the Floor - tripleS World tour Andless in Seoul 직캠 4K60P",
+      "channel": "햄햄햄",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-11"
+    },
+    {
+      "id": "v12867",
+      "ytId": "K2ivzL5AI1Y",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s66",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261010 Lit Pop - tripleS World tour Andless in Seoul 직캠 4K60P",
+      "channel": "햄햄햄",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-11"
+    },
+    {
+      "id": "v12868",
+      "ytId": "s0tDbBvKmNM",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261011 트리플에스(tripleS) - Girs Never Die Stage Fancam @Andless Concert Day2",
+      "channel": "연지몰래채원",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-14"
+    },
+    {
+      "id": "v12869",
+      "ytId": "ZBpdnQNkVss",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS(트리플에스) 「Sad Girls Schemin'」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day2",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-19"
+    },
+    {
+      "id": "v12870",
+      "ytId": "4bMeTS4hOSA",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s19",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261011 트리플에스 Hit the Floor 직캠 4K60p tripleS fancam",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-14"
+    },
+    {
+      "id": "v12871",
+      "ytId": "XQyAsF6tE64",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261011 트리플에스 tripleS - 깨어 (Are You Alive) 직캠 | ANDLESS in Seoul",
+      "channel": "일육영",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-12"
+    },
+    {
+      "id": "v12872",
+      "ytId": "WSmQZcKT1NM",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS(트리플에스) 「Love2Love」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day2, 261011",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-16"
+    },
+    {
+      "id": "v12873",
+      "ytId": "S7VmSkHz3vE",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s19",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261011 TripleS 트리플에스 Hit the floor + Andless",
+      "channel": "Choyoun",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-11"
+    },
+    {
+      "id": "v12874",
+      "ytId": "A8HULiaLHnA",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s66",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261011 트리플에스 Lit Pop 직캠 4K60p tripleS fancam",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-13"
+    },
+    {
+      "id": "v12875",
+      "ytId": "roodIobySx8",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261011 tripleS 트리플에스 - Andless Fancam 직캠 | Andless Seoul Concert Day 2",
+      "channel": "AxCam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-12"
+    },
+    {
+      "id": "v12876",
+      "ytId": "3GSg-OXqZ5k",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261011 트리플에스 tripleS - 앤들리스 Andless | 월드투어 첫공개곡 가로 직캠 | World Tour ANDLESS in Seoul [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-13"
+    },
+    {
+      "id": "v12877",
+      "ytId": "Jg_fAyEeZk0",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s29",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261011 트리플에스 tripleS - 추리소설 직캠 | ANDLESS in Seoul",
+      "channel": "일육영",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-25"
+    },
+    {
+      "id": "v12878",
+      "ytId": "UmXQugSt37c",
+      "eventId": "e463",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "Aespa Synk Concert in Vancouver Oct 11 2026 - Lemonade 4K HD",
+      "channel": "Kyraenia",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-12"
+    },
+    {
+      "id": "v12879",
+      "ytId": "B4debaqNP-0",
+      "eventId": "e512",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "tripleS 트리플에스 - 2026 tripleS World Tour [ANDLESS] TAIPEI 261018 FANCAM 4K 60FPS",
+      "channel": "XUANLUVSTAGE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-19"
+    },
+    {
+      "id": "v12880",
+      "ytId": "l6CnDAUDVhM",
+      "eventId": "e487",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[MPD직캠] 트리플에스 직캠 8K 'Andless' (tripleS FanCam) | @MCOUNTDOWN_2026.10.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-22"
+    },
+    {
+      "id": "v12881",
+      "ytId": "VTvnqWAOA6g",
+      "eventId": "e510",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "2026 tripleS World Tour ⟨ANDLESS⟩ in Seoul Day 1",
+      "channel": "Brandon Ruiz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-11"
     }
   ],
   "clips": []
