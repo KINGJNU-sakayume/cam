@@ -151,16 +151,12 @@
 - pc-M5fF74-g 무대 영상인지 불분명(시상·소감·인터뷰·토크·멀티 아티스트 영상 등) · MMA 2025 2025-12-20 · 251220 멜론 뮤직 어워드 2025 Melon Music Awards MMA 2025 AESPA STAGE OF THE YEAR
 - LafTyU5PH4c 무대 영상인지 불분명(시상·소감·인터뷰·토크·멀티 아티스트 영상 등) · SBS 가요대전 2025-12-25 · 251225 가요대전 3부 | 에스파 aespa 더보이즈 THE BOYZ 엔시티드림 NCT DREAM | 가요대전 3층 직캠 | fancam
 
-## 트리플에스 (29개)
+## 트리플에스 (24개)
 
 - vusTu0nfILI 직캠/풀캠 단서가 없고 썸네일이 1~2명 클로즈업·비무대 장면이라 종류를 정할 수 없음 · WATERBOMB SEOUL 2025 2025-07-05 · [4k] tripleS - 깨어(are you alive?) 250705 waterbomb 2025 seoul
 - gqFsrmh5PPk 직캠/풀캠 단서가 없고 썸네일이 1~2명 클로즈업·비무대 장면이라 종류를 정할 수 없음 · WATERBOMB SEOUL 2025 2025-07-05 · [4k] tripleS - non scale 250705 waterbomb 2025 seoul
 - -dmT3lE6JE8 직캠/풀캠 단서가 없고 썸네일이 1~2명 클로즈업·비무대 장면이라 종류를 정할 수 없음 · WATERBOMB SEOUL 2025 2025-07-05 · [4k] tripleS - Rising 250705 waterbomb 2025 seoul
 - RdAqMNJ5--s 직캠/풀캠 단서가 없고 썸네일이 1~2명 클로즈업·비무대 장면이라 종류를 정할 수 없음 · WATERBOMB SEOUL 2025 2025-07-05 · [4k] tripleS - 추리소설 250705 waterbomb 2025 seoul
-- s_9Zcc9YMT4 제목의 곡명이 ###(비공개 곡)이라 곡을 알 수 없음 · tripleS A LIVE 25 서울 2025-07-12 · [4K] 250712 트리플에스 곽연지 ### | A LIVE 25 in Seoul - tripleS KwakYeonji
-- m01i2i9s6OQ 제목의 곡명이 ###(비공개 곡)이라 곡을 알 수 없음 · tripleS A LIVE 25 서울 2025-07-12 · [8K] 250712 트리플에스 tripleS - ### 전체직캠 Fancam @A Live 25
-- MP5fM32Miok 제목의 곡명이 ###(비공개 곡)이라 곡을 알 수 없음 · tripleS A LIVE 25 서울 2025-07-12 · [4K] 250712 트리플에스tripleS 코토네(KOTONE) - ### @A Live 25 in Seoul 직캠 Fancam
-- SKxDm29LvS4 제목의 곡명이 ###(비공개 곡)이라 곡을 알 수 없음 · tripleS A LIVE 25 서울 2025-07-12 · [4K] 250712 A Live 25 트리플에스(tripleS) 신위(Xinyu) ‘###' 직캠 fancam
 - vkwwZQwN1ws 직캠/풀캠 단서가 없고 썸네일이 1~2명 클로즈업·비무대 장면이라 종류를 정할 수 없음 · tripleS A LIVE 25 도쿄 2025-07-20 · 【tripleS】250720 tripleS A Live 25 in Tokyo 线上直播舞台全场
 - u9T7jDJOu7w 직캠/풀캠 단서가 없고 썸네일이 1~2명 클로즈업·비무대 장면이라 종류를 정할 수 없음 · tripleS A LIVE 25 도쿄 2025-07-20 · 250720 tripleS (트리플에스) | 깨어 (Are You Alive) | tripleS A Live 25 in Tokyo
 - QiHWLPLcaAA 직캠/풀캠 단서가 없고 썸네일이 1~2명 클로즈업·비무대 장면이라 종류를 정할 수 없음 · tripleS A LIVE 25 도쿄 2025-07-20 · 250720 tripleS (트리플에스) | Girls Never Die | tripleS A Live 25 in Tokyo
@@ -175,7 +171,6 @@
 - _bGS7ot9MSY 무대 영상인지 불분명(시상·소감·인터뷰·토크·멀티 아티스트 영상 등) · IFWY 2025 U&I 콘서트 2025-10-28 · [4K] 20251028 트리플에스(tripleS) 유앤아이 콘서트 마지막 무대인사 중 유연이를 만나 웃는 멤버들🤭
 - z0To12jXwFY 무대 영상인지 불분명(시상·소감·인터뷰·토크·멀티 아티스트 영상 등) · 한터뮤직페스티벌 2025 2025-11-22 · 251122 한터뮤직페스티벌 tripleS (트리플에스) 김유연(소녀시대)뒷태 소원을말해봐  댄스첼린지  4K60P 직캠 #트리플에스 #tripleS #한터뮤직페스티벌 #kpop
 - P2nHkxPtAPk 무대 영상인지 불분명(시상·소감·인터뷰·토크·멀티 아티스트 영상 등) · 한터뮤직페스티벌 2025 2025-11-22 · 251122 한터뮤직페스티벌 H.O.T선배님들에게 소개받는 트리플에스(tripleS) 4K60P 직캠 #트리플에스 #tripleS #H.O.T #한터뮤직페스티벌 #kpop
-- sd5lVc1EyWU 제목의 곡명이 ###(비공개 곡)이라 곡을 알 수 없음 · 放課後ロッケンロール-HYPER- 2025 2025-12-01 · 4K60 251201 tripleS 트리플에스 CHAEWON 채원 ### Fancam 직캠 @ 放課後ロッケンロール-HYPER- 2025
 - qaUmj6osJds 무대 영상인지 불분명(시상·소감·인터뷰·토크·멀티 아티스트 영상 등) · 放課後ロッケンロール-HYPER- 2025 2025-12-01 · 4K60 251201 tripleS 트리플에스 CHAEWON 채원 仮契約のシンデレラ Fancam 직캠 @ 放課後ロッケンロール-HYPER- 2025
 - 2NgLfnPg_l4 무대 영상인지 불분명(시상·소감·인터뷰·토크·멀티 아티스트 영상 등) · 放課後ロッケンロール-HYPER- 2025 2025-12-01 · 4K60 251201 tripleS 트리플에스 CHAEWON 채원 永遠に中学生 Fancam 직캠 @ 放課後ロッケンロール-HYPER- 2025
 - WWJFJXooWk8 직캠/풀캠 단서가 없고 썸네일이 1~2명 클로즈업·비무대 장면이라 종류를 정할 수 없음 · 가요대 축제 2025-12-19 · Intro + 깨어(Are You Alive) - tripleS(트리플에스) [2025 가요대축제 글로벌 페스티벌] | KBS 251219 방송
