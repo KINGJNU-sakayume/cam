@@ -4,6 +4,7 @@
 //   node scripts/harvest.mjs 2026-10-01 2026-10-24 [--group g1] [--deep] [--out <폴더>] [--jobs 4]
 //   node scripts/harvest.mjs --since-last [--group g1]        그룹마다 지난번 끝 날짜 3일 전부터 오늘까지
 //   node scripts/harvest.mjs --gaps [--group g1] [--no-info]  멤버 직캠이 빈 음악 방송 공연만 멤버 × 날짜로 찾기
+//   node scripts/harvest.mjs --gaps --all-events              음악 방송 말고 축제·콘서트·행사 공연까지
 //
 // 결과(<폴더>, 기본 .cache/harvest):
 //   auto.json    확실한 영상. 그대로 node scripts/archive.mjs add <폴더>/auto.json --create-songs --dry-run → 실제 실행
@@ -27,12 +28,12 @@ for (let i = 0; i < argv.length; i++) {
   const a = argv[i];
   if (a.startsWith('--')) {
     const k = a.slice(2);
-    if (['deep', 'since-last', 'help', 'no-info', 'gaps'].includes(k)) flags[k] = true;
+    if (['deep', 'since-last', 'help', 'no-info', 'gaps', 'all-events'].includes(k)) flags[k] = true;
     else flags[k] = argv[++i];
   } else pos.push(a);
 }
 if (flags.help || (!pos[0] && !flags['since-last'] && !flags.gaps)) {
-  console.log(readFileSync(fileURLToPath(import.meta.url), 'utf8').split('\n').slice(1, 15).map((l) => l.replace(/^\/\/ ?/, '')).join('\n'));
+  console.log(readFileSync(fileURLToPath(import.meta.url), 'utf8').split('\n').slice(1, 14).map((l) => l.replace(/^\/\/ ?/, '')).join('\n'));
   process.exit(0);
 }
 
@@ -67,9 +68,9 @@ async function pool(items, n, fn) {
 }
 
 // ---------- 1) 검색: 날짜(YYMMDD) × 그룹 이름 ----------
-// --gaps: 멤버 직캠이 빈 음악 방송 공연(사전녹화 제외)
+// --gaps: 멤버 직캠이 빈 음악 방송 공연(사전녹화 제외), --all-events면 모든 공연
 const MUSIC_SHOWS = new Set(['뮤직뱅크', '인기가요', '쇼! 음악중심', '엠카운트다운', '더 쇼', '쇼챔피언']);
-const gapEvents = flags.gaps ? data.events.filter((e) => groups.some((g) => g.id === e.groupId) && MUSIC_SHOWS.has(e.show) && !e.label).map((e) => {
+const gapEvents = flags.gaps ? data.events.filter((e) => groups.some((g) => g.id === e.groupId) && (flags['all-events'] || (MUSIC_SHOWS.has(e.show) && !e.label))).map((e) => {
   const g = groups.find((x) => x.id === e.groupId);
   const have = new Set(data.videos.filter((v) => v.eventId === e.id && v.type === 'fancam').flatMap((v) => v.memberIds));
   return { e, g, miss: g.members.filter((m) => m.active !== false && !have.has(m.id)) };
