@@ -17,7 +17,7 @@ import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseTitle, excludedReason } from '../js/admin/parse.js';
 import { BROADCAST_CHANNELS } from '../js/model.js';
-import { search, videoInfo, relativeToDate, kstDate } from './lib/yt.mjs';
+import { search, videoInfo, relativeToDate, kstDate, viewsCut } from './lib/yt.mjs';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(HERE, '..');
@@ -176,9 +176,11 @@ for (const c of cands) {
   const title = m.title || c.title, channel = m.channel || c.ch;
   const views = m.views ?? c.views;
   const quality = /4k|8k|60p|fancam/i.test(title) || (fancamsByChannel[c.ch] || 0) >= 5;
-  if (!official(channel) && views != null && views < (quality ? 1000 : 2000)) { rej('조회수 적음'); continue; }
   const approx = !m.uploaded ? relativeToDate(c.pub) : null;
   const uploaded = m.uploaded || null;
+  // 조회수 컷은 올라온 지 얼마나 됐는지에 따라 달라진다(viewsCut)
+  const upDate = uploaded || approx?.date;
+  if (!official(channel) && views != null && views < viewsCut(upDate ? dayGap(today, upDate) : NaN, { quality })) { rej('조회수 적음'); continue; }
   const p = parseTitle(title, c.g, { channel, uploaded });
   const why = [];
   // 무대라는 근거: 곡이 있거나 무대 낱말이 있어야 자동으로 담는다(예능·뉴스 영상이 업로드 날짜로 공연에 붙지 않게)

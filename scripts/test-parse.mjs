@@ -8,7 +8,7 @@ import { fileURLToPath } from 'node:url';
 import {
   findDate, findShow, findShowInfo, showKey, showSimilarity, parseTitle, songGuessOk, matchSong, weakShowFits, excludedReason, cityOf,
 } from '../js/admin/parse.js';
-import { parseViews, publishToKst, relativeToDate, parsePlayer, parseWatchHtml } from './lib/yt.mjs';
+import { parseViews, publishToKst, relativeToDate, parsePlayer, parseWatchHtml, viewsCut } from './lib/yt.mjs';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const FIX = join(HERE, 'fixtures', 'titles.json');
@@ -99,6 +99,11 @@ eq('업로드 시각은 한국 날짜로', publishToKst('2026-10-22T20:30:00-07:
 eq('날짜만 있으면 그대로', publishToKst('2026-10-23'), '2026-10-23');
 eq('N일 전', relativeToDate('3일 전', new Date('2026-10-24T03:00:00Z')), { date: '2026-10-21', err: 1 });
 eq('weeks ago 오차', relativeToDate('2 weeks ago', new Date('2026-10-24T03:00:00Z'))?.err, 7);
+eq('조회수 컷: 하루 된 영상은 낮게', viewsCut(1), 20);
+eq('조회수 컷: 일주일·한 달', [viewsCut(7), viewsCut(30)], [125, 379]);
+eq('조회수 컷: 90일 넘으면 거의 600', viewsCut(365), 600);
+eq('조회수 컷: 4K·직캠 표기가 없으면 2배', viewsCut(30, { quality: false }), 759);
+eq('조회수 컷: 나이를 모르면 오래된 영상으로', viewsCut(NaN), 600);
 eq('player 응답', parsePlayer({ videoDetails: { title: 'T', author: 'C', viewCount: '42', lengthSeconds: '200', shortDescription: 'd' }, microformat: { playerMicroformatRenderer: { publishDate: '2026-10-23T01:00:00-07:00' } } }),
   { title: 'T', channel: 'C', uploaded: '2026-10-23', views: 42, seconds: 200, description: 'd' });
 eq('watch 페이지', parseWatchHtml('<meta name="title" content="제목"><script>"publishDate":"2026-10-23T09:00:00+09:00","ownerChannelName":"채널"</script>')?.uploaded, '2026-10-23');
