@@ -1564,12 +1564,14 @@
    "date": "2026-09-16",
    "show": null,
    "conf": null,
-   "members": [],
+   "members": [
+    "송하영"
+   ],
    "songs": [
     "Like You Better",
     "We Go"
    ],
-   "type": null,
+   "type": "fancam",
    "tags": []
   }
  },
@@ -1803,11 +1805,14 @@
    "date": "2026-10-08",
    "show": null,
    "conf": null,
-   "members": [],
+   "members": [
+    "박지원",
+    "이나경"
+   ],
    "songs": [
     "White Memories"
    ],
-   "type": null,
+   "type": "fancam",
    "tags": []
   }
  },
@@ -3197,7 +3202,7 @@
    "conf": null,
    "members": [],
    "songs": [
-    "SPINNIN"
+    "Spinnin' On It"
    ],
    "type": null,
    "tags": [
@@ -3216,7 +3221,7 @@
     "지우"
    ],
    "songs": [
-    "SPINNIN"
+    "Spinnin' On It"
    ],
    "type": "fancam",
    "tags": []
@@ -3475,7 +3480,9 @@
    "members": [
     "박지원"
    ],
-   "songs": [],
+   "songs": [
+    "Betelgeuse"
+   ],
    "type": "fancam",
    "tags": [
     "4K"
@@ -3758,7 +3765,9 @@
    "date": "2026-05-20",
    "show": "고려대 축제",
    "conf": "known",
-   "members": [],
+   "members": [
+    "이채영"
+   ],
    "songs": [
     "We Go"
    ],
