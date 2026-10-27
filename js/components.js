@@ -1,6 +1,6 @@
 // 공용 화면 조각: 썸네일, 빈 칸, 아이콘, 요일 알약
 import { html, raw, fmtMD, fmtDow, parseDate } from './util.js';
-import { thumbSrc, thumbFallback, DEFAULT_THUMB_POS, GROUP_KEY, stripPosFrom, isYtThumb } from './model.js';
+import { thumbSrc, thumbFallback, thumbSrcset, SRCSET_SIZES, DEFAULT_THUMB_POS, GROUP_KEY, stripPosFrom, isYtThumb } from './model.js';
 import { silhouetteURL } from './placeholder.js';
 import { app, playHref, clipHref } from './state.js';
 
@@ -66,7 +66,7 @@ export function imgOf(v, ratio, small = false) {
   const kind = v.type === 'full' || ratio === '169' ? 'full' : 'fancam';
   const order = v.memberIds && v.memberIds.length === 1 ? (ix.member.get(v.memberIds[0])?.order ?? 0) : 0;
   const ph = silhouetteURL({ eventId: v.eventId, kind, order });
-  return { src: thumbSrc(v, ratio, small) || ph, fb: thumbFallback(v), ph };
+  return { src: thumbSrc(v, ratio, small) || ph, fb: thumbFallback(v), ph, srcset: thumbSrcset(v, ratio, small) };
 }
 
 export function memberBand(v) {
@@ -87,14 +87,14 @@ function stripHTML(v, stripText, extra) {
 
 // 영상 썸네일. caption: html 조각 또는 null. badges: [{text, cls}]
 export function videoThumb(v, { ratio = v.type === 'full' ? '169' : '23', songKey, t, badges = [], caption = null, label, extraBadge = '', stripText, stripExtra } = {}) {
-  const { src, fb, ph } = imgOf(v, ratio);
+  const { src, fb, ph, srcset } = imgOf(v, ratio);
   const all = [...badges];
   if (v.gone) all.push({ text: '삭제됨', cls: 'danger' });
   const pos = posFor(v, ratio);
   const aria = label || `${v.title || '영상'} 재생`;
   return html`<div class="tcell">
     <a class="thumb r${ratio}${v.gone ? ' gone' : ''}" href="${playHref(v, songKey, t)}" aria-label="${aria}">
-      <img src="${src}" data-fb="${fb}" data-ph="${ph}" alt="" loading="lazy" decoding="async" style="${`object-position:${pos}`}">
+      <img src="${src}" ${srcset ? html`srcset="${srcset}" sizes="${SRCSET_SIZES}"` : ''} data-fb="${fb}" data-ph="${ph}" alt="" loading="lazy" decoding="async" style="${`object-position:${pos}`}">
       ${ratio === '23' || ratio === 'strip' ? stripHTML(v, stripText, stripExtra) : ''}
       <span class="play-ic">${ICON.play}</span>
       ${all.length ? html`<span class="badges">${all.map((b) => html`<span class="badge ${b.cls || ''}">${b.text}</span>`)}</span>` : ''}
