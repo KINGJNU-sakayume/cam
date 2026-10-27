@@ -106,15 +106,20 @@ function camCards(fs, sel) {
     if (list.length > 1) badges.push({ text: `+${list.length - 1}` });
     if (fs.clips.some((C) => C.key === m.id)) badges.push({ text: '움짤' });
     if ((list[0].tags || []).includes('세로')) badges.push({ text: '세로' });
-    cards.push(videoThumb(list[0], { ratio: '23', songKey: sel, badges, label: `${m.name} 직캠 재생 (${srcTags(list[0])})`, stripExtra: srcShort(list[0]) }));
+    cards.push(videoThumb(list[0], { ratio: camRatio(), songKey: sel, badges, label: `${m.name} 직캠 재생 (${srcTags(list[0])})`, stripExtra: dense() ? '' : srcShort(list[0]) }));
   }
   for (const [k, list] of fs.cells) {
     if (k !== GROUP_KEY && !k.includes('+')) continue;
-    for (const v of list) cards.push(videoThumb(v, { ratio: '23', songKey: sel, label: `${cellKeyLabel(app.ix, k)} 직캠 재생`, stripExtra: srcShort(v) }));
+    for (const v of list) cards.push(videoThumb(v, { ratio: camRatio(), songKey: sel, label: `${cellKeyLabel(app.ix, k)} 직캠 재생`, stripExtra: dense() ? '' : srcShort(v) }));
   }
   return cards;
 }
-const fullThumb = (v, sel, badges = []) => videoThumb(v, { ratio: '169', songKey: sel, badges, caption: html`<div class="clamp1">${v.title || '풀캠'}</div>` });
+const fullThumb = (v, sel, badges = []) => (dense()
+  ? videoThumb(v, { ratio: 'band', songKey: sel, badges, label: `${v.title || '풀캠'} 재생` })
+  : videoThumb(v, { ratio: '169', songKey: sel, badges, caption: html`<div class="clamp1">${v.title || '풀캠'}</div>` }));
+// 조밀 모드: 직캠은 1:2.2 전신 띠, 풀캠은 3:1 띠(얼굴 기준 위치)
+const dense = () => app.prefs.density === 'dense';
+const camRatio = () => (dense() ? 'strip' : '23');
 
 function rowHTML(r) {
   const { E, keys } = r;
@@ -129,11 +134,13 @@ function rowHTML(r) {
   if (!cards.length) {
     // 직캠이 없으면 풀캠을 가로로 크게 늘어놓는다
     body = full.length
-      ? html`<div class="car-fulls" style="${`--n:${Math.min(full.length, 3)}`}">${full.slice(0, 3).map((v, i) => fullThumb(v, sel, i === 2 && full.length > 3 ? [{ text: `+${full.length - 3}` }] : []))}</div>`
+      ? (() => { const n = Math.min(full.length, dense() ? 2 : 3); return html`<div class="car-fulls" style="${`--n:${n}`}">${full.slice(0, n).map((v, i) => fullThumb(v, sel, i === n - 1 && full.length > n ? [{ text: `+${full.length - n}` }] : []))}</div>`; })()
       : html`<div class="lu-nocam car-none"><span>이 곡은 영상이 아직 없어요</span><a class="add" href="${adminHref({ g: E.group.id, e: E.id, s: sel || undefined })}">+ 담기</a></div>`;
-  } else if (app.layout === 'compact' && app.narrow) {
+  } else if (app.layout === 'compact' && app.narrow && !dense()) {
+    // (조밀 모드는 직캠 띠가 좁아 절반창에서도 풀캠 띠를 오른쪽에 둔다)
     // 절반창: 풀캠을 같은 넘기기 줄 끝에 16:9 카드로 붙여 한 줄 높이를 지킨다
-    const fulls = full.map((v) => html`<div class="car-item r169" role="listitem">${videoThumb(v, { ratio: '169', songKey: sel, badges: [{ text: '풀캠' }] })}</div>`);
+    const fr = dense() ? 'band' : '169';
+    const fulls = full.map((v) => html`<div class="${`car-item r${fr}`}" role="listitem">${videoThumb(v, { ratio: fr, songKey: sel, badges: [{ text: '풀캠' }] })}</div>`);
     body = html`<div class="car wide" data-car>
       <button type="button" class="car-btn prev" data-act="car" data-d="-1" aria-label="이전 영상" disabled>‹</button>
       <div class="car-track" role="list" aria-label="멤버 직캠과 풀캠">${cards.map((x) => html`<div class="car-item" role="listitem">${x}</div>`)}${fulls}</div>
@@ -141,8 +148,10 @@ function rowHTML(r) {
     </div>`;
   } else {
     // 풀캠은 카드 높이에 맞춰 두 개까지 위아래로
+    // 풀캠: 편안은 16:9 두 장까지 위아래로, 조밀은 3:1 띠 한 장(카드 높이와 같음)
+    const nf = dense() ? 1 : 2;
     const side = full.length
-      ? html`<div class="car-full">${full.slice(0, 2).map((v, i) => fullThumb(v, sel, i === 1 && full.length > 2 ? [{ text: `+${full.length - 2}` }] : []))}</div>`
+      ? html`<div class="car-full">${full.slice(0, nf).map((v, i) => fullThumb(v, sel, i === nf - 1 && full.length > nf ? [{ text: `+${full.length - nf}` }] : []))}</div>`
       : '';
     body = html`<div class="${`car${side ? '' : ' wide'}`}" data-car>
       <button type="button" class="car-btn prev" data-act="car" data-d="-1" aria-label="이전 직캠" disabled>‹</button>
@@ -225,12 +234,12 @@ function mobileCard(r) {
     const v = list[0];
     const badges = list.length > 1 ? [{ text: `+${list.length - 1}` }] : [];
     if (fs.clips.some((C) => C.key === m.id)) badges.push({ text: '움짤' });
-    return html`<div class="mthumb">${videoThumb(v, { ratio: '23', songKey: sel, badges, label: `${m.name} 직캠 재생`, stripExtra: srcShort(v) })}</div>`;
+    return html`<div class="mthumb">${videoThumb(v, { ratio: camRatio(), songKey: sel, badges, label: `${m.name} 직캠 재생`, stripExtra: dense() ? '' : srcShort(v) })}</div>`;
   });
   return html`<article class="mcard" id="${`row-${E.id}`}" data-row="${E.id}">
     <div class="mcard-head">${dateBlock(E, keys, sel, ctx.forceSong)}</div>
     ${ctx.cols.length && hasCam(fs) ? html`<div class="mstrip" role="list" aria-label="멤버 직캠">${cams}</div>` : ''}
-    ${fs.full[0] ? html`<div class="mfull">${videoThumb(fs.full[0], { ratio: '169', songKey: sel, badges: fs.full.length > 1 ? [{ text: `+${fs.full.length - 1}` }] : [] })}</div>` : ''}
+    ${fs.full[0] ? html`<div class="mfull">${videoThumb(fs.full[0], { ratio: dense() ? 'band' : '169', songKey: sel, badges: fs.full.length > 1 ? [{ text: `+${fs.full.length - 1}` }] : [] })}</div>` : ''}
     ${!hasCam(fs) && !fs.full.length ? html`<p class="mnocam">영상이 아직 없어요</p>` : ''}
     ${expandBtn(E, c, open)}
     ${open ? html`<div id="${`panel-${E.id}`}">${panelHTML(E, sel, fs)}</div>` : ''}
@@ -270,8 +279,9 @@ export function lineupHTML({ group, events, f, forceSong = null, open = null }) 
   const body = items.slice(0, ctx.rendered).map(itemHTML);
   const more = ctx.rendered < items.length ? html`<div class="lu-more" data-more aria-hidden="true" style="height:1px"></div>` : '';
 
-  if (app.mobile) return html`<div class="mcards" id="lu-body">${body}</div>${more}`;
-  return html`<div class="lu"><div id="lu-body">${body}${more}</div></div>`;
+  const d = dense() ? ' dense' : '';
+  if (app.mobile) return html`<div class="${`mcards${d}`}" id="lu-body">${body}</div>${more}`;
+  return html`<div class="${`lu${d}`}"><div id="lu-body">${body}${more}</div></div>`;
 }
 
 // 렌더 후 연결: 남은 행 지연 렌더, < > 버튼 상태

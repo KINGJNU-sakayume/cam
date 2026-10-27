@@ -250,6 +250,15 @@ function crumbsHTML(list) {
 
 const viewItems = (g) => [['lineup', '라인업', href({ g: g.id })], ['event', '공연', href({ g: g.id, v: 'event' })], ['song', '곡', href({ g: g.id, v: 'song' })], ['member', '멤버', href({ g: g.id, v: 'member' })], ['clip', '움짤', href({ g: g.id, v: 'clip' })]];
 
+// 라인업 밀도: 편안(2:3 카드) / 조밀(1:2.2 전신 띠 + 풀캠 3:1 띠). 라인업이 있는 보기(라인업·곡 페이지)에서만
+const hasLineup = (view, s) => view === 'lineup' || (view === 'song' && !!s.s);
+function densitySeg() {
+  return html`<div class="seg" role="group" aria-label="라인업 밀도">
+    <button type="button" data-act="density" data-v="cozy" aria-pressed="${String(app.prefs.density !== 'dense')}">편안</button>
+    <button type="button" data-act="density" data-v="dense" aria-pressed="${String(app.prefs.density === 'dense')}">조밀</button>
+  </div>`;
+}
+
 function sortSeg() {
   return html`<div class="seg" role="group" aria-label="정렬">
     <button type="button" data-act="sort" data-v="desc" aria-pressed="${String(app.prefs.sort === 'desc')}">최신순</button>
@@ -312,7 +321,8 @@ function groupRailHTML(g, f, view) {
   const n = filterCount(f);
   return html`${railHead('보기·필터')}
     ${wide ? html`<nav class="rail-sec rail-views" aria-label="보기">${viewItems(g).map(([k, t, h]) => html`<a class="rail-item" href="${h}" ${k === view ? html`aria-current="page"` : ''}><span class="t">${t}</span></a>`)}</nav>
-    <div class="rail-sec"><h2>정렬</h2>${sortSeg()}</div>` : ''}
+    <div class="rail-sec"><h2>정렬</h2>${sortSeg()}</div>
+    ${hasLineup(view, app.state) ? html`<div class="rail-sec"><h2>밀도</h2>${densitySeg()}</div>` : ''}` : ''}
     <div class="rail-sec rail-filters" role="region" aria-label="필터"><h2>필터${n ? html` <span class="n num">${n}</span>` : ''}</h2>${filterGroupsHTML(g, f)}</div>`;
 }
 function eventRailHTML(g, E, m) {
@@ -333,7 +343,7 @@ function toolbarHTML(g, f, view) {
   return html`<div class="toolbar">
     <nav class="seg" aria-label="보기">${viewItems(g).map(([k, t, h]) => html`<a href="${h}" ${k === view ? html`aria-current="page"` : ''}>${t}</a>`)}</nav>
     ${railBtn('필터', n ? html`<span class="n num">${n}</span>` : '')}
-    <span class="spacer"></span>${sortSeg()}
+    <span class="spacer"></span>${hasLineup(view, app.state) ? densitySeg() : ''}${sortSeg()}
   </div>
   ${n ? html`<div class="onrow" role="group" aria-label="걸린 필터 (누르면 해제)">${on.map(([k, v], i) => html`<button type="button" class="chip" data-act="filter" data-k="${k}" data-v="${v}" aria-pressed="true">${desc[i] || v}<span aria-hidden="true">×</span></button>`)}<button type="button" class="linkbtn" data-act="clearFilters">모두 해제</button></div>` : ''}`;
 }
@@ -571,6 +581,9 @@ function onAction(e) {
     }
     case 'sort':
       app.prefs.sort = el.dataset.v; savePrefs(); rerenderKeepFocus(el);
+      break;
+    case 'density':
+      app.prefs.density = el.dataset.v === 'dense' ? 'dense' : 'cozy'; savePrefs(); rerenderKeepFocus(el);
       break;
     case 'rail':
       setRail(!app.railOpen);

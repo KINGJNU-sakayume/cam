@@ -9,7 +9,7 @@ export const app = {
   filters: new Map(), // gid → { songs, members, types, tags }
   rowSong: new Map(), // eventId → 곡 키 (라인업 행에서 고른 곡)
   songsOpen: false, // 필터의 "곡 N개 더" 펼침
-  prefs: { sort: 'desc', showEmpty: false, songSort: 'order', bySong: false, autoNext: true },
+  prefs: { sort: 'desc', showEmpty: false, songSort: 'order', bySong: false, autoNext: true, density: 'cozy' },
   mobile: false,
   layout: 'compact', // rail(2600px 이상, 왼쪽 고정 패널) | compact(도구 막대 + 서랍) | mobile
   narrow: false, // 1500px 미만: 라인업 풀캠을 넘기기 줄 끝에

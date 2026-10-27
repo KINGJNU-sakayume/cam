@@ -54,6 +54,8 @@ ffmpeg -i in.jpg -vf "crop=iw:iw*9/16:0:(ih-iw*9/16)/2,scale=640:360" -q:v 3 thu
 
 이미지 없이 위치만 바꾸면 되는 경우(유튜브 기본 썸네일에서 얼굴이 잘림)는 `thumbPos`만 고쳐요. 여러 개면 `python3 scripts/face-pos.py --ids v1,v2 --sheet 10`(얼굴 인식, 확인용 이미지 `.cache/face-pos-sheet.jpg`) → `archive.mjs thumbpos .cache/face-pos.json --force`. 직캠 썸네일은 대부분 이미 얼굴 위치로 잡혀 있어요(여러 명이 비슷한 크기로 나오면 그대로 둠). 끌어서 맞추고 싶어 하면 관리 화면 썸네일 탭도 있다고 알려요.
 
+풀캠 thumbPos는 조밀 모드 3:1 띠의 세로 위치(`50% y%`, 작을수록 위쪽)예요. 새로 담은 풀캠은 `python3 scripts/face-pos.py --full`(얼굴 기준, 확인용 `--sheet 20` → `.cache/face-pos-full-sheet.jpg`) → `archive.mjs thumbpos .cache/face-pos-full.json`. 직캠 thumbPos는 2:3 칸 기준 값 그대로 두면 1:2.2 띠에도 맞춰 다시 계산돼요.
+
 ## 지우기 (사용자 확인 후)
 
 ```bash
