@@ -1,6 +1,6 @@
 // 수정·삭제: 영상·공연·움짤을 검색해 고친다. 칸 대표(pin), 공연 표지(cover), setlist 순서, 의상 메모.
 import { html, norm, fmtTime, parseTime, isRealDate } from '../util.js';
-import { GROUP_KEY, cellKey } from '../model.js';
+import { GROUP_KEY, cellKey, isSampleYt } from '../model.js';
 import {
   store, commit, groupById, eventById, videoById, clipById, memberById, songById, songsOf, eventsOf, eventLabel, removeFile, fileURL,
 } from './store.js';
@@ -17,7 +17,8 @@ function items() {
   const d = store.data;
   for (const v of d.videos) {
     const e = eventById(v.eventId);
-    out.push({ kind: 'video', id: v.id, t1: `${e ? eventLabel(e) : '?'} · ${songsText(v)} · ${who(v)}`, t2: `${v.title || v.ytId} · ${v.channel || ''}`, extra: v.ytId, date: e?.date || '' });
+    const img = v.thumb ? fileURL(v.thumb) : v.ytId && !isSampleYt(v.ytId) ? `https://i.ytimg.com/vi/${v.ytId}/mqdefault.jpg` : '';
+    out.push({ kind: 'video', id: v.id, t1: `${e ? eventLabel(e) : '?'} · ${songsText(v)} · ${who(v)}`, t2: `${v.title || v.ytId} · ${v.channel || ''}`, extra: v.ytId, date: e?.date || '', img });
   }
   for (const e of d.events) {
     const n = d.videos.filter((v) => v.eventId === e.id).length;
@@ -42,8 +43,8 @@ function results() {
 function listHTML() {
   const list = results();
   return html`<div id="ed-results"><p class="hint" style="margin-bottom:8px">${list.length}개${list.length > 60 ? ' 중 최근 60개' : ''}</p>
-    <div class="list">${list.slice(0, 60).map((x) => html`<button type="button" class="li" style="text-align:left;cursor:pointer" data-pick="${`${x.kind}:${x.id}`}" aria-pressed="${String(st.sel === `${x.kind}:${x.id}`)}">
-      <span class="grow"><span class="t1" style="display:block">${x.t1}</span><span class="t2" style="display:block">${x.t2}</span></span><span class="hint">${x.id}</span></button>`)}</div></div>`;
+    <div class="list">${list.slice(0, 60).map((x) => html`<button type="button" class="li ed-li" data-pick="${`${x.kind}:${x.id}`}" aria-pressed="${String(st.sel === `${x.kind}:${x.id}`)}">
+      ${x.kind === 'video' ? html`<span class="mini r169">${x.img ? html`<img src="${x.img}" alt="" loading="lazy" referrerpolicy="no-referrer">` : ''}</span>` : ''}<span class="grow"><span class="t1" style="display:block">${x.t1}</span><span class="t2" style="display:block">${x.t2}</span></span><span class="hint">${x.id}</span></button>`)}</div></div>`;
 }
 
 // ---------- 영상 ----------
@@ -74,7 +75,7 @@ function videoForm(v) {
       <label class="check"><input type="checkbox" name="pin" ${v.pin ? html`checked` : ''}>이 칸의 대표</label>
       <label class="check"><input type="checkbox" name="gone" ${v.gone ? html`checked` : ''}>삭제·비공개됨</label>
       <button type="button" class="btn btn-sm" data-act="cover" ${isCover ? html`disabled` : ''}>${isCover ? '이 공연의 표지예요' : '이 공연 표지로'}</button>
-      <a class="btn btn-sm" href="${`#tab=thumbs&v=${v.id}`}">썸네일 고르기</a>
+      <a class="btn btn-sm" href="${`#tab=thumbs&v=${v.id}`}">썸네일 바꾸기</a>
     </div>
     <div class="row-actions"><button type="submit" class="btn btn-fill">변경 저장</button><button type="button" class="btn btn-danger" data-act="delVideo">삭제</button></div>
     ${st.askEvent ? askEventHTML() : ''}
@@ -167,7 +168,7 @@ function eventForm(e) {
       <button type="button" class="btn btn-sm" data-act="unset" data-v="${id}">빼기</button></li>`)}</ol>
     <div class="kv" style="margin-top:8px"><select class="input" style="max-width:260px" data-act-change="addSet" aria-label="setlist에 곡 추가"><option value="">+ 곡 추가</option>${songs.filter((s) => !(e.setlist || []).includes(s.id)).map((s) => html`<option value="${s.id}">${s.title}</option>`)}</select></div>
     <div class="row-actions"><button type="submit" class="btn btn-fill">변경 저장</button>
-      <a class="btn" href="${`#tab=bulk&g=${e.groupId}&e=${e.id}`}">이 공연에 영상 담기</a>
+
       <button type="button" class="btn btn-danger" data-act="delEvent">${vids.length || clips.length ? `공연 삭제 (영상 ${vids.length}·움짤 ${clips.length} 함께)` : '공연 삭제'}</button></div>
   </form>`;
 }

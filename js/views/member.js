@@ -92,7 +92,7 @@ export function memberPageHTML(g, m, f) {
   </details>` : ''}`;
   if (!items.length) {
     return html`${head}<div class="state"><h2>보여 줄 직캠이 없어요</h2><p>${f.songs.size || f.tags.size || f.types.size ? '걸린 필터를 풀면 더 보여요.' : '아직 이 멤버 직캠을 담지 않았어요.'}</p>
-      <div class="row">${f.songs.size || f.tags.size || f.types.size ? html`<button type="button" class="btn" data-act="clearFilters">필터 해제</button>` : ''}<a class="btn btn-fill" href="${`admin.html#g=${g.id}&m=${m.id}`}">+ 담기</a></div></div>`;
+      <div class="row">${f.songs.size || f.tags.size || f.types.size ? html`<button type="button" class="btn" data-act="clearFilters">필터 해제</button>` : ''}</div></div>`;
   }
   if (app.prefs.bySong) {
     const bySong = new Map();

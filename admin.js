@@ -1,26 +1,25 @@
-// 무대 서랍 관리 화면: 담기·수정·그룹 관리·썸네일·움짤·저장·가져오기
+// 무대 서랍 관리 화면: 썸네일·수정·날짜 없는 영상·그룹 관리·움짤·저장(가져오기 포함)
+// 영상 담기는 Claude에게 말로 부탁해요(CLAUDE.md). 공연 단위 담기 탭은 없앴어요.
 import { html } from './js/util.js';
 import { themeButton, applyAccent } from './js/theme.js';
 import { store, initStore, onChange, discardDraft, groupById } from './js/admin/store.js';
-import { renderBulk } from './js/admin/bulk.js';
 import { renderEdit } from './js/admin/edit.js';
 import { renderRoster } from './js/admin/roster.js';
-import { renderThumbs } from './js/admin/thumbs.js';
+import { renderThumbs, refreshThumbSaveHint } from './js/admin/thumbs.js';
 import { renderClips } from './js/admin/clips.js';
 import { renderSave } from './js/admin/save.js';
-import { renderImport } from './js/admin/import.js';
 import { renderPick } from './js/admin/pick.js';
 
 const TABS = [
-  ['bulk', '공연 단위 담기', renderBulk],
-  ['pick', '영상 고르기', renderPick],
-  ['edit', '수정·삭제', renderEdit],
-  ['roster', '그룹·멤버·곡', renderRoster],
   ['thumbs', '썸네일', renderThumbs],
+  ['edit', '영상·공연 수정', renderEdit],
+  ['pick', '날짜 없는 영상', renderPick],
+  ['roster', '그룹·멤버·곡', renderRoster],
   ['clips', '움짤 담기', renderClips],
   ['save', '저장', renderSave],
-  ['import', '가져오기', renderImport],
 ];
+// 예전 주소(#tab=bulk·#tab=import, 보기 화면의 "+ 담기")는 가까운 탭으로
+const ALIAS = { bulk: 'thumbs', import: 'save' };
 const main = document.getElementById('main');
 const tabsEl = document.getElementById('adm-tabs');
 
@@ -37,7 +36,8 @@ let curTab = null;
 let curKey = null;
 function render(force = false) {
   const p = parseAdminHash();
-  const tab = TABS.some(([k]) => k === p.tab) ? p.tab : 'bulk';
+  const want = ALIAS[p.tab] || p.tab;
+  const tab = TABS.some(([k]) => k === want) ? want : 'thumbs';
   const key = location.hash;
   if (!force && key === curKey) return;
   curKey = key;
@@ -78,6 +78,7 @@ async function start() {
   themeButton(document.getElementById('theme-btn'), () => applyAccent(groupById(parseAdminHash().g)?.hue ?? store.data.groups[0]?.hue));
   await initStore();
   onChange(updateCount);
+  onChange(refreshThumbSaveHint);
   updateCount();
   window.addEventListener('hashchange', () => render());
   window.addEventListener('beforeunload', (e) => {

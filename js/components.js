@@ -1,8 +1,8 @@
 // 공용 화면 조각: 썸네일, 빈 칸, 아이콘, 요일 알약
 import { html, raw, fmtMD, fmtDow, parseDate } from './util.js';
-import { thumbSrc, thumbFallback, DEFAULT_THUMB_POS, GROUP_KEY } from './model.js';
+import { thumbSrc, thumbFallback, DEFAULT_THUMB_POS, GROUP_KEY, stripPosFrom, isYtThumb } from './model.js';
 import { silhouetteURL } from './placeholder.js';
-import { app, playHref, clipHref, adminHref } from './state.js';
+import { app, playHref, clipHref } from './state.js';
 
 const svg = (d, extra = '') => raw(`<svg class="ic${extra}" viewBox="0 0 24 24" aria-hidden="true">${d}</svg>`);
 export const ICON = {
@@ -19,6 +19,7 @@ export const ICON = {
   grid: svg('<rect x="4" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="4" width="6.5" height="6.5" rx="1.5"/><rect x="4" y="13.5" width="6.5" height="6.5" rx="1.5"/><rect x="13.5" y="13.5" width="6.5" height="6.5" rx="1.5"/>'),
   filter: svg('<path d="M4 6h16M7 12h10M10 18h4"/>'),
   chev: svg('<path d="M6 9l6 6 6-6"/>', ' ic-sm chev'),
+  edit: svg('<path d="M4 20h4L19 9l-4-4L4 16z"/><path d="M13.5 6.5l4 4"/>'),
 };
 
 export const dowPill = (date) => {
@@ -49,20 +50,14 @@ export function posOf(v, fallback = DEFAULT_THUMB_POS) {
 }
 
 // 조밀 모드 칸의 object-position.
-// strip(직캠 1:2.2): thumbPos는 16:9 이미지를 2:3 칸에 채울 때의 x%라서, 얼굴 가운데(cx)로 되돌린 뒤 좁은 띠 기준으로 다시 계산한다.
-// band(풀캠 3:1): 풀캠의 thumbPos는 3:1 띠의 세로 위치("50% y%", scripts/face-pos.py --full). 없으면 얼굴이 많은 위쪽으로 조금 올린다.
-const W23 = (2 / 3) / (16 / 9); // 2:3 칸이 16:9 이미지에서 차지하는 폭
-const WSTRIP = (1 / 2.2) / (16 / 9);
+// strip(직캠 1:2.2): thumbPos는 2:3 칸 기준 x%라서 얼굴 가운데로 되돌린 뒤 좁은 띠 기준으로 다시 계산한다(model.js stripPosFrom).
+// band(풀캠 3:1): 풀캠의 thumbPos는 3:1 띠의 세로 위치("50% y%", scripts/face-pos.py --full·관리 화면 썸네일). 없으면 위쪽 40%.
 export const BAND_DEFAULT_POS = '50% 40%';
 export function posFor(v, shape) {
   if (shape === 'band') return v.type === 'full' ? posOf(v, BAND_DEFAULT_POS) : '50% 40%';
   if (shape !== 'strip') return shape === '23' ? posOf(v) : posOf(v, '50% 50%');
-  if (v.thumb) return posOf(v, '50% 50%'); // 직접 넣은 그림은 이미 칸 비율로 잘려 있다
-  const px = parseFloat(posOf(v).split(/\s+/)[0]);
-  if (!Number.isFinite(px)) return '50% 50%';
-  const cx = (px / 100) * (1 - W23) + W23 / 2;
-  const p = Math.min(1, Math.max(0, (cx - WSTRIP / 2) / (1 - WSTRIP)));
-  return `${Math.round(p * 100)}% 50%`;
+  if (v.thumb && !isYtThumb(v.thumb)) return '50% 50%'; // 직접 넣은 그림은 이미 2:3으로 잘려 있다
+  return stripPosFrom(posOf(v));
 }
 
 // 썸네일 이미지 주소, 실패 시 다음 주소(fb), 마지막으로 대신할 실루엣(ph)
@@ -125,10 +120,9 @@ export function clipThumb(C, { caption = null, ratio = '23' } = {}) {
 
 export function initialOf(name) { return (name || '?').trim().charAt(0); }
 
-// 빈 칸 = 빈 포켓: 안쪽 그림자에 멤버 이름만. "+ 담기"는 마우스를 올리거나 포커스가 갈 때
+// 빈 칸 = 빈 포켓: 안쪽 그림자에 멤버 이름만(영상 담기는 Claude에게 부탁해요)
 export function emptyCell({ member, g, e, s, ratio = '23', label = '아직 없음' }) {
   return html`<div class="empty-cell${ratio === '169' ? ' r169' : ''}">
-    <a class="add" href="${adminHref({ g, e, m: member ? member.id : undefined, s: s || undefined })}" aria-label="${`${member ? `${member.name} ` : ''}${label}, 담기`}">+ 담기</a>
     <span class="pk-label">${label}</span>
     ${member ? html`<span class="pk-name"><span class="dot" style="${`background:${member._color}`}"></span>${member.name}</span>` : ''}
   </div>`;

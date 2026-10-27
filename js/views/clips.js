@@ -23,7 +23,7 @@ export function clipGridHTML(g, f) {
   const head = html`<div class="pagehead"><h1>움짤</h1><span class="sub">${list.length}개${app.reduced ? ' · 움직임 줄이기 설정: 눌러서 재생' : ''}</span></div>`;
   if (!list.length) {
     if (all.length) return html`${head}${noResultHTML(filterCount(f) > 0)}`;
-    return html`${head}<div class="state"><h2>아직 움짤이 없어요</h2><p>관리 화면의 움짤 담기에서 파일을 끌어다 놓으면 여기에 모여요.</p><div class="row"><a class="btn btn-fill" href="${`admin.html#g=${g.id}&tab=clips`}">+ 담기</a></div></div>`;
+    return html`${head}<div class="state"><h2>아직 움짤이 없어요</h2><p>움짤 파일을 Claude에게 주거나 관리 화면의 움짤 담기에 끌어다 놓으면 여기에 모여요.</p><div class="row"><a class="btn" href="${`admin.html#g=${g.id}&tab=clips`}">움짤 담기</a></div></div>`;
   }
   // 월마다 낱장 하나
   const out = [];

@@ -4,8 +4,7 @@ import { DATA_VERSION } from '../model.js';
 
 export function emptyDataHTML() {
   return html`<div class="state" role="status"><h2>아직 담아 둔 영상이 없어요</h2>
-    <p>관리 화면에서 그룹을 만들고 첫 공연의 유튜브 링크를 붙여 넣으면 여기에 라인업이 생겨요.</p>
-    <div class="row"><a class="btn btn-fill" href="admin.html">+ 담기</a></div></div>`;
+    <p>Claude에게 유튜브 링크를 주며 담아 달라고 하면 여기에 라인업이 생겨요.</p></div>`;
 }
 
 export function noResultHTML(hasFilters) {
@@ -15,7 +14,7 @@ export function noResultHTML(hasFilters) {
       <div class="row"><button type="button" class="btn btn-fill" data-act="clearFilters">필터 해제</button></div></div>`;
   }
   return html`<div class="state" role="status"><h2>이 그룹에는 아직 영상이 없어요</h2>
-    <p>관리 화면에서 공연과 영상을 담아 보세요.</p><div class="row"><a class="btn btn-fill" href="admin.html">+ 담기</a></div></div>`;
+    <p>Claude에게 유튜브 링크를 주며 담아 달라고 하면 여기에 생겨요.</p></div>`;
 }
 
 export function loadErrorHTML(err) {

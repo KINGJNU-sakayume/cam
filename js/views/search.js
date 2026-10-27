@@ -1,7 +1,7 @@
 // 전역 검색: 모든 그룹, 공백으로 나눈 단어가 모두 맞아야 결과. 공연 단위 카드로 묶는다.
 import { html, norm, fmtMD } from '../util.js';
 import { NOSONG } from '../model.js';
-import { app, adminHref, playHref } from '../state.js';
+import { app, playHref } from '../state.js';
 import { href } from '../router.js';
 import { videoThumb, clipThumb, dowPill, srcTags, whoText } from '../components.js';
 
@@ -54,7 +54,7 @@ export function searchHTML(q) {
   if (!r.groups.length) {
     return html`<div class="state" role="status"><h2>담아 둔 영상에는 없어요</h2>
       <p>“${q.trim()}”와 맞는 영상·움짤이 없어요. 띄어 쓴 단어가 모두 들어 있어야 나와요.</p>
-      <div class="row"><a class="btn btn-fill" href="${adminHref({ g: app.state.g })}">+ 담기</a></div></div>`;
+      </div>`;
   }
   const limit = app.searchLimit || PAGE;
   const shown = r.groups.slice(0, limit);
