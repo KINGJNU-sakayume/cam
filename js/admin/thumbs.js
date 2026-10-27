@@ -14,13 +14,16 @@ const PAGE = 48;
 const st = {
   target: null, cand: null, pos: null, upload: null, prefillKey: null,
   g: '', kind: 'fancam', q: '', onlyChanged: false, limit: PAGE,
+  resolved: {}, dims: {}, // 후보별로 실제로 불러온 주소와 크기(대상 바꿀 때 비움)
 };
 let host = null;
 
-const SIZE = { fancam: [400, 600], full: [640, 360] };
+// 그림 파일로 구울 때 크기: 원본이 작으면 그 크기까지만(늘려 봐야 흐릿함만 커진다). 레티나에서 카드보다 작지 않게 최대 2배
+const SIZE = { fancam: { min: 400, max: 800, r: 2 / 3 }, full: { min: 640, max: 1280, r: 16 / 9 } };
 const BAND_DEF = '50% 40%';
 const ytImg = (ytId, k) => `https://i.ytimg.com/vi/${ytId}/${k}.jpg`;
-const isWide = (k) => /^(hqdefault|hq[123])$/.test(k); // 4:3 그림(16:9 영상이면 위아래 검은 띠) → 가운데 16:9만 쓴다
+// 유튜브는 없는 그림을 404 대신 120px 회색 그림으로 줄 때가 있다 → 다음 후보로
+const TINY = 120;
 
 // ---------- 대상 ----------
 const whoOf = (v) => (v.type === 'full' ? '풀캠' : v.memberIds.length ? v.memberIds.map((m) => memberById(m)?.name).join('·') : '단체');
@@ -60,10 +63,10 @@ function candidates(t) {
     const v = o;
     if (v.thumb) out.push({ key: 'current', src: fileURL(v.thumb), label: '지금 지정한 그림', yt: isYtThumb(v.thumb) });
     if (v.ytId && !isSampleYt(v.ytId)) {
-      out.push({ key: 'default', src: ytImg(v.ytId, 'hq720'), fb: ytImg(v.ytId, 'hqdefault'), label: '유튜브 기본', yt: true });
-      for (const [k, l] of [['maxresdefault', '큰 기본'], ['hq1', '자동 장면 1'], ['hq2', '자동 장면 2'], ['hq3', '자동 장면 3']]) {
-        out.push({ key: k, src: ytImg(v.ytId, k), label: l, yt: true, wide: isWide(k) });
-      }
+      out.push({ key: 'default', srcs: [ytImg(v.ytId, 'hq720'), ytImg(v.ytId, 'hqdefault')], label: '유튜브 기본', yt: true });
+      out.push({ key: 'maxresdefault', srcs: [ytImg(v.ytId, 'maxresdefault'), ytImg(v.ytId, 'sddefault')], label: '큰 기본', yt: true, bakeOnly: true });
+      // 자동 장면(영상 1/4·1/2·3/4 지점): 큰 것부터. maxres는 1280×720, sd는 640×480, hq는 480×360(둘 다 4:3이라 검은 띠)
+      for (const n of [1, 2, 3]) out.push({ key: `hq${n}`, srcs: [`maxres${n}`, `sd${n}`, `hq${n}`].map((k) => ytImg(v.ytId, k)), label: `자동 장면 ${n}`, yt: true, bakeOnly: true });
     }
     for (const c of store.data.clips.filter((x) => x.videoId === v.id)) out.push({ key: `clip:${c.id}`, src: fileURL(c.poster || c.file), label: `움짤 ${c.note || c.id}` });
   } else {
@@ -71,9 +74,14 @@ function candidates(t) {
     if (m.thumb) out.push({ key: 'current', src: fileURL(m.thumb), label: '지금 지정한 그림', yt: isYtThumb(m.thumb) });
     const cams = store.data.videos.filter((v) => v.memberIds.length === 1 && v.memberIds[0] === m.id && !isSampleYt(v.ytId))
       .sort((a, b) => (eventById(b.eventId)?.date || '').localeCompare(eventById(a.eventId)?.date || '')).slice(0, 6);
-    for (const v of cams) out.push({ key: `yt:${v.id}`, src: ytImg(v.ytId, 'hq720'), fb: ytImg(v.ytId, 'hqdefault'), label: `${eventById(v.eventId)?.date.slice(5).replace('-', '.')} 직캠`, yt: true, pos: v.thumbPos });
+    for (const v of cams) out.push({ key: `yt:${v.id}`, srcs: [ytImg(v.ytId, 'hq720'), ytImg(v.ytId, 'hqdefault')], label: `${eventById(v.eventId)?.date.slice(5).replace('-', '.')} 직캠`, yt: true, pos: v.thumbPos });
   }
   if (st.upload) out.push({ key: 'upload', src: st.upload.url, label: `업로드 · ${st.upload.name}` });
+  for (const c of out) {
+    c.srcs = c.srcs || [c.src];
+    c.src = st.resolved[c.key] || c.srcs[0];
+    c.dims = st.dims[c.key] || '';
+  }
   return out;
 }
 
@@ -139,16 +147,18 @@ function filtersHTML() {
 }
 
 // ---------- 편집기 ----------
-function previewsHTML(t, src) {
+function previewsHTML(t, c) {
+  const src = c.src;
+  const ch = c.srcs.join('|');
   const p = posStr(st.pos);
   if (t.full) {
     return html`<div class="tb-prevs full">
-      <figure><div class="tb-prev r169"><img id="tb-p0" src="${src}" alt="" referrerpolicy="no-referrer"></div><figcaption>편안 16:9</figcaption></figure>
-      <figure><div class="tb-prev rband"><img id="tb-p1" src="${src}" alt="" referrerpolicy="no-referrer" style="${`object-position:${p}`}"></div><figcaption>조밀 3:1</figcaption></figure></div>`;
+      <figure><div class="tb-prev r169"><img id="tb-p0" src="${src}" data-chain="${ch}" data-key="${c.key}" alt="" referrerpolicy="no-referrer"></div><figcaption>편안 16:9</figcaption></figure>
+      <figure><div class="tb-prev rband"><img id="tb-p1" src="${src}" data-chain="${ch}" data-key="${c.key}" alt="" referrerpolicy="no-referrer" style="${`object-position:${p}`}"></div><figcaption>조밀 3:1</figcaption></figure></div>`;
   }
   return html`<div class="tb-prevs fancam">
-    <figure><div class="tb-prev r23"><img id="tb-p0" src="${src}" alt="" referrerpolicy="no-referrer" style="${`object-position:${p}`}"></div><figcaption>편안 2:3</figcaption></figure>
-    ${t.kind === 'video' ? html`<figure><div class="tb-prev rstrip"><img id="tb-p1" src="${src}" alt="" referrerpolicy="no-referrer" style="${`object-position:${stripPosFrom(p)}`}"></div><figcaption>조밀 1:2.2</figcaption></figure>` : ''}</div>`;
+    <figure><div class="tb-prev r23"><img id="tb-p0" src="${src}" data-chain="${ch}" data-key="${c.key}" alt="" referrerpolicy="no-referrer" style="${`object-position:${p}`}"></div><figcaption>편안 2:3</figcaption></figure>
+    ${t.kind === 'video' ? html`<figure><div class="tb-prev rstrip"><img id="tb-p1" src="${src}" data-chain="${ch}" data-key="${c.key}" alt="" referrerpolicy="no-referrer" style="${`object-position:${stripPosFrom(p)}`}"></div><figcaption>조밀 1:2.2</figcaption></figure>` : ''}</div>`;
 }
 
 function editorHTML(t) {
@@ -166,14 +176,14 @@ function editorHTML(t) {
         <button type="button" class="btn btn-sm" data-act="next" ${i >= 0 && i < order.length - 1 ? '' : html`disabled`} aria-label="다음 영상">다음 ›</button>
       </div>
     </div>
-    <div class="tb-cands" role="group" aria-label="그림 후보">${cands.map((c) => html`<button type="button" class="tb-cand" data-cand="${c.key}" aria-pressed="${String(st.cand === c.key)}"><span class="ci"><img src="${c.src}" alt="" loading="lazy" referrerpolicy="no-referrer"></span><span class="cl">${c.label}</span></button>`)}
+    <div class="tb-cands" role="group" aria-label="그림 후보">${cands.map((c) => html`<button type="button" class="tb-cand" data-cand="${c.key}" aria-pressed="${String(st.cand === c.key)}"><span class="ci"><img src="${c.src}" data-chain="${c.srcs.join('|')}" data-key="${c.key}" alt="" referrerpolicy="no-referrer"></span><span class="cl">${c.label}<span class="dims num">${c.dims}</span></span></button>`)}
       <label class="tb-cand up"><input type="file" accept="image/*" id="tb-upload" class="sr"><span class="ci">＋</span><span class="cl">직접 올리기</span></label>
     </div>
     ${cur ? html`<div class="tb-stage-wrap">
-        <div class="tb-stage" id="tb-stage" style="${cur.wide || cur.yt ? 'aspect-ratio:16/9' : ''}"><img id="tb-img" src="${cur.src}" ${cur.fb ? html`data-fb="${cur.fb}"` : ''} alt="자르기 원본" referrerpolicy="no-referrer"><div class="crop-frame" id="tb-frame" tabindex="0" role="slider" aria-label="${t.full ? '띠 세로 위치 (위·아래 화살표)' : '틀 가로 위치 (왼쪽·오른쪽 화살표)'}" aria-valuemin="0" aria-valuemax="100"></div></div>
+        <div class="tb-stage" id="tb-stage" style="${cur.yt ? 'aspect-ratio:16/9' : ''}"><img id="tb-img" src="${cur.src}" data-chain="${cur.srcs.join('|')}" data-key="${cur.key}" alt="자르기 원본" referrerpolicy="no-referrer"><div class="crop-frame" id="tb-frame" tabindex="0" role="slider" aria-label="${t.full ? '띠 세로 위치 (위·아래 화살표)' : '틀 가로 위치 (왼쪽·오른쪽 화살표)'}" aria-valuemin="0" aria-valuemax="100"></div></div>
         <p class="hint">${t.full ? '3:1 틀을 위아래로 끌어 얼굴이 띠 안에 들어오게 하세요.' : '2:3 틀을 좌우로 끌어 얼굴을 가운데에 두세요.'} 화살표 키로 2%, Shift와 함께 10%씩 옮겨요. <span class="num" id="tb-posv">${posStr(st.pos)}</span></p>
       </div>
-      ${previewsHTML(t, cur.src)}` : html`<p class="hint">이 영상은 고를 그림 후보가 없어요. 직접 올리기를 쓰세요.</p>`}
+      ${previewsHTML(t, cur)}` : html`<p class="hint">이 영상은 고를 그림 후보가 없어요. 직접 올리기를 쓰세요.</p>`}
     <div class="tb-actions">
       <button type="button" class="btn btn-fill" data-act="applyNext" ${cur && i < order.length - 1 ? '' : html`disabled`}>정하고 다음</button>
       <button type="button" class="btn" data-act="apply" ${cur ? '' : html`disabled`}>정하기</button>
@@ -242,10 +252,7 @@ function mountCropper() {
     place();
   };
   if (img.complete && img.naturalWidth) layout(); else img.addEventListener('load', layout, { once: true });
-  img.addEventListener('error', () => {
-    if (img.dataset.fb && img.getAttribute('src') !== img.dataset.fb) { img.src = img.dataset.fb; return; }
-    toast('이 그림을 불러오지 못했어요. 다른 후보를 고르세요.');
-  });
+  img.addEventListener('load', layout);
   new ResizeObserver(layout).observe(stage);
   // 틀 밖을 눌러도 그 자리로 옮긴다
   stage.addEventListener('pointerdown', (e) => {
@@ -288,19 +295,35 @@ function loadImage(src, cors) {
   });
 }
 
-// 그림 파일로 굽기: 유튜브 4:3 그림은 가운데 16:9만, 직캠은 2:3 틀, 풀캠은 16:9 전체
+// 후보 주소를 차례로 불러 120px 회색 자리표시가 아닌 첫 그림을 쓴다
+async function loadBest(srcs, cors) {
+  for (const u of srcs) {
+    try {
+      const im = await loadImage(u, cors);
+      if (im.naturalWidth > TINY) return im;
+    } catch { /* 다음 후보 */ }
+  }
+  throw new Error('load');
+}
+
+// 그림 파일로 굽기: 4:3 유튜브 그림은 가운데 16:9만(검은 띠 제거), 직캠은 2:3 틀, 풀캠은 16:9 전체.
+// 크기는 잘라 낸 원본 크기를 넘지 않게(SIZE min~max)
 async function bake(t, c) {
-  const im = await loadImage(c.src, c.yt);
+  const im = await loadBest(c.srcs, c.yt);
   let sx = 0, sy = 0, sw = im.naturalWidth, sh = im.naturalHeight;
-  if (c.wide || (c.yt && sw / sh < 1.7)) { const h = sw * 9 / 16; sy = (sh - h) / 2; sh = h; }
+  if (c.yt && sw / sh < 1.7) { const h = sw * 9 / 16; sy = (sh - h) / 2; sh = h; }
   const target = t.full ? 16 / 9 : t.ratio;
   const r = sw / sh;
   if (r > target) { const w = sh * target; sx += (sw - w) * (t.full ? 0.5 : st.pos.x / 100); sw = w; } else if (r < target) { const h = sw / target; sy += (sh - h) * (t.full ? 0.5 : st.pos.y / 100); sh = h; }
-  const [ow, oh] = t.size;
+  const sz = SIZE[t.full ? 'full' : 'fancam'];
+  const ow = Math.round(Math.min(sz.max, Math.max(sz.min, sw)));
+  const oh = Math.round(ow / sz.r);
   const cv = document.createElement('canvas');
   cv.width = ow; cv.height = oh;
-  cv.getContext('2d').drawImage(im, sx, sy, sw, sh, 0, 0, ow, oh);
-  return new Promise((res, rej) => { try { cv.toBlob((b) => (b ? res(b) : rej(new Error('blob'))), 'image/jpeg', 0.85); } catch (e) { rej(e); } });
+  const ctx = cv.getContext('2d');
+  ctx.imageSmoothingQuality = 'high';
+  ctx.drawImage(im, sx, sy, sw, sh, 0, 0, ow, oh);
+  return new Promise((res, rej) => { try { cv.toBlob((b) => (b ? res(b) : rej(new Error('blob'))), 'image/jpeg', 0.9); } catch (e) { rej(e); } });
 }
 
 async function apply() {
@@ -315,7 +338,7 @@ async function apply() {
   } else if (c.key === 'current') {
     o.thumbPos = pos;
     toast('위치를 바꿨어요.');
-  } else if (c.yt && !c.wide) {
+  } else if (c.yt && !c.bakeOnly) {
     // 16:9 유튜브 그림: 파일을 만들지 않고 주소와 위치만(원본 비율이 남아 조밀 모드에서도 다시 잘린다)
     o.thumb = c.src; o.thumbPos = pos;
     toast(`${c.label}(으)로 바꿨어요.`);
@@ -352,6 +375,7 @@ function reset() {
 function selectTarget(target) {
   if (st.target !== target && st.upload) { URL.revokeObjectURL(st.upload.url); st.upload = null; }
   st.target = target;
+  st.resolved = {}; st.dims = {};
   const t = targetInfo();
   if (!t) { st.cand = null; return; }
   st.pos = parsePos(t.obj.thumbPos, t.defPos);
@@ -418,10 +442,32 @@ function bind() {
       default:
     }
   });
-  // 실패한 후보는 표시
+  // 후보 그림: 없거나 120px 자리표시면 다음 주소로. 다 실패하면 흐리게. 불러온 주소·크기는 기억해 라벨에 보여 준다
+  const next = (im) => {
+    const chain = (im.dataset.chain || '').split('|').filter(Boolean);
+    const i = chain.indexOf(im.getAttribute('src'));
+    if (i >= 0 && i < chain.length - 1) { im.src = chain[i + 1]; return true; }
+    return false;
+  };
   host.addEventListener('error', (e) => {
     const im = e.target;
-    if (im.tagName === 'IMG' && im.closest('.tb-cand')) im.closest('.tb-cand').classList.add('fail');
+    if (im.tagName !== 'IMG' || !im.dataset.chain) return;
+    if (!next(im)) {
+      im.closest('.tb-cand')?.classList.add('fail');
+      if (im.id === 'tb-img') toast('이 그림을 불러오지 못했어요. 다른 후보를 고르세요.');
+    }
+  }, true);
+  host.addEventListener('load', (e) => {
+    const im = e.target;
+    if (im.tagName !== 'IMG' || !im.dataset.chain) return;
+    if (im.naturalWidth <= TINY && next(im)) return;
+    const key = im.dataset.key;
+    st.resolved[key] = im.getAttribute('src');
+    let w = im.naturalWidth, h = im.naturalHeight;
+    if (w / h < 1.7 && /i\.ytimg\.com/.test(st.resolved[key])) h = Math.round(w * 9 / 16); // 4:3의 검은 띠는 빼고 센다
+    st.dims[key] = `${w}×${h}`;
+    const d = host.querySelector(`[data-cand="${CSS.escape(key)}"] .dims`);
+    if (d) d.textContent = st.dims[key];
   }, true);
 }
 
