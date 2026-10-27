@@ -408,6 +408,8 @@ function bindGlobal() {
   // 썸네일 실패 → 실루엣
   // 썸네일 실패 → 다음 주소(data-fb) → 실루엣(data-ph)
   const fallback = (t) => {
+    // 큰 그림(srcset의 hq720)이 없으면 srcset을 떼어 작은 16:9 그림(src)으로
+    if (t.hasAttribute('srcset')) { t.removeAttribute('srcset'); t.removeAttribute('sizes'); return; }
     if (t.dataset.fb && t.getAttribute('src') !== t.dataset.fb) { const fb = t.dataset.fb; t.dataset.fb = ''; t.src = fb; return; }
     if (t.dataset.ph && t.getAttribute('src') !== t.dataset.ph) t.src = t.dataset.ph;
   };
@@ -418,7 +420,7 @@ function bindGlobal() {
   // 유튜브는 hq720이 없으면 오류 대신 120px 회색 그림을 준다
   document.addEventListener('load', (e) => {
     const t = e.target;
-    if (t && t.tagName === 'IMG' && t.dataset.fb && t.naturalWidth > 0 && t.naturalWidth <= 120) fallback(t);
+    if (t && t.tagName === 'IMG' && (t.dataset.fb || t.hasAttribute('srcset')) && t.naturalWidth > 0 && t.naturalWidth <= 120) fallback(t);
   }, true);
 
   // 해시 링크를 누를 때 기억: 오버레이를 연 배경

@@ -1,6 +1,6 @@
 // 공연 보기: 공연마다 큰 카드(표지·날짜·행사·곡·영상 수), 월로 묶는다. 누르면 공연 폴더.
 import { html, fmtMD, fmtYear, parseDate } from '../util.js';
-import { NOSONG } from '../model.js';
+import { NOSONG, SRCSET_SIZES } from '../model.js';
 import { app, sortEvents, visibleSongKeys, matchVideo, matchClip, filterCount } from '../state.js';
 import { href } from '../router.js';
 import { eventCover } from '../indexer.js';
@@ -25,8 +25,8 @@ function cardHTML(E, keys, f) {
   const cover = eventCover(E);
   let img;
   if (cover) {
-    const { src, fb, ph } = imgOf(cover, '169');
-    img = html`<img src="${src}" data-fb="${fb}" data-ph="${ph}" alt="" loading="lazy" decoding="async" style="${`object-position:${cover.type === 'full' ? '50% 50%' : posOf(cover)}`}">`;
+    const { src, fb, ph, srcset } = imgOf(cover, '169');
+    img = html`<img src="${src}" ${srcset ? html`srcset="${srcset}" sizes="${SRCSET_SIZES}"` : ''} data-fb="${fb}" data-ph="${ph}" alt="" loading="lazy" decoding="async" style="${`object-position:${cover.type === 'full' ? '50% 50%' : posOf(cover)}`}">`;
   } else {
     const ph = silhouetteURL({ eventId: E.id, kind: 'full' });
     img = html`<img src="${ph}" alt="" loading="lazy">`;
