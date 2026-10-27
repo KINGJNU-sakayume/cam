@@ -52,6 +52,12 @@ function summaryText(c) {
   return parts.length ? parts.join(' · ') : '더 볼 영상 없음';
 }
 
+// 펼치기 버튼 하나: 무엇이 들어 있는지(개수)를 버튼 안에 보여 준다
+function expandBtn(E, c, open) {
+  return html`<button type="button" class="sumbtn expbtn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}">
+    <span class="t">${open ? '접기' : '전체 보기'}</span><span class="ar" aria-hidden="true">${open ? '▴' : '▾'}</span><span class="n">${summaryText(c)}</span></button>`;
+}
+
 function songControl(E, keys, sel, forced) {
   if (keys.length === 1) {
     if (keys[0] === NOSONG) return html`<span class="wholetag">전체 공연</span>`;
@@ -145,10 +151,8 @@ function rowHTML(r) {
     </div>${side}`;
   }
   return html`<div class="${`car-row${cards.length ? '' : ' nocam'}`}" id="${`row-${E.id}`}" data-row="${E.id}">
-    <span class="lu-tab" aria-hidden="true">${fmtMD(E.date)}</span>
     <div class="lu-date">${dateBlock(E, keys, sel, ctx.forceSong)}
-      <button type="button" class="linkbtn expand-btn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}">${open ? '접기 ↑' : '이 날 전체 보기 ↓'}</button>
-      <button type="button" class="sumbtn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}">${summaryText(c)}</button>
+      ${expandBtn(E, c, open)}
     </div>
     ${body}
   </div>${open ? html`<div class="lu-panel" id="${`panel-${E.id}`}">${panelHTML(E, sel, fs)}</div>` : ''}`;
@@ -228,13 +232,14 @@ function mobileCard(r) {
     ${ctx.cols.length && hasCam(fs) ? html`<div class="mstrip" role="list" aria-label="멤버 직캠">${cams}</div>` : ''}
     ${fs.full[0] ? html`<div class="mfull">${videoThumb(fs.full[0], { ratio: '169', songKey: sel, badges: fs.full.length > 1 ? [{ text: `+${fs.full.length - 1}` }] : [] })}</div>` : ''}
     ${!hasCam(fs) && !fs.full.length ? html`<p class="mnocam">영상이 아직 없어요</p>` : ''}
-    <button type="button" class="sumbtn" data-act="expand" data-e="${E.id}" aria-expanded="${String(!!(open))}" aria-controls="${`panel-${E.id}`}"><span>${summaryText(c)}</span><span aria-hidden="true">${open ? '↑' : '↓'}</span></button>
+    ${expandBtn(E, c, open)}
     ${open ? html`<div id="${`panel-${E.id}`}">${panelHTML(E, sel, fs)}</div>` : ''}
   </article>`;
 }
 
 function monthHTML(item) {
-  return html`<div class="lu-month"><div class="month-head"><span class="m-big">${item.m}</span><span class="m-unit">월</span><span class="m-sub">${item.y} · 공연 ${item.n}</span></div></div>`;
+  // 감싸는 div 없이 행들과 같은 부모에 둬야 sticky 색인 탭이 다음 달까지 붙어 있는다
+  return html`<div class="month-head"><span class="m-big">${item.m}</span><span class="m-unit">월</span><span class="m-sub">${item.y} · 공연 ${item.n}</span></div>`;
 }
 
 function itemHTML(item) {

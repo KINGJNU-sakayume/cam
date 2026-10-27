@@ -169,7 +169,7 @@ export function openPlayer(root, s, close) {
             })}</div>
           </section>
           <section class="side-sec"><h3>이 영상의 움짤 ${clips.length}</h3>
-            ${clips.length ? html`<div class="cliprow">${clips.map((C) => clipThumb(C, { caption: html`<div class="lm">${C.clip.note || ''}</div>` }))}</div>` : html`<p class="vs" style="color:var(--dark-muted);font-size:12.5px">아직 없어요</p>`}
+            ${clips.length ? html`<div class="cliprow">${clips.map((C) => clipThumb(C, { caption: html`<div class="lm">${C.clip.note || ''}</div>` }))}</div>` : html`<p class="vs" style="color:var(--dark-muted);font-size:13px">아직 없어요</p>`}
           </section>
           <nav class="links" aria-label="바로 가기">
             ${isSampleYt(v.ytId) ? html`<span class="disabled-link">${ICON.ext}샘플 영상이라 유튜브 링크가 없어요</span>`
