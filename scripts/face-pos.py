@@ -1,11 +1,15 @@
 #!/usr/bin/env python3
-"""직캠 썸네일에서 얼굴을 찾아 2:3 칸의 자르는 위치(thumbPos)를 정한다. 개발할 때만 쓰는 도구(사이트는 의존성 없음).
+"""썸네일에서 얼굴을 찾아 자르는 위치(thumbPos)를 정한다. 개발할 때만 쓰는 도구(사이트는 의존성 없음).
 
   pip install opencv-python-headless
   python3 scripts/face-pos.py                 thumbPos가 없는 직캠 전부 → .cache/face-pos.json
   python3 scripts/face-pos.py --ids v1,v2     이 영상만
   python3 scripts/face-pos.py --sheet 30      무작위 30개를 원본·지금 크롭·새 크롭으로 나란히 놓은 확인용 이미지도 만든다
+  python3 scripts/face-pos.py --full          풀캠: 조밀 모드 3:1 띠의 세로 위치("50% y%")를 얼굴 기준으로 → .cache/face-pos-full.json
   node scripts/archive.mjs thumbpos .cache/face-pos.json --dry-run   → 적용(사람이 고른 thumbPos는 덮어쓰지 않음)
+
+직캠 thumbPos는 2:3 칸 기준 가로 위치예요(조밀 모드의 1:2.2 띠는 js/components.js posFor가 같은 값에서 다시 계산).
+풀캠 thumbPos는 3:1 띠 기준 세로 위치예요(16:9 칸에서는 잘리지 않아 영향 없음).
 
 YuNet 얼굴 모델은 처음 한 번 huggingface에서 .cache/로 받는다. 화면과 같은 이미지(hq720, 없으면 hqdefault)로 계산한다.
 """
@@ -26,13 +30,18 @@ DEFAULT_Y = '35%'  # js/model.js DEFAULT_THUMB_POS의 세로 위치. 16:9 이미
 
 ap = argparse.ArgumentParser()
 ap.add_argument('--data', default=os.path.join(ROOT, 'data', 'videos.json'))
-ap.add_argument('--out', default=os.path.join(ROOT, '.cache', 'face-pos.json'))
+ap.add_argument('--out', default='')
+ap.add_argument('--full', action='store_true', help='풀캠의 3:1 띠 세로 위치를 계산')
+ap.add_argument('--local', default='', help='썸네일을 받지 않고 이 폴더의 <영상id>.jpg를 쓴다(오프라인 확인용)')
 ap.add_argument('--ids', default='')
 ap.add_argument('--all', action='store_true', help='thumbPos가 이미 있는 영상도 계산(적용 때는 덮어쓰지 않음)')
 ap.add_argument('--jobs', type=int, default=16)
 ap.add_argument('--sheet', type=int, default=0)
 ap.add_argument('--min-score', type=float, default=0.7)
 args = ap.parse_args()
+KIND = 'full' if args.full else 'fancam'
+if not args.out:
+    args.out = os.path.join(ROOT, '.cache', 'face-pos-full.json' if args.full else 'face-pos.json')
 
 if not os.path.exists(MODEL):
     os.makedirs(os.path.dirname(MODEL), exist_ok=True)
@@ -41,12 +50,17 @@ if not os.path.exists(MODEL):
 
 data = json.load(open(args.data, encoding='utf8'))
 ids = set(filter(None, args.ids.split(',')))
-vids = [v for v in data['videos'] if v.get('type') == 'fancam' and not v.get('thumb')
+vids = [v for v in data['videos'] if v.get('type') == KIND and not v.get('thumb')
         and (v['id'] in ids if ids else (args.all or not v.get('thumbPos')))]
-print(f'대상 직캠 {len(vids)}개')
+print(f'대상 {"풀캠" if args.full else "직캠"} {len(vids)}개')
 
 
 def fetch(yt):
+    if args.local:
+        v = next((x for x in vids if x['ytId'] == yt), None)
+        f = os.path.join(args.local, f"{v['id']}.jpg") if v else ''
+        img = cv2.imread(f) if f and os.path.exists(f) else None
+        return cv2.resize(img, (1280, 720)) if img is not None else None
     for name in ('hq720', 'hqdefault'):
         try:
             b = urllib.request.urlopen(f'https://i.ytimg.com/vi/{yt}/{name}.jpg', timeout=15).read()
@@ -85,10 +99,38 @@ def pos_for(img, cx):
     return int(round(min(1, max(0, p)) * 100))
 
 
+BAND = 3.0  # 조밀 모드 풀캠 띠 비율(styles.css .rband)
+
+
+def band_y(img):
+    """3:1 띠의 object-position y(%). 큰 얼굴(앞줄 멤버)이 가장 많이 띠 위쪽 60% 안에 오는 자리. 얼굴이 없으면 None"""
+    h, w = img.shape[:2]
+    bh = int(round(w / BAND))
+    if bh >= h:
+        return None
+    det = cv2.FaceDetectorYN.create(MODEL, '', (w, h), 0.6, 0.3, 200)
+    _, faces = det.detect(img)
+    fs = [] if faces is None else [tuple(map(float, f[:4])) for f in faces if f[2] >= w * 0.012]
+    if not fs:
+        return None
+    big = max(fw * fh for _, _, fw, fh in fs)
+    best, best_score = 0, -1e9
+    for top in range(0, h - bh + 1, 2):
+        upper = sum(fw * fh for _, y, fw, fh in fs if y >= top and y + fh <= top + bh * 0.6)
+        inside = sum(fw * fh for _, y, fw, fh in fs if y >= top and y + fh <= top + bh)
+        score = (upper * 2 + inside) / big - abs(top + bh / 2 - h / 2) / h * 0.1
+        if score > best_score:
+            best, best_score = top, score
+    return int(round(best / (h - bh) * 100))
+
+
 def work(v):
     img = fetch(v['ytId'])
     if img is None:
         return v['id'], None, 'no-image', None
+    if args.full:
+        y = band_y(img)
+        return v['id'], y, 'ok' if y is not None else 'no-face', img
     cx = face_x(img)
     if cx is None or cx == 'multi':
         return v['id'], None, 'multi' if cx else 'no-face', img
@@ -99,11 +141,11 @@ res, stat, imgs = {}, {'ok': 0, 'center': 0, 'multi': 0, 'no-face': 0, 'no-image
 want_sheet = set(random.sample([v['id'] for v in vids], min(args.sheet, len(vids)))) if args.sheet else set()
 with ThreadPoolExecutor(args.jobs) as ex:
     for i, (vid, x, why, img) in enumerate(ex.map(work, vids), 1):
-        if why == 'ok' and abs(x - 50) <= 5:
+        if why == 'ok' and not args.full and abs(x - 50) <= 5:
             why = 'center'
         stat[why] += 1
         if why == 'ok':
-            res[vid] = f'{x}% {DEFAULT_Y}'
+            res[vid] = f'50% {x}%' if args.full else f'{x}% {DEFAULT_Y}'
         if vid in want_sheet and img is not None:
             imgs[vid] = (img, x)
         if i % 200 == 0 or i == len(vids):
@@ -122,6 +164,17 @@ if imgs:
         h, w = img.shape[:2]
         img = cv2.resize(img, (int(w * 240 / h), 240))
         h, w = img.shape[:2]
+        if args.full:
+            # [원본 | 가운데 띠 | 새 띠]
+            bh = int(w / BAND)
+            band = lambda p: cv2.resize(img[int((h - bh) * p / 100):int((h - bh) * p / 100) + bh], (int(w * h / bh / 2), h // 2))
+            new = band(x if x is not None else 50).copy()
+            cv2.putText(new, f'{x if x is not None else "-"}%', (4, 18), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 255), 1)
+            right = np.vstack([band(50), new])
+            row = np.hstack([img, np.full((h, 6, 3), 255, np.uint8), right[:h]])
+            cv2.putText(row, vid, (4, h - 6), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 255), 1)
+            rows.append(row)
+            continue
         cw = int(h * 2 / 3)
         crop = lambda p: img[:, int((w - cw) * p / 100):int((w - cw) * p / 100) + cw]
         new = crop(x if x is not None else 50).copy()
@@ -131,6 +184,6 @@ if imgs:
         rows.append(row)
     wmax = max(r.shape[1] for r in rows)
     rows = [np.pad(r, ((0, 6), (0, wmax - r.shape[1]), (0, 0)), constant_values=255) for r in rows]
-    path = os.path.join(os.path.dirname(args.out), 'face-pos-sheet.jpg')
+    path = os.path.join(os.path.dirname(args.out), 'face-pos-full-sheet.jpg' if args.full else 'face-pos-sheet.jpg')
     cv2.imwrite(path, np.vstack(rows), [cv2.IMWRITE_JPEG_QUALITY, 80])
     print(f'확인용 이미지: {path}')

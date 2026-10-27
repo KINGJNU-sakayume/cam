@@ -48,6 +48,23 @@ export function posOf(v, fallback = DEFAULT_THUMB_POS) {
   return v && v.thumbPos && POS_RE.test(v.thumbPos) ? v.thumbPos : fallback;
 }
 
+// 조밀 모드 칸의 object-position.
+// strip(직캠 1:2.2): thumbPos는 16:9 이미지를 2:3 칸에 채울 때의 x%라서, 얼굴 가운데(cx)로 되돌린 뒤 좁은 띠 기준으로 다시 계산한다.
+// band(풀캠 3:1): 풀캠의 thumbPos는 3:1 띠의 세로 위치("50% y%", scripts/face-pos.py --full). 없으면 얼굴이 많은 위쪽으로 조금 올린다.
+const W23 = (2 / 3) / (16 / 9); // 2:3 칸이 16:9 이미지에서 차지하는 폭
+const WSTRIP = (1 / 2.2) / (16 / 9);
+export const BAND_DEFAULT_POS = '50% 40%';
+export function posFor(v, shape) {
+  if (shape === 'band') return v.type === 'full' ? posOf(v, BAND_DEFAULT_POS) : '50% 40%';
+  if (shape !== 'strip') return shape === '23' ? posOf(v) : posOf(v, '50% 50%');
+  if (v.thumb) return posOf(v, '50% 50%'); // 직접 넣은 그림은 이미 칸 비율로 잘려 있다
+  const px = parseFloat(posOf(v).split(/\s+/)[0]);
+  if (!Number.isFinite(px)) return '50% 50%';
+  const cx = (px / 100) * (1 - W23) + W23 / 2;
+  const p = Math.min(1, Math.max(0, (cx - WSTRIP / 2) / (1 - WSTRIP)));
+  return `${Math.round(p * 100)}% 50%`;
+}
+
 // 썸네일 이미지 주소, 실패 시 다음 주소(fb), 마지막으로 대신할 실루엣(ph)
 export function imgOf(v, ratio, small = false) {
   const ix = app.ix;
@@ -78,12 +95,12 @@ export function videoThumb(v, { ratio = v.type === 'full' ? '169' : '23', songKe
   const { src, fb, ph } = imgOf(v, ratio);
   const all = [...badges];
   if (v.gone) all.push({ text: '삭제됨', cls: 'danger' });
-  const pos = ratio === '23' ? posOf(v) : posOf(v, '50% 50%');
+  const pos = posFor(v, ratio);
   const aria = label || `${v.title || '영상'} 재생`;
   return html`<div class="tcell">
     <a class="thumb r${ratio}${v.gone ? ' gone' : ''}" href="${playHref(v, songKey, t)}" aria-label="${aria}">
       <img src="${src}" data-fb="${fb}" data-ph="${ph}" alt="" loading="lazy" decoding="async" style="${`object-position:${pos}`}">
-      ${ratio === '23' ? stripHTML(v, stripText, stripExtra) : ''}
+      ${ratio === '23' || ratio === 'strip' ? stripHTML(v, stripText, stripExtra) : ''}
       <span class="play-ic">${ICON.play}</span>
       ${all.length ? html`<span class="badges">${all.map((b) => html`<span class="badge ${b.cls || ''}">${b.text}</span>`)}</span>` : ''}
     </a>${extraBadge}

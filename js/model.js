@@ -56,10 +56,11 @@ export function eventSongOrder(event, videosOfEvent, group) {
 }
 
 // hqdefault(4:3)는 16:9 영상 위아래에 검은 띠가 들어 있어 칸에 잘라 넣으면 띠가 보인다.
-// 16:9 칸·작은 그림은 mqdefault(16:9, 띠 없음), 2:3 칸은 hq720(1280×720, 띠 없음). hq720이 없는 영상은 thumbFallback으로.
+// 16:9 칸·작은 그림은 mqdefault(16:9, 띠 없음), 그 밖의 칸(2:3, 조밀 모드의 1:2.2 띠·3:1 띠)은 크게 잘라 쓰니 hq720(1280×720, 띠 없음).
+// hq720이 없는 영상은 thumbFallback으로.
 export function thumbSrc(video, ratio = '169', small = false) {
   if (video.thumb) return video.thumb;
-  if (video.ytId && !isSampleYt(video.ytId)) return `https://i.ytimg.com/vi/${video.ytId}/${ratio === '23' && !small ? 'hq720' : 'mqdefault'}.jpg`;
+  if (video.ytId && !isSampleYt(video.ytId)) return `https://i.ytimg.com/vi/${video.ytId}/${ratio !== '169' && !small ? 'hq720' : 'mqdefault'}.jpg`;
   return null;
 }
 export function thumbFallback(video) {
