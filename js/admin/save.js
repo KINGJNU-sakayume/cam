@@ -1,12 +1,12 @@
-// 저장: (A) 로컬 저장소 폴더에 직접 쓰기 (B) 내보내기(JSON + ZIP) (C) 토큰 커밋(설정에서 켜야 보임)
+// 저장: (A) GitHub에 바로 커밋(토큰) (B) 내 컴퓨터 저장소 폴더에 쓰기 (C) 내보내기(JSON + ZIP). 맨 아래 가져오기(고급)
 import { html } from '../util.js';
 import { validateData } from '../validate-core.js';
 import { store, resetChanges, clearFiles, kvGet, kvSet, kvDel } from './store.js';
 import { paint, toast, download } from './ui.js';
 import { makeZip } from './zip.js';
+import { renderImport } from './import.js';
 
 let host = null;
-const TOKEN_MODE = 'sd.tokenMode';
 const REPO_KEY = 'sd.repo';
 const TOKEN_KEY = 'sd.token';
 
@@ -15,7 +15,6 @@ export function serialize() {
   return `${JSON.stringify(clean, null, 2)}\n`;
 }
 
-function tokenMode() { try { return localStorage.getItem(TOKEN_MODE) === '1'; } catch { return false; } }
 function repoInfo() {
   let saved = {};
   try { saved = JSON.parse(localStorage.getItem(REPO_KEY) || '{}'); } catch { /* 없음 */ }
@@ -25,7 +24,9 @@ function repoInfo() {
   }
   return { owner: saved.owner || '', repo: saved.repo || '', branch: saved.branch || 'main' };
 }
-const getToken = () => { try { return sessionStorage.getItem(TOKEN_KEY) || ''; } catch { return ''; } };
+// 토큰은 기본으로 이 탭(sessionStorage)에만, "이 기기에 기억"을 켜면 localStorage에
+const getToken = () => { try { return sessionStorage.getItem(TOKEN_KEY) || localStorage.getItem(TOKEN_KEY) || ''; } catch { return ''; } };
+const remembered = () => { try { return !!localStorage.getItem(TOKEN_KEY); } catch { return false; } };
 
 async function dirHandle() { try { return await kvGet('dir'); } catch { return null; } }
 
@@ -34,7 +35,6 @@ async function paintAll() {
   const files = [...store.files.keys()].sort();
   const fsOk = 'showDirectoryPicker' in window;
   const dir = fsOk ? await dirHandle() : null;
-  const tm = tokenMode();
   const ri = repoInfo();
   paint(host, html`
     <section class="card" aria-labelledby="s-h0"><h2 id="s-h0">저장할 내용</h2>
@@ -44,20 +44,35 @@ async function paintAll() {
         : html`<p class="hint ok" style="margin-top:6px">검증 통과 (scripts/validate.mjs와 같은 규칙)</p>`}
     </section>
 
-    ${fsOk ? html`<section class="card" aria-labelledby="s-ha"><h2 id="s-ha">A. 내 컴퓨터의 저장소 폴더에 바로 쓰기 <span class="hint">권장</span></h2>
-      <p class="desc">Chrome·Edge 데스크톱에서만 돼요. 이 사이트 저장소를 내려받은 폴더(index.html이 있는 곳)를 연결하면 data/videos.json, thumbs/, clips/에 바로 써요. 그다음 GitHub Desktop 등으로 커밋·푸시하세요.</p>
+    <section class="card" aria-labelledby="s-hc"><h2 id="s-hc">A. GitHub에 바로 올리기 <span class="hint">권장</span></h2>
+      <p class="desc">버튼 한 번으로 data/videos.json과 새 그림 파일을 커밋 하나로 올려요. Pages가 1~2분 뒤 새로 배포해요.</p>
+      <div class="form-grid" style="margin-top:4px">
+        <label class="field"><span>소유자(owner)</span><input data-repo="owner" value="${ri.owner}" autocomplete="off"></label>
+        <label class="field"><span>저장소(repo)</span><input data-repo="repo" value="${ri.repo}" autocomplete="off"></label>
+        <label class="field"><span>브랜치</span><input data-repo="branch" value="${ri.branch}" autocomplete="off"></label>
+        <label class="field"><span>토큰</span><input type="password" id="s-token" value="${getToken()}" autocomplete="off" spellcheck="false" placeholder="github_pat_…"></label>
+      </div>
+      <label class="check" style="margin-top:8px"><input type="checkbox" id="s-remember" ${remembered() ? html`checked` : ''}>이 기기에 토큰 기억하기 (개인 기기에서만)</label>
+      <div class="row-actions"><button type="button" class="btn btn-fill" data-act="commit" ${errors.length || !store.changes && !files.length ? html`disabled` : ''}>${store.changes || files.length ? `커밋으로 올리기 (변경 ${store.changes}${files.length ? ` · 파일 ${files.length}` : ''})` : '올릴 변경이 없어요'}</button>${getToken() ? html`<button type="button" class="btn btn-sm" data-act="forgetToken">토큰 지우기</button>` : ''}</div>
+      <p class="hint" id="s-result"></p>
+      <details class="hint" style="margin-top:6px"><summary style="cursor:pointer">토큰 만들기</summary>
+        <p style="margin-top:6px">GitHub → Settings → Developer settings → Fine-grained tokens에서 “이 저장소만, Contents 읽기·쓰기” 권한으로 만들어요. 토큰은 주소나 저장소에 넣지 않고 이 브라우저에만 둬요. 공용 컴퓨터에서는 쓰지 말고, 다 쓰면 GitHub에서 지우는 게 안전해요.</p></details>
+    </section>
+
+    ${fsOk ? html`<section class="card" aria-labelledby="s-ha"><h2 id="s-ha">B. 내 컴퓨터의 저장소 폴더에 쓰기</h2>
+      <p class="desc">Chrome·Edge 데스크톱에서만 돼요. 저장소를 내려받은 폴더(index.html이 있는 곳)를 연결하면 data/videos.json, thumbs/, clips/에 바로 써요. 그다음 직접 커밋·푸시하세요.</p>
       <p class="hint">${dir ? html`연결한 폴더: <b>${dir.name}</b>` : '아직 연결한 폴더가 없어요.'}</p>
       <div class="row-actions">
         <button type="button" class="btn" data-act="pick">${dir ? '다른 폴더 연결' : '저장소 폴더 연결'}</button>
-        <button type="button" class="btn btn-fill" data-act="write" ${dir && !errors.length ? '' : html`disabled`}>폴더에 쓰기</button>
+        <button type="button" class="btn" data-act="write" ${dir && !errors.length ? '' : html`disabled`}>폴더에 쓰기</button>
         ${dir ? html`<button type="button" class="btn btn-sm" data-act="forget">연결 끊기</button>` : ''}
       </div></section>` : ''}
 
-    <section class="card" aria-labelledby="s-hb"><h2 id="s-hb">${fsOk ? 'B. ' : ''}내보내기</h2>
-      <p class="desc">videos.json과 새 파일 ZIP을 받아 GitHub에 올리는 방법이에요. 모든 브라우저에서 돼요.</p>
+    <section class="card" aria-labelledby="s-hb"><h2 id="s-hb">${fsOk ? 'C. ' : 'B. '}파일로 내보내기</h2>
+      <p class="desc">videos.json과 새 파일 ZIP을 받아 GitHub 웹에서 직접 올리는 방법이에요. 모든 브라우저에서 돼요.</p>
       <div class="row-actions">
         <button type="button" class="btn" data-act="copy">videos.json 복사</button>
-        <button type="button" class="btn btn-fill" data-act="json">videos.json 다운로드</button>
+        <button type="button" class="btn" data-act="json">videos.json 다운로드</button>
         <button type="button" class="btn" data-act="zip" ${files.length ? '' : html`disabled`}>새 파일 ZIP 다운로드 (${files.length})</button>
       </div>
       <ol class="steps">
@@ -68,18 +83,9 @@ async function paintAll() {
       ${files.length ? html`<button type="button" class="btn btn-sm" data-act="clearFiles">올렸어요 · 임시 파일 비우기</button>` : ''}
     </section>
 
-    <section class="card" aria-labelledby="s-hc"><h2 id="s-hc">${fsOk ? 'C. ' : ''}토큰으로 바로 커밋 <span class="hint">고급</span></h2>
-      <label class="check"><input type="checkbox" data-act="tokenMode" ${tm ? html`checked` : ''}>토큰 커밋 쓰기 (기본 꺼짐)</label>
-      ${tm ? html`<div class="notice warn" style="margin-top:10px">fine-grained 개인 액세스 토큰을 “이 저장소만, Contents 읽기·쓰기”로 만들어 쓰세요. 토큰은 이 탭의 sessionStorage에만 두고 저장소·주소에 넣지 않아요. 공용 컴퓨터에서는 쓰지 마세요. 다 쓰면 GitHub에서 토큰을 지우는 게 안전해요.</div>
-        <div class="form-grid" style="margin-top:12px">
-          <label class="field"><span>소유자(owner)</span><input data-repo="owner" value="${ri.owner}" autocomplete="off"></label>
-          <label class="field"><span>저장소(repo)</span><input data-repo="repo" value="${ri.repo}" autocomplete="off"></label>
-          <label class="field"><span>브랜치</span><input data-repo="branch" value="${ri.branch}" autocomplete="off"></label>
-          <label class="field"><span>토큰</span><input type="password" id="s-token" value="${getToken()}" autocomplete="off" spellcheck="false"></label>
-        </div>
-        <div class="row-actions"><button type="button" class="btn btn-fill" data-act="commit" ${errors.length ? html`disabled` : ''}>커밋 하나로 올리기</button><button type="button" class="btn btn-sm" data-act="forgetToken">토큰 지우기</button></div>
-        <p class="hint" id="s-result"></p>` : ''}
-    </section>`);
+    <details class="card adm-import"><summary><h2 style="display:inline">가져오기</h2> <span class="hint">고급 · videos.json 전체를 붙여 넣어 바꾸기</span></summary><div id="s-import" style="margin-top:12px"></div></details>`);
+  const imp = host.querySelector('#s-import');
+  if (imp) renderImport(imp);
 }
 
 // ---------- A ----------
@@ -145,7 +151,10 @@ async function tokenCommit() {
   const token = host.querySelector('#s-token').value.trim();
   const out = host.querySelector('#s-result');
   if (!ri.owner || !ri.repo || !token) { toast('owner, repo, 토큰을 모두 넣어 주세요.'); return; }
-  try { sessionStorage.setItem(TOKEN_KEY, token); } catch { /* 탭 메모리만 */ }
+  try {
+    sessionStorage.setItem(TOKEN_KEY, token);
+    if (host.querySelector('#s-remember')?.checked) localStorage.setItem(TOKEN_KEY, token); else localStorage.removeItem(TOKEN_KEY);
+  } catch { /* 탭 메모리만 */ }
   const api = async (path, opts = {}) => {
     const res = await fetch(`https://api.github.com/repos/${encodeURIComponent(ri.owner)}/${encodeURIComponent(ri.repo)}${path}`, {
       ...opts,
@@ -190,10 +199,7 @@ async function tokenCommit() {
 function bind() {
   host.addEventListener('change', (e) => {
     const t = e.target;
-    if (t.dataset.act === 'tokenMode') {
-      try { localStorage.setItem(TOKEN_MODE, t.checked ? '1' : '0'); } catch { /* 없음 */ }
-      paintAll();
-    }
+    if (t.id === 's-remember' && !t.checked) { try { localStorage.removeItem(TOKEN_KEY); } catch { /* 없음 */ } }
     if (t.dataset.repo) {
       const ri = repoInfo();
       ri[t.dataset.repo] = t.value.trim();
@@ -202,7 +208,7 @@ function bind() {
   });
   host.addEventListener('click', async (e) => {
     const b = e.target.closest('[data-act]');
-    if (!b || b.type === 'checkbox') return;
+    if (!b || b.type === 'checkbox' || b.closest('#s-import')) return;
     switch (b.dataset.act) {
       case 'pick': pick(); break;
       case 'write': writeFolder(); break;
@@ -222,7 +228,7 @@ function bind() {
         else { b.dataset.armed = '1'; b.textContent = '한 번 더 누르면 비워요'; }
         break;
       case 'commit': tokenCommit(); break;
-      case 'forgetToken': try { sessionStorage.removeItem(TOKEN_KEY); } catch { /* 없음 */ } paintAll(); break;
+      case 'forgetToken': try { sessionStorage.removeItem(TOKEN_KEY); localStorage.removeItem(TOKEN_KEY); } catch { /* 없음 */ } paintAll(); break;
       default:
     }
   });

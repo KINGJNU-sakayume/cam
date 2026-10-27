@@ -69,6 +69,18 @@ export function thumbFallback(video) {
 }
 export const DEFAULT_THUMB_POS = '50% 35%';
 
+// 직캠 thumbPos(16:9 이미지를 2:3 칸에 채울 때의 x%) → 조밀 모드 1:2.2 띠의 x%. 얼굴 가운데를 그대로 두고 좁은 띠 기준으로 다시 계산한다
+const W23 = (2 / 3) / (16 / 9);
+const WSTRIP = (1 / 2.2) / (16 / 9);
+export function stripPosFrom(pos) {
+  const px = parseFloat(String(pos || DEFAULT_THUMB_POS).split(/\s+/)[0]);
+  if (!Number.isFinite(px)) return '50% 50%';
+  const cx = (px / 100) * (1 - W23) + W23 / 2;
+  return `${Math.round(Math.min(1, Math.max(0, (cx - WSTRIP / 2) / (1 - WSTRIP))) * 100)}% 50%`;
+}
+// 유튜브 이미지 주소인지(직접 넣은 그림 파일이 아니라 16:9 원본이라 위치 계산을 그대로 쓴다)
+export const isYtThumb = (u) => /^https:\/\/i\.ytimg\.com\//.test(u || '');
+
 export function ytUrl(ytId, t) {
   return `https://www.youtube.com/watch?v=${encodeURIComponent(ytId)}${t ? `&t=${Math.floor(t)}s` : ''}`;
 }

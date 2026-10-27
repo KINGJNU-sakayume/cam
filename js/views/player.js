@@ -176,6 +176,7 @@ export function openPlayer(root, s, close) {
               : html`<a href="${ytUrl(v.ytId, t)}" target="_blank" rel="noopener noreferrer">${ICON.ext}유튜브에서 열기${t ? ` (${Math.floor(t / 60)}:${String(Math.floor(t % 60)).padStart(2, '0')}부터)` : ''}</a>`}
             <a href="${href({ g: g.id, e: E.id })}">${ICON.folder}공연 폴더</a>
             ${collect ? html`<a href="${collect.h}">${ICON.grid}${collect.t}</a>` : ''}
+            <a href="${`admin.html#tab=thumbs&v=${v.id}`}">${ICON.edit}썸네일 바꾸기</a>
           </nav>
         </div>
       </div>

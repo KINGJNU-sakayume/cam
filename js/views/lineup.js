@@ -1,7 +1,7 @@
 // 라인업: 날짜 행 × 멤버 열. 그룹 첫 화면, 곡 페이지에서 같이 쓴다.
 import { html, fmtMD, parseDate } from '../util.js';
 import { GROUP_KEY, NOSONG } from '../model.js';
-import { app, filteredSection, visibleSongKeys, adminHref, matchVideo } from '../state.js';
+import { app, filteredSection, visibleSongKeys, matchVideo } from '../state.js';
 import { href, baseOf } from '../router.js';
 import {
   videoThumb, clipThumb, dowPill, srcTags, srcShort, tagLine, cellKeyLabel, memberDots, ICON,
@@ -135,7 +135,7 @@ function rowHTML(r) {
     // 직캠이 없으면 풀캠을 가로로 크게 늘어놓는다
     body = full.length
       ? (() => { const n = Math.min(full.length, dense() ? 2 : 3); return html`<div class="car-fulls" style="${`--n:${n}`}">${full.slice(0, n).map((v, i) => fullThumb(v, sel, i === n - 1 && full.length > n ? [{ text: `+${full.length - n}` }] : []))}</div>`; })()
-      : html`<div class="lu-nocam car-none"><span>이 곡은 영상이 아직 없어요</span><a class="add" href="${adminHref({ g: E.group.id, e: E.id, s: sel || undefined })}">+ 담기</a></div>`;
+      : html`<div class="lu-nocam car-none"><span>이 곡은 영상이 아직 없어요</span></div>`;
   } else if (app.layout === 'compact' && app.narrow && !dense()) {
     // (조밀 모드는 직캠 띠가 좁아 절반창에서도 풀캠 띠를 오른쪽에 둔다)
     // 절반창: 풀캠을 같은 넘기기 줄 끝에 16:9 카드로 붙여 한 줄 높이를 지킨다
@@ -198,7 +198,7 @@ export function panelHTML(E, sel, fs) {
       <a class="textlink" href="${href({ g: E.group.id, e: E.id })}">공연 폴더로 →</a>
       <button type="button" class="iconbtn" data-act="expand" data-e="${E.id}" aria-label="펼친 내용 닫기">${ICON.close}</button>
     </div>
-    ${nothing ? html`<p class="note">이 곡은 풀캠·단체·유닛·움짤이 아직 없어요. <a href="${adminHref({ g: E.group.id, e: E.id, s: sel || undefined })}">+ 담기</a></p>` : ''}
+    ${nothing ? html`<p class="note">이 곡은 풀캠·단체·유닛·움짤이 아직 없어요.</p>` : ''}
     ${fs.full.length ? html`<div class="psec"><h4>풀캠 ${fs.full.length}</h4><div class="grid-169">${fs.full.map((v) => videoThumb(v, {
       ratio: '169', songKey: sel, caption: html`<div class="clamp2 l1">${v.title || '풀캠'}</div><div class="lm">${srcTags(v)}</div>`,
     }))}</div></div>` : ''}

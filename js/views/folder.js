@@ -1,7 +1,7 @@
 // 공연 폴더: 머리 카드 + 곡별 섹션(풀캠 줄, 고정 순서 직캠 칸, 움짤 줄) + 전체 공연 섹션
 import { html, fmtMD, fmtYear } from '../util.js';
 import { NOSONG, GROUP_KEY } from '../model.js';
-import { app, adminHref } from '../state.js';
+import { app } from '../state.js';
 import { href } from '../router.js';
 import { cellOrder, eventCover, memberQueue } from '../indexer.js';
 import { videoThumb, clipThumb, emptyCell, dowPill, srcTags, tagLine, cellKeyLabel, memberDots, ICON } from '../components.js';
@@ -70,7 +70,7 @@ function sectionHTML(E, k) {
       <span class="cnt">영상 ${count}${S.clips.length ? ` · 움짤 ${S.clips.length}` : ''}</span>
       ${k ? html`<a class="more textlink" href="${href({ g: g.id, v: 'song', s: k })}">다른 날의 ${songTitle(k)} →</a>` : ''}
     </div>
-    ${count === 0 && !S.clips.length ? html`<p class="note">이 곡 영상은 아직 없어요. <a href="${adminHref({ g: g.id, e: E.id, s: k || undefined })}">+ 담기</a></p>` : ''}
+    ${count === 0 && !S.clips.length ? html`<p class="note">이 곡 영상은 아직 없어요.</p>` : ''}
     ${S.full.length ? html`<div class="frow"><h3>풀캠 ${S.full.length}</h3><div class="grid-169">${S.full.map((v) => videoThumb(v, {
       ratio: '169', songKey: k, caption: html`<div class="l1 clamp1"><span>${v.title || '풀캠'}</span></div><div class="lm">${[v.channel, tagLine(v)].filter(Boolean).join(' · ')}</div>`,
     }))}</div></div>` : (showEmpty && count ? html`<div class="frow"><h3>풀캠</h3><div class="grid-169" style="max-width:320px">${emptyCell({ g: g.id, e: E.id, s: k || undefined, ratio: '169', label: '풀캠 없음' })}</div></div>` : '')}
@@ -99,7 +99,7 @@ function memberModeHTML(E, m) {
   const g = E.group;
   const q = memberQueue(E, m.id);
   if (!q.length) {
-    return html`<section class="fsec sheet"><p class="note">${m.name} 직캠은 이 공연에 아직 없어요. <a href="${adminHref({ g: g.id, e: E.id, m: m.id })}">+ 담기</a></p></section>`;
+    return html`<section class="fsec sheet"><p class="note">${m.name} 직캠은 이 공연에 아직 없어요.</p></section>`;
   }
   const first = q.find((x) => !x.v.gone) || q[0];
   return html`<section class="fsec sheet fmember" aria-labelledby="h-member">
@@ -140,7 +140,7 @@ function navRow(E) {
   const { prev, next } = neighbors(E);
   return html`${navBtn(g, prev, 'prev')}${navBtn(g, next, 'next')}
     <label class="check"><input type="checkbox" data-act="showEmpty" ${app.prefs.showEmpty ? html`checked` : ''}>빈 칸 보기</label>
-    <a class="btn btn-sm" href="${adminHref({ g: g.id, e: E.id })}">이 공연에 담기</a>`;
+    <a class="btn btn-sm" href="${`admin.html#tab=edit&e=${E.id}`}">이 공연 수정</a>`;
 }
 
 // 왼쪽 패널(넓은 창) 또는 서랍(좁은 창)에 들어가는 공연 목차: 곡 목차·멤버별·이동
