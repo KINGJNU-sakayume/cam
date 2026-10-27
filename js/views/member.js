@@ -86,7 +86,10 @@ export function memberPageHTML(g, m, f) {
     <span class="sub">${(m.aliases || []).join(' · ')}${(m.aliases || []).length ? ' · ' : ''}직캠 ${memberCount(g, m)}</span>
     <div class="tools"><label class="check"><input type="checkbox" data-act="bySong" ${app.prefs.bySong ? html`checked` : ''}>곡별로 묶기</label></div>
   </div>
-  ${songChips.length > 1 ? html`<div class="fgroup" role="group" aria-label="곡으로 좁히기" style="margin:0 0 14px">${songChips.map((s) => html`<button type="button" class="chip" data-act="filter" data-k="songs" data-v="${s.id}" aria-pressed="${String(!!(f.songs.has(s.id)))}">${s.title}</button>`)}</div>` : ''}`;
+  ${songChips.length > 1 ? html`<details class="songpick" ${f.songs.size ? html`open` : ''}>
+    <summary>곡으로 좁히기 <span class="n num">${f.songs.size ? `${f.songs.size}곡 고름` : `${songChips.length}곡`}</span></summary>
+    <div class="fgroup" role="group" aria-label="곡으로 좁히기">${songChips.map((s) => html`<button type="button" class="chip" data-act="filter" data-k="songs" data-v="${s.id}" aria-pressed="${String(!!(f.songs.has(s.id)))}">${s.title}</button>`)}</div>
+  </details>` : ''}`;
   if (!items.length) {
     return html`${head}<div class="state"><h2>보여 줄 직캠이 없어요</h2><p>${f.songs.size || f.tags.size || f.types.size ? '걸린 필터를 풀면 더 보여요.' : '아직 이 멤버 직캠을 담지 않았어요.'}</p>
       <div class="row">${f.songs.size || f.tags.size || f.types.size ? html`<button type="button" class="btn" data-act="clearFilters">필터 해제</button>` : ''}<a class="btn btn-fill" href="${`admin.html#g=${g.id}&m=${m.id}`}">+ 담기</a></div></div>`;
@@ -99,7 +102,7 @@ export function memberPageHTML(g, m, f) {
       ${k ? html`<a class="textlink" href="${href({ g: g.id, v: 'song', s: k, m: m.id })}">모아보기 →</a>` : ''}</h3>
       <div class="grid-23 big">${bySong.get(k).map((it) => itemThumb(m, it))}</div></section>`)}`;
   }
-  // 공연마다 라인업 같은 낱장 한 줄: 왼쪽 날짜, 오른쪽 이 멤버의 곡별 직캠(곡 순서). 월 머리로 구분
+  // 월별 포토카드 격자: 공연 × 곡 한 장씩, 카드 아래 날짜·행사·곡. 월 머리글(색인 탭)로 구분
   const rows = [];
   for (const E of sortEvents(app.ix.eventsByGroup.get(g.id))) {
     const q = memberQueue(E, m.id).filter((x) => (!f.songs.size || f.songs.has(x.songKey)) && matchVideo(x.v, f));
@@ -108,17 +111,33 @@ export function memberPageHTML(g, m, f) {
   const counts = new Map();
   for (const { E } of rows) { const k = E.date.slice(0, 7); counts.set(k, (counts.get(k) || 0) + 1); }
   const out = [];
-  let lastM = null;
+  let lastM = null, buf = [];
+  const flush = () => { if (buf.length) out.push(html`<div class="mgrid" role="list">${buf}</div>`); buf = []; };
   for (const r of rows) {
     const k = r.E.date.slice(0, 7);
     if (k !== lastM) {
+      flush();
       const p = parseDate(r.E.date);
-      out.push(html`<div class="lu-month"><div class="month-head"><span class="m-big">${p.m}</span><span class="m-unit">월</span><span class="m-sub">${p.y} · 공연 ${counts.get(k)}</span></div></div>`);
+      out.push(html`<div class="month-head"><span class="m-big">${p.m}</span><span class="m-unit">월</span><span class="m-sub">${p.y} · 공연 ${counts.get(k)}</span></div>`);
       lastM = k;
     }
-    out.push(app.mobile ? memberCard(g, m, r) : memberRow(g, m, r));
+    buf.push(...gridCards(g, m, r));
   }
-  return html`${head}${app.mobile ? html`<div class="mcards">${out}</div>` : html`<div class="lu">${out}</div>`}`;
+  flush();
+  return html`${head}<div class="mtimeline">${out}</div>`;
+}
+
+// 카드 한 장 = 공연 × 곡. 한 공연에 곡이 여럿이면 첫 카드 아래에 이어보기 버튼
+function gridCards(g, m, r) {
+  const { E, q } = r;
+  const folder = href({ g: g.id, e: E.id, m: m.id });
+  const thumbs = rowCards(m, r);
+  return thumbs.map((t, i) => html`<div class="mcell" role="listitem">${t}
+    <div class="mcap">
+      <a class="mdate" href="${folder}" aria-label="${`${fmtMD(E.date)} ${E.ev.show} 공연 폴더 (${m.name})`}"><span class="num">${fmtMD(E.date)}</span> <span class="dow">${fmtDow(E.date)}</span></a>
+      <a class="mshow" href="${folder}">${E.ev.show}${E.ev.label ? ` ${E.ev.label}` : ''}</a>
+      ${i === 0 && q.length > 1 ? queueButton(E, m) : ''}
+    </div></div>`);
 }
 
 function rowCards(m, { E, q }) {
@@ -131,32 +150,4 @@ function rowCards(m, { E, q }) {
     if ((v.tags || []).includes('세로')) badges.push({ text: '세로' });
     return videoThumb(v, { ratio: '23', songKey, badges, stripText: songName(songKey), stripExtra: srcShort(v), label: `${fmtMD(E.date)} ${E.ev.show} ${songName(songKey)} ${m.name} 직캠 재생` });
   });
-}
-
-function rowHead(g, m, { E, q }) {
-  const folder = href({ g: g.id, e: E.id, m: m.id });
-  return html`<div class="dl"><a class="d-big" href="${folder}" aria-label="${`${fmtMD(E.date)} ${E.ev.show} 공연 폴더 (${m.name})`}">${fmtMD(E.date)}</a>${dowPill(E.date)}</div>
-    <a class="show" href="${folder}">${E.ev.show}${E.ev.label ? html`<span class="lbl">${E.ev.label}</span>` : ''}</a>
-    <span class="songfixed">${q.length === 1 ? songName(q[0].songKey) : `${q.length}곡`}</span>
-    ${queueButton(E, m)}`;
-}
-
-function memberRow(g, m, r) {
-  const cards = rowCards(m, r);
-  return html`<div class="car-row mrow" data-row="${r.E.id}">
-    <span class="lu-tab" aria-hidden="true">${fmtMD(r.E.date)}</span>
-    <div class="lu-date">${rowHead(g, m, r)}</div>
-    <div class="car wide" data-car>
-      <button type="button" class="car-btn prev" data-act="car" data-d="-1" aria-label="이전 곡 직캠" disabled>‹</button>
-      <div class="car-track" role="list" aria-label="${`${m.name} 곡별 직캠`}">${cards.map((x) => html`<div class="car-item" role="listitem">${x}</div>`)}</div>
-      <button type="button" class="car-btn next" data-act="car" data-d="1" aria-label="다음 곡 직캠">›</button>
-    </div>
-  </div>`;
-}
-
-function memberCard(g, m, r) {
-  return html`<article class="mcard" data-row="${r.E.id}">
-    <div class="mcard-head">${rowHead(g, m, r)}</div>
-    <div class="mstrip" role="list" aria-label="${`${m.name} 곡별 직캠`}">${rowCards(m, r).map((x) => html`<div class="mthumb" role="listitem">${x}</div>`)}</div>
-  </article>`;
 }

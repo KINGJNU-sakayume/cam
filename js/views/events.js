@@ -34,7 +34,6 @@ function cardHTML(E, keys, f) {
   const songs = keys.filter((k) => k !== NOSONG);
   const title = `${fmtMD(E.date)} ${E.ev.show}${E.ev.label ? ` ${E.ev.label}` : ''}`;
   return html`<article class="ecard sheet">
-    <span class="lu-tab" aria-hidden="true">${fmtMD(E.date)}</span>
     <div class="ecover thumb r169">${img}${E.ev.label ? html`<span class="badges"><span class="badge">${E.ev.label}</span></span>` : ''}</div>
     <div class="ebody">
       <div class="dl"><span class="d-big">${fmtMD(E.date)}</span>${dowPill(E.date)}<span class="ey num">${fmtYear(E.date)}</span></div>

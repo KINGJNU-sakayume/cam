@@ -64,7 +64,6 @@ function sectionHTML(E, k) {
   const no = E.songNo.get(k);
   const openC = cells.find((c) => openCell === `${k || 'none'}|${c.key}`);
   return html`<section class="fsec sheet" id="${`sec-${k || 'none'}`}" aria-labelledby="${`h-${k || 'none'}`}">
-    <span class="lu-tab" aria-hidden="true">${no ? no2(no) : '전체'}</span>
     <div class="fsec-head">
       ${no ? html`<span class="no">${no2(no)}</span>` : ''}
       <h2 id="${`h-${k || 'none'}`}" tabindex="-1">${songTitle(k)}</h2>
@@ -104,7 +103,6 @@ function memberModeHTML(E, m) {
   }
   const first = q.find((x) => !x.v.gone) || q[0];
   return html`<section class="fsec sheet fmember" aria-labelledby="h-member">
-    <span class="lu-tab" aria-hidden="true">${m.name}</span>
     <div class="fsec-head">
       <span class="big-dot" style="${`background:${m._color}`}"></span>
       <h2 id="h-member" tabindex="-1">${m.name}의 이 공연 직캠</h2>
@@ -163,7 +161,6 @@ export function folderHTML(E, member = null, { rail = false } = {}) {
   const keys = E.sectionKeys;
   return html`<article>
     <header class="fhead sheet">
-      <span class="lu-tab" aria-hidden="true">${fmtMD(E.date)}</span>
       <div class="fhead-main">
         <div class="f-date"><span class="f-big">${fmtMD(E.date)}</span><span class="f-yd"><span class="y">${fmtYear(E.date)}</span>${dowPill(E.date)}</span></div>
         <h1>${E.ev.show}${E.ev.label ? html`<span class="lbl">${E.ev.label}</span>` : ''}</h1>

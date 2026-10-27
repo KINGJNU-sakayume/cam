@@ -1,7 +1,7 @@
 // 전역 검색: 모든 그룹, 공백으로 나눈 단어가 모두 맞아야 결과. 공연 단위 카드로 묶는다.
 import { html, norm, fmtMD } from '../util.js';
 import { NOSONG } from '../model.js';
-import { app, adminHref } from '../state.js';
+import { app, adminHref, playHref } from '../state.js';
 import { href } from '../router.js';
 import { videoThumb, clipThumb, dowPill, srcTags, whoText } from '../components.js';
 
@@ -69,10 +69,17 @@ function card(E, videos, clips, tokens) {
   const cams = videos.filter((v) => v.type !== 'full').slice(0, PER_CARD);
   const hidden = videos.length - full.length - cams.length;
   const dateLine = `${fmtMD(E.date)} ${E.ev.show}${E.ev.label ? ` ${E.ev.label}` : ''}`;
-  const cap = (v) => html`<div class="lm">${hl(dateLine, tokens)}</div>
-    <div class="l1"><span>${hl(`${songsText(v)} · ${whoText(ix, v.memberIds, v.type)}`, tokens)}</span></div>
-    <div class="lm">${hl(srcTags(v), tokens)}</div>
-    <div class="lm">${hl(v.title || '', tokens)}</div>`;
+  // 목록형: 작은 썸네일 + 글 세 줄. 날짜·행사는 머리에 있으니 줄마다 되풀이하지 않는다. 줄 전체가 재생 링크
+  const row = (v) => {
+    const songKey = v.songs?.[0]?.songId;
+    return html`<li class="srow${v.type === 'full' ? ' full' : ''}">
+      ${videoThumb(v, { ratio: v.type === 'full' ? '169' : '23', songKey })}
+      <a class="stext" href="${playHref(v, songKey)}" tabindex="-1">
+        <span class="s1">${hl(`${songsText(v)} · ${whoText(ix, v.memberIds, v.type)}`, tokens)}</span>
+        <span class="s2">${hl([srcTags(v), v.channel].filter(Boolean).join(' · '), tokens)}</span>
+        <span class="s3">${hl(v.title || '', tokens)}</span>
+      </a></li>`;
+  };
   return html`<section class="scard" aria-label="${dateLine}">
     <div class="scard-head">
       <span class="d-big">${hl(fmtMD(E.date), tokens)}</span>${dowPill(E.date)}
@@ -81,10 +88,9 @@ function card(E, videos, clips, tokens) {
       ${E.ev.note ? html`<span class="note">${hl(E.ev.note, tokens)}</span>` : ''}
       <a class="open textlink" href="${href({ g: g.id, e: E.id })}">공연 폴더 →</a>
     </div>
-    ${full.length ? html`<div class="grid-169" style="margin-bottom:12px">${full.map((v) => videoThumb(v, { ratio: '169', songKey: v.songs?.[0]?.songId, caption: cap(v) }))}</div>` : ''}
-    ${cams.length ? html`<div class="grid-23">${cams.map((v) => videoThumb(v, { ratio: '23', songKey: v.songs?.[0]?.songId, caption: cap(v) }))}</div>` : ''}
+    <ul class="slist">${[...full, ...cams].map(row)}</ul>
     ${clips.length ? html`<div class="grid-23" style="margin-top:12px">${clips.map((C) => clipThumb(C, {
-      caption: html`<div class="lm">${hl(dateLine, tokens)}</div><div class="l1"><span>${hl(`${C.songId === NOSONG ? '전체 공연' : ix.song.get(C.songId)?.title || ''} · ${C.key === 'full' ? '풀캠' : whoText(ix, C.memberIds, 'fancam')}`, tokens)}</span></div><div class="lm">${hl(C.clip.note || '', tokens)}</div>`,
+      caption: html`<div class="l1"><span>${hl(`${C.songId === NOSONG ? '전체 공연' : ix.song.get(C.songId)?.title || ''} · ${C.key === 'full' ? '풀캠' : whoText(ix, C.memberIds, 'fancam')}`, tokens)}</span></div><div class="lm">${hl(C.clip.note || '', tokens)}</div>`,
     }))}</div>` : ''}
     ${hidden > 0 ? html`<p class="note" style="margin-top:10px"><a href="${href({ g: g.id, e: E.id })}">이 공연에서 맞은 영상 ${hidden}개 더 — 공연 폴더에서 보기 →</a></p>` : ''}
   </section>`;
