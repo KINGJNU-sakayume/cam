@@ -3800,6 +3800,13 @@
           "order": 40,
           "release": "",
           "kind": "cover"
+        },
+        {
+          "id": "g7s41",
+          "title": "Ice Cream",
+          "aliases": [],
+          "order": 41,
+          "release": ""
         }
       ]
     }
@@ -12097,6 +12104,470 @@
         "g7s17",
         "g7s36",
         "g7s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e782",
+      "groupId": "g7",
+      "date": "2026-01-31",
+      "show": "K-SPARK IN MALAYSIA 2026",
+      "label": "",
+      "setlist": [
+        "g7s12",
+        "g7s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e783",
+      "groupId": "g7",
+      "date": "2026-02-13",
+      "show": "ITZY WORLD TOUR TUNNEL VISION 서울",
+      "label": "",
+      "setlist": [
+        "g7s13",
+        "g7s16",
+        "g7s21",
+        "g7s10",
+        "g7s17",
+        "g7s19",
+        "g7s26",
+        "g7s18",
+        "g7s23",
+        "g7s5",
+        "g7s22",
+        "g7s3",
+        "g7s2",
+        "g7s24",
+        "g7s11",
+        "g7s12",
+        "g7s4",
+        "g7s20",
+        "g7s25",
+        "g7s9",
+        "g7s7",
+        "g7s15",
+        "g7s27",
+        "g7s37"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e784",
+      "groupId": "g7",
+      "date": "2026-02-14",
+      "show": "ITZY WORLD TOUR TUNNEL VISION 서울",
+      "label": "",
+      "setlist": [
+        "g7s10",
+        "g7s17",
+        "g7s18",
+        "g7s5",
+        "g7s23",
+        "g7s16",
+        "g7s13",
+        "g7s22",
+        "g7s11",
+        "g7s26",
+        "g7s21",
+        "g7s19",
+        "g7s3",
+        "g7s24",
+        "g7s25",
+        "g7s20"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e785",
+      "groupId": "g7",
+      "date": "2026-02-15",
+      "show": "ITZY WORLD TOUR TUNNEL VISION 서울",
+      "label": "",
+      "setlist": [
+        "g7s4",
+        "g7s17",
+        "g7s11",
+        "g7s18",
+        "g7s13",
+        "g7s26",
+        "g7s10",
+        "g7s25",
+        "g7s12",
+        "g7s21",
+        "g7s20",
+        "g7s24",
+        "g7s19"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e786",
+      "groupId": "g7",
+      "date": "2026-03-14",
+      "show": "K-WONDER CONCERT in TAIPEI",
+      "label": "",
+      "setlist": [
+        "g7s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e787",
+      "groupId": "g7",
+      "date": "2026-03-19",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g7s18"
+      ],
+      "note": "",
+      "aliases": [
+        "Mnet M! Countdown E920"
+      ]
+    },
+    {
+      "id": "e788",
+      "groupId": "g7",
+      "date": "2026-03-26",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g7s41"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e789",
+      "groupId": "g7",
+      "date": "2026-04-01",
+      "show": "LGTWINS 잠실야구장",
+      "label": "",
+      "setlist": [
+        "g7s41"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e790",
+      "groupId": "g7",
+      "date": "2026-04-04",
+      "show": "팬미팅",
+      "label": "",
+      "setlist": [
+        "g7s41"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e791",
+      "groupId": "g7",
+      "date": "2026-04-17",
+      "show": "ITZY WORLD TOUR TUNNEL VISION 멜버른",
+      "label": "",
+      "setlist": [
+        "g7s19",
+        "g7s3",
+        "g7s2",
+        "g7s25",
+        "g7s21",
+        "g7s16",
+        "g7s13",
+        "g7s12",
+        "g7s10",
+        "g7s24",
+        "g7s5",
+        "g7s26",
+        "g7s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e792",
+      "groupId": "g7",
+      "date": "2026-04-19",
+      "show": "ITZY WORLD TOUR TUNNEL VISION 시드니",
+      "label": "",
+      "setlist": [
+        "g7s13",
+        "g7s17",
+        "g7s11",
+        "g7s18",
+        "g7s19",
+        "g7s3",
+        "g7s2",
+        "g7s4",
+        "g7s5",
+        "g7s26"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e793",
+      "groupId": "g7",
+      "date": "2026-05-07",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g7s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e794",
+      "groupId": "g7",
+      "date": "2026-05-10",
+      "show": "ITZY WORLD TOUR TUNNEL VISION 도쿄",
+      "label": "",
+      "setlist": [
+        "g7s24",
+        "g7s12",
+        "g7s10",
+        "g7s37",
+        "g7s18",
+        "g7s13",
+        "g7s27",
+        "g7s33"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e795",
+      "groupId": "g7",
+      "date": "2026-05-19",
+      "show": "KBS 열린음악회",
+      "label": "",
+      "setlist": [
+        "g7s18",
+        "g7s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e796",
+      "groupId": "g7",
+      "date": "2026-05-19",
+      "show": "더 시즌즈",
+      "label": "",
+      "setlist": [
+        "g7s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e797",
+      "groupId": "g7",
+      "date": "2026-05-21",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g7s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e798",
+      "groupId": "g7",
+      "date": "2026-05-22",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g7s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e799",
+      "groupId": "g7",
+      "date": "2026-05-22",
+      "show": "더 시즌즈",
+      "label": "",
+      "setlist": [
+        "g7s1",
+        "g7s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e800",
+      "groupId": "g7",
+      "date": "2026-05-23",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g7s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e801",
+      "groupId": "g7",
+      "date": "2026-05-24",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g7s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e802",
+      "groupId": "g7",
+      "date": "2026-05-25",
+      "show": "KBS 가요광장",
+      "label": "",
+      "setlist": [
+        "g7s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e803",
+      "groupId": "g7",
+      "date": "2026-05-28",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g7s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e804",
+      "groupId": "g7",
+      "date": "2026-05-29",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g7s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e805",
+      "groupId": "g7",
+      "date": "2026-05-30",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g7s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e806",
+      "groupId": "g7",
+      "date": "2026-05-30",
+      "show": "팬미팅",
+      "label": "",
+      "setlist": [
+        "g7s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e807",
+      "groupId": "g7",
+      "date": "2026-05-31",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g7s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e808",
+      "groupId": "g7",
+      "date": "2026-06-05",
+      "show": "더 시즌즈",
+      "label": "",
+      "setlist": [
+        "g7s18",
+        "g7s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e809",
+      "groupId": "g7",
+      "date": "2026-06-14",
+      "show": "KBS 열린음악회",
+      "label": "",
+      "setlist": [
+        "g7s1",
+        "g7s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e810",
+      "groupId": "g7",
+      "date": "2026-06-20",
+      "show": "ITZY WORLD TOUR TUNNEL VISION 홍콩",
+      "label": "",
+      "setlist": [
+        "g7s21",
+        "g7s16",
+        "g7s13",
+        "g7s22",
+        "g7s12",
+        "g7s10",
+        "g7s9",
+        "g7s7",
+        "g7s15",
+        "g7s1",
+        "g7s4",
+        "g7s18",
+        "g7s19",
+        "g7s3",
+        "g7s26",
+        "g7s24",
+        "g7s25"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e811",
+      "groupId": "g7",
+      "date": "2026-06-27",
+      "show": "ITZY WORLD TOUR TUNNEL VISION 가오슝",
+      "label": "",
+      "setlist": [
+        "g7s24",
+        "g7s16",
+        "g7s21",
+        "g7s13",
+        "g7s12",
+        "g7s10",
+        "g7s1",
+        "g7s18",
+        "g7s20",
+        "g7s19",
+        "g7s26",
+        "g7s22"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e812",
+      "groupId": "g7",
+      "date": "2026-06-28",
+      "show": "ITZY WORLD TOUR TUNNEL VISION 가오슝",
+      "label": "",
+      "setlist": [
+        "g7s30",
+        "g7s9",
+        "g7s18",
+        "g7s17",
+        "g7s11",
+        "g7s12",
+        "g7s10",
+        "g7s16",
+        "g7s21",
+        "g7s13",
+        "g7s22"
       ],
       "note": ""
     }
@@ -244371,6 +244842,6625 @@
       "tags": [],
       "title": "261004 ITZY - GOLD + WILD WILD WEST + M.I.T.M + THAT'S A NO NO |  ITZY＜TUNNEL VISION＞ IN SINGAPORE",
       "channel": "yydyii",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13939",
+      "ytId": "tNCJ3-xCHxo",
+      "eventId": "e782",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260131 ITZY 있지 - Not Shy @ K-SPARK IN MALAYSIA 2026",
+      "channel": "Dear. My Blue",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13940",
+      "ytId": "4wFul2YG_i4",
+      "eventId": "e782",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260131 ITZY 있지 - WANNABE @ K-SPARK IN MALAYSIA 2026",
+      "channel": "Dear. My Blue",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13941",
+      "ytId": "cm1GS9J21VM",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260213 TUNNEL VISION in SEOUL: WANNABE - CHAERYEONG 채령 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13942",
+      "ytId": "vdd5MXagBaY",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY 3RD WORLD TOUR in SEOUL 〈TUNNEL VISION〉 Kiss & Tell",
+      "channel": "불갸리스",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13943",
+      "ytId": "6MUluSe_apk",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260213 TUNNEL VISION in SEOUL: Walk - CHAERYEONG 채령 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-17",
+      "thumbPos": "12% 35%"
+    },
+    {
+      "id": "v13944",
+      "ytId": "ex4CEWr4txs",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[#COTPD직캠] 260213 있지 채령 직캠 \"LOCO + Dance Break\" (ITZY Chaeryeong Fancam) @ 3rd World Tour in Seoul",
+      "channel": "Chaery On Top",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13945",
+      "ytId": "jXerHTsE96k",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260213 서울 콘서트 있지 유나  'Wild Wild West' 직캠 ITZY YUNA FANCAM",
+      "channel": "Pulse🩷",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13946",
+      "ytId": "1AyBHjszFvY",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260213-14 ITZY RYUJIN 'DYT' fancam 있지 류진 직캠 @TUNNEL VISION in SEOUL",
+      "channel": "loveRYU",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13947",
+      "ytId": "6x5IQYG7ipM",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60p] 260213 ITZY Chaeryeong 'Undefined' (ITZY Chaeryeong Solo fancam) @ITZY TUNNEL VISION ",
+      "channel": "WonnieCam",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "44% 35%"
+    },
+    {
+      "id": "v13948",
+      "ytId": "p0DVQG7TDTg",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260213 TUNNEL VISION in SEOUL: THAT'S A NO NO - YUNA 유나 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13949",
+      "ytId": "LX-N2WLA-ig",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s23",
+          "t": 0
+        },
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY - Supernatural, NOCTRUNE, Imaginary Friend [TUNNEL VISION in Seoul day1]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13950",
+      "ytId": "Rasc645nsqU",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 ITZY \"Undefined\" live Fancam 4k || Chaeryeong from itzy fancam The 3rd WORLD TOUR",
+      "channel": "Blackpink_4queenss",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13951",
+      "ytId": "sbkII-ai7fw",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        },
+        {
+          "songId": "g7s21",
+          "t": 0
+        },
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY - Walk, Kiss&Tell,  WANNABE [TUNNEL VISION in Seoul day1]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13952",
+      "ytId": "TyvVVaGBFqk",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260213 TUNNEL VISION in SEOUL: Kiss & Tell - CHAERYEONG 채령 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "44% 35%"
+    },
+    {
+      "id": "v13953",
+      "ytId": "SoO0Vsp4vio",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s22",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY 3RD WORLD TOUR in SEOUL 〈TUNNEL VISION〉 Sorry Not Sorry",
+      "channel": "불갸리스",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13954",
+      "ytId": "qQH2QdtVCzw",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 【4K】THE 3rd WORLD TOUR TUNNEL VISION ITZY CHAERYEONG FOCUS THAT'S A NO NO",
+      "channel": "wine",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13955",
+      "ytId": "jtOliDlagyY",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s19",
+          "t": 0
+        },
+        {
+          "songId": "g7s3",
+          "t": 0
+        },
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY - Tunnel Vision,  DYT, Girls Will Be Girls [TUNNEL VISION in Seoul day1]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13956",
+      "ytId": "rv5yOc-UuWQ",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s22",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY The 3rd WORLD TOUR TUNNEL VISION #itzy #yuna #있지 #유나 Sorry Not Sorry 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13957",
+      "ytId": "cyqjCSTSaJc",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY The 3rd WORLD TOUR TUNNEL VISION #itzy #yuna #있지 #유나 THAT’S A NO NO",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13958",
+      "ytId": "6fVFPCc0eQA",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s24",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260213 TUNNEL VISION in SEOUL: In My Pocket - YEJI 예지 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13959",
+      "ytId": "Vu7CWcNOJ_Y",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        },
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY YEJI 있지 예지 \"Kiss&Tell,WANNABE\" 콘서트 CAM | ITZY The 3rd WORLD TOURTUNNEL VISION",
+      "channel": "Wappi 와삐",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13960",
+      "ytId": "Fwu1sSXp-hI",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s17",
+          "t": 0
+        },
+        {
+          "songId": "g7s11",
+          "t": 0
+        },
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY - Wild Wild West,  In the Morning,  THAT’S a NO NO [TUNNEL VISION in Seoul day1]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13961",
+      "ytId": "Qjs5vHQmHss",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY The 3rd WORLD TOUR TUNNEL VISION #itzy #yuna #있지 #유나 Kiss & Tell 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13962",
+      "ytId": "YNbv0OwzdOc",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 채령 CHAERYEONG 있지 ITZY 'Undefined' 4K 60P 직캠 @ITZY THE 3rd WORLD TOURTUNNEL VISION",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13963",
+      "ytId": "9xCzSiHeCS0",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s24",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 예지 YEJI 있지 ITZY 'In My Pocket' 4K 60P 직캠 @ITZY THE 3rd WORLD TOURTUNNEL VISION by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13964",
+      "ytId": "IPLlwE71Dus",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260213 TUNNEL VISION in SEOUL: LOCO - YUNA 유나 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13965",
+      "ytId": "MFZ0PHChpic",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260213-15 ITZY 리아 직캠 TUNNEL VISION IN SEOUL - THAT'S A NO NO (LIA Fancam)",
+      "channel": "𝒍𝒄.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13966",
+      "ytId": "x-mV0UypIoA",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        },
+        {
+          "songId": "g7s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260213 YEJI fancam Walk & Kiss&Tell Full #있지 #예지 #YEJI #ITZY",
+      "channel": "Heavenly Heaven",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13967",
+      "ytId": "1cmEe-kc83o",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260213 TUNNEL VISION WORLD TOUR IN SEOUL DAY1 IMAGINARY FRIEND FANCAM#LIA #리아 #ITZY #있지",
+      "channel": "BS0721",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13968",
+      "ytId": "u8TOA8n4Ddk",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260213 TUNNEL VISION in SEOUL: Not Shy - CHAERYEONG 채령 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-21",
+      "thumbPos": "68% 35%"
+    },
+    {
+      "id": "v13969",
+      "ytId": "d7VXeesRHI0",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260213 TUNNEL VISION in SEOUL: GOLD - YUNA 유나 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13970",
+      "ytId": "tJW-WuY7CJ0",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 ITZY Ryujin 'Imaginary Friend' 4K Fancam 있지 류진 | @ ITZY TNVS in Seoul D1",
+      "channel": "iamfine2",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "92% 35%"
+    },
+    {
+      "id": "v13971",
+      "ytId": "jycxOCqK3dU",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY YEJI 있지 예지 \"THAT'S A NO NO\" 콘서트 CAM | ITZY The 3rd WORLD TOURTUNNEL VISION ",
+      "channel": "Wappi 와삐",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13972",
+      "ytId": "bZKWFzP7FpU",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 260213 있지 류진 직캠 ‘LOOK’ (ITZY RYUJIN FanCam) | @ITZY 3RD WORLD TOUR in SEOUL",
+      "channel": "zhan",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13973",
+      "ytId": "XXs4r2OLOMg",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s23",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260213 TUNNEL VISION in SEOUL: Supernatural - YUNA 유나 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13974",
+      "ytId": "--F4i49FGJ0",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY RYUJIN Focus \"마.피.아. in the morning\" | 3RD WORLD TOUR TUNNEL VISION in Seoul Day1",
+      "channel": "иvв",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13975",
+      "ytId": "gREbEP8g3RQ",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY RYUJIN \"LOOK \"| 3RD WORLD TOUR TUNNEL VISION in Seoul Day1",
+      "channel": "иvв",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-15"
+    },
+    {
+      "id": "v13976",
+      "ytId": "Fl1x-1aZhWg",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213/15 ITZY Ryujin '마.피.아. In the morning' 4K Fancam 있지 류진 | @ ITZY TNVS in Seoul",
+      "channel": "iamfine2",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "77% 35%"
+    },
+    {
+      "id": "v13977",
+      "ytId": "kbMRJk0GANo",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260213 TUNNEL VISION in SEOUL: Look - RYUJIN 류진 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-14"
+    },
+    {
+      "id": "v13978",
+      "ytId": "eCv8ziT9ELQ",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 【4K】ITZY 3rd WORLD TOUR TUNNEL VISION YUNA SOLO〈Tangerine〉",
+      "channel": "나나 오빠 🍦",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13979",
+      "ytId": "-TO2UtE7CVo",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "260213 ITZY(있지) 류진 'Kiss & Tell' 4K 세로 직캠",
+      "channel": "여신류진",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13980",
+      "ytId": "WQMGH13thqs",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]260213-260215 ITZY RYUJIN LOOK Fancam 있지 류진 직캠 TUNNEL VISION SEOUL 3Days Mix",
+      "channel": "Ryuwontknow🍬",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13981",
+      "ytId": "EmHPCijYm3Y",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260213-14 ITZY 있지 \"THAT’S A NO NO\" | 3RD WORLD TOUR TUNNEL VISION in Seoul Day2",
+      "channel": "иvв",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13982",
+      "ytId": "jGVyhYGTmjQ",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s9",
+          "t": 0
+        },
+        {
+          "songId": "g7s7",
+          "t": 0
+        },
+        {
+          "songId": "g7s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260213 TUNNEL VISION in SEOUL: SNEAKERS + CAKE + DALLA DALLA - YUNA 유나 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13983",
+      "ytId": "dQfgTMQD0ic",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260213 서울 콘서트 있지 유나 'LOCO' 직캠 ITZY YUNA FANCAM",
+      "channel": "Pulse🩷",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "6% 35%"
+    },
+    {
+      "id": "v13984",
+      "ytId": "9G6BBycIGEQ",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260213 있지 예지 직캠 'Not Shy' (ITZY YEJI FanCam) @3RD WORLD TOUR in SEOUL",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13985",
+      "ytId": "6PG_zYCfGF4",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260213-15 ITZY RYUJIN 류진 LOOK (RYUJIN SOLO) FANCAM 직캠 TUNNEL VISION IN SEOUL",
+      "channel": "BetonRyu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13986",
+      "ytId": "u_k-bFAMrt0",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[#COTPD직캠] 260213 있지 리아 직캠 4K \"Wild Wild West\" (ITZY Lia Fancam) @ The 3rd World Tour",
+      "channel": "Chaery On Top Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13987",
+      "ytId": "b3jFhF71GT8",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 류진 RYUJIN 있지 ITZY 'Look' 4K 60P 직캠 @ITZY THE 3rd WORLD TOURTUNNEL VISION by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13988",
+      "ytId": "UyP8N9Y0iUs",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60p] 260213 ITZY Yuna 'Tangerine' (ITZY Yuna Solo fancam) @ITZY TUNNEL VISION ",
+      "channel": "WonnieCam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13989",
+      "ytId": "FzuP48w4Fck",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260213 있지 유나 직캠 'Girls Will Be Girls' (ITZY YUNA FanCam) @3RD WORLD TOUR in SEOUL",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13990",
+      "ytId": "nxJYB0FS3XY",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 유나 YUNA 있지 ITZY 'Tangerine' 4K 60P 직캠 @ITZY THE 3rd WORLD TOURTUNNEL VISION by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13991",
+      "ytId": "U0yr__2oCec",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s22",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 ITZY Ryujin 'Sorry Not Sorry'  4K Fancam 있지 류진 | @ ITZY TNVS in Seoul D1",
+      "channel": "iamfine2",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "16% 35%"
+    },
+    {
+      "id": "v13992",
+      "ytId": "YkiJ8484iAk",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213-260215 [4K] ITZY TUNNEL VISION  ‘Undefined’ CHAERYEONG FANCAM 채령 직캠",
+      "channel": "Snow_lcr",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13993",
+      "ytId": "-2I4XzlqVCQ",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 있지 ITZY 채령 CHAERYEONG - Undefined TUNNEL VISION in Seoul WORLD TOURT 4k",
+      "channel": "보자BOJA",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13994",
+      "ytId": "_xzOki6p1Q4",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s24",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 POCKET -YEJI FOCUS 직캠 [4K] 있지 예지 ITZY FANCAM@ITZY 3RD WORLD TOUR [TUNNEL VISION] in SEOUL",
+      "channel": "Austrose_Panda526",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13995",
+      "ytId": "dK0fCXzU_5c",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s23",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260213 서울 콘서트 있지 유나 'Supernatural’직캠 ITZY YUNA FANCAM",
+      "channel": "Pulse🩷",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-23"
+    },
+    {
+      "id": "v13996",
+      "ytId": "APqsF9xFrEg",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s23",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260213-15 ITZY 리아 직캠 TUNNEL VISION IN SEOUL - Supernatural (LIA Fancam)",
+      "channel": "𝒍𝒄.",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "44% 35%"
+    },
+    {
+      "id": "v13997",
+      "ytId": "zkmbBh2KIes",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k]ITZY - “That’s A NO NO”(YEJI FANCAM) ITZY 3RD WORLD TOUR in SEOUL{TUNNEL VISION) 260213",
+      "channel": "Lun12",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "34% 35%"
+    },
+    {
+      "id": "v13998",
+      "ytId": "7OW9Igl4ztU",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260213 TUNNEL VISION in SEOUL: Undefined - CHAERYEONG 채령 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13999",
+      "ytId": "YddqFutX0wA",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 있지(ITZY) 채령 Fan Cam - undefined(4K) @ ITZY The 3rd WORLD TOUR",
+      "channel": "Cloud blue",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14000",
+      "ytId": "O_Ncttdbd60",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260213 서울 콘서트 있지 유나 ’Tangerine‘직캠 ITZY YUNA FANCAM",
+      "channel": "Pulse🩷",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14001",
+      "ytId": "do3LJcfxQUQ",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260213 TUNNEL VISION in SEOUL: Tangerine - YUNA 유나 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14002",
+      "ytId": "gu9CNLEioMg",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 있지(ITZY) 채령 Fan Cam - Girls Will Be Girls (4K) @ ITZY The 3rd WORLD TOUR",
+      "channel": "Cloud blue",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14003",
+      "ytId": "W--onVkgzmI",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s24",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 있지 ITZY 예지 YEJI  - In My Pocket TUNNEL VISION in Seoul WORLD TOURT 4k",
+      "channel": "보자BOJA",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "41% 35%"
+    },
+    {
+      "id": "v14004",
+      "ytId": "7tGDvc5vRxI",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[#COTPD직캠] 260213 있지 예지 직캠 4K \"Intro + TUNNEL VISION\" (ITZY Yeji Fancam) @ The 3rd World Tour",
+      "channel": "Chaery On Top Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14005",
+      "ytId": "lzE0wFUgKnw",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260213 TUNNEL VISION in SEOUL: FIVE - YUNA 유나 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14006",
+      "ytId": "pf-de1Tpsrw",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s37",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260213 TUNNEL VISION in SEOUL: 8-BIT HEART - YUNA 유나 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14007",
+      "ytId": "4rU_gOavDbg",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260213 있지 류진 직캠 \"Girls Will Be Girls\" @ ITZY 3RD WORLD TOUR \"TUNNEL VISION\" in SEOUL",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14008",
+      "ytId": "yFS3VkFmHYc",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY The 3rd WORLD TOUR TUNNEL VISION #itzy #yuna #있지 #유나 WANNABE 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14009",
+      "ytId": "VE-_GJxqnOQ",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY The 3rd WORLD TOUR TUNNEL VISION #itzy #yuna #있지 #유나 Girls Will Be Girls 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14010",
+      "ytId": "M5AD6Bi9IrM",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260213 ITZY The 3rd WORLD TOUR TUNNEL VISION #itzy #yuna #있지 #유나 Walk 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14011",
+      "ytId": "eiIlFkiUVJc",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 있지(ITZY) 유나 Fan Cam - Tangerine (4K) @ ITZY The 3rd WORLD TOUR",
+      "channel": "Cloud blue",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14012",
+      "ytId": "k3OUX6bXcq0",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260213 【4K】THE 3rd WORLD TOUR TUNNEL VISION ITZY CHAERYEONG FOCUS Undefined",
+      "channel": "wine",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14013",
+      "ytId": "_MXs2fjrdjs",
+      "eventId": "e783",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60p] 260213 ITZY Ryujin 'Look' (ITZY Ryujin Solo fancam) @ITZY TUNNEL VISION ",
+      "channel": "WonnieCam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14014",
+      "ytId": "nV6teijR1kk",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214-15 ITZY RYUJIN 류진 LOCO FANCAM 직캠 TUNNEL VISION IN SEOUL",
+      "channel": "BetonRyu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14015",
+      "ytId": "U4NGc-_I43U",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214-15 ITZY RYUJIN 류진 WILD WILD WEST FANCAM 직캠 TUNNEL VISION IN SEOUL",
+      "channel": "BetonRyu",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "42% 35%"
+    },
+    {
+      "id": "v14016",
+      "ytId": "WlE4CseP-JI",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214 ITZY - THAT'S A NO NO (풀캠)  @ TUNNELVISION in SEOUL",
+      "channel": "공화춘간짬뽕",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14017",
+      "ytId": "OVLylAqEGA4",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214 있지 콘서트 ITZY 'Imaginary Friend' ITZY 3RD WORLD TOUR TUNNEL VISION in Seoul",
+      "channel": "LT9TRPY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14018",
+      "ytId": "cCRFyyYiA54",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260214 있지 류진 직캠 'Imaginary Friend' (ITZY RYUJIN FanCam) @3RD WORLD TOUR in SEOUL",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14019",
+      "ytId": "in3ZHBFe4pI",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214 Imaginary Friend @ ITZY 'Tunnel Vision' in Seoul",
+      "channel": "보라",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14020",
+      "ytId": "mkNWSRQTvbM",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214 ITZY - Wild Wild West (예지 직캠) @ TUNNELVISION in SEOUL",
+      "channel": "공화춘간짬뽕",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14021",
+      "ytId": "XqvJggbEgz8",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260214 있지(ITZY) - 유나 Imaginary Friend 4K 직캠 [TUNNEL VISION]",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14022",
+      "ytId": "cgNNy48U7SQ",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s23",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214 Ryujin - Supernatural ITZY Tunnul Vision 3rd world tour in Seoul Day 2",
+      "channel": "berjast",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14023",
+      "ytId": "DqqOHZqqSzQ",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214 ITZY 있지 \"Kiss & Tell\" | 3RD WORLD TOUR TUNNEL VISION in Seoul Day2",
+      "channel": "иvв",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14024",
+      "ytId": "IU_UwQCx6Ao",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260214 ITZY - Imaginary Friend | ITZY The 3rd WORLD TOUR 서울 콘서트 | #있지",
+      "channel": "SeohaLin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14025",
+      "ytId": "kOh4ZXB5AVI",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260214 ITZY 류진 Kiss & Tell 직캠 4K60p",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "43% 35%"
+    },
+    {
+      "id": "v14026",
+      "ytId": "LHQakoRYeYk",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260214 ITZY 류진 WANNABE 직캠 4K60p",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14027",
+      "ytId": "iExNANLhdhk",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260214 ITZY 채령 Imaginary Friend 직캠 4K60p",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "38% 35%"
+    },
+    {
+      "id": "v14028",
+      "ytId": "1cqK2O-AjGM",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260214 Ryujin ITZY ''Kiss & Tell'' Fancam",
+      "channel": "Z O O M",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14029",
+      "ytId": "uTduasepr7M",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260214 ITZY “THAT'S A NO NO\" | 3RD WORLD TOUR TNVS SEOUL DAY2 ",
+      "channel": "블루",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14030",
+      "ytId": "VM4PoQ-POrI",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214 ITZY YUNA THAT'S A NO NO 직캠 있지 유나 fancam @ ITZY 3RD WORLD TOUR TUNNEL VISION in SEOUL",
+      "channel": "𝙨𝙨",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14031",
+      "ytId": "MDDFmgOu6DU",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s22",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260214 있지(ITZY) - 유나 Sorry Not Sorry 4K 직캠 [TUNNEL VISION]",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14032",
+      "ytId": "QN6anllyi5M",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s17",
+          "t": 0
+        },
+        {
+          "songId": "g7s11",
+          "t": 0
+        },
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260214 ITZY - Wild Wild West, In the Morning, THAT’S A NO NO [TUNNEL VISION in Seoul day2]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14033",
+      "ytId": "URnQxnRNWtg",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260214 있지(ITZY) - 유나 Kiss & Tell 4K 직캠 [TUNNEL VISION]",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "10% 35%"
+    },
+    {
+      "id": "v14034",
+      "ytId": "nRLFEMNcw3Y",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260214 잇지 ITZY 류진 RYUJIN - WANNABE  TUNNEL VISION in Seoul WORLD TOUR 4k",
+      "channel": "보자BOJA",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14035",
+      "ytId": "rjSicIYRit4",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214 ITZY CHAERYEONG \"Undefined\" | 3RD WORLD TOUR TUNNEL VISION in Seoul Day2",
+      "channel": "иvв",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14036",
+      "ytId": "YKgzo_hsOrA",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260214 있지(ITZY) - 유나 Walk 4K 직캠 [TUNNEL VISION]",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14037",
+      "ytId": "_LtymtuoTXA",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s23",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260214 있지(ITZY) - 유나 Supernatural + Nocturne 4K 직캠 [TUNNEL VISION]",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14038",
+      "ytId": "S4vtDL2RJNk",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s23",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[#COTPD직캠] 260214 있지 채령 직캠 4K \"Supernatural\" (ITZY Chaeryeong Fancam) @ The 3rd World Tour",
+      "channel": "Chaery On Top Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14039",
+      "ytId": "5HTGUa-gw4Y",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s19",
+          "t": 0
+        },
+        {
+          "songId": "g7s3",
+          "t": 0
+        },
+        {
+          "songId": "g7s23",
+          "t": 0
+        },
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260214 itzy yuna 있지 유나 TUNNEL VISION+DYT+Girls Will Be Girls+Supernatural+Nocturne+Imaginary Friend",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14040",
+      "ytId": "f3Ma2PDxulM",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214 ITZY Ryujin 류진 - 'WANNABE' Fancam | ITZY TUNNEL VISION in SEOUL",
+      "channel": "ian",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-26"
+    },
+    {
+      "id": "v14041",
+      "ytId": "GDqtKiLb4lo",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k]ITZY - “That’s A NO NO” ITZY 3RD WORLD TOUR in SEOUL{TUNNEL VISION｝260214",
+      "channel": "Lun12",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14042",
+      "ytId": "i2p6CqZBsxg",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260214 ITZY 예지 Girls Will Be Girls 직캠 4K60p",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14043",
+      "ytId": "3bC5MJBzG5Q",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260214 ITZY 류진 Walk 직캠 4K60p",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14044",
+      "ytId": "4-4Jse4CQiM",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214-15 ITZY RYUJIN 류진 THAT'S A NONO FANCAM 직캠 TUNNEL VISION IN SEOUL",
+      "channel": "BetonRyu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14045",
+      "ytId": "utSiwpG_XjE",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s24",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260214 ITZY - Pocket (Yeji solo) [TUNNEL VISION in Seoul day2]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14046",
+      "ytId": "7OutU-KsdoM",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260214 Imaginary Friend 있지 ITZY | ITZY 3RD WORLD TOUR 〈TUNNEL VISION〉 in SEOUL Day 2",
+      "channel": "저장",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14047",
+      "ytId": "nLExBILzDuo",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k]ITZY - \"Walk\" ITZY 3RD WORLD TOUR in SEOUL{TUNNEL VISION) 260214",
+      "channel": "Lun12",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14048",
+      "ytId": "YWp5qSbmRnw",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s21",
+          "t": 0
+        },
+        {
+          "songId": "g7s16",
+          "t": 0
+        },
+        {
+          "songId": "g7s13",
+          "t": 0
+        },
+        {
+          "songId": "g7s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260214 itzy yuna 있지 유나 'Walk+Kiss & Tell+WANNABE+Tangerine' 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14049",
+      "ytId": "n2AQv2W_t5Y",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260214 ITZY 채령 Undefined 직캠 4K60p",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "42% 35%"
+    },
+    {
+      "id": "v14050",
+      "ytId": "4YlXLs3N0ys",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214 ITZY RYUJIN 'LOOK' fancam 있지 류진 솔로무대 직캠 @TUNNEL VISION in SEOUL",
+      "channel": "loveRYU",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "26% 35%"
+    },
+    {
+      "id": "v14051",
+      "ytId": "4QIG6UhdmAs",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s22",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214-15 ITZY RYUJIN 류진 SORRY NOT SORRY FANCAM 직캠 TUNNEL VISION IN SEOUL",
+      "channel": "BetonRyu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14052",
+      "ytId": "nQ5EYD-7pHs",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "260214 ITZY(있지) 류진 'Imaginary Friend' 4K 세로 직캠",
+      "channel": "여신류진",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14053",
+      "ytId": "5y383_O4cxY",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214 ITZY YUNA Tangerine 직캠 있지 유나 솔로 solo fancam @ ITZY 3RD WORLD TOUR TUNNEL VISION in SEOUL",
+      "channel": "𝙨𝙨",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14054",
+      "ytId": "KSSz1J36H_M",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 260214 있지 류진 직캠 ‘LOOK’ (ITZY RYUJIN FanCam) | @ITZY 3RD WORLD TOUR in SEOUL",
+      "channel": "zhan",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "30% 35%"
+    },
+    {
+      "id": "v14055",
+      "ytId": "qJg3sUo2Abk",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260214 ITZY 류진 Look 직캠 4K60p",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "32% 35%"
+    },
+    {
+      "id": "v14056",
+      "ytId": "Gn6LAN8S5pI",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214 ITZY Ryujin 류진 - 'Look' Fancam | ITZY TUNNEL VISION in SEOUL",
+      "channel": "ian",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14057",
+      "ytId": "7JDwkxFmVx8",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260214 ITZY - Undefined (Chaeryeong solo) [TUNNEL VISION in Seoul day2]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14058",
+      "ytId": "gsccz5z_M0U",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214 TUNNEL VISION in SEOUL ITZY Ryujin 'THAT'S A NO NO' Focus Fancam 있지 류진 직캠",
+      "channel": "MidzyMouse",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14059",
+      "ytId": "BFXbe2Qs1Ko",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260214 있지(ITZY) - 유나 WANNABE 4K 직캠 [TUNNEL VISION]",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14060",
+      "ytId": "WYx8msnqSBo",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s22",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260214 ITZY 류진 Sorry Not Sorry 직캠 4K60p",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14061",
+      "ytId": "b2gTJcGN1fs",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260214 ITZY YUNA 'Walk' 직캠 있지 유나 fancam @ ITZY 3RD WORLD TOUR TUNNEL VISION in SEOUL",
+      "channel": "𝙨𝙨",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14062",
+      "ytId": "QBoTkojZOdM",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s4",
+          "t": 0
+        },
+        {
+          "songId": "g7s17",
+          "t": 0
+        },
+        {
+          "songId": "g7s11",
+          "t": 0
+        },
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY(있지)  GOLD & Wild Wild West & MAFIA In the morning & That's a no no 3RD WORLD TOUR 260215",
+      "channel": "lovefades",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14063",
+      "ytId": "2HJHp3r2FIE",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260215 ITZY - Wild Wild West (예지 직캠) @ TUNNELVISION in SEOUL",
+      "channel": "공화춘간짬뽕",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14064",
+      "ytId": "LQgmxInAGEY",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K 직캠] 260215 있지(ITZY) 유나(YUNA) WANNABE 직캠(FANCAM) ITZY 3RD WORLD TOUR TUNNEL VISION",
+      "channel": "NPD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14065",
+      "ytId": "XgXjIC1K-rg",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260215 ITZY - THAT'S A NO NO (풀캠) @ TUNNELVISION in SEOUL",
+      "channel": "공화춘간짬뽕",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14066",
+      "ytId": "XOP_0uDLOCg",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260215 ITZY - THAT’S A NO NO [TUNNEL VISION in Seoul day3]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14067",
+      "ytId": "c7HZZV8sFMg",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY(있지)  2nd ENCORE | That's a no no 3RD WORLD TOUR 260215",
+      "channel": "lovefades",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14068",
+      "ytId": "ulu2678yiDk",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260215 ITZY 채령 - Undefined @ TUNNELVISION in SEOUL",
+      "channel": "공화춘간짬뽕",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14069",
+      "ytId": "oJ5Rv4_joJ4",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "(Encore) THAT'S A NO NO (채령 focus) @ 260215 ITZY 〈TUNNEL VISION〉 in SEOUL",
+      "channel": "Chaery Coke",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14070",
+      "ytId": "5D7E4zgvXkg",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260215 ITZY - THAT’S A NO NO (2nd encore) [TUNNEL VISION in Seoul day3]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14071",
+      "ytId": "faliKt2VcMA",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260215【4K】ITZY 3rd WORLD TOUR TUNNEL VISION YUNA SOLO 〈LOCO〉",
+      "channel": "나나 오빠 🍦",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14072",
+      "ytId": "WaIy84Il3Xc",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260215 ITZY 유나 - Tangerine @ TUNNELVISION in SEOUL",
+      "channel": "공화춘간짬뽕",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14073",
+      "ytId": "vVW9QJ8GDco",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K 직캠] 260215 있지(ITZY) 리아(LIA) Not Shy 직캠(FANCAM) ITZY 3RD WORLD TOUR TUNNEL VISION",
+      "channel": "NPD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14074",
+      "ytId": "lRYqUL3xHVY",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s4",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k]ITZY - \"Gold\" ITZY 3RD WORLD TOUR in SEOUL{TUNNEL VISION) 260215",
+      "channel": "Lun12",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14075",
+      "ytId": "BP-I3PMjovs",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260215이지 유나 _ WALK ITZY YUNA focus FAN CAM @ ITZY 3RD WORLD TOUR \"TUNNEL VISION\"in SEOUL",
+      "channel": "sceneRB",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "70% 35%"
+    },
+    {
+      "id": "v14076",
+      "ytId": "D2OSOdxBfBU",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 260215 Wild Wild West 류진 직캠 Ryujin focus - ITZY 3RD WORLD TOUR〈TUNNEL VISION〉 in SEOUL 막공",
+      "channel": "BB.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14077",
+      "ytId": "eI4xDHhwhrM",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260215 ITZY RYUJIN 'THAT'S A NO NO (Encore)' fancam 있지 류진 직캠 @TUNNEL VISION in SEOUL",
+      "channel": "loveRYU",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v14078",
+      "ytId": "eCjQX8qZe7k",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 260215 류진 'LOOK'  솔로 무대 Ryujin solo fancam - ITZY 3RD WORLD TOUR〈TUNNEL VISION〉in SEOUL 막공",
+      "channel": "BB.",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "86% 35%"
+    },
+    {
+      "id": "v14079",
+      "ytId": "cocJ5aQtpUc",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260215 있지 유나 _ TANGERINE ITZY YUNA focus FAN CAM @  ITZY 3RD WORLD TOUR “TUNNEL VISION”in SEOUL",
+      "channel": "sceneRB",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14080",
+      "ytId": "pClLwpqvcPw",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260215 ITZY RYUJIN 'LOOK' fancam 있지 류진 솔로무대 직캠 @TUNNEL VISION in SEOUL",
+      "channel": "loveRYU",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "25% 35%"
+    },
+    {
+      "id": "v14081",
+      "ytId": "RP5kxQmNraw",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 260215 있지 류진 직캠 ‘LOOK’ (ITZY RYUJIN FanCam) | @ITZY 3RD WORLD TOUR in SEOUL",
+      "channel": "zhan",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "61% 35%"
+    },
+    {
+      "id": "v14082",
+      "ytId": "OqgMSdWepjI",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260215 채령 직캠 UNDEFINED : ITZY TUNNEL VISION WORLD TOUR in SEOUL",
+      "channel": "답",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14083",
+      "ytId": "r-MCpnHVIWg",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260215이지 유나 _ That's a no no ITZY YUNA focus FAN CAM @ ITZY 3RD TOUR “TUNNEL VISION” in SEOUL",
+      "channel": "sceneRB",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14084",
+      "ytId": "DJmYzWGA5ls",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K 직캠] 260215 있지(ITZY) 채령(CHAERYEONG) Undefined 직캠(FANCAM) ITZY 3RD WORLD TOUR TUNNEL VISION",
+      "channel": "NPD",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "0% 35%"
+    },
+    {
+      "id": "v14085",
+      "ytId": "jEWw8zP2b94",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s24",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60]260215 YEJI - In My Pocket  있지 예지  직캠 @TUNNEL VISION in SEOUL",
+      "channel": "PPlankton225",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14086",
+      "ytId": "U9H-H7oVv7s",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s24",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260215 있지 예지 ITZY YEJI 'In My Pocket' | ITZY 3RD WORLD TOUR TUNNEL VISION",
+      "channel": "Spotted",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14087",
+      "ytId": "QdtkFX3nPiA",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s24",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260215 ITZY Yeji 'Pocket' @The 3rd World Tour 'TUNNEL VISION' in Seoul -day 3",
+      "channel": "KillShot",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14088",
+      "ytId": "lSAf4qR4JOU",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260215【4K】ITZY 3rd WORLD TOUR TUNNEL VISION YUNA FOUCE 〈DYT〉",
+      "channel": "나나 오빠 🍦",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14089",
+      "ytId": "Qy5K5qm7nyg",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "YUNA(유나)— ‘‘Tangerine’’🍊 | 260215 (있지)ITZY's 3rd world tour ‘‘Tunnel Vision” Live",
+      "channel": "Queenka",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "60% 35%"
+    },
+    {
+      "id": "v14090",
+      "ytId": "iouhSL7WA6c",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "［4K］260215 ITZY Ryujin 'LOOK' fancam",
+      "channel": "l709",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "81% 35%"
+    },
+    {
+      "id": "v14091",
+      "ytId": "hq9K-YNvLUE",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260215 TUNNEL VISION in SEOUL ITZY Ryujin 'LOOK' Focus Fancam 있지 류진 직캠",
+      "channel": "MidzyMouse",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14092",
+      "ytId": "wmz9aMdAEfs",
+      "eventId": "e786",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 260314 있지 류진 직캠 ‘Imaginary Friend’ (ITZY RYUJIN FanCam) | @K-WONDER CONCERT in TAIPEI",
+      "channel": "zhan",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14093",
+      "ytId": "RRUO_8ojtfg",
+      "eventId": "e786",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260314 ITZY 있지 \"WANNABE\" | K-WONDER CONCERT in Taipei",
+      "channel": "иvв",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14094",
+      "ytId": "yQ20Q50nx2U",
+      "eventId": "e786",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 260314 있지 류진 직캠 ‘WANNABE’ (ITZY RYUJIN FanCam) | @K-WONDER CONCERT in TAIPEI",
+      "channel": "zhan",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14095",
+      "ytId": "Q7ClPbgJmnY",
+      "eventId": "e786",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260314 있지 채령 직캠 \"WANNABE\" @K-WONDER CONCERT IN TAIPEI",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14096",
+      "ytId": "R-DhqAEWw1M",
+      "eventId": "e786",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260314 있지 류진 직캠 ITZY 'WANNEBE' RYUJIN FANCAM @K-Wonder in Taipei",
+      "channel": "LT9TRPY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14097",
+      "ytId": "OPiFiiyMCxU",
+      "eventId": "e786",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260314 ITZY | K-WONDER CONCERT in Taipei",
+      "channel": "九九九九",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14098",
+      "ytId": "DqV5EF0DYY0",
+      "eventId": "e786",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] ITZY - Kiss & Tell 260314 K-WONDER CONCERT IN TAIPEI",
+      "channel": "Lun12",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14099",
+      "ytId": "9kWOahHrjHM",
+      "eventId": "e786",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260314 ITZY 'NOT SHY' K-WONDER CONCERT IN TAIPEI",
+      "channel": "yongandrichmoo",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14100",
+      "ytId": "THJdaTgBYTg",
+      "eventId": "e786",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] ITZY - Imaginary Friend 260314 K-WONDER CONCERT IN TAIPEI",
+      "channel": "Lun12",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14101",
+      "ytId": "52gmfgnm2l8",
+      "eventId": "e786",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260314 ITZY 'WANNABE' K-WONDER CONCERT IN TAIPEI",
+      "channel": "yongandrichmoo",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14102",
+      "ytId": "7szVrnPp_wI",
+      "eventId": "e786",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260314 K-WONDER in TAIPEI ITZY Ryujin 'Wannabe' Focus Fancam 있지 류진 직캠",
+      "channel": "MidzyMouse",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14103",
+      "ytId": "fsxmaAvU6bg",
+      "eventId": "e786",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "［4K ] 260314 ITZY RYUJIN 류진  FANCAM - IMAGINARY FRIEND｜ K-WONDER IN TAIPEI",
+      "channel": "𝓘𝓻𝓲𝓭𝓮𝓼𝓬𝓮𝓷𝓽",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14104",
+      "ytId": "fUJDbt5H7eg",
+      "eventId": "e786",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "［4K ] 260314 ITZY RYUJIN 류진  FANCAM - WANNABE｜ K-WONDER IN TAIPEI",
+      "channel": "𝓘𝓻𝓲𝓭𝓮𝓼𝓬𝓮𝓷𝓽",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14105",
+      "ytId": "LL3yonBuQK0",
+      "eventId": "e787",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "'SPECIAL STAGE' ITZY - THAT'S A NO NO #엠카운트다운 EP.920 | Mnet 260319 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14106",
+      "ytId": "KHnBM0WLrwg",
+      "eventId": "e787",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K AI Upscale] 260319 ITZY - THAT'S A NO NO @ Mnet M! Countdown E920",
+      "channel": "Taehyeong Kim [K-POP Video]",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14107",
+      "ytId": "KTGBX2orBY8",
+      "eventId": "e788",
+      "songs": [
+        {
+          "songId": "g7s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "'최초 공개' 유나 (ITZY) - Ice Cream #엠카운트다운 EP.921 | Mnet 260326 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "70% 35%"
+    },
+    {
+      "id": "v14108",
+      "ytId": "qKVQy-VE8ok",
+      "eventId": "e789",
+      "songs": [
+        {
+          "songId": "g7s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260401 ITZY YUNA 'Ice Cream' 직캠 있지 유나 fancam @ LGTWINS 잠실야구장",
+      "channel": "𝙨𝙨",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14109",
+      "ytId": "J0-9k5X4Hfc",
+      "eventId": "e790",
+      "songs": [
+        {
+          "songId": "g7s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "있지 유나 ' Ice Cream' 미니팬미팅 직캠 260404@상암",
+      "channel": "TopSeed",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "42% 35%"
+    },
+    {
+      "id": "v14110",
+      "ytId": "1B6pHXXtPsw",
+      "eventId": "e791",
+      "songs": [
+        {
+          "songId": "g7s19",
+          "t": 0
+        },
+        {
+          "songId": "g7s3",
+          "t": 0
+        },
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260417 YEJI FOCUS - Tunnel Vision + DYT + Girls Will Be Girls @ITZY WORLD TOUR",
+      "channel": "Loaf cat ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14111",
+      "ytId": "Fu4Sb_8SnRY",
+      "eventId": "e791",
+      "songs": [
+        {
+          "songId": "g7s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260417 Yuna ITZY ''Tangerine'' Fancam",
+      "channel": "FancamKpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14112",
+      "ytId": "IW8vxfZzyLw",
+      "eventId": "e791",
+      "songs": [
+        {
+          "songId": "g7s21",
+          "t": 0
+        },
+        {
+          "songId": "g7s16",
+          "t": 0
+        },
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260417 YEJI FOCUS - Walk + Kiss & Tell + WANNABE @ ITZY WORLD TOUR TUNNEL VISION ",
+      "channel": "Loaf cat ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14113",
+      "ytId": "_mEFzm6Ma1Y",
+      "eventId": "e791",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        },
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "ITZY RYUJIN (있지 류진) - 'Not Shy + LOCO' | 260417 ITZY WORLD TOUR TUNNEL VISION in Melbourne fancam",
+      "channel": "JSophie-aHT",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14114",
+      "ytId": "1LddRv9l4pM",
+      "eventId": "e791",
+      "songs": [
+        {
+          "songId": "g7s24",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260417 Yeji ITZY ''Pocket'' Fancam",
+      "channel": "FancamIdol",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14115",
+      "ytId": "L2d-2tl4LLU",
+      "eventId": "e791",
+      "songs": [
+        {
+          "songId": "g7s24",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "ITZY YEJI SOLO 'IN MY POCKET' 💛🤍 [MELBOURNE 🇭🇲 260417] ",
+      "channel": "vvt_il ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14116",
+      "ytId": "2eUKSdK6Gbw",
+      "eventId": "e791",
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260417 있지 ITZY - 'Imaginary Friend' TUNNEL VISION in MELBOURNE",
+      "channel": "paulo",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14117",
+      "ytId": "7jg9e_QnEDM",
+      "eventId": "e791",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260417 Chaeryeong ITZY ''Undefined'' Fancam",
+      "channel": "KameraKpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14118",
+      "ytId": "0cunGPHMCa8",
+      "eventId": "e791",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "ITZY RYUJIN (있지 류진) - 'That's a No No' | 260417 ITZY WORLD TOUR TUNNEL VISION in Melbourne fancam",
+      "channel": "JSophie-aHT",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14119",
+      "ytId": "JzKIJXuslNo",
+      "eventId": "e792",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260419 있지 류진 직캠 'WANNABE' (ITZY RYUJIN FanCam) @TUNNEL VISION World Tour in Sydney",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "8% 35%"
+    },
+    {
+      "id": "v14120",
+      "ytId": "mtmdf74aItA",
+      "eventId": "e792",
+      "songs": [
+        {
+          "songId": "g7s17",
+          "t": 0
+        },
+        {
+          "songId": "g7s11",
+          "t": 0
+        },
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260419 - Itzy Sydney Concert - Wild Wild West, In the Morning, THAT'S A NO NO",
+      "channel": "randomscrub",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14121",
+      "ytId": "b9mxGviu24U",
+      "eventId": "e792",
+      "songs": [
+        {
+          "songId": "g7s19",
+          "t": 0
+        },
+        {
+          "songId": "g7s3",
+          "t": 0
+        },
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260419 - Itzy Sydney Concert - Tunnel Vision, DYT, Girls will be Girls",
+      "channel": "randomscrub",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14122",
+      "ytId": "FIn9Km6h6qM",
+      "eventId": "e792",
+      "songs": [
+        {
+          "songId": "g7s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260419 있지 예지 직캠 'GOLD' (ITZY YEJI FanCam) @TUNNEL VISION World Tour in Sydney",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14123",
+      "ytId": "ylYoYrmX5O0",
+      "eventId": "e792",
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "ITZY RYUJIN IMAGINARY FRIEND FANCAM📽 [SYDNEY 🇭🇲 260419] ",
+      "channel": "vvt_il ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14124",
+      "ytId": "WHU7L_Kl-Is",
+      "eventId": "e792",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY (있지) - Undefined - Chaeryeong Solo | Sydney 260419 | TUNNEL VISION World Tour | 4K60 | 직캠",
+      "channel": "Nixie_AU",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14125",
+      "ytId": "BV1r39Fj_CQ",
+      "eventId": "e793",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[엠카 유치원 특집] ITZY (있지) - THAT'S A NO NO #엠카운트다운 EP.927 | Mnet 260507 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14126",
+      "ytId": "6hxpjOOUVUM",
+      "eventId": "e794",
+      "songs": [
+        {
+          "songId": "g7s24",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260510 YEJI SOLO STAGE \" POCKET \" AT ITZY 3RD WORLD TOUR JAPAN  DAY 2",
+      "channel": "yezyizhere ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14127",
+      "ytId": "y1luF8vgwvs",
+      "eventId": "e794",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        },
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260510 ITZY - Not Shy,  LOCO [TNVS in Tokyo day 2]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14128",
+      "ytId": "VoqlnNH0Fhc",
+      "eventId": "e794",
+      "songs": [
+        {
+          "songId": "g7s37",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260510 ITZY - 8-BIT HEART, Voltage, Blah Blah Blah, Ringo, ALGORHYTHM [TNVS in Tokyo day 2]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14129",
+      "ytId": "Cz24RtEXdlE",
+      "eventId": "e794",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "THAT’S A NO NO - ITZY (260510 TUNNEL VISION 일본 콘서트 2일차)",
+      "channel": "forFIVE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14130",
+      "ytId": "4E6PqjSZlhk",
+      "eventId": "e794",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260510 ITZY - THAT’S A NO NO [TNVS in Tokyo day 2]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14131",
+      "ytId": "tesS-wEHeKU",
+      "eventId": "e794",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260510 ITZY - WANNABE [TNVS in Tokyo day 2]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14132",
+      "ytId": "U7fLFePvGCE",
+      "eventId": "e794",
+      "songs": [
+        {
+          "songId": "g7s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260510 ITZY - FIVE, encore ment (Ryujin with tail) [TNVS in Tokyo day 2]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14133",
+      "ytId": "6nEzia6myq0",
+      "eventId": "e794",
+      "songs": [
+        {
+          "songId": "g7s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ROCK & ROLL - ITZY (260510 TUNNEL VISION 일본 콘서트 2일차)",
+      "channel": "forFIVE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14134",
+      "ytId": "8tn-6G10_FI",
+      "eventId": "e794",
+      "songs": [
+        {
+          "songId": "g7s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260510 ITZY - Rock & Roll (Japanese) [TNVS in Tokyo day 2]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14135",
+      "ytId": "8PclG0umyt8",
+      "eventId": "e795",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260519 ITZY YUNA 'THAT'S A NO NO' 직캠 있지 유나 fancam @ KBS 열린음악회",
+      "channel": "𝙨𝙨",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14136",
+      "ytId": "YJvn47ZKASo",
+      "eventId": "e795",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260519 ITZY 리아 직캠 KBS 열린음악회 - Motto (LIA Fancam)",
+      "channel": "𝒍𝒄.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14137",
+      "ytId": "aqFLXIj4AzQ",
+      "eventId": "e795",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260519 ITZY YUNA 'Motto' 직캠 있지 유나 fancam @ KBS 열린음악회",
+      "channel": "𝙨𝙨",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14138",
+      "ytId": "7G6mK0fJZdQ",
+      "eventId": "e796",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260519 ITZY YUNA 'Motto' 있지 유나 더 시즌즈 성시경의 고막남친 직캠 fancam",
+      "channel": "𝙨𝙨",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14139",
+      "ytId": "OBDAIb6R8JE",
+      "eventId": "e796",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[#COTPD직캠] 260519 있지 채령 직캠 4K \"Motto\" (ITZY Chaeryeong Fancam) @ KBS 더 시즌즈 성시경의 고막남친",
+      "channel": "Chaery On Top Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14140",
+      "ytId": "GurCqi7Rtys",
+      "eventId": "e797",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "'최초 공개' ITZY - Motto #엠카운트다운 EP.929 | Mnet 260521 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14141",
+      "ytId": "R_ZixCDbNOk",
+      "eventId": "e798",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 있지 리아 직캠 'Motto' (ITZY LIA Fancam) @뮤직뱅크(Music Bank) 260522",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "36% 35%"
+    },
+    {
+      "id": "v14142",
+      "ytId": "zqJCQy8UGtQ",
+      "eventId": "e798",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 있지 채령 직캠 'Motto' (ITZY CHAERYEONG Fancam) @뮤직뱅크(Music Bank) 260522",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14143",
+      "ytId": "i1WY_e1rV_k",
+      "eventId": "e798",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 있지 예지 직캠 'Motto' (ITZY YEJI Fancam) @뮤직뱅크(Music Bank) 260522",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14144",
+      "ytId": "2DQCfZuH8_w",
+      "eventId": "e798",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 있지 류진 직캠 'Motto' (ITZY RYUJIN Fancam) @뮤직뱅크(Music Bank) 260522",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14145",
+      "ytId": "p8oRj9qUfcY",
+      "eventId": "e798",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 있지 예지 'Motto' (ITZY YEJI Facecam) @뮤직뱅크(Music Bank) 260522",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14146",
+      "ytId": "AxyXluo-eWE",
+      "eventId": "e798",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 있지 류진 'Motto' (ITZY RYUJIN Facecam) @뮤직뱅크(Music Bank) 260522",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "69% 35%"
+    },
+    {
+      "id": "v14147",
+      "ytId": "rHYb6tqnNbE",
+      "eventId": "e798",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 있지 리아 'Motto' (ITZY LIA Facecam) @뮤직뱅크(Music Bank) 260522",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "79% 35%"
+    },
+    {
+      "id": "v14148",
+      "ytId": "CsClGRP-8u8",
+      "eventId": "e798",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 있지 유나 직캠 'Motto' (ITZY YUNA Fancam) @뮤직뱅크(Music Bank) 260522",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "60% 35%"
+    },
+    {
+      "id": "v14149",
+      "ytId": "gkKymGe1kyg",
+      "eventId": "e798",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 있지 유나 'Motto' (ITZY YUNA Facecam) @뮤직뱅크(Music Bank) 260522",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "57% 35%"
+    },
+    {
+      "id": "v14150",
+      "ytId": "thhV0eKxkS4",
+      "eventId": "e798",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 있지 채령 'Motto' (ITZY CHAERYEONG Facecam) @뮤직뱅크(Music Bank) 260522",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14151",
+      "ytId": "2kYZwel_BFo",
+      "eventId": "e798",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[COMEBACK] ITZY イッジ 있지 - Motto [Music Bank] | KBS WORLD TV 260522",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14152",
+      "ytId": "UmKAfuy2BtA",
+      "eventId": "e798",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Motto - ITZY (있지) [뮤직뱅크/Music Bank] | KBS 260522 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14153",
+      "ytId": "aNFZOetEeIM",
+      "eventId": "e798",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Motto - ITZY 있지 [Music Bank] | KBS WORLD TV 260522",
+      "channel": "KBS WORLD Latino",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14154",
+      "ytId": "e08lQDc8bCw",
+      "eventId": "e798",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[1HR LOOP🔥] ITZY - Motto [Music Bank] | KBS WORLD TV 260522",
+      "channel": "KBS WORLD Latino",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14155",
+      "ytId": "UunI_PIREGc",
+      "eventId": "e799",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "있지 류진 직캠 'Motto' (ITZY RYUJIN FanCam) @더 시즌즈-성시경의 고막남친 260522",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14156",
+      "ytId": "9i8yYQXFc9A",
+      "eventId": "e799",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "있지 유나 직캠 'Motto' (ITZY YUNA FanCam) @더 시즌즈-성시경의 고막남친 260522",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14157",
+      "ytId": "S7NPVW9Lxnc",
+      "eventId": "e799",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "ITZY(있지) - THAT’S A NO NO [더 시즌즈-성시경의 고막남친] | KBS 260522 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14158",
+      "ytId": "V3Aekc0lUEw",
+      "eventId": "e799",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "세로"
+      ],
+      "title": "[세로] ITZY(있지) - Motto [더 시즌즈-성시경의 고막남친] | KBS 260522 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14159",
+      "ytId": "spw6l6w8Ee8",
+      "eventId": "e799",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "ITZY(있지) - Motto [더 시즌즈-성시경의 고막남친] | KBS 260522 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14160",
+      "ytId": "jGxP6sPaWYA",
+      "eventId": "e799",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[가로] ITZY(있지) - Motto [더 시즌즈-성시경의 고막남친] | KBS 260522 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14161",
+      "ytId": "WIWkWVAUFbw",
+      "eventId": "e799",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "＂나에게 주는 긍정적이 에너지＂2막이 시작된 ITZY(있지)의 모토 [더 시즌즈-성시경의 고막남친] | KBS 260522 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14162",
+      "ytId": "sLdokI2ujbI",
+      "eventId": "e800",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠8K] ITZY (있지) – Motto FullCam | 쇼! 음악중심 | MBC260523",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14163",
+      "ytId": "yXR4MUvATE0",
+      "eventId": "e800",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] ITZY CHAERYEONG (있지 채령) – Motto FanCam | 쇼! 음악중심 | MBC260523",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "87% 35%"
+    },
+    {
+      "id": "v14164",
+      "ytId": "UkXWB8UMulM",
+      "eventId": "e800",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] ITZY YEJI (있지 예지) – Motto FanCam | 쇼! 음악중심 | MBC260523",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "76% 35%"
+    },
+    {
+      "id": "v14165",
+      "ytId": "5T9MoPfHls4",
+      "eventId": "e800",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] ITZY YUNA (있지 유나) – Motto | 쇼! 음악중심 | MBC260523",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "72% 35%"
+    },
+    {
+      "id": "v14166",
+      "ytId": "Y5ykX7saDtc",
+      "eventId": "e800",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] ITZY YEJI (있지 예지) – Motto | 쇼! 음악중심 | MBC260523",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "70% 35%"
+    },
+    {
+      "id": "v14167",
+      "ytId": "5JsfVgFuLKc",
+      "eventId": "e800",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] ITZY RYUJIN (있지 류진) – Motto FanCam | 쇼! 음악중심 | MBC260523",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "78% 35%"
+    },
+    {
+      "id": "v14168",
+      "ytId": "erBGMy7ly34",
+      "eventId": "e800",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] ITZY YUNA (있지 유나) – Motto FanCam | 쇼! 음악중심 | MBC260523",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "74% 35%"
+    },
+    {
+      "id": "v14169",
+      "ytId": "KcB1SiG5jio",
+      "eventId": "e800",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] ITZY LIA (있지 리아) – Motto FanCam | 쇼! 음악중심 | MBC260523",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "80% 35%"
+    },
+    {
+      "id": "v14170",
+      "ytId": "dqarNiz0DlQ",
+      "eventId": "e800",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "ITZY (있지) - Motto | Show! MusicCore | MBC260523방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14171",
+      "ytId": "fNXpY7RxGVM",
+      "eventId": "e801",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 있지 'Motto' (ITZY FullCam) @SBS Inkigayo 260524",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14172",
+      "ytId": "9yH-6-SPYVY",
+      "eventId": "e801",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 채령 'Motto' (ITZY CHAERYEONG FanCam) @SBS Inkigayo 260524",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "64% 35%"
+    },
+    {
+      "id": "v14173",
+      "ytId": "Jgi4adlgsm8",
+      "eventId": "e801",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 있지 'Motto' 단독샷 별도녹화│ITZY ONE TAKE STAGE│@SBS Inkigayo 260524",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14174",
+      "ytId": "tO33gckdshM",
+      "eventId": "e801",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 류진 'Motto' (ITZY RYUJIN FanCam) @SBS Inkigayo 260524",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "61% 35%"
+    },
+    {
+      "id": "v14175",
+      "ytId": "a5ZsHlJlWBs",
+      "eventId": "e801",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 예지 'Motto' (ITZY YEJI FanCam) @SBS Inkigayo 260524",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "60% 35%"
+    },
+    {
+      "id": "v14176",
+      "ytId": "P7RFR2_rRQo",
+      "eventId": "e801",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 유나 'Motto' (ITZY YUNA FanCam) @SBS Inkigayo 260524",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "59% 35%"
+    },
+    {
+      "id": "v14177",
+      "ytId": "E3kNyKhQijc",
+      "eventId": "e801",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 리아 'Motto' (ITZY LIA FanCam) @SBS Inkigayo 260524",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "65% 35%"
+    },
+    {
+      "id": "v14178",
+      "ytId": "8I5JfteUWBo",
+      "eventId": "e802",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "쿨룩 LIVE ▷ ITZY(있지) 'Motto' / [폴킴의 가요광장] I KBS 260525 방송",
+      "channel": "KBS CoolFM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14179",
+      "ytId": "HBMEv0mjsK8",
+      "eventId": "e803",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "ITZY - Motto #엠카운트다운 EP.930 | Mnet 260528 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14180",
+      "ytId": "e8HXGxXwqhk",
+      "eventId": "e804",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "ITZY イッジ 있지 - Motto [Music Bank] | KBS WORLD TV 260529",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14181",
+      "ytId": "h6qR_mr8gCU",
+      "eventId": "e804",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Motto - ITZY 있지 [Music Bank] | KBS WORLD TV 260529",
+      "channel": "KBS WORLD Latino",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14182",
+      "ytId": "F2Uefp6U0l8",
+      "eventId": "e804",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Motto - ITZY (있지) [뮤직뱅크/Music Bank] | KBS 260529 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14183",
+      "ytId": "mA4D3iwqmPs",
+      "eventId": "e804",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[1HR LOOP🔥] ITZY - Motto [Music Bank] | KBS WORLD TV 260529",
+      "channel": "KBS WORLD Latino",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14184",
+      "ytId": "ejocwOGQG1U",
+      "eventId": "e805",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠] ITZY (있지) – Motto FullCam | 쇼! 음악중심 | MBC260530",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14185",
+      "ytId": "9UboFKq5Bck",
+      "eventId": "e805",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[#COTPD직캠] 있지 유나 직캠 4K \"Motto\" (ITZY Yuna Fancam) @ Show! MusicCore | MBC260530방송",
+      "channel": "Chaery On Top Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14186",
+      "ytId": "gUONPqVcDSw",
+      "eventId": "e805",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[#COTPD직캠] 있지 채령 직캠 4K \"Motto\" (ITZY Chaeryeong Fancam) @ Show! MusicCore | MBC260530방송",
+      "channel": "Chaery On Top Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14187",
+      "ytId": "rfh_KJohPXg",
+      "eventId": "e805",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "ITZY (있지) - Motto | Show! MusicCore | MBC260530방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14188",
+      "ytId": "ybyjV5-cbjc",
+      "eventId": "e806",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260530 ITZY (있지) YUNA (유나) MOTTO FanCam 직캠 Mini Fan Meeting",
+      "channel": "NeodT.V. Kpop Footage",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14189",
+      "ytId": "TmREUPD_wjU",
+      "eventId": "e806",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1",
+        "g7m3",
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260530 있지 모토 음중 미팬 Itzy motto mini fanmeeting 캣즈 레드레드 #ITZY #CHAERYEONG #YEJI #RYUJIN #redred #레드레드",
+      "channel": "리프",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14190",
+      "ytId": "XcVyZDdA6qg",
+      "eventId": "e806",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "있지 예지 (ITZY Yeji) Motto MINI FAN MEETING Full Ver. (260530) @미니팬미팅 Fancam By 천둥",
+      "channel": "천둥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14191",
+      "ytId": "Lx2X0J6at5o",
+      "eventId": "e806",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260530 ITZY (있지) YUNA (유나) MOTTO FanCam 직캠 Mini Fan Meeting",
+      "channel": "NeodT.V. Kpop Footage",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14192",
+      "ytId": "u-NON9Bt-sg",
+      "eventId": "e806",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[LIVE] 있지 음악중심 미니팬미팅 스트리밍 ITZY SHOW! MUSIC CORE Mini Fan Meeting Streaming | 260530",
+      "channel": "쇼미더스타 SMTS",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14193",
+      "ytId": "gXZ6m5Cc-tE",
+      "eventId": "e806",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "있지 음악중심 미니팬미팅 ITZY MUSIC CORE Mini Fan Meeting | 260530",
+      "channel": "쇼미더스타 SMTS",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14194",
+      "ytId": "f6ISBWFgkOo",
+      "eventId": "e807",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 있지 'Motto' (ITZY FullCam) @SBS Inkigayo 260531",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14195",
+      "ytId": "LVHa7wv-zAQ",
+      "eventId": "e807",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 채령 'Motto' (ITZY CHAERYEONG FaceCam) @SBS Inkigayo 260531",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "69% 35%"
+    },
+    {
+      "id": "v14196",
+      "ytId": "7xVLe2eb1Xk",
+      "eventId": "e807",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 예지 'Motto' (ITZY YEJI FaceCam) @SBS Inkigayo 260531",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "69% 35%"
+    },
+    {
+      "id": "v14197",
+      "ytId": "okXvT0lzW3E",
+      "eventId": "e807",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[#COTPD직캠] 있지 채령 직캠 4K \"Motto\" (ITZY Chaeryeong Fancam) @ SBS Inkigayo 260531",
+      "channel": "Chaery On Top Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14198",
+      "ytId": "hLOQmz4jrDU",
+      "eventId": "e807",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[#COTPD직캠] 있지 예지 직캠 4K \"Motto\" (ITZY Yeji Fancam) @ SBS Inkigayo 260531",
+      "channel": "Chaery On Top Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14199",
+      "ytId": "TFWYtSyXZ8E",
+      "eventId": "e807",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[#COTPD직캠] 있지 리아 직캠 4K \"Motto\" (ITZY Lia Fancam) @ SBS Inkigayo 260531",
+      "channel": "Chaery On Top Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14200",
+      "ytId": "JM6yKtGbEN8",
+      "eventId": "e807",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260531 ITZY (있지) - Motto | SBS INKIGAYO 인기가요 방송 [1080P]",
+      "channel": "K-EVER KPOP LIVE [VOD]",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14201",
+      "ytId": "dN9OAnTc4NM",
+      "eventId": "e808",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY - THAT'S A NO NO (The Seasons) | KBS WORLD TV 260605",
+      "channel": "KBS WORLD Latino",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14202",
+      "ytId": "i5Vy6hSkAl8",
+      "eventId": "e808",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "ITZY - THAT'S A NO NO [The Seasons S9 EP.9] | KBS WORLD TV 260605",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14203",
+      "ytId": "tQB-lgtE0q4",
+      "eventId": "e808",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY - Motto (The Seasons) | KBS WORLD TV 260605",
+      "channel": "KBS WORLD Latino",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14204",
+      "ytId": "moOZeUzjyLQ",
+      "eventId": "e808",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "ITZY - Motto [The Seasons S9 EP.9] | KBS WORLD TV 260605",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14205",
+      "ytId": "qhgzwUUTCSU",
+      "eventId": "e809",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[스페셜 선공개] 근접촬영원본 ITZY - Motto ⭐260614 방송예정⭐  [열린 음악회/Open Concert] | KBS 방송",
+      "channel": "KBS 레전드 케이팝",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14206",
+      "ytId": "nCNkHTGbnu0",
+      "eventId": "e809",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY - THATS A NO NO [열린 음악회/Open Concert] | KBS 260614 방송",
+      "channel": "KBS 레전드 케이팝",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14207",
+      "ytId": "dWUdPdpCC0c",
+      "eventId": "e809",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY - Motto [열린 음악회/Open Concert] | KBS 260614 방송",
+      "channel": "KBS 레전드 케이팝",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14208",
+      "ytId": "xIBYf7Ty48c",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s21",
+          "t": 0
+        },
+        {
+          "songId": "g7s16",
+          "t": 0
+        },
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY《Walk + Kiss & Tell + WANNABE》｜260620 ITZY 3RD WORLD TOUR〈TUNNEL VISION〉IN HONG KONG",
+      "channel": "時間人 Timecoder",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14209",
+      "ytId": "8HFOwykl2sw",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s22",
+          "t": 0
+        },
+        {
+          "songId": "g7s12",
+          "t": 0
+        },
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY《Sorry Not Sorry + NOT SHY + LOCO》｜260620 ITZY 3RD WORLD TOUR〈TUNNEL VISION〉IN HONG KONG",
+      "channel": "時間人 Timecoder",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14210",
+      "ytId": "I0dRT6Gg0m0",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s9",
+          "t": 0
+        },
+        {
+          "songId": "g7s7",
+          "t": 0
+        },
+        {
+          "songId": "g7s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "'Encore - SNEAKERS + CAKE + DALLA DALLA' | 260620 | ITZY | TUNNEL VISION | Hong Kong",
+      "channel": "CKJ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14211",
+      "ytId": "psr5BZiP5RI",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY《Motto》｜260620 ITZY 3RD WORLD TOUR〈TUNNEL VISION〉IN HONG KONG",
+      "channel": "時間人 Timecoder",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14212",
+      "ytId": "OVVc9jO4nUg",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s4",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY《GOLD》｜260620 ITZY 3RD WORLD TOUR〈TUNNEL VISION〉IN HONG KONG",
+      "channel": "時間人 Timecoder",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14213",
+      "ytId": "Xbkrp9nHciE",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K)ITZY YUNA FanCam (있지 유나 직캠) – THAT'S A NO NO  3RD WORLD TOUR in HONGKONG 260620(popt forming)",
+      "channel": "kpopmylife1314",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14214",
+      "ytId": "oed5LUFGBko",
+      "eventId": "e810",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "【Full Concert】ITZY 3RD WORLD TOUR 'TUNNEL VISION' in HONG KONG, 260620",
+      "channel": "manuelvi",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14215",
+      "ytId": "96ZoyqS_PVs",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s19",
+          "t": 0
+        },
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "'DYT + Girls Will Be Girls | 260620 | ITZY | TUNNEL VISION  | Hong Kong",
+      "channel": "CKJ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14216",
+      "ytId": "mShQACxb2vg",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260620 【4K】ITZY 3rd WORLD TOUR HongKong ITZY YUNA FOCUS〈MOTTO〉 ",
+      "channel": "나나 오빠 🍦",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14217",
+      "ytId": "3N_tKiw0BRI",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "'Special Encore - THAT’S A NO NO' | 260620 | ITZY | TUNNEL VISION | Hong Kong",
+      "channel": "CKJ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14218",
+      "ytId": "f-v3UWbArno",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY《THAT'S A NO NO》｜260620 ITZY 3RD WORLD TOUR〈TUNNEL VISION〉IN HONG KONG",
+      "channel": "時間人 Timecoder",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14219",
+      "ytId": "o4UeFstuPuw",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260620 ITZY - \"UNDEFINED\" 4K CHAERYEONG FOCUS FANCAM!  #itzy #kpop",
+      "channel": "Fancam Lab",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "57% 35%"
+    },
+    {
+      "id": "v14220",
+      "ytId": "sgLG3SmcH68",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s24",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "ITZY 예지 (YEJI) 《Pocket》｜260620 ITZY 3RD WORLD TOUR〈TUNNEL VISION〉IN HONG KONG",
+      "channel": "時間人 Timecoder",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14221",
+      "ytId": "EZCYBU6ccbs",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260620 【4K】ITZY 3rd WORLD TOUR HongKong ITZY YUNA SOLO〈Tangerine〉 ",
+      "channel": "나나 오빠 🍦",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14222",
+      "ytId": "yxL0XpRMp8Q",
+      "eventId": "e811",
+      "songs": [
+        {
+          "songId": "g7s24",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260627 ITZY - Pocket (Yeji solo) [TNVS in Kaohsiung Day 1]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14223",
+      "ytId": "LfYxOvhwbMI",
+      "eventId": "e811",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        },
+        {
+          "songId": "g7s21",
+          "t": 0
+        },
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260627 ITZY - Walk, Kiss&Tell, WANNABE [TNVS in Kaohsiung Day 1]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14224",
+      "ytId": "EllDWligHbE",
+      "eventId": "e811",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260627 ITZY 3RD WORLD TOUR〈TUNNEL VISION〉in KAOHSIUNG｜Full Concert",
+      "channel": "Guanxuan Chen",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14225",
+      "ytId": "nXuDKvUDDOE",
+      "eventId": "e811",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        },
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260627 ITZY - Not Shy, LOCO [TNVS in Kaohsiung Day 1]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14226",
+      "ytId": "62fTzimHqos",
+      "eventId": "e811",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260627 ITZY 있지 Chaeryeong 채령 - Motto FANCAM〈TUNNEL VISION〉IN Kaohsiung",
+      "channel": "limj_441",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14227",
+      "ytId": "pMiUoCqGaRw",
+      "eventId": "e811",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260627 ITZY 있지 Chaeryeong 채령 - THAT'S A NO NO FANCAM〈TUNNEL VISION〉IN Kaohsiung",
+      "channel": "limj_441",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14228",
+      "ytId": "0KDJLT7RQlg",
+      "eventId": "e811",
+      "songs": [
+        {
+          "songId": "g7s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 260627 있지 류진 직캠 ‘LOOK’ (ITZY RYUJIN FanCam) | @ITZY 3RD WORLD TOUR in KAOHSIUNG",
+      "channel": "zhan",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14229",
+      "ytId": "eYfHOlEvlPQ",
+      "eventId": "e811",
+      "songs": [
+        {
+          "songId": "g7s19",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k]ITZY - \"DYT\" ITZY 3RD WORLD TOUR in KAOHSIUNG 高雄 {TUNNEL VISION}  260627",
+      "channel": "Lun12",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14230",
+      "ytId": "vOKPBP39jHk",
+      "eventId": "e811",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260627 ITZY 3RD WORLD TOUR [TUNNEL VISION] in KAOHSIUNG - Ryujin Motto Fancam",
+      "channel": "WT",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "24% 35%"
+    },
+    {
+      "id": "v14231",
+      "ytId": "ZjWQUfKz5TU",
+      "eventId": "e811",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260627 ITZY WORLD TOUR〔TUNNEL VISION〕in KAOHSIUNG【FULL CONCERT】 Day 1",
+      "channel": "Canister_L",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14232",
+      "ytId": "bF9tz0tpTrU",
+      "eventId": "e811",
+      "songs": [
+        {
+          "songId": "g7s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260627 ITZY 있지 Chaeryeong 채령 - Undefined FANCAM〈TUNNEL VISION〉IN Kaohsiung",
+      "channel": "limj_441",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14233",
+      "ytId": "NrqnXaGocWg",
+      "eventId": "e811",
+      "songs": [
+        {
+          "songId": "g7s22",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260627 ITZY ‘’Sorry Not Sorry‘’ (Yuna fancam)@ ‘TUNNEL VISION’ in KAOHSIUNG Day1",
+      "channel": "東京アツオ Atsuo",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14234",
+      "ytId": "ceUWle26J9o",
+      "eventId": "e812",
+      "songs": [
+        {
+          "songId": "g7s30",
+          "t": 0
+        },
+        {
+          "songId": "g7s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "리허설"
+      ],
+      "title": "260628 ITZY - Rehearsal (Sooo Lucky, TING TING TING, Sneakers) [TNVS in Kaohsiung Day 2]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14235",
+      "ytId": "aKoo7n_c4No",
+      "eventId": "e812",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260628 ITZY 있지 \"THAT’S A NO NO\" | 3RD WORLD TOUR TUNNEL VISION in Kaohsiung Day2",
+      "channel": "иvв",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14236",
+      "ytId": "IAyZDrD5QS8",
+      "eventId": "e812",
+      "songs": [
+        {
+          "songId": "g7s17",
+          "t": 0
+        },
+        {
+          "songId": "g7s11",
+          "t": 0
+        },
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260628 ITZY - Wild Wild West, Mafia in the Morning, THAT’S A NO NO [TNVS in Kaohsiung Day 2]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14237",
+      "ytId": "eVBMAfJ5AnA",
+      "eventId": "e812",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        },
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260628 ITZY - Not Shy, LOCO [TNVS in Kaohsiung Day 2]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14238",
+      "ytId": "N0VYeuuYYvw",
+      "eventId": "e812",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260628 ITZY 있지 \"Kiss & Tell\" | 3RD WORLD TOUR TUNNEL VISION in Kaohsiung Day2",
+      "channel": "иvв",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14239",
+      "ytId": "A3H6gGjYpSc",
+      "eventId": "e812",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        },
+        {
+          "songId": "g7s21",
+          "t": 0
+        },
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "260628 ITZY - Walk, Kiss&Tell, WANNABE [TNVS in Kaohsiung Day 2]",
+      "channel": "FreshFish for ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14240",
+      "ytId": "d86rzcZaVcc",
+      "eventId": "e812",
+      "songs": [
+        {
+          "songId": "g7s22",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260628 ITZY 3RD WORLD TOUR [TUNNEL VISION] in KAOHSIUNG Day 2 - Ryujin Sorry not Sorry Fancam",
+      "channel": "WT",
       "pin": false,
       "gone": false
     }
