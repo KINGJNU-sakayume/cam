@@ -3809,6 +3809,134 @@
           "release": ""
         }
       ]
+    },
+    {
+      "id": "g8",
+      "name": "베이비몬스터",
+      "en": "BABYMONSTER",
+      "hue": 60,
+      "members": [
+        {
+          "id": "g8m1",
+          "name": "루카",
+          "aliases": [
+            "RUKA",
+            "Ruka",
+            "ルカ"
+          ],
+          "order": 1,
+          "active": true,
+          "color": "#c2553f"
+        },
+        {
+          "id": "g8m2",
+          "name": "파리타",
+          "aliases": [
+            "PHARITA",
+            "Pharita"
+          ],
+          "order": 2,
+          "active": true,
+          "color": "#2f7d6d"
+        },
+        {
+          "id": "g8m3",
+          "name": "아사",
+          "aliases": [
+            "ASA",
+            "Asa",
+            "アサ"
+          ],
+          "order": 3,
+          "active": true,
+          "color": "#3d6fb6"
+        },
+        {
+          "id": "g8m4",
+          "name": "아현",
+          "aliases": [
+            "AHYEON",
+            "Ahyeon"
+          ],
+          "order": 4,
+          "active": true,
+          "color": "#b07f22"
+        },
+        {
+          "id": "g8m5",
+          "name": "라미",
+          "aliases": [
+            "RAMI",
+            "Rami",
+            "HARAM",
+            "Haram",
+            "하람"
+          ],
+          "order": 5,
+          "active": true,
+          "color": "#8a5aa8"
+        },
+        {
+          "id": "g8m6",
+          "name": "로라",
+          "aliases": [
+            "RORA",
+            "Rora"
+          ],
+          "order": 6,
+          "active": true,
+          "color": "#c0567e"
+        },
+        {
+          "id": "g8m7",
+          "name": "치키타",
+          "aliases": [
+            "CHIQUITA",
+            "Chiquita"
+          ],
+          "order": 7,
+          "active": true,
+          "color": "#4f8a3c"
+        }
+      ],
+      "songs": [
+        {
+          "id": "g8s1",
+          "title": "BATTER UP",
+          "aliases": [
+            "배터 업"
+          ],
+          "order": 1,
+          "release": "2023-11-27"
+        },
+        {
+          "id": "g8s2",
+          "title": "SHEESH",
+          "aliases": [
+            "쉬쉬"
+          ],
+          "order": 2,
+          "release": "2024-04-01"
+        },
+        {
+          "id": "g8s3",
+          "title": "FOREVER",
+          "aliases": [
+            "포에버"
+          ],
+          "order": 3,
+          "release": "2024-07-01"
+        },
+        {
+          "id": "g8s4",
+          "title": "CHOOM",
+          "aliases": [
+            "춤"
+          ],
+          "order": 4,
+          "release": "2026-05-04"
+        }
+      ]
     }
   ],
   "events": [
