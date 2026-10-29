@@ -3340,6 +3340,225 @@
           "release": ""
         }
       ]
+    },
+    {
+      "id": "g7",
+      "name": "있지",
+      "en": "ITZY",
+      "hue": 30,
+      "members": [
+        {
+          "id": "g7m1",
+          "name": "예지",
+          "aliases": [
+            "YEJI",
+            "Yeji",
+            "황예지",
+            "HWANG YEJI",
+            "Hwang Yeji"
+          ],
+          "order": 1,
+          "active": true,
+          "color": "#c2553f"
+        },
+        {
+          "id": "g7m2",
+          "name": "리아",
+          "aliases": [
+            "LIA",
+            "Lia",
+            "최지수",
+            "CHOI JISU",
+            "Choi Jisu"
+          ],
+          "order": 2,
+          "active": true,
+          "color": "#2f7d6d"
+        },
+        {
+          "id": "g7m3",
+          "name": "류진",
+          "aliases": [
+            "RYUJIN",
+            "Ryujin",
+            "신류진",
+            "SHIN RYUJIN",
+            "Shin Ryujin"
+          ],
+          "order": 3,
+          "active": true,
+          "color": "#3d6fb6"
+        },
+        {
+          "id": "g7m4",
+          "name": "채령",
+          "aliases": [
+            "CHAERYEONG",
+            "Chaeryeong",
+            "이채령",
+            "LEE CHAERYEONG",
+            "Lee Chaeryeong"
+          ],
+          "order": 4,
+          "active": true,
+          "color": "#b07f22"
+        },
+        {
+          "id": "g7m5",
+          "name": "유나",
+          "aliases": [
+            "YUNA",
+            "Yuna",
+            "신유나",
+            "SHIN YUNA",
+            "Shin Yuna"
+          ],
+          "order": 5,
+          "active": true,
+          "color": "#8a5aa8"
+        }
+      ],
+      "songs": [
+        {
+          "id": "g7s1",
+          "title": "Motto",
+          "aliases": [
+            "모토"
+          ],
+          "order": 1,
+          "release": "2026-05-18"
+        },
+        {
+          "id": "g7s2",
+          "title": "Tunnel Vision",
+          "aliases": [
+            "터널 비전"
+          ],
+          "order": 2,
+          "release": "2025-11-10"
+        },
+        {
+          "id": "g7s3",
+          "title": "Girls Will Be Girls",
+          "aliases": [
+            "걸즈 윌 비 걸즈"
+          ],
+          "order": 3,
+          "release": "2025-06-09"
+        },
+        {
+          "id": "g7s4",
+          "title": "Gold",
+          "aliases": [
+            "골드"
+          ],
+          "order": 4,
+          "release": "2024-10-15"
+        },
+        {
+          "id": "g7s5",
+          "title": "Imaginary Friend",
+          "aliases": [
+            "이매지너리 프렌드"
+          ],
+          "order": 5,
+          "release": "2024-10-15"
+        },
+        {
+          "id": "g7s6",
+          "title": "Untouchable",
+          "aliases": [
+            "언터쳐블"
+          ],
+          "order": 6,
+          "release": "2024-01-08"
+        },
+        {
+          "id": "g7s7",
+          "title": "Cake",
+          "aliases": [
+            "케이크"
+          ],
+          "order": 7,
+          "release": "2023-07-31"
+        },
+        {
+          "id": "g7s8",
+          "title": "Cheshire",
+          "aliases": [
+            "체셔"
+          ],
+          "order": 8,
+          "release": "2022-11-30"
+        },
+        {
+          "id": "g7s9",
+          "title": "Sneakers",
+          "aliases": [
+            "스니커즈"
+          ],
+          "order": 9,
+          "release": "2022-07-15"
+        },
+        {
+          "id": "g7s10",
+          "title": "Loco",
+          "aliases": [
+            "로코"
+          ],
+          "order": 10,
+          "release": "2021-09-24"
+        },
+        {
+          "id": "g7s11",
+          "title": "In the Morning",
+          "aliases": [
+            "마.피.아. In the morning",
+            "마피아 In the morning",
+            "마.피.아.",
+            "마피아"
+          ],
+          "order": 11,
+          "release": "2021-04-30"
+        },
+        {
+          "id": "g7s12",
+          "title": "Not Shy",
+          "aliases": [
+            "낫 샤이"
+          ],
+          "order": 12,
+          "release": "2020-08-17"
+        },
+        {
+          "id": "g7s13",
+          "title": "Wannabe",
+          "aliases": [
+            "워너비"
+          ],
+          "order": 13,
+          "release": "2020-03-09"
+        },
+        {
+          "id": "g7s14",
+          "title": "Icy",
+          "aliases": [
+            "아이씨"
+          ],
+          "order": 14,
+          "release": "2019-07-29"
+        },
+        {
+          "id": "g7s15",
+          "title": "달라달라",
+          "aliases": [
+            "Dalla Dalla",
+            "DALLA DALLA"
+          ],
+          "order": 15,
+          "release": "2019-02-12"
+        }
+      ]
     }
   ],
   "events": [
