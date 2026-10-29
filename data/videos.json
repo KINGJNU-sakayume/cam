@@ -11648,6 +11648,33 @@
         "g4s10"
       ],
       "note": ""
+    },
+    {
+      "id": "e770",
+      "groupId": "g7",
+      "date": "2026-08-08",
+      "show": "팬미팅",
+      "label": "",
+      "setlist": [
+        "g7s13",
+        "g7s1",
+        "g7s8",
+        "g7s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e771",
+      "groupId": "g7",
+      "date": "2026-08-09",
+      "show": "팬미팅",
+      "label": "",
+      "setlist": [
+        "g7s8",
+        "g7s1",
+        "g7s13"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -240016,6 +240043,341 @@
       "gone": false,
       "uploaded": "2026-09-26",
       "thumbPos": "57% 35%"
+    },
+    {
+      "id": "v13761",
+      "ytId": "PZ0NNAlZBZo",
+      "eventId": "e770",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260808 ITZY RYUJIN 'Wannabe' fancam 있지 류진 직캠 @ ITZY 5TH FAN MEETING",
+      "channel": "iamfine2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13762",
+      "ytId": "7ATqGOWqo8s",
+      "eventId": "e770",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260808 ITZY (있지) YUNA (유나 ) MOTTO @ The 5th Fan Meeting “ALL IN, MIDZY”",
+      "channel": "NeodT.V. Kpop Footage",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13763",
+      "ytId": "kFakC5gHF-Q",
+      "eventId": "e770",
+      "songs": [
+        {
+          "songId": "g7s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260808 Fan Meeting ALL IN, MIDZY: Cheshire - CHAERYEONG 채령 FANCAM 직캠",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13764",
+      "ytId": "QbUIDtR9NR4",
+      "eventId": "e770",
+      "songs": [
+        {
+          "songId": "g7s11",
+          "t": 0
+        },
+        {
+          "songId": "g7s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260808 ITZY 리아 직캠 THE 5TH FAN MEETING - 마.피.아. In the morning + Cheshire (LIA Fancam)",
+      "channel": "𝒍𝒄.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13765",
+      "ytId": "LaJhA63FNHQ",
+      "eventId": "e770",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260808 ITZY 있지 팬미팅 ALL IN, MIDZY YUNA 유나 'WANNABE +THAT'S A NO NO' 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13766",
+      "ytId": "jm6Mj-JrTuI",
+      "eventId": "e770",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260808 Fan Meeting ALL IN, MIDZY: WANNABE - CHAERYEONG 채령 FANCAM 직캠",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13767",
+      "ytId": "HstplKRp1VQ",
+      "eventId": "e770",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "260808 있지 ITZY - 유나 WANNABE 세로직캠 @있지 팬미팅",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13768",
+      "ytId": "weY4JAMXFP4",
+      "eventId": "e770",
+      "songs": [
+        {
+          "songId": "g7s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260808 ITZY RYUJIN Fancam 있지 류진 직캠 - ‘Cheshire’ @ The 5th Fan Meeting \"ALL IN, MIDZY\"",
+      "channel": "𝙒𝙞𝙨𝙝.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13769",
+      "ytId": "b4zK149232s",
+      "eventId": "e770",
+      "songs": [
+        {
+          "songId": "g7s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260808 Fan Meeting ALL IN, MIDZY: 마.피.아. In the morning - CHAERYEONG 채령 FANCAM 직캠",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13770",
+      "ytId": "1yI0hw166Bk",
+      "eventId": "e770",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 260808-09 있지 류진 직캠 ‘WANNABE’ (ITZY RYUJIN FanCam) | @ITZY Fan Meeting “ALL IN, MIDZY”",
+      "channel": "zhan",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13771",
+      "ytId": "TpLOTr2c-MU",
+      "eventId": "e770",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260808 류진 Ryujin - Motto ITZY \"ALL IN, MIDZY\" FANMEETING Day 1 FAMCAM",
+      "channel": "berjast",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13772",
+      "ytId": "1XAxgFp_kGU",
+      "eventId": "e770",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ITZY(있지)] 260808 Fan Meeting ALL IN, MIDZY: Motto - CHAERYEONG 채령 FANCAM 직캠",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13773",
+      "ytId": "FRX3x0ksQus",
+      "eventId": "e771",
+      "songs": [
+        {
+          "songId": "g7s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260809 류진 Ryujin - Cheshire ITZY \"ALL IN, MIDZY\" FANMEETING Day 2 FAMCAM",
+      "channel": "berjast",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13774",
+      "ytId": "fTZIxJoMI7s",
+      "eventId": "e771",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260809 ITZY 있지 팬미팅 ALL IN, MIDZY YUNA 유나 'MOTTO + Kiss & Tell' YUNA 유나 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v13775",
+      "ytId": "OXqgp-1Cdpw",
+      "eventId": "e771",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260809 ITZY 있지 팬미팅 ALL IN, MIDZY YUNA 유나 'WANNABE +THAT'S A NO NO' 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
