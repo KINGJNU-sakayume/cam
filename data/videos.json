@@ -12698,6 +12698,83 @@
         "g7s22"
       ],
       "note": ""
+    },
+    {
+      "id": "e813",
+      "groupId": "g8",
+      "date": "2026-05-09",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g8s4"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e814",
+      "groupId": "g8",
+      "date": "2026-05-10",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g8s4"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e815",
+      "groupId": "g8",
+      "date": "2026-05-14",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g8s4"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e816",
+      "groupId": "g8",
+      "date": "2026-05-16",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g8s4"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e817",
+      "groupId": "g8",
+      "date": "2026-05-17",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g8s4"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e818",
+      "groupId": "g8",
+      "date": "2026-08-09",
+      "show": "SBS 가요대전 SUMMER",
+      "label": "",
+      "setlist": [
+        "g8s4"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e819",
+      "groupId": "g8",
+      "date": "2026-08-22",
+      "show": "TIMA 2026",
+      "label": "",
+      "setlist": [
+        "g8s4"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -251589,6 +251666,1189 @@
       "tags": [],
       "title": "260628 ITZY 3RD WORLD TOUR [TUNNEL VISION] in KAOHSIUNG Day 2 - Ryujin Sorry not Sorry Fancam",
       "channel": "WT",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14241",
+      "ytId": "D5g-ksVaB9s",
+      "eventId": "e813",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠8K] BABYMONSTER (베이비몬스터) – 춤 (CHOOM) FullCam | 쇼! 음악중심 | MBC260509",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14242",
+      "ytId": "x5DEHKDQh1g",
+      "eventId": "e813",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] BABYMONSTER RORA (베이비몬스터 로라) – 춤 (CHOOM) FanCam | 쇼! 음악중심 | MBC260509",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14243",
+      "ytId": "2ecKWSS6Kmw",
+      "eventId": "e813",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] BABYMONSTER AHYEON (베이비몬스터 아현) – 춤 (CHOOM) FanCam | 쇼! 음악중심 | MBC260509",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14244",
+      "ytId": "H-ZbNo41ApE",
+      "eventId": "e813",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] BABYMONSTER ASA (베이비몬스터 아사) – 춤 (CHOOM) FanCam | 쇼! 음악중심 | MBC260509",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14245",
+      "ytId": "BgZWvScBt0E",
+      "eventId": "e813",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] BABYMONSTER AHYEON (베이비몬스터 아현) – 춤 (CHOOM) | 쇼! 음악중심 | MBC260509",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14246",
+      "ytId": "Rhpf0d5fxz0",
+      "eventId": "e813",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] BABYMONSTER PHARITA (베이비몬스터 파리타) – 춤 (CHOOM) FanCam | 쇼! 음악중심 | MBC260509",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14247",
+      "ytId": "BLfuuscRNDE",
+      "eventId": "e813",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] BABYMONSTER CHIQUITA (베이비몬스터 치키타) – 춤 (CHOOM) FanCam | 쇼! 음악중심 | MBC260509",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14248",
+      "ytId": "p3QCv9Ubcx0",
+      "eventId": "e813",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] BABYMONSTER RUKA (베이비몬스터 루카) – 춤 (CHOOM) FanCam | 쇼! 음악중심 | MBC260509",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14249",
+      "ytId": "6KTsZvLYoOo",
+      "eventId": "e813",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] BABYMONSTER RUKA (베이비몬스터 루카) – 춤 (CHOOM) | 쇼! 음악중심 | MBC260509",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14250",
+      "ytId": "y36fwiueHEs",
+      "eventId": "e813",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] BABYMONSTER ASA (베이비몬스터 아사) – 춤 (CHOOM) | 쇼! 음악중심 | MBC260509",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14251",
+      "ytId": "x74UhPH1SGE",
+      "eventId": "e814",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 베이비몬스터 '춤' (BABYMONSTER 'CHOOM' FullCam) @SBS Inkigayo 260510",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14252",
+      "ytId": "ZKuC4JSJZ4E",
+      "eventId": "e814",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[Comeback Stage] 260510 BABYMONSTER (베이비몬스터) - CHOOM (춤) | SBS INKIGAYO 인기가요 방송 [1080P]",
+      "channel": "K-EVER KPOP LIVE [VOD]",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14253",
+      "ytId": "G5PURtn5lQ0",
+      "eventId": "e814",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 베이비몬스터 아사 '춤' (BABYMONSTER ASA 'CHOOM' FanCam) @SBS Inkigayo 260510",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14254",
+      "ytId": "APgwVA5_sOE",
+      "eventId": "e814",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 베이비몬스터 아사 '춤' (BABYMONSTER ASA 'CHOOM' FaceCam) @SBS Inkigayo 260510",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14255",
+      "ytId": "n09SHgpLXMc",
+      "eventId": "e814",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 베이비몬스터 로라 '춤' (BABYMONSTER RORA 'CHOOM' FanCam) @SBS Inkigayo 260510",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14256",
+      "ytId": "qTA1AgeZbak",
+      "eventId": "e814",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 베이비몬스터 치키타 '춤' (BABYMONSTER CHIQUITA 'CHOOM' FanCam) @SBS Inkigayo 260510",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14257",
+      "ytId": "arA-W0jWO7o",
+      "eventId": "e814",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 베이비몬스터 치키타 '춤' (BABYMONSTER CHIQUITA 'CHOOM' FaceCam) @SBS Inkigayo 260510",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14258",
+      "ytId": "IPTniPBIteE",
+      "eventId": "e814",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 베이비몬스터 파리타 '춤' (BABYMONSTER PHARITA 'CHOOM' FanCam) @SBS Inkigayo 260510",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14259",
+      "ytId": "OMeeqIge53E",
+      "eventId": "e814",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 베이비몬스터 아현 '춤' (BABYMONSTER AHYEON 'CHOOM' FanCam) @SBS Inkigayo 260510",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14260",
+      "ytId": "sl9uWhptE_8",
+      "eventId": "e814",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 베이비몬스터 루카 '춤' (BABYMONSTER RUKA 'CHOOM' FanCam) @SBS Inkigayo 260510",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14261",
+      "ytId": "yvbK3UFC18M",
+      "eventId": "e814",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 베이비몬스터 아현 '춤' (BABYMONSTER AHYEON 'CHOOM' FaceCam) @SBS Inkigayo 260510",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14262",
+      "ytId": "8JclR06sJzw",
+      "eventId": "e815",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 베이비몬스터 파리타 직캠 4K '춤 (CHOOM)' (BABYMONSTER PHARITA FanCam) | @MCOUNTDOWN_2026.5.14",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14263",
+      "ytId": "WAnkZxK9YI4",
+      "eventId": "e815",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m7"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 베이비몬스터 치키타 직캠 4K '춤 (CHOOM)' (BABYMONSTER CHIQUITA FanCam) | @MCOUNTDOWN_2026.5.14",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14264",
+      "ytId": "Y1RMmsCdAjU",
+      "eventId": "e815",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 베이비몬스터 아사 직캠 4K '춤 (CHOOM)' (BABYMONSTER ASA FanCam) | @MCOUNTDOWN_2026.5.14",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14265",
+      "ytId": "AglYvtnDvYc",
+      "eventId": "e815",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 베이비몬스터 아현 직캠 4K '춤 (CHOOM)' (BABYMONSTER AHYEON FanCam) | @MCOUNTDOWN_2026.5.14",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14266",
+      "ytId": "gG2zFJMnXKE",
+      "eventId": "e815",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 베이비몬스터 로라 직캠 4K '춤 (CHOOM)' (BABYMONSTER RORA FanCam) | @MCOUNTDOWN_2026.5.14",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14267",
+      "ytId": "TmTdFZ4IpCk",
+      "eventId": "e815",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 베이비몬스터 아현 직캠 4K '춤 (CHOOM)' (BABYMONSTER AHYEON FanCam) | @MCOUNTDOWN_2026.5.14",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14268",
+      "ytId": "F088JNg0P9Y",
+      "eventId": "e815",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 베이비몬스터 파리타 직캠 4K '춤 (CHOOM)' (BABYMONSTER PHARITA FanCam) | @MCOUNTDOWN_2026.5.14",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14269",
+      "ytId": "riSydmd7knQ",
+      "eventId": "e815",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 베이비몬스터 로라 직캠 4K '춤 (CHOOM)' (BABYMONSTER RORA FanCam) | @MCOUNTDOWN_2026.5.14",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14270",
+      "ytId": "QrhdSE1J5Kw",
+      "eventId": "e815",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 베이비몬스터 루카 직캠 4K '춤 (CHOOM)' (BABYMONSTER RUKA FanCam) | @MCOUNTDOWN_2026.5.14",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14271",
+      "ytId": "xv4VVnm_ur0",
+      "eventId": "e816",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠8K] BABYMONSTER (베이비몬스터) – 춤 (CHOOM) FullCam | 쇼! 음악중심 | MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14272",
+      "ytId": "Jx1krXmfHbE",
+      "eventId": "e816",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] BABYMONSTER ASA (베이비몬스터 아사) – 춤 (CHOOM) FanCam | 쇼! 음악중심 | MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14273",
+      "ytId": "gWsSOaQJ2d0",
+      "eventId": "e816",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] BABYMONSTER PHARITA (베이비몬스터 파리타) – 춤 (CHOOM) FanCam | 쇼! 음악중심 | MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14274",
+      "ytId": "yvKkAoFUtm4",
+      "eventId": "e816",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] BABYMONSTER RORA (베이비몬스터 로라) – 춤 (CHOOM) FanCam | 쇼! 음악중심 | MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14275",
+      "ytId": "VR2r-VQF1xU",
+      "eventId": "e816",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] BABYMONSTER AHYEON (베이비몬스터 아현) – 춤 (CHOOM) FanCam | 쇼! 음악중심 | MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14276",
+      "ytId": "GMik-BgPv88",
+      "eventId": "e816",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] BABYMONSTER RUKA (베이비몬스터 루카) – 춤 (CHOOM) FanCam | 쇼! 음악중심 | MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14277",
+      "ytId": "llHPjwM1AOw",
+      "eventId": "e816",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] BABYMONSTER CHIQUITA (베이비몬스터 치키타) – 춤 (CHOOM) FanCam | 쇼! 음악중심 | MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14278",
+      "ytId": "33grZlRAmkk",
+      "eventId": "e816",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] BABYMONSTER CHIQUITA (베이비몬스터 치키타) – 춤 (CHOOM) | 쇼! 음악중심 | MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14279",
+      "ytId": "HkYI8ajeBJo",
+      "eventId": "e816",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] BABYMONSTER AHYEON (베이비몬스터 아현) – 춤 (CHOOM) | 쇼! 음악중심 | MBC260516",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14280",
+      "ytId": "bFxf8aRTPs8",
+      "eventId": "e817",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 베이비몬스터 '춤' (BABYMONSTER 'CHOOM' FullCam) @SBS Inkigayo 260517",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14281",
+      "ytId": "MPC2yS7Nnuc",
+      "eventId": "e817",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "베이비몬스터 아사 직캠 'CHOOM' (BABYMONSTER ASA FanCam) @Inkigayo 260517",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14282",
+      "ytId": "RjG4mOFdbI0",
+      "eventId": "e817",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "베이비몬스터 로라 직캠 'CHOOM' (BABYMONSTER RORA FanCam) @Inkigayo 260517",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14283",
+      "ytId": "Nnxzkj0TmG4",
+      "eventId": "e817",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "베이비몬스터 아현 직캠 'CHOOM' (BABYMONSTER AHYEON FanCam) @Inkigayo 260517",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14284",
+      "ytId": "EkxdbMVv6g8",
+      "eventId": "e818",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260809 베이비몬스터 아사 (BABYMONSTER ASA) - 'CHOOM' 직캠 (ASA FOCUS Fancam) | 2026 SBS 가요대전",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14285",
+      "ytId": "Xg7uwHdZpYg",
+      "eventId": "e818",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260809 BABYMONSTER ASA 베이비몬스터 아사 'CHOOM' 직캠 | 2026 SBS 가요대전 SUMMER",
+      "channel": "miracle.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14286",
+      "ytId": "F0r8aNvUsYI",
+      "eventId": "e818",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K16:9] 베이비몬스터 아현 직캠 'CHOOM'  | BABYMONSTER Ahyeon | 2026 SBS 가요대전 SUMMER 260809",
+      "channel": "kpopmylife1314",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14287",
+      "ytId": "57hT_PSKYj4",
+      "eventId": "e818",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260809 SBS 가요대전 SUMMER IN SEOUL CHOOM+SUGAR HONEY ICE TEA 베이비몬스터 루카 직캠 BABYMONSTER RUKA FANCAM",
+      "channel": "Miaooooos",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14288",
+      "ytId": "GXZVLd5BeZ0",
+      "eventId": "e818",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260809 SBS 가요대전 BABYMONSTER PHARITA 4K 「CHOOM」",
+      "channel": "𝗝𝘂𝗻",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14289",
+      "ytId": "jYS2ReUuzm8",
+      "eventId": "e818",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260809 썸머 가요대전 베이비몬스터 춤 (CHOOM) #아현 ",
+      "channel": "콘서트 직촬",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14290",
+      "ytId": "hrCROnntqeI",
+      "eventId": "e818",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260809 BABYMONSTER 아사 ‘Choom’ FOCUS CAM（SBS 가요대전）",
+      "channel": "유",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14291",
+      "ytId": "hyIYYXzXeYg",
+      "eventId": "e818",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260809 BABYMONSTER SBS GAYO SUMMER PHARITA CHOOM FANCAM ",
+      "channel": "Jenniyff",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14292",
+      "ytId": "fqpLjuL5kqM",
+      "eventId": "e818",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260809 SBS GAYODAEJEON SUMMER ' CHOOM ' BABYMONSTER CHIQUITA 4K FANCAM 치키타 직캠",
+      "channel": "lololouis_h",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14293",
+      "ytId": "o0cZlCUZVeM",
+      "eventId": "e819",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "베이비몬스터 아현 '춤 (CHOOM) + DRIP' 직캠 (BABYMONSTER AHYEON FanCam) | 260822 TIMA",
+      "channel": "라미",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v14294",
+      "ytId": "iv9pWbIU-kY",
+      "eventId": "e819",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260822 TIMA ' CHOOM ' 베이비몬스터 루카 직캠 BABYMONSTER RUKA FANCAM",
+      "channel": "Miaooooos",
       "pin": false,
       "gone": false
     }
