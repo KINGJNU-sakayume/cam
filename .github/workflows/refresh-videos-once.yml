@@ -12,7 +12,7 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v5
         with:
@@ -33,8 +33,8 @@ jobs:
           writeFileSync('.cache/harvest-state.json', JSON.stringify(state,null,2));
           console.log('Starting checkpoints',state);
           JS
-      - name: Discover recent videos for all groups
-        run: node scripts/harvest.mjs --since-last --deep --jobs 4
+      - name: Discover recent videos for all groups (bounded search)
+        run: node scripts/harvest.mjs --since-last --jobs 6
       - name: Add unambiguous new videos with existing archive parser
         run: |
           node --input-type=module <<'JS'
@@ -43,8 +43,8 @@ jobs:
           console.log('Unambiguous candidate videos:',d.videos.length);
           JS
           if node --input-type=module -e "import{readFileSync}from'node:fs';process.exit(JSON.parse(readFileSync('.cache/harvest/auto.json')).videos.length?0:1)"; then
-            node scripts/archive.mjs add .cache/harvest/auto.json --create-songs --dry-run > .cache/harvest/dry-run.txt
-            node scripts/archive.mjs add .cache/harvest/auto.json --create-songs
+            node scripts/archive.mjs add .cache/harvest/auto.json --create-songs --skip-invalid --no-fetch --dry-run > .cache/harvest/dry-run.txt
+            node scripts/archive.mjs add .cache/harvest/auto.json --create-songs --skip-invalid --no-fetch
           else
             echo "No unambiguous new videos were found"
           fi
@@ -69,14 +69,17 @@ jobs:
             console.log('- '+g.name+': '+d.videos.filter(v=>es.some(e=>e.id===v.eventId)).length+' videos; last stage '+(dates.at(-1)||'none'));
           }
           JS
-      - name: Commit data and remove temporary workflow
+      - name: Commit validated video data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git rm .github/workflows/refresh-videos-once.yml
           git add data/videos.json
-          git commit -m "담기: 2026-11-04 기준 전 그룹 최신 무대 검색 반영"
-          git push origin HEAD:data/refresh-2026-11-04
+          if ! git diff --cached --quiet; then
+            git commit -m "담기: 2026-11-04 기준 전 그룹 최신 무대 검색 반영"
+            git push origin HEAD:data/refresh-2026-11-04
+          else
+            echo "No new videos to commit"
+          fi
       - name: Open review pull request
         env:
           GH_TOKEN: ${{ github.token }}
@@ -93,7 +96,7 @@ jobs:
             echo
             echo '정확한 날짜/멤버/곡 판단이 필요한 항목은 자동 추가하지 않았습니다. Actions 실행 요약과 검토 목록을 확인하세요.'
           } > /tmp/pr_body.md
-          gh pr create --base main --head data/refresh-2026-11-04 --title "담기: 8개 그룹 최신 무대 업데이트 (2026-11-04)" --body-file /tmp/pr_body.md
+          gh pr create --base main --head data/refresh-2026-11-04 --title "담기: 8개 그룹 최신 무대 업데이트 (2026-11-04)" --body-file /tmp/pr_body.md || echo "PR creation unavailable; create PR from GitHub branch if needed"
       - name: Upload review candidates for manual inspection
         if: always()
         uses: actions/upload-artifact@v4
