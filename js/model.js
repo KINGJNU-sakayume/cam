@@ -56,21 +56,18 @@ export function eventSongOrder(event, videosOfEvent, group) {
 }
 
 // hqdefault(4:3)는 16:9 영상 위아래에 검은 띠가 들어 있어 칸에 잘라 넣으면 띠가 보인다.
-// 16:9 칸·작은 그림은 mqdefault(16:9, 띠 없음), 그 밖의 칸(2:3, 조밀 모드의 1:2.2 띠·3:1 띠)은 크게 잘라 쓰니 hq720(1280×720, 띠 없음).
+// small(아주 작은 그림)만 mqdefault(320×180). 나머지 모든 칸(16:9·2:3·조밀 모드의 1:2.2 띠·3:1 띠)은 hq720(1280×720, 띠 없음).
 // hq720이 없는 영상은 thumbFallback으로.
 export function thumbSrc(video, ratio = '169', small = false) {
   if (video.thumb) return video.thumb;
-  if (video.ytId && !isSampleYt(video.ytId)) return `https://i.ytimg.com/vi/${video.ytId}/${ratio !== '169' && !small ? 'hq720' : 'mqdefault'}.jpg`;
+  if (video.ytId && !isSampleYt(video.ytId)) return `https://i.ytimg.com/vi/${video.ytId}/${small ? 'mqdefault' : 'hq720'}.jpg`;
   return null;
 }
 // 16:9 칸: 작은 그림(320×180)과 큰 그림(1280×720) 중 브라우저가 칸 폭·화면 배율에 맞춰 고른다.
 // sizes="auto, 320px": auto를 아는 브라우저(Chrome)는 실제 칸 폭으로, 모르는 브라우저는 320px로 계산(레티나면 큰 그림)
 export const SRCSET_SIZES = 'auto, 320px';
-export function thumbSrcset(video, ratio, small = false) {
-  if (ratio !== '169' || small || video.thumb || !video.ytId || isSampleYt(video.ytId)) return '';
-  const u = (k) => `https://i.ytimg.com/vi/${video.ytId}/${k}.jpg`;
-  return `${u('mqdefault')} 320w, ${u('hq720')} 1280w`;
-}
+// 큰 그림(hq720, 1280×720)을 기본으로 쓴다. 작은 칸에서도 레티나·확대 화면에서 흐려 보이지 않게(작은 그림 320px는 small일 때만)
+export function thumbSrcset() { return ''; }
 export function thumbFallback(video) {
   if (video.thumb || !video.ytId || isSampleYt(video.ytId)) return '';
   return `https://i.ytimg.com/vi/${video.ytId}/hqdefault.jpg`;

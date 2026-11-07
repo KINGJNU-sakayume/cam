@@ -33,6 +33,8 @@ function rowHTML(it, n) {
   const p = st.picks[it.id] || null;
   const g = groupById(it.g);
   const cands = it.c.map((eid) => eventById(eid)).filter(Boolean);
+  // 후보에 없는 공연도 고를 수 있게: 이 그룹의 모든 공연(최근 날짜 먼저). 날짜가 올린 날에 가까운 순이 아니라 날짜순이라 찾기 쉽다
+  const others = store.data.events.filter((e) => e.groupId === it.g && !it.c.includes(e.id)).sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
   const radio = (val, label, extra = '') => html`<label class="pk-opt"><input type="radio" name="${`pk-${it.id}`}" value="${val}" ${p && p.v === val ? html`checked` : ''}><span>${label}</span></label>${extra}`;
   return html`<article class="pk-row ${p ? 'is-done' : ''}" data-id="${it.id}">
     <a class="pk-thumb" href="${`https://www.youtube.com/watch?v=${it.id}`}" target="_blank" rel="noopener noreferrer" aria-label="새 탭에서 영상 보기"><img src="${`https://i.ytimg.com/vi/${it.id}/mqdefault.jpg`}" alt="" loading="lazy" width="160" height="90"></a>
@@ -41,6 +43,7 @@ function rowHTML(it, n) {
       <p class="hint">${it.ch} · 올린 날 ${it.up}${it.views != null ? ` · 조회수 ${it.views.toLocaleString('ko-KR')}` : ''}</p>
       <div class="pk-opts" role="radiogroup" aria-label="공연 고르기">
         ${cands.map((e) => radio(e.id, eventLabel(e)))}
+        ${radio('other', '다른 공연', html`<span class="pk-new" ${p && p.v === 'other' ? '' : html`hidden`}><select class="input" data-f="other" aria-label="이 그룹의 다른 공연"><option value="">공연 고르기 (${others.length}곳)</option>${others.map((e) => html`<option value="${e.id}" ${p && p.other === e.id ? html`selected` : ''}>${eventLabel(e)}</option>`)}</select></span>`)}
         ${radio('new', '새 공연', html`<span class="pk-new" ${p && p.v === 'new' ? '' : html`hidden`}><input class="input" type="date" data-f="date" value="${p && p.date || ''}" aria-label="공연 날짜"><input class="input" type="text" data-f="show" placeholder="행사 이름" value="${p && p.show || ''}" aria-label="행사 이름"></span>`)}
         ${radio('skip', '담지 않기')}
       </div>
@@ -79,6 +82,7 @@ function makeJSON() {
     if (!p) continue;
     if (p.v === 'skip') picks[it.id] = 'skip';
     else if (p.v === 'new') { if (p.date && p.show) picks[it.id] = { date: p.date, show: p.show.trim() }; }
+    else if (p.v === 'other') { if (p.other) picks[it.id] = p.other; }
     else picks[it.id] = p.v;
   }
   const n = Object.keys(picks).length;
@@ -94,11 +98,18 @@ function bind() {
     if (t.type === 'radio') {
       const id = t.name.slice(3);
       const prev = st.picks[id];
-      st.picks[id] = { v: t.value, date: prev?.date || '', show: prev?.show || '' };
+      st.picks[id] = { v: t.value, date: prev?.date || '', show: prev?.show || '', other: prev?.other || '' };
       save();
       const row = t.closest('.pk-row');
       row.classList.add('is-done');
-      row.querySelector('.pk-new').hidden = t.value !== 'new';
+      for (const box of row.querySelectorAll('.pk-new')) box.hidden = box.querySelector('select') ? t.value !== 'other' : t.value !== 'new';
+    }
+    if (t.tagName === 'SELECT' && t.dataset.f) {
+      const id = t.closest('.pk-row').dataset.id;
+      st.picks[id] = { ...(st.picks[id] || {}), v: 'other', [t.dataset.f]: t.value };
+      save();
+      t.closest('.pk-row').classList.add('is-done');
+      const r = t.closest('.pk-row').querySelector('input[value="other"]'); if (r) r.checked = true;
     }
   });
   host.addEventListener('input', (e) => {

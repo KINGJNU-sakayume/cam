@@ -978,3 +978,54 @@ body.rail-open { overflow: hidden; }
 @media (min-width: 880px) {
   .ed-grid > #ed-editor { position: sticky; top: calc(var(--topbar-h) + 12px); max-height: calc(100dvh - var(--topbar-h) - 24px); overflow-y: auto; }
 }
+
+/* 검색 결과 좁히기: 그룹·멤버·종류·월 */
+.sfilter { display: grid; gap: 8px; margin: 4px 0 14px; padding: 12px 14px; background: var(--surface); border-radius: var(--r-card); box-shadow: var(--sheet-shadow); }
+.sf-row { display: flex; align-items: flex-start; gap: 12px; min-width: 0; }
+.sf-l { flex: none; width: 36px; padding-top: 5px; font-size: var(--fs-xs); font-weight: 700; color: var(--muted); }
+.sf-chips { display: flex; flex-wrap: wrap; gap: 6px; min-width: 0; }
+.sf-row .hint { padding-top: 4px; }
+@media (max-width: 640px) {
+  .sf-row { flex-direction: column; gap: 4px; }
+  .sf-l { width: auto; padding-top: 0; }
+  .sf-chips { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; max-width: 100%; }
+  .sf-chips .chip { flex: none; }
+}
+.crop-frame.alt { box-shadow: none; border: 2px dashed #ffd54a; z-index: 2; }
+.crop-frame[hidden] { display: none; }
+
+/* 검색 결과: 공연마다 한 줄(왼쪽 공연 정보 + 오른쪽 띠 썸네일). 넘치면 +N */
+.sres { gap: 10px; }
+.sline { --sh: 96px; display: grid; grid-template-columns: 236px minmax(0, 1fr); gap: 16px; align-items: start; background: var(--surface); border-radius: var(--r-card); padding: 10px 14px; box-shadow: var(--sheet-shadow); min-width: 0; }
+.sl-head { display: flex; flex-wrap: wrap; align-items: center; align-content: flex-start; gap: 4px 8px; min-width: 0; }
+.sl-head .d-big { font-size: var(--fs-xl); }
+.sl-head .show { flex: 1 0 100%; font-weight: 800; font-size: var(--fs-sm); line-height: 1.3; overflow-wrap: anywhere; }
+.sl-head .show .lbl { margin-left: 6px; }
+.sl-head .grp { display: inline-flex; align-items: center; gap: 6px; font-size: var(--fs-xs); color: var(--muted); font-weight: 700; }
+.sl-head .open { margin-left: auto; font-size: var(--fs-xs); }
+.sl-body { display: flex; align-items: flex-start; gap: 8px; min-width: 0; }
+.sstrip { display: flex; flex-wrap: wrap; gap: 6px; flex: 1; min-width: 0; height: var(--sh); overflow: hidden; }
+.sline.open .sstrip { height: auto; overflow: visible; }
+.sc { height: var(--sh); flex: none; }
+.sc .tcell { height: 100%; }
+.sc .thumb { height: 100%; width: auto; display: block; }
+.sc .thumb.rstrip { aspect-ratio: 1 / 2.2; }
+.sc .thumb.r169 { aspect-ratio: 16 / 9; }
+.sc .thumb.r23 { aspect-ratio: 2 / 3; }
+.sc .thumb .pc-name { font-size: var(--fs-2xs); padding-inline: 4px; }
+.hitdot { position: absolute; top: 5px; right: 5px; width: 7px; height: 7px; border-radius: 50%; background: #ffd54a; box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.45); z-index: 3; pointer-events: none; }
+.sl-more { flex: none; align-self: center; min-width: 44px; height: 32px; padding: 0 10px; border-radius: 16px; border: 1px solid var(--dash); background: var(--surface); color: var(--text); font-family: var(--font-num); font-weight: 700; font-size: var(--fs-xs); cursor: pointer; }
+.sl-more:hover { background: var(--soft); }
+.sl-more[hidden] { display: none; }
+.sline.open .sl-more { align-self: flex-start; margin-top: 4px; }
+@media (max-width: 760px) {
+  .sline { grid-template-columns: minmax(0, 1fr); gap: 8px; padding: 10px 12px; }
+  .sl-head .show { flex: 0 1 auto; }
+  .sl-head .open { margin-left: auto; }
+  .sline { --sh: 88px; }
+}
+
+.sc.fcol { display: grid; gap: 4px; align-content: start; }
+.sc.fcol .sc { height: auto; }
+.sc.fcol .tcell, .sc.fcol .thumb { height: calc((var(--sh) - 4px) / 2); }
+.sc.fcol .thumb { width: auto; }

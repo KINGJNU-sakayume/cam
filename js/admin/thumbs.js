@@ -13,6 +13,7 @@ import { paint, toast } from './ui.js';
 const PAGE = 48;
 const st = {
   target: null, cand: null, pos: null, upload: null, prefillKey: null,
+  split: false, sx: 50, // 조밀 프레임을 편안과 따로 맞출지(직캠), 조밀 1:2.2 띠의 가로 위치 %
   g: '', kind: 'fancam', q: '', onlyChanged: false, limit: PAGE,
   resolved: {}, dims: {}, // 후보별로 실제로 불러온 주소와 크기(대상 바꿀 때 비움)
 };
@@ -90,6 +91,8 @@ function parsePos(s, def) {
   return m ? { x: +m[1], y: +m[2] } : { x: 50, y: 35 };
 }
 const posStr = (p) => `${Math.round(p.x)}% ${Math.round(p.y)}%`;
+// 조밀 모드 1:2.2 띠의 위치: 따로 맞추면 그 값, 아니면 편안(2:3) 위치에서 계산
+const stripPos = () => (st.split ? `${Math.round(st.sx)}% 50%` : stripPosFrom(posStr(st.pos)));
 
 // ---------- 목록 ----------
 function rows() {
@@ -158,7 +161,7 @@ function previewsHTML(t, c) {
   }
   return html`<div class="tb-prevs fancam">
     <figure><div class="tb-prev r23"><img id="tb-p0" src="${src}" data-chain="${ch}" data-key="${c.key}" alt="" referrerpolicy="no-referrer" style="${`object-position:${p}`}"></div><figcaption>편안 2:3</figcaption></figure>
-    ${t.kind === 'video' ? html`<figure><div class="tb-prev rstrip"><img id="tb-p1" src="${src}" data-chain="${ch}" data-key="${c.key}" alt="" referrerpolicy="no-referrer" style="${`object-position:${stripPosFrom(p)}`}"></div><figcaption>조밀 1:2.2</figcaption></figure>` : ''}</div>`;
+    ${t.kind === 'video' ? html`<figure><div class="tb-prev rstrip"><img id="tb-p1" src="${src}" data-chain="${ch}" data-key="${c.key}" alt="" referrerpolicy="no-referrer" style="${`object-position:${stripPos()}`}"></div><figcaption>조밀 1:2.2</figcaption></figure>` : ''}</div>`;
 }
 
 function editorHTML(t) {
@@ -180,14 +183,15 @@ function editorHTML(t) {
       <label class="tb-cand up"><input type="file" accept="image/*" id="tb-upload" class="sr"><span class="ci">＋</span><span class="cl">직접 올리기</span></label>
     </div>
     ${cur ? html`<div class="tb-stage-wrap">
-        <div class="tb-stage" id="tb-stage" style="${cur.yt ? 'aspect-ratio:16/9' : ''}"><img id="tb-img" src="${cur.src}" data-chain="${cur.srcs.join('|')}" data-key="${cur.key}" alt="자르기 원본" referrerpolicy="no-referrer"><div class="crop-frame" id="tb-frame" tabindex="0" role="slider" aria-label="${t.full ? '띠 세로 위치 (위·아래 화살표)' : '틀 가로 위치 (왼쪽·오른쪽 화살표)'}" aria-valuemin="0" aria-valuemax="100"></div></div>
+        <div class="tb-stage" id="tb-stage" style="${cur.yt ? 'aspect-ratio:16/9' : ''}"><img id="tb-img" src="${cur.src}" data-chain="${cur.srcs.join('|')}" data-key="${cur.key}" alt="자르기 원본" referrerpolicy="no-referrer"><div class="crop-frame" id="tb-frame" tabindex="0" role="slider" aria-label="${t.full ? '띠 세로 위치 (위·아래 화살표)' : '틀 가로 위치 (왼쪽·오른쪽 화살표)'}" aria-valuemin="0" aria-valuemax="100"></div>${!t.full && t.kind === 'video' ? html`<div class="crop-frame alt" id="tb-frame2" tabindex="0" role="slider" aria-label="조밀 틀 가로 위치 (왼쪽·오른쪽 화살표)" aria-valuemin="0" aria-valuemax="100" ${st.split ? '' : html`hidden`}></div>` : ''}</div>
         <p class="hint">${t.full ? '3:1 틀을 위아래로 끌어 얼굴이 띠 안에 들어오게 하세요.' : '2:3 틀을 좌우로 끌어 얼굴을 가운데에 두세요.'} 화살표 키로 2%, Shift와 함께 10%씩 옮겨요. <span class="num" id="tb-posv">${posStr(st.pos)}</span></p>
+        ${!t.full && t.kind === 'video' ? html`<label class="check"><input type="checkbox" id="tb-split" ${st.split ? 'checked' : ''}>조밀(1:2.2) 틀을 편안과 따로 맞추기 <span class="hint">(노란 점선 틀을 끌어요)</span></label>` : ''}
       </div>
       ${previewsHTML(t, cur)}` : html`<p class="hint">이 영상은 고를 그림 후보가 없어요. 직접 올리기를 쓰세요.</p>`}
     <div class="tb-actions">
       <button type="button" class="btn btn-fill" data-act="applyNext" ${cur && i < order.length - 1 ? '' : html`disabled`}>정하고 다음</button>
       <button type="button" class="btn" data-act="apply" ${cur ? '' : html`disabled`}>정하기</button>
-      <button type="button" class="btn btn-sm" data-act="reset" ${t.obj.thumb || t.obj.thumbPos ? '' : html`disabled`}>유튜브 기본으로</button>
+      <button type="button" class="btn btn-sm" data-act="reset" ${t.obj.thumb || t.obj.thumbPos || t.obj.thumbPosStrip ? '' : html`disabled`}>유튜브 기본으로</button>
       <span class="spacer"></span>
       <a class="textlink" href="${t.view}" target="_blank" rel="noopener">보기 화면에서 열기 ↗</a>
       ${t.kind === 'video' ? html`<a class="textlink" href="${`#tab=edit&v=${t.id}`}">영상 정보 수정</a>` : ''}
@@ -244,6 +248,15 @@ function mountCropper() {
     }
     const pv = host.querySelector('#tb-posv');
     if (pv) pv.textContent = s;
+    // 조밀 틀(1:2.2): 따로 맞출 때만 보인다. 가로로 움직인다
+    const f2 = host.querySelector('#tb-frame2');
+    if (f2 && geo.axis === 'x') {
+      const fw2 = geo.H / 2.2;
+      const q = st.sx / 100;
+      Object.assign(f2.style, { left: `${q * (geo.W - fw2)}px`, top: '0px', width: `${fw2}px`, height: `${geo.H}px` });
+      f2.setAttribute('aria-valuenow', String(Math.round(st.sx)));
+      if (p1) p1.style.objectPosition = stripPos();
+    }
   };
   const setP = (v) => {
     if (!geo) return;
@@ -282,6 +295,24 @@ function mountCropper() {
     if (e.key === 'Home') { e.preventDefault(); setP(0); }
     if (e.key === 'End') { e.preventDefault(); setP(100); }
   });
+  // 조밀 틀
+  const f2 = host.querySelector('#tb-frame2');
+  if (f2) {
+    const setS = (v) => { st.sx = Math.max(0, Math.min(100, v)); place(); };
+    let d2 = null;
+    f2.addEventListener('pointerdown', (e) => { f2.setPointerCapture(e.pointerId); e.stopPropagation(); d2 = { x: e.clientX, p: st.sx }; });
+    f2.addEventListener('pointermove', (e) => {
+      if (!d2 || !geo) return;
+      const free = geo.W - geo.H / 2.2;
+      if (free > 0) setS(d2.p + ((e.clientX - d2.x) / free) * 100);
+    });
+    f2.addEventListener('pointerup', () => { d2 = null; });
+    f2.addEventListener('keydown', (e) => {
+      const step = e.shiftKey ? 10 : 2;
+      const map = { ArrowLeft: -step, ArrowUp: -step, ArrowRight: step, ArrowDown: step };
+      if (e.key in map) { e.preventDefault(); setS(st.sx + map[e.key]); }
+    });
+  }
 }
 
 // ---------- 정하기 ----------
@@ -359,6 +390,7 @@ async function apply() {
       return false;
     }
   }
+  if (!t.full && t.kind === 'video') { if (st.split) o.thumbPosStrip = `${Math.round(st.sx)}% 50%`; else delete o.thumbPosStrip; }
   commit();
   return true;
 }
@@ -367,6 +399,7 @@ function reset() {
   const t = targetInfo();
   delete t.obj.thumb;
   delete t.obj.thumbPos;
+  delete t.obj.thumbPosStrip;
   commit();
   selectTarget(st.target);
   toast('유튜브 기본 썸네일로 되돌렸어요.');
@@ -379,6 +412,8 @@ function selectTarget(target) {
   const t = targetInfo();
   if (!t) { st.cand = null; return; }
   st.pos = parsePos(t.obj.thumbPos, t.defPos);
+  st.split = !!t.obj.thumbPosStrip;
+  st.sx = st.split ? parsePos(t.obj.thumbPosStrip, '50% 50%').x : parseFloat(stripPosFrom(posStr(st.pos)));
   const c = candidates(t);
   st.cand = (c.find((x) => x.key === 'current') || c.find((x) => x.key === 'default') || c[0])?.key || null;
 }
@@ -402,6 +437,12 @@ function bind() {
   host.addEventListener('change', (e) => {
     const t = e.target;
     if (t.id === 'tb-g') { st.g = t.value; st.limit = PAGE; paintList(); }
+    if (t.id === 'tb-split') {
+      st.split = t.checked;
+      if (st.split) st.sx = parseFloat(stripPosFrom(posStr(st.pos))); // 지금 편안 위치에서 계산한 값에서 시작
+      paintEditor('#tb-split');
+      return;
+    }
     if (t.id === 'tb-changed') { st.onlyChanged = t.checked; st.limit = PAGE; paintList(); }
     if (t.id === 'tb-upload' && t.files[0]) {
       const f = t.files[0];

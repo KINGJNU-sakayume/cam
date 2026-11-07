@@ -35,6 +35,7 @@ node scripts/archive.mjs show v62                  # 한 항목의 JSON
 | 다른 공연으로 옮기기 | `set <영상id> event=<공연id>` |
 | 같은 행사가 공연 여럿으로 쪼개짐 | `merge <남길공연id> <공연id>...` 또는 `dedupe-events --fuzzy --dry-run` |
 | 썸네일 위치(전신이 보이게) | `set <영상id> thumbPos="50% 25%"` (위쪽을 더 보이려면 두 번째 값을 줄여요. 기본 `50% 35%`, 되돌리기 `thumbPos=none`) |
+| 조밀 모드 프레임을 편안과 따로 | `set <영상id> thumbPosStrip="30% 50%"` (없애기 `none`) |
 | 움짤 구간·메모 | `set <움짤id> t=0:42 end=0:48 note="..."` |
 
 전체 키: `node scripts/archive.mjs set --help`.

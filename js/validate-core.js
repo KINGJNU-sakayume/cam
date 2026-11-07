@@ -114,6 +114,7 @@ export function validateData(data) {
       } else if (typeof v.thumb !== 'string' || v.thumb.startsWith('/') || v.thumb.includes('..')) err(w, `thumb 경로 ${JSON.stringify(v.thumb)}가 올바르지 않아요`);
     }
     if (v.thumbPos != null && !/^\d{1,3}(\.\d+)?% \d{1,3}(\.\d+)?%$/.test(v.thumbPos)) err(w, `thumbPos ${JSON.stringify(v.thumbPos)}는 "50% 35%" 형식이어야 해요`);
+    if (v.thumbPosStrip != null && !/^\d{1,3}(\.\d+)?% \d{1,3}(\.\d+)?%$/.test(v.thumbPosStrip)) err(w, `thumbPosStrip ${JSON.stringify(v.thumbPosStrip)}는 "50% 35%" 형식이어야 해요`);
     if (v.pin != null && typeof v.pin !== 'boolean') err(w, 'pin은 true/false여야 해요');
     if (v.gone != null && typeof v.gone !== 'boolean') err(w, 'gone은 true/false여야 해요');
   });

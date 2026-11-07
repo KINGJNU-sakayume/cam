@@ -7226,7 +7226,13 @@
       "date": "2026-02-25",
       "show": "Festival de Viña del Mar 2026",
       "label": "",
-      "setlist": [],
+      "setlist": [
+        "g2s1",
+        "g2s33",
+        "g2s11",
+        "g2s13",
+        "g2s26"
+      ],
       "note": ""
     },
     {
@@ -7235,7 +7241,9 @@
       "date": "2026-03-22",
       "show": "NMIXX WORLD TOUR ZERO FRONTIER 파리",
       "label": "",
-      "setlist": [],
+      "setlist": [
+        "g2s10"
+      ],
       "note": ""
     },
     {
@@ -302020,6 +302028,306 @@
       "pin": false,
       "gone": false,
       "thumbPos": "18% 35%"
+    },
+    {
+      "id": "v16305",
+      "ytId": "HigtOGj4e1s",
+      "eventId": "e271",
+      "songs": [
+        {
+          "songId": "g2s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX - Blue Valentine Festival de Viña 2026",
+      "channel": "Juneandtheocean",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16306",
+      "ytId": "7thH4kfblMQ",
+      "eventId": "e271",
+      "songs": [
+        {
+          "songId": "g2s26",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX(엔믹스) “TIC TIC (Feat. Pabllo Vittar)” Stage Cam | Viña del Mar 2026",
+      "channel": "NMIXX",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16307",
+      "ytId": "ZDjjq13x20s",
+      "eventId": "e15",
+      "songs": [
+        {
+          "songId": "g1s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "아이브 장원영 (WONYOUNG) '소원을 말해봐' (Genie) 4K 직캠｜IVE THE 4TH FAN CONCERT 〈DIVE into IVE〉",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16308",
+      "ytId": "uKuhJy8uAJw",
+      "eventId": "e15",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "아이브 장원영 (WONYOUNG) '해야 (HEYA)' 4K 직캠｜IVE THE 4TH FAN CONCERT 〈DIVE into IVE〉",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16309",
+      "ytId": "r_dVIEF1Sq4",
+      "eventId": "e15",
+      "songs": [
+        {
+          "songId": "g1s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[Special Clip] IVE '소원을 말해봐 (Genie)' @4th FAN CONCERT 'DIVE into IVE'",
+      "channel": "IVE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16310",
+      "ytId": "va4oiCP5JR4",
+      "eventId": "e15",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[Inside IVE] Note #2 : INSPIRE ARENA | 2026 IVE THE 4TH FAN CONCERT 〈DIVE into IVE〉",
+      "channel": "IVE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16311",
+      "ytId": "ohE4WGmH3o8",
+      "eventId": "e274",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX 엔믹스 1st World Tour EPISODE 1: ZERO FRONTIER @ Salle Pleyel in Paris - Full Concert | Fancam",
+      "channel": "Olivier Robelot Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16312",
+      "ytId": "j7FX4CsrinI",
+      "eventId": "e274",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 (NMIXX) 1st World Tour Episode 1: ZERO FRONTIER IN PARIS - '별별별 (See that?) 릴리 팬캠 Lily Fancam",
+      "channel": "KkuKkungiemx",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16313",
+      "ytId": "SEQF2Jc69z8",
+      "eventId": "e276",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "NMIXX 1st World Tour Episode 1: Zero Frontier LONDON FULL CONCERT 4K",
+      "channel": "MezRahman",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16314",
+      "ytId": "UDTHIX7ZZMk",
+      "eventId": "e276",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "NMIXX London 2026 (4K60) Full Concert - EPISODE 1: ZERO FRONTIER",
+      "channel": "Ronald Sanchez",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16315",
+      "ytId": "TzP00ZvhFB8",
+      "eventId": "e226",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "IVE FULL CONCERT SHOW WHAT I AM WORLD TOUR IN KUALA LUMPUR 2026 [FANCAM]",
+      "channel": "Yoshiro Club",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16316",
+      "ytId": "E9ix_Co_J18",
+      "eventId": "e16",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] IVE SHOW WHAT I AM in Manila, Philippines - FULL PERFORMANCE Fancam",
+      "channel": "Carla Rafer",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16317",
+      "ytId": "QKFKmblW9Yg",
+      "eventId": "e17",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "IVE (아이브) in Singapore - 4K FULL PERFORMANCE: SHOW WHAT I AM World Tour - 050926",
+      "channel": "K-Pop From VIP Seat",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16318",
+      "ytId": "K79PoSoCqXI",
+      "eventId": "e21",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[FULL] IVE Concert in Melbourne - 061626",
+      "channel": "Sameekaori - Korean,Thai couple in Melbourne ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16319",
+      "ytId": "5GknJf8oAp8",
+      "eventId": "e22",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "IVE - SHOW WHAT I AM Concert in Montreal 2026",
+      "channel": "Jessa Faith",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16320",
+      "ytId": "ceaadYTFO48",
+      "eventId": "e257",
+      "songs": [
+        {
+          "songId": "g1s30",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "072926 Force [SHOW WHAT I AM WORLD TOUR] 아이브 안유진 IVE Yujin Fancam Austin TX",
+      "channel": "BE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16321",
+      "ytId": "-PFc17c4N0I",
+      "eventId": "e26",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "IVE - Concert @ Oakland Arena | 아이브 직캠 콘서트 - Show What I Am Tour [4K FANCAM] 080425 (FULL SHOW)",
+      "channel": "iHeart_TWICE",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
