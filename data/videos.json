@@ -4341,6 +4341,13 @@
           "order": 16,
           "release": "",
           "kind": "cover"
+        },
+        {
+          "id": "g9s17",
+          "title": "너만 아니면 돼",
+          "aliases": [],
+          "order": 17,
+          "release": ""
         }
       ]
     },
@@ -15770,7 +15777,10 @@
         "g10s4",
         "g10s30"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "KISS ROAD 콘서트"
+      ]
     },
     {
       "id": "e984",
@@ -15792,7 +15802,10 @@
         "g10s29",
         "g10s8"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "키스로드 KISS ROAD IN SEOUL ENCORE"
+      ]
     },
     {
       "id": "e985",
@@ -15876,7 +15889,10 @@
         "g10s6",
         "g10s11"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "청년의날 콘서트 Kpop"
+      ]
     },
     {
       "id": "e991",
@@ -15887,7 +15903,10 @@
       "setlist": [
         "g10s13"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "인천대학교 직캠/fancam"
+      ]
     },
     {
       "id": "e992",
@@ -15964,7 +15983,11 @@
         "g10s13",
         "g10s5"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "의과대 축제",
+        "차의과대 축제"
+      ]
     },
     {
       "id": "e998",
@@ -16002,7 +16025,10 @@
       "setlist": [
         "g10s35"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "KGMA"
+      ]
     },
     {
       "id": "e1001",
@@ -16047,7 +16073,10 @@
         "g10s29",
         "g10s33"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "2025 AAA"
+      ]
     },
     {
       "id": "e1005",
@@ -16063,6 +16092,264 @@
         "g10s13",
         "g10s33",
         "g10s36"
+      ],
+      "note": "",
+      "aliases": [
+        "가요대 축제"
+      ]
+    },
+    {
+      "id": "e1006",
+      "groupId": "g9",
+      "date": "2025-07-29",
+      "show": "쇼케이스",
+      "label": "",
+      "setlist": [
+        "g9s13",
+        "g9s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1007",
+      "groupId": "g9",
+      "date": "2025-08-01",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g9s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1008",
+      "groupId": "g9",
+      "date": "2025-08-02",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g9s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1009",
+      "groupId": "g9",
+      "date": "2025-08-03",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g9s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1010",
+      "groupId": "g9",
+      "date": "2025-08-04",
+      "show": "울산 음악중심",
+      "label": "",
+      "setlist": [
+        "g9s7",
+        "g9s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1011",
+      "groupId": "g9",
+      "date": "2025-08-07",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g9s7",
+        "g9s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1012",
+      "groupId": "g9",
+      "date": "2025-08-08",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g9s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1013",
+      "groupId": "g9",
+      "date": "2025-08-09",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g9s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1014",
+      "groupId": "g9",
+      "date": "2025-08-10",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g9s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1015",
+      "groupId": "g9",
+      "date": "2025-08-12",
+      "show": "더 쇼",
+      "label": "",
+      "setlist": [
+        "g9s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1016",
+      "groupId": "g9",
+      "date": "2025-09-15",
+      "show": "팬미팅",
+      "label": "",
+      "setlist": [
+        "g9s14",
+        "g9s6",
+        "g9s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1017",
+      "groupId": "g9",
+      "date": "2025-09-24",
+      "show": "가천대 축제",
+      "label": "",
+      "setlist": [
+        "g9s10",
+        "g9s1",
+        "g9s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1018",
+      "groupId": "g9",
+      "date": "2025-09-25",
+      "show": "인덕대 축제",
+      "label": "",
+      "setlist": [
+        "g9s12",
+        "g9s6",
+        "g9s1",
+        "g9s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1019",
+      "groupId": "g9",
+      "date": "2025-09-25",
+      "show": "서일대 축제",
+      "label": "",
+      "setlist": [
+        "g9s10",
+        "g9s1",
+        "g9s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1020",
+      "groupId": "g9",
+      "date": "2025-10-30",
+      "show": "경북대 축제",
+      "label": "",
+      "setlist": [
+        "g9s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1021",
+      "groupId": "g9",
+      "date": "2025-10-31",
+      "show": "울산과학대 축제",
+      "label": "",
+      "setlist": [
+        "g9s1",
+        "g9s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1022",
+      "groupId": "g9",
+      "date": "2025-11-06",
+      "show": "영산대 축제",
+      "label": "",
+      "setlist": [
+        "g9s1",
+        "g9s12",
+        "g9s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1023",
+      "groupId": "g9",
+      "date": "2025-08-14",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g9s17"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1024",
+      "groupId": "g9",
+      "date": "2025-08-17",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g9s17"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1025",
+      "groupId": "g9",
+      "date": "2025-09-23",
+      "show": "전주대 축제",
+      "label": "",
+      "setlist": [],
+      "note": ""
+    },
+    {
+      "id": "e1026",
+      "groupId": "g10",
+      "date": "2025-06-28",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g10s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1027",
+      "groupId": "g10",
+      "date": "2025-06-29",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g10s14"
       ],
       "note": ""
     }
@@ -297837,6 +298124,3902 @@
       "pin": false,
       "gone": false,
       "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v16133",
+      "ytId": "HjEWGzN8dn0",
+      "eventId": "e1006",
+      "songs": [
+        {
+          "songId": "g9s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 최예나(YENA) - 364 @250729 Blooming Wings SHOWCASE",
+      "channel": "위즈웅 WIZWOONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16134",
+      "ytId": "RVaedyvPmOE",
+      "eventId": "e1006",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        },
+        {
+          "songId": "g9s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250729 최예나 - 착하다는 말이 제일 싫어 & 364 & 너만 아니면 돼 @Blooming Wings 쇼케이스",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16135",
+      "ytId": "uJaIXhaQHE0",
+      "eventId": "e1006",
+      "songs": [
+        {
+          "songId": "g9s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250729 최예나 364 Blooming Wings 쇼케이스",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16136",
+      "ytId": "2s-JGPEb9AY",
+      "eventId": "e1006",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250729 최예나 착하다는 말이 제일 싫어 Blooming Wings 쇼케이스",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16137",
+      "ytId": "B3O_7XcCZ1o",
+      "eventId": "e1007",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 최예나 '착하다는 말이 제일 싫어' (YENA Facecam) @뮤직뱅크(Music Bank) 250801",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "57% 35%"
+    },
+    {
+      "id": "v16138",
+      "ytId": "Ye08T1qrPTQ",
+      "eventId": "e1007",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[직캠4K] 최예나 '착하다는 말이 제일 싫어' (YENA 'Being a Good Girl Hurts' FanCam) @MusicBank 250801",
+      "channel": "m0tri3t",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "65% 35%"
+    },
+    {
+      "id": "v16139",
+      "ytId": "ttk8DLAf4PQ",
+      "eventId": "e1007",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Choreo 8K] 최예나 직캠 '착하다는 말이 제일 싫어' (YENA Choreography) @MusicBank 250801",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16140",
+      "ytId": "f0jg5g16GaE",
+      "eventId": "e1007",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[PREMIERE🚨] YENA 최예나 - 착하다는 말이 제일 싫어 (Being a Good Girl Hurts) [Music Bank] | KBS WORLD TV 250801",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16141",
+      "ytId": "Tf_zgHDY5LM",
+      "eventId": "e1007",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "달빛천사 저리 가라! 예나천사가 왔다! 🌙 YENA 최예나 '착하다는 말이 제일 싫어' #뮤직뱅크 | KBS 250801 방송",
+      "channel": "KBS 한국방송",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16142",
+      "ytId": "Ba0rqTWpRxY",
+      "eventId": "e1008",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] YENA (최예나) – 착하다는 말이 제일 싫어 | 쇼! 음악중심 | MBC250802",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "76% 35%"
+    },
+    {
+      "id": "v16143",
+      "ytId": "vwQCe-PWdwg",
+      "eventId": "e1008",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠] YENA (최예나) – 착하다는 말이 제일 싫어 FullCam | 쇼! 음악중심 | MBC250802",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v16144",
+      "ytId": "2T4Sd0utevs",
+      "eventId": "e1008",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "YENA (최예나) - Being a Good Girl Hurts (착하다는 말이 제일 싫어) | Show! MusicCore | MBC250802방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16145",
+      "ytId": "ZJIWG4HsOcg",
+      "eventId": "e1008",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] YENA (최예나) – 착하다는 말이 제일 싫어 FanCam | 쇼! 음악중심 | MBC250802",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "78% 35%"
+    },
+    {
+      "id": "v16146",
+      "ytId": "7mP6jyDumxk",
+      "eventId": "e1009",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 최예나 '착하다는 말이 제일 싫어' (YENA 'Being a Good Girl Hurts' FullCam) @SBS Inkigayo 250803",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "50% 70%"
+    },
+    {
+      "id": "v16147",
+      "ytId": "gSRqgnQyxoo",
+      "eventId": "e1009",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 최예나 '착하다는 말이 제일 싫어' (YENA 'Being a Good Girl Hurts' FanCam) @SBS Inkigayo 250803",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16148",
+      "ytId": "8WqnaErhojo",
+      "eventId": "e1009",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 최예나 '착하다는 말이 제일 싫어' (YENA 'Being a Good Girl Hurts' FaceCam) @SBS Inkigayo 250803",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16149",
+      "ytId": "vgp5cBpAUU8",
+      "eventId": "e1010",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250804 최예나 \"착하다는 말이 제일 싫어\" (Yena  FanCam) @울산 음악중심",
+      "channel": "KPOP LIVE HEYA",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16150",
+      "ytId": "ueZ6dDjgPhc",
+      "eventId": "e1010",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250804 최예나 YENA - 착하다는 말이 제일 싫어 Being a Good Girl Hurts | 가로 직캠 | 음악중심 본방송 울산서머페스티벌 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16151",
+      "ytId": "jRpChC3AUIA",
+      "eventId": "e1010",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250804 최예나 YENA '착하다는 말이 제일 싫어 + 너만 아니면 돼 + 네모네모' 4K 60P 직캠 @울산 음악중심 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16152",
+      "ytId": "yqVLzcAAiDU",
+      "eventId": "e1010",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250804 최예나 - 착하다는 말이 제일 싫어 & 너만 아니면 돼  & 네모네모 @2025 음악중심 울산서머페스티벌",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "42% 35%"
+    },
+    {
+      "id": "v16153",
+      "ytId": "Sj-2__79Fb0",
+      "eventId": "e1010",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250804 최예나 -네모네모 NEMONEMO  |  2025 울산 쇼! 음악중심",
+      "channel": "99x01CAM",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "57% 35%"
+    },
+    {
+      "id": "v16154",
+      "ytId": "Etne8gvsOHA",
+      "eventId": "e1010",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "YENA ♬ Being a Good Girl Hurts #예나 ♬ 착하다는 말이 제일 싫어 @250804 쇼! 음악중심 울산 MBC",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "94% 35%"
+    },
+    {
+      "id": "v16155",
+      "ytId": "KXK3LAWaqNU",
+      "eventId": "e1011",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 최예나 YENA - 착하다는 말이 제일 싫어 직캠 | 250807 엠카운트다운 in 보령",
+      "channel": "box Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16156",
+      "ytId": "d93DYhP3A7w",
+      "eventId": "e1011",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250807 최예나 엠카운트다운 '네모네모' | YENA 보령머드축제 M COUNTDOWN in 보령",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "0% 35%"
+    },
+    {
+      "id": "v16157",
+      "ytId": "f_divWq9yj8",
+      "eventId": "e1011",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250807 최예나 YENA '착하다는 말이 제일 싫어 + 네모네모' 4K 60P 직캠 @보령 엠카운트다운 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16158",
+      "ytId": "vfu4_2EPHX8",
+      "eventId": "e1011",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250807 최예나 직캠 '네모네모' YENA Fancam @엠카운트다운 in 보령  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16159",
+      "ytId": "ibpocQ3mx8I",
+      "eventId": "e1011",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250807 최예나 직캠 '착하다는 말이 제일 싫어' YENA Fancam @엠카운트다운 in 보령  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16160",
+      "ytId": "kNXeQjjbdtY",
+      "eventId": "e1011",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "최예나 직캠 - 착하다는 말이 제일 싫어 & 네모네모 / 250807 엠카운트다운 in 보령 / M-COUNT DOWN in Boryeong / #YENA #Fancam",
+      "channel": "TOYS",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16161",
+      "ytId": "r0x_ZcGoCEY",
+      "eventId": "e1011",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "'COMEBACK' YENA(최예나) - 착하다는 말이 제일 싫어 #엠카운트다운 EP.900 | Mnet 250807 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16162",
+      "ytId": "T7tmpXtbPFg",
+      "eventId": "e1011",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250807 최예나 착하다는 말이 제일 싫어 엠카운트다운 | M COUNTDOWN in 보령",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16163",
+      "ytId": "ew1dfIlpcuE",
+      "eventId": "e1011",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250807 착하다는 말이 제일 싫어 최예나 멀티 직캠 YENA focus @ 2025 M COUNTDOWN IN BORYUNG [MULTI 4K]",
+      "channel": "blank space.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16164",
+      "ytId": "sTnTN1j1Sw0",
+      "eventId": "e1011",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "정말 착한 예나 ♬ 착하다는 말이 제일 싫어 #YENA ♬ Being a Good Girl Hurts @250807 M Countdown #엠카 #보령 머드축제",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16165",
+      "ytId": "9hLAdrIxL4Q",
+      "eventId": "e1012",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Choreo 8K] 최예나 직캠 '착하다는 말이 제일 싫어' (YENA Choreography) @MusicBank 250808",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16166",
+      "ytId": "pS2LjE7NHZA",
+      "eventId": "e1012",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "착하다는 말이 제일 싫어 - YENA (최예나) [뮤직뱅크/Music Bank] | KBS 250808 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "70% 35%"
+    },
+    {
+      "id": "v16167",
+      "ytId": "Ac4woiKWvFo",
+      "eventId": "e1012",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "YENA イェナ 최예나 - 착하다는 말이 제일 싫어 (Being a Good Girl Hurts) [Music Bank] | KBS WORLD TV 250808",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "68% 35%"
+    },
+    {
+      "id": "v16168",
+      "ytId": "q1PEHfiZT88",
+      "eventId": "e1012",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ESP LYRICS] Being a Good Girl Hurts - YENA [Music Bank] | KBS WORLD TV 250808",
+      "channel": "KBS WORLD Latino",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "58% 35%"
+    },
+    {
+      "id": "v16169",
+      "ytId": "ZMeRT9hWm_o",
+      "eventId": "e1012",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "달빛 천사도 울고 갈 예나 코어 🪽 YENA 최예나 '착하다는 말이 제일 싫어' #뮤직뱅크 | KBS 250808 방송",
+      "channel": "KBS 한국방송",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "39% 35%"
+    },
+    {
+      "id": "v16170",
+      "ytId": "r2c_TdohDDU",
+      "eventId": "e1013",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "YENA (최예나) - Being a Good Girl Hurts (착하다는 말이 제일 싫어) | Show! MusicCore | MBC250809방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16171",
+      "ytId": "gvD1tpAFTfo",
+      "eventId": "e1014",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 최예나 '착하다는 말이 제일 싫어' (YENA 'Being a Good Girl Hurts' FanCam) @SBS Inkigayo 250810",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v16172",
+      "ytId": "O7QTIz86-3s",
+      "eventId": "e1014",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 최예나 '착하다는 말이 제일 싫어' (YENA 'Being a Good Girl Hurts' FullCam) @SBS Inkigayo 250810",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "50% 72%"
+    },
+    {
+      "id": "v16173",
+      "ytId": "MA5Uj16gFrw",
+      "eventId": "e1015",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "YENA(최예나), Being a good girl hurts (착하다는 말이 제일 싫어) [THE SHOW 250812]",
+      "channel": "THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16174",
+      "ytId": "Z-56JkvuvMM",
+      "eventId": "e1016",
+      "songs": [
+        {
+          "songId": "g9s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250915 최예나 YENA STAR！ 일본 도쿄 팬미팅 | 2025 THE YENA SHOW ＜私はSTAR！＞ in TOKYO",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16175",
+      "ytId": "UNSMLzzkChY",
+      "eventId": "e1016",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250915 최예나 YENA 네모네모 Japanese Ver. 일본 도쿄 팬미팅 | 2025 THE YENA SHOW ＜私はSTAR！＞ in TOKYO",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v16176",
+      "ytId": "yiJaz8jjDfE",
+      "eventId": "e1016",
+      "songs": [
+        {
+          "songId": "g9s14",
+          "t": 0
+        },
+        {
+          "songId": "g9s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250915 최예나 스마트폰 일본 도쿄 팬미팅 | 2025 THE YENA SHOW ＜私はSTAR！＞ in TOKYO SMARTPHONE",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "44% 35%"
+    },
+    {
+      "id": "v16177",
+      "ytId": "izHs3SiMTlI",
+      "eventId": "e1017",
+      "songs": [
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250924 최예나 WithOrWithOut 가천대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "100% 35%"
+    },
+    {
+      "id": "v16178",
+      "ytId": "meM5qEpFu0o",
+      "eventId": "e1017",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250924 최예나 스마일리 가천대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "89% 35%"
+    },
+    {
+      "id": "v16179",
+      "ytId": "mlqUYbSepZ0",
+      "eventId": "e1017",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250924 최예나 네모네모 가천대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16180",
+      "ytId": "F35CPc3Dqzg",
+      "eventId": "e1017",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250924 최예나 네모네모 가천대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16181",
+      "ytId": "FS5BhdV6Dd0",
+      "eventId": "e1018",
+      "songs": [
+        {
+          "songId": "g9s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "최예나(YENA) - 그건 사랑이었다고 [4K 직캠] I 250925 인덕대학교 축제",
+      "channel": "지구미네 예나",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16182",
+      "ytId": "37CZ0quWXfU",
+      "eventId": "e1018",
+      "songs": [
+        {
+          "songId": "g9s12",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250925 직캠 최예나 YENA 5곡 @2025 인덕대학교 인덕대 축제 가수 콘서트 네모네모 너만아니면돼 스마일리 그건사랑이었다고 위드오어위드아웃 @YENA_OFFICIAL​",
+      "channel": "Kpop Music Tube - Fancam Singer Live Concert",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16183",
+      "ytId": "U-rPgKMCf6I",
+      "eventId": "e1018",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250925 최예나(YENA) - SMILEY♬ 직캠 @인덕대",
+      "channel": "펌킨이야",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "11% 35%"
+    },
+    {
+      "id": "v16184",
+      "ytId": "iTcaz0mwZkg",
+      "eventId": "e1018",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250925 YENA(최예나) - 네모네모 (인덕대 축제)",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16185",
+      "ytId": "eBgK6v75-yQ",
+      "eventId": "e1019",
+      "songs": [
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250925 최예나 WithOrWithOut 서일대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16186",
+      "ytId": "PPVOXP8KWZ8",
+      "eventId": "e1019",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250925 최예나 스마일리 서일대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16187",
+      "ytId": "EVu0WF5ocvI",
+      "eventId": "e1019",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250925 최예나 네모네모 서일대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "90% 35%"
+    },
+    {
+      "id": "v16188",
+      "ytId": "2PseFX6gdMM",
+      "eventId": "e1019",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "최예나 네모네모 YENA 서일대학교 축제 250925",
+      "channel": "David Park",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16189",
+      "ytId": "M1J60BKY_2I",
+      "eventId": "e1020",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251030 최예나 네모네모 경북대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16190",
+      "ytId": "KnxXsOSzBdU",
+      "eventId": "e1020",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251030 최예나 경북대학교 축제 네모네모 직캠",
+      "channel": "from",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16191",
+      "ytId": "3H0Tcsgn9oY",
+      "eventId": "e1021",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251031 YENA (최예나) - ❤️SMILEY @ 울산과학대학교 축제 직캠 (Fancam) #yena #최예나 #울산과학대학교",
+      "channel": "Lunatic Soul",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16192",
+      "ytId": "Z0835-JT-HQ",
+      "eventId": "e1021",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251031 YENA (최예나) - ❤️네모네모 @ 울산과학대학교 축제 직캠 (Fancam) #yena #최예나 #울산과학대학교",
+      "channel": "Lunatic Soul",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16193",
+      "ytId": "Nr2VysgPcFo",
+      "eventId": "e1021",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251031 최예나 스마일리 울산과학대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16194",
+      "ytId": "iFAzFbkvVdw",
+      "eventId": "e1022",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251106 최예나(YENA) - SMILEY [영산대학교 Unite 찬란대동제] 직캠/Fancam] by koala LEE",
+      "channel": "koala LEE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16195",
+      "ytId": "y_En_9IB-sk",
+      "eventId": "e1022",
+      "songs": [
+        {
+          "songId": "g9s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251106 최예나(YENA) - 그건 사랑이었다고 [영산대학교 Unite 찬란대동제] 직캠/Fancam] by koala LEE",
+      "channel": "koala LEE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16196",
+      "ytId": "P6RPj-71rQM",
+      "eventId": "e1022",
+      "songs": [
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251106 최예나(YENA) - WithOrWithOut [영산대학교 Unite 찬란대동제] 직캠/Fancam] by koala LEE",
+      "channel": "koala LEE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16197",
+      "ytId": "MyyCNBVW5pI",
+      "eventId": "e1010",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250804 최예나 - 착하다는 말이 제일 싫어, 너만 아니면 돼, 네모네모 4K 직캠 Full  [울산서머페스티벌]",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16198",
+      "ytId": "yH1T0ysnEQU",
+      "eventId": "e1010",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250804 YENA (최예나) - ❤️착하다는 말이 제일 싫어❤️너만 아니면 돼❤️네모네모 @ 울산서머페스티벌 직캠 (Fullcam) #yena #최예나",
+      "channel": "Lunatic Soul",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16199",
+      "ytId": "kmI-6DE4kD8",
+      "eventId": "e1010",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "예나 YENA - 착하다는 말이 제일 싫어 + 너만 아니면 돼 + 네모네모  |  2025 울산서머페스티벌  | 250804 | 4K60P",
+      "channel": "7CLOVER",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16200",
+      "ytId": "nSckHGaGtqM",
+      "eventId": "e1011",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "네모네모(YENA 최예나 보령 머드 축제) 250807 직캠",
+      "channel": "MD's clip",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16201",
+      "ytId": "NultiZUjzyg",
+      "eventId": "e1023",
+      "songs": [
+        {
+          "songId": "g9s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250814 최예나 직캠 4K \"너만 아니면 돼  (Anyone But You)\"  (YENA FANCAM) @M COUNTDOWN",
+      "channel": "KPOP LIVE HEYA",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16202",
+      "ytId": "CDPp0hMuMLE",
+      "eventId": "e1023",
+      "songs": [
+        {
+          "songId": "g9s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 최예나 직캠 4K '너만 아니면 돼' (YENA FanCam) | @MCOUNTDOWN_2025.8.14",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v16203",
+      "ytId": "FiAbm9dp3vA",
+      "eventId": "e1023",
+      "songs": [
+        {
+          "songId": "g9s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 최예나 직캠 4K '너만 아니면 돼' (Horizontal Ver.) (YENA FanCam) | @MCOUNTDOWN_2025.8.14",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16204",
+      "ytId": "xrpPob4kFqg",
+      "eventId": "e1024",
+      "songs": [
+        {
+          "songId": "g9s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 최예나 '너만 아니면 돼 (Feat. 미료 of 브라운아이드걸스)' (YENA 'Anyone But You' FanCam) @SBS Inkigayo250817",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16205",
+      "ytId": "BVN4tWoSB7E",
+      "eventId": "e1024",
+      "songs": [
+        {
+          "songId": "g9s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "YENA(최예나) (feat. 미료 of 브라운아이드걸스) - 너만 아니면 돼 | SBS 250817 방송",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16206",
+      "ytId": "w0oMP50tMxw",
+      "eventId": "e1025",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "최예나 전체무대 직캠 @ 전주대학교 250923",
+      "channel": "안미운오리새끼",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16207",
+      "ytId": "RHE-4_eZqz8",
+      "eventId": "e1022",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "251106 YENA 최예나 영산대학교 축제 full",
+      "channel": "조율희지",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "50% 53%"
+    },
+    {
+      "id": "v16208",
+      "ytId": "XkZPvl5BSow",
+      "eventId": "e1026",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] KISS OF LIFE BELLE (키스 오브 라이프 벨) – k bye FanCam | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "81% 35%"
+    },
+    {
+      "id": "v16209",
+      "ytId": "xfbQ8TR_iGs",
+      "eventId": "e1026",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] KISS OF LIFE NATTY (키스 오브 라이프 나띠) – k bye FanCam | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "76% 35%"
+    },
+    {
+      "id": "v16210",
+      "ytId": "LKm4TjVajCY",
+      "eventId": "e1026",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] KISS OF LIFE HANEUL (키스 오브 라이프 하늘) – k bye FanCam | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "74% 35%"
+    },
+    {
+      "id": "v16211",
+      "ytId": "VF-dj3vcPik",
+      "eventId": "e1026",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] KISS OF LIFE JULIE (키스 오브 라이프 쥴리) – k bye FanCam | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "86% 35%"
+    },
+    {
+      "id": "v16212",
+      "ytId": "4lccAROWWOk",
+      "eventId": "e1027",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 키스오브라이프 나띠 'k bye' (KISS OF LIFE NATTY FanCam) @SBS Inkigayo 250629",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16213",
+      "ytId": "qh2qmHzZPS8",
+      "eventId": "e1027",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 키스오브라이프 벨 'k bye' (KISS OF LIFE BELLE FanCam) @SBS Inkigayo 250629",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16214",
+      "ytId": "4hPmgtZfOTI",
+      "eventId": "e1027",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 키스오브라이프 하늘 'k bye' (KISS OF LIFE HANEUL FanCam) @SBS Inkigayo 250629",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16215",
+      "ytId": "P2dUVWPeO0s",
+      "eventId": "e1027",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 키스오브라이프 쥴리 'k bye' (KISS OF LIFE JULIE FanCam) @SBS Inkigayo 250629",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16216",
+      "ytId": "tiybPOJQ0do",
+      "eventId": "e981",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250706 Kiss of Life(키스오브라이프) 'Tell me' WATERBOMB SEOUL 워터밤 서울 - Focus JULIE(쥴리)",
+      "channel": "Sadam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16217",
+      "ytId": "JhJqm2vgek8",
+      "eventId": "e983",
+      "songs": [
+        {
+          "songId": "g10s29",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250719 KISS OF LIFE (키스오브라이프)- 쥴리 Maestro of My Heart 4K60P 직캠 fancam @KISS ROAD 콘서트",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16218",
+      "ytId": "-9gjuyURsGI",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[KISS OF LIFE(키스오브라이프)] 250720 'KISSY LOAD' IN SEOUL ENCORE: Tell Me - JULIE 쥴리 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16219",
+      "ytId": "kSrw7gWhku4",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250720 키스오브라이프 나띠 KISS OF LIFE NATTY 'W.House' 직캠 Fancam @키스로드 KISS ROAD IN SEOUL ENCORE",
+      "channel": "hush",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16220",
+      "ytId": "V2io3IdnoJk",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250720💋KISS OF LIFE 키스오브라이프 KISS ROAD in SEOUL ENCORE \"Heart of Gold\"  벨 Belle Cam",
+      "channel": "TinkerBelle👑🧚",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16221",
+      "ytId": "MEc1K8N3sdg",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[KISS OF LIFE(키스오브라이프)] 250720 'KISSY LOAD' IN SEOUL ENCORE: K bye - NATTY 나띠 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16222",
+      "ytId": "m9qrilJBwYI",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250720 키스오브라이프 나띠 KISS OF LIFE NATTY 'Chemistry' 직캠 Fancam @키스로드 KISS ROAD IN SEOUL ENCORE",
+      "channel": "hush",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16223",
+      "ytId": "WjaAq447N7k",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[KISS OF LIFE(키스오브라이프)] 250720 'KISSY LOAD' IN SEOUL ENCORE: Igloo - JULIE 쥴리 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16224",
+      "ytId": "jgSeIrq_w-4",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[KISS OF LIFE(키스오브라이프)] 250720 'KISSY LOAD' IN SEOUL ENCORE: Midas Touch - JULIE 쥴리 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16225",
+      "ytId": "DOX1jk8ibmM",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "키스오브라이프 나띠 - Igloo + Get Loud〈KISS OF LIFE NATTY FANCAM〉⏐ 250720 KISS ROAD in SEOUL ENCORE ⏐ 서울앵콜콘서트",
+      "channel": "띠냥이뇽안 LoveMyself_530",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "60% 35%"
+    },
+    {
+      "id": "v16226",
+      "ytId": "1YQfBBduQek",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[KISS OF LIFE(키스오브라이프)] 250720 'KISSY LOAD' IN SEOUL ENCORE: Nobody Knows - JULIE 쥴리 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16227",
+      "ytId": "rLrz9asRyK0",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[KISS OF LIFE(키스오브라이프)] 250720 'KISSY LOAD' IN SEOUL ENCORE: Te Quiero - NATTY 나띠 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "40% 35%"
+    },
+    {
+      "id": "v16228",
+      "ytId": "5Q_kkBOVu5s",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[KISS OF LIFE(키스오브라이프)] 250720 'KISSY LOAD' IN SEOUL ENCORE: Nothing - JULIE 쥴리 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16229",
+      "ytId": "MOYSGBs_dBw",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[KISS OF LIFE(키스오브라이프)] 250720 'KISSY LOAD' IN SEOUL ENCORE: 쉿 (Shhh) - JULIE 쥴리 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16230",
+      "ytId": "seoSWXogRpc",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[KISS OF LIFE(키스오브라이프)] 250720 'KISSY LOAD' IN SEOUL ENCORE: TTG - JULIE 쥴리 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16231",
+      "ytId": "Zop2qLgwbwg",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s29",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250720 키스오브라이프 나띠 KISS OF LIFE NATTY 'Maestro of My Heart' 직캠 @키스로드 KISS ROAD IN SEOUL ENCORE",
+      "channel": "hush",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16232",
+      "ytId": "Wp1--AYG-ZU",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[KISS OF LIFE(키스오브라이프)] 250720 'KISSY LOAD' IN SEOUL ENCORE: Lips Hips Kiss - JULIE 쥴리 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16233",
+      "ytId": "IbuKfPcDETA",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[KISS OF LIFE(키스오브라이프)] 250720 'KISSY LOAD' IN SEOUL ENCORE: Sticky - JULIE 쥴리 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "61% 35%"
+    },
+    {
+      "id": "v16234",
+      "ytId": "_hXrt0sDkPo",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[KISS OF LIFE(키스오브라이프)] 250720 'KISSY LOAD' IN SEOUL ENCORE: Bad News - JULIE 쥴리 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16235",
+      "ytId": "s-PVNUp37es",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        },
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 250720 키스오브라이프 하늘 k bye + Tell Me 합본 직캠 KISS ROAD IN SEOUL ENCORE KISS OF LIFE HANEUL Fan cam",
+      "channel": "볶근밥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16236",
+      "ytId": "Z2FqXPAr2eo",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250720 키스오브라이프 하늘 Igloo + Get Loud 합본 직캠 KISS ROAD IN SEOUL ENCORE KISS OF LIFE HANEUL Fan cam",
+      "channel": "볶근밥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16237",
+      "ytId": "9h4GK80fGCo",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250720💋KISS OF LIFE 키스오브라이프 KISS ROAD in SEOUL ENCORE \"Chemistry” 벨 Belle Cam",
+      "channel": "TinkerBelle👑🧚",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16238",
+      "ytId": "tedeWhbFeaY",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250720 KISS OF LIFE(키스 오브 라이프) - Lips Hips Kiss (HANEUL Focus)(KISS ROAD in Seoul Encore 4K Fancam)",
+      "channel": "Long Black",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "35% 35%"
+    },
+    {
+      "id": "v16239",
+      "ytId": "3PAF-fqNnjI",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250720 키스 오브 라이프 하늘 'K BYE' KISS ROAD ENCORE IN SEOUL 직캠 (KISS OF LIFE HANEUL FanCam)",
+      "channel": "CIRCLE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16240",
+      "ytId": "x3YVkXkUx_M",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "키스오브라이프 나띠 - Sticky 〈KISS OF LIFE NATTY FANCAM〉⏐ 250720 KISS ROAD in SEOUL ENCORE ⏐",
+      "channel": "띠냥이뇽안 LoveMyself_530",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16241",
+      "ytId": "PwGiqrLkV5c",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "키스오브라이프 나띠 - My 808 + Gentleman〈KISS OF LIFE NATTY FANCAM〉⏐ 250720 KISS ROAD in SEOUL ENCORE ⏐ 서울 앙콘",
+      "channel": "띠냥이뇽안 LoveMyself_530",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16242",
+      "ytId": "DNhUVd0JWMU",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250720 KISS OF LIFE(키스 오브 라이프) - BAD NEWS (NATTY Focus)(KISS ROAD in Seoul Encore 4K Fancam)",
+      "channel": "Long Black",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16243",
+      "ytId": "HzwdPmLnqCM",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250720 키스 오브 라이프 하늘 'Tell Me' KISS ROAD ENCORE IN SEOUL 직캠 (KISS OF LIFE HANEUL FanCam)",
+      "channel": "CIRCLE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16244",
+      "ytId": "f5sc51zSk30",
+      "eventId": "e985",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K - KISS OF LIFE  (키스 오브 라이프)  - IGLOO ( 250806 Sziget Festival 2025 무대 완료💚) [FULL PERFORMANCES]",
+      "channel": "AUSSABERRY",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "50% 47%"
+    },
+    {
+      "id": "v16245",
+      "ytId": "ybWGM6AH_8Y",
+      "eventId": "e985",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K-KISS OF LIFE (키스 오브 라이프) - STICKY ( 250806 Sziget Festival 2025 무대 완료💚) [FULL PERFORMANCES]",
+      "channel": "AUSSABERRY",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "50% 71%"
+    },
+    {
+      "id": "v16246",
+      "ytId": "oJgspwlwMfY",
+      "eventId": "e985",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K-KISS OF LIFE (키스 오브 라이프)- LIPS HIPS KISS (250806 Sziget Festival 2025 무대 완료💚) [FULL PERFORMANCES]",
+      "channel": "AUSSABERRY",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v16247",
+      "ytId": "FfK6t6MEuiI",
+      "eventId": "e985",
+      "songs": [
+        {
+          "songId": "g10s4",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K-KISS OF LIFE (키스 오브 라이프) - NOBODY KNOWS ( 250806 Sziget Festival 2025 무대 완료💚) [FULL PERFORMANCES]",
+      "channel": "AUSSABERRY",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "50% 57%"
+    },
+    {
+      "id": "v16248",
+      "ytId": "UBIjfyRbD_M",
+      "eventId": "e986",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s6",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "KISS OF LIFE 키스오브라이프 Full 'Igloo, Sticky, Nothing, Lips Hips Kiss, Midas Touch｜가천대 축제 250909",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "50% 10%"
+    },
+    {
+      "id": "v16249",
+      "ytId": "lL-BFjm7oF0",
+      "eventId": "e986",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "KISS OF LIFE Igloo, Sticky, etc (Full Ver) | 가천대 축제 250909",
+      "channel": "쇼미더스타 SMTS",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "50% 23%"
+    },
+    {
+      "id": "v16250",
+      "ytId": "IfUc83sd1lQ",
+      "eventId": "e986",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s6",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE 키오프 21분 FULL Ver - Igloo + Sticky + Nothing + Lips Hips Kiss | 가천대학교 | 250909 | 4K60P",
+      "channel": "7CLOVER",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "50% 17%"
+    },
+    {
+      "id": "v16251",
+      "ytId": "m9ZQLVmjQ-M",
+      "eventId": "e986",
+      "songs": [
+        {
+          "songId": "g10s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250909 키스오브라이프 쥴리(KISS OF LIFE Julie) - Nothing 1열 직캠(가천대학교 가을 축제 무한전야 : 월하(月下))",
+      "channel": "소가트 Sogat",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16252",
+      "ytId": "lbhCqf-lB5g",
+      "eventId": "e986",
+      "songs": [
+        {
+          "songId": "g10s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250909 가천대학교 Nothing 키스오브라이프 쥴리 직캠",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16253",
+      "ytId": "VNaWDfgq22M",
+      "eventId": "e986",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250909 가천대학교 Lips Hips Kiss 키스오브라이프 쥴리 직캠",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16254",
+      "ytId": "lVl1MNtoVkk",
+      "eventId": "e987",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s6",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250916 KISS OF LIFE 키오프 20분 FULL Ver - Igloo + Sticky + Nothing + Lips Hips Kiss | 중앙대학교 다빈치 | 4K60P",
+      "channel": "7CLOVER",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "50% 21%"
+    },
+    {
+      "id": "v16255",
+      "ytId": "4Cr3g1WF1Z4",
+      "eventId": "e987",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250916 키스 오브 라이프 나띠 직캠 \"IGLOO\" (KISS OF LIFE NATTY FANCAM) @중앙대학교",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "14% 35%"
+    },
+    {
+      "id": "v16256",
+      "ytId": "U6WkxMjMjvc",
+      "eventId": "e988",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE 벨 sticky 직캠 4K Full Ver. 서울대학교 250918",
+      "channel": "K-MORY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16257",
+      "ytId": "uaid5WfkA_g",
+      "eventId": "e988",
+      "songs": [
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE 벨 Midas Touch 직캠 4K Full Ver. 서울대학교 250918",
+      "channel": "K-MORY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16258",
+      "ytId": "gdx2_sA7Ju4",
+      "eventId": "e989",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE 나띠 Igloo 4K 직캠 Full Ver. 강원대학교 250924",
+      "channel": "K-MORY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16259",
+      "ytId": "jwU8LVW8JcI",
+      "eventId": "e989",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE 쥴리 Sticky 직캠 4K Full Ver. 강원대학교 250924",
+      "channel": "K-MORY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16260",
+      "ytId": "vUxhCB-xq6s",
+      "eventId": "e989",
+      "songs": [
+        {
+          "songId": "g10s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE 나띠 Nothing 직캠 4K Full Ver. 강원대학교 250924",
+      "channel": "K-MORY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16261",
+      "ytId": "KcZJzpsT_48",
+      "eventId": "e989",
+      "songs": [
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250924 강원대학교 키스오브라이프 쥴리 Midas Touch 직캠",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "34% 35%"
+    },
+    {
+      "id": "v16262",
+      "ytId": "aYW4_mc7bMQ",
+      "eventId": "e989",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250924 강원대학교 키스오브라이프 쥴리 Sticky 스티키 직캠",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "37% 35%"
+    },
+    {
+      "id": "v16263",
+      "ytId": "3byO6BohOZA",
+      "eventId": "e990",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250927 키스오브라이프 Kiss of Life - Haneul 하늘 Sticky 직캠",
+      "channel": "ZRoCam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16264",
+      "ytId": "sXrfhdv1QNY",
+      "eventId": "e990",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "키스오브라이프 하늘 KISSOFLIFE HANEUL '텔미 Tell me + 스티키 Sticky' 4k 옆모습 직캠 250927 키오프 @청년의날 콘서트 Kpop fancam",
+      "channel": "푸푸작가 pupuphoto",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16265",
+      "ytId": "CLHY6UCwjWg",
+      "eventId": "e990",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250927 Me+Youth Festival 미유페 키스오브라이프 Tell Me 쥴리 직캠",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "38% 35%"
+    },
+    {
+      "id": "v16266",
+      "ytId": "xJhBP3OGXaw",
+      "eventId": "e990",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250927 Me+Youth Festival 미유페 키스오브라이프 Lips Hips Kiss 쥴리 직캠",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "35% 35%"
+    },
+    {
+      "id": "v16267",
+      "ytId": "qFX-6-C8Oro",
+      "eventId": "e990",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250927 Me+Youth Festival 미유페 키스오브라이프 Igloo 쥴리 직캠",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16268",
+      "ytId": "lVm1wmH6BxA",
+      "eventId": "e990",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250927 Me+Youth Festival 미유페 키스오브라이프 Sticky 쥴리 직캠",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "58% 35%"
+    },
+    {
+      "id": "v16269",
+      "ytId": "7OeBeN4S-88",
+      "eventId": "e990",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K직캠丨하늘 (HANEUL)- Tell Me丨250927 ME+YOUTH Festival 청년의날 페스티벌丨KISS OF LIFE (키스오브라이프)丨KIOF 키오프",
+      "channel": "GYRSJYXT",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16270",
+      "ytId": "ntsTpMUkLkQ",
+      "eventId": "e990",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250927 키스오브라이프 Kiss of Life - Haneul 하늘 Igloo 직캠",
+      "channel": "ZRoCam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16271",
+      "ytId": "m4aeF2F9nk8",
+      "eventId": "e991",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250929 KISS OF LIFE (키스오브라이프) 나띠 'Igloo' @인천대학교 직캠/fancam",
+      "channel": "곰곰s",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16272",
+      "ytId": "Dj6x3LfT7nA",
+      "eventId": "e992",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "쥴리(JULIE) 키스오브라이프(KISS OF LIFE) 'Sticky+Igloo+Lips Hips Kiss' 251011 LG드림페스티벌 축하공연 직캠 FULL 4K 60P",
+      "channel": "beforEffect",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16273",
+      "ytId": "A4Syg1YiAQY",
+      "eventId": "e992",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251011 구미 LG드림페스티벌 키스오브라이프 sticky 쥴리 직캠 ",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "57% 35%"
+    },
+    {
+      "id": "v16274",
+      "ytId": "zPyREGSot-4",
+      "eventId": "e992",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251011 구미 LG드림페스티벌 키스오브라이프 IGLOO 쥴리 직캠 ",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16275",
+      "ytId": "R3qRLaM76JY",
+      "eventId": "e994",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251019 키스 오브 라이프 하늘 'Igloo' VLF 패스티벌 직캠 (KISS OF LIFE HANEUL FanCam)",
+      "channel": "CIRCLE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16276",
+      "ytId": "BET7Obn_h_E",
+      "eventId": "e994",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251019 키스 오브 라이프 하늘 'LIPS HIPS KISS' VLF 패스티벌 직캠 (KISS OF LIFE HANEUL FanCam)",
+      "channel": "CIRCLE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16277",
+      "ytId": "DCLuiDMDedk",
+      "eventId": "e994",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251019 버추얼 라이브 페스티벌 키스오브라이프 Lips Hips Kiss 쥴리 직캠 ",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "25% 35%"
+    },
+    {
+      "id": "v16278",
+      "ytId": "g_mZQeONcAE",
+      "eventId": "e996",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251025 INK 콘서트 'Igloo' KISS OF LIFE 하늘 4K 직캠",
+      "channel": "오렌지",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16279",
+      "ytId": "svgmMNHD8ss",
+      "eventId": "e996",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251025💋KISS OF LIFE 키스오브라이프 INK 잉크콘 \"Tell Me\"  벨 Belle Cam",
+      "channel": "TinkerBelle👑🧚",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "63% 35%"
+    },
+    {
+      "id": "v16280",
+      "ytId": "RjQAUv7LEJY",
+      "eventId": "e996",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251025 INK 콘서트 키스오브라이프 Lips Hips Kiss 쥴리 직캠",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16281",
+      "ytId": "msJgCZMMytI",
+      "eventId": "e997",
+      "songs": [
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] 키스 오브 라이프(KISS OF LIFE) - \"벨 - Midas Touch\" 세로 직캠 | 차의과대학교 251028",
+      "channel": "Light Duk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16282",
+      "ytId": "HT9OwM-dcrE",
+      "eventId": "e997",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "키스오브라이프(KISS OF LIFE) 나띠(NATTY) Igloo 직캠 FANCAM ｜251028 차 의과대학교 축제 현암제",
+      "channel": "MOOMIN",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16283",
+      "ytId": "v2ALzYdZ5Go",
+      "eventId": "e997",
+      "songs": [
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "키스오브라이프(KISS OF LIFE) 나띠(NATTY) Midas Touch 직캠 FANCAM ｜251028 차 의과대학교 축제 현암제",
+      "channel": "MOOMIN",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16284",
+      "ytId": "OiN9mFPJVac",
+      "eventId": "e997",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] 키스 오브 라이프(KISS OF LIFE) - \"나띠 - Igloo\" 세로 직캠 | 차의과대학교 251028",
+      "channel": "Light Duk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16285",
+      "ytId": "dreEFOAliO4",
+      "eventId": "e997",
+      "songs": [
+        {
+          "songId": "g10s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "키스오브라이프 쥴리 ( Nothing ) 차의과대학교 축제 직캠 KissOfLife Fancam 251028",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "27% 35%"
+    },
+    {
+      "id": "v16286",
+      "ytId": "2qHOdYubuo0",
+      "eventId": "e997",
+      "songs": [
+        {
+          "songId": "g10s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "키스오브라이프(KISS OF LIFE) 나띠(NATTY) Nothing 직캠 FANCAM ｜251028 차 의과대학교 축제 현암제",
+      "channel": "MOOMIN",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16287",
+      "ytId": "BkgFgGdclzA",
+      "eventId": "e997",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] 키스 오브 라이프(KISS OF LIFE) - \"쥴리 - Sticky\" 세로 직캠 | 차의과대학교 251028",
+      "channel": "Light Duk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16288",
+      "ytId": "Xr9UBmv0VRM",
+      "eventId": "e997",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "키스오브라이프(KISS OF LIFE) 나띠(NATTY) Sticky 직캠 FANCAM ｜251028 차 의과대학교 현암제",
+      "channel": "MOOMIN",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "100% 35%"
+    },
+    {
+      "id": "v16289",
+      "ytId": "q6GHhBhl5NM",
+      "eventId": "e997",
+      "songs": [
+        {
+          "songId": "g10s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] 키스 오브 라이프(KISS OF LIFE) - \"하늘 - Nothing\" 세로 직캠 | 차의과대학교 251028",
+      "channel": "Light Duk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16290",
+      "ytId": "oq7-kU8UNJM",
+      "eventId": "e1000",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251115 KGMA 키스오브라이프 KISS OF LIFE 나띠 직캠 Natty Fancam 'K Bye'",
+      "channel": "K_i_tty",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16291",
+      "ytId": "QqIWIeUg3QA",
+      "eventId": "e1000",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "키스오브라이프 하늘 (KISS OF LIFE HANEUL) :: k bye + Lucky :: 2025 KGMA 251115 fancam",
+      "channel": "connect",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16292",
+      "ytId": "lleu7RF2oKg",
+      "eventId": "e1000",
+      "songs": [
+        {
+          "songId": "g10s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "키스오브라이프 나띠(NATTY) - 10 Minutes (원곡: 이효리) KISS OF LIFE 직캠 | KGMA • 251115",
+      "channel": "길몽 GILMONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16293",
+      "ytId": "1CWfLurbwCg",
+      "eventId": "e1000",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251115 키스 오브 라이프 하늘 'LUCKY' 2025 KGMA DAY 2 직캠 (KISS OF LIFE HANEUL FanCam)",
+      "channel": "CIRCLE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16294",
+      "ytId": "k-Z_aq8bGH0",
+      "eventId": "e1000",
+      "songs": [
+        {
+          "songId": "g10s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 키스오브라이프 나띠 - 10 Minutes @KGMA (KISSOFLIFE NATTY FANCAM)",
+      "channel": "Day_Day",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16295",
+      "ytId": "4RSAB_m4_0Q",
+      "eventId": "e1000",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251115 키스오브라이프 KISS OF LIFE 나띠 직캠 NATTY Fancam 'k bye+Lucky' @KGMA",
+      "channel": "hush",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16296",
+      "ytId": "SB20EkPnPjo",
+      "eventId": "e1000",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251115 하늘 HANEUL 키스 오브 라이프 KISS OF LIFE 'k bye + LUCKY' 4K 60P | KGMA",
+      "channel": "Spotted",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16297",
+      "ytId": "XIVj8lyigvs",
+      "eventId": "e1000",
+      "songs": [
+        {
+          "songId": "g10s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "나띠 #NATTY ♬ 10 minutes (이효리 2003) @251115 KGMA 오프닝 #KISSOFLIFE #키스오브라이프 #키오프",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16298",
+      "ytId": "vxS4ken2cvI",
+      "eventId": "e1000",
+      "songs": [
+        {
+          "songId": "g10s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K CAM] 251115 나띠의 텐미닛 KISS OF LIFE NATTY '10 Minutes' 직캠",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16299",
+      "ytId": "eNcha0Kuf4I",
+      "eventId": "e1000",
+      "songs": [
+        {
+          "songId": "g10s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251115 키스오브라이프 KISS OF LIFE 나띠 직캠 NATTY Fancam '10 Minutes' @KGMA",
+      "channel": "hush",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16300",
+      "ytId": "SZjBEQDvjaU",
+      "eventId": "e1004",
+      "songs": [
+        {
+          "songId": "g10s29",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251206 키스오브라이프 KISS OF LIFE 나띠 직캠 NATTY Fancam 'Maestro of My Heart+Lucky' @2025 AAA",
+      "channel": "hush",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16301",
+      "ytId": "Oq5LDkmoIQ0",
+      "eventId": "e1004",
+      "songs": [
+        {
+          "songId": "g10s29",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251206 키스오브라이프 KISS OF LIFE 하늘 직캠 Haneul Fancam ‘Maestro of My Heart + Lucky’ @2025 AAA",
+      "channel": "Blumire_Sky",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "81% 35%"
+    },
+    {
+      "id": "v16302",
+      "ytId": "N1giaXv3oiM",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251219 KISS OF LIFE NATTY 키스 오브 라이프 나띠 'Sticky+Midas Touch+lgloo+Lips Hips Kiss' | 가요대축제",
+      "channel": "Spotted",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16303",
+      "ytId": "d9uvXWahS1A",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251219 KISS OF LIFE (키스 오브 라이프) - Bad Girl Good Girl (원곡 : Miss A)｜하늘｜2025 KBS 가요대축제 글로벌 페스티벌",
+      "channel": "슈삶 및 슈삼",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16304",
+      "ytId": "k3YTEKWwH3c",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251219 키스오브라이프 KISS OF LIFE 하늘 직캠 Haneul Fancam 'Bad Girl Good Girl' @KBS 가요대축제",
+      "channel": "Blumire_Sky",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "18% 35%"
     }
   ],
   "clips": []
