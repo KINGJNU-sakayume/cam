@@ -4652,6 +4652,107 @@
           "order": 25,
           "release": "",
           "kind": "cover"
+        },
+        {
+          "id": "g10s26",
+          "title": "TTG",
+          "aliases": [],
+          "order": 26,
+          "release": "2023-11-08"
+        },
+        {
+          "id": "g10s27",
+          "title": "My 808",
+          "aliases": [
+            "마이 808"
+          ],
+          "order": 27,
+          "release": "2023-11-08"
+        },
+        {
+          "id": "g10s28",
+          "title": "SUPERPOWER",
+          "aliases": [
+            "슈퍼파워"
+          ],
+          "order": 28,
+          "release": "2024-07-23"
+        },
+        {
+          "id": "g10s29",
+          "title": "Maestro of My Heart",
+          "aliases": [
+            "Maestro of My Heart (Prod. Czaer)",
+            "마에스트로 오브 마이 하트"
+          ],
+          "order": 29,
+          "release": "2024-09-23"
+        },
+        {
+          "id": "g10s30",
+          "title": "Live, Love, Laugh",
+          "aliases": [
+            "Live Love Laugh"
+          ],
+          "order": 30,
+          "release": "2025-05-07"
+        },
+        {
+          "id": "g10s31",
+          "title": "W.House",
+          "aliases": [
+            "Winehouse"
+          ],
+          "order": 31,
+          "release": "2025-05-07"
+        },
+        {
+          "id": "g10s32",
+          "title": "Heart of Gold",
+          "aliases": [
+            "하트 오브 골드"
+          ],
+          "order": 32,
+          "release": "2025-06-09"
+        },
+        {
+          "id": "g10s33",
+          "title": "Lucky",
+          "aliases": [
+            "Lucky (Korean Ver.)",
+            "럭키"
+          ],
+          "order": 33,
+          "release": "2025-11-05"
+        },
+        {
+          "id": "g10s34",
+          "title": "Bad Girl Good Girl",
+          "aliases": [
+            "배드 걸 굿 걸"
+          ],
+          "order": 34,
+          "release": "",
+          "kind": "cover"
+        },
+        {
+          "id": "g10s35",
+          "title": "10 Minutes",
+          "aliases": [
+            "텐미닛",
+            "텐 미닛"
+          ],
+          "order": 35,
+          "release": "",
+          "kind": "cover"
+        },
+        {
+          "id": "g10s36",
+          "title": "여행을 떠나요",
+          "aliases": [],
+          "order": 36,
+          "release": "",
+          "kind": "cover"
         }
       ]
     }
@@ -15607,6 +15708,346 @@
       "label": "",
       "setlist": [
         "g10s16"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e981",
+      "groupId": "g10",
+      "date": "2025-07-06",
+      "show": "워터밤 서울",
+      "label": "",
+      "setlist": [
+        "g10s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e982",
+      "groupId": "g10",
+      "date": "2025-07-19",
+      "show": "KISS ROAD 서울 ENCORE",
+      "label": "사운드체크",
+      "setlist": [
+        "g10s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e983",
+      "groupId": "g10",
+      "date": "2025-07-19",
+      "show": "KISS ROAD 서울 ENCORE",
+      "label": "",
+      "setlist": [
+        "g10s5",
+        "g10s1",
+        "g10s11",
+        "g10s10",
+        "g10s7",
+        "g10s15",
+        "g10s3",
+        "g10s26",
+        "g10s6",
+        "g10s8",
+        "g10s27",
+        "g10s32",
+        "g10s4",
+        "g10s30"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e984",
+      "groupId": "g10",
+      "date": "2025-07-20",
+      "show": "KISS ROAD 서울 ENCORE",
+      "label": "",
+      "setlist": [
+        "g10s12",
+        "g10s11",
+        "g10s10",
+        "g10s14",
+        "g10s15",
+        "g10s7",
+        "g10s26",
+        "g10s13",
+        "g10s4",
+        "g10s31",
+        "g10s29",
+        "g10s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e985",
+      "groupId": "g10",
+      "date": "2025-08-06",
+      "show": "Sziget Festival 부다페스트",
+      "label": "",
+      "setlist": [
+        "g10s11",
+        "g10s28"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e986",
+      "groupId": "g10",
+      "date": "2025-09-09",
+      "show": "가천대 축제",
+      "label": "",
+      "setlist": [
+        "g10s11",
+        "g10s7",
+        "g10s6",
+        "g10s13",
+        "g10s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e987",
+      "groupId": "g10",
+      "date": "2025-09-16",
+      "show": "중앙대 축제",
+      "label": "",
+      "setlist": [
+        "g10s11",
+        "g10s7",
+        "g10s6",
+        "g10s13",
+        "g10s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e988",
+      "groupId": "g10",
+      "date": "2025-09-18",
+      "show": "서울대 축제",
+      "label": "",
+      "setlist": [
+        "g10s11",
+        "g10s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e989",
+      "groupId": "g10",
+      "date": "2025-09-24",
+      "show": "강원대 춘천캠퍼스 축제",
+      "label": "",
+      "setlist": [
+        "g10s11",
+        "g10s6",
+        "g10s7",
+        "g10s13",
+        "g10s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e990",
+      "groupId": "g10",
+      "date": "2025-09-27",
+      "show": "청년의 날 콘서트",
+      "label": "",
+      "setlist": [
+        "g10s15",
+        "g10s7",
+        "g10s13",
+        "g10s6",
+        "g10s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e991",
+      "groupId": "g10",
+      "date": "2025-09-29",
+      "show": "인천대 축제",
+      "label": "",
+      "setlist": [
+        "g10s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e992",
+      "groupId": "g10",
+      "date": "2025-10-11",
+      "show": "구미 LG 드림 페스티벌 두시탈출 컬투쇼",
+      "label": "",
+      "setlist": [
+        "g10s7",
+        "g10s11",
+        "g10s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e993",
+      "groupId": "g10",
+      "date": "2025-10-16",
+      "show": "삼성전자 어울림축제",
+      "label": "",
+      "setlist": [
+        "g10s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e994",
+      "groupId": "g10",
+      "date": "2025-10-19",
+      "show": "버추얼 라이브 페스티벌",
+      "label": "",
+      "setlist": [
+        "g10s13",
+        "g10s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e995",
+      "groupId": "g10",
+      "date": "2025-10-24",
+      "show": "대림대 축제",
+      "label": "",
+      "setlist": [
+        "g10s11",
+        "g10s7",
+        "g10s6",
+        "g10s13",
+        "g10s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e996",
+      "groupId": "g10",
+      "date": "2025-10-25",
+      "show": "INK 콘서트",
+      "label": "",
+      "setlist": [
+        "g10s15"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e997",
+      "groupId": "g10",
+      "date": "2025-10-28",
+      "show": "차의과학대 축제",
+      "label": "",
+      "setlist": [
+        "g10s11",
+        "g10s7",
+        "g10s6",
+        "g10s13",
+        "g10s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e998",
+      "groupId": "g10",
+      "date": "2025-11-06",
+      "show": "TIMM YouTube Music Nights ASIA DAY 도쿄",
+      "label": "",
+      "setlist": [
+        "g10s7",
+        "g10s33"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e999",
+      "groupId": "g10",
+      "date": "2025-11-13",
+      "show": "Spotify House 서울",
+      "label": "",
+      "setlist": [
+        "g10s13",
+        "g10s12",
+        "g10s15",
+        "g10s7",
+        "g10s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1000",
+      "groupId": "g10",
+      "date": "2025-11-15",
+      "show": "Korea Grand Music Awards",
+      "label": "",
+      "setlist": [
+        "g10s35"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1001",
+      "groupId": "g10",
+      "date": "2025-11-21",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g10s33"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1002",
+      "groupId": "g10",
+      "date": "2025-11-22",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g10s33"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1003",
+      "groupId": "g10",
+      "date": "2025-11-23",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g10s33"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1004",
+      "groupId": "g10",
+      "date": "2025-12-06",
+      "show": "Asia Artist Awards 가오슝",
+      "label": "",
+      "setlist": [
+        "g10s29",
+        "g10s33"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1005",
+      "groupId": "g10",
+      "date": "2025-12-19",
+      "show": "KBS 가요대축제 글로벌 페스티벌",
+      "label": "",
+      "setlist": [
+        "g10s34",
+        "g10s7",
+        "g10s5",
+        "g10s11",
+        "g10s13",
+        "g10s33",
+        "g10s36"
       ],
       "note": ""
     }
@@ -293295,6 +293736,2846 @@
       "tags": [],
       "title": "260606 키스오브라이프 하늘 직캠 'Who is she' (KISS OF LIFE HANEUL FanCam)",
       "channel": "ChaeCam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15976",
+      "ytId": "6UPe5a3hHD0",
+      "eventId": "e981",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "250706 KISS OF LIFE 쥴리 Focus - Sticky | WATER BOMB 2025 SEOUL",
+      "channel": "릉릉 Seung What",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15977",
+      "ytId": "ecASgXe5hyg",
+      "eventId": "e981",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "WATERBOMB SEOUL 2025 KISS OF LIFE 워터밤 서울 2025 키스오브라이프",
+      "channel": "WATERBOMB",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15978",
+      "ytId": "35NCpPpRRJw",
+      "eventId": "e982",
+      "songs": [
+        {
+          "songId": "g10s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "250719 키스오브라이프(KISS OF LIFE) 'Chemistry' 직캠(fancam) @concert 콘서트 사운드체크 #KIOF",
+      "channel": "보가츠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15979",
+      "ytId": "eDsDVtoaNGU",
+      "eventId": "e983",
+      "songs": [
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "250719 KISS OF LIFE (키스오브라이프)- 쥴리 Midas Touch 4K60P 직캠 fancam @KISS ROAD 콘서트",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15980",
+      "ytId": "_Q_x2bJcopw",
+      "eventId": "e983",
+      "songs": [
+        {
+          "songId": "g10s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "250719 KISS OF LIFE (키스오브라이프)- 쥴리 쉿 (Shhh) 4K60P 직캠 fancam @KISS ROAD 콘서트",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15981",
+      "ytId": "9nkujdcYHSQ",
+      "eventId": "e983",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "250719 KISS OF LIFE (키스오브라이프)- 쥴리 Igloo & Get Loud 4K60P 직캠 fancam @KISS ROAD 콘서트",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15982",
+      "ytId": "6ZzCYMjRegw",
+      "eventId": "e983",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "250719 KISS ROAD ENCORE CONCERT 키스로드 앙콘 Sticky 쥴리 직캠",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15983",
+      "ytId": "JlfkwRgbEAY",
+      "eventId": "e983",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "250719 KISS OF LIFE (키스오브라이프)- 쥴리 Tell Me 4K60P 직캠 fancam @KISS ROAD 콘서트",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15984",
+      "ytId": "47nVADYV-U0",
+      "eventId": "e983",
+      "songs": [
+        {
+          "songId": "g10s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "250719 KISS OF LIFE (키스오브라이프)- 쥴리 Bad News 4K60P 직캠 fancam @KISS ROAD 콘서트",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15985",
+      "ytId": "C_0rn8hcXvA",
+      "eventId": "e983",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "250719 KISS OF LIFE (키스오브라이프)- 쥴리 Sitcky & TTG 4K60P 직캠 fancam @KISS ROAD 콘서트",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15986",
+      "ytId": "iplN8CRyzkA",
+      "eventId": "e983",
+      "songs": [
+        {
+          "songId": "g10s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "250719 KISS OF LIFE (키스오브라이프)- 쥴리 Nothing 4K60P 직캠 fancam @KISS ROAD 콘서트",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15987",
+      "ytId": "n3TWxeickBA",
+      "eventId": "e983",
+      "songs": [
+        {
+          "songId": "g10s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "250719 KISS OF LIFE (키스오브라이프)- 쥴리 Te Quiero 4K60P 직캠 fancam @KISS ROAD 콘서트",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15988",
+      "ytId": "qUtd4sXaOqs",
+      "eventId": "e983",
+      "songs": [
+        {
+          "songId": "g10s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "250719 KISS OF LIFE (키스오브라이프)- 쥴리 My 808 4K60P 직캠 fancam @KISS ROAD 콘서트",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15989",
+      "ytId": "4gc6lx1WHVY",
+      "eventId": "e983",
+      "songs": [
+        {
+          "songId": "g10s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "250719 KISS OF LIFE (키스오브라이프)- 쥴리 Heart of Gold 4K60P 직캠 fancam @KISS ROAD 콘서트",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15990",
+      "ytId": "5eApJ3TNkcE",
+      "eventId": "e983",
+      "songs": [
+        {
+          "songId": "g10s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "250719 KISS OF LIFE (키스오브라이프)- 쥴리 Nobody Knows 4K60P 직캠 fancam @KISS ROAD 콘서트",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15991",
+      "ytId": "8JQ9vjnIFqM",
+      "eventId": "e983",
+      "songs": [
+        {
+          "songId": "g10s30",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "250719 KISS OF LIFE (키스오브라이프)- 쥴리 Live, Love, Laugh 4K60P 직캠 fancam @KISS ROAD 콘서트",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15992",
+      "ytId": "f2F8IfZSv2E",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[8K] 250720 키스 오브 라이프 나띠 KISS OF LIFE NATTY - Chemistry 직캠 Fancam @KISS ROAD IN SEOUL ENCORE",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15993",
+      "ytId": "DYrLbKCml3k",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[8K] 250720 키스 오브 라이프 나띠 KISS OF LIFE NATTY - Igloo, Get Loud 직캠 Fancam @KISS ROAD IN SEOUL ENCORE",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15994",
+      "ytId": "IZnBwjz3tNk",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        },
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[8K] 250720 키스 오브 라이프 나띠 KISS OF LIFE NATTY - k bye + Tell Me 직캠 Fancam @KISS ROAD IN SEOUL ENCORE",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15995",
+      "ytId": "p74HTdThYn0",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[8K] 250720 키스 오브 라이프 쥴리 KISS OF LIFE JULIE - Sticky + TTG 직캠 Fancam @KISS ROAD IN SEOUL ENCORE",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15996",
+      "ytId": "hkXoB8Kh9dg",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[8K] 250720 키스 오브 라이프 나띠 KISS OF LIFE NATTY - Lips Hips Kiss 직캠 Fancam @KISS ROAD IN SEOUL ENCORE",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15997",
+      "ytId": "bHQUzgt-PV8",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[8K] 250720 키스 오브 라이프 나띠 KISS OF LIFE NATTY - Nobody Knows 직캠 Fancam @KISS ROAD IN SEOUL ENCORE",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15998",
+      "ytId": "zWoD5MAM3YY",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[8K] 250720 키스 오브 라이프 나띠 KISS OF LIFE NATTY - W.House 직캠 Fancam @KISS ROAD IN SEOUL ENCORE",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15999",
+      "ytId": "7EC4Se2AVB4",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s29",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[8K] 250720 키스 오브 라이프 나띠 KISS OF LIFE NATTY - Maestro of My Heart 직캠 @KISS ROAD IN SEOUL ENCORE",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16000",
+      "ytId": "WmCqBoYDYag",
+      "eventId": "e984",
+      "songs": [
+        {
+          "songId": "g10s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[8K] 250720 키스 오브 라이프 나띠 KISS OF LIFE NATTY - Te Quiero 직캠 Fancam @KISS ROAD IN SEOUL ENCORE",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16001",
+      "ytId": "HhgyoY1m1nM",
+      "eventId": "e985",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE (키스오브라이프) | SZIGET Festival 2025 (Full Performance)",
+      "channel": "KISS OF LIFE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16002",
+      "ytId": "r68LsXv8xK0",
+      "eventId": "e985",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE (키스오브라이프) | 'Igloo' Live Performance | SZIGET Festival 2025",
+      "channel": "KISS OF LIFE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16003",
+      "ytId": "xuDsO54nFtw",
+      "eventId": "e985",
+      "songs": [
+        {
+          "songId": "g10s28",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE (키스오브라이프) | 'SUPERPOWER' Live Performance | SZIGET Festival 2025",
+      "channel": "KISS OF LIFE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16004",
+      "ytId": "onLLiRJ9auI",
+      "eventId": "e985",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "KISS OF LIFE - Igloo (live from Sziget Festival, 2025)",
+      "channel": "MUSICDAILY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16005",
+      "ytId": "eH4K7Dpzj3Y",
+      "eventId": "e986",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s6",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "250909 키스오브라이프 KISS OF LIFE Full ver 'Igloo+Sticky+Nothing+Lips Hips Kiss+Midas Touch' 8K 직캠 @가천대 축제",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16006",
+      "ytId": "AIG6kNr3k2o",
+      "eventId": "e986",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250909 키스오브라이프 나띠(KISS OF LIFE Natty) - Lips Hips Kiss 1열 직캠(가천대학교 가을 축제 무한전야 : 월하(月下))",
+      "channel": "소가트 Sogat",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16007",
+      "ytId": "J3rah2ZJ-38",
+      "eventId": "e986",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프(KISS OF LIFE) Full ver. (Lips Hips Kiss) 직캠 | 가천대 축제 • 250909",
+      "channel": "비몽 BIMONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16008",
+      "ytId": "_QASSOTrBXw",
+      "eventId": "e986",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프(KISS OF LIFE) - Sticky (스티키) 직캠 | 가천대 축제 • 250909",
+      "channel": "비몽 BIMONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16009",
+      "ytId": "b2342jYLZkI",
+      "eventId": "e986",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s6",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 (KISS OF LIFE) Gachon Unifesta Full Ver. (Igloo+Sticky +Nothing+Lips Hips Kiss+Midas Touch)",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16010",
+      "ytId": "WbeKGQob7cE",
+      "eventId": "e986",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프(KISS OF LIFE) - Lips Hips Kiss (립스 힙스 키스) 직캠 | 가천대 축제 • 250909",
+      "channel": "비몽 BIMONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16011",
+      "ytId": "fwzjbt5U8iw",
+      "eventId": "e986",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250909 키스오브라이프 KISS OF LIFE 나띠 직캠 NATTY Fancam 'Lips Hips Kiss' @가천대축제",
+      "channel": "hush",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16012",
+      "ytId": "j1aoW1kQgPE",
+      "eventId": "e987",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s6",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 대축 풀캠 KISS OF LIFE ♬ igloo ♬ Sticky ♬ Nothing ♬ Lips Hips Kiss ♬ Midas Touch @250916 중앙대",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16013",
+      "ytId": "JyXpIumDN_s",
+      "eventId": "e988",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "250918 서울대 나띠 Igloo",
+      "channel": "Serenity",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16014",
+      "ytId": "s58xcA7-McM",
+      "eventId": "e988",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE 나띠 Igloo 직캠 4K Full Ver. 서울대학교 250918",
+      "channel": "K-MORY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16015",
+      "ytId": "jPoIfp0Xnq4",
+      "eventId": "e988",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE 나띠 Lips Hips Kiss 직캠 4K Full Ver. 서울대학교 250918",
+      "channel": "K-MORY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16016",
+      "ytId": "5dnr6CgFg0c",
+      "eventId": "e989",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s6",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 대학축제 풀캠 #키오프  #KISSOFLIFE ♬Igloo ♬Nothing ♬Sticky ♬Lips Hips Kiss ♬Midas Touch @250924 강원대",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16017",
+      "ytId": "cM3f0mbvAQU",
+      "eventId": "e989",
+      "songs": [
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE 하늘 Midas Touch 직캠 4K Full Ver. 강원대학교 250924",
+      "channel": "K-MORY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16018",
+      "ytId": "fybA2_epgmk",
+      "eventId": "e989",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s6",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "250924 키스오브라이프 KISS OF LIFE Full ver 'Igloo+Sticky+Nothing+Lips Hips Kiss+Midas Touch' 8K 직캠 @강원대 축제",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16019",
+      "ytId": "G9HB-2KWiW4",
+      "eventId": "e989",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k ]키스오브라이프[KISS OF LIFE] - IGLOO (Fancam) @강원대학교 춘천캠퍼스 축제",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16020",
+      "ytId": "xdTI0W3awzs",
+      "eventId": "e990",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250927 키스오브라이프 쥴리 직캠 'Tell Me' KISS OF LIFE(JULIE) Fancam @청년의날 콘서트  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16021",
+      "ytId": "9S6Jx4gPB90",
+      "eventId": "e990",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250927 키스오브라이프 쥴리 직캠 'Sticky' KISS OF LIFE(JULIE) Fancam @청년의날 콘서트  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16022",
+      "ytId": "dYII33N5Qcs",
+      "eventId": "e990",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s15",
+          "t": 0
+        },
+        {
+          "songId": "g10s6",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "250927 키스오브라이프 벨(KISS OF LIFE BELLE) Full Ver. 'Lips Hips Kiss+Tell Me+Nothing+Igloo+Sticky' @청년의 날",
+      "channel": "천둥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16023",
+      "ytId": "vzQ2slbQW9Y",
+      "eventId": "e990",
+      "songs": [
+        {
+          "songId": "g10s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250927 키스오브라이프 쥴리 직캠 'Nothing' KISS OF LIFE(JULIE) Fancam @청년의날 콘서트  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16024",
+      "ytId": "pumb9I24IQ8",
+      "eventId": "e991",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "250929 KISS OF LIFE (키스오브라이프) 나띠 'Lips Hips Kiss' @인천대학교 직캠/fancam",
+      "channel": "곰곰s",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16025",
+      "ytId": "qk9Y0J7q_TM",
+      "eventId": "e992",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 ♬ Sticky ♬ Igloo ♬ Lips Hips Kiss #KISSOFLIFE #키오프 @251011 구미 LG 드림 페스티벌 두시탈출 컬투쇼",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16026",
+      "ytId": "gQdLg1m_2cM",
+      "eventId": "e993",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] KISS OF LIFE NATTY (키스오브라이프 나띠) – Sticky | 삼성전자 어울림축제 (2025.10.16)",
+      "channel": "STAGEIN",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16027",
+      "ytId": "uNIGuD3ud3A",
+      "eventId": "e994",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "4K 251019 키스오브라이프 하늘 직캠 | Lips Hips Kiss Fancam | 버추얼 라이브 페스티벌 | KISS OF LIFE | HANEUL",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16028",
+      "ytId": "9r9y6N-FTHg",
+      "eventId": "e994",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "251019 하늘 Igloo 직캠 KISS OF LIFE 버추얼라이브페스티벌",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16029",
+      "ytId": "fnqRMdocBAM",
+      "eventId": "e994",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "4K 251019 키스오브라이프 하늘 직캠 | Igloo Fancam | 버추얼 라이브 페스티벌 | KISS OF LIFE | HANEUL",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16030",
+      "ytId": "NNOG8mv0FZs",
+      "eventId": "e995",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s6",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "251024 키스오브라이프 KISS OF LIFE Full ver Igloo+Sticky+Nothing+Lips Hips Kiss+Midas Touch 4K 직캠 @대림대 축제",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16031",
+      "ytId": "-yD0e-C1fgM",
+      "eventId": "e995",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s6",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 대축 풀캠 ♬ Igloo ♬ Sticky ♬ Nothing ♬ Lips Hips Kiss ♬ Midas Touch #KISSOFLIFE #키오프 @251024 대림대",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16032",
+      "ytId": "gOtCDmUIiGc",
+      "eventId": "e995",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 쥴리 ( Kiss Lips Hips ) 대림대학교 축제 직캠 KissOfLife Fancam 251024",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16033",
+      "ytId": "ggHVY49GNSg",
+      "eventId": "e995",
+      "songs": [
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 하늘 ( MIdas Touch ) 대림대학교 축제 직캠 KissOfLife Fancam 251024",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16034",
+      "ytId": "W--eLzFdyg4",
+      "eventId": "e995",
+      "songs": [
+        {
+          "songId": "g10s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 벨 ( Nothing ) 대림대학교 축제 직캠 KissOfLife Fancam 251024",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16035",
+      "ytId": "pFHQtUctuaE",
+      "eventId": "e996",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251025 키스오브라이프 KISS OF LIFE 나띠 직캠 NATTY Fancam 'Tell Me' @INK 콘서트",
+      "channel": "hush",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16036",
+      "ytId": "IujJ3H4fLrU",
+      "eventId": "e997",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 - 차의과대학교 축제 직캠 KissOfLife Fancam 251028",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16037",
+      "ytId": "9u8yV8104QA",
+      "eventId": "e997",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s6",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 대학축제  ♬ Igloo ♬ Sticky ♬ Nothing ♬ Lips Hips Kiss ♬ Midas Touch #키오프 #KISSOFLIFE @251028 차의대",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16038",
+      "ytId": "xFRs1xBmD1Q",
+      "eventId": "e998",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Sticky (Japanese Ver.) – KISS OF LIFE | 22nd TIMM YouTube Music Nights Presents ASIA DAY 2025-11-06",
+      "channel": "KISS OF LIFE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16039",
+      "ytId": "ACIOj8nGxro",
+      "eventId": "e998",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Lucky – KISS OF LIFE | 22nd TIMM YouTube Music Nights Presents ASIA DAY 2025-11-06",
+      "channel": "KISS OF LIFE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16040",
+      "ytId": "RsxxzoqfFJg",
+      "eventId": "e999",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "251113 스포티파이 하우스 서울 나띠 Lips Hips Kiss",
+      "channel": "Serenity",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16041",
+      "ytId": "slc_OeADZG0",
+      "eventId": "e999",
+      "songs": [
+        {
+          "songId": "g10s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "4K 키스오브라이프 나띠 Chemistry 케미스트리 Kiss Of LIfe Natty⏐ 251113 스포티파이하우스 서울 Spotify House Seoul",
+      "channel": "cupid's arrow",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16042",
+      "ytId": "7ReMPeA389s",
+      "eventId": "e999",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "251113 스포티파이 하우스 서울 나띠 Tell Me",
+      "channel": "Serenity",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16043",
+      "ytId": "c3H-DeQ9tvc",
+      "eventId": "e999",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "251113 스포티파이 하우스 서울 나띠 Sticky",
+      "channel": "Serenity",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16044",
+      "ytId": "GYnN0Ic1kTg",
+      "eventId": "e999",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "251113 스포티파이 하우스 서울 나띠 Igloo",
+      "channel": "Serenity",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16045",
+      "ytId": "yZM24_DKpBQ",
+      "eventId": "e1000",
+      "songs": [
+        {
+          "songId": "g10s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "나띠(NATTY) - 10 Minutesㅣ#KGMAㅣENA251115방송 #나띠",
+      "channel": "ENA K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16046",
+      "ytId": "8oOurkY88fM",
+      "eventId": "e1000",
+      "songs": [
+        {
+          "songId": "g10s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 나띠 (KISS OF LIFE NATTY) :: 10 minutes (원곡:이효리) :: 2025 KGMA 251115 fancam",
+      "channel": "connect",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16047",
+      "ytId": "BQDb0kt9NZ8",
+      "eventId": "e1000",
+      "songs": [
+        {
+          "songId": "g10s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "4K 키스오브라이프 나띠 10 Minutes Kiss Of LIfe Natty⏐ 251115 KGMA",
+      "channel": "cupid's arrow",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16048",
+      "ytId": "Fhf8Upc-to4",
+      "eventId": "e1001",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Lucky (Korean Ver.) - KISS OF LIFE  [뮤직뱅크/Music Bank] | KBS 251121 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16049",
+      "ytId": "gbNLL_CLKLg",
+      "eventId": "e1001",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[K-Choreo Tower Cam 4K] 키스오브라이프 직캠 'Lucky' (KISSOFLIFE Choreography) l @MusicBank KBS 251121",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16050",
+      "ytId": "EtYwwrsw_bg",
+      "eventId": "e1002",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE (키스 오브 라이프) - Lucky | Show! MusicCore | MBC251122방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16051",
+      "ytId": "anj2eaF6LU0",
+      "eventId": "e1002",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] KISS OF LIFE NATTY (키스 오브 라이프 나띠) – Lucky (Korean Ver.) FanCam | 쇼! 음악중심 | MBC251122",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16052",
+      "ytId": "HYExUO2lihc",
+      "eventId": "e1002",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] KISS OF LIFE JULIE (키스 오브 라이프 쥴리) – Lucky (Korean Ver.) FanCam | 쇼! 음악중심 | MBC251122",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16053",
+      "ytId": "cI49IAlwo7U",
+      "eventId": "e1002",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] KISS OF LIFE HANEUL (키스 오브 라이프 하늘) – Lucky (Korean Ver.) FanCam | 쇼! 음악중심 | MBC251122",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16054",
+      "ytId": "WTLFAbeQe50",
+      "eventId": "e1002",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] KISS OF LIFE BELLE (키스 오브 라이프 벨) – Lucky (Korean Ver.) FanCam | 쇼! 음악중심 | MBC251122",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16055",
+      "ytId": "CynHal0iw4Q",
+      "eventId": "e1002",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠] KISS OF LIFE (키스 오브 라이프) – Lucky (Korean Ver.) FullCam | 쇼! 음악중심 | MBC251122",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16056",
+      "ytId": "82kuSjGdSnY",
+      "eventId": "e1003",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Lucky (Korean Ver.) - KISS OF LIFE | SBS 251123 방송",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16057",
+      "ytId": "KDXqtzx_I38",
+      "eventId": "e1003",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 키스오브라이프 나띠 'Lucky (Korean Ver.)' (KISS OF LIFE NATTY FanCam) @SBS Inkigayo 251123",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16058",
+      "ytId": "oCgsvk768kA",
+      "eventId": "e1003",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 키스오브라이프 쥴리 'Lucky (Korean Ver.)' (KISS OF LIFE JULIE FanCam) @SBS Inkigayo 251123",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16059",
+      "ytId": "ZEit7H5NO80",
+      "eventId": "e1003",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 키스오브라이프 하늘 'Lucky (Korean Ver.)' (KISS OF LIFE HANEUL FanCam) @SBS Inkigayo 251123",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16060",
+      "ytId": "_ZzRMI_28N8",
+      "eventId": "e1003",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 키스오브라이프 벨 'Lucky (Korean Ver.)' (KISS OF LIFE BELLE FanCam) @SBS Inkigayo 251123",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16061",
+      "ytId": "gYdsF7tA8qc",
+      "eventId": "e1003",
+      "songs": [
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 키스오브라이프 'Lucky (Korean Ver.)' (KISS OF LIFE FullCam) @SBS Inkigayo 251123",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16062",
+      "ytId": "jiMpzkOCOVI",
+      "eventId": "e1004",
+      "songs": [
+        {
+          "songId": "g10s29",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] Kiss of life Performance (Fancam) - AAA 2025 20251206",
+      "channel": "oPangpondo",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16063",
+      "ytId": "-ThjEj2PtDs",
+      "eventId": "e1004",
+      "songs": [
+        {
+          "songId": "g10s29",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "Kiss of life (4K stage)｜Maestro of My Heart + Lucky @ 2025 Asia Artist Awards IN KAOHSIUNG",
+      "channel": "Sight Sight",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16064",
+      "ytId": "GaBPlKbe338",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Bad Girl Good Girl - KISS OF LIFE [2025 가요대축제 글로벌 페스티벌] | KBS 251219 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16065",
+      "ytId": "nOlgOSm30qE",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Sticky+Midas Touch+lgloo+Lips Hips Kiss+Lucky-KISS OF LIFE [2025 가요대축제 글로벌 페스티벌] | KBS 251219 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16066",
+      "ytId": "MxTRQKK0QZg",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 키스 오브 라이프 쥴리 직캠 'Bad Girl Good Girl' (KISS OF LIFE JULIE Fancam) @가요대축제 글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16067",
+      "ytId": "H8NsIdzfVRE",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 키스오브라이프 쥴리 'Sticky+Midas Touch+Igloo+Lips Hips Kiss+Lucky' (JULIE) @가요대축제 글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16068",
+      "ytId": "Bd0yibed7z4",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 키스 오브 라이프 하늘 'Bad Girl Good Girl' 직캠 (KISS OF LIFE Haneul Fancam) @ KBS 가요대축제 251219",
+      "channel": "Brandon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16069",
+      "ytId": "24Be9V1KfNc",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 키스오브라이프 하늘 'Sticky+Midas Touch+Igloo+Lips Hips Kiss+Lucky' (HANEUL) @가요대축제 글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16070",
+      "ytId": "OHS3HNgYlv0",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 키스 오브 라이프 벨 직캠 'Bad Girl Good Girl' (KISS OF LIFE BELLE Fancam) @가요대축제 글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16071",
+      "ytId": "CG_G_uihCfE",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 키스오브라이프 벨 'Sticky+Midas Touch+Igloo+Lips Hips Kiss+Lucky' (BELLE) @가요대축제 글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16072",
+      "ytId": "SlO_Alr50u8",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Choreo 8K] KISS OF LIFE 직캠 'Sticky+Midas Touch+Igloo+Lips Hips Kiss+Lucky @가요대축제글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16073",
+      "ytId": "xBayn8cc9XY",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Choreo 8K] 키스오브라이프 'Bad Girl Good Girl (원곡: missA)' (KISS OF LIFE ) @가요대축제글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16074",
+      "ytId": "-pJBb0ZvizM",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s36",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "[KISS OF LIFE X Baby DONT Cry X HITGS] 251219 KBS 가요대축제: 여행을 떠나요",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16075",
+      "ytId": "cGBpiYQqDKA",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 키스오브라이프 나띠 'Bad Girl Good Girl (원곡 : miss A)' (KISS OF LIFE NATTY) @가요대축제 글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16076",
+      "ytId": "TFoLpLYJMNk",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251219 키스오브라이프 KISS OF LIFE 나띠 직캠 NATTY Fancam 'Bad Girl Good Girl' @KBS가요대축제",
+      "channel": "hush",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16077",
+      "ytId": "y5lPk2UJmfg",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 키스오브라이프 나띠 'Sticky+Midas Touch+Igloo+Lips Hips Kiss+Lucky' (NATTY) @가요대축제 글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16078",
+      "ytId": "iRxYm-DfA6s",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "251219 키스오브라이프 Bad Girl Good Girl(missA) 나띠 직캠 | KISS OF LIFE NATTY FANCAM @가요대축제",
+      "channel": "몽덕 MONGDUCK",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16079",
+      "ytId": "gN7rHFX_51A",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 키스 오브 라이프 나띠 직캠 'Bad Girl Good Girl' (KISS OF LIFE NATTY Fancam) @가요대축제 글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16080",
+      "ytId": "oC38GVyKojM",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 키스오브라이프 나띠 직캠 'Sticky+Midas Touch+Igloo+Lips Hips Kiss+Lucky' (NATTY) @가요대축제글로벌페스티벌251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16081",
+      "ytId": "rC11-W52F3Q",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 키스오브라이프 쥴리 직캠 'Sticky+Midas Touch+Igloo+Lips Hips Kiss+Lucky' (JULIE) @가요대축제글로벌페스티벌251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16082",
+      "ytId": "FYn-vsaQiIk",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[2025 가요대축제] Bad girl Good girl 키스오브라이프 쥴리 KISS OF LIFE JULIE 직캠 Fancam  ",
+      "channel": "주우",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16083",
+      "ytId": "yHS70m2E2ZY",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 키스오브라이프 하늘 'Bad Girl Good Girl (원곡 : miss A)' (KISS OF LIFE HANEUL) @가요대축제 글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16084",
+      "ytId": "HMb4Ft3u9MY",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251219 키스오브라이프 하늘 KISS OF LIFE HANEUL - ‘Bad Girl Good Girl’ 직캠 Fancam @2025가요대축제 ",
+      "channel": "누룽",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16085",
+      "ytId": "3eR3QsNUgP4",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[KISS OF LIFE(키스오브라이프)] 251219 KBS 가요대축제: Bad Girl Good Girl - HANEUL 하늘 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16086",
+      "ytId": "9gGJn3F3xQw",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 키스 오브 라이프 하늘 'Sticky+Midas Touch+lgloo+Lips Hips Kiss' 직캠 (KISS OF LIFE Haneul Fancam)",
+      "channel": "Brandon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16087",
+      "ytId": "eO50lpduq50",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[8K] 251219 키스 오브 라이프 하늘 KISS OF LIFE HANEUL - Bad Girl Good Girl 직캠 Fancam @2025가요대축제",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16088",
+      "ytId": "-bLBmqWCWbc",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "251219 하늘 HANEUL 키스 오브 라이프 KISS OF LIFE💿Bad Girl Good Girl [8K 30P]직캠 FANCAM @KBS가요대축제 by GalaxyMaru",
+      "channel": "은하마루 GalaxyMaru",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16089",
+      "ytId": "Qjm5VZHoUmg",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s34",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 키스 오브 라이프 하늘 직캠 'Bad Girl Good Girl' (KISS OF LIFE HANEUL Fancam) @가요대축제 글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16090",
+      "ytId": "eTogkZylYlw",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam]키스오브라이프 하늘 직캠 'Sticky+Midas Touch+Igloo+Lips Hips Kiss+Lucky' (HANEUL) @가요대축제글로벌페스티벌251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16091",
+      "ytId": "tLEoSqxh0RE",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251219 KISS OF LIFE 하늘 - Sticky+Midas Touch+lgloo+Lips Hips Kiss+Lucky | 2025 KBS 가요대축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16092",
+      "ytId": "6DgmczgDBTY",
+      "eventId": "e1005",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s5",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s33",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 키스오브라이프 벨 직캠 'Sticky+Midas Touch+Igloo+Lips Hips Kiss+Lucky' (BELLE) @가요대축제글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
       "pin": false,
       "gone": false
     }
