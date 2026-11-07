@@ -16938,6 +16938,378 @@
         "g6s9"
       ],
       "note": ""
+    },
+    {
+      "id": "e1072",
+      "groupId": "g4",
+      "date": "2025-02-24",
+      "show": "쇼케이스",
+      "label": "",
+      "setlist": [
+        "g4s2",
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1073",
+      "groupId": "g4",
+      "date": "2025-02-27",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1074",
+      "groupId": "g4",
+      "date": "2025-02-28",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1075",
+      "groupId": "g4",
+      "date": "2025-03-01",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1076",
+      "groupId": "g4",
+      "date": "2025-03-02",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1077",
+      "groupId": "g4",
+      "date": "2025-03-04",
+      "show": "더 쇼",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1078",
+      "groupId": "g4",
+      "date": "2025-03-05",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1079",
+      "groupId": "g4",
+      "date": "2025-03-06",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1080",
+      "groupId": "g4",
+      "date": "2025-03-07",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1081",
+      "groupId": "g4",
+      "date": "2025-03-08",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1082",
+      "groupId": "g4",
+      "date": "2025-03-09",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1083",
+      "groupId": "g4",
+      "date": "2025-03-11",
+      "show": "더 쇼",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1084",
+      "groupId": "g4",
+      "date": "2025-03-12",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1085",
+      "groupId": "g4",
+      "date": "2025-03-13",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1086",
+      "groupId": "g4",
+      "date": "2025-03-15",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1087",
+      "groupId": "g4",
+      "date": "2025-03-16",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1088",
+      "groupId": "g4",
+      "date": "2025-03-30",
+      "show": "THE PERFORMANCE JAPAN",
+      "label": "",
+      "setlist": [
+        "g4s2",
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1089",
+      "groupId": "g4",
+      "date": "2025-05-11",
+      "show": "SMTOWN LIVE",
+      "label": "",
+      "setlist": [
+        "g4s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1090",
+      "groupId": "g4",
+      "date": "2025-05-28",
+      "show": "ASEA 2025",
+      "label": "",
+      "setlist": [
+        "g4s1",
+        "g4s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1091",
+      "groupId": "g4",
+      "date": "2025-06-19",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g4s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1092",
+      "groupId": "g4",
+      "date": "2025-06-20",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g4s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1093",
+      "groupId": "g4",
+      "date": "2025-06-21",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g4s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1094",
+      "groupId": "g4",
+      "date": "2025-06-21",
+      "show": "서울가요대상",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1095",
+      "groupId": "g4",
+      "date": "2025-06-22",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g4s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1096",
+      "groupId": "g4",
+      "date": "2025-06-26",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g4s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1097",
+      "groupId": "g4",
+      "date": "2025-06-28",
+      "show": "SMTOWN LIVE",
+      "label": "",
+      "setlist": [
+        "g4s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1098",
+      "groupId": "g4",
+      "date": "2025-03-14",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1099",
+      "groupId": "g4",
+      "date": "2025-04-30",
+      "show": "서울스프링페스타",
+      "label": "",
+      "setlist": [
+        "g4s2",
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1100",
+      "groupId": "g4",
+      "date": "2025-05-03",
+      "show": "Rakuten GirlsAward 2025 SPRING/SUMMER",
+      "label": "",
+      "setlist": [
+        "g4s2",
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1101",
+      "groupId": "g4",
+      "date": "2025-05-10",
+      "show": "Wango Tango",
+      "label": "",
+      "setlist": [
+        "g4s1",
+        "g4s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1102",
+      "groupId": "g4",
+      "date": "2025-05-31",
+      "show": "SBS 메가콘서트",
+      "label": "",
+      "setlist": [
+        "g4s1",
+        "g4s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1103",
+      "groupId": "g4",
+      "date": "2025-06-19",
+      "show": "MyK FESTA",
+      "label": "",
+      "setlist": [
+        "g4s3",
+        "g4s1",
+        "g4s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1104",
+      "groupId": "g4",
+      "date": "2025-06-29",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g4s3"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -314058,6 +314430,6449 @@
       ],
       "title": "[4K] 250614 tripleS Nien 트리플에스 니엔 Taipei Dome ' Girls Never Die ' CAM",
       "channel": "_lyweii",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16832",
+      "ytId": "ea4Cq2iFDxc",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 250224 하츠투하츠 이안 Hearts2Hearts IAN - Butterflies 재보정 직캠 @데뷔 쇼케이스",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16833",
+      "ytId": "eWg265OmS9E",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250224 하츠투하츠 이안 'The Chase' (Hearts2Hearts IAN) @데뷔 쇼케이스 직캠 fancam",
+      "channel": "SST CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16834",
+      "ytId": "dmEq8_3Xoas",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250224 하츠투하츠 이안 (Hearts2Hearts IAN) Butterflies 직캠@ Debut Fan Showcase 〈Chase Our Hearts〉Fancam",
+      "channel": "POPPIN GUMMY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16835",
+      "ytId": "eiktIhfc8fs",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250224 SHOWCASE Hearts2Hearts - Butterflies 하츠투하츠 하투하 카르멘 직캠 ｜ H2H CARMEN focus FANCAM",
+      "channel": "SunshineLand CARMEN",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16836",
+      "ytId": "_Ui4bpmQKw8",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Hearts2Hearts 하츠투하츠 유하 YUHA The Chase 직캠 focus fancam @250224 Chase Our Hearts 쇼케이스",
+      "channel": "Eleven",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16837",
+      "ytId": "v_8U1tutRd0",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250224 하츠투하츠 이안 'Butterflies' (Hearts2Hearts IAN) @데뷔 쇼케이스 직캠 fancam",
+      "channel": "SST CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16838",
+      "ytId": "sUbapitxskE",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250224 Hearts2Hearts 지우 Butterflies 직캠 하츠투하츠 JIWOO | @데뷔쇼케이스",
+      "channel": "キム 키무",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16839",
+      "ytId": "FP9-KnVkY5o",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250224 Hearts2Hearts Debut Fan Showcase 'Butterflies' - 하츠투하츠 스텔라 직캠 Hearts2Hearts STELLA Focus",
+      "channel": "럭키",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16840",
+      "ytId": "Boe7Kl7RKnE",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250224 하츠투하츠 지우 The Chase 직캠 | Hearts2Hearts jiwoo fancam | 데뷔 쇼케이스",
+      "channel": "뮤",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16841",
+      "ytId": "ynm5u-Bhpgs",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250224 하츠투하츠 지우 The chase 직캠 | Hearts2Hearts JIWOO @데뷔쇼케이스 #지우 #하츠투하츠 #hearts2hearts",
+      "channel": "キム 키무",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16842",
+      "ytId": "xPTglJH5Kfc",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 250224 하츠투하츠 이안 Hearts2Hearts IAN - Butterflies 직캠 @데뷔 쇼케이스",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16843",
+      "ytId": "f385nVJyiG8",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K MULTI] 250224 DEBUT SHOWCASE Butterflies HEARTS2HEARTS 지우 JIWOO 직캠 FANCAM",
+      "channel": "𝘾𝙝𝙖𝙨𝙚.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16844",
+      "ytId": "CSHwO1vUI1k",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250224 Hearts2Hearts Debut Fan Showcase 'The Chase' - 하츠투하츠 스텔라 직캠 Hearts2Hearts STELLA Focus",
+      "channel": "럭키",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16845",
+      "ytId": "H3LOCR-vx8Y",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250224 Showcase Hearts2Hearts 하츠투하츠 주은 - Butterflies fancam 직캠",
+      "channel": "GELATO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16846",
+      "ytId": "MQkrz463EcM",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250224 하츠투하츠 지우 Butterflies 직캠 | Hearts2Hearts jiwoo fancam | 데뷔 쇼케이스",
+      "channel": "뮤",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16847",
+      "ytId": "GU8Z83GcrYI",
+      "eventId": "e1073",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 하츠투하츠 이안 직캠 4K 'The Chase' (Hearts2Hearts IAN FanCam) | @MCOUNTDOWN_2025.2.27",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16848",
+      "ytId": "IxP_BUoHNgg",
+      "eventId": "e1073",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 하츠투하츠 지우 직캠 4K 'The Chase' (Hearts2Hearts JIWOO FanCam) | @MCOUNTDOWN_2025.2.27",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16849",
+      "ytId": "9GJ6bdLkqvY",
+      "eventId": "e1073",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 이안 직캠 4K 'The Chase' (Hearts2Hearts IAN FanCam) | @MCOUNTDOWN_2025.2.27",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16850",
+      "ytId": "Q71YV6Vnw7M",
+      "eventId": "e1073",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 하츠투하츠 카르멘 직캠 4K 'The Chase' (Hearts2Hearts CARMEN FanCam) | @MCOUNTDOWN_2025.2.27",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16851",
+      "ytId": "2nIgOIc7i-Q",
+      "eventId": "e1073",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 예온 직캠 4K 'The Chase' (Hearts2Hearts YE-ON FanCam) | @MCOUNTDOWN_2025.2.27",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16852",
+      "ytId": "xckLUGOdsK0",
+      "eventId": "e1073",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 에이나 직캠 4K 'The Chase' (Hearts2Hearts A-NA FanCam) | @MCOUNTDOWN_2025.2.27",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16853",
+      "ytId": "m85G_EBkPOU",
+      "eventId": "e1073",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 유하 직캠 4K 'The Chase' (Hearts2Hearts YUHA FanCam) | @MCOUNTDOWN_2025.2.27",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16854",
+      "ytId": "WVAKqxPjF5M",
+      "eventId": "e1073",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 스텔라 직캠 4K 'The Chase' (Hearts2Hearts STELLA FanCam) | @MCOUNTDOWN_2025.2.27",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16855",
+      "ytId": "92CSltXb2b4",
+      "eventId": "e1073",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 주은 직캠 4K 'The Chase' (Hearts2Hearts JUUN FanCam) | @MCOUNTDOWN_2025.2.27",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16856",
+      "ytId": "3n8XVn-4vnI",
+      "eventId": "e1073",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 지우 직캠 4K 'The Chase' (Hearts2Hearts JIWOO FanCam) | @MCOUNTDOWN_2025.2.27",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16857",
+      "ytId": "S-SRrfK6rms",
+      "eventId": "e1073",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 카르멘 직캠 4K 'The Chase' (Hearts2Hearts CARMEN FanCam) | @MCOUNTDOWN_2025.2.27",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16858",
+      "ytId": "MKIC74fP1cI",
+      "eventId": "e1073",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 하츠투하츠 유하 직캠 4K 'The Chase' (Hearts2Hearts YUHA FanCam) | @MCOUNTDOWN_2025.2.27",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16859",
+      "ytId": "3Hda3gIGdmk",
+      "eventId": "e1074",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 하츠투하츠 지우 'The Chase' (Hearts2Hearts JIWOO Facecam) @뮤직뱅크(Music Bank) 250228",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16860",
+      "ytId": "87-QS4y8UBQ",
+      "eventId": "e1074",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 스텔라 'The Chase' (Hearts2Hearts STELLA Fancam) @뮤직뱅크(Music Bank) 250228",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16861",
+      "ytId": "_jcmP_LaViQ",
+      "eventId": "e1074",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 이안 'The Chase' (Hearts2Hearts IAN Fancam) @뮤직뱅크(Music Bank) 250228",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-28"
+    },
+    {
+      "id": "v16862",
+      "ytId": "jgdK5_5PYcs",
+      "eventId": "e1074",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 지우 'The Chase' (Hearts2Hearts JIWOO Fancam) @뮤직뱅크(Music Bank) 250228",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16863",
+      "ytId": "-PBbcQgw0nA",
+      "eventId": "e1074",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 하츠투하츠 에이나 'The Chase' (Hearts2Hearts A-NA Facecam) @뮤직뱅크(Music Bank) 250228",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16864",
+      "ytId": "UZ-AD88BGbc",
+      "eventId": "e1074",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 하츠투하츠 카르멘 'The Chase' (Hearts2Hearts CARMEN Facecam) @뮤직뱅크(Music Bank) 250228",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16865",
+      "ytId": "9Jf-R773raE",
+      "eventId": "e1074",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 에이나 'The Chase' (Hearts2Hearts A-NA Fancam) @뮤직뱅크(Music Bank) 250228",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16866",
+      "ytId": "yJ99mb1aq5Y",
+      "eventId": "e1074",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 카르멘 'The Chase' (Hearts2Hearts CARMEN Fancam) @뮤직뱅크(Music Bank) 250228",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-28"
+    },
+    {
+      "id": "v16867",
+      "ytId": "nLCkgAjuNaI",
+      "eventId": "e1074",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 주은 'The Chase' (Hearts2Hearts JUUN Fancam) @뮤직뱅크(Music Bank) 250228",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16868",
+      "ytId": "NNqy04x5Fb0",
+      "eventId": "e1074",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 예온 'The Chase' (Hearts2Hearts YE-ON Fancam) @뮤직뱅크(Music Bank) 250228",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16869",
+      "ytId": "YUQFfXnKlKY",
+      "eventId": "e1074",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 유하 'The Chase' (Hearts2Hearts YUHA Fancam) @뮤직뱅크(Music Bank) 250228",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16870",
+      "ytId": "Z7RrJOabE9w",
+      "eventId": "e1075",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠8K] Hearts2Hearts (하츠투하츠) – The Chase FullCam | 쇼! 음악중심 | MBC250301",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16871",
+      "ytId": "U5WZBEKJiI0",
+      "eventId": "e1075",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] Hearts2Hearts IAN (하츠투하츠 이안) – The Chase | 쇼! 음악중심 | MBC250301",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16872",
+      "ytId": "sJvnumdWEfM",
+      "eventId": "e1075",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts A-NA (하츠투하츠 에이나) – The Chase FanCam | 쇼! 음악중심 | MBC250301",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16873",
+      "ytId": "E56mNwkb-To",
+      "eventId": "e1075",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts YUHA (하츠투하츠 유하) – The Chase FanCam | 쇼! 음악중심 | MBC250301",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16874",
+      "ytId": "ZgKSag2Hpno",
+      "eventId": "e1075",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts CARMEN (하츠투하츠 카르멘) – The Chase FanCam | 쇼! 음악중심 | MBC250301",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16875",
+      "ytId": "gOFdHBo4v7c",
+      "eventId": "e1075",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts IAN (하츠투하츠 이안) – The Chase FanCam | 쇼! 음악중심 | MBC250301",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16876",
+      "ytId": "ihDPcNJp1bM",
+      "eventId": "e1075",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts JIWOO (하츠투하츠 지우) – The Chase FanCam | 쇼! 음악중심 | MBC250301",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16877",
+      "ytId": "gqTxuar63Ho",
+      "eventId": "e1075",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] Hearts2Hearts CARMEN (하츠투하츠 카르멘) – The Chase | 쇼! 음악중심 | MBC250301",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16878",
+      "ytId": "5TyP_ul1duA",
+      "eventId": "e1075",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts YE-ON (하츠투하츠 예온) – The Chase FanCam | 쇼! 음악중심 | MBC250301",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16879",
+      "ytId": "9i0lx93VSBs",
+      "eventId": "e1075",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts JUUN (하츠투하츠 주은) – The Chase FanCam | 쇼! 음악중심 | MBC250301",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16880",
+      "ytId": "2x_VcEdr0tY",
+      "eventId": "e1075",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts STELLA (하츠투하츠 스텔라) – The Chase FanCam | 쇼! 음악중심 | MBC250301",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-01"
+    },
+    {
+      "id": "v16881",
+      "ytId": "8ZEuJwCsf-E",
+      "eventId": "e1075",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] Hearts2Hearts A-NA (하츠투하츠 에이나) – The Chase | 쇼! 음악중심 | MBC250301",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16882",
+      "ytId": "-ellBgRNf04",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 하츠투하츠 'The Chase' 단독샷 별도녹화│Hearts2Hearts ONE TAKE STAGE│@SBS Inkigayo 250302",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16883",
+      "ytId": "1bXZyz73Muk",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 하츠투하츠 'The Chase' (Hearts2Hearts FullCam) @SBS Inkigayo 250302",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16884",
+      "ytId": "AuuiYiBDUm8",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 지우 'The Chase' (Hearts2Hearts JIWOO FanCam) @SBS Inkigayo 250302",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16885",
+      "ytId": "oEDgwk5cUDs",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 스텔라 'The Chase' (Hearts2Hearts STELLA FanCam) @SBS Inkigayo 250302",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16886",
+      "ytId": "HbZjZDdNqT4",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 이안 'The Chase' (Hearts2Hearts IAN FanCam) @SBS Inkigayo 250302",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16887",
+      "ytId": "CpALxFBHa-A",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 에이나 'The Chase' (Hearts2Hearts A-NA FanCam) @SBS Inkigayo 250302",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16888",
+      "ytId": "LR4Olpzi9bA",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 하츠투하츠 지우 'The Chase' (Hearts2Hearts JIWOO FaceCam) @SBS Inkigayo 250302",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16889",
+      "ytId": "bOa3sjFZGSs",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 유하 'The Chase' (Hearts2Hearts YUHA FanCam) @SBS Inkigayo 250302",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16890",
+      "ytId": "mnGPJVMI5bQ",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 주은 'The Chase' (Hearts2Hearts JUUN FanCam) @SBS Inkigayo 250302",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16891",
+      "ytId": "XGRrDznLbPY",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 하츠투하츠 카르멘 'The Chase' (Hearts2Hearts CARMEN FaceCam) @SBS Inkigayo 250302",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16892",
+      "ytId": "9TyaE3LPahA",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 예온 'The Chase' (Hearts2Hearts YE-ON FanCam) @SBS Inkigayo 250302",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16893",
+      "ytId": "V-xt6eokoBk",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 카르멘 'The Chase' (Hearts2Hearts CARMEN FanCam) @SBS Inkigayo 250302",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16894",
+      "ytId": "A_H77xrkiB4",
+      "eventId": "e1077",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "하츠투하츠(Hearts2Hearts) 에이나(A-NA) - 'The Chase' 세로직캠 (Vertical Cam) / 250304 The Show",
+      "channel": "우유한잔",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16895",
+      "ytId": "lOG56MHBP1E",
+      "eventId": "e1078",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts IAN(하츠투하츠 이안) - The Chase | Show Champion | EP.545 | 250305",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16896",
+      "ytId": "1rzSH5dA0oU",
+      "eventId": "e1078",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts CARMEN(하츠투하츠 카르멘) - The Chase | Show Champion | EP.545 | 250305",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16897",
+      "ytId": "kiY8SGbeKNE",
+      "eventId": "e1078",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts JIWOO(하츠투하츠 지우) - The Chase | Show Champion | EP.545 | 250305",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16898",
+      "ytId": "6bkypdcLoR4",
+      "eventId": "e1078",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts YUHA(하츠투하츠 유하) - The Chase | Show Champion | EP.545 | 250305",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-05"
+    },
+    {
+      "id": "v16899",
+      "ytId": "ZKvuyin9lkA",
+      "eventId": "e1078",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts JUUN(하츠투하츠 주은) - The Chase | Show Champion | EP.545 | 250305",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16900",
+      "ytId": "M5Nt9ywS2c8",
+      "eventId": "e1078",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts STELLA(하츠투하츠 스텔라) - The Chase | Show Champion | EP.545 | 250305",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16901",
+      "ytId": "nANarv9Dh3Y",
+      "eventId": "e1078",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts A-NA(하츠투하츠 에이나) - The Chase | Show Champion | EP.545 | 250305",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16902",
+      "ytId": "IxZhLLhS2UQ",
+      "eventId": "e1078",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] Hearts2Hearts IAN(하츠투하츠 이안) - The Chase | Show Champion | EP.545 | 250305",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16903",
+      "ytId": "loCv7fzWxpU",
+      "eventId": "e1078",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts YE-ON(하츠투하츠 예온) - The Chase | Show Champion | EP.545 | 250305",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16904",
+      "ytId": "yM4BpEZG4wU",
+      "eventId": "e1078",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] Hearts2Hearts CARMEN(하츠투하츠 카르멘) - The Chase | Show Champion | EP.545 | 250305",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16905",
+      "ytId": "VN8NRtrAzgg",
+      "eventId": "e1079",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250306 하츠투하츠 스텔라 직캠(Hearts2Hearts STELLA Fancam) 'The Chase' @MCOUNTDOWN",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16906",
+      "ytId": "TZwtvzNjnyI",
+      "eventId": "e1079",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 하츠투하츠 에이나 직캠 4K 'The Chase' (Hearts2Hearts A-NA FanCam) | @MCOUNTDOWN_2025.3.6",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16907",
+      "ytId": "1Z6cBxQ1R2c",
+      "eventId": "e1079",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 에이나 직캠 4K 'The Chase' (Hearts2Hearts A-NA FanCam) | @MCOUNTDOWN_2025.3.6",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16908",
+      "ytId": "Om5KebGypew",
+      "eventId": "e1079",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 유하 직캠 4K 'The Chase' (Hearts2Hearts YUHA FanCam) | @MCOUNTDOWN_2025.3.6",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16909",
+      "ytId": "dsLJfaX8HhY",
+      "eventId": "e1079",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 주은 직캠 4K 'The Chase' (Hearts2Hearts JUUN FanCam) | @MCOUNTDOWN_2025.3.6",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16910",
+      "ytId": "X5atzRwqEQ4",
+      "eventId": "e1079",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 카르멘 직캠 4K 'The Chase' (Hearts2Hearts CARMEN FanCam) | @MCOUNTDOWN_2025.3.6",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16911",
+      "ytId": "gyMl325UrLk",
+      "eventId": "e1079",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 이안 직캠 4K 'The Chase' (Hearts2Hearts IAN FanCam) | @MCOUNTDOWN_2025.3.6",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16912",
+      "ytId": "ppE5KtXLJTI",
+      "eventId": "e1080",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "하츠투하츠 카르멘 'The Chase' 직캠 (Hearts2Hearts CARMEN FANCAM) Music Bank 250307",
+      "channel": "taro milky 타로우유",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16913",
+      "ytId": "k_9bedcgNbs",
+      "eventId": "e1080",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "하츠투하츠 이안 'The Chase' 직캠 (Hearts2Hearts IAN FANCAM) 250307 MusicBank",
+      "channel": "taro milky 타로우유",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16914",
+      "ytId": "N-8kYFzs1XM",
+      "eventId": "e1081",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠] Hearts2Hearts (하츠투하츠) – The Chase FullCam | 쇼! 음악중심 | MBC250308",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16915",
+      "ytId": "zA8ctdnXlZs",
+      "eventId": "e1081",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts JUUN (하츠투하츠 주은) – The Chase FanCam | 쇼! 음악중심 | MBC250308",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16916",
+      "ytId": "zGGQy8B7zZo",
+      "eventId": "e1081",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts IAN (하츠투하츠 이안) – The Chase FanCam | 쇼! 음악중심 | MBC250308",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16917",
+      "ytId": "qBAiHgxW8qk",
+      "eventId": "e1081",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] Hearts2Hearts JIWOO (하츠투하츠 지우) – The Chase | 쇼! 음악중심 | MBC250308",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16918",
+      "ytId": "euGlo0RgrLE",
+      "eventId": "e1081",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts A-NA (하츠투하츠 에이나) – The Chase FanCam | 쇼! 음악중심 | MBC250308",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16919",
+      "ytId": "0MCSpSRvG9s",
+      "eventId": "e1081",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] Hearts2Hearts IAN (하츠투하츠 이안) – The Chase | 쇼! 음악중심 | MBC250308",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16920",
+      "ytId": "Ot3SaHgXEvE",
+      "eventId": "e1081",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts CARMEN (하츠투하츠 카르멘) – The Chase FanCam | 쇼! 음악중심 | MBC250308",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16921",
+      "ytId": "Pt2AENfaPC8",
+      "eventId": "e1081",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts YE-ON (하츠투하츠 예온) – The Chase FanCam | 쇼! 음악중심 | MBC250308",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16922",
+      "ytId": "ZYzxs08YiXg",
+      "eventId": "e1081",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts STELLA (하츠투하츠 스텔라) – The Chase FanCam | 쇼! 음악중심 | MBC250308",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16923",
+      "ytId": "5U0Q_5caRrY",
+      "eventId": "e1081",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts YUHA (하츠투하츠 유하) – The Chase FanCam | 쇼! 음악중심 | MBC250308",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16924",
+      "ytId": "pUUOfOXzU9c",
+      "eventId": "e1082",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 하츠투하츠 'The Chase' (Hearts2Hearts FullCam) @SBS Inkigayo 250309",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16925",
+      "ytId": "i5F02Ao64_Q",
+      "eventId": "e1082",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 에이나 'The Chase' (Hearts2Hearts A-NA FanCam) @SBS Inkigayo 250309",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16926",
+      "ytId": "jPZeTcGIz2o",
+      "eventId": "e1082",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 이안 'The Chase' (Hearts2Hearts IAN FanCam) @SBS Inkigayo 250309",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16927",
+      "ytId": "4Ak8fanF-S4",
+      "eventId": "e1082",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 하츠투하츠 스텔라 'The Chase' (Hearts2Hearts STELLA FaceCam) @SBS Inkigayo 250309",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16928",
+      "ytId": "5OLG87isvW8",
+      "eventId": "e1082",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 하츠투하츠 유하 'The Chase' (Hearts2Hearts YUHA FaceCam) @SBS Inkigayo 250309",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16929",
+      "ytId": "CPe453FKXXc",
+      "eventId": "e1082",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 지우 'The Chase' (Hearts2Hearts JIWOO FanCam) @SBS Inkigayo 250309",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16930",
+      "ytId": "le5vCG-TQps",
+      "eventId": "e1082",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 스텔라 'The Chase' (Hearts2Hearts STELLA FanCam) @SBS Inkigayo 250309",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16931",
+      "ytId": "BIMyqRFBCbE",
+      "eventId": "e1082",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 유하 'The Chase' (Hearts2Hearts YUHA FanCam) @SBS Inkigayo 250309",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16932",
+      "ytId": "fMxUFVbTEsE",
+      "eventId": "e1082",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 예온 'The Chase' (Hearts2Hearts YE-ON FanCam) @SBS Inkigayo 250309",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16933",
+      "ytId": "0P8BddmU3-w",
+      "eventId": "e1082",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 카르멘 'The Chase' (Hearts2Hearts CARMEN FanCam) @SBS Inkigayo 250309",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16934",
+      "ytId": "Xv2IypqcQAY",
+      "eventId": "e1082",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 주은 'The Chase' (Hearts2Hearts JUUN FanCam) @SBS Inkigayo 250309",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16935",
+      "ytId": "v-50aUKpyOA",
+      "eventId": "e1083",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "하츠투하츠(Hearts2Hearts) 이안(IAN) - 'The Chase' 세로직캠 (Vertical Cam) / 250311 The Show",
+      "channel": "우유한잔",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16936",
+      "ytId": "RJshG_-dftU",
+      "eventId": "e1084",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts JUUN(하츠투하츠 주은) - The Chase | Show Champion | EP.546 | 250312",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16937",
+      "ytId": "OksdwyiygXU",
+      "eventId": "e1084",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts JIWOO(하츠투하츠 지우) - The Chase | Show Champion | EP.546 | 250312",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16938",
+      "ytId": "5LdiBCuidyA",
+      "eventId": "e1084",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts A-NA(하츠투하츠 에이나) - The Chase | Show Champion | EP.546 | 250312",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16939",
+      "ytId": "OocBrvW2Fsc",
+      "eventId": "e1084",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts IAN(하츠투하츠 이안) - The Chase | Show Champion | EP.546 | 250312",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16940",
+      "ytId": "CHHP6rxea9M",
+      "eventId": "e1084",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts CARMEN(하츠투하츠 카르멘) - The Chase | Show Champion | EP.546 | 250312",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16941",
+      "ytId": "bX7LIf7xKlE",
+      "eventId": "e1084",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts STELLA(하츠투하츠 스텔라) - The Chase | Show Champion | EP.546 | 250312",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16942",
+      "ytId": "Hca_j5FxLgk",
+      "eventId": "e1084",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts YUHA(하츠투하츠 유하) - The Chase | Show Champion | EP.546 | 250312",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16943",
+      "ytId": "BIBLPeTIQeY",
+      "eventId": "e1084",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] Hearts2Hearts CARMEN(하츠투하츠 카르멘) - The Chase | Show Champion | EP.546 | 250312",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16944",
+      "ytId": "zMAQJYx3mmU",
+      "eventId": "e1084",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] Hearts2Hearts STELLA(하츠투하츠 스텔라) - The Chase | Show Champion | EP.546 | 250312",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16945",
+      "ytId": "Fmo6dfUHnng",
+      "eventId": "e1084",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts YE-ON(하츠투하츠 예온) - The Chase | Show Champion | EP.546 | 250312",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16946",
+      "ytId": "Sga-Lz7hLjc",
+      "eventId": "e1085",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "하츠투하츠 이안 직캠 'The Chase' (Hearts2Hearts IAN FanCam) @MCOUNTDOWN 250313",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16947",
+      "ytId": "KPpbTNkXygI",
+      "eventId": "e1085",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 하츠투하츠 이안 직캠 4K 'The Chase' (Hearts2Hearts IAN FanCam) | @MCOUNTDOWN_2025.3.13",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16948",
+      "ytId": "YyyS81p3-2U",
+      "eventId": "e1085",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 지우 직캠 4K 'The Chase' (Hearts2Hearts JIWOO FanCam) | @MCOUNTDOWN_2025.3.13",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16949",
+      "ytId": "n1yI_kfiYT0",
+      "eventId": "e1086",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠] Hearts2Hearts (하츠투하츠) – The Chase FullCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16950",
+      "ytId": "k0X0xsdXXr0",
+      "eventId": "e1086",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts JIWOO (하츠투하츠 지우) – The Chase FanCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16951",
+      "ytId": "Lsc0Jve9_LU",
+      "eventId": "e1086",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts CARMEN (하츠투하츠 카르멘) – The Chase FanCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16952",
+      "ytId": "k6fmxSxaNGc",
+      "eventId": "e1086",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts A-NA (하츠투하츠 에이나) – The Chase FanCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16953",
+      "ytId": "4lWXQdb_lrk",
+      "eventId": "e1086",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts IAN (하츠투하츠 이안) – The Chase FanCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16954",
+      "ytId": "HnRGsXwVTqQ",
+      "eventId": "e1086",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts YE-ON (하츠투하츠 예온) – The Chase FanCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16955",
+      "ytId": "6AsnbKx6OyU",
+      "eventId": "e1087",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 하츠투하츠 'The Chase' (Hearts2Hearts FullCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16956",
+      "ytId": "0Pb-HlVXfCE",
+      "eventId": "e1087",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 이안 'The Chase' (Hearts2Hearts IAN FanCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16957",
+      "ytId": "t4nkEESy7J8",
+      "eventId": "e1087",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 카르멘 'The Chase' (Hearts2Hearts CARMEN FanCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16958",
+      "ytId": "nUSTLUneFHU",
+      "eventId": "e1088",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Hearts2Hearts 하츠투하츠 - Butterflies FULL PERFORMANCE | The Performance in Yokohama | 250330",
+      "channel": "jeje",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16959",
+      "ytId": "AyOhB15fZ6Q",
+      "eventId": "e1088",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250330 The Performance - 'The Chase' 하츠투하츠 예온 직캠 Hearts2Hearts YE-ON Fancam",
+      "channel": "onon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16960",
+      "ytId": "Z8p9F70AaxE",
+      "eventId": "e1089",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250511 Butterflies Hearts2Hearts H2H JIWOO focus 하츠투하츠 지우 직캠 @ SMTOWN 2025 LA",
+      "channel": "dotdot",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16961",
+      "ytId": "zfsyzHFM6yU",
+      "eventId": "e1090",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4k)250528 하츠투하츠 이안 The Chase 직캠 I ASEA",
+      "channel": "𝘒𝘰𝘯𝘨..🍧",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16962",
+      "ytId": "6BLrL-dlILk",
+      "eventId": "e1090",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250528 하츠투하츠 지우 Hearts2Hearts JIWOO 직캠  - Butterflies @ASEA",
+      "channel": "DOUX",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16963",
+      "ytId": "TOCIXPcCLcg",
+      "eventId": "e1090",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250528 (Butterflies) ─ ASEA 2025 | HEARTS2HEARTS IAN 하츠투하츠 이안 fancam 직캠",
+      "channel": "io",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16964",
+      "ytId": "8xuSoju9syc",
+      "eventId": "e1090",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250528 ASEA 2025 - 'The Chase' 하츠투하츠 유하 직캠 Hearts2Hearts YUHA",
+      "channel": "cinema.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16965",
+      "ytId": "xNdupAREsAA",
+      "eventId": "e1090",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250528 ASEA - 'Butterflies' 하츠투하츠 예온 직캠 Hearts2Hearts YE-ON Fancam",
+      "channel": "onon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16966",
+      "ytId": "Sd3thLS9hjQ",
+      "eventId": "e1090",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250528 ASEA | Hearts2Hearts YUHA 하츠투하츠 유하 | Butterflies | FANCAM 직캠 ",
+      "channel": "구름냥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16967",
+      "ytId": "J03Z1tsrmNs",
+      "eventId": "e1091",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 하츠투하츠 지우 직캠 4K 'STYLE' (Hearts2Hearts JIWOO FanCam) | @MCOUNTDOWN_2025.6.19",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16968",
+      "ytId": "dWl__MXIaK4",
+      "eventId": "e1091",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 지우 직캠 4K 'STYLE' (Hearts2Hearts JIWOO FanCam) | @MCOUNTDOWN_2025.6.19",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16969",
+      "ytId": "QOeJe3CNJhc",
+      "eventId": "e1091",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 이안 직캠 4K 'STYLE' (Hearts2Hearts IAN FanCam) | @MCOUNTDOWN_2025.6.19",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-19"
+    },
+    {
+      "id": "v16970",
+      "ytId": "cMHgMRrCiDo",
+      "eventId": "e1091",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 카르멘 직캠 4K 'STYLE' (Hearts2Hearts CARMEN FanCam) | @MCOUNTDOWN_2025.6.19",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16971",
+      "ytId": "2hGnUolR_BM",
+      "eventId": "e1091",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 스텔라 직캠 4K 'STYLE' (Hearts2Hearts STELLA FanCam) | @MCOUNTDOWN_2025.6.19",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16972",
+      "ytId": "DTjhgloSO94",
+      "eventId": "e1091",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 유하 직캠 4K 'STYLE' (Hearts2Hearts YUHA FanCam) | @MCOUNTDOWN_2025.6.19",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16973",
+      "ytId": "edCA-z73qBc",
+      "eventId": "e1091",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 하츠투하츠 이안 직캠 4K 'STYLE' (Hearts2Hearts IAN FanCam) | @MCOUNTDOWN_2025.6.19",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16974",
+      "ytId": "ZPpMKCTUPGI",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 유하 'STYLE' (Hearts2Hearts YUHA Fancam) @뮤직뱅크(Music Bank) 250620",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16975",
+      "ytId": "1-qawnqpMrs",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 주은 'STYLE' (Hearts2Hearts JUUN Fancam) @뮤직뱅크(Music Bank) 250620",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16976",
+      "ytId": "4Y2xBglcg70",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 이안 'STYLE' (Hearts2Hearts IAN Fancam) @뮤직뱅크(Music Bank) 250620",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16977",
+      "ytId": "0MNkdym3Vhg",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 지우 'STYLE' (Hearts2Hearts JIWOO Fancam) @뮤직뱅크(Music Bank) 250620",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16978",
+      "ytId": "8ee9o8QLqtQ",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 스텔라 'STYLE' (Hearts2Hearts STELLA Fancam) @뮤직뱅크(Music Bank) 250620",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16979",
+      "ytId": "FuEl5ew4UvM",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 하츠투하츠 이안 'STYLE' (Hearts2Hearts IAN Facecam) @뮤직뱅크(Music Bank) 250620",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16980",
+      "ytId": "p-3j4VnFQOU",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 하츠투하츠 에이나 'STYLE' (Hearts2Hearts A-NA Facecam) @뮤직뱅크(Music Bank) 250620",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16981",
+      "ytId": "G7Ju2-RqNaE",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 하츠투하츠 지우 'STYLE' (Hearts2Hearts JIWOO Facecam) @뮤직뱅크(Music Bank) 250620",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16982",
+      "ytId": "HnNG8irnfMM",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 예온 'STYLE' (Hearts2Hearts YE-ON Fancam) @뮤직뱅크(Music Bank) 250620",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16983",
+      "ytId": "1A-v7J-dlRU",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 에이나 'STYLE' (Hearts2Hearts A-NA Fancam) @뮤직뱅크(Music Bank) 250620",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16984",
+      "ytId": "CD0PTt07RlI",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 하츠투하츠 카르멘 'STYLE' (Hearts2Hearts CARMEN Facecam) @뮤직뱅크(Music Bank) 250620",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16985",
+      "ytId": "MZ6vMGyQbDY",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 카르멘 'STYLE' (Hearts2Hearts CARMEN Fancam) @뮤직뱅크(Music Bank) 250620",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16986",
+      "ytId": "SlRxS4K0OnU",
+      "eventId": "e1093",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] Hearts2Hearts IAN (하츠투하츠 이안) – STYLE | 쇼! 음악중심 | MBC250621",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16987",
+      "ytId": "delui1P-xkQ",
+      "eventId": "e1093",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts JIWOO (하츠투하츠 지우) – STYLE FanCam | 쇼! 음악중심 | MBC250621",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16988",
+      "ytId": "P-mIJF5HrzI",
+      "eventId": "e1093",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts STELLA (하츠투하츠 스텔라) – STYLE FanCam | 쇼! 음악중심 | MBC250621",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16989",
+      "ytId": "rgL7V6vJpsg",
+      "eventId": "e1093",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts CARMEN (하츠투하츠 카르멘) – STYLE FanCam | 쇼! 음악중심 | MBC250621",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16990",
+      "ytId": "d0coasu7o2Q",
+      "eventId": "e1093",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts IAN (하츠투하츠 이안) – STYLE FanCam | 쇼! 음악중심 | MBC250621",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16991",
+      "ytId": "jZd9Kq_kxMA",
+      "eventId": "e1093",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts JUUN (하츠투하츠 주은) – STYLE FanCam | 쇼! 음악중심 | MBC250621",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16992",
+      "ytId": "F2X0nZa_0mU",
+      "eventId": "e1093",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] Hearts2Hearts A-NA (하츠투하츠 에이나) – STYLE | 쇼! 음악중심 | MBC250621",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16993",
+      "ytId": "IouDcbK2iKM",
+      "eventId": "e1093",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts A-NA (하츠투하츠 에이나) – STYLE FanCam | 쇼! 음악중심 | MBC250621",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16994",
+      "ytId": "bd9V-91cDIQ",
+      "eventId": "e1093",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts YE-ON (하츠투하츠 예온) – STYLE FanCam | 쇼! 음악중심 | MBC250621",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16995",
+      "ytId": "CXlxJZF--Kw",
+      "eventId": "e1093",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts YUHA (하츠투하츠 유하) – STYLE FanCam | 쇼! 음악중심 | MBC250621",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16996",
+      "ytId": "Kgy557iicD8",
+      "eventId": "e1094",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250621 Seoul Music Awards 서울가요대상 지우 JIWOO 하츠투하츠 Hearts2Hearts  The Chase 4K 60 직캠",
+      "channel": "Austyiz",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16997",
+      "ytId": "_RyJaPrtPjs",
+      "eventId": "e1094",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250621 하츠투하츠 Hearts2Hearts 지우 Jiwoo 2025 서울가요대상 - The Chase 직캠 fancam",
+      "channel": "Blue",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16998",
+      "ytId": "A82Y4jm64Xo",
+      "eventId": "e1094",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4k)250621 하츠투하츠 이안 The Chase 직캠 | 서울가요대상",
+      "channel": "𝘒𝘰𝘯𝘨..🍧",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16999",
+      "ytId": "fkKn4cHBRBs",
+      "eventId": "e1094",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 250621 Seoul Music Awards | Hearts2Hearts YUHA 'The Chase ' 직캠 ( H2H YUHA Focus)",
+      "channel": "청람🎐",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17000",
+      "ytId": "UURwVcL-ap8",
+      "eventId": "e1094",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250621 Hearts2Hearts IAN 하츠투하츠 이안 - 'The Chase' 직캠 @ 2025 Seoul Music Awards",
+      "channel": "shizuku",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17001",
+      "ytId": "MN1RCaQpSw4",
+      "eventId": "e1095",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 하츠투하츠 'STYLE' (Hearts2Hearts FullCam) @SBS Inkigayo 250622",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17002",
+      "ytId": "lgU8WS8S8Cw",
+      "eventId": "e1095",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 카르멘 'STYLE' (Hearts2Hearts CARMEN FanCam) @SBS Inkigayo 250622",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17003",
+      "ytId": "S4yETwDqx7o",
+      "eventId": "e1095",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 유하 'STYLE' (Hearts2Hearts YUHA FanCam) @SBS Inkigayo 250622",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17004",
+      "ytId": "fPLstP8PiOc",
+      "eventId": "e1095",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 에이나 'STYLE' (Hearts2Hearts A-NA FanCam) @SBS Inkigayo 250622",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17005",
+      "ytId": "YH1tCpNmV8c",
+      "eventId": "e1095",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 지우 'STYLE' (Hearts2Hearts JIWOO FanCam) @SBS Inkigayo 250622",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17006",
+      "ytId": "hnUEcZUbVS4",
+      "eventId": "e1095",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 하츠투하츠 카르멘 'STYLE' (Hearts2Hearts CARMEN FaceCam) @SBS Inkigayo 250622",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17007",
+      "ytId": "eqNDn9K-k4E",
+      "eventId": "e1095",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 스텔라 'STYLE' (Hearts2Hearts STELLA FanCam) @SBS Inkigayo 250622",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17008",
+      "ytId": "XAUGqAs2gR8",
+      "eventId": "e1095",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 하츠투하츠 이안 'STYLE' (Hearts2Hearts IAN FaceCam) @SBS Inkigayo 250622",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17009",
+      "ytId": "eW_A1F_eXA4",
+      "eventId": "e1095",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 예온 'STYLE' (Hearts2Hearts YE-ON FanCam) @SBS Inkigayo 250622",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17010",
+      "ytId": "UkIdZZmwnJE",
+      "eventId": "e1095",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 주은 'STYLE' (Hearts2Hearts JUUN FanCam) @SBS Inkigayo 250622",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17011",
+      "ytId": "vkuVmJv5Xss",
+      "eventId": "e1095",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 이안 'STYLE' (Hearts2Hearts IAN FanCam) @SBS Inkigayo 250622",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17012",
+      "ytId": "lNCvzKp7VDM",
+      "eventId": "e1096",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 이안 직캠 4K 'STYLE' (Hearts2Hearts IAN FanCam) | @MCOUNTDOWN_2025.6.26",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17013",
+      "ytId": "7OXJtWI5KCA",
+      "eventId": "e1096",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 하츠투하츠 카르멘 직캠 4K 'STYLE' (Hearts2Hearts CARMEN FanCam) | @MCOUNTDOWN_2025.6.26",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17014",
+      "ytId": "dDK4scEJRls",
+      "eventId": "e1097",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250628 하츠투하츠 이안 직캠 'Butterflies' (Hearts2Hearts IAN FanCam) @SMTOWN Live 2025 in LONDON",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17015",
+      "ytId": "sCPDpSmsCdA",
+      "eventId": "e516",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] Hearts2Hearts JIWOO (하츠투하츠 지우) – STYLE | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17016",
+      "ytId": "mS0OyHr0F-0",
+      "eventId": "e516",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts JUUN (하츠투하츠 주은) – STYLE FanCam | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17017",
+      "ytId": "y2_WmEVLX9w",
+      "eventId": "e516",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts CARMEN (하츠투하츠 카르멘) – STYLE FanCam | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17018",
+      "ytId": "9xLLggO2Xjc",
+      "eventId": "e516",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts A-NA (하츠투하츠 에이나) – STYLE FanCam | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17019",
+      "ytId": "apXayv-jWOI",
+      "eventId": "e516",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts STELLA (하츠투하츠 스텔라) – STYLE FanCam | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17020",
+      "ytId": "HvnrZARfPi0",
+      "eventId": "e516",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] Hearts2Hearts IAN (하츠투하츠 이안) – STYLE | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17021",
+      "ytId": "lcCC0wSTUqg",
+      "eventId": "e516",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts YE-ON (하츠투하츠 예온) – STYLE FanCam | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17022",
+      "ytId": "74A_E0HaJTo",
+      "eventId": "e516",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] Hearts2Hearts YUHA (하츠투하츠 유하) – STYLE FanCam | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17023",
+      "ytId": "icZ1kylIw0o",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250224 'Butterflies' 하츠투하츠 주은 Hearts2Hearts Juun Fancam 직캠",
+      "channel": "Soar",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17024",
+      "ytId": "d28Yx3nvMPk",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250224 Hearts2Hearts - The Chase (IAN FOCUS)",
+      "channel": "Y",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17025",
+      "ytId": "G52y13-Syis",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250224 'The Chase' 하츠투하츠 주은 Hearts2Hearts Juun Fancam 직캠",
+      "channel": "Soar",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17026",
+      "ytId": "PxT65q8m6nI",
+      "eventId": "e1072",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250224 하츠투하츠 “The chase” 지우 직캠",
+      "channel": "하퐁",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17027",
+      "ytId": "WK8c3dC1x78",
+      "eventId": "e1073",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "'최초 공개' Hearts2Hearts - The Chase #엠카운트다운 EP.877 | Mnet 250227 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17028",
+      "ytId": "-NYn3BkplZc",
+      "eventId": "e1074",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[HOT DEBUT] The Chase - Hearts2Hearts ハーツトゥーハーツ 하츠투하츠 [Music Bank] | KBS WORLD TV 250228",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17029",
+      "ytId": "VRFX3zpauzA",
+      "eventId": "e1074",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "The Chase - Hearts2Hearts (하츠투하츠) [뮤직뱅크/Music Bank] | KBS 250228 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17030",
+      "ytId": "HyvJ9Pfl7_o",
+      "eventId": "e1075",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Hearts2Hearts (하츠투하츠) - The Chase | Show! MusicCore | MBC250301방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17031",
+      "ytId": "HqiaTnoApwk",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Hearts2Hearts (하츠투하츠) – The Chase @인기가요 inkigayo 20250302",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17032",
+      "ytId": "hsn0T-SesuA",
+      "eventId": "e1077",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Hearts2Hearts, The Chase (하츠투하츠, The Chase) [THE SHOW 250304]",
+      "channel": "THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17033",
+      "ytId": "qB4MYtaL4Gs",
+      "eventId": "e1078",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[HOT DEBUT] 하츠투하츠(Hearts2Hearts) - The Chase l Show Champion l EP.545 l 250305",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17034",
+      "ytId": "Syx72dY4PX8",
+      "eventId": "e1078",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts(하츠투하츠) - The Chase | Show Champion | EP.545 | 250305",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17035",
+      "ytId": "AL_L7oXHfLI",
+      "eventId": "e1079",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Hearts2Hearts - The Chase #MCountdown EP.878 | Mnet 250306",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17036",
+      "ytId": "IaI-JYrYrwI",
+      "eventId": "e1080",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "The Chase - Hearts2Hearts (하츠투하츠) [뮤직뱅크/Music Bank] | KBS 250307 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17037",
+      "ytId": "kzCtw4OD97g",
+      "eventId": "e1080",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "The Chase - Hearts2Hearts ハーツトゥーハーツ 하츠투하츠 [Music Bank] | KBS WORLD TV 250307",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17038",
+      "ytId": "00-Te7xhsok",
+      "eventId": "e1081",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Hearts2Hearts (하츠투하츠) - The Chase | Show! MusicCore | MBC250308방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17039",
+      "ytId": "XqW3_VQC2_k",
+      "eventId": "e1081",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Hearts2Hearts - The Chase | Show! MusicCore | aired on MBC 250308 #Hearts2Hearts #ShowMusicCore",
+      "channel": "MBC WORLD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17040",
+      "ytId": "d-dt9ouxT38",
+      "eventId": "e1082",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Hearts2Hearts (하츠투하츠) – The Chase @인기가요 inkigayo 20250309",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17041",
+      "ytId": "7-gVWmzjNDI",
+      "eventId": "e1083",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Hearts2Hearts, The Chase (하츠투하츠, The Chase) [THE SHOW 250311]",
+      "channel": "THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17042",
+      "ytId": "IqfYZeupx38",
+      "eventId": "e1084",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts(하츠투하츠) - The Chase | Show Champion | EP.546 | 250312",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17043",
+      "ytId": "3fWBeaeNvN0",
+      "eventId": "e1084",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "하츠투하츠(Hearts2Hearts) - The Chase l Show Champion l EP.546 l 250312",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17044",
+      "ytId": "oA4M2cF_vfY",
+      "eventId": "e1085",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Hearts2Hearts - The Chase #엠카운트다운 EP.879 | Mnet 250313 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17045",
+      "ytId": "sUVJ24RRQbk",
+      "eventId": "e1098",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "The Chase - Hearts2Hearts (하츠투하츠) [뮤직뱅크/Music Bank] | KBS 250314 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17046",
+      "ytId": "Ug3o60pdlq0",
+      "eventId": "e1098",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "The Chase - Hearts2Hearts ハーツトゥーハーツ 하츠투하츠 [Music Bank] | KBS WORLD TV 250314",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17047",
+      "ytId": "ncWhY2tmi40",
+      "eventId": "e1086",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Hearts2Hearts (하츠투하츠) - The Chase | Show! MusicCore | MBC250315방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17048",
+      "ytId": "CR9jAGWkmZQ",
+      "eventId": "e1086",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Hearts2Hearts - The Chase | Show! MusicCore | aired on MBC 250315 #Hearts2Hearts #ShowMusicCore",
+      "channel": "MBC WORLD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17049",
+      "ytId": "60NJwDqFN1k",
+      "eventId": "e1087",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Hearts2Hearts (하츠투하츠) – The Chase @인기가요 inkigayo 20250316",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17050",
+      "ytId": "wxjvw5sIl8Q",
+      "eventId": "e1088",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K】250330 'The Chase' 하츠투하츠 주은 Hearts2Hearts Juun Fancam 직캠",
+      "channel": "Soar",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17051",
+      "ytId": "Kzv9ZXLuu8I",
+      "eventId": "e1088",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K】250330 ' Butterflies' 하츠투하츠 주은 Hearts2Hearts Juun Fancam 직캠",
+      "channel": "Soar",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17052",
+      "ytId": "SBe-lTqkfmw",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Hearts2Hearts - Butterflies [서울 스프링 페스타 2025 - 서울원더쇼] | KBS 250504 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17053",
+      "ytId": "GVJJVSi5vcI",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250430 이안 IAN 하츠투하츠 Hearts2Hearts The Chase @서울스프링페스타(SEOUL SPRING FESTA) 4K 직캠 by MIXX",
+      "channel": "MIXX",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17054",
+      "ytId": "WSogLrLg1v8",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250430 하츠투하츠 이안 직캠(Hearts2Hearts IAN Fancam) 'The Chase' @서울스프링페스타",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17055",
+      "ytId": "9Ey7HyTqF4E",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250430 카르멘 CARMEN 하츠투하츠 Hearts2Hearts Butterflies @서울스프링페스타(SEOUL SPRING FESTA) 4K 직캠 by MIXX",
+      "channel": "MIXX",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17056",
+      "ytId": "AOsMzXxDPrE",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] 하츠투하츠(Hearts2Hearts) 지우(JIWOO) 'The Chase' 세로 직캠 @서울스프링페스타 SEOUL WONDER SHOW 2025, 250430",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17057",
+      "ytId": "VS_-8lANaEk",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250430 이안 IAN 하츠투하츠 Hearts2Hearts Butterflies @서울스프링페스타(SEOUL SPRING FESTA) 4K 직캠 by MIXX",
+      "channel": "MIXX",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17058",
+      "ytId": "-24ZGisFIXA",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K】250430 'The Chase' 하츠투하츠 주은 Hearts2Hearts Juun Fancam 직캠",
+      "channel": "Soar",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17059",
+      "ytId": "-pbk6U2CtqA",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250430 하츠투하츠 지우 Hearts2Hearts JIWOO 직캠 - The Chase @서울스프링페스타",
+      "channel": "DOUX",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17060",
+      "ytId": "Pm1Fel4QJvQ",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[250430] #하츠2하트(hearts2hearts) 지우 - 'THE CHASE' 직캠캠",
+      "channel": "Play Today",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17061",
+      "ytId": "57Hq3WyI7Bk",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250430 Hearts2Hearts 지우 - Butterflies | 서울 스프링 페스타",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17062",
+      "ytId": "2vfAFW_b9Ig",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250430 Hearts2Hearts 이안 - The Chase | 서울 스프링 페스타",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-05"
+    },
+    {
+      "id": "v17063",
+      "ytId": "saKtRvOs9SU",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam/YUHA of Hearts2Hearts] 250430 SSF - 'The Chase' 유하 직캠",
+      "channel": "Yurora",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17064",
+      "ytId": "iW57rZoRSF8",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250430  Hearts2Hearts - The Chase 하츠투하츠 하투하 카르멘 직캠 SEOUL FESTA｜ H2H CARMEN focus FANCAM",
+      "channel": "SunshineLand CARMEN",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17065",
+      "ytId": "cYUTQ759oas",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250430 Hearts2Hearts Jiwoo 'Butterflies' Fancam @Seoul Sping Feasta",
+      "channel": "syzygy.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17066",
+      "ytId": "tdcImAl63Gg",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Hearts2Hearts - The Chase [서울 스프링 페스타 2025 - 서울원더쇼] | KBS 250504 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17067",
+      "ytId": "aYWx0pGbx4k",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K】250430 'Butterflies' 하츠투하츠 주은 Hearts2Hearts Juun Fancam 직캠",
+      "channel": "Soar",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17068",
+      "ytId": "rlae3Vq6yGw",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250430 하츠투하츠 지우 직캠\" THE CHASE\"( HEARTS2HEARTS JIWOO FANCAM) @songdambi",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17069",
+      "ytId": "eZeX6j3rao8",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] Hearts2Hearts CARMEN 하츠투하츠 카르멘 'Butterflies' FANCAM 직캠 Focus | 250430 SEOUL FESTA",
+      "channel": "encircled",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17070",
+      "ytId": "VG67I_fSEWE",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] Hearts2Hearts CARMEN FANCAM 하츠투하츠 카르멘 'The Chase' 직캠 Focus | 250430 SEOUL FESTA",
+      "channel": "encircled",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17071",
+      "ytId": "I_mZLrLFARk",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[250430 SEOUL SPRING FESTA] 🦋BUTTERFLIES🦋 (HEARTS2HEARTS) - CARMEN FANCAM FOCUS 4K",
+      "channel": "AreumiCam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17072",
+      "ytId": "XuT7B1SXt_o",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250430 Hearts2Hearts Juun 'The Chase' Fancam @Seoul Sping Feasta",
+      "channel": "syzygy.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17073",
+      "ytId": "LMoHcQxyGJc",
+      "eventId": "e1099",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250430 서울스프링페스타 - 'The Chase' 하츠투하츠 예온 직캠 Hearts2Hearts YE-ON Fancam",
+      "channel": "onon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17074",
+      "ytId": "K2UBa31hjF0",
+      "eventId": "e1100",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250503 Hearts2Hearts 하츠투하츠 Butterflies 지우 JIWOO FANCAM @ Rakuten GirlsAward 2025 SPRING/SUMMER",
+      "channel": "coldnadongie",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-04"
+    },
+    {
+      "id": "v17075",
+      "ytId": "43TOyctAMkQ",
+      "eventId": "e1100",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250503 Hearts2Hearts 하츠투하츠 The Chase 지우 JIWOO FANCAM @ Rakuten GirlsAward 2025 SPRING/SUMMER",
+      "channel": "coldnadongie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17076",
+      "ytId": "hG_dMagl_Uo",
+      "eventId": "e1101",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "Hearts2Hearts JIWOO(하츠투하츠 지우) 'The Chase' 4K | Wango Tango 250510",
+      "channel": "GhostPokemonOnly",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17077",
+      "ytId": "QhHdJWICcXM",
+      "eventId": "e1101",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "Hearts2Hearts JUUN (하츠투하츠 주은) - Butterfly FanCam 4K | Wango Tango 250510",
+      "channel": "GhostPokemonOnly",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17078",
+      "ytId": "gt84gMEY-Ng",
+      "eventId": "e1102",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4k)250531 하츠투하츠 이안 The Chase 직캠 I 메가콘서트",
+      "channel": "𝘒𝘰𝘯𝘨..🍧",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17079",
+      "ytId": "4sCfCiqdBf4",
+      "eventId": "e1102",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250531 Hearts2Hearts 이안 - The Chase | 2025 SBS 메가콘서트",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17080",
+      "ytId": "hIIIeP5_4ZM",
+      "eventId": "e1102",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[FANCAM] 250531 MGC 메가콘 하츠투하츠 Hearts2Hearts 유하 YUHA l The Chase 4K fancam",
+      "channel": "시즈",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17081",
+      "ytId": "VVNsxqJuud0",
+      "eventId": "e1102",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[FANCAM] 250531 MGC 메가콘 하츠투하츠 Hearts2Hearts 유하 YUHA l Butterflies 4K fancam",
+      "channel": "시즈",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17082",
+      "ytId": "I8vmqj8KXBg",
+      "eventId": "e1102",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250531 Butterflies 하츠투하츠 지우 직캠 Hearts2Hearts JIWOO focus @ 2025 MEGA CONCERT",
+      "channel": "heartache",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17083",
+      "ytId": "MurlFSOL0Go",
+      "eventId": "e1102",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250531 The Chase Hearts2Hearts H2H JIWOO focus 하츠투하츠 지우 직캠 @ MEGA Concert 메가콘서트",
+      "channel": "dotdot",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17084",
+      "ytId": "zIglBnBR6so",
+      "eventId": "e1102",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 250531 Mega Concert | Hearts2Hearts YUHA 'Butterflies ' 직캠 ( H2H YUHA Focus)",
+      "channel": "청람🎐",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17085",
+      "ytId": "nHx0Qy9S29o",
+      "eventId": "e1102",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250531 Hearts2Hearts 에이나(A-NA) Fan Cam -The Chase(4K) @2025 메가콘서트",
+      "channel": "Cloud blue",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17086",
+      "ytId": "-5WdYfJsP78",
+      "eventId": "e1102",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250531 MGC 'Butterflies' 하츠투하츠 스텔라 직캠 Hearts2Hearts STELLA FANCAM | 메가콘서트",
+      "channel": "하비",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17087",
+      "ytId": "UdAb3y4FREs",
+      "eventId": "e1102",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[250531 SBS MEGA CONCERT] ‘THE CHASE’ (HEARTS2HEARTS) - CARMEN FANCAM FOCUS 4K",
+      "channel": "AreumiCam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17088",
+      "ytId": "AJ4lIXCRdwU",
+      "eventId": "e1102",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250531 Butterflies Hearts2Hearts H2H JIWOO focus 하츠투하츠 지우 직캠 @ MEGA Concert 메가콘서트",
+      "channel": "dotdot",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17089",
+      "ytId": "VcDG9tf39f4",
+      "eventId": "e1102",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250531 하츠투하츠 지우 Hearts2Hearts JIWOO 직캠 - Butterflies @MEGA CONCERT",
+      "channel": "DOUX",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17090",
+      "ytId": "71I5iF71n98",
+      "eventId": "e1102",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "THE CHASE - HEARTS2HEARTS JUUN 하츠투하츠 주은 250531 MEGA CONCERT",
+      "channel": "BLUE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17091",
+      "ytId": "Me9UqsJAC2I",
+      "eventId": "e1102",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250531 Hearts2Hearts 이안 - Butterflies | 2025 SBS 메가콘서트",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17092",
+      "ytId": "FGBwQeD2FpY",
+      "eventId": "e1091",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "'최초 공개' Hearts2Hearts - STYLE #엠카운트다운 EP.893 | Mnet 250619 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17093",
+      "ytId": "-YpzkXPGM1Q",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P/가로] Hearts2Hearts (하츠투하츠) - STYLE | 이안 Focus Fancam | 250619 MyK FESTA",
+      "channel": "꼬르륵FANCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17094",
+      "ytId": "DgsisUED7RQ",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250619 STYLE Hearts2Hearts H2H JIWOO focus 하츠투하츠 지우 직캠 @ MyKfesta 마이케이페스타",
+      "channel": "dotdot",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17095",
+      "ytId": "v3fNyMYUt8I",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250619 하츠투하츠 이안 The Chase 직캠 @마이케이페스타 ｜  Hearts2Hearts IAN Fancam @2025MyKFESTA",
+      "channel": "koi (♡)",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17096",
+      "ytId": "gTC-HiB5biQ",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P/가로] Hearts2Hearts (하츠투하츠) - The Chase | 이안 Focus Fancam | 250619 MyK FESTA",
+      "channel": "꼬르륵FANCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17097",
+      "ytId": "s3dCexcv_P4",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250619 My K-Festa 'STYLE' - Hearts2Hearts 이안 직캠 IAN fancam",
+      "channel": "Idyllic",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17098",
+      "ytId": "dhQJLhO3Okw",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam/YUHA of Hearts2Hearts] 250619 마이케이페스타 - 'Butterflies' 유하 직캠",
+      "channel": "Yurora",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17099",
+      "ytId": "OBsnfYSycZ0",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250619 MyK FESTA / Hearts2Hearts - Butterflies 지우 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17100",
+      "ytId": "BbcY7Dg7gr4",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K】 250619 MyK FESTA Hearts2Hearts-The Chase ｜ IAN 이안 FOCUS fancam",
+      "channel": "𝑷𝒖𝒅𝒅𝒊𝒏𝒈.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17101",
+      "ytId": "tBlgXpyU0ZM",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250619 하츠투하츠 지우 Hearts2Hearts JIWOO 직캠 - STYLE @MyK FESTA",
+      "channel": "DOUX",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17102",
+      "ytId": "76nCOXyLSdo",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 250619 MYK Festival | Hearts2Hearts YUHA 'The Chase ' 직캠 ( H2H YUHA Focus)",
+      "channel": "청람🎐",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17103",
+      "ytId": "6cMP9oCzaIo",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250619 MyK FESTA / Hearts2Hearts - STYLE 지우 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17104",
+      "ytId": "H8SzbJR85qk",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250619 My k Festa - 'STYLE' 하츠투하츠 예온 직캠 Hearts2Hearts YE-ON Fancam",
+      "channel": "onon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17105",
+      "ytId": "D9Ln1dem490",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250619 MyK FESTA / Hearts2Hearts - The Chase 지우 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17106",
+      "ytId": "Li6IqwfQWOw",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k-2Multi] 250619 MYK Festival | Hearts2Hearts YUHA 'Style ' 직캠 (H2H YUHA Focus)",
+      "channel": "청람🎐",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17107",
+      "ytId": "jVvW2CYi6fo",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam/YUHA of Hearts2Hearts] 250619 마이케이페스타 - 'STYLE' 유하 직캠",
+      "channel": "Yurora",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17108",
+      "ytId": "pHCSThHNZJQ",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam/YUHA of Hearts2Hearts] 250619 마이케이페스타 - 'The Chase' 유하 직캠",
+      "channel": "Yurora",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17109",
+      "ytId": "DBQgXRmktCA",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250619 My K-Festa Hearts2Hearts ‘Style’ FANCAM YUHA 유하  Focus",
+      "channel": "foryu_07",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17110",
+      "ytId": "c9C76ozJvkU",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "이안 IAN Hearts2Hearts 하츠투하츠 - Butterflies 4K 세로 직캠 @250619 MyK FESTA",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17111",
+      "ytId": "K4V4qsBcLN8",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250619 Hearts2Hearts 이안 - The Chase | MyK FESTA(마이케이 페스타)",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17112",
+      "ytId": "3HC08CuLNQ0",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "⁠【250619】 'Butterflies' 하츠투하츠 이안 ｜HEARTS2HEARTS IAN｜MyK FESTA｜Fancam",
+      "channel": "IanToT",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17113",
+      "ytId": "wXT43vMkdXc",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "이안 IAN Hearts2Hearts 하츠투하츠 - The Chase 4K 세로 직캠 @250619 MyK FESTA",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17114",
+      "ytId": "vmwzLGDsvVo",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "하츠투하츠(Hearts2Hearts) 이안(IAN) :: STYLE :: MyK FESTA 250619 fancam",
+      "channel": "connect",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17115",
+      "ytId": "NksPsE1-pq4",
+      "eventId": "e1103",
+      "songs": [
+        {
+          "songId": "g4s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "250619 [4K60P세로] Hearts2Hearts (하츠투하츠) - Butterflies 이안 fancam [MyK FESTA 마이케이페스타]",
+      "channel": "Kimquestionmark",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17116",
+      "ytId": "A-rHQNVrim4",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "STYLE - Hearts2Hearts (하츠투하츠) [뮤직뱅크/Music Bank] | KBS 250620 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17117",
+      "ytId": "yOHgJFlbyog",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "STYLE - Hearts2Hearts ハーツトゥハーツ 하츠투하츠 [Music Bank] | KBS WORLD TV 250620",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17118",
+      "ytId": "hwQlURpblRI",
+      "eventId": "e1093",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Hearts2Hearts (하츠투하츠) - STYLE | Show! MusicCore | MBC250621방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17119",
+      "ytId": "1RuhpUF1opc",
+      "eventId": "e1093",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Hearts2Hearts - STYLE | Show! MusicCore | aired on MBC250621 #Hearts2hearts",
+      "channel": "MBC WORLD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17120",
+      "ytId": "_puRBdJfMBI",
+      "eventId": "e1094",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K][FANCAM] 250621 Seoul Music Awards Hearts2Hearts A_NA - ‘The Chase’",
+      "channel": "dreamyinit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-23"
+    },
+    {
+      "id": "v17121",
+      "ytId": "UgZ8m52rWwg",
+      "eventId": "e1095",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Hearts2Hearts (하츠투하츠) - STYLE | SBS 250622 방송",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17122",
+      "ytId": "1whqfdY5NI8",
+      "eventId": "e1096",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Hearts2Hearts - STYLE #엠카운트다운 EP.894 | Mnet 250626 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17123",
+      "ytId": "X4EMROC9IDo",
+      "eventId": "e516",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Hearts2Hearts (하츠투하츠) - STYLE | Show! MusicCore | MBC250628방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17124",
+      "ytId": "haYyMa64bsc",
+      "eventId": "e516",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Hearts2Hearts - STYLE | Show! MusicCore | aired on MBC250628 #Hearts2Hearts",
+      "channel": "MBC WORLD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17125",
+      "ytId": "5qk-HYkV3HA",
+      "eventId": "e1104",
+      "songs": [
+        {
+          "songId": "g4s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Hearts2Hearts (하츠투하츠) - STYLE | SBS 250629 방송",
+      "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
       "gone": false
     }
