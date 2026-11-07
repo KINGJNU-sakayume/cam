@@ -17959,6 +17959,408 @@
         "g5s14"
       ],
       "note": ""
+    },
+    {
+      "id": "e1142",
+      "groupId": "g2",
+      "date": "2024-12-31",
+      "show": "MBC 가요대제전",
+      "label": "",
+      "setlist": [
+        "g2s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1143",
+      "groupId": "g2",
+      "date": "2025-01-29",
+      "show": "MBC 가요대제전",
+      "label": "",
+      "setlist": [
+        "g2s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1144",
+      "groupId": "g2",
+      "date": "2025-03-15",
+      "show": "IVE Listening Party",
+      "label": "",
+      "setlist": [
+        "g2s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1145",
+      "groupId": "g2",
+      "date": "2025-03-20",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g2s12",
+        "g2s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1146",
+      "groupId": "g2",
+      "date": "2025-03-21",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g2s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1147",
+      "groupId": "g2",
+      "date": "2025-03-23",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g2s12",
+        "g2s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1148",
+      "groupId": "g2",
+      "date": "2025-03-26",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g2s12",
+        "g2s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1149",
+      "groupId": "g2",
+      "date": "2025-03-27",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g2s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1150",
+      "groupId": "g2",
+      "date": "2025-03-28",
+      "show": "더 시즌즈",
+      "label": "",
+      "setlist": [
+        "g2s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1151",
+      "groupId": "g2",
+      "date": "2025-03-29",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g2s12",
+        "g2s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1152",
+      "groupId": "g2",
+      "date": "2025-03-30",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g2s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1153",
+      "groupId": "g2",
+      "date": "2025-04-01",
+      "show": "KBS 가요광장",
+      "label": "",
+      "setlist": [
+        "g2s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1154",
+      "groupId": "g2",
+      "date": "2025-04-02",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g2s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1155",
+      "groupId": "g2",
+      "date": "2025-04-04",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g2s12",
+        "g2s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1156",
+      "groupId": "g2",
+      "date": "2025-04-05",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g2s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1157",
+      "groupId": "g2",
+      "date": "2025-04-06",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g2s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1158",
+      "groupId": "g2",
+      "date": "2025-04-12",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g2s10",
+        "g2s9",
+        "g2s12",
+        "g2s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1159",
+      "groupId": "g2",
+      "date": "2025-05-14",
+      "show": "세종대 축제",
+      "label": "",
+      "setlist": [
+        "g2s10",
+        "g2s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1160",
+      "groupId": "g2",
+      "date": "2025-05-14",
+      "show": "여주대 축제",
+      "label": "",
+      "setlist": [
+        "g2s5",
+        "g2s12",
+        "g2s10",
+        "g2s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1161",
+      "groupId": "g2",
+      "date": "2025-05-15",
+      "show": "대전보건대 축제",
+      "label": "",
+      "setlist": [
+        "g2s12",
+        "g2s9",
+        "g2s10",
+        "g2s2",
+        "g2s5"
+      ],
+      "note": "",
+      "aliases": [
+        "보건대 축제"
+      ]
+    },
+    {
+      "id": "e1162",
+      "groupId": "g2",
+      "date": "2025-05-24",
+      "show": "고려대 축제",
+      "label": "",
+      "setlist": [
+        "g2s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1163",
+      "groupId": "g2",
+      "date": "2025-06-29",
+      "show": "IVE 4TH FAN CONCERT DIVE into IVE",
+      "label": "",
+      "setlist": [
+        "g2s31"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1164",
+      "groupId": "g2",
+      "date": "2025-02-19",
+      "show": "NMIXX CHANGE UP : MIXX LAB 멕시코시티",
+      "label": "",
+      "setlist": [
+        "g2s9",
+        "g2s10",
+        "g2s40",
+        "g2s32",
+        "g2s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1165",
+      "groupId": "g2",
+      "date": "2025-02-20",
+      "show": "NMIXX CHANGE UP : MIXX LAB 멕시코시티",
+      "label": "",
+      "setlist": [
+        "g2s22"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1166",
+      "groupId": "g2",
+      "date": "2025-02-28",
+      "show": "NMIXX CHANGE UP : MIXX LAB 상파울루",
+      "label": "",
+      "setlist": [
+        "g2s40"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1167",
+      "groupId": "g2",
+      "date": "2025-04-03",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g2s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1168",
+      "groupId": "g2",
+      "date": "2025-04-20",
+      "show": "NMIXX CHANGE UP : MIXX LAB 타이베이",
+      "label": "",
+      "setlist": [
+        "g2s12",
+        "g2s9",
+        "g2s10",
+        "g2s32",
+        "g2s40"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1169",
+      "groupId": "g2",
+      "date": "2025-04-27",
+      "show": "Dragons STAR MUSIC FESTIVAL",
+      "label": "",
+      "setlist": [
+        "g2s12",
+        "g2s9",
+        "g2s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1170",
+      "groupId": "g2",
+      "date": "2025-04-30",
+      "show": "서울 스프링 페스타",
+      "label": "",
+      "setlist": [
+        "g2s12",
+        "g2s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1171",
+      "groupId": "g2",
+      "date": "2025-05-10",
+      "show": "Wango Tango",
+      "label": "",
+      "setlist": [
+        "g2s8",
+        "g2s2",
+        "g2s5",
+        "g2s40",
+        "g2s10",
+        "g2s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1172",
+      "groupId": "g2",
+      "date": "2025-05-15",
+      "show": "카이스트 축제",
+      "label": "",
+      "setlist": [
+        "g2s12",
+        "g2s5",
+        "g2s10",
+        "g2s9",
+        "g2s31"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1173",
+      "groupId": "g2",
+      "date": "2025-06-06",
+      "show": "NMIXX CHANGE UP : MIXX LAB 멜버른",
+      "label": "",
+      "setlist": [],
+      "note": ""
+    },
+    {
+      "id": "e1174",
+      "groupId": "g2",
+      "date": "2025-06-28",
+      "show": "NMIXX CHANGE UP : MIXX LAB 마카오",
+      "label": "",
+      "setlist": [
+        "g2s40",
+        "g2s12",
+        "g2s35"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -334320,6 +334722,6955 @@
       ],
       "title": "[4K] 250628 aespa - Whiplash | SMTOWN Live 2025 in London",
       "channel": "DY Z",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17720",
+      "ytId": "PbmjXtx26h0",
+      "eventId": "e1142",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 엔믹스 – 별별별 (See that?) (NMIXX Fullcam) | Gayo Daejejeon 2024 | MBC241231",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17721",
+      "ytId": "9lCbPqofVYY",
+      "eventId": "e1143",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 엔믹스 해원 – 별별별 (See that?) 직캠 (NMIXX HAEWON Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17722",
+      "ytId": "Vb4VcPXGNKk",
+      "eventId": "e1143",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 엔믹스 지우 – 별별별 (See that?) 직캠 (NMIXX JIWOO Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17723",
+      "ytId": "mVVJwImjoXg",
+      "eventId": "e1143",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 엔믹스 릴리 – 별별별 (See that?) 직캠 (NMIXX LILY Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17724",
+      "ytId": "tZoGF9Lijdw",
+      "eventId": "e1143",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전 #최애직캠] 엔믹스 설윤 (NMIXX SULLYOON) – 별별별 (See that?) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17725",
+      "ytId": "CDF4rP1FpG0",
+      "eventId": "e1143",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 엔믹스 규진 – 별별별 (See that?) 직캠 (NMIXX KUJIN Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17726",
+      "ytId": "HvJOLxIXfoM",
+      "eventId": "e1143",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 엔믹스 배이 – 별별별 (See that?) 직캠 (NMIXX BAE Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17727",
+      "ytId": "TGU1kxBRB9w",
+      "eventId": "e1144",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250315 High Horse 엔믹스 규진 직캠 NMIXX KYUJIN Focus FanCam - 리스닝 파티 이벤트 LISTENING PARTY EVENT",
+      "channel": "ᴅɪᴄʜᴀ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17728",
+      "ytId": "QbH_RWFMtjw",
+      "eventId": "e1144",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250315 NMIXX KYUJIN 엔믹스 규진 LISTENING PARTY - \"High Horse\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17729",
+      "ytId": "D0Fnq71kqp8",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 엔믹스 해원 직캠 4K 'KNOW ABOUT ME' (NMIXX HAEWON FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17730",
+      "ytId": "tzkaDUmfaFQ",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 엔믹스 설윤 직캠 4K 'High Horse' (NMIXX SULLYOON FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17731",
+      "ytId": "YlOC0kje9bs",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 엔믹스 규진 직캠 4K 'KNOW ABOUT ME' (NMIXX KYUJIN FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17732",
+      "ytId": "qubeUpTqeQo",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 엔믹스 설윤 직캠 4K 'KNOW ABOUT ME' (NMIXX SULLYOON FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17733",
+      "ytId": "NR9q8EO9iwU",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 엔믹스 해원 직캠 4K 'High Horse' (NMIXX HAEWON FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-20"
+    },
+    {
+      "id": "v17734",
+      "ytId": "2eVWPKDxx18",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 엔믹스 배이 직캠 4K 'KNOW ABOUT ME' (NMIXX BAE FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17735",
+      "ytId": "ILHrlL-out8",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 엔믹스 해원 직캠 4K 'KNOW ABOUT ME' (NMIXX HAEWON FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17736",
+      "ytId": "2WW9py_Dzn8",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 엔믹스 릴리 직캠 4K 'KNOW ABOUT ME' (NMIXX LILY FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17737",
+      "ytId": "IKswVj21Xts",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 엔믹스 지우 직캠 4K 'KNOW ABOUT ME' (NMIXX JIWOO FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17738",
+      "ytId": "AnQ3ceNQEy8",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 배이 직캠 'KNOW ABOUT ME'(NMIXX BAE Fancam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17739",
+      "ytId": "DSVZ3qVJs6I",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 설윤 직캠 'KNOW ABOUT ME'(NMIXX SULLYOON Fancam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17740",
+      "ytId": "jqWrtXAmJaM",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 해원 직캠 'KNOW ABOUT ME'(NMIXX HAEWON Fancam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17741",
+      "ytId": "tPJaibZDStU",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 규진 직캠 'KNOW ABOUT ME'(NMIXX KYUJIN Fancam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17742",
+      "ytId": "DQli-o-p-zc",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 지우 직캠 'KNOW ABOUT ME'(NMIXX JIWOO Fancam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17743",
+      "ytId": "9bWddEpGkqw",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 릴리 직캠 'KNOW ABOUT ME'(NMIXX LILY Fancam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17744",
+      "ytId": "MZXftp45PXQ",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 엔믹스 규진 'KNOW ABOUT ME' (NMIXX KYUJIN Facecam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17745",
+      "ytId": "vz3hv8_35TA",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 엔믹스 해원 'KNOW ABOUT ME' (NMIXX HAEWON Facecam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17746",
+      "ytId": "RzMFgq2CMv4",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 엔믹스 지우 'KNOW ABOUT ME' (NMIXX JIWOO Facecam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17747",
+      "ytId": "A-gxwNwUEK8",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 엔믹스 설윤 'KNOW ABOUT ME' (NMIXX SULLYOON Facecam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17748",
+      "ytId": "yWRXjf7FQuw",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 엔믹스 'KNOW ABOUT ME' (NMIXX FullCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17749",
+      "ytId": "nCfnlht-PXc",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 엔믹스 설윤 'KNOW ABOUT ME' (NMIXX SULLYOON FaceCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17750",
+      "ytId": "dMiT3fupiAY",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 해원 'KNOW ABOUT ME' (NMIXX HAEWON FanCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17751",
+      "ytId": "CvN9Ptb65Hg",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 엔믹스 'KNOW ABOUT ME' 단독샷 별도녹화│NMIXX ONE TAKE STAGE│@SBS Inkigayo 250323",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17752",
+      "ytId": "qMvGvpR-1_o",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 지우 'KNOW ABOUT ME' (NMIXX JIWOO FanCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17753",
+      "ytId": "7at0mAWGP6k",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 엔믹스 지우 'KNOW ABOUT ME' (NMIXX JIWOO FaceCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17754",
+      "ytId": "UcI5dxO-WuY",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 설윤 'KNOW ABOUT ME' (NMIXX SULLYOON FanCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17755",
+      "ytId": "r3fI5-QM1_I",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 규진 'KNOW ABOUT ME' (NMIXX KYUJIN FanCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17756",
+      "ytId": "mscF6OsQ-sk",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 릴리 'KNOW ABOUT ME' (NMIXX LILY FanCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17757",
+      "ytId": "XCpX8qzu8_8",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 엔믹스 'High Horse' (NMIXX FullCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17758",
+      "ytId": "TbU3_uhlNZo",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 배이 'KNOW ABOUT ME' (NMIXX BAE FanCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17759",
+      "ytId": "n2VdXk1Jnhs",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 배이 'High Horse' (NMIXX BAE FanCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17760",
+      "ytId": "HN8DMEQ8YdY",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 릴리 'High Horse' (NMIXX LILY FanCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17761",
+      "ytId": "KMOsVp_yvkQ",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 지우 'High Horse' (NMIXX JIWOO FanCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17762",
+      "ytId": "dMQZySXiWUU",
+      "eventId": "e1148",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] NMIXX 해원 - KNOW ABOUT ME | Show Champion | EP.548 | 250326",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17763",
+      "ytId": "0rp54oXvJ4o",
+      "eventId": "e1148",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[쇼챔 1위] 3월 4주 챔피언송 ＜NMIXX - KNOW ABOUT ME＞ 앵콜 Full ver. l Show Champion l EP.548 l 250326",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17764",
+      "ytId": "LYV1nRdCO3E",
+      "eventId": "e1148",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250326 엔믹스 설윤 직캠 (NMIXX SULLYOON fancam) 'KNOW ABOUT ME' @쇼챔피언",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17765",
+      "ytId": "_0z4SSOo25U",
+      "eventId": "e1148",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX KYUJIN(엔믹스 규진) - High Horse | Show Champion | EP.548 | 250326",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17766",
+      "ytId": "fwsEiLOMsLw",
+      "eventId": "e1148",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX SULLYOON(엔믹스 설윤) - High Horse | Show Champion | EP.548 | 250326",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17767",
+      "ytId": "3P656kF0Q3o",
+      "eventId": "e1148",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX LILY(엔믹스 릴리) - KNOW ABOUT ME | Show Champion | EP.548 | 250326",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17768",
+      "ytId": "CIxX96upNqQ",
+      "eventId": "e1148",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] NMIXX 설윤 - KNOW ABOUT ME | Show Champion | EP.548 | 250326",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17769",
+      "ytId": "MDs7VWlFtxo",
+      "eventId": "e1148",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX KYUJIN(엔믹스 규진) - KNOW ABOUT ME | Show Champion | EP.548 | 250326",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17770",
+      "ytId": "eZp8i0chUPQ",
+      "eventId": "e1148",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX BAE(엔믹스 배이) - KNOW ABOUT ME | Show Champion | EP.548 | 250326",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17771",
+      "ytId": "iK01jJLnHdw",
+      "eventId": "e1148",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX JIWOO(엔믹스 지우) - KNOW ABOUT ME | Show Champion | EP.548 | 250326",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17772",
+      "ytId": "V59rDU7Dy7I",
+      "eventId": "e1148",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX HAEWON(엔믹스 해원) - KNOW ABOUT ME | Show Champion | EP.548 | 250326",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17773",
+      "ytId": "W1NvXp98aJ0",
+      "eventId": "e1148",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] NMIXX 배이 - KNOW ABOUT ME | Show Champion | EP.548 | 250326",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17774",
+      "ytId": "Z9VUpeGKkNc",
+      "eventId": "e1149",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[직캠4K] 엔믹스 설윤 'KNOW ABOUT ME' (NMIXX SULLYOON FanCam) @M Countdown 250327",
+      "channel": "m0tri3t",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17775",
+      "ytId": "tVspHHzkqrM",
+      "eventId": "e1149",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[직캠4K] 엔믹스 규진 'KNOW ABOUT ME' (NMIXX KYUJIN FanCam) @M Countdown 250327",
+      "channel": "m0tri3t",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17776",
+      "ytId": "-a8c8hbwr3M",
+      "eventId": "e1150",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250328 엔믹스 규진 직캠 (NMIXX KYUJIN fancam) 'KNOW ABOUT ME' @더시즌즈",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17777",
+      "ytId": "VvY9KUkG7Eo",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠8K] NMIXX (엔믹스) – KNOW ABOUT ME FullCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17778",
+      "ytId": "z3ZZdYKT9Qo",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠] NMIXX (엔믹스) – High Horse FullCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17779",
+      "ytId": "Um6erq8YjJA",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] NMIXX BAE (엔믹스 배이) – KNOW ABOUT ME | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17780",
+      "ytId": "JKw4y5wSKyc",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] NMIXX JIWOO (엔믹스 지우) – KNOW ABOUT ME FanCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17781",
+      "ytId": "MdPUWE5E6w4",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] NMIXX HAEWON (엔믹스 해원) – KNOW ABOUT ME FanCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17782",
+      "ytId": "mlG7YVt9zE8",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] NMIXX KYUJIN (엔믹스 규진) – KNOW ABOUT ME FanCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17783",
+      "ytId": "fYw_Twcaa30",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] NMIXX SULLYOON (엔믹스 설윤) – KNOW ABOUT ME FanCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17784",
+      "ytId": "KUXp3HmfCtA",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] NMIXX SULLYOON (엔믹스 설윤) – KNOW ABOUT ME | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17785",
+      "ytId": "ePIG91zqVGo",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] NMIXX LILY (엔믹스 릴리) – High Horse FanCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17786",
+      "ytId": "BHjdA4ThXoA",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] NMIXX HAEWON (엔믹스 해원) – KNOW ABOUT ME | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17787",
+      "ytId": "O-UbVAclH54",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] NMIXX HAEWON (엔믹스 해원) – High Horse FanCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17788",
+      "ytId": "l3jNmqc1BLc",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] NMIXX LILY (엔믹스 릴리) – KNOW ABOUT ME FanCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17789",
+      "ytId": "UehfHXDtgRA",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] NMIXX KYUJIN (엔믹스 규진) – High Horse FanCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17790",
+      "ytId": "nNwQiSQAxZ0",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] NMIXX BAE (엔믹스 배이) – KNOW ABOUT ME FanCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17791",
+      "ytId": "-Dy2C1smn-Q",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] NMIXX BAE (엔믹스 배이) – High Horse FanCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17792",
+      "ytId": "RJmR4hLQBTs",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] NMIXX SULLYOON (엔믹스 설윤) – High Horse FanCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17793",
+      "ytId": "vUYBqm9aNRo",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] NMIXX JIWOO (엔믹스 지우) – High Horse FanCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17794",
+      "ytId": "TrDwuuHQ0qU",
+      "eventId": "e1152",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[초고화질 8K] 엔믹스 'KNOW ABOUT ME' (NMIXX FullCam) @SBS Inkigayo 250330",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17795",
+      "ytId": "RUReSf-upp4",
+      "eventId": "e1152",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 엔믹스 'KNOW ABOUT ME' (NMIXX FullCam) @SBS Inkigayo 250330",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17796",
+      "ytId": "IYoO51clDLw",
+      "eventId": "e1152",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 해원 'KNOW ABOUT ME' (NMIXX HAEWON FanCam) @SBS Inkigayo 250330",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17797",
+      "ytId": "UJKN5ZkxuO8",
+      "eventId": "e1152",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 설윤 'KNOW ABOUT ME' (NMIXX SULLYOON FanCam) @SBS Inkigayo 250330",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17798",
+      "ytId": "mkddV-KghdE",
+      "eventId": "e1152",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 지우 'KNOW ABOUT ME' (NMIXX JIWOO FanCam) @SBS Inkigayo 250330",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17799",
+      "ytId": "nosFxN57v9o",
+      "eventId": "e1152",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 릴리 'KNOW ABOUT ME' (NMIXX LILY FanCam) @SBS Inkigayo 250330",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17800",
+      "ytId": "ou_YcWPzm_w",
+      "eventId": "e1152",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 배이 'KNOW ABOUT ME' (NMIXX BAE FanCam) @SBS Inkigayo 250330",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17801",
+      "ytId": "rlgQD5xsdhY",
+      "eventId": "e1152",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 규진 'KNOW ABOUT ME' (NMIXX KYUJIN FanCam) @SBS Inkigayo 250330",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17802",
+      "ytId": "eqF8epKliX0",
+      "eventId": "e1153",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K60] 250401 엔믹스 설윤 Sullyoon NMIXX 'HIGH HORSE'｜이은지의 가요광장",
+      "channel": "ZRoCam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17803",
+      "ytId": "5lC8YkkNhMA",
+      "eventId": "e1154",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX KYUJIN(엔믹스 규진) - KNOW ABOUT ME | Show Champion | EP.549 | 250402",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17804",
+      "ytId": "gn9VX4CxYug",
+      "eventId": "e1154",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX JIWOO(엔믹스 지우) - KNOW ABOUT ME | Show Champion| EP.549 | 250402",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17805",
+      "ytId": "CoXoWHUS51k",
+      "eventId": "e1154",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX HAEWON(엔믹스 해원) - KNOW ABOUT ME | Show Champion | EP.549 | 250402",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17806",
+      "ytId": "-G0r70G1_sM",
+      "eventId": "e1154",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX SULLYOON(엔믹스 설윤) - KNOW ABOUT ME | Show Champion | EP.549 | 250402",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17807",
+      "ytId": "68eLr-dhSpQ",
+      "eventId": "e1154",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX LILY(엔믹스 릴리) - KNOW ABOUT ME | Show Champion | EP.549 | 250402",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17808",
+      "ytId": "MyiCg5-YXGs",
+      "eventId": "e1154",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX BAE(엔믹스 배이) - KNOW ABOUT ME | Show Champion | EP.549 | 250402",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17809",
+      "ytId": "AZSA0KxrSOs",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 해원 직캠 'KNOW ABOUT ME'(NMIXX HAEWON Fancam) @뮤직뱅크(Music Bank) 250404",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17810",
+      "ytId": "KYgVnzsYIew",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 엔믹스 설윤 'KNOW ABOUT ME' (NMIXX SULLYOON Facecam) @뮤직뱅크(Music Bank) 250404",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17811",
+      "ytId": "1VyWRM8U-sw",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 설윤 직캠 'KNOW ABOUT ME'(NMIXX SULLYOON Fancam) @뮤직뱅크(Music Bank) 250404",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17812",
+      "ytId": "1K7w3TjByaY",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 규진 직캠 'KNOW ABOUT ME'(NMIXX KYUJIN Fancam) @뮤직뱅크(Music Bank) 250404",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17813",
+      "ytId": "f6kr5ueYtcI",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 지우 직캠 'KNOW ABOUT ME'(NMIXX JIWOO Fancam) @뮤직뱅크(Music Bank) 250404",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17814",
+      "ytId": "76QdSQ2WGCQ",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 엔믹스 해원 'KNOW ABOUT ME' (NMIXX HAEWON Facecam) @뮤직뱅크(Music Bank) 250404",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17815",
+      "ytId": "5WtigOyWg1I",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 엔믹스 릴리 'KNOW ABOUT ME' (NMIXX LILY Facecam) @뮤직뱅크(Music Bank) 250404",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17816",
+      "ytId": "2zSqKMxRQWI",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 릴리 직캠 'KNOW ABOUT ME'(NMIXX LILY Fancam) @뮤직뱅크(Music Bank) 250404",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17817",
+      "ytId": "jDV0JBh3HM4",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 배이 직캠 'KNOW ABOUT ME'(NMIXX BAE Fancam) @뮤직뱅크(Music Bank) 250404",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17818",
+      "ytId": "i0Al0yZMYp0",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 엔믹스 배이 'KNOW ABOUT ME' (NMIXX BAE Facecam) @뮤직뱅크(Music Bank) 250404",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17819",
+      "ytId": "iKU8jNLePKo",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 'High Horse' (NMIXX SULLYOON Fancam) Music Bank 250404",
+      "channel": "taro milky 타로우유",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17820",
+      "ytId": "J_WRXrpqUpk",
+      "eventId": "e1156",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠] NMIXX (엔믹스) – KNOW ABOUT ME FullCam | 쇼! 음악중심 | MBC250405",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17821",
+      "ytId": "rG4r9RE6GCA",
+      "eventId": "e1156",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] NMIXX SULLYOON (엔믹스 설윤) – KNOW ABOUT ME FanCam | 쇼! 음악중심 | MBC250405",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17822",
+      "ytId": "m8SiyR621wk",
+      "eventId": "e1157",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 엔믹스 'KNOW ABOUT ME' (NMIXX FullCam) @SBS Inkigayo 250406",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17823",
+      "ytId": "Gw281-JBY20",
+      "eventId": "e1157",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 릴리 'KNOW ABOUT ME' (NMIXX LILY FanCam) @SBS Inkigayo 250406",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17824",
+      "ytId": "IsN3SPYHgLE",
+      "eventId": "e1157",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 배이 'KNOW ABOUT ME' (NMIXX BAE FanCam) @SBS Inkigayo 250406",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17825",
+      "ytId": "c6t-KCD5HBU",
+      "eventId": "e1157",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 지우 'KNOW ABOUT ME' (NMIXX JIWOO FanCam) @SBS Inkigayo 250406",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17826",
+      "ytId": "HmSz0VgZ9tQ",
+      "eventId": "e1157",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 규진 'KNOW ABOUT ME' (NMIXX KYUJIN FanCam) @SBS Inkigayo 250406",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17827",
+      "ytId": "R9A1hdIgjJs",
+      "eventId": "e1157",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 해원 'KNOW ABOUT ME' (NMIXX HAEWON FanCam) @SBS Inkigayo 250406",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17828",
+      "ytId": "NrLp6Ebx9Vw",
+      "eventId": "e1157",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 설윤 'KNOW ABOUT ME' (NMIXX SULLYOON FanCam) @SBS Inkigayo 250406",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17829",
+      "ytId": "xvP1mV9ljnM",
+      "eventId": "e1158",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250412 NMIXX KYUJIN 엔믹스 규진 INKIGAYO IN TOKYO - \"별별별 (See that?)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17830",
+      "ytId": "L0fuY0qjEVA",
+      "eventId": "e1158",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250412 NMIXX KYUJIN 엔믹스 규진 INKIGAYO IN TOKYO - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17831",
+      "ytId": "F56jbuvmhek",
+      "eventId": "e1158",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250412 NMIXX KYUJIN 엔믹스 규진 INKIGAYO IN TOKYO - \"KNOW ABOUT ME\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17832",
+      "ytId": "oesxXbI3aT0",
+      "eventId": "e1158",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250412 NMIXX KYUJIN 엔믹스 규진 INKIGAYO IN TOKYO - \"High Horse\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17833",
+      "ytId": "KgiWqrYqjMs",
+      "eventId": "e1159",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250514 엔믹스 설윤 직캠 '별별별(See that?)' (NMIXX SULLYOON fanCam) @세종대축제",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17834",
+      "ytId": "UAsBRFeh7hs",
+      "eventId": "e1159",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250514  세종대축제 NMIXX HAEWON 엔믹스 해원 - \"Love Me Like This\"직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17835",
+      "ytId": "ryrZyy8l9hU",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 해원 ( Love Me Like This ) 여주대학교 축제 직캠 NMIXX HAEWON Fancam 250514",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17836",
+      "ytId": "SBFJi5IvRWY",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 'KNOW ABOUT ME' NMIXX SULLYOON｜여주대 축제 250514",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17837",
+      "ytId": "28WncBbwc7A",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250514 엔믹스 설윤 직캠 'Love Me Like This' NMIXX(SULLYOON) Fancam @여주대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17838",
+      "ytId": "3EXmZCCKjl4",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250514 엔믹스 규진 'Love Me Like This' (NMIXX KYUJIN) [4k 60p 직캠] @여주대학교 축제",
+      "channel": "SST CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17839",
+      "ytId": "-2UPMGq9Dtk",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250514 여주대축제 NMIXX HAEWON 엔믹스 해원 - \"Love Me Like This\"직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17840",
+      "ytId": "4KuWt4qt2zs",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        },
+        {
+          "songId": "g2s5",
+          "t": 0
+        },
+        {
+          "songId": "g2s10",
+          "t": 0
+        },
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 Full NMIXX SULLYOON 'KNOW ABOUT ME, Love Me Like This, BEAT BEAT, 별별별,  DASH｜여주대 축제 250514",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17841",
+      "ytId": "6IC_-AWTquE",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 해원 ( Dash ) 여주대학교 축제 직캠 NMIXX HAEWON Fancam 250514",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-15"
+    },
+    {
+      "id": "v17842",
+      "ytId": "cNUFZfzvajE",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "250514 [세로4K60P] NMIXX(엔믹스)  -  KNOW ABOUT ME 설윤 fancam [여주대학교 축제 2025VITA]",
+      "channel": "Kimquestionmark",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-15"
+    },
+    {
+      "id": "v17843",
+      "ytId": "Wnh4x3HD95A",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K CAM] 250514 엔믹스 설윤 NMIXX SULLYOON 'KNOW ABOUT ME' 세로 직캠 @2025 여주대학교 대축제 VITA",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17844",
+      "ytId": "fSimzPh-qJ4",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "250514 [세로4K60P] NMIXX(엔믹스)  -  Love Me Like This 설윤 fancam [여주대학교 축제 2025VITA]",
+      "channel": "Kimquestionmark",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17845",
+      "ytId": "jcwZJqdhVqc",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250514 KNOW ABOUT ME 엔믹스 규진 직캠 NMIXX KYUJIN Focus FanCam 2025 여주대학교 축제 VITA",
+      "channel": "ᴅɪᴄʜᴀ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17846",
+      "ytId": "mos-GauHAq4",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 '별별별 (See that?)' NMIXX SULLYOON｜여주대 축제 250514",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17847",
+      "ytId": "5YkpaE00-sc",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250514 엔믹스 설윤 직캠 '별별별(See that?)' NMIXX(SULLYOON) Fancam @여주대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17848",
+      "ytId": "49GQVAViN1s",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        },
+        {
+          "songId": "g2s5",
+          "t": 0
+        },
+        {
+          "songId": "g2s10",
+          "t": 0
+        },
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX (엔믹스) Full ver. (KNOW ABOUT ME + Love Me Like This + BEAT BEAT + 별별별 + DASH) | 여주대 축제 • 250514",
+      "channel": "길몽 GILMONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17849",
+      "ytId": "wrsmvIe7HrI",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 'DASH' NMIXX SULLYOON｜여주대 축제 250514",
+      "channel": "스피넬",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17850",
+      "ytId": "KpuRN8oRXqY",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "250514 [세로4K60P] NMIXX(엔믹스)  -  DASH 규진 fancam [여주대학교 축제 2025VITA]",
+      "channel": "Kimquestionmark",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17851",
+      "ytId": "Qc5KTD1jYT4",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 해원 ( Know About Me ) 여주대학교 축제 직캠 NMIXX HAEWON Fancam 250514",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17852",
+      "ytId": "l0gJz-sPPF8",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 해원 ( 별별별 ) 여주대학교 축제 직캠 NMIXX HAEWON Fancam 250514",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17853",
+      "ytId": "a5Yk_mGKfFU",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250514 엔믹스 설윤 직캠 'DASH' NMIXX(SULLYOON) Fancam @여주대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17854",
+      "ytId": "O3oHUq3VQnA",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250514 엔믹스 NMIXX 설윤 sullyoon 여주대학교 축제  “Love Me Like This\"직캠(fancam)",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17855",
+      "ytId": "Gl2C8yXpTzc",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250514 NMIXX(엔믹스) 설윤 'Love Me Like This' 직캠 SULLYOON FANCAM @ 여주대학교 축제 [ 4K ]",
+      "channel": "𝙳𝚎𝚎𝚛𝚒𝚗",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17856",
+      "ytId": "I-cgzlDYBzU",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K CAM] 250514 엔믹스 설윤 NMIXX SULLYOON 'DASH' 세로 직캠 @2025 여주대학교 대축제 VITA",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17857",
+      "ytId": "sy1y6_VYO1U",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "엔믹스(NMIXX) 배이(BAE) 세로직캠 :: DASH :: 여주대학교 축제 250514 fancam",
+      "channel": "connect",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-15"
+    },
+    {
+      "id": "v17858",
+      "ytId": "g1StGbk1L04",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "엔믹스(NMIXX) 배이(BAE) 세로직캠 :: 별별별 (See that?) :: 여주대학교 축제 250514 fancam",
+      "channel": "connect",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17859",
+      "ytId": "T85LaZDBxwg",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        },
+        {
+          "songId": "g2s9",
+          "t": 0
+        },
+        {
+          "songId": "g2s10",
+          "t": 0
+        },
+        {
+          "songId": "g2s2",
+          "t": 0
+        },
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "250515 엔믹스(NMIXX) Full Ver [know about me+DASH+별별별+DICE+Love Me Like This] [대전보건대축제]- by 브라운스톤",
+      "channel": "브라운스톤B. Stone",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17860",
+      "ytId": "SOQlrCpALNM",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K 직캠] 250515 엔믹스(NMIXX) 설윤(SULLYOON)  DASH 직캠(fancam) 대전보건대학교 축제",
+      "channel": "NPD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17861",
+      "ytId": "LiOk9208qSU",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K 직캠] 250515 엔믹스(NMIXX) 설윤(SULLYOON) DICE 직캠(fancam) 대전보건대학교 축제",
+      "channel": "NPD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17862",
+      "ytId": "HzDDPOTHXEg",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K 직캠] 250515 엔믹스(NMIXX) 설윤(SULLYOON) Love Me Like This 직캠(fancam) 대전보건대학교 축제",
+      "channel": "NPD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17863",
+      "ytId": "veXBU0SbpPU",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "250515 [세로4K60P] NMIXX(엔믹스)  -  DICE 규진 fancam [대전보건대학교 2025 청운축제]",
+      "channel": "Kimquestionmark",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17864",
+      "ytId": "nxSPhgJTgME",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "250515 [세로4K60P] NMIXX(엔믹스)  -  KNOW ABOUT ME 설윤 fancam [대전보건대학교 2025 청운축제]",
+      "channel": "Kimquestionmark",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17865",
+      "ytId": "ed646ZXy_Hk",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250515 엔믹스 NMIXX 지우 - Love Me Like This 4K 직캠 @대전보건대 축제",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17866",
+      "ytId": "whsCmABH3Ag",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250515 NMIXX 해원 - DICE | 대전 보건대 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17867",
+      "ytId": "OTvCFYOck1U",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "250515 엔믹스 설윤 (NMIXX SULLYOON) 과잠을 입고 무대 \"Love Me Like This\" 4K 60p 세로 직캠 FANCAM @대전보건대 축제",
+      "channel": "Emerald Dream",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17868",
+      "ytId": "0-vUYg2AL-U",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "250515 [세로4K60P] NMIXX(엔믹스)  -  별별별 규진 fancam [대전보건대학교 2025 청운축제]",
+      "channel": "Kimquestionmark",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17869",
+      "ytId": "4YbrDngo3DE",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250515 엔믹스 NMIXX 설윤 sullyoon 대전보건대학교 축제  “DASH\"직캠(fancam)",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17870",
+      "ytId": "5VCvSK966xA",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250515 NMIXX 해원 - Know About Me | 대전 보건대 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17871",
+      "ytId": "Kbqhfiye1Bs",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250515 NMIXX 해원 - Love Me Like This | 대전 보건대 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17872",
+      "ytId": "LR5v8fKHKp8",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250515 보건대축제 NMIXX HAEWON 엔믹스 해원 - \"DICE\"직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17873",
+      "ytId": "ixqVZ_QJ5FI",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250515 보건대축제 NMIXX HAEWON 엔믹스 해원 - \"DASH\"직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-21"
+    },
+    {
+      "id": "v17874",
+      "ytId": "b_7uhlQEqUI",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250515 NMIXX 해원 - DASH | 대전 보건대 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17875",
+      "ytId": "ZOlVLQfM-sE",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250515 NMIXX 해원 - 별별별 (See that?) | 대전 보건대 축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17876",
+      "ytId": "a079TFqOvps",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250515 보건대축제 NMIXX HAEWON 엔믹스 해원 - \"별별별 (See that?)\"직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17877",
+      "ytId": "1mZx7XumwyA",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "250515 [세로4K60P] NMIXX(엔믹스)  -  Love Me Like This 설윤 fancam [대전보건대학교 2025 청운축제]",
+      "channel": "Kimquestionmark",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17878",
+      "ytId": "Yk7IGsOnNss",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250515 엔믹스 NMIXX 설윤 sullyoon 대전보건대학교 축제  “DICE\"직캠(fancam)",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17879",
+      "ytId": "acfD3cSRSos",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K 직캠] 250515 엔믹스(NMIXX) 설윤(SULLYOON) 별별별 (See that?) 직캠(fancam) 대전보건대학교 축제",
+      "channel": "NPD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17880",
+      "ytId": "b77FUwW7Cck",
+      "eventId": "e1162",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250524 엔믹스 설윤 직캠 '별별별(see that?)' (NMIXX SULLYOON fanCam) @고려대",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17881",
+      "ytId": "dABD-sG1hA8",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g2s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250629  NMIXX KYUJIN 엔믹스 규진 '占(TANK)' 팬콘서트 직캠(FANCAM)",
+      "channel": "규냥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17882",
+      "ytId": "vOtgK5Sfn-w",
+      "eventId": "e1164",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250219 NMIXX BAE \"DASH\" 4K Fancam 엔믹스 배이 | @ MIXX LAB MEXICO CITY D1",
+      "channel": "LIKEOO. NMIXX BAE.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17883",
+      "ytId": "5NLFM6XH7Pk",
+      "eventId": "e1164",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250219 NMIXX BAE \"See That? 별별별\" 4K Fancam 엔믹스 배이 | @ MIXX LAB MEXICO CITY D1",
+      "channel": "LIKEOO. NMIXX BAE.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17884",
+      "ytId": "BdqrPhMVHTo",
+      "eventId": "e1164",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250219 NMIXX BAE \"Run For Roses\" 4K Fancam 엔믹스 배이 | @ MIXX LAB MEXICO CITY D1",
+      "channel": "LIKEOO. NMIXX BAE.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17885",
+      "ytId": "PLXXrWBh1c4",
+      "eventId": "e1164",
+      "songs": [
+        {
+          "songId": "g2s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250219 NMIXX BAE \"Break the Wall\" + \"Home\" 4K Fancam 엔믹스 배이 | @ MIXX LAB MEXICO CITY D1",
+      "channel": "LIKEOO. NMIXX BAE.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17886",
+      "ytId": "Kw5uApOw4uE",
+      "eventId": "e1164",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250219 NMIXX BAE \"Soñar (Breaker) (en español)\" 4K Fancam 엔믹스 배이 | @ MIXX LAB MEXICO CITY D1",
+      "channel": "LIKEOO. NMIXX BAE.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17887",
+      "ytId": "NuiKPFsI0Hs",
+      "eventId": "e1164",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250219 [4K] NMIXX BAE \"Run For Roses\" Sound Check Fancam 엔믹스 배이 직캠 | MIXX LAB MEXICO DAY 1",
+      "channel": "Candy So Sweet",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17888",
+      "ytId": "uiAECB26TbY",
+      "eventId": "e1165",
+      "songs": [
+        {
+          "songId": "g2s22",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250220 NMIXX BAE \"Si Antes Te Hubiera Conocido (Karol G)\" Fancam 엔믹스 배이 | @ MIXX LAB MEXICO CITY D2",
+      "channel": "LIKEOO. NMIXX BAE.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17889",
+      "ytId": "ICxyv4Xet_I",
+      "eventId": "e1166",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250228 NMIXX SULLYOON – Run For Roses (엔믹스 설윤 - 런 포 로지스) FANCAM CHANGE UP:MIXX LAB SÃO PAULO BRAZIL",
+      "channel": "BFG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17890",
+      "ytId": "-pWytfdJmko",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "'최초 공개' NMIXX - KNOW ABOUT ME #엠카운트다운 EP.880 | Mnet 250320 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17891",
+      "ytId": "0cMTSwf7jRg",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 엔믹스 직캠 4K 'High Horse' (NMIXX FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17892",
+      "ytId": "5neUFU_Trww",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "'최초 공개' NMIXX - High Horse #엠카운트다운 EP.880 | Mnet 250320 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17893",
+      "ytId": "3XapxftbFyY",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[MPD직캠] 엔믹스 직캠 8K 'KNOW ABOUT ME' (NMIXX FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17894",
+      "ytId": "_2Q4YAO4AZU",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KNOW ABOUT ME - NMIXX (엔믹스) [뮤직뱅크/Music Bank] | KBS 250321 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17895",
+      "ytId": "5TUNknQJD7A",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[K-Choreo Tower Cam 4K]  엔믹스 직캠 'High Horse' (NMIXX Choreography) l @MusicBank KBS 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17896",
+      "ytId": "da-KLSF3N88",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Choreo 8K] 엔믹스 직캠 'KNOW ABOUT ME' (NMIXX Choreography) @MusicBank 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17897",
+      "ytId": "vW-d_3ShfXo",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "High Horse - NMIXX (엔믹스) [뮤직뱅크/Music Bank] | KBS 250321 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17898",
+      "ytId": "Wzqgk8oVvg0",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "KNOW ABOUT ME - NMIXX エンミックス 엔믹스 [Music Bank] | KBS WORLD TV 250321",
+      "channel": "KBS WORLD Latino",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17899",
+      "ytId": "RWfTpBGqWxI",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KNOW ABOUT ME - NMIXX エンミックス 엔믹스 [Music Bank] | KBS WORLD TV 250321",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17900",
+      "ytId": "qE8TPgVBGb0",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "High Horse - NMIXX エンミックス 엔믹스 [Music Bank] | KBS WORLD TV 250321",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17901",
+      "ytId": "PdXnVbkrkuE",
+      "eventId": "e1146",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "High Horse - NMIXX エンミックス 엔믹스 [Music Bank] | KBS WORLD TV 250321",
+      "channel": "KBS WORLD Latino",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17902",
+      "ytId": "a1ssvmj2E9g",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX (엔믹스) - KNOW ABOUT ME @인기가요 inkigayo 20250323",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17903",
+      "ytId": "cmwWjCzNYhM",
+      "eventId": "e1147",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX (엔믹스) - High Horse @인기가요 inkigayo 20250323",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17904",
+      "ytId": "HEd1P4DD1iI",
+      "eventId": "e1148",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[COMEBACK] 엔믹스(NMIXX) - KNOW ABOUT ME l Show Champion l EP.548 l 250326",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17905",
+      "ytId": "gc5H26g4JCw",
+      "eventId": "e1148",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "엔믹스(NMIXX) - High Horse l Show Champion l EP.548 l 250326",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17906",
+      "ytId": "UmeDwVfOEuE",
+      "eventId": "e1148",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX(엔믹스) - KNOW ABOUT ME | Show Champion | EP.548 | 250326",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17907",
+      "ytId": "sK9BXWUMp2Y",
+      "eventId": "e1149",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX - KNOW ABOUT ME #엠카운트다운 EP.881 | Mnet 250327 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17908",
+      "ytId": "6_GblahU-JA",
+      "eventId": "e1149",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 엔믹스 직캠 4K 'KNOW ABOUT ME' (NMIXX FanCam) | @MCOUNTDOWN_2025.3.27",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17909",
+      "ytId": "hZxaFC-AjfQ",
+      "eventId": "e1150",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX - KNOW ABOUT ME [더 시즌즈-박보검의 칸타빌레] | KBS 250328 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17910",
+      "ytId": "u4_ooM22ciQ",
+      "eventId": "e1150",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX - KNOW ABOUT ME (The Seasons) | KBS WORLD TV 250404",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17911",
+      "ytId": "I-XNF9aEHu4",
+      "eventId": "e1150",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[가로] NMIXX - KNOW ABOUT ME (Band VER.) [더 시즌즈-박보검의 칸타빌레] | KBS 250328 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17912",
+      "ytId": "GcZ4XnT0AZ0",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX - KNOW ABOUT ME | Show! Music Core | aired on MBC 250329 #NMIXX",
+      "channel": "MBC WORLD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17913",
+      "ytId": "0FcKpSrO8oU",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX (엔믹스) - High Horse | Show! MusicCore | MBC250329방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17914",
+      "ytId": "EDl0tNRASus",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX (엔믹스) - KNOW ABOUT ME | Show! MusicCore | MBC250329방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17915",
+      "ytId": "QRa1-qZg8Z4",
+      "eventId": "e1152",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[앵콜캠4K] 엔믹스 'KNOW ABOUT ME' 인기가요 1위 앵콜 직캠 (NMIXX KNOW ABOUT ME Encore Fancam) @SBS Inkigayo 250330",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17916",
+      "ytId": "NC-WXfKHOGc",
+      "eventId": "e1153",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "쿨룩 LIVE ▷ NMIXX(엔믹스) ‘High Horse’ / [이은지의 가요광장] I KBS 250401 방송",
+      "channel": "KBS CoolFM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17917",
+      "ytId": "0rH6TIrYMpA",
+      "eventId": "e1153",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "쿨룩 LIVE ▷ NMIXX(엔믹스) ‘KNOW ABOUT ME’ / [이은지의 가요광장] I KBS 250401 방송",
+      "channel": "KBS CoolFM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17918",
+      "ytId": "smhKvV0DH14",
+      "eventId": "e1154",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "엔믹스(NMIXX) - KNOW ABOUT ME l Show Champion l EP.549 l 250402",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17919",
+      "ytId": "5E289eNfN-k",
+      "eventId": "e1154",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX(엔믹스) - KNOW ABOUT ME | Show Champion | EP.549 | 250402",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17920",
+      "ytId": "mxswBFJUU18",
+      "eventId": "e1167",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX - KNOW ABOUT ME #엠카운트다운 EP.882 | Mnet 250403 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17921",
+      "ytId": "-fNdTe_kqDY",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Choreo 8K] 엔믹스 직캠 'KNOW ABOUT ME' (NMIXX Choreography) @MusicBank 250404",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17922",
+      "ytId": "iaJPVHXb_ac",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KNOW ABOUT ME - NMIXX エンミックス 엔믹스 [Music Bank] | KBS WORLD TV 250404",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17923",
+      "ytId": "oGf8hRfTzFk",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "High Horse - NMIXX (엔믹스) [뮤직뱅크/Music Bank] | KBS 250404 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17924",
+      "ytId": "cmTmJUzgwLM",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "High Horse - NMIXX エンミックス 엔믹스 [Music Bank] | KBS WORLD TV 250404",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17925",
+      "ytId": "-JRFEmJUScI",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[K-Choreo Tower Cam 4K]  엔믹스 직캠 'High Horse' (NMIXX Choreography) l @MusicBank KBS 250404",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17926",
+      "ytId": "Qs6kL7nVVBc",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "KNOW ABOUT ME - NMIXX エンミックス 엔믹스 [Music Bank] | KBS WORLD TV 250404",
+      "channel": "KBS WORLD Latino",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17927",
+      "ytId": "soeN7ASgmlE",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KNOW ABOUT ME - NMIXX (엔믹스) [뮤직뱅크/Music Bank] | KBS 250404 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17928",
+      "ytId": "NnIAZy_QaWY",
+      "eventId": "e1155",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[4K] 엔믹스 'KNOW ABOUT ME' 뮤직뱅크 1위 앵콜직캠(NMIXX Encore Facecam) @뮤직뱅크(Music Bank) 250404",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17929",
+      "ytId": "U4RvrLyO-1I",
+      "eventId": "e1156",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX (엔믹스) - KNOW ABOUT ME | Show! MusicCore | MBC250405방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17930",
+      "ytId": "9lMnekpMzqM",
+      "eventId": "e1156",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX - KNOW ABOUT ME | Show! MusicCore | aired on MBC 250405 #NMIXX",
+      "channel": "MBC WORLD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17931",
+      "ytId": "yiFhkcFRXCs",
+      "eventId": "e1158",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60] 250412 NMIXX 엔믹스 DASH HAEWON 해원 FANCAM @ INGALIVE UNICON",
+      "channel": "coldnadongie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17932",
+      "ytId": "u6079UmPPDk",
+      "eventId": "e1158",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250412 SBS UNICON NMIXX JIWOO - KNOW ABOUT ME- 엔믹스 자우 직캠",
+      "channel": "Sweet_Bubble",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17933",
+      "ytId": "QKvqPt3O9Yg",
+      "eventId": "e1158",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60] 250412 NMIXX 엔믹스 별별별 (See that?) HAEWON 해원 FANCAM @ INGALIVE UNICON",
+      "channel": "coldnadongie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17934",
+      "ytId": "7PzmOCorbZk",
+      "eventId": "e1168",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "【NMIXX CHANGE UP: NMIXX LAB IN TAIPEI】全場飯拍｜250420台北場｜Full Concert｜ [FanCam]",
+      "channel": "Michael_H KPOP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17935",
+      "ytId": "bz9xUNx_N3E",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250420 엔믹스 KNOW ABOUT ME 설윤 직캠 NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB IN TAIPEI 4K Fancam",
+      "channel": "한지",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17936",
+      "ytId": "dsCfS6V6Goo",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250420 엔믹스 NMIXX 설윤 SULLYOON NMIXX CHANGE : UP MIXX LAB in Taipei - DASH",
+      "channel": "snowscape",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17937",
+      "ytId": "Wt9kwQgaW-0",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250420 엔믹스 별별별(See that?) 설윤 직캠 NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB IN TAIPEI 4K Fancam",
+      "channel": "한지",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17938",
+      "ytId": "FdEkH4TAA9c",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g2s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250420 NMIXX BAE Fancam  'Break The Wall' 엔믹스 배이 @NMIXX 2nd FAN-CONCERT IN TAIPEI",
+      "channel": "Jhih",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17939",
+      "ytId": "cVEprOyTri8",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250420 \"KNOW ABOUT ME\" NMIXX BAE 4K Fancam 엔믹스 배이 | @ MIXX LAB TAIPEI D2",
+      "channel": "LIKEOO. NMIXX BAE.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17940",
+      "ytId": "IdnseR4pcj0",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250420 \"Dash\" NMIXX BAE 4K Fancam 엔믹스 배이 | @ MIXX LAB TAIPEI D2",
+      "channel": "LIKEOO. NMIXX BAE.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17941",
+      "ytId": "YATJNHMUpSA",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250420 엔믹스 Run For Roses 설윤 직캠 NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB IN TAIPEI 4K Fancam",
+      "channel": "한지",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17942",
+      "ytId": "zoU_XNsP7xM",
+      "eventId": "e1169",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "엔믹스 NMIXX - 賽後演出 Full Ver. 全場 ( 250427 味全龍 龍星大樂主題日 )｜4K",
+      "channel": "小葉",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17943",
+      "ytId": "dbALX0FTX_U",
+      "eventId": "e1169",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250427 NMIXX KYUJIN 엔믹스 규진 - \"KNOW ABOUT ME\" 직캠(FanCam) ｜TAIPEI DOME 대만 야구팀 웨이취안 드래곤스 라이브 공연",
+      "channel": "@Taiying",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17944",
+      "ytId": "lheil_i27nI",
+      "eventId": "e1169",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250427 NMIXX KYUJIN 엔믹스 규진 - \"DASH\" 직캠(FanCam) ｜TAIPEI DOME 대만 야구팀 웨이취안 드래곤스 라이브 공연",
+      "channel": "@Taiying",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17945",
+      "ytId": "5Z66nOHG3NA",
+      "eventId": "e1169",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250427 NMIXX SULLYOON 엔믹스 설윤 Taipei Dome ' Love Me Like This ' CAM",
+      "channel": "_lyweii",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17946",
+      "ytId": "ZDNRmEOur7E",
+      "eventId": "e1169",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250427 NMIXX Sullyoon 엔믹스 설윤 - \"Love Me Like This\" 직캠(FanCam) ｜TAIPEI DOME 대만 야구팀 웨이취안 드래곤스 라이브 공연",
+      "channel": "@Taiying",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17947",
+      "ytId": "RM6b3uD7beo",
+      "eventId": "e1169",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250427 \"DASH\" NMIXX BAE 4K Fancam 엔믹스 배이 직캠 | @ CPBL Dragons STAR MUSIC FESTIVAL 味全龍大巨蛋 賽後表演",
+      "channel": "LIKEOO. NMIXX BAE.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17948",
+      "ytId": "lV-8pbZPhvs",
+      "eventId": "e1169",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250427 NMIXX SULLYOON 엔믹스 설윤 Taipei Dome ' KNOW ABOUT ME ' CAM",
+      "channel": "_lyweii",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17949",
+      "ytId": "bGzsxZRd0R0",
+      "eventId": "e1169",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250427 NMIXX SULLYOON 엔믹스 설윤 Taipei Dome ' DASH ' CAM",
+      "channel": "_lyweii",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17950",
+      "ytId": "dncKMSKoIcw",
+      "eventId": "e1169",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250427 \"LOVE ME LIKE THIS\" NMIXX BAE 4K Fancam 엔믹스 배이 직캠 | @ CPBL Dragons STAR MUSIC FESTIVAL 味全龍大巨蛋",
+      "channel": "LIKEOO. NMIXX BAE.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17951",
+      "ytId": "t2ce_yQECGY",
+      "eventId": "e1169",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Love Me Like This - NMIXX Lily Fancam 엔믹스 릴리 직캠 | 2025.04.27 Taipei Dome",
+      "channel": "Ryue",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17952",
+      "ytId": "UEs03xPcu4U",
+      "eventId": "e1169",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250427 \"KNOW ABOUT ME\" NMIXX BAE 4K Fancam 엔믹스 배이 직캠 | @ CPBL Dragons STAR MUSIC FESTIVAL 味全龍大巨蛋賽後表演",
+      "channel": "LIKEOO. NMIXX BAE.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17953",
+      "ytId": "Flaa3rm4dHc",
+      "eventId": "e1169",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250427 NMIXX KYUJIN 엔믹스 규진 Taipei Dome - \"Love Me Like This\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17954",
+      "ytId": "uJ-WSXgE72w",
+      "eventId": "e1169",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250427 NMIXX KYUJIN 엔믹스 규진 Taipei Dome - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17955",
+      "ytId": "J93ttPFHaNc",
+      "eventId": "e1170",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX - INTRO + KNOW ABOUT ME [서울 스프링 페스타 2025 - 서울원더쇼] | KBS 250504 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17956",
+      "ytId": "ooS5T4ez_3g",
+      "eventId": "e1170",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX - 별별별 (See that?) [서울 스프링 페스타 2025 - 서울원더쇼] | KBS 250504 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17957",
+      "ytId": "1DhQGpMW640",
+      "eventId": "e1170",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] NMIXX(엔믹스) 설윤(SULLYOON) 'KNOW ABOUT ME' 가로 직캠 @서울스프링페스타 SEOUL WONDER SHOW 2025, 250430",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17958",
+      "ytId": "bPwnQxrC1n8",
+      "eventId": "e1170",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250430 NMIXX 해원 - KNOW ABOUT ME | 서울 스프링 페스타",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17959",
+      "ytId": "5HKb2L9VjOo",
+      "eventId": "e1170",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250430 NMIXX 해원 - 별별별 (See that?) | 서울 스프링 페스타",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17960",
+      "ytId": "uGvLwlrJev8",
+      "eventId": "e1170",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250430 설윤 SULLYOON 엔믹스 NMIXX KNOW ABOUT ME @서울스프링페스타(SEOUL SPRING FESTA) 4K 직캠 by MIXX",
+      "channel": "MIXX",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17961",
+      "ytId": "M2XDahnX7jk",
+      "eventId": "e1170",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250430 NMIXX KYUJIN 엔믹스 규진 서울스프링페스타 - \"KNOW ABOUT ME\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17962",
+      "ytId": "8KLAa-H43Bc",
+      "eventId": "e1170",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스(NMIXX) FULL CAM :: Know about me :: 서울 스프링페스타 250430 fancam",
+      "channel": "connect",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17963",
+      "ytId": "5rkJl5hFYf8",
+      "eventId": "e1170",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250430 NMIXX SULLYOON 엔믹스 설윤 서울스프링페스타 - \"별별별 (See that?)\" 직캠(FanCam)",
+      "channel": "MOI",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17964",
+      "ytId": "PdDuKALtD2E",
+      "eventId": "e1170",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250430 NMIXX(엔믹스) 설윤 'KNOW ABOUT ME' 직캠 SULLYOON FANCAM @ 서울스프링페스타 [ 4K ]",
+      "channel": "𝙳𝚎𝚎𝚛𝚒𝚗",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17965",
+      "ytId": "Rc9Qlz1EuRQ",
+      "eventId": "e1170",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250430 NMIXX SULLYOON 엔믹스 설윤 서울스프링페스타 - \"KNOW ABOUT ME\" 직캠(FanCam)",
+      "channel": "MOI",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17966",
+      "ytId": "wKwfix4J23k",
+      "eventId": "e1170",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250430 | NMIXX(엔믹스) 릴리 직캠 | '별별별(See that?)' | @서울스프링페스타",
+      "channel": "liling",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17967",
+      "ytId": "z6YFJ-rWwtk",
+      "eventId": "e1170",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        },
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250430 엔믹스 지우 (NMIXX JIWOO) \"KNOW ABOUT ME, 별별별 (See that?)\" 4K 60p 가로 직캠 FANCAM @서울스프링페스타",
+      "channel": "Emerald Dream",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17968",
+      "ytId": "QR9v0CTJDvo",
+      "eventId": "e1170",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250430 NMIXX KYUJIN 엔믹스 규진 서울스프링페스타 - \"별별별 (See that?)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17969",
+      "ytId": "BA6NvWjvPdw",
+      "eventId": "e1170",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250430 | NMIXX(엔믹스) 릴리 직캠 | 'KNOW ABOUT ME' | @서울스프링페스타",
+      "channel": "liling",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17970",
+      "ytId": "oUuBVkSjQ08",
+      "eventId": "e1171",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        },
+        {
+          "songId": "g2s2",
+          "t": 0
+        },
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250510 Wango Tango NMIXX HAEWON 엔믹스 해원 - \"Soñar+DICE+Love Me Like This\"직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17971",
+      "ytId": "jkKhoW_rm5Q",
+      "eventId": "e1171",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] KYUJIN 규진 \"Run For Roses\" fancam - NMIXX Wango Tango 250510",
+      "channel": "mixxpoppy",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17972",
+      "ytId": "yMTm2_0DwIs",
+      "eventId": "e1171",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250510 설윤 SULLYOON 엔믹스 NMIXX Fancam  '별별별 (See that?)' @ WANGO TANGO",
+      "channel": "FX Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17973",
+      "ytId": "uczpL8iQQQI",
+      "eventId": "e1171",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] KYUJIN 규진 \"See That\" fancam - NMIXX Wango Tango 250510",
+      "channel": "mixxpoppy",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17974",
+      "ytId": "2Qa4jjVUvy4",
+      "eventId": "e1171",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        },
+        {
+          "songId": "g2s2",
+          "t": 0
+        },
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] KYUJIN 규진 Medley fancam (Soñar Spanish ver, DICE, Love Me Like This) - NMIXX Wango Tango 250510",
+      "channel": "mixxpoppy",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17975",
+      "ytId": "iryD-DFn83c",
+      "eventId": "e1171",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] KYUJIN 규진 \"DASH\" fancam - NMIXX Wango Tango 250510",
+      "channel": "mixxpoppy",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17976",
+      "ytId": "NRMWHIBgJLU",
+      "eventId": "e1160",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "250514 NMIXX 풀캠 - 여주대학교 축제",
+      "channel": "Gotorope",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17977",
+      "ytId": "f_qSAu0pdOE",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "250514 엔믹스 설윤 (NMIXX SULLYOON) 여주대 Full Ver. \"노우 어바웃 미, 러브 라이크 디스, 비트 비트, 별별별, 대쉬\" 4K 60p 세로 직캠",
+      "channel": "Emerald Dream",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17978",
+      "ytId": "g5NVp5VXFjo",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "250514 엔믹스(NMIXX) 오해원 - Love Me Like This 4K 세로직캠 [여주대학교]",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-15"
+    },
+    {
+      "id": "v17979",
+      "ytId": "V9fnSO2Iuo4",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "250514 엔믹스(NMIXX) 오해원 - 별별별 4K 세로직캠 [여주대학교]",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17980",
+      "ytId": "MibrybgQv2c",
+      "eventId": "e1159",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "엔믹스 해원 DASH 직캠 4K Full Ver. 세종대학교 250514",
+      "channel": "K-MORY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17981",
+      "ytId": "DwCyaG2FACg",
+      "eventId": "e1159",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "엔믹스 설윤 별별별 직캠 4K Full Ver. 세종대학교 250514",
+      "channel": "K-MORY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17982",
+      "ytId": "9m8Z3lZIgMk",
+      "eventId": "e1159",
+      "songs": [
+        {
+          "songId": "g2s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "엔믹스 설윤 Young, Dumb, Stupid 직캠 4K Full Ver. 세종대학교 250514",
+      "channel": "K-MORY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17983",
+      "ytId": "Gbj19DgPv_A",
+      "eventId": "e1159",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "엔믹스 해원 Love Me Like This 직캠 4K Full Ver. 세종대학교 250514",
+      "channel": "K-MORY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17984",
+      "ytId": "5k6tsxYkd9I",
+      "eventId": "e1172",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 250515 엔믹스(NMIXX) Full Ver 직캠 [카이스트] by strawberry latte",
+      "channel": "strawberry latte",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17985",
+      "ytId": "NI6VOjOTeHk",
+      "eventId": "e1172",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250515 엔믹스 NMIXX Full Ver. 4K 직캠 @카이스트 축제",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17986",
+      "ytId": "yz0UlSujVTY",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250515 엔믹스 설윤 NMIXX SULLYOON : Know about me 무대 @ KAIST 축제 직캠 | Plumia2 (4K 60p)",
+      "channel": "Plumia2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17987",
+      "ytId": "uQzRPI5rBbo",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250515 NMIXX 설윤 - KNOW ABOUT ME | 카이스트",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17988",
+      "ytId": "tOSBt0GWFuM",
+      "eventId": "e1172",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250515 엔믹스 NMIXX 지우 Full Ver. 4K 직캠 @카이스트 축제",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17989",
+      "ytId": "hu9JYVjGLj8",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250515 엔믹스(NMIXX) - KNOW ABOUT ME 설윤 4K60P 직캠 fancam @카이스트 석림태울제",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17990",
+      "ytId": "iCw2xlM_kUM",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250515 엔믹스(NMIXX) - Love Me Like This 설윤 4K60P 직캠 fancam @카이스트 석림태울제",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17991",
+      "ytId": "Ak9FmtfuxTw",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250515 엔믹스(NMIXX) 배이 - Love me like this | 2025 카이스트 석림태울제",
+      "channel": "2 RUKA",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17992",
+      "ytId": "aYyH2LwpwDg",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FULL] 250515 엔믹스 해원 - 별별별♬ 직캠 #NMIXX #HAEWON // 카이스트 석림태울제",
+      "channel": "펌킨이야",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17993",
+      "ytId": "qGn4brla70U",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250515 NMIXX 규진 - DASH | 카이스트",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17994",
+      "ytId": "h7fmhSGcA88",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FULL] 250515 엔믹스 설윤 - TANK♬ 직캠 #NMIXX #SULYOON // 카이스트 석림태울제",
+      "channel": "펌킨이야",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-17"
+    },
+    {
+      "id": "v17995",
+      "ytId": "evc0RpXePdA",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250515 NMIXX Jiwoo 엔믹스 지우 KAIST 카이스트 석림태울제 - \"占(TANK)\" fancam",
+      "channel": "Factorial 5",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17996",
+      "ytId": "-F4BM67Bd9Q",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250515 엔믹스(NMIXX) 배이 - Tank | 2025 카이스트 석림태울제",
+      "channel": "2 RUKA",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17997",
+      "ytId": "ylzUFG9kbWI",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250515 엔믹스(NMIXX) - TANK 설윤 4K60P 직캠 fancam @카이스트 석림태울제",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17998",
+      "ytId": "hSYsbFAbJ-o",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250515 NMIXX Jiwoo 엔믹스 지우 KAIST 카이스트 석림태울제 - “Love Me Like This” fancam",
+      "channel": "Factorial 5",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17999",
+      "ytId": "xV8LoSC3-jI",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250515 엔믹스(NMIXX) - DASH 설윤 4K60P 직캠 fancam @카이스트 석림태울제",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18000",
+      "ytId": "gRpZqlGuYTQ",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250515 엔믹스(NMIXX) - 별별별 (See that?) 설윤 4K60P 직캠 fancam @카이스트 석림태울제",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-16"
+    },
+    {
+      "id": "v18001",
+      "ytId": "PQc9beZJ-_Y",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250515 엔믹스 NMIXX 지우 - Love Me Like This 4K 직캠 @카이스트 축제",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18002",
+      "ytId": "aIwuAIilUsM",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250515 NMIXX KYUJIN 엔믹스 규진 KAIST 대학축제 - \"占 (TANK)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18003",
+      "ytId": "9Xx5BsoroB4",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "엔믹스 배이 NMIXX BAE : 탱크 TANK  무대 @ 250515  KAIST 축제 직캠 | Plumia2 (4K 60p)",
+      "channel": "Plumia2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18004",
+      "ytId": "7XdZ31Q1j-E",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250515 NMIXX 설윤 - 별별별 (See that?) | 카이스트",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18005",
+      "ytId": "CgVC3I0AYPM",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "엔믹스 릴리 NMIXX LILY : 별별별 (See that?)  무대 @ 250515  KAIST 축제 직캠 | Plumia2 (4K 60p)",
+      "channel": "Plumia2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18006",
+      "ytId": "rGTD4sqRrdM",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "250515 엔믹스 NMIXX - 러브 미 라이크 디스 Love Me Like This | 해원 HAEWON 세로 직캠 | 카이스트 석림태울제 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18007",
+      "ytId": "tQsfZCUkbsw",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FULL] 250515 엔믹스 해원 - DASH♬ 직캠 #NMIXX #HAEWON // 카이스트 석림태울제",
+      "channel": "펌킨이야",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18008",
+      "ytId": "D0lWILRlon0",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250515 카이스트축제 NMIXX HAEWON 엔믹스 해원 - \"Love Me Like This\"직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18009",
+      "ytId": "jJepP0r_UZ8",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250515 NMIXX 해원 - 占 (TANK) | 카이스트",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18010",
+      "ytId": "NT-yCeTbeK4",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250515 카이스트축제 NMIXX HAEWON 엔믹스 해원 - \"KNOW ABOUT ME\"직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18011",
+      "ytId": "sqV71cXZX5w",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250515 카이스트축제 NMIXX HAEWON 엔믹스 해원 - \"TANK\"직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18012",
+      "ytId": "gWaKhayu43M",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250515 카이스트축제 NMIXX HAEWON 엔믹스 해원 - \"DASH\"직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18013",
+      "ytId": "GPhvxYFdhr4",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250515 카이스트 과잠입은 엔믹스 설윤 NMIXX SULLYOON :  Love Me Like This 무대 @ 카이스트 축제 직캠 | Plumia2 (4K 60p)",
+      "channel": "Plumia2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18014",
+      "ytId": "tRTsWKDNs8k",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "#NMIXX ♬ 占 (TANK) #엔믹스 #설윤 SULLYOON @250515 카이스트 축제 KAIST FESTIVAL",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18015",
+      "ytId": "cxKGvxxiRgM",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250515 엔믹스(NMIXX) 배이 - KNOW ABOUT ME | 2025 카이스트 석림태울제",
+      "channel": "2 RUKA",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18016",
+      "ytId": "jUm-ZlPFCeY",
+      "eventId": "e1172",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "#NMIXX ♬ See that? #엔믹스 #배이 BAE #별별별 @250515 카이스트 축제 KAIST",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18017",
+      "ytId": "ECJeDt7OV5Y",
+      "eventId": "e1161",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "250515 NMIXX (엔믹스) - 💕KNOW ABOUT ME💕DASH💕별별별💕DICE💕Love Me Like This @ 대전보건대학교 축제 직캠 (Fullcam) #nmixx",
+      "channel": "Lunatic Soul",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18018",
+      "ytId": "5d3f-FsdKuk",
+      "eventId": "e1161",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250515 엔믹스 NMIXX Full Ver. 4K 직캠 @대전보건대 축제",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18019",
+      "ytId": "LrYKRsST3V4",
+      "eventId": "e1161",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250515 엔믹스 NMIXX 지우 Full Ver. 4K 직캠 @대전보건대 축제",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18020",
+      "ytId": "8H0wMcT9gP8",
+      "eventId": "e1161",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        },
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "250515 엔믹스 설윤 (NMIXX SULLYOON) 대전보건대 Full Ver. \"노우 어바웃 미, 대쉬 , 별별별, 다이스, 러브 미 라이브 디스\" 4K 60p 세로 직캠",
+      "channel": "Emerald Dream",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18021",
+      "ytId": "fACy8vruTmk",
+      "eventId": "e1162",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[FULL FOCUS] 고려대학교 축제 NMIXX (엔믹스) Full ver.ㅣ250524 입실렌티 지.야의 함성 IPSELENTI",
+      "channel": "고려대학교 교육TV방송국 KUTV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18022",
+      "ytId": "g3i0clj3HpA",
+      "eventId": "e1162",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250524 엔믹스 NMIXX 고려대 축제 Full ver. 4K 60p 직캠(Fancam) 2025 고대 입실렌티 @고려대학교녹지운동장",
+      "channel": "On the street",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18023",
+      "ytId": "I_ALsm9SZgQ",
+      "eventId": "e1162",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        },
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250524 엔믹스(NMIXX) Full Ver | 2025 고려대학교 입실렌티 IPSELENTI (별별별+민족의 아리아, DASH etc)",
+      "channel": "고려대학교 TV방송국 KTN",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18024",
+      "ytId": "1h3_2KibKEY",
+      "eventId": "e1162",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        },
+        {
+          "songId": "g2s2",
+          "t": 0
+        },
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250524 엔믹스(NIMXX) - Soñar (Breaker) + DICE + Love Me Like This | 2025 고려대학교 입실렌티 IPSELENTI",
+      "channel": "고려대학교 TV방송국 KTN",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18025",
+      "ytId": "eJH0rvEDMMU",
+      "eventId": "e1162",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250524 엔믹스(NMIXX) - 별별별 (See that?) + 민족의 아리아 | 2025 고려대학교 입실렌티 IPSELENTI",
+      "channel": "고려대학교 TV방송국 KTN",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18026",
+      "ytId": "jOOBDPR1aLg",
+      "eventId": "e1162",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250524 고려대학교 입실렌티 NMIXX HAEWON 엔믹스 해원 - \"KNOW ABOUT ME\"직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18027",
+      "ytId": "NsvV_LGzIjQ",
+      "eventId": "e1162",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 고려대학교 축제 NMIXX (엔믹스) 별별별+민족의아리아(응원가)  | 250524 입실렌티 지.야의 함성 IPSELENTI",
+      "channel": "고려대학교 교육TV방송국 KUTV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18028",
+      "ytId": "Ta4h5Yaienc",
+      "eventId": "e1162",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250524 고려대학교 입실렌티 NMIXX HAEWON 엔믹스 해원 - \"별별별 (See that?) + 민족의 아리아\"직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18029",
+      "ytId": "LwVBbRmyWUc",
+      "eventId": "e1162",
+      "songs": [
+        {
+          "songId": "g2s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 고려대학교 축제 NMIXX (엔믹스) 占 (TANK)  | 250524 입실렌티 지.야의 함성 IPSELENTI",
+      "channel": "고려대학교 교육TV방송국 KUTV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18030",
+      "ytId": "07yWAC0xPGM",
+      "eventId": "e1162",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        },
+        {
+          "songId": "g2s2",
+          "t": 0
+        },
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 고려대학교 축제 NMIXX (엔믹스) Soñar + DICE + Love Me Like This (Mashup)  | 250524 입실렌티 지.야의 함성 IPSELENTI",
+      "channel": "고려대학교 교육TV방송국 KUTV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18031",
+      "ytId": "hvs2TwxgrDY",
+      "eventId": "e1162",
+      "songs": [
+        {
+          "songId": "g2s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250524 고려대학교 입실렌티 NMIXX HAEWON 엔믹스 해원 - \"TANK\"직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18032",
+      "ytId": "26FhimjxL7s",
+      "eventId": "e1162",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 고려대학교 축제 NMIXX (엔믹스) DASH | 250524 입실렌티 지.야의 함성 IPSELENTI",
+      "channel": "고려대학교 교육TV방송국 KUTV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18033",
+      "ytId": "NJAyN5Qddw0",
+      "eventId": "e1162",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250524 고려대학교 입실렌티 NMIXX HAEWON 엔믹스 해원 - \"RUN FOR ROSE\"직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18034",
+      "ytId": "GW284C_Z3NU",
+      "eventId": "e1173",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "NMIXX (엔믹스) - 멜버른 전체 콘서트 250606 | NMIXX 체인지업 : MIXX Lab | 반칙 | 4K60 프론트 로우",
+      "channel": "yentaxi",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18035",
+      "ytId": "xlV_FVl_VW8",
+      "eventId": "e1174",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        },
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250628 NMIXX Jiwoo Fancam 'Run For Roses + Know About Me' @ 2025 Macau Fan Concert / 엔믹스 지우 직캠",
+      "channel": "Soupzip 수프집",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18036",
+      "ytId": "z588cz9NB34",
+      "eventId": "e1174",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250628 NMIXX CHANGE UP : MIXX LAB in MACAU NMIXX HAEWON 엔믹스 해원 - KNOW ABOUT ME 직캠(FanCam)",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18037",
+      "ytId": "5fdqDfc10V8",
+      "eventId": "e1174",
+      "songs": [
+        {
+          "songId": "g2s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250628-29 NMIXX CHANGE UP : MIXX LAB in MACAU NMIXX HAEWON 엔믹스 해원 - BOOM 직캠",
+      "channel": "ᴡᴏɴ",
       "pin": false,
       "gone": false
     }
