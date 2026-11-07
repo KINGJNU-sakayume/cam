@@ -4273,6 +4273,74 @@
           ],
           "order": 9,
           "release": ""
+        },
+        {
+          "id": "g9s10",
+          "title": "WithOrWithOut",
+          "aliases": [
+            "With Or Without",
+            "위드오어위드아웃",
+            "위드올위드아웃"
+          ],
+          "order": 10,
+          "release": "2022-08-03"
+        },
+        {
+          "id": "g9s11",
+          "title": "설탕",
+          "aliases": [
+            "Sugar"
+          ],
+          "order": 11,
+          "release": "2024-09-30"
+        },
+        {
+          "id": "g9s12",
+          "title": "그건 사랑이었다고",
+          "aliases": [
+            "That Was Love",
+            "It Was Love",
+            "그건사랑이었다고"
+          ],
+          "order": 12,
+          "release": "2024-09-30"
+        },
+        {
+          "id": "g9s13",
+          "title": "364",
+          "aliases": [],
+          "order": 13,
+          "release": "2025-07-29"
+        },
+        {
+          "id": "g9s14",
+          "title": "STAR!",
+          "aliases": [
+            "STAR",
+            "스타",
+            "STAR! (feat. Hatsune Miku)"
+          ],
+          "order": 14,
+          "release": "2025-11-26"
+        },
+        {
+          "id": "g9s15",
+          "title": "봄이라서",
+          "aliases": [
+            "Spring Fever"
+          ],
+          "order": 15,
+          "release": "2026-03-11"
+        },
+        {
+          "id": "g9s16",
+          "title": "낭만고양이",
+          "aliases": [
+            "낭만 고양이"
+          ],
+          "order": 16,
+          "release": "",
+          "kind": "cover"
         }
       ]
     }
@@ -13895,6 +13963,603 @@
       "label": "",
       "setlist": [
         "g6s56"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e871",
+      "groupId": "g9",
+      "date": "2026-03-12",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e872",
+      "groupId": "g9",
+      "date": "2026-03-13",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e873",
+      "groupId": "g9",
+      "date": "2026-03-14",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e874",
+      "groupId": "g9",
+      "date": "2026-03-15",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e875",
+      "groupId": "g9",
+      "date": "2026-03-18",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g9s15",
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e876",
+      "groupId": "g9",
+      "date": "2026-03-19",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e877",
+      "groupId": "g9",
+      "date": "2026-03-20",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e878",
+      "groupId": "g9",
+      "date": "2026-03-21",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e879",
+      "groupId": "g9",
+      "date": "2026-03-22",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e880",
+      "groupId": "g9",
+      "date": "2026-03-25",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e881",
+      "groupId": "g9",
+      "date": "2026-03-26",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e882",
+      "groupId": "g9",
+      "date": "2026-03-27",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e883",
+      "groupId": "g9",
+      "date": "2026-03-29",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e884",
+      "groupId": "g9",
+      "date": "2026-04-04",
+      "show": "YENA LIVE TOUR 잡힐 듯 말 듯 한, 2세계! 서울",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s6",
+        "g9s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e885",
+      "groupId": "g9",
+      "date": "2026-04-05",
+      "show": "YENA LIVE TOUR 잡힐 듯 말 듯 한, 2세계! 서울",
+      "label": "",
+      "setlist": [
+        "g9s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e886",
+      "groupId": "g9",
+      "date": "2026-04-13",
+      "show": "경국대 축제",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s15"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e887",
+      "groupId": "g9",
+      "date": "2026-04-25",
+      "show": "YENA LIVE TOUR 잡힐 듯 말 듯 한, 2세계! 마카오",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e888",
+      "groupId": "g9",
+      "date": "2026-05-07",
+      "show": "강서대 축제",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s6",
+        "g9s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e889",
+      "groupId": "g9",
+      "date": "2026-05-14",
+      "show": "한성대 축제",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e890",
+      "groupId": "g9",
+      "date": "2026-05-15",
+      "show": "서강대 축제",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e891",
+      "groupId": "g9",
+      "date": "2026-07-25",
+      "show": "ACON 2026 타이베이",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e892",
+      "groupId": "g9",
+      "date": "2026-07-31",
+      "show": "청룡시리즈어워즈",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e893",
+      "groupId": "g9",
+      "date": "2026-08-08",
+      "show": "워터밤 부산",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e894",
+      "groupId": "g9",
+      "date": "2026-08-09",
+      "show": "SBS 가요대전 SUMMER",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e895",
+      "groupId": "g9",
+      "date": "2026-08-22",
+      "show": "YENA ENCORE LIVE 네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판 서울",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s6",
+        "g9s14",
+        "g9s11",
+        "g9s1",
+        "g9s13",
+        "g9s5",
+        "g9s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e896",
+      "groupId": "g9",
+      "date": "2026-08-23",
+      "show": "YENA ENCORE LIVE 네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판 서울",
+      "label": "",
+      "setlist": [
+        "g9s9",
+        "g9s16",
+        "g9s8",
+        "g9s6",
+        "g9s14",
+        "g9s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e897",
+      "groupId": "g9",
+      "date": "2026-09-02",
+      "show": "동국대 BMC 축제",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s6",
+        "g9s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e898",
+      "groupId": "g9",
+      "date": "2026-09-06",
+      "show": "SPOTV K-POP AWARDS",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e899",
+      "groupId": "g9",
+      "date": "2026-09-09",
+      "show": "중부대 충청캠퍼스 축제",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e900",
+      "groupId": "g9",
+      "date": "2026-09-10",
+      "show": "중부대 고양캠퍼스 축제",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s6",
+        "g9s3",
+        "g9s1",
+        "g9s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e901",
+      "groupId": "g9",
+      "date": "2026-09-10",
+      "show": "서울대 축제",
+      "label": "",
+      "setlist": [
+        "g9s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e902",
+      "groupId": "g9",
+      "date": "2026-09-11",
+      "show": "한국전통문화대 축제",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e903",
+      "groupId": "g9",
+      "date": "2026-09-16",
+      "show": "전북대 축제",
+      "label": "",
+      "setlist": [],
+      "note": ""
+    },
+    {
+      "id": "e904",
+      "groupId": "g9",
+      "date": "2026-09-17",
+      "show": "부산가톨릭대 축제",
+      "label": "",
+      "setlist": [
+        "g9s1",
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e905",
+      "groupId": "g9",
+      "date": "2026-09-17",
+      "show": "금오공대 축제",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e906",
+      "groupId": "g9",
+      "date": "2026-09-19",
+      "show": "TMA 2026 부산",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e907",
+      "groupId": "g9",
+      "date": "2026-10-01",
+      "show": "안양대 축제",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e908",
+      "groupId": "g9",
+      "date": "2026-10-01",
+      "show": "동국대 축제",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e909",
+      "groupId": "g9",
+      "date": "2026-10-02",
+      "show": "성균관대 자연과학캠퍼스 축제",
+      "label": "",
+      "setlist": [
+        "g9s10",
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e910",
+      "groupId": "g9",
+      "date": "2026-10-04",
+      "show": "입크페스티벌",
+      "label": "",
+      "setlist": [
+        "g9s9",
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e911",
+      "groupId": "g9",
+      "date": "2026-10-06",
+      "show": "삼육대 축제",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s6",
+        "g9s1",
+        "g9s3",
+        "g9s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e912",
+      "groupId": "g9",
+      "date": "2026-10-07",
+      "show": "공주대 예산캠퍼스 축제",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e913",
+      "groupId": "g9",
+      "date": "2026-10-16",
+      "show": "더 시즌즈-성시경의 고막남친",
+      "label": "",
+      "setlist": [
+        "g9s9",
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e914",
+      "groupId": "g9",
+      "date": "2026-10-21",
+      "show": "건양대 축제",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s6",
+        "g9s12",
+        "g9s1",
+        "g9s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e915",
+      "groupId": "g9",
+      "date": "2026-10-22",
+      "show": "마산대 축제",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s12",
+        "g9s6",
+        "g9s1",
+        "g9s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e916",
+      "groupId": "g9",
+      "date": "2026-10-23",
+      "show": "신구대 축제",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s1",
+        "g9s10",
+        "g9s6",
+        "g9s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e917",
+      "groupId": "g9",
+      "date": "2026-10-24",
+      "show": "안동 런앤뮤직 페스티벌",
+      "label": "",
+      "setlist": [
+        "g9s6",
+        "g9s8",
+        "g9s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e918",
+      "groupId": "g9",
+      "date": "2026-10-27",
+      "show": "서울신학대 축제",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s6",
+        "g9s1",
+        "g9s3",
+        "g9s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e919",
+      "groupId": "g9",
+      "date": "2026-10-28",
+      "show": "신라대 축제",
+      "label": "",
+      "setlist": [
+        "g9s8",
+        "g9s6",
+        "g9s3",
+        "g9s1",
+        "g9s10"
       ],
       "note": ""
     }
@@ -279424,6 +280089,4257 @@
       "pin": false,
       "gone": false,
       "thumbPos": "50% 45%"
+    },
+    {
+      "id": "v15409",
+      "ytId": "UU1WmcFgAFM",
+      "eventId": "e871",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "'최초 공개' YENA(최예나) - 캐치 캐치 #엠카운트다운 EP.919 | Mnet 260312 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15410",
+      "ytId": "LMk7TyXdQs4",
+      "eventId": "e871",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 최예나 직캠 4K '캐치 캐치' (YENA FanCam) | @MCOUNTDOWN_2026.3.12",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15411",
+      "ytId": "PupsnrZ_5xM",
+      "eventId": "e871",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 최예나 직캠 4K '캐치 캐치' (YENA FanCam) | @MCOUNTDOWN_2026.3.12",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15412",
+      "ytId": "raiWJKEl8Vg",
+      "eventId": "e871",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[MPD직캠] 최예나 직캠 8K '캐치 캐치' (Horizontal Ver.) (YENA FanCam) | @MCOUNTDOWN_2026.3.12",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15413",
+      "ytId": "Busuxq5XSRw",
+      "eventId": "e872",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "캐치 캐치 - YENA (최예나) [뮤직뱅크/Music Bank] | KBS 260313 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15414",
+      "ytId": "aTdSPFgI_kc",
+      "eventId": "e872",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 최예나 '캐치 캐치' (YENA Facecam) @뮤직뱅크(Music Bank) 260313",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15415",
+      "ytId": "9E-sIN_AQ6c",
+      "eventId": "e872",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "따 따랏따따~🩵 컨셉 소화력이 말도 안 돼요 😍 YENA(최예나) ‘캐치캐치’ #뮤직뱅크 | KBS 260313 방송",
+      "channel": "KBS 한국방송",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15416",
+      "ytId": "HBuu_ogVzNI",
+      "eventId": "e873",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "YENA (최예나) - Catch Catch (캐치 캐치) | Show! MusicCore | MBC260314방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15417",
+      "ytId": "AGpqW1nt4dg",
+      "eventId": "e873",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] YENA (최예나) – 캐치 캐치 FanCam | 쇼! 음악중심 | MBC260314",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15418",
+      "ytId": "RGOBMVHB-uM",
+      "eventId": "e873",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] YENA (최예나) – 캐치 캐치 | 쇼! 음악중심 | MBC260314",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15419",
+      "ytId": "1fmZe6-6Nmg",
+      "eventId": "e873",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠] YENA (최예나) – 캐치 캐치 FullCam | 쇼! 음악중심 | MBC260314",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15420",
+      "ytId": "4ItY2iexF4o",
+      "eventId": "e874",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 최예나 '캐치 캐치' (YENA 'Catch Catch' FanCam) @SBS Inkigayo 260315",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15421",
+      "ytId": "_R3Ty12XB90",
+      "eventId": "e874",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 최예나 '캐치 캐치' (YENA 'Catch Catch' FaceCam) @SBS Inkigayo 260315",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15422",
+      "ytId": "7FKOOmU9SyM",
+      "eventId": "e874",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 최예나 '캐치 캐치' (YENA 'Catch Catch' FullCam) @SBS Inkigayo 260315",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15423",
+      "ytId": "GOEqVQtlK5w",
+      "eventId": "e874",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "캐치 캐치 - YENA (최예나) | SBS 260315 방송",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15424",
+      "ytId": "qdah4eLEk_c",
+      "eventId": "e875",
+      "songs": [
+        {
+          "songId": "g9s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[최초 공개] YENA (최예나) - 봄이라서 (feat. LEW of TEMPEST) l Show Champion l EP.589 l 260318",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15425",
+      "ytId": "yl4skkvjaXs",
+      "eventId": "e875",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[덕질캡처용♥CLEAN] YENA - 캐치 캐치 l Show Champion l EP.589",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15426",
+      "ytId": "p-qj0-Ukv4g",
+      "eventId": "e875",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] 최예나(YENA) - 캐치 캐치 | Show Champion | EP.589 | 260318",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15427",
+      "ytId": "DGgpacewkxc",
+      "eventId": "e875",
+      "songs": [
+        {
+          "songId": "g9s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] 최예나(YENA) - 봄이라서 (feat. LEW of TEMPEST) | Show Champion | EP.589 | 260318",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15428",
+      "ytId": "D7gZHy_AvL8",
+      "eventId": "e875",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] YENA(최예나) - 캐치 캐치 | Show Champion | EP.589 | 260318",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15429",
+      "ytId": "5BIL7De6aW8",
+      "eventId": "e876",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "YENA(최예나) - 캐치 캐치 #엠카운트다운 EP.920 | Mnet 260319 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15430",
+      "ytId": "H5R6_6lxUao",
+      "eventId": "e876",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[MPD직캠] 최예나 직캠 8K '캐치 캐치' (Horizontal Ver.) (YENA FanCam) | @MCOUNTDOWN_2026.3.19",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15431",
+      "ytId": "6Y6JAO7kWbg",
+      "eventId": "e876",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 최예나 직캠 4K '캐치 캐치' (YENA FanCam) | @MCOUNTDOWN_2026.3.19",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15432",
+      "ytId": "mek4NSx7VAY",
+      "eventId": "e876",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 최예나 직캠 4K '캐치 캐치' (YENA FanCam) | @MCOUNTDOWN_2026.3.19",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15433",
+      "ytId": "Q0YF7nNbAN8",
+      "eventId": "e877",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "캐치 캐치 -  YENA (최예나) [뮤직뱅크/Music Bank] | KBS 260320 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15434",
+      "ytId": "bOVZcRK1fyw",
+      "eventId": "e877",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 최예나 '캐치 캐치' (YENA Facecam) @뮤직뱅크(Music Bank) 260320",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15435",
+      "ytId": "sngpPVYmw48",
+      "eventId": "e877",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Choreo 8K] 최예나 직캠 '캐치 캐치' (YENA Choreography) @MusicBank 260320",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15436",
+      "ytId": "erNe2L0beR0",
+      "eventId": "e878",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "YENA (최예나) - Catch Catch (캐치 캐치) | Show! MusicCore | MBC260321방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15437",
+      "ytId": "jVbgndcinPc",
+      "eventId": "e878",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] YENA (최예나) – 캐치 캐치 | 쇼! 음악중심 | MBC260321",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15438",
+      "ytId": "yOtLwbdkQpk",
+      "eventId": "e878",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] YENA (최예나) – 캐치 캐치 FanCam | 쇼! 음악중심 | MBC260321",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15439",
+      "ytId": "8e3WFFK5usM",
+      "eventId": "e879",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 최예나 '캐치 캐치' (YENA 'Catch Catch' FaceCam) @SBS Inkigayo 260322",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15440",
+      "ytId": "J-tmQD6jNys",
+      "eventId": "e879",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 최예나 '캐치 캐치' (YENA 'Catch Catch' FanCam) @SBS Inkigayo 260322",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15441",
+      "ytId": "3OrV1gT19gI",
+      "eventId": "e879",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 최예나 '캐치 캐치' (YENA 'Catch Catch' FullCam) @SBS Inkigayo 260322",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15442",
+      "ytId": "OolN7tL5yX0",
+      "eventId": "e879",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "캐치 캐치 - YENA (최예나) | SBS 260322 방송",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15443",
+      "ytId": "qmtGBUTixi0",
+      "eventId": "e880",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] 최예나(YENA) - 캐치 캐치 | Show Champion | EP.590 | 260325",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15444",
+      "ytId": "YtU4pPT53MY",
+      "eventId": "e880",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] YENA(최예나) - 캐치 캐치 | Show Champion | EP.590 | 260325",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15445",
+      "ytId": "0R5125xD5fY",
+      "eventId": "e881",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "YENA(최예나) - 캐치 캐치 #엠카운트다운 EP.921 | Mnet 260326 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15446",
+      "ytId": "NtI7bvnbBtY",
+      "eventId": "e882",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "캐치 캐치 -  YENA (최예나) [뮤직뱅크/Music Bank] | KBS 260327 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15447",
+      "ytId": "zS3lZtGDAWU",
+      "eventId": "e882",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Choreo 8K] 최예나 직캠 '캐치 캐치' (YENA Choreography) @MusicBank 260327",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15448",
+      "ytId": "kMbOez2ou8k",
+      "eventId": "e883",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "캐치 캐치 - YENA (최예나) | SBS 260329 방송",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15449",
+      "ytId": "5PrBFO466uE",
+      "eventId": "e883",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 최예나 '캐치 캐치' (YENA 'Catch Catch' FanCam) @SBS Inkigayo 260329",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15450",
+      "ytId": "s902yoc9Ltc",
+      "eventId": "e883",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 최예나 '캐치 캐치' (YENA 'Catch Catch' FullCam) @SBS Inkigayo 260329",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15451",
+      "ytId": "18VjgjiltrQ",
+      "eventId": "e884",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260404 YENA (최예나) - 캐치 캐치 + 네모네모 + STAR! (feat. 하츠네 미쿠)｜2026 YENA LIVE TOUR 〈잡힐 듯 말 듯 한, 2세계!〉 In 서울",
+      "channel": "슈삼",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15452",
+      "ytId": "y5m7tye-DdY",
+      "eventId": "e885",
+      "songs": [
+        {
+          "songId": "g9s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K_입DUCK직캠] YENA(최예나) - '설탕' Stage Video l 260405 YENA LIVE TOUR [잡힐 듯 말 듯 한, 2세계!] In Seoul",
+      "channel": "YENA(최예나)",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15453",
+      "ytId": "LjLMBnH9TNM",
+      "eventId": "e886",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "예나 #YENA @260413 경국대 ♬ 캐치 캐치 Catch Catch ♬ 봄이라서 Spring Fever",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15454",
+      "ytId": "ULZyjYHHkwQ",
+      "eventId": "e887",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "catch catch 半中文版 - 2026 #YENA LIVE TOUR So Near Yet So Far, Another Wo2ld! (260425) #최예나",
+      "channel": "K-Star HK",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15455",
+      "ytId": "VHnJTtORpFw",
+      "eventId": "e888",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "최예나(YENA) '캐치 캐치 + 네모네모 + SMILEY' 직캠 | 강서대 축제 • 260507",
+      "channel": "비몽 BIMONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15456",
+      "ytId": "uZJXk1kueKk",
+      "eventId": "e889",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "최예나 전체무대 직캠 @ 한성대학교 260514",
+      "channel": "안미운오리새끼",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15457",
+      "ytId": "wRbwo2GIIGY",
+      "eventId": "e889",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260514 최예나 한성대 축제 '캐치 캐치'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15458",
+      "ytId": "UtaQJq-FT00",
+      "eventId": "e889",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "260514 최예나 한성대 축제 Full",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15459",
+      "ytId": "AIQWaw96vLY",
+      "eventId": "e889",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "20260514 YENA(최예나) 캐치 캐치 한성대 축제",
+      "channel": "취미용",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15460",
+      "ytId": "ljWLQ-ceBCQ",
+      "eventId": "e890",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "최예나 YENA - FULL VER. 4K 세로 직캠 @260515 서강대 축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15461",
+      "ytId": "sZj0M8UkUbQ",
+      "eventId": "e890",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 최예나 직캠 캐치 캐치 (Catch Catch)  |  YENA Fancam |  260515 서강대학교 대동제",
+      "channel": "kpopmylife1314",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15462",
+      "ytId": "0ShKEBD16fI",
+      "eventId": "e890",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "최예나 - 서강대학교 축제 직캠 YENA Fancam 260515",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15463",
+      "ytId": "bUx-mLEoD4Q",
+      "eventId": "e891",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "YENA (최예나) - 캐치 캐치 (Catch Catch) ACON 2026 20260725",
+      "channel": "cataLYze",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15464",
+      "ytId": "SnHqe2dtoaQ",
+      "eventId": "e891",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260725 ACON 최예나 YENA ''캐치 캐치 Catch Catch'' 직캠",
+      "channel": "Hikaru.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15465",
+      "ytId": "jSc7GMRPD3o",
+      "eventId": "e892",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "전주 나오자마자 배우들 어깨 들썩들썩🕺🏻 청룡을 사로잡은 최예나 캐치 캐치 l 제5회 청룡시리즈어워즈 ㅣ KBS 260731 방송",
+      "channel": "KBS 한국방송",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15466",
+      "ytId": "y1ZWF53oGok",
+      "eventId": "e892",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "최예나 (YENA) 축하공연 〈♬ 네모네모(NEMONEMO) + 캐치캐치(Catch Catch)〉 [제5회 청룡시리즈어워즈] | KBS 260731 방송",
+      "channel": "KBS Entertain",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15467",
+      "ytId": "SECofVoAiiM",
+      "eventId": "e893",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "260808 최예나 워터밤 부산 Full | YENA WATERBOMB BUSAN 2026",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15468",
+      "ytId": "6cZ7hpFJ8XM",
+      "eventId": "e893",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260808 최예나 워터밤 부산 '캐치 캐치'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15469",
+      "ytId": "WuWsLSR2ajA",
+      "eventId": "e893",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "YENA - 캐치 캐치 Live at WATERBOMB BUSAN 2026",
+      "channel": "WATERBOMB",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15470",
+      "ytId": "owC-a081xSM",
+      "eventId": "e893",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260808 최예나 워터밤 부산 'Good Morning'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15471",
+      "ytId": "zPzI5sGej8Q",
+      "eventId": "e894",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260809 최예나 (YENA) - 'Catch Catch (캐치 캐치)' 직캠 (YENA FOCUS Fancam) | 2026 SBS 가요대전",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15472",
+      "ytId": "jaD-xMbkO14",
+      "eventId": "e894",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "YENA(최예나) - 캐치 캐치 @SBS GayoDaejeon Summer",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15473",
+      "ytId": "Euonwf-wsuE",
+      "eventId": "e894",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260809 'Catch Catch' 최예나 캐치캐치 직캠 @GAYO DAEJEON Summer (YENA Fancam)",
+      "channel": "송이",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15474",
+      "ytId": "ZGDdtH6igNc",
+      "eventId": "e894",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "최예나(YENA) - 캐치 캐치(Catch Catch) [4K 직캠] I 260809 2026 가요대전 Summer",
+      "channel": "지구미네 예나",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15475",
+      "ytId": "PAxZACAorL0",
+      "eventId": "e895",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "YENA CONCERT 'Catch Catch (캐치 캐치) + NEMONEMO (네모네모) + STAR!' 4K Fancam 직캠 | 최예나 콘서트 앙콘 ENCORE 260822",
+      "channel": "K-PLANET",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15476",
+      "ytId": "IJr7FrsSikA",
+      "eventId": "e895",
+      "songs": [
+        {
+          "songId": "g9s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 260822 최예나(YENA) - '설탕' 가로 직캠 | 2026 YENA ENCORE LIVE",
+      "channel": "무슨 말이 필요해",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15477",
+      "ytId": "nJvPBszfOc0",
+      "eventId": "e895",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "YENA CONCERT 'SMILEY' 4K Fancam 직캠 | 최예나 콘서트 앙콘 ENCORE LIVE '네모로부터 시작된, 잡힐 듯 말 듯 한 이세계: 극장판' 260822",
+      "channel": "K-PLANET",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15478",
+      "ytId": "fgn1xAm_Y1Q",
+      "eventId": "e895",
+      "songs": [
+        {
+          "songId": "g9s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "YENA CONCERT 'Sugar (설탕) (with Hitomi 히토미)' 4K Fancam 직캠 | 최예나 콘서트 앙콘 ENCORE LIVE 260822",
+      "channel": "K-PLANET",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15479",
+      "ytId": "x1e-huD56z8",
+      "eventId": "e895",
+      "songs": [
+        {
+          "songId": "g9s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260822 최예나 - 364 | 2026 YENA ENCORE LIVE 네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15480",
+      "ytId": "cEK0ThAxGzc",
+      "eventId": "e895",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260822 최예나 - Good Morning | 2026 YENA ENCORE LIVE 네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15481",
+      "ytId": "Np_aQg04Shk",
+      "eventId": "e895",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260822 최예나 - SMILEY | 2026 YENA ENCORE LIVE 네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15482",
+      "ytId": "jeBgURIv8D0",
+      "eventId": "e895",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260822 최예나 - 캐치캐치 | 2026 YENA ENCORE LIVE 네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15483",
+      "ytId": "TMCQbyB-Z08",
+      "eventId": "e895",
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260822 최예나 - 착하다는 말이 제일 싫어 | 2026 YENA ENCORE LIVE 네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15484",
+      "ytId": "wMrAT8ICs90",
+      "eventId": "e895",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "260822 최예나 콘서트 Full | 2026 YENA ENCORE LIVE 네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15485",
+      "ytId": "CmKCyBB1W54",
+      "eventId": "e895",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260822 최예나 앵콜콘 full 108min 2026 YENA ENCORE LIVE [네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판]",
+      "channel": "Choyoun",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15486",
+      "ytId": "TemAexP3p0I",
+      "eventId": "e895",
+      "songs": [
+        {
+          "songId": "g9s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260822 YENA (최예나) - 설탕 (with. 혼다 히토미)｜2026 YENA ENCORE LIVE 〈네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판〉 DAY1",
+      "channel": "슈삼",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15487",
+      "ytId": "DQIHL_bH7ww",
+      "eventId": "e896",
+      "songs": [
+        {
+          "songId": "g9s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260823 최예나 - 보기 드문 여자(Feat. NOWIMYOUNG)｜2026 YENA ENCORE LIVE 〈네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판〉 DAY2",
+      "channel": "슈삼",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15488",
+      "ytId": "Xv-VP-U-O2s",
+      "eventId": "e896",
+      "songs": [
+        {
+          "songId": "g9s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260823 최예나 콘서트 '낭만고양이'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15489",
+      "ytId": "EqgEqFfnKHM",
+      "eventId": "e896",
+      "songs": [
+        {
+          "songId": "g9s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260823 보기드문여자 리메이크(선공개) - 최예나(Feat. 나우아임영) [2026 YENA ENCORE LIVE 네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판]",
+      "channel": "샤레아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15490",
+      "ytId": "PWJ0eyZ2_sg",
+      "eventId": "e896",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260823 최예나 콘서트 '캐치 캐치 + 네모네모 + STAR!'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15491",
+      "ytId": "MlwUwNWwo5k",
+      "eventId": "e896",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "260823 최예나 콘서트 Full | 2026 YENA ENCORE LIVE 네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15492",
+      "ytId": "-qBNQMPRkNM",
+      "eventId": "e896",
+      "songs": [
+        {
+          "songId": "g9s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260823 최예나 콘서트 '설탕 (With 조유리)'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15493",
+      "ytId": "GSa27KSwJj4",
+      "eventId": "e897",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "최예나(YENA) '캐치캐치 + 네모네모 + SMILEY 외 2곡' 직캠 | 동국대 BMC 축제 • 260902",
+      "channel": "비몽 BIMONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15494",
+      "ytId": "uGQ2-O7ySqc",
+      "eventId": "e897",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260902 최예나 - 캐치캐치 | 2026 동국대 바이오메디캠퍼스 연합 가을축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15495",
+      "ytId": "mk4mHp9SsAA",
+      "eventId": "e897",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "260902 최예나 동국대 바이오메디캠퍼스 축제 Full",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15496",
+      "ytId": "sDwcwZSqU8I",
+      "eventId": "e898",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 260906 최예나(YENA) - '캐치캐치 + 스마일리' 예나 직캠 | 2026 SPO TV K-POP AWARDS(SKA)",
+      "channel": "무슨 말이 필요해",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15497",
+      "ytId": "b-ObMEm-UN8",
+      "eventId": "e898",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260906 최예나 스포티비 어워즈 '캐치 캐치 + SMILEY'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15498",
+      "ytId": "0JGe2THot_4",
+      "eventId": "e898",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] 최예나(YENA) 「캐치 캐치(Catch Catch) + SMILEY」 세로 직캠 | 2026 SPOTV K-POP AWARDS(2026 SKA), 260906",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15499",
+      "ytId": "IVeXNK851KM",
+      "eventId": "e898",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "최예나(YENA) - 캐치 캐치(Catch Catch) [4K 직캠] I 260906 2026 SPOTV K-POP AWARDS",
+      "channel": "지구미네 예나",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15500",
+      "ytId": "JC5woXWf-fY",
+      "eventId": "e898",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 최예나(YENA) 「캐치 캐치(Catch Catch) + SMILEY」 가로 직캠 | 2026 SPOTV K-POP AWARDS(2026 SKA), 260906",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15501",
+      "ytId": "Qfb2kz0kskg",
+      "eventId": "e899",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260909 최예나 YENA - Full Ver. 직캠 Fancam 4K 60P @중부대학교 충청캠퍼스 축제 by Prequel",
+      "channel": "Prequel",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15502",
+      "ytId": "G1ZskAqUf20",
+      "eventId": "e899",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k60p] \"캐치캐치\" 최예나 직캠 중부대 충청캠 260909",
+      "channel": "ECwizone",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15503",
+      "ytId": "Kpbu3rnvjUU",
+      "eventId": "e899",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k60p] \"SMILEY\" 최예나 직캠 중부대 충청캠 260909#최예나 #예나 #yena #스마일리 #smiley@YENA_OFFICIAL",
+      "channel": "ECwizone",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15504",
+      "ytId": "QcUyQLS4z4k",
+      "eventId": "e900",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260910 최예나 YENA '캐치 캐치 Catch Catch' 4K 60P 직캠 @중부대 축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15505",
+      "ytId": "bKwEq8iHngw",
+      "eventId": "e900",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260910 최예나 Full Ver. 4K 직캠 @중부대 축제",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15506",
+      "ytId": "dM311GB3taI",
+      "eventId": "e900",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260910 최예나 YENA ‘캐치 캐치 (Catch Catch)’ 4K 60P 직캠 @중부대동제 백야 고양캠퍼스 by 나의달 NAEDAL",
+      "channel": "나의달 NAEDAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15507",
+      "ytId": "AEWJLt_9w24",
+      "eventId": "e900",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s3",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "예나 - \"캐치캐치\" \"네모네모\" \"Love War\" \"Smiley\" \"WithOrWithOut\" [4k직캠] @중부대고양캠퍼스 260910",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15508",
+      "ytId": "jTWbC9ny7L8",
+      "eventId": "e900",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260910 최예나 YENA '네모네모 NEMONEMO' 4K 60P 직캠 @중부대 축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15509",
+      "ytId": "O48-yLsAQNI",
+      "eventId": "e900",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260910 최예나 YENA ‘네모네모 (NEMONEMO)’ 4K 60P 직캠 @2026 중부대동제 백야 고양캠퍼스 by 나의달 NAEDAL",
+      "channel": "나의달 NAEDAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15510",
+      "ytId": "9QqOt6pnCJA",
+      "eventId": "e900",
+      "songs": [
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260910 최예나 YENA ‘WithOrWithOut’ 앵콜 4K 60P 직캠 @2026 중부대동제 중부대학교 고양창의캠퍼스 by 나의달 NAEDAL",
+      "channel": "나의달 NAEDAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15511",
+      "ytId": "kekxFBrRk1c",
+      "eventId": "e900",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260910 최예나 YENA ‘SMILEY’ 4K 60P 직캠 @2026 중부대동제 백야 고양캠퍼스 by 나의달 NAEDAL",
+      "channel": "나의달 NAEDAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15512",
+      "ytId": "AH_yUt3RTmw",
+      "eventId": "e901",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "YENA(최예나) - 네모네모 | 260910 2026 SNU 공자농자첨 연합축제 폐막제 서울대학교 축제 #예나 #최예나 #YENA #네모네모 #서울대학교 #서울대 #서울대축제",
+      "channel": "옐림",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15513",
+      "ytId": "jDnj7N-uV6k",
+      "eventId": "e902",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "세로"
+      ],
+      "title": "예나 세로 직캠 풀버전 한국전통문화대 축제 YENA FANCAM FULL ver. 260911",
+      "channel": "사악키",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15514",
+      "ytId": "TNMX0eDtlHA",
+      "eventId": "e902",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "예나 가로 직캠 풀버전 한국전통문화대 축제 YENA FANCAM FULL ver. 260911",
+      "channel": "사악키",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15515",
+      "ytId": "ih8G1oiSyG8",
+      "eventId": "e902",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "최예나(YENA) - 캐치 캐치(Catch Catch) @한국전통문화대학교 축제 직캠 (260911)",
+      "channel": "MemoryDome 메모리돔",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15516",
+      "ytId": "PycbVYd5CMg",
+      "eventId": "e902",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k60p] \"캐치캐치\" 최예나 직캠 한국전통문화대학교 260911",
+      "channel": "ECwizone",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15517",
+      "ytId": "wosiqTtwFOI",
+      "eventId": "e903",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260916 최예나 YENA - Full Ver. 직캠 Fancam 4K 60P @전북대학교 공과대학 축제 by Prequel",
+      "channel": "Prequel",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15518",
+      "ytId": "0WPz7we1c2k",
+      "eventId": "e904",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260917 최예나(YENA) - SMILEY [부산 가톨릭대학교 오륜골 축제 靑浪] 직캠/Fancam] by koala LEE",
+      "channel": "koala LEE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15519",
+      "ytId": "wb1kbrMxd2E",
+      "eventId": "e904",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260917 최예나(YENA) - Catch Catch [부산 가톨릭대학교 오륜골 축제 靑浪] 직캠/Fancam] by koala LEE",
+      "channel": "koala LEE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15520",
+      "ytId": "SCTtgI3AQO8",
+      "eventId": "e905",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k60p] \"캐치캐치\" 예나 직캠 금오공대 260917 @real_sesanga_ssauza @YENA_OFFICIAL #yena #예나 ",
+      "channel": "ECwizone",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15521",
+      "ytId": "lKeOAMQVadU",
+      "eventId": "e906",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 260919 최예나(YENA) - ‘intro + 캐치캐치’ 예나 직캠 | 2026 TMA 더 팩트 뮤직 어워즈 in 부산",
+      "channel": "무슨 말이 필요해",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15522",
+      "ytId": "Yiee2u_W1gk",
+      "eventId": "e906",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260919 최예나 캐치 캐치 직캠 4K60p YENA fancam 더팩트뮤직어워즈 TMA",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15523",
+      "ytId": "qcYAkj5GaSw",
+      "eventId": "e906",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "【2026 TMA】YENA (최예나) 'Intro + Catch Catch (캐치 캐치)' 4K Fancam 직캠 | 더팩트 뮤직 어워즈 THE FACT 260919",
+      "channel": "K-PLANET",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15524",
+      "ytId": "4pZHJ_ffjeI",
+      "eventId": "e906",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "최예나(YENA) - 캐치 캐치(Catch Catch) [4K 직캠] I 260919 2026 𝗧𝗛𝗘 𝗙𝗔𝗖𝗧 𝗠𝗨𝗦𝗜𝗖 𝗔𝗪𝗔𝗥𝗗𝗦",
+      "channel": "지구미네 예나",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15525",
+      "ytId": "CU00kb38GjQ",
+      "eventId": "e907",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261001 최예나 YENA '캐치 캐치 Catch Catch' 4K 60P 직캠 @안양대 축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15526",
+      "ytId": "ueaxUG7Xs_g",
+      "eventId": "e907",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "최예나 (YENA) 'Catch Catch + 네모네모' 4K 직캠｜261001 안양대 축제",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15527",
+      "ytId": "AKJZu84eZQI",
+      "eventId": "e907",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261001 YENA(최예나) - '캐치 캐치' @ 안양대학교",
+      "channel": "챠니튜브",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15528",
+      "ytId": "qpj9iAs5LIU",
+      "eventId": "e907",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261001 최예나 캐치 캐치, 네모네모 직캠 4K60p 안양대학교 축제 YENA fancam",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15529",
+      "ytId": "Gfj1u7OlLzc",
+      "eventId": "e908",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "최예나(YENA) '캐치 캐치 + 네모네모' 직캠 | 동국대 축제 • 261001",
+      "channel": "비몽 BIMONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15530",
+      "ytId": "SHK2cTiFJZ8",
+      "eventId": "e908",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261001 최예나 동국대 축제 '캐치 캐치'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15531",
+      "ytId": "hbq4d1bRF1M",
+      "eventId": "e908",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "최예나 '캐치 캐치' | 261001 동국대학교 가을 대동제 DIRVANA",
+      "channel": "DUBS 동국대학교 교육방송국",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15532",
+      "ytId": "h3Ppr5g5uOg",
+      "eventId": "e909",
+      "songs": [
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261002 최예나 성균관대 축제 'WithOrWithOut'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15533",
+      "ytId": "cxAhNfm2v2w",
+      "eventId": "e909",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261002 최예나 성균관대 축제 '캐치 캐치'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15534",
+      "ytId": "OTuVGDon_0o",
+      "eventId": "e909",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "261002 최예나 성균관대 자연과학캠퍼스 축제 Full",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15535",
+      "ytId": "mc3yvtBvxFM",
+      "eventId": "e910",
+      "songs": [
+        {
+          "songId": "g9s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261004 입크페스티벌 - 최예나 : 보기 드문 여자 (Feat. NOWIMYOUNG)",
+      "channel": "MDR",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15536",
+      "ytId": "INSpcdA2TzY",
+      "eventId": "e910",
+      "songs": [
+        {
+          "songId": "g9s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261004 YENA(최예나) - Dime Girl(보기 드문 여자)｜(Feat. NOWIMYOUNG (나우아임영))| 입크페스티벌 DAY2",
+      "channel": "99x01CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15537",
+      "ytId": "koXKeN7GK8Y",
+      "eventId": "e910",
+      "songs": [
+        {
+          "songId": "g9s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "최예나(YENA) - 보기 드문 여자 (Dime Girl) (Feat. 나우아임영) [4K 직캠] I 261004 2026 입크페스티벌",
+      "channel": "지구미네 예나",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15538",
+      "ytId": "1q34zX9X2C4",
+      "eventId": "e910",
+      "songs": [
+        {
+          "songId": "g9s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261004 YENA (최예나) - 보기 드문 여자 (Feat. NOWIMYOUNG (나우아임영))｜2026 IBK기업은행 입크페스티벌 〈NEW WAVE〉 DAY2",
+      "channel": "슈삼",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15539",
+      "ytId": "RUhqAzqWisw",
+      "eventId": "e910",
+      "songs": [
+        {
+          "songId": "g9s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261004 최예나 입크페스티벌 '보기 드문 여자 (feat. NOWIMYOUNG)'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15540",
+      "ytId": "Mtz8FNIYXIs",
+      "eventId": "e910",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "261004 최예나 입크페스티벌 Full",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15541",
+      "ytId": "W6Wc3SnGpnU",
+      "eventId": "e910",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261004 최예나 입크페스티벌 '캐치 캐치'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15542",
+      "ytId": "SlrNjJD1IaY",
+      "eventId": "e910",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "26.10.04 #최예나 2026입크페스티벌 Full ver.",
+      "channel": "긍비12",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15543",
+      "ytId": "Kxysju9E24M",
+      "eventId": "e911",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "최예나 (YENA) '캐치 캐치 Catch Catch' 직캠｜261006 삼육대 축제",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15544",
+      "ytId": "W4i9TTYM5DM",
+      "eventId": "e911",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "예나 - Full ver [4k직캠] @삼육대축제 261006",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15545",
+      "ytId": "xc0E1hcDhhk",
+      "eventId": "e911",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "최예나 YENA #삼육대학교 #직캠 #FANCAM 261006",
+      "channel": "David Park",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15546",
+      "ytId": "C47rVlYNLHw",
+      "eventId": "e911",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "최예나(YENA) - 네모네모 [4K 직캠] I 261006 삼육대학교 축제",
+      "channel": "지구미네 예나",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15547",
+      "ytId": "ydHfGzV4xHU",
+      "eventId": "e911",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "최예나(YENA) - 스마일리(SMILEY) [4K 직캠] I 261006 삼육대학교 축제",
+      "channel": "지구미네 예나",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15548",
+      "ytId": "o6lS3-G4Xao",
+      "eventId": "e911",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "최예나(YENA) - 캐치캐치(CATCHCATCH) [4K 직캠] I 261006 삼육대학교 축제",
+      "channel": "지구미네 예나",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15549",
+      "ytId": "oD5L88dUt0A",
+      "eventId": "e911",
+      "songs": [
+        {
+          "songId": "g9s3",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "최예나 ( YENA ) [ Love War | SMILEY | WithOrWithOut ] 삼육대 261006",
+      "channel": "KUROKAMA",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15550",
+      "ytId": "Yv1LYRFYDKs",
+      "eventId": "e912",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "261007 최예나 공주대 예산캠퍼스 축제 Full",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15551",
+      "ytId": "_0LhNZKkFbo",
+      "eventId": "e912",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261007 최예나 공주대 축제 '캐치 캐치'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15552",
+      "ytId": "KSNBWJvXozA",
+      "eventId": "e913",
+      "songs": [
+        {
+          "songId": "g9s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "YENA (최예나) - 보기 드문 여자 (Feat. NOWIMYOUNG (나우아임영)) [더 시즌즈-성시경의 고막남친] | KBS 261016 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15553",
+      "ytId": "QrsV3sG-xaU",
+      "eventId": "e913",
+      "songs": [
+        {
+          "songId": "g9s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "세로"
+      ],
+      "title": "[세로] YENA (최예나) - 보기 드문 여자 (Feat. NOWIMYOUNG (나우아임영)) [더 시즌즈-성시경의 고막남친] | KBS 261016 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15554",
+      "ytId": "bL9oYyqEXaU",
+      "eventId": "e913",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "YENA (최예나) - 캐치 캐치 (Band VER.) [더 시즌즈-성시경의 고막남친] | KBS 261016 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15555",
+      "ytId": "n7f9UDemvF0",
+      "eventId": "e913",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "세로"
+      ],
+      "title": "[세로] YENA (최예나) - 캐치 캐치 (Band VER.) [더 시즌즈-성시경의 고막남친] | KBS 261016 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15556",
+      "ytId": "2M5RTLZ7t-8",
+      "eventId": "e913",
+      "songs": [
+        {
+          "songId": "g9s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[가로] YENA (최예나) - 보기 드문 여자 (Feat. NOWIMYOUNG (나우아임영)) [더 시즌즈-성시경의 고막남친] | KBS 261016 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15557",
+      "ytId": "UQNrH5SPiLU",
+      "eventId": "e914",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s12",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "예나 #YENA @261021 건양대 풀캠 ♬ 캐치캐치 ♬ 네모네모 ♬ 그건 사랑이었다고 ♬ SMILEY ♬ WithOrWithOut",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15558",
+      "ytId": "m2hbUYikpL0",
+      "eventId": "e914",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261021 최예나 - 캐치캐치 건양대축제",
+      "channel": "휴지필름",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15559",
+      "ytId": "rXbf606UZ4Y",
+      "eventId": "e914",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261021 최예나 - 네모네모 건양대축제",
+      "channel": "휴지필름",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15560",
+      "ytId": "QcQaoeLLH48",
+      "eventId": "e915",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s12",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "261022 최예나(YENA) 마산대학교 축제(청우대동제) 라이브 직캠 풀영상(캐치캐치,네모네모,그건사랑이었다고,스마일리,WithOrWithOut)",
+      "channel": "고점이낮다",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15561",
+      "ytId": "6wBxeh1LQYk",
+      "eventId": "e915",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261022 최예나 (YENA) - 캐치캐치 (Catch Catch) @ 마산대학교 청우대동제 #최예나 #예나 #캐치캐치 #catchcatch ",
+      "channel": "햄찌다람쥐",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15562",
+      "ytId": "oL5f9G_em-o",
+      "eventId": "e915",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261022 최예나 (YENA) - NEMONEMO (네모네모) @ 마산대학교 청우대동제 #최예나 #예나 #네모네모  #NEMONEMO #마산대학교",
+      "channel": "햄찌다람쥐",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15563",
+      "ytId": "uY3KbjK77hQ",
+      "eventId": "e915",
+      "songs": [
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261022 최예나 (YENA) - withOrWithOut @ 마산대학교 청우대동제 #최예나 #예나 #캐치캐치 #withOrWithOut ",
+      "channel": "햄찌다람쥐",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15564",
+      "ytId": "MJKjliyj1No",
+      "eventId": "e915",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[7K] 261022 마산대학교 청우대동제 예나 직캠",
+      "channel": "3호선",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15565",
+      "ytId": "So4WsumhUkc",
+      "eventId": "e916",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "세로"
+      ],
+      "title": "예나 세로 직캠 풀버전 신구대 축제 YENA FANCAM FULL ver. 261023",
+      "channel": "사악키",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15566",
+      "ytId": "NDVJxk3-K6M",
+      "eventId": "e916",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261023 최예나 신구대 축제 '캐치 캐치'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15567",
+      "ytId": "d6tcSpHCCn0",
+      "eventId": "e916",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "261023 최예나 신구대 축제 Full",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15568",
+      "ytId": "f7SynS8sZ0w",
+      "eventId": "e916",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20261023 최예나(YENA) \"SMILEY+WithOrWithOut\" @ 신구대학교 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15569",
+      "ytId": "NrfXLBY5x1Y",
+      "eventId": "e916",
+      "songs": [
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261023 YENA(최예나) - 'WithOrWithOut' 신구대학교 축제",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15570",
+      "ytId": "8bsAhobND7Q",
+      "eventId": "e916",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "60fps)2026 신구대학교 축제 남한산 백마대동제 - 최예나 YENA 풀영상(2026.10.23)",
+      "channel": "BUMD의 아이돌 직관스토리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15571",
+      "ytId": "8N2lDdzYERc",
+      "eventId": "e916",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s12",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "최예나 ( YENA ) [ Catch Catch | NEMONEMO | It was love | SMILEY | WithOrWithOut ] 신구대 261023",
+      "channel": "KUROKAMA",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15572",
+      "ytId": "ZJjNW7Ev1Qg",
+      "eventId": "e917",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261024 최예나 안동 런앤뮤직 페스티벌 '네모네모'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15573",
+      "ytId": "1r9IAoFyA-A",
+      "eventId": "e917",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261024 최예나 안동 런앤뮤직 페스티벌 '캐치 캐치'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15574",
+      "ytId": "qX4g-HUa62U",
+      "eventId": "e917",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261024 최예나 안동 런앤뮤직 페스티벌 '캐치 캐치'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15575",
+      "ytId": "JYlAi3s8TXI",
+      "eventId": "e917",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261024 최예나 안동 런앤뮤직 페스티벌 'SMILEY'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15576",
+      "ytId": "0ePcY0W0jxk",
+      "eventId": "e918",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "예나 - Full ver [4k직캠] @서울신학대축제 261027",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15577",
+      "ytId": "oTmfaCnrnxs",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "YENA (최예나) '캐치 캐치 + 네모네모' 직캠 @ 서울신학대 축제 | 261027 | 4K60p",
+      "channel": "smile -wA-",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15578",
+      "ytId": "wK2XZ0BHzi4",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "예나 - 캐치캐치 [4k직캠] @서울신학대축제 261027",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15579",
+      "ytId": "tFegwMf8hLM",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261027 최예나 서울신학대 축제 '캐치 캐치'",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15580",
+      "ytId": "O_lSfZuy4VI",
+      "eventId": "e918",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "261027 최예나 서울신학대 축제 Full",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15581",
+      "ytId": "wKLPqAuqnSA",
+      "eventId": "e918",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "261027 YENA 최예나 직캠 서울신학대 축제 “FULL ver” #최예나 #예나 #YENA #캐치캐치 #CatchCatch #네모네모 #스마일리",
+      "channel": "UNZENAMAY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15582",
+      "ytId": "xZo15atPo5M",
+      "eventId": "e918",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] YENA 최예나 서울신학대학교 축제 직캠 Full 261027",
+      "channel": "FANTUBE ARCHIVE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15583",
+      "ytId": "aWEOAP2qWIc",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261027 YENA(최예나) - '네모네모' 서울신학대학교 축제",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15584",
+      "ytId": "uTdHo8R4nHY",
+      "eventId": "e918",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "YENA | 서울신학대 축제 #최예나 #FANCAM #261027",
+      "channel": "MD's clip",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15585",
+      "ytId": "Pxf6ESMlGb0",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[YENA(최예나)] 261027 서울신학대학교 축제: 네모네모 FANCAM 직캠",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15586",
+      "ytId": "-FGIvoKgEoo",
+      "eventId": "e918",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261027 최예나 YENA 풀버전 4K 60P 직캠 @서울신학대 축제 한울제 斐行 by 나의달 NAEDAL",
+      "channel": "나의달 NAEDAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15587",
+      "ytId": "5MuQknr3IMQ",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "최예나(YENA) - 캐치캐치(CATCHCATCH) [4K 직캠] I 261027 서울신학대학교 축제",
+      "channel": "지구미네 예나",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15588",
+      "ytId": "KHkZedTh9H4",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "최예나(YENA) - 네모네모(NEMONEMO) [4K 직캠] I 261027 서울신학대학교 축제",
+      "channel": "지구미네 예나",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15589",
+      "ytId": "1Dkl0A_ZTRU",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[YENA(최예나)] 261027 서울신학대학교 축제: SMILEY FANCAM 직캠",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15590",
+      "ytId": "MPq3uz05ytI",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s3",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "최예나 (YENA) 'Catch Catch+NEMONEMO+Love War+SMILEY+WithOrWithOut Full Ver.' (261027) @서울신학대 축제",
+      "channel": "천둥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15591",
+      "ytId": "sb18XmPM7OE",
+      "eventId": "e918",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "최예나 - 서울신학대학교 축제 직캠 YENA Fancam 261027",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15592",
+      "ytId": "Uc-C8oS15Jw",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[YENA(최예나)] 261027 서울신학대학교 축제: Love War FANCAM 직캠",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15593",
+      "ytId": "-7vUmzobRTg",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[YENA(최예나)] 261027 서울신학대학교 축제: WithOrWithOut FANCAM 직캠",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15594",
+      "ytId": "D-l_WvobwZU",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261027 최예나 직캠 'SMILEY' YENA Fancam @서울신학대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15595",
+      "ytId": "K1mIjCvv8YA",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261027 최예나 직캠 'WithOrWithOut' YENA Fancam @서울신학대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15596",
+      "ytId": "QN5f_N4Kd-c",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261027 최예나 직캠 '캐치 캐치(Catch Catch)' YENA Fancam @서울신학대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15597",
+      "ytId": "XMSzAyL3YeU",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261027 서울신학대학교 축제 YENA(최예나) 캐치 캐치 + 네모네모 4k 60p 직캠 by ace",
+      "channel": "D ace",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15598",
+      "ytId": "nYkEHLbGhCw",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261027 최예나 직캠 'Love War' YENA Fancam @서울신학대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15599",
+      "ytId": "oE_mf1WaK5Y",
+      "eventId": "e918",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "261027 YENA(최예나) 풀캠 Fullcam @서울신학대학교",
+      "channel": "곰곰s",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15600",
+      "ytId": "-ga4AySf3Sw",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261027 최예나 직캠 '네모네모' YENA Fancam @서울신학대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15601",
+      "ytId": "OCYA5pkD8VU",
+      "eventId": "e919",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261028 신라대학교 대동제 예나 직캠",
+      "channel": "3호선",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15602",
+      "ytId": "CiZHf9ioUhM",
+      "eventId": "e919",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s3",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "261028 최예나(YENA)신라대학교 축제(대동제) 라이브 직캠 풀영상(캐치캐치,네모네모,Love War,SMILEY,WithOrWithOut)",
+      "channel": "영붐",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15603",
+      "ytId": "FE8ky6kHeTk",
+      "eventId": "e919",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261028 YENA 최예나 신라대 축제",
+      "channel": "조율희지",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15604",
+      "ytId": "bYXkO_xlnhI",
+      "eventId": "e919",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261028 YENA(최예나) - 캐치캐치(Catch Catch)  신라대학교 대동제 축제 폰캠",
+      "channel": "라라라",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15605",
+      "ytId": "rY54BaCdqkY",
+      "eventId": "e919",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261028 YENA(최예나) - 스마일리(Smiley)  신라대학교 대동제 축제 폰캠",
+      "channel": "라라라",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15606",
+      "ytId": "0zKlzzx8JyI",
+      "eventId": "e919",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261028 YENA(최예나) - 네모네모 신라대학교 대동제 축제 폰캠",
+      "channel": "라라라",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15607",
+      "ytId": "BxgIgOQ-Z-8",
+      "eventId": "e919",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261028 YENA '캐치캐치' (YENA FAN CAM) l 신라대학교축제",
+      "channel": "PEACH CAM",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
