@@ -13622,6 +13622,166 @@
         "g2s15"
       ],
       "note": ""
+    },
+    {
+      "id": "e859",
+      "groupId": "g6",
+      "date": "2026-10-24",
+      "show": "2026 tripleS World Tour 마카오",
+      "label": "",
+      "setlist": [
+        "g6s34",
+        "g6s5",
+        "g6s57",
+        "g6s9",
+        "g6s63",
+        "g6s28",
+        "g6s59",
+        "g6s47",
+        "g6s61",
+        "g6s62",
+        "g6s2",
+        "g6s64",
+        "g6s65",
+        "g6s26",
+        "g6s66",
+        "g6s29",
+        "g6s36",
+        "g6s20",
+        "g6s48",
+        "g6s60"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e860",
+      "groupId": "g4",
+      "date": "2026-10-28",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g4s9",
+        "g4s15"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e861",
+      "groupId": "g1",
+      "date": "2026-10-29",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g1s14",
+        "g1s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e862",
+      "groupId": "g2",
+      "date": "2026-10-29",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g2s13",
+        "g2s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e863",
+      "groupId": "g3",
+      "date": "2026-10-29",
+      "show": "연세대 축제",
+      "label": "",
+      "setlist": [
+        "g3s6",
+        "g3s8",
+        "g3s1",
+        "g3s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e864",
+      "groupId": "g4",
+      "date": "2026-10-29",
+      "show": "연세대 축제",
+      "label": "",
+      "setlist": [
+        "g4s9",
+        "g4s5",
+        "g4s15",
+        "g4s4"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e865",
+      "groupId": "g1",
+      "date": "2026-10-30",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g1s16"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e866",
+      "groupId": "g2",
+      "date": "2026-10-30",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g2s15"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e867",
+      "groupId": "g2",
+      "date": "2026-10-31",
+      "show": "팬미팅",
+      "label": "",
+      "setlist": [],
+      "note": ""
+    },
+    {
+      "id": "e868",
+      "groupId": "g6",
+      "date": "2026-10-31",
+      "show": "2026 tripleS World Tour 도쿄",
+      "label": "",
+      "setlist": [
+        "g6s57",
+        "g6s20",
+        "g6s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e869",
+      "groupId": "g1",
+      "date": "2026-11-01",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g1s16"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e870",
+      "groupId": "g6",
+      "date": "2026-11-01",
+      "show": "tripleS neptune Objekt Trading Event",
+      "label": "",
+      "setlist": [
+        "g6s56"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -273317,6 +273477,5094 @@
       "tags": [],
       "title": "아이브 이서 직캠 'Looks Can Kill' (IVE LEESEO FanCam) @MusicCore 261031",
       "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15150",
+      "ytId": "1YMBCwZZCr8",
+      "eventId": "e744",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "프로미스나인, Supersonic | 광복 80년 전야제 '우리는 빛이다'",
+      "channel": "THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15151",
+      "ytId": "DSIZZ98qDaw",
+      "eventId": "e555",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Fromis_9 Now Tomorrow Tour Full Concert in Washington DC",
+      "channel": "Castle Media",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15152",
+      "ytId": "oewtFyTkwb0",
+      "eventId": "e621",
+      "songs": [
+        {
+          "songId": "g1s29",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 2501031  IVE LIZ(아이브 리즈) - unreal Fancam | Show What I AM Day 1",
+      "channel": "liz_anieyo",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15153",
+      "ytId": "-KBRf_M69To",
+      "eventId": "e658",
+      "songs": [
+        {
+          "songId": "g2s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX(엔믹스) - INTRO + Blue Valentine (Christmas Ver.) @SBS GayoDaejeon",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15154",
+      "ytId": "0-tl4VqvrDs",
+      "eventId": "e658",
+      "songs": [
+        {
+          "songId": "g2s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 엔믹스 설윤 'INTRO + Blue Valentine (Christmas Ver.)' (NMIXX SULLYOON FanCam) @SBS",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15155",
+      "ytId": "q5xlY7Ge-Io",
+      "eventId": "e658",
+      "songs": [
+        {
+          "songId": "g2s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 엔믹스 배이 'INTRO + Blue Valentine (Christmas Ver.)' (NMIXX BAE FanCam) @SBS GayoDaejeon",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15156",
+      "ytId": "wg-ZD4IdOzc",
+      "eventId": "e659",
+      "songs": [
+        {
+          "songId": "g4s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Hearts2Hearts(하츠투하츠) - FOCUS X Dirty Work (Mash Up Ver.) @SBS GayoDaejeon",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15157",
+      "ytId": "q2bhIxhILLM",
+      "eventId": "e659",
+      "songs": [
+        {
+          "songId": "g4s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 하츠투하츠 스텔라 'FOCUS X Dirty Work (Mash Up Ver.)' (Hearts2Hearts STELLA FanCam)",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15158",
+      "ytId": "sShQtVRfqkI",
+      "eventId": "e1",
+      "songs": [
+        {
+          "songId": "g1s36",
+          "t": 0
+        },
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[제40회 골든디스크] IVE (아이브) - 'Intro + 삐빅 (♥beats) + REBEL HEART' ♪",
+      "channel": "Golden Disc",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15159",
+      "ytId": "fj9VZmhItx0",
+      "eventId": "e782",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY Full Performance @ KSPARKMY2026",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15160",
+      "ytId": "crE0r3IQoE8",
+      "eventId": "e782",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY Live Performance at K-Spark in Malaysia 2026",
+      "channel": "Kyrel Rosli",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15161",
+      "ytId": "RpePaAgytP8",
+      "eventId": "e83",
+      "songs": [
+        {
+          "songId": "g3s7",
+          "t": 0
+        },
+        {
+          "songId": "g3s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4k] 프로미스나인 채영 세로직캠.ver 하얀그리움+DM 앙콘 3일차 막콘",
+      "channel": "아싸힘이나용",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15162",
+      "ytId": "RFB5XFsYkrs",
+      "eventId": "e784",
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] Imaginary Friend - RYUJIN FANCAM ITZY 3RD WORLD TOUR in Seoul D-2",
+      "channel": "berjast",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15163",
+      "ytId": "LXRrGlKDrt0",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s37",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY -8-BIT HEART- 3rd World Tour Seoul 2026 Day 3",
+      "channel": "jessica elisa katarina hudson ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15164",
+      "ytId": "gOCXSNIsKYQ",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s19",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY -DYT- 3rd World Tour Seoul 2026 Day 3",
+      "channel": "jessica elisa katarina hudson ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15165",
+      "ytId": "JDS7RvRjnTw",
+      "eventId": "e785",
+      "songs": [
+        {
+          "songId": "g7s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Yuna (ITZY) -Tangerine- 3rd World Tour Seoul 2026 Day 3",
+      "channel": "jessica elisa katarina hudson ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15166",
+      "ytId": "Q1PclRarjWc",
+      "eventId": "e786",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY Full Performance @ 2026 K-WONDER CONCERT in TAIPEI",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15167",
+      "ytId": "E11ta4LIHwA",
+      "eventId": "e786",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY FULL PERFORMANCE | 2026 K-WONDER CONCERT IN TAIPEI",
+      "channel": "Jun",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15168",
+      "ytId": "tHKJ3JHIGFc",
+      "eventId": "e792",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"THAT'S A NO NO\" (CONCERT CAM VER.) @ 'TUNNEL VISION' in SYDNEY",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15169",
+      "ytId": "xNmzNA2ezkg",
+      "eventId": "e792",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"THAT'S A NO NO\" (FULL CAM VER.) @ 'TUNNEL VISION' in SYDNEY",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15170",
+      "ytId": "1m67ssYnOU4",
+      "eventId": "e794",
+      "songs": [
+        {
+          "songId": "g7s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"ROCK & ROLL\" (CONCERT CAM VER.) @ 'TUNNEL VISION' in TOKYO",
+      "channel": "ITZY 및 ITZY JAPAN OFFICIAL YouTube Channel",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15171",
+      "ytId": "OlMaBabHYaE",
+      "eventId": "e157",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "CARMEN Hearts2Hearts Tampil Memukau Membawakan \"RUDE!\" di Festival Universitas Hanyang ",
+      "channel": "Carmen Heart2heart",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15172",
+      "ytId": "p7YsT1itakQ",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"THAT'S A NO NO\" (FIX CAM VER.) @ 'TUNNEL VISION' in HONGKONG",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15173",
+      "ytId": "t5QGJudkjCM",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"Motto\" (CONCERT CAM VER.) @ 'TUNNEL VISION' in HONGKONG",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15174",
+      "ytId": "DU2XSgj55Bs",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"Motto\" (FIX CAM VER.) @ 'TUNNEL VISION' in HONGKONG",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15175",
+      "ytId": "4ktalfCBb-A",
+      "eventId": "e810",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"THAT'S A NO NO\" (CONCERT CAM VER.) @ 'TUNNEL VISION' in HONGKONG",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15176",
+      "ytId": "nUdsCwqTS_g",
+      "eventId": "e831",
+      "songs": [
+        {
+          "songId": "g8s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "BABYMONSTER ‘We Go up’ Seoul DAY3",
+      "channel": "Ruru",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15177",
+      "ytId": "t7gSZhJVURc",
+      "eventId": "e772",
+      "songs": [
+        {
+          "songId": "g7s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"Walk\" (CONCERT CAM VER.) @ 'TUNNEL VISION' in BANGKOK",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15178",
+      "ytId": "7pRWDv3IX-c",
+      "eventId": "e772",
+      "songs": [
+        {
+          "songId": "g7s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"Walk\" (FULL CAM VER.) @ 'TUNNEL VISION' in BANGKOK",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15179",
+      "ytId": "u7vS7T7YBPI",
+      "eventId": "e772",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"THAT'S A NO NO\" (CONCERT CAM VER.) @ 'TUNNEL VISION' in BANGKOK",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15180",
+      "ytId": "Y52QqrbHsrE",
+      "eventId": "e773",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"Kiss & Tell\" (FULL CAM VER.) @ 'TUNNEL VISION' in MANILA",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15181",
+      "ytId": "mxIBunCTgrQ",
+      "eventId": "e773",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"Kiss & Tell\" (CONCERT CAM VER.) @ 'TUNNEL VISION' in MANILA",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15182",
+      "ytId": "Kjniyb9ONDM",
+      "eventId": "e773",
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY   Imaginary Friend   Tunnel Vision Manila July 2026 fullcam",
+      "channel": "Castle Media",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15183",
+      "ytId": "R3SJj5IqH3w",
+      "eventId": "e773",
+      "songs": [
+        {
+          "songId": "g7s21",
+          "t": 0
+        },
+        {
+          "songId": "g7s16",
+          "t": 0
+        },
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY - Walk/Kiss & Tell/Wannabe 07112026 @ITZY 3rd World Tour Tunnel Vision in Manila #itzy #jyp ",
+      "channel": "Zurenski",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15184",
+      "ytId": "wvsrulsymcU",
+      "eventId": "e835",
+      "songs": [
+        {
+          "songId": "g8s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[FaceCam 4K] BABYMONSTER AHYEON 'I LIKE IT' (BABYMONSTER AHYEON FaceCam) @SBS Inkigayo 07/26/12",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15185",
+      "ytId": "-XDvgNjviwg",
+      "eventId": "e174",
+      "songs": [
+        {
+          "songId": "g4s10",
+          "t": 0
+        },
+        {
+          "songId": "g4s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Hearts2Hearts(하츠투하츠) - INTRO + Lemon Tang + 15-LOVE @SBS GayoDaejeon Summer",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15186",
+      "ytId": "KpvBdLiu8ec",
+      "eventId": "e174",
+      "songs": [
+        {
+          "songId": "g4s10",
+          "t": 0
+        },
+        {
+          "songId": "g4s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m8"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2026 가요대전 썸머 4K] 하츠투하츠 예온 'INTRO + Lemon Tang + 15-LOVE' (Hearts2Hearts YE-ON FanCam) @SBS",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15187",
+      "ytId": "LjHshitavTM",
+      "eventId": "e771",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] LIA - motto | 26809 ITZY fanmeeting 팬미팅 직캠",
+      "channel": "달팽이",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15188",
+      "ytId": "rvHGOVAqeoA",
+      "eventId": "e775",
+      "songs": [
+        {
+          "songId": "g7s19",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"DYT\" (FIX CAM VER.) @ 'TUNNEL VISION' in TAIPEI",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15189",
+      "ytId": "Sy3b4BeLJ_Q",
+      "eventId": "e775",
+      "songs": [
+        {
+          "songId": "g7s19",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"DYT\" (CONCERT CAM VER.) @ 'TUNNEL VISION' in TAIPEI",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15190",
+      "ytId": "aYaPRmKlf3o",
+      "eventId": "e775",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "〔FHD〕ITZY 3RD WORLD TOUR TUNNEL VISION in TAIPEI",
+      "channel": "應援直拍日誌Stage fancam diary",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15191",
+      "ytId": "6ygr5OHvdyU",
+      "eventId": "e843",
+      "songs": [
+        {
+          "songId": "g8s10",
+          "t": 0
+        },
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "CHIQUITA 4K Fancam 🔥 “WE GO UP” + “CHOOM” | BABYMONSTER CHOOM Manila 2026",
+      "channel": "A.B. Moments",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15192",
+      "ytId": "Vj780JYMP7w",
+      "eventId": "e776",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY London 2026 (4K60) Full Concert - [Tunnel Vision] Third World Tour",
+      "channel": "Ronald Sanchez",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15193",
+      "ytId": "eWryUE15n8w",
+      "eventId": "e845",
+      "songs": [
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Babymonster '  choom '  at Macau 2026 day 2",
+      "channel": "lu2175",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15194",
+      "ytId": "OPlR3099_B8",
+      "eventId": "e845",
+      "songs": [
+        {
+          "songId": "g8s10",
+          "t": 0
+        },
+        {
+          "songId": "g8s4",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "2026-27 BABYMONSTER WORLD TOUR (CHOOM) Day 2 Macao - Opening｜WE GO UP｜CHOOM",
+      "channel": "卡MEOW",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15195",
+      "ytId": "JBIOQllx27g",
+      "eventId": "e454",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa - WDA (Whole Different Animal) (feat. G-DRAGON) | SYNK: COMPLæXITY Tour | Hamilton |",
+      "channel": "alex",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15196",
+      "ytId": "7siWADIHC7c",
+      "eventId": "e122",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "프로미스나인 (fromis_9) 가천대 공연 풀영상 20160916",
+      "channel": "아티스트 도우미",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15197",
+      "ytId": "Tcv8Lk_xVnA",
+      "eventId": "e778",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY - WANNABE (Live from Tunnel Vision World Tour 2026, Frankfurt, Germany)",
+      "channel": "The Sedighis Concerts",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15198",
+      "ytId": "LKq7KxTiXkU",
+      "eventId": "e778",
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY - Imaginary Friend (Live from Tunnel Vision World Tour 2026, Frankfurt, Germany)",
+      "channel": "The Sedighis Concerts",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15199",
+      "ytId": "FOTKmi9eFPE",
+      "eventId": "e778",
+      "songs": [
+        {
+          "songId": "g7s17",
+          "t": 0
+        },
+        {
+          "songId": "g7s11",
+          "t": 0
+        },
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY 3rd World Tour Tunnel Vision Frankfurt Wild Wild West + Mafia + That’s a no no",
+      "channel": "분토리 buntori",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15200",
+      "ytId": "12jdUuOQhWE",
+      "eventId": "e455",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Whiplash aespa SYNK COMPLaeXITY 2026 Live Tour Concert Elmont NY Sept 18 UBS Arena",
+      "channel": "UnboxWhatever",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15201",
+      "ytId": "0Sn0aKVXerc",
+      "eventId": "e455",
+      "songs": [
+        {
+          "songId": "g5s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Black Mamba aespa SYNK COMPLaeXITY 2026 Live Tour Concert Elmont NY Sept 18 UBS Arena",
+      "channel": "UnboxWhatever",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15202",
+      "ytId": "ipGisHDpe0A",
+      "eventId": "e455",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "AESPA SYNK : COMPLAEXITY WOULD TOUR. UBS ARENA ELMONT NY. (PART 1) 20261809",
+      "channel": "leon ez",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15203",
+      "ytId": "_DwfxlJ3sTM",
+      "eventId": "e456",
+      "songs": [
+        {
+          "songId": "g5s41",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa 에스파   Kiss n tell   SYNK COMPLAEXITY Tour DC fullcam",
+      "channel": "Castle Media",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15204",
+      "ytId": "KZ9H839GhCY",
+      "eventId": "e456",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Aespa Complaexity Concert DC 2026",
+      "channel": "TommyFeb17",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15205",
+      "ytId": "Vr3VWJp6JGg",
+      "eventId": "e779",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY(있지) Full Performance @ KRAZY Music Festival Taipei",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15206",
+      "ytId": "8ZIYYL417Dg",
+      "eventId": "e459",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa LIVE in Dallas 2026: The SYNK : COMPLaeXITY Experience (Full Concert)",
+      "channel": "K-PopHead",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15207",
+      "ytId": "bidOZT5N96k",
+      "eventId": "e459",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "aespa - Whiplash LIVE | Dallas 2026 FRONT ROW | SYNK: COMPLæXITY | 4K 60FPS",
+      "channel": "Momo's Kpop Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15208",
+      "ytId": "kJB_PHIpMCg",
+      "eventId": "e459",
+      "songs": [
+        {
+          "songId": "g5s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "aespa - Black Mamba LIVE | Dallas 2026 FRONT ROW | SYNK: COMPLæXITY | 4K 60FPS",
+      "channel": "Momo's Kpop Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15209",
+      "ytId": "lDgRzwHjHfE",
+      "eventId": "e460",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261003 8K aespa (에스파) SYNK: COMPLEXITY Next Level in LA",
+      "channel": "KSPAK",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15210",
+      "ytId": "_Zb4TahIFDk",
+      "eventId": "e780",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[03102026] ITZY 3RD WORLD TOUR [TUNNEL VISION] in SINGAPORE FAN CAM",
+      "channel": "Cass기민",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15211",
+      "ytId": "Bc5cCowro7Q",
+      "eventId": "e461",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "20261006 - aespa complaexity tour oakland - armageddon",
+      "channel": "waver123",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15212",
+      "ytId": "TjGUiARfFcY",
+      "eventId": "e461",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "20261006   aespa complaexity tour oakland   supernova",
+      "channel": "waver123",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15213",
+      "ytId": "qekDz5fLNLo",
+      "eventId": "e461",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "20261006 - aespa complaexity tour oakland - lemonade",
+      "channel": "waver123",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15214",
+      "ytId": "f-OrE7i4Y-8",
+      "eventId": "e461",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261006 AESPA @Oakland Arena 4K Fancam | NEXT LEVEL",
+      "channel": "Chamiel",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15215",
+      "ytId": "SLM15MIFXRI",
+      "eventId": "e461",
+      "songs": [
+        {
+          "songId": "g5s24",
+          "t": 0
+        },
+        {
+          "songId": "g5s35",
+          "t": 0
+        },
+        {
+          "songId": "g5s25",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261006 aespa(에스파) 'Count On Me + Camouflage + Angel #48' | SYNK : COMPLæXITY in OAKLAND",
+      "channel": "nvr4GGet93o39🌸",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15216",
+      "ytId": "d1_EdJP809o",
+      "eventId": "e462",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261009 AESPA SEATTLE CONCERT - WHIPLASH",
+      "channel": "sunwillneverset",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15217",
+      "ytId": "3sg_C0SCuBc",
+      "eventId": "e462",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261009 AESPA SEATTLE CONCERT - LEMONADE",
+      "channel": "sunwillneverset",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15218",
+      "ytId": "T4WifdlDtSM",
+      "eventId": "e462",
+      "songs": [
+        {
+          "songId": "g5s36",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261009 AESPA SEATTLE CONCERT - BITE",
+      "channel": "sunwillneverset",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15219",
+      "ytId": "5WZsDXxGowg",
+      "eventId": "e462",
+      "songs": [
+        {
+          "songId": "g5s37",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261009 AESPA SEATTLE CONCERT - SWITCHBLADE",
+      "channel": "sunwillneverset",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15220",
+      "ytId": "qxK2IIofmIY",
+      "eventId": "e462",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261009 AESPA SEATTLE CONCERT - NEXT LEVEL",
+      "channel": "sunwillneverset",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15221",
+      "ytId": "zhTaRheEoFA",
+      "eventId": "e462",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa 에스파 SYNK : COMPLAEXITY World Tour in Seattle 261009 직캠 (1/6)",
+      "channel": "quietly night",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15222",
+      "ytId": "oBPJ-7VujmY",
+      "eventId": "e462",
+      "songs": [
+        {
+          "songId": "g5s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261009 에스파 aespa - Serenade (4k fancam)",
+      "channel": "Stardust Nebulae",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15223",
+      "ytId": "JWTT6B2jWmk",
+      "eventId": "e462",
+      "songs": [
+        {
+          "songId": "g5s34",
+          "t": 0
+        },
+        {
+          "songId": "g5s41",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261009 에스파 aespa - ment, Can't Help Myself & KISS N TELL (4k fancam)",
+      "channel": "Stardust Nebulae",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15224",
+      "ytId": "N08Qu5jzG2M",
+      "eventId": "e462",
+      "songs": [
+        {
+          "songId": "g5s55",
+          "t": 0
+        },
+        {
+          "songId": "g5s40",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261009 에스파 aespa - Encore: YEPPI YEPPI, ment & 'Til We Die (4k fancam)",
+      "channel": "Stardust Nebulae",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15225",
+      "ytId": "hZ__sPa-3yQ",
+      "eventId": "e462",
+      "songs": [
+        {
+          "songId": "g5s24",
+          "t": 0
+        },
+        {
+          "songId": "g5s35",
+          "t": 0
+        },
+        {
+          "songId": "g5s25",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261009 에스파 aespa - Count On Me, Camouflage & Angel #48 (4k fancam)",
+      "channel": "Stardust Nebulae",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15226",
+      "ytId": "xLb7YUUDVgw",
+      "eventId": "e510",
+      "songs": [
+        {
+          "songId": "g6s19",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[ANDLESS in Seoul] tripleS (트리플에스) Visionary Vision - Hit The Floor (Remix/OT24 ver.) [DAY 1]",
+      "channel": "펭민초빵",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15227",
+      "ytId": "pfUQ_YmkVpE",
+      "eventId": "e463",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - LEMONADE - SYNK : COMPLæXITY - Vancouver, BC - Rogers Arena (261011)",
+      "channel": "Mystic's K-Pop Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15228",
+      "ytId": "v4KjifiKaOk",
+      "eventId": "e463",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa - SYNK : COMPLæXITY @Vancouver_2026.10.11",
+      "channel": "Mango Melona",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15229",
+      "ytId": "CSGHRCx-awY",
+      "eventId": "e463",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Aespa Concert - Vancouver, Canada - 2026-10-11",
+      "channel": "Tong Zou",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15230",
+      "ytId": "RjvpQd4nXUE",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s59",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "트리플에스 콘서트 '누난 너무 예뻐 (Replay)' / 2026 tripleS World Tour [ANDLESS] in Seoul Day2",
+      "channel": "ZCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15231",
+      "ytId": "s3HB3mT8HFk",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "트리플에스 콘서트 오프닝 'Baby Flower' / 2026 tripleS World Tour [ANDLESS] in Seoul Day2",
+      "channel": "ZCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15232",
+      "ytId": "vjkFRDWE8vw",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s60",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS LOVElution 「복합성 (Complexity)」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day2",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15233",
+      "ytId": "tZAP_b_lLLA",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS LOVElution 「Girls' Capitalism」 가로 직캠 | 2026 tripleS World Tour [ANDLESS] in Seoul Day2",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15234",
+      "ytId": "9F80FztfMWo",
+      "eventId": "e511",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "2026 tripleS World Tour ⟨ANDLESS⟩ in Seoul Day 2",
+      "channel": "Brandon Ruiz",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15235",
+      "ytId": "bbnG5BTpmCI",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] tripleS zenith 이지우(Lee JiWoo) 「누난 너무 예뻐 (원곡:SHINee)」 세로 직캠 | 2026 World Tour [ANDLESS] Day2",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15236",
+      "ytId": "f_dC0NyUohA",
+      "eventId": "e511",
+      "songs": [
+        {
+          "songId": "g6s61",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m15"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] tripleS sun 신위(Xinyu) 「CHEER UP (원곡:TWICE)」 세로 직캠 | 2026 World Tour [ANDLESS] in Seoul Day2",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15237",
+      "ytId": "7aFPrXdGx24",
+      "eventId": "e189",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261017 하트투하츠(Hearts2Hearts) NOL FESTIVAL K-POP STAGE 4K 직캠",
+      "channel": "Leadin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15238",
+      "ytId": "xggT9SVZEKo",
+      "eventId": "e848",
+      "songs": [
+        {
+          "songId": "g8s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261017 BABYMONSTER 베이비몬스터 | MOON | [춤 (CHOOM)] WORLD TOUR 2026 - 27 JAKARTA Fancam 직캠",
+      "channel": "itsgiebm",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15239",
+      "ytId": "uXgtXGXhW5E",
+      "eventId": "e77",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX - KNOW ABOUT ME  2026.10.18 NOL Festival ",
+      "channel": "엔써임당",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15240",
+      "ytId": "aE7q-4xbJfs",
+      "eventId": "e77",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "NMIXX [NOL FESTIVAL] [FANCAM/4K] @ KINTEX 2 - SOUTH KOREA 10/18/2026",
+      "channel": "Asian Pop Footage!",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15241",
+      "ytId": "lfUg4ECXaqw",
+      "eventId": "e77",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX At NOL Festival Full Perfomance 💜 261018 ",
+      "channel": "mymixxie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15242",
+      "ytId": "X8cgGB818X8",
+      "eventId": "e77",
+      "songs": [
+        {
+          "songId": "g2s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 - Heavy Serenade 2026 NOL 페스티벌 #놀페스티벌 #NMIXX #헤비세레나데",
+      "channel": "오늘도새로운하루입니다",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15243",
+      "ytId": "eMlvZRhijxQ",
+      "eventId": "e77",
+      "songs": [
+        {
+          "songId": "g2s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX(엔믹스) - Blue Valentine - NOL Festival Seoul 20261018 [FANCAM]",
+      "channel": "Huggeholm",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15244",
+      "ytId": "txaEFHt5WNE",
+      "eventId": "e512",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261018_Part 3/4_2026 tripleS World Tour ＜ANDLESS＞ in Taipei",
+      "channel": "fat lin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15245",
+      "ytId": "quaiVmwgEH0",
+      "eventId": "e512",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261018_Part 4/4_2026 tripleS World Tour  ANDLESS  in Taipei",
+      "channel": "fat lin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15246",
+      "ytId": "I7LNDEsCLcE",
+      "eventId": "e512",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261018_Part 1/4_2026 tripleS World Tour ＜ANDLESS＞ in Taipei",
+      "channel": "fat lin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15247",
+      "ytId": "FnflrbJa8Wk",
+      "eventId": "e512",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261018 tripleS World Tour ＜ANDLESS＞ in Taipei",
+      "channel": "不專業KPOP飯的追星天地",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15248",
+      "ytId": "x1Z17ivwywo",
+      "eventId": "e512",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261018 tripleS(트리플에스)\"깨어(Are You Alive)\" ANDLESS in Taipei 4K",
+      "channel": "峰峰",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15249",
+      "ytId": "t7ZfdXSfvqI",
+      "eventId": "e512",
+      "songs": [
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "20261018 tripleS Concert In Taipei-Love2Love",
+      "channel": "BoluBolu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15250",
+      "ytId": "JFur8uej3rw",
+      "eventId": "e512",
+      "songs": [
+        {
+          "songId": "g6s64",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS Aura - Dream Drip | 2026 World Tour ＜ANDLESS＞ in Taipei | 261018",
+      "channel": "KStageMoment",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15251",
+      "ytId": "wAVA_mbpzss",
+      "eventId": "e512",
+      "songs": [
+        {
+          "songId": "g6s66",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS - Lit Pop | 2026 World Tour ＜ANDLESS＞ in Taipei | 261018",
+      "channel": "KStageMoment",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15252",
+      "ytId": "4oRPYPoFax0",
+      "eventId": "e512",
+      "songs": [
+        {
+          "songId": "g6s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS - Non Scale | 2026 World Tour ＜ANDLESS＞ in Taipei | 261018",
+      "channel": "KStageMoment",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15253",
+      "ytId": "eLMx1jkSMVA",
+      "eventId": "e512",
+      "songs": [
+        {
+          "songId": "g6s26",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS - Bionic Power | 2026 World Tour ＜ANDLESS＞ in Taipei | 261018",
+      "channel": "KStageMoment",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15254",
+      "ytId": "u8iUMwXsPm0",
+      "eventId": "e512",
+      "songs": [
+        {
+          "songId": "g6s59",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS zenith - 누난 너무 예뻐 (Replay) (원곡: SHINee) | 2026 World Tour ＜ANDLESS＞ in Taipei | 261018",
+      "channel": "KStageMoment",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15255",
+      "ytId": "bloFYVLnCkI",
+      "eventId": "e512",
+      "songs": [
+        {
+          "songId": "g6s61",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS sun - CHEER UP (원곡: TWICE) | 2026 World Tour ＜ANDLESS＞ in Taipei | 261018",
+      "channel": "KStageMoment",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15256",
+      "ytId": "i2OKVqRS2y4",
+      "eventId": "e512",
+      "songs": [
+        {
+          "songId": "g6s63",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] tripleS - World Wild Women | 2026 World Tour ＜ANDLESS＞ in Taipei | 261018",
+      "channel": "KStageMoment",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15257",
+      "ytId": "AtWRkVhcUz8",
+      "eventId": "e512",
+      "songs": [
+        {
+          "songId": "g6s20",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261018 tripleS (트리플에스) - Choom @2026 tripleS World Tour ANDLESS in Taipei ",
+      "channel": "안정우",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15258",
+      "ytId": "TRbQXTllOUA",
+      "eventId": "e512",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m8"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "2026 tripleS World Tour [ANDLESS] in Taipei -Yubin Fancam -깨어 (Are You Alive)",
+      "channel": "Lance",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15259",
+      "ytId": "JBFZMdtJ-D0",
+      "eventId": "e512",
+      "songs": [
+        {
+          "songId": "g6s19",
+          "t": 0
+        },
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m8"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "2026 tripleS World Tour [ANDLESS] in Taipei -Yubin Fancam -Hit the Floor、Andless",
+      "channel": "Lance",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15260",
+      "ytId": "iY6gv60OUFs",
+      "eventId": "e512",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        },
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m8"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "2026 tripleS World Tour [ANDLESS] in Taipei -Yubin Fancam -Rising、Girls Never Die",
+      "channel": "Lance",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15261",
+      "ytId": "LHL8bWATo58",
+      "eventId": "e487",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m18"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261022 tripleS 트리플에스 JOOBIN 주빈  @MCOUNTDOWN 2026 10 22 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15262",
+      "ytId": "SG98-rjpFUc",
+      "eventId": "e39",
+      "songs": [
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[COMEBACK] IVE - Looks Can Kill [Music Bank] | KBS WORLD TV 261023",
+      "channel": "KBS WORLD Latino",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15263",
+      "ytId": "aDjz_gDG5S4",
+      "eventId": "e204",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[COMEBACK] NMIXX エンミックス 엔믹스 - Birthday Wish [Music Bank] | KBS WORLD TV 261023",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15264",
+      "ytId": "CryHAb2X-qo",
+      "eventId": "e204",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[COMEBACK] NMIXX - Birthday Wish [Music Bank] | KBS WORLD TV 261023",
+      "channel": "KBS WORLD Latino",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15265",
+      "ytId": "7kpNXWjJdcM",
+      "eventId": "e422",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] Hearts2Hearts : RoV T-POP Tournament 2026 @IMPACT Exhibition Hall : Bangkok [23.10.2026]",
+      "channel": "YIBKLONG 📱",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15266",
+      "ytId": "kWVnIj1CRAA",
+      "eventId": "e422",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "20261023 RUDE! - Hearts2Hearts at RoVTPOPTournament",
+      "channel": "thetwentyfirst_ 21",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15267",
+      "ytId": "6HEkJb9ITUk",
+      "eventId": "e422",
+      "songs": [
+        {
+          "songId": "g4s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Hearts2Hearts Performing \"Next Chapter\" at ROV T-POP Tournament",
+      "channel": "Jiwoo Spark",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15268",
+      "ytId": "COzQo19xdhM",
+      "eventId": "e400",
+      "songs": [
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "IVE - Looks Can Kill | Show! MusicCore | aired on MBC261024 #IVE",
+      "channel": "MBC WORLD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15269",
+      "ytId": "6vfq7MeWiYM",
+      "eventId": "e408",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX - Birthday Wish | Show! MusicCore | aired on MBC261024 #NMIXX",
+      "channel": "MBC WORLD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15270",
+      "ytId": "DOK0dv9j0pc",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s34",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS 트리플에스 'Diablo' 직캠 Fancam @2026 tripleS World Tour ANDLESS in Macau",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15271",
+      "ytId": "WUyUaiAtlIs",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS 트리플에스 'Girls' Capitalism' 직캠 Fancam @2026 tripleS World Tour ANDLESS in Macau",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15272",
+      "ytId": "NXxkub9wFTw",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS 트리플에스 'ANDLESS' 직캠 Fancam @2026 tripleS World Tour ANDLESS in Macau",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15273",
+      "ytId": "SPKv_CITND8",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS 트리플에스 'Girls Never Die' 직캠 Fancam @2026 tripleS World Tour ANDLESS in Macau",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15274",
+      "ytId": "PugZ-rc0u5A",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s63",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS 트리플에스 'World Wild Women' 직캠 Fancam @2026 tripleS World Tour ANDLESS in Macau",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15275",
+      "ytId": "wCguLul_Fjc",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS 트리플에스 'Are You Alive(깨어)' 직캠 Fancam @2026 tripleS World Tour ANDLESS in Macau",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15276",
+      "ytId": "3dlwk6imiuU",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s59",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS 트리플에스 msnz Zenith '누나 너무 예뻐' 직캠 Fancam @2026 tripleS World Tour ANDLESS in Macau",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15277",
+      "ytId": "WqaYjZnmghE",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS 트리플에스 'Baby Flower' 직캠 Fancam @2026 tripleS World Tour ANDLESS in Macau",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15278",
+      "ytId": "UMVZFzTdQWo",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s61",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS 트리플에스 msnz sun 'Cheer Up' 직캠 Fancam @2026 tripleS World Tour ANDLESS in Macau",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15279",
+      "ytId": "9og3P1fLEK4",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s62",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS 트리플에스 msnz Moon 'Psycho' 직캠 Fancam @2026 tripleS World Tour ANDLESS in Macau",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15280",
+      "ytId": "k_vPzeb1qu8",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS 트리플에스 'Rising' 직캠 Fancam @2026 tripleS World Tour ANDLESS in Macau",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15281",
+      "ytId": "I7ngViZB3-I",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s64",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS Aura 트리플에스 아우라 'Dream Drip' 직캠 Fancam @2026 tripleS World Tour ANDLESS in Macau",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15282",
+      "ytId": "-XKABJLJFXE",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s65",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS 트리플에스 msnz Neptune 'Mr. Mr.' 직캠 Fancam @2026 tripleS World Tour ANDLESS in Macau",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15283",
+      "ytId": "UjeahC9Yj4U",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s26",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261024 트리플에스 tripleS - Bionic Power @ ANDLESS in Macau",
+      "channel": "예리아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15284",
+      "ytId": "YYIDt2YPmTU",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s61",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "［261024］트리플에스 tripleS msnz sun  ' CHEER UP ' @ ANDLESS",
+      "channel": "__mfdd",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15285",
+      "ytId": "7IBUUETq9AE",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261024 트리플에스 tripleS - Baby Flower @ ANDLESS in Macau",
+      "channel": "예리아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15286",
+      "ytId": "_1t4KkUANvY",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s65",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "［261024］트리플에스 tripleS msnz neptune  ' Mr.Mr. ' @ ANDLESS",
+      "channel": "__mfdd",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15287",
+      "ytId": "WBXIq_srlL0",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s66",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS ‘Lit Pop’ - World Tour ANDLESS in Macau",
+      "channel": "tearsinrainbow",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15288",
+      "ytId": "IgIK5F6lkmk",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "［261024］트리플에스 tripleS  ' Andless ' @ ANDLESS",
+      "channel": "__mfdd",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15289",
+      "ytId": "p1iM_Sjm9t4",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s29",
+          "t": 0
+        },
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS 트리플에스 '추리소설 + Love2Love' 직캠 Fancam @2026 tripleS World Tour ANDLESS in Macau",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15290",
+      "ytId": "6ANzDVdZ6Rg",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s61",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261024 트리플에스 김유연 직캠 “Cheer Up” / tripleS Kim YooYeon Focus Fancam ANDLESS in Macau 마카오",
+      "channel": "ss",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15291",
+      "ytId": "u4PJXNl_2iU",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261024 트리플에스 김채원 CHOOM 직캠 ANDLESS in Macau",
+      "channel": "StrawberryOrbit",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15292",
+      "ytId": "JyyuxaC050k",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s64",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m23"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]261024 tripleS ANDLESS in MACAU ‘Dream Drip’ SeoAh 서아 직캠",
+      "channel": "Gorae",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15293",
+      "ytId": "Pfee1AHm2oQ",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m19"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS zenith World Tour [Andless] in MACAU  \"누난 너무 예뻐 Replay\" | 트리플에스 하연 직캠 (HAYEON Focus)",
+      "channel": "Infinite Paradise",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15294",
+      "ytId": "NAhuu7Lm024",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s64",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m20"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261024 트리플에스 Aura 박시온 직캠 “Dream Trip” / tripleS Park ShiOn Focus Fancam ANDLESS in Macau 마카오",
+      "channel": "ss",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15295",
+      "ytId": "Y6wxyc68TKw",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s65",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261024 ENDLESS IN MACAU 트리플에스 나경 Mr.Mr. 직캠 tripleS NAKYOUNG Mr.Mr FANCAM",
+      "channel": "Naky7",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15296",
+      "ytId": "M4gIOs2yEBA",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[tripleS Hyerin] 261024 Girls' Capitalism Fancam Focus for JeongHyerin, Macau Andless Concert",
+      "channel": "Yunsheng Mu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15297",
+      "ytId": "oml7QDjWnig",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s65",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS「ANDLESS」in Macau - 윤서연 \"Mr.Mr.\" Fancam",
+      "channel": "뚜토리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15298",
+      "ytId": "LUE7zjPrtvg",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s61",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS Sun - CHEER UP  / YooYeon fancam _ tripleS World Tour ANDLESS in Macau",
+      "channel": "isly",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15299",
+      "ytId": "SiUZ_cSXuzc",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s61",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[tripleS Hyerin] 261024 Cheer Up Fancam Focus for JeongHyerin, Macau Andless Concert",
+      "channel": "Yunsheng Mu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15300",
+      "ytId": "cT0HhL6mMVQ",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s65",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m11"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 20261024 ANDLESS in Macau \"소녀시대-Mr. Mr.\" tripleS 트리플에스 Kotone 코토네 Fancam 직캠",
+      "channel": "유..💖🍀",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15301",
+      "ytId": "wSuiUU5Fjk4",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[tripleS Hyerin] 261024 Sad Girl Schemin' Fancam Focus for JeongHyerin, Macau Andless Concert",
+      "channel": "Yunsheng Mu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15302",
+      "ytId": "TXXc2tsvdbs",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s65",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261024 tripleS World Tour ANDLESS in Macao | Mr. Mr. (원곡: 소녀시대) 나경 Nakyoung Multi Cam",
+      "channel": "롸키 ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15303",
+      "ytId": "7csJy6b3BVE",
+      "eventId": "e859",
+      "songs": [
+        {
+          "songId": "g6s5",
+          "t": 0
+        },
+        {
+          "songId": "g6s60",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m10"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261024 tripleS 트리플에스 Dahyun 서다현 - Girls’Capitalism + 복합성 (Complexity) | ANDLESS In Macau 직캠 Fancam​",
+      "channel": "Crystal",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15304",
+      "ytId": "8vlWbzYKZu8",
+      "eventId": "e851",
+      "songs": [
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Looks Can Kill - IVE | SBS 261025 방송",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15305",
+      "ytId": "a3nfknkbOcs",
+      "eventId": "e852",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "긴 소원 (Birthday Wish) - NMIXX | SBS 261025 방송",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15306",
+      "ytId": "noIXBV6QdvM",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s1",
+          "t": 0
+        },
+        {
+          "songId": "g3s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "fromis_9 'WE GO' + 'DM' fancam 261025 2026 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "yeee",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15307",
+      "ytId": "PmPr5OcmcN0",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s23",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 fromis_9 - 너를 따라, 너에게 THINK OF YOU",
+      "channel": "東看西看",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15308",
+      "ytId": "FB0oehsatoI",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        },
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "fromis_9 'Supersonic' + 'LIKE YOU BETTER' fancam 261025 2026 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "yeee",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15309",
+      "ytId": "OLF1Q8tgC5g",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 프로미스나인(fromis_9) Twisted love 직캠@ 2026 fromis_9 ASIA TOUR TOMORROW GLOW. IN TAIPEI",
+      "channel": "jinsta11cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15310",
+      "ytId": "yXN0EngwKsQ",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 프로미스나인(fromis_9) Blue Heart 직캠@ 2026 fromis_9 ASIA TOUR TOMORROW GLOW. IN TAIPEI",
+      "channel": "jinsta11cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15311",
+      "ytId": "sRrHYjawygA",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 프로미스나인(fromis_9) Vitamin ME 직캠@ 2026 fromis_9 ASIA TOUR TOMORROW GLOW. IN TAIPEI",
+      "channel": "jinsta11cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15312",
+      "ytId": "MSi-DrEb_d8",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 fromis_9 - Vitamin ME",
+      "channel": "東看西看",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15313",
+      "ytId": "_sT356_8wmQ",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 fromis_9 - Teacher",
+      "channel": "東看西看",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15314",
+      "ytId": "JjVLTxNzT54",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "fromis_9｜VitaminME  @ 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI 2026.10.25",
+      "channel": "Sight Sight",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15315",
+      "ytId": "WwNAJ96AiU4",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 프로미스나인(fromis_9) LIKE YOU BETTER 직캠@ 2026 fromis_9 ASIA TOUR TOMORROW GLOW. IN TAIPEI",
+      "channel": "jinsta11cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15316",
+      "ytId": "S3xpT_9dFRk",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "fromis_9 'Teacher' fancam 261025 2026 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "yeee",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15317",
+      "ytId": "vvrhj8D5JkY",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 fromis_9 'Vitamin Me' 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "chi",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15318",
+      "ytId": "lUwuBTomW1M",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 fromis_9 - Stay This Way",
+      "channel": "東看西看",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15319",
+      "ytId": "sLEZptO-XfU",
+      "eventId": "e853",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "10/25/26_fromis_9 Concert Part 1/3_2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "fat lin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15320",
+      "ytId": "awe35ojQPQw",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s24",
+          "t": 0
+        },
+        {
+          "songId": "g3s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "fromis_9 'Rewind' + 'Attitude' fancam 261025 2026 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "yeee",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15321",
+      "ytId": "rnfk8kvujGQ",
+      "eventId": "e853",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261025 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI FULL CONCERT 4K 60 FPS",
+      "channel": "皮卡丘",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15322",
+      "ytId": "C1KgeuI9RGs",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "프로미스나인(fromis_9) - Teacher | 261025 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI ",
+      "channel": "YC",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15323",
+      "ytId": "sShSC0C2fEM",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 fromis_9 'WE GO' 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "chi",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15324",
+      "ytId": "zcbKb7AICXM",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 fromis_9 - Vitamin ME 《ASIA TOUR [TOMORROW GLOW.] IN TAIPEI》",
+      "channel": "Sandy珊迪",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15325",
+      "ytId": "omNpIid38is",
+      "eventId": "e853",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "10/25/26_fromis_9 Concert Part 3/3_2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "fat lin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15326",
+      "ytId": "n50NfvQuLBY",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 fromis_9 'Teacher' 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "chi",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15327",
+      "ytId": "lbF8qvr_QL0",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "fromis_9 'Day 1' fancam 261025 2026 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "yeee",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15328",
+      "ytId": "D8OXqlUoxAk",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s1",
+          "t": 0
+        },
+        {
+          "songId": "g3s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "fromis_9(프로미스나인)  - WE GO+DM ❘ ASIA TOUR [TOMORROW GLOW.] IN TAIPEI (4K Fancam)",
+      "channel": "Cenesthesia",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15329",
+      "ytId": "U48sF2GpqSA",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 fromis_9 - ETERNAL",
+      "channel": "東看西看",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15330",
+      "ytId": "cdlSJKBS574",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 프로미스나인(fromis_9) Teacher 직캠@ 2026 fromis_9 ASIA TOUR TOMORROW GLOW. IN TAIPEI",
+      "channel": "jinsta11cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15331",
+      "ytId": "rUKsVHjrbw4",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s23",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 프로미스나인(fromis_9) 너를 따라, 너에게 직캠@ 2026 fromis_9 ASIA TOUR TOMORROW GLOW. IN TAIPEI",
+      "channel": "jinsta11cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15332",
+      "ytId": "-Et59HOWW5Q",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 fromis_9 - LIKE YOU BETTER",
+      "channel": "東看西看",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15333",
+      "ytId": "YrQQQKDiU4s",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s24",
+          "t": 0
+        },
+        {
+          "songId": "g3s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 fromis_9 - Rewind、Attitude 《ASIA TOUR [TOMORROW GLOW.] IN TAIPEI》",
+      "channel": "Sandy珊迪",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15334",
+      "ytId": "ULnqqstQsYc",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "fromis_9 'Stay This Way' + Closing remarks fancam 261025 2026 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "yeee",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15335",
+      "ytId": "Ty7-m7XOCJ8",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s23",
+          "t": 0
+        },
+        {
+          "songId": "g3s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[261025] 프로미스나인 - 너를 따라, 너에게 & Stay This Way | 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "프나덕에행복하냥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15336",
+      "ytId": "8uaIZTT84GQ",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "fromis_9 'Blue Heart' fancam 261025 2026 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "yeee",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15337",
+      "ytId": "BRmTsP8dFfU",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 프로미스나인(fromis_9) Stay This Way 직캠@ 2026 fromis_9 ASIA TOUR TOMORROW GLOW. IN TAIPEI",
+      "channel": "jinsta11cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15338",
+      "ytId": "-FTJYDOA2I4",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s23",
+          "t": 0
+        },
+        {
+          "songId": "g3s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 fromis_9 - 너를 따라, 너에게 THINK OF YOU、Stay This Way 《ASIA TOUR [TOMORROW GLOW.] IN TAIPEI》",
+      "channel": "Sandy珊迪",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15339",
+      "ytId": "lDQcYlgo_eg",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261025 fromis_9 'DM' 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "chi",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15340",
+      "ytId": "WpZx53AFTYc",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[261025] 프로미스나인(하냥) - Supersonic | 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "프나덕에행복하냥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15341",
+      "ytId": "ugVML5woKj4",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[261025] 프로미스나인(하냥) - WE GO | 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "프나덕에행복하냥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15342",
+      "ytId": "fiYkjMQopqI",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[261025] 프로미스나인(하냥) - Screen Time | 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "프나덕에행복하냥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15343",
+      "ytId": "MeiQUIRAY1w",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[261025] 프로미스나인(하냥) - DM | 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "프나덕에행복하냥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15344",
+      "ytId": "tv9kM7BnO7w",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[261025] 프로미스나인(하냥) - Day 1 | 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "프나덕에행복하냥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15345",
+      "ytId": "xunB8DbJDqg",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[261025] 프로미스나인(하냥) - ETERNAL | 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "프나덕에행복하냥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15346",
+      "ytId": "52HtMlc1GEE",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[261025] 프로미스나인(하냥) - Twisted Love | 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN Taipei",
+      "channel": "프나덕에행복하냥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15347",
+      "ytId": "8au9wQVs2gA",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[261025] 프로미스나인(하냥) - Vitamin ME | 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "프나덕에행복하냥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15348",
+      "ytId": "TwsqYs3X6j4",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[261025] 프로미스나인(하냥) - Pocket Treat | 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "프나덕에행복하냥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15349",
+      "ytId": "tLEiuLRDEuE",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[261025] 프로미스나인(하냥) - Airplane Mode | 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "프나덕에행복하냥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15350",
+      "ytId": "JIF8d9nrd10",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20261025 프로미스나인 fromis_9 \"Screen Time\" 송하영 Tomorrow Glow in Taipei Song Hayoung fancam 직캠",
+      "channel": "karmaby_ ☘︎",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15351",
+      "ytId": "el-2xwxh0r0",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [
+        "리허설"
+      ],
+      "title": "[261025] 프로미스나인(하냥) - DM (Sound check) | 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI",
+      "channel": "프나덕에행복하냥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15352",
+      "ytId": "EJOKbITh3wk",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "리허설"
+      ],
+      "title": "261025 프로미스나인(fromis_9) Supersonic Sound Check 직캠@ 2026 fromis_9 ASIA TOUR TOMORROW GLOW. IN TAIPEI",
+      "channel": "jinsta11cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15353",
+      "ytId": "_VXvDMncqTk",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "리허설"
+      ],
+      "title": "261025 프로미스나인(fromis_9) DM Sound Check직캠@ 2026 fromis_9 ASIA TOUR TOMORROW GLOW. IN TAIPEI",
+      "channel": "jinsta11cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15354",
+      "ytId": "nJJbM1dyixM",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261025 프로미스나인 이채영 Day 1 | fromis_9 chaeyoung fancam | TOMORROW GLOW IN TAIPEI",
+      "channel": "휴쥐",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15355",
+      "ytId": "yZBxAiAQ3R0",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20261025 2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI DM Ji Won FanCam",
+      "channel": "0CCE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15356",
+      "ytId": "dJgvf7skIp4",
+      "eventId": "e853",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g3m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI - Track 01~04 - Jiwon (朴池原) Fancam",
+      "channel": "Lance",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15357",
+      "ytId": "zEX_vdY927s",
+      "eventId": "e853",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g3m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI - Track 05~07 - Jiwon (朴池原) Fancam",
+      "channel": "Lance",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15358",
+      "ytId": "iSTNa6jhzKI",
+      "eventId": "e853",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g3m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI -Track 08~11- Jiwon (朴池原) Fancam",
+      "channel": "Lance",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15359",
+      "ytId": "cAxgPKfjWFs",
+      "eventId": "e860",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Hearts2Hearts - RUDE! | M COUNTDOWN : PLAY FESTA #엠카운트다운 EP.951 | Mnet 261028 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15360",
+      "ytId": "AXEnN0KzNs0",
+      "eventId": "e860",
+      "songs": [
+        {
+          "songId": "g4s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Hearts2Hearts - ICONIC HEART | M COUNTDOWN : PLAY FESTA #엠카운트다운 EP.951 | Mnet 261028 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15361",
+      "ytId": "mk6lZBgWLrs",
+      "eventId": "e861",
+      "songs": [
+        {
+          "songId": "g1s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "IVE - BANG BANG | M COUNTDOWN : PLAY FESTA #엠카운트다운 EP.952 | Mnet 261029 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15362",
+      "ytId": "AYPWWPIbzCc",
+      "eventId": "e861",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "IVE - REBEL HEART | M COUNTDOWN : PLAY FESTA #엠카운트다운 EP.952 | Mnet 261029 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15363",
+      "ytId": "JuVj__6axxs",
+      "eventId": "e862",
+      "songs": [
+        {
+          "songId": "g2s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX - Blue Valentine | M COUNTDOWN : PLAY FESTA #엠카운트다운 EP.952 | Mnet 261029 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15364",
+      "ytId": "zoAKNL8qVzw",
+      "eventId": "e862",
+      "songs": [
+        {
+          "songId": "g2s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX - Heavy Serenade | M COUNTDOWN : PLAY FESTA #엠카운트다운 EP.952 | Mnet 261029 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15365",
+      "ytId": "opdp1ilrl5M",
+      "eventId": "e863",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261029 프로미스나인(fromis_9) 송하영 8K 직캠 - LIKE YOU BETTER (정기연고제 YON:der 피날레)",
+      "channel": "퓨리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15366",
+      "ytId": "DbrVDSVWGqo",
+      "eventId": "e863",
+      "songs": [
+        {
+          "songId": "g3s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261029 프로미스나인(fromis_9) 송하영 8K 직캠 - Vitamin ME (정기연고제 YON:der 피날레)",
+      "channel": "퓨리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15367",
+      "ytId": "Svly7dw-Zx4",
+      "eventId": "e863",
+      "songs": [
+        {
+          "songId": "g3s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261029 프로미스나인(fromis_9) 송하영 8K 직캠 - WE GO (정기연고제 YON:der 피날레)",
+      "channel": "퓨리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15368",
+      "ytId": "HP2w7LrZ_no",
+      "eventId": "e863",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        },
+        {
+          "songId": "g3s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261029 프로미스나인 Supersonic & We go",
+      "channel": "코자는강아지",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15369",
+      "ytId": "OUFk6G-ScIU",
+      "eventId": "e863",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "프로미스나인 연세대 대학축제 fromis_9 yonsei 하얀그리움 WE GO LIKE YOU BETTER Vitamin ME Supersonic 프나 프미나",
+      "channel": "wonnieway",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15370",
+      "ytId": "r8Y15kXakYI",
+      "eventId": "e864",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261029 하츠투하츠 'RUDE!' | 2026 정기연고제 YON:der FINALE",
+      "channel": "반짝",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15371",
+      "ytId": "o6LSVa2iUng",
+      "eventId": "e864",
+      "songs": [
+        {
+          "songId": "g4s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261029 하츠투하츠 'FOCUS' | 2026 정기연고제 YON:der FINALE",
+      "channel": "반짝",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15372",
+      "ytId": "nj97gp3PbIc",
+      "eventId": "e864",
+      "songs": [
+        {
+          "songId": "g4s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261029 Hearts2Hearts 하츠투하츠 yonsei 2026 YON:der 페스티벌(연세대-고려대 경기)의 Hearts2Hearts #하츠투하츠아이코닉 하트♡",
+      "channel": "Muti",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15373",
+      "ytId": "if7Sp2xY5Qc",
+      "eventId": "e864",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "하츠투하츠 연세대 축제 Hearts2Hearts yonsei univ 하투하 FOCUS RUDE ICONIC HEART LEMON TANG🍋 Pretty Please",
+      "channel": "wonnieway",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15374",
+      "ytId": "l6_EJAgUpRA",
+      "eventId": "e864",
+      "songs": [
+        {
+          "songId": "g4s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[261029 연고제 피날레] 하츠투하츠 아이코닉 하트 (지우.F) | Hearts2Hearts ICONIC HEART (Korean.ver)",
+      "channel": "KDD ..",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15375",
+      "ytId": "2Y-oOIc9FSQ",
+      "eventId": "e864",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261029 RUDE! 하츠투하츠 이안 직캠 Hearts2Hearts ian fancam @YONSEI UNIVERSITY",
+      "channel": "pretzeI.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15376",
+      "ytId": "kWmqt1VBsZ4",
+      "eventId": "e864",
+      "songs": [
+        {
+          "songId": "g4s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[261029 연고제 피날레] 하츠투하츠 Pretty Please (지우.F) | Hearts2Hearts",
+      "channel": "KDD ..",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15377",
+      "ytId": "R6yKp1c1X9M",
+      "eventId": "e864",
+      "songs": [
+        {
+          "songId": "g4s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261029 하츠투하츠 ICONIC HEART 주은 │ Hearts2Hearts Juun │ 2026 정기연고제 FINALE",
+      "channel": "나무대리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15378",
+      "ytId": "8axOvkVWIFU",
+      "eventId": "e864",
+      "songs": [
+        {
+          "songId": "g4s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261029 하츠투하츠 FOCUS 주은 │ Hearts2Hearts Juun │ 2026 정기연고제 FINALE",
+      "channel": "나무대리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15379",
+      "ytId": "urges49ZXC4",
+      "eventId": "e864",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[261029 연고제 피날레] 하츠투하츠 RUDE! (지우.F) | Hearts2Hearts",
+      "channel": "KDD ..",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15380",
+      "ytId": "F8ASMvaUnv4",
+      "eventId": "e864",
+      "songs": [
+        {
+          "songId": "g4s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[261029 연고제 피날레] 하츠투하츠 FOCUS (지우.F) | Hearts2Hearts ",
+      "channel": "KDD ..",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15381",
+      "ytId": "JzRZHIudOuY",
+      "eventId": "e864",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261029 하츠투하츠 스텔라 Hearts2Hearts Stella 'RUDE!' | 2026 정기연고제 YON:der FINALE",
+      "channel": "희희 케이팝 재밌다",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15382",
+      "ytId": "pUp3VT8koiM",
+      "eventId": "e865",
+      "songs": [
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Looks Can Kill - IVE [뮤직뱅크/Music Bank] | KBS 261030 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15383",
+      "ytId": "qBwA5uUMJ6I",
+      "eventId": "e865",
+      "songs": [
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "IVE アイヴ 아이브 - Looks Can Kill [Music Bank] | KBS WORLD TV 261030",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15384",
+      "ytId": "FPwPJ71lXxo",
+      "eventId": "e865",
+      "songs": [
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "IVE  - Looks Can Kill [Music Bank] | KBS WORLD TV 261030",
+      "channel": "KBS WORLD Latino",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15385",
+      "ytId": "WL-PcZtl-cY",
+      "eventId": "e866",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX - Birthday Wish [Music Bank] | KBS WORLD TV 261030",
+      "channel": "KBS WORLD Latino",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15386",
+      "ytId": "3Kb3dJMykP8",
+      "eventId": "e866",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "긴 소원 (Birthday Wish) - NMIXX [뮤직뱅크/Music Bank] | KBS 261030 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15387",
+      "ytId": "dcgd7c1VfwE",
+      "eventId": "e866",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX エンミックス 엔믹스 - Birthday Wish [Music Bank] | KBS WORLD TV 261030",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15388",
+      "ytId": "T9Qcw13A1JA",
+      "eventId": "e866",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261030 NMIXX HAEWON 엔믹스 해원 - “긴 소원  BIRTHDAY WISH” 직캠 FANCAM",
+      "channel": "one bite.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15389",
+      "ytId": "O1pm7EsX8jo",
+      "eventId": "e866",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "앵콜"
+      ],
+      "title": "[4K] NMIXX 'Birthday Wish' Music Bank 1st Place Encore Facecam @Music Bank 261030",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15390",
+      "ytId": "sGi1FIXia4U",
+      "eventId": "e854",
+      "songs": [
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "IVE (아이브) - Looks Can Kill | Show! MusicCore | MBC261031방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15391",
+      "ytId": "_sa9WO3mCOA",
+      "eventId": "e855",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX (엔믹스) - Birthday Wish (긴 소원) | Show! MusicCore | MBC261031방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15392",
+      "ytId": "KW6yRFh0x2E",
+      "eventId": "e856",
+      "songs": [
+        {
+          "songId": "g2s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX(엔믹스) - Heavy Serenade [불후의 명곡2 전설을 노래하다/Immortal Songs 2] | KBS 261031 방송",
+      "channel": "KBS 레전드 케이팝",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15393",
+      "ytId": "drJ4eC2pxl8",
+      "eventId": "e856",
+      "songs": [
+        {
+          "songId": "g2s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX(엔믹스) - Blue Valentine [불후의 명곡2 전설을 노래하다/Immortal Songs 2] | KBS 261031 방송",
+      "channel": "KBS 레전드 케이팝",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15394",
+      "ytId": "FUGFX02zDQQ",
+      "eventId": "e856",
+      "songs": [
+        {
+          "songId": "g2s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[직캠] NMIXX(엔믹스) - Heavy Serenade [불후의 명곡2 전설을 노래하다] | KBS 261031방송",
+      "channel": "KBS 레전드 케이팝",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15395",
+      "ytId": "8YMkxAENX7s",
+      "eventId": "e856",
+      "songs": [
+        {
+          "songId": "g2s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[직캠] NMIXX(엔믹스) - Blue Valentine [불후의 명곡2 전설을 노래하다] | KBS 261031방송",
+      "channel": "KBS 레전드 케이팝",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15396",
+      "ytId": "tlwquLB-HlM",
+      "eventId": "e867",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "261031 엔믹스 쇼음악중심 미니팬미팅 풀영상 세로직캠 FULL CAM l NMIXX SHOW MUSIC CORE MINI FANMEETING ",
+      "channel": "공사남",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15397",
+      "ytId": "Qf6Vs45jcpI",
+      "eventId": "e867",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261031 엔믹스 쇼음악중심 미니팬미팅 풀영상 가로직캠 FULL CAM l NMIXX SHOW MUSIC CORE MINI FANMEETING ",
+      "channel": "공사남",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15398",
+      "ytId": "ANDXU8fP8n8",
+      "eventId": "e867",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261031 엔믹스 설윤 중심 직캠 Focus I NMIXX 미니팬미팅 기욤말랑잉🤍 #NMIXX #엔믹스 #설윤 #SULLYOON",
+      "channel": "고음충전k",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15399",
+      "ytId": "AGWN1-3PVDI",
+      "eventId": "e867",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261031 음악중심 미니팬미팅 엔믹스 지우 직캠 (NMIXX JIWOO Fancam)",
+      "channel": "사랑의 하쮸핑",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15400",
+      "ytId": "fa_RY9UFq78",
+      "eventId": "e868",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261031 트리플에스 tripleS - Andless @ ANDLESS in Tokyo 2부 ",
+      "channel": "예리아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15401",
+      "ytId": "hRFUmLFeoBw",
+      "eventId": "e868",
+      "songs": [
+        {
+          "songId": "g6s20",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "tripleS_Choom_20261031_2026 tripleS World Tour ＜ANDLESS＞ in Tokyo",
+      "channel": "ataki",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15402",
+      "ytId": "oRzqMXx21vQ",
+      "eventId": "e868",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[tripleS(트리플에스)] 261031 ANDLESS in Tokyo: ANDLESS - YoonSeoYeon 윤서연 FANCAM 직캠",
+      "channel": "Gorgeous",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15403",
+      "ytId": "GtS7KL7jJaU",
+      "eventId": "e868",
+      "songs": [
+        {
+          "songId": "g6s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[tripleS(트리플에스)] 261031 ANDLESS in Tokyo: ### (Hash) - YoonSeoYeon 윤서연 FANCAM 직캠",
+      "channel": "Gorgeous",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15404",
+      "ytId": "8Dwh2BGD8kU",
+      "eventId": "e869",
+      "songs": [
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Looks Can Kill - IVE | SBS 261101 방송",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15405",
+      "ytId": "oijKq_T_s9A",
+      "eventId": "e858",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "긴 소원 (Birthday Wish) - NMIXX | SBS 261101 방송",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15406",
+      "ytId": "fPNVpl7KDD0",
+      "eventId": "e870",
+      "songs": [
+        {
+          "songId": "g6s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m7"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261101 tripleS(트리플에스) 김나경 'Welcome to Heaven' 직캠 (NAKYOUNG FOCUS FANCAM) @neptune ObjektTradingEvent",
+      "channel": "NYALL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15407",
+      "ytId": "4StKOYfxpGU",
+      "eventId": "e870",
+      "songs": [
+        {
+          "songId": "g6s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261101 tripleS neptune event in Tokyo: Welcome to Heaven - YoonSeoYeon 윤서연 FANCAM 직캠",
+      "channel": "Gorgeous",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15408",
+      "ytId": "gWcB10kG-vM",
+      "eventId": "e857",
+      "songs": [
+        {
+          "songId": "g8s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "DESERVE - BABYMONSTER | SBS 261101 방송",
+      "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
       "gone": false
     }
