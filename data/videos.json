@@ -4160,6 +4160,121 @@
           "release": ""
         }
       ]
+    },
+    {
+      "id": "g9",
+      "name": "최예나",
+      "en": "YENA",
+      "hue": 53,
+      "members": [
+        {
+          "id": "g9m1",
+          "name": "최예나",
+          "aliases": [
+            "YENA",
+            "Yena",
+            "예나",
+            "CHOI YENA",
+            "Choi Yena",
+            "Choi Ye-na",
+            "CHOI YE NA"
+          ],
+          "order": 1,
+          "active": true,
+          "color": "#c2553f"
+        }
+      ],
+      "songs": [
+        {
+          "id": "g9s1",
+          "title": "SMILEY",
+          "aliases": [
+            "스마일리",
+            "SMILEY (Feat. BIBI)"
+          ],
+          "order": 1,
+          "release": "2022-01-17"
+        },
+        {
+          "id": "g9s2",
+          "title": "SMARTPHONE",
+          "aliases": [
+            "스마트폰"
+          ],
+          "order": 2,
+          "release": "2022-08-03"
+        },
+        {
+          "id": "g9s3",
+          "title": "Love War",
+          "aliases": [
+            "러브 워"
+          ],
+          "order": 3,
+          "release": "2023-01-16"
+        },
+        {
+          "id": "g9s4",
+          "title": "Hate Rodrigo",
+          "aliases": [
+            "헤이트 로드리고"
+          ],
+          "order": 4,
+          "release": "2023-06-27"
+        },
+        {
+          "id": "g9s5",
+          "title": "Good Morning",
+          "aliases": [
+            "굿모닝",
+            "굿 모닝"
+          ],
+          "order": 5,
+          "release": "2024-01-15"
+        },
+        {
+          "id": "g9s6",
+          "title": "네모네모",
+          "aliases": [
+            "NEMONEMO",
+            "NemoNemo",
+            "NEMO NEMO"
+          ],
+          "order": 6,
+          "release": "2024-09-30"
+        },
+        {
+          "id": "g9s7",
+          "title": "착하다는 말이 제일 싫어",
+          "aliases": [
+            "Being a Good Girl Hurts",
+            "BEING A GOOD GIRL HURTS"
+          ],
+          "order": 7,
+          "release": "2025-07-29"
+        },
+        {
+          "id": "g9s8",
+          "title": "캐치 캐치",
+          "aliases": [
+            "Catch Catch",
+            "CATCH CATCH",
+            "캐치캐치"
+          ],
+          "order": 8,
+          "release": "2026-03-11"
+        },
+        {
+          "id": "g9s9",
+          "title": "보기 드문 여자",
+          "aliases": [
+            "Dime Girl",
+            "DIME GIRL"
+          ],
+          "order": 9,
+          "release": ""
+        }
+      ]
     }
   ],
   "events": [
