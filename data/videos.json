@@ -14397,7 +14397,10 @@
       "setlist": [
         "g9s8"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "Mnet M! Countdown E921"
+      ]
     },
     {
       "id": "e882",
@@ -14432,7 +14435,10 @@
         "g9s6",
         "g9s14"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "concert 콘서트 #CatchCatch #YENA"
+      ]
     },
     {
       "id": "e885",
@@ -14512,7 +14518,10 @@
       "setlist": [
         "g9s8"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "ACON in Taipei"
+      ]
     },
     {
       "id": "e892",
@@ -14903,7 +14912,10 @@
         "g10s16",
         "g10s7"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "ACON in Taipei"
+      ]
     },
     {
       "id": "e922",
@@ -15142,7 +15154,10 @@
         "g10s11",
         "g10s13"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "인덕대학교 /직캠"
+      ]
     },
     {
       "id": "e943",
@@ -281154,7 +281169,8 @@
       "title": "'최초 공개' YENA(최예나) - 캐치 캐치 #엠카운트다운 EP.919 | Mnet 260312 방송",
       "channel": "Mnet K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15410",
@@ -281240,7 +281256,8 @@
       "title": "캐치 캐치 - YENA (최예나) [뮤직뱅크/Music Bank] | KBS 260313 방송",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15414",
@@ -281283,7 +281300,8 @@
       "title": "따 따랏따따~🩵 컨셉 소화력이 말도 안 돼요 😍 YENA(최예나) ‘캐치캐치’ #뮤직뱅크 | KBS 260313 방송",
       "channel": "KBS 한국방송",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 44%"
     },
     {
       "id": "v15416",
@@ -281302,7 +281320,8 @@
       "title": "YENA (최예나) - Catch Catch (캐치 캐치) | Show! MusicCore | MBC260314방송",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15417",
@@ -281323,7 +281342,8 @@
       "title": "[#음중직캠] YENA (최예나) – 캐치 캐치 FanCam | 쇼! 음악중심 | MBC260314",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "68% 35%"
     },
     {
       "id": "v15418",
@@ -281344,7 +281364,8 @@
       "title": "[#최애직캠] YENA (최예나) – 캐치 캐치 | 쇼! 음악중심 | MBC260314",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "80% 35%"
     },
     {
       "id": "v15419",
@@ -281363,7 +281384,8 @@
       "title": "[#음중풀캠] YENA (최예나) – 캐치 캐치 FullCam | 쇼! 음악중심 | MBC260314",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 37%"
     },
     {
       "id": "v15420",
@@ -281431,7 +281453,8 @@
       "title": "[안방1열 풀캠4K] 최예나 '캐치 캐치' (YENA 'Catch Catch' FullCam) @SBS Inkigayo 260315",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 38%"
     },
     {
       "id": "v15423",
@@ -281450,7 +281473,8 @@
       "title": "캐치 캐치 - YENA (최예나) | SBS 260315 방송",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 43%"
     },
     {
       "id": "v15424",
@@ -281469,7 +281493,8 @@
       "title": "[최초 공개] YENA (최예나) - 봄이라서 (feat. LEW of TEMPEST) l Show Champion l EP.589 l 260318",
       "channel": "ALL THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15425",
@@ -281488,7 +281513,8 @@
       "title": "[덕질캡처용♥CLEAN] YENA - 캐치 캐치 l Show Champion l EP.589",
       "channel": "ALL THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15426",
@@ -281576,7 +281602,8 @@
       "title": "YENA(최예나) - 캐치 캐치 #엠카운트다운 EP.920 | Mnet 260319 방송",
       "channel": "Mnet K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15430",
@@ -281643,7 +281670,8 @@
       "title": "[입덕직캠] 최예나 직캠 4K '캐치 캐치' (YENA FanCam) | @MCOUNTDOWN_2026.3.19",
       "channel": "M2",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "64% 35%"
     },
     {
       "id": "v15433",
@@ -281662,7 +281690,8 @@
       "title": "캐치 캐치 -  YENA (최예나) [뮤직뱅크/Music Bank] | KBS 260320 방송",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15434",
@@ -281707,7 +281736,8 @@
       "title": "[K-Choreo 8K] 최예나 직캠 '캐치 캐치' (YENA Choreography) @MusicBank 260320",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "56% 35%"
     },
     {
       "id": "v15436",
@@ -281726,7 +281756,8 @@
       "title": "YENA (최예나) - Catch Catch (캐치 캐치) | Show! MusicCore | MBC260321방송",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15437",
@@ -281747,7 +281778,8 @@
       "title": "[#최애직캠] YENA (최예나) – 캐치 캐치 | 쇼! 음악중심 | MBC260321",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "71% 35%"
     },
     {
       "id": "v15438",
@@ -281768,7 +281800,8 @@
       "title": "[#음중직캠] YENA (최예나) – 캐치 캐치 FanCam | 쇼! 음악중심 | MBC260321",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "79% 35%"
     },
     {
       "id": "v15439",
@@ -281836,7 +281869,8 @@
       "title": "[안방1열 풀캠4K] 최예나 '캐치 캐치' (YENA 'Catch Catch' FullCam) @SBS Inkigayo 260322",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 46%"
     },
     {
       "id": "v15442",
@@ -281855,7 +281889,8 @@
       "title": "캐치 캐치 - YENA (최예나) | SBS 260322 방송",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15443",
@@ -281920,7 +281955,8 @@
       "title": "YENA(최예나) - 캐치 캐치 #엠카운트다운 EP.921 | Mnet 260326 방송",
       "channel": "Mnet K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15446",
@@ -281939,7 +281975,8 @@
       "title": "캐치 캐치 -  YENA (최예나) [뮤직뱅크/Music Bank] | KBS 260327 방송",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 62%"
     },
     {
       "id": "v15447",
@@ -281960,7 +281997,8 @@
       "title": "[K-Choreo 8K] 최예나 직캠 '캐치 캐치' (YENA Choreography) @MusicBank 260327",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "57% 35%"
     },
     {
       "id": "v15448",
@@ -281979,7 +282017,8 @@
       "title": "캐치 캐치 - YENA (최예나) | SBS 260329 방송",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 44%"
     },
     {
       "id": "v15449",
@@ -282023,7 +282062,8 @@
       "title": "[안방1열 풀캠4K] 최예나 '캐치 캐치' (YENA 'Catch Catch' FullCam) @SBS Inkigayo 260329",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15451",
@@ -282075,7 +282115,8 @@
       "title": "[4K_입DUCK직캠] YENA(최예나) - '설탕' Stage Video l 260405 YENA LIVE TOUR [잡힐 듯 말 듯 한, 2세계!] In Seoul",
       "channel": "YENA(최예나)",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "58% 35%"
     },
     {
       "id": "v15453",
@@ -282164,7 +282205,8 @@
       "title": "최예나 전체무대 직캠 @ 한성대학교 260514",
       "channel": "안미운오리새끼",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 48%"
     },
     {
       "id": "v15457",
@@ -282199,7 +282241,8 @@
       "title": "260514 최예나 한성대 축제 Full",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 46%"
     },
     {
       "id": "v15459",
@@ -282237,7 +282280,8 @@
       "title": "최예나 YENA - FULL VER. 4K 세로 직캠 @260515 서강대 축제",
       "channel": "The Sin",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 40%"
     },
     {
       "id": "v15461",
@@ -282276,7 +282320,8 @@
       "title": "최예나 - 서강대학교 축제 직캠 YENA Fancam 260515",
       "channel": "mang2goon",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "26% 35%"
     },
     {
       "id": "v15463",
@@ -282337,7 +282382,8 @@
       "title": "전주 나오자마자 배우들 어깨 들썩들썩🕺🏻 청룡을 사로잡은 최예나 캐치 캐치 l 제5회 청룡시리즈어워즈 ㅣ KBS 260731 방송",
       "channel": "KBS 한국방송",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 36%"
     },
     {
       "id": "v15466",
@@ -282360,7 +282406,8 @@
       "title": "최예나 (YENA) 축하공연 〈♬ 네모네모(NEMONEMO) + 캐치캐치(Catch Catch)〉 [제5회 청룡시리즈어워즈] | KBS 260731 방송",
       "channel": "KBS Entertain",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 32%"
     },
     {
       "id": "v15467",
@@ -282374,7 +282421,8 @@
       "title": "260808 최예나 워터밤 부산 Full | YENA WATERBOMB BUSAN 2026",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 31%"
     },
     {
       "id": "v15468",
@@ -282395,7 +282443,8 @@
       "title": "260808 최예나 워터밤 부산 '캐치 캐치'",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "44% 35%"
     },
     {
       "id": "v15469",
@@ -282414,7 +282463,8 @@
       "title": "YENA - 캐치 캐치 Live at WATERBOMB BUSAN 2026",
       "channel": "WATERBOMB",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15470",
@@ -282458,7 +282508,8 @@
       "title": "[4K] 260809 최예나 (YENA) - 'Catch Catch (캐치 캐치)' 직캠 (YENA FOCUS Fancam) | 2026 SBS 가요대전",
       "channel": "Luz Liz",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "41% 35%"
     },
     {
       "id": "v15472",
@@ -282477,7 +282528,8 @@
       "title": "YENA(최예나) - 캐치 캐치 @SBS GayoDaejeon Summer",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15473",
@@ -282750,7 +282802,8 @@
       "title": "260822 최예나 콘서트 Full | 2026 YENA ENCORE LIVE 네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 1%"
     },
     {
       "id": "v15485",
@@ -282766,7 +282819,8 @@
       "title": "[4K] 260822 최예나 앵콜콘 full 108min 2026 YENA ENCORE LIVE [네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판]",
       "channel": "Choyoun",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15486",
@@ -282893,7 +282947,8 @@
       "title": "260823 최예나 콘서트 Full | 2026 YENA ENCORE LIVE 네모로부터 시작된, 잡힐 듯 말 듯 한 이세계 : 극장판",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 41%"
     },
     {
       "id": "v15492",
@@ -282914,7 +282969,8 @@
       "title": "260823 최예나 콘서트 '설탕 (With 조유리)'",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "42% 35%"
     },
     {
       "id": "v15493",
@@ -282980,7 +283036,8 @@
       "title": "260902 최예나 동국대 바이오메디캠퍼스 축제 Full",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 16%"
     },
     {
       "id": "v15496",
@@ -283126,7 +283183,8 @@
       "title": "260909 최예나 YENA - Full Ver. 직캠 Fancam 4K 60P @중부대학교 충청캠퍼스 축제 by Prequel",
       "channel": "Prequel",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 20%"
     },
     {
       "id": "v15502",
@@ -283211,7 +283269,8 @@
       "title": "260910 최예나 Full Ver. 4K 직캠 @중부대 축제",
       "channel": "IDM CAM",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 24%"
     },
     {
       "id": "v15506",
@@ -283273,7 +283332,8 @@
       "title": "예나 - \"캐치캐치\" \"네모네모\" \"Love War\" \"Smiley\" \"WithOrWithOut\" [4k직캠] @중부대고양캠퍼스 260910",
       "channel": "buchaCAM",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "30% 35%"
     },
     {
       "id": "v15508",
@@ -283402,7 +283462,8 @@
       "title": "예나 세로 직캠 풀버전 한국전통문화대 축제 YENA FANCAM FULL ver. 260911",
       "channel": "사악키",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 20%"
     },
     {
       "id": "v15514",
@@ -283416,7 +283477,8 @@
       "title": "예나 가로 직캠 풀버전 한국전통문화대 축제 YENA FANCAM FULL ver. 260911",
       "channel": "사악키",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 29%"
     },
     {
       "id": "v15515",
@@ -283476,7 +283538,8 @@
       "title": "260916 최예나 YENA - Full Ver. 직캠 Fancam 4K 60P @전북대학교 공과대학 축제 by Prequel",
       "channel": "Prequel",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 15%"
     },
     {
       "id": "v15518",
@@ -283633,7 +283696,8 @@
       "title": "최예나(YENA) - 캐치 캐치(Catch Catch) [4K 직캠] I 260919 2026 𝗧𝗛𝗘 𝗙𝗔𝗖𝗧 𝗠𝗨𝗦𝗜𝗖 𝗔𝗪𝗔𝗥𝗗𝗦",
       "channel": "지구미네 예나",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "44% 35%"
     },
     {
       "id": "v15525",
@@ -283704,7 +283768,8 @@
       "title": "261001 YENA(최예나) - '캐치 캐치' @ 안양대학교",
       "channel": "챠니튜브",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "87% 35%"
     },
     {
       "id": "v15528",
@@ -283819,7 +283884,8 @@
       "title": "261002 최예나 성균관대 축제 'WithOrWithOut'",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "59% 35%"
     },
     {
       "id": "v15533",
@@ -283840,7 +283906,8 @@
       "title": "261002 최예나 성균관대 축제 '캐치 캐치'",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "58% 35%"
     },
     {
       "id": "v15534",
@@ -283854,7 +283921,8 @@
       "title": "261002 최예나 성균관대 자연과학캠퍼스 축제 Full",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 0%"
     },
     {
       "id": "v15535",
@@ -283919,7 +283987,8 @@
       "title": "최예나(YENA) - 보기 드문 여자 (Dime Girl) (Feat. 나우아임영) [4K 직캠] I 261004 2026 입크페스티벌",
       "channel": "지구미네 예나",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "57% 35%"
     },
     {
       "id": "v15538",
@@ -283975,7 +284044,8 @@
       "title": "261004 최예나 입크페스티벌 Full",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 29%"
     },
     {
       "id": "v15541",
@@ -284010,7 +284080,8 @@
       "title": "26.10.04 #최예나 2026입크페스티벌 Full ver.",
       "channel": "긍비12",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15543",
@@ -284047,7 +284118,8 @@
       "title": "예나 - Full ver [4k직캠] @삼육대축제 261006",
       "channel": "buchaCAM",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 30%"
     },
     {
       "id": "v15545",
@@ -284086,7 +284158,8 @@
       "title": "최예나(YENA) - 네모네모 [4K 직캠] I 261006 삼육대학교 축제",
       "channel": "지구미네 예나",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "37% 35%"
     },
     {
       "id": "v15547",
@@ -284175,7 +284248,8 @@
       "title": "261007 최예나 공주대 예산캠퍼스 축제 Full",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15551",
@@ -284215,7 +284289,8 @@
       "title": "YENA (최예나) - 보기 드문 여자 (Feat. NOWIMYOUNG (나우아임영)) [더 시즌즈-성시경의 고막남친] | KBS 261016 방송",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 32%"
     },
     {
       "id": "v15553",
@@ -284236,7 +284311,8 @@
       "title": "[세로] YENA (최예나) - 보기 드문 여자 (Feat. NOWIMYOUNG (나우아임영)) [더 시즌즈-성시경의 고막남친] | KBS 261016 방송",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 29%"
     },
     {
       "id": "v15554",
@@ -284255,7 +284331,8 @@
       "title": "YENA (최예나) - 캐치 캐치 (Band VER.) [더 시즌즈-성시경의 고막남친] | KBS 261016 방송",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 38%"
     },
     {
       "id": "v15555",
@@ -284276,7 +284353,8 @@
       "title": "[세로] YENA (최예나) - 캐치 캐치 (Band VER.) [더 시즌즈-성시경의 고막남친] | KBS 261016 방송",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 46%"
     },
     {
       "id": "v15556",
@@ -284295,7 +284373,8 @@
       "title": "[가로] YENA (최예나) - 보기 드문 여자 (Feat. NOWIMYOUNG (나우아임영)) [더 시즌즈-성시경의 고막남친] | KBS 261016 방송",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 42%"
     },
     {
       "id": "v15557",
@@ -284330,7 +284409,8 @@
       "title": "예나 #YENA @261021 건양대 풀캠 ♬ 캐치캐치 ♬ 네모네모 ♬ 그건 사랑이었다고 ♬ SMILEY ♬ WithOrWithOut",
       "channel": "K-POP 날것이 좋아",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 16%"
     },
     {
       "id": "v15558",
@@ -284351,7 +284431,8 @@
       "title": "261021 최예나 - 캐치캐치 건양대축제",
       "channel": "휴지필름",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "0% 35%"
     },
     {
       "id": "v15559",
@@ -284407,7 +284488,8 @@
       "title": "261022 최예나(YENA) 마산대학교 축제(청우대동제) 라이브 직캠 풀영상(캐치캐치,네모네모,그건사랑이었다고,스마일리,WithOrWithOut)",
       "channel": "고점이낮다",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15561",
@@ -284428,7 +284510,8 @@
       "title": "261022 최예나 (YENA) - 캐치캐치 (Catch Catch) @ 마산대학교 청우대동제 #최예나 #예나 #캐치캐치 #catchcatch ",
       "channel": "햄찌다람쥐",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "58% 35%"
     },
     {
       "id": "v15562",
@@ -284502,7 +284585,8 @@
       "title": "예나 세로 직캠 풀버전 신구대 축제 YENA FANCAM FULL ver. 261023",
       "channel": "사악키",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 20%"
     },
     {
       "id": "v15566",
@@ -284537,7 +284621,8 @@
       "title": "261023 최예나 신구대 축제 Full",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 41%"
     },
     {
       "id": "v15568",
@@ -284599,7 +284684,8 @@
       "title": "60fps)2026 신구대학교 축제 남한산 백마대동제 - 최예나 YENA 풀영상(2026.10.23)",
       "channel": "BUMD의 아이돌 직관스토리",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 57%"
     },
     {
       "id": "v15571",
@@ -284699,7 +284785,8 @@
       "title": "261024 최예나 안동 런앤뮤직 페스티벌 '캐치 캐치'",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "56% 35%"
     },
     {
       "id": "v15575",
@@ -284720,7 +284807,8 @@
       "title": "261024 최예나 안동 런앤뮤직 페스티벌 'SMILEY'",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "39% 35%"
     },
     {
       "id": "v15576",
@@ -284736,7 +284824,8 @@
       "title": "예나 - Full ver [4k직캠] @서울신학대축제 261027",
       "channel": "buchaCAM",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 42%"
     },
     {
       "id": "v15577",
@@ -284821,7 +284910,8 @@
       "title": "261027 최예나 서울신학대 축제 Full",
       "channel": "MBY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15581",
@@ -284835,7 +284925,8 @@
       "title": "261027 YENA 최예나 직캠 서울신학대 축제 “FULL ver” #최예나 #예나 #YENA #캐치캐치 #CatchCatch #네모네모 #스마일리",
       "channel": "UNZENAMAY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 42%"
     },
     {
       "id": "v15582",
@@ -284851,7 +284942,8 @@
       "title": "[4K] YENA 최예나 서울신학대학교 축제 직캠 Full 261027",
       "channel": "FANTUBE ARCHIVE",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15583",
@@ -284925,7 +285017,8 @@
       "title": "261027 최예나 YENA 풀버전 4K 60P 직캠 @서울신학대 축제 한울제 斐行 by 나의달 NAEDAL",
       "channel": "나의달 NAEDAL",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 38%"
     },
     {
       "id": "v15587",
@@ -284971,7 +285064,8 @@
       "title": "최예나(YENA) - 네모네모(NEMONEMO) [4K 직캠] I 261027 서울신학대학교 축제",
       "channel": "지구미네 예나",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "44% 35%"
     },
     {
       "id": "v15589",
@@ -285027,7 +285121,8 @@
       "title": "최예나 (YENA) 'Catch Catch+NEMONEMO+Love War+SMILEY+WithOrWithOut Full Ver.' (261027) @서울신학대 축제",
       "channel": "천둥",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 27%"
     },
     {
       "id": "v15591",
@@ -285043,7 +285138,8 @@
       "title": "최예나 - 서울신학대학교 축제 직캠 YENA Fancam 261027",
       "channel": "mang2goon",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "38% 35%"
     },
     {
       "id": "v15592",
@@ -285210,7 +285306,8 @@
       "title": "261027 YENA(최예나) 풀캠 Fullcam @서울신학대학교",
       "channel": "곰곰s",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 33%"
     },
     {
       "id": "v15600",
@@ -285284,7 +285381,8 @@
       "title": "261028 최예나(YENA)신라대학교 축제(대동제) 라이브 직캠 풀영상(캐치캐치,네모네모,Love War,SMILEY,WithOrWithOut)",
       "channel": "영붐",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 67%"
     },
     {
       "id": "v15603",
@@ -285321,7 +285419,8 @@
       "title": "261028 YENA(최예나) - 캐치캐치(Catch Catch)  신라대학교 대동제 축제 폰캠",
       "channel": "라라라",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "57% 35%"
     },
     {
       "id": "v15605",
@@ -285407,7 +285506,8 @@
       "title": "KISS OF LIFE - STICKY [WATERBOMB SEOUL 2026/260724] Fancam 직캠 4K60",
       "channel": "Saipengu",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 48%"
     },
     {
       "id": "v15609",
@@ -285421,7 +285521,8 @@
       "title": "KISS OF LIFE - Live at WATERBOMB SEOUL 2026",
       "channel": "WATERBOMB",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 29%"
     },
     {
       "id": "v15610",
@@ -285440,7 +285541,8 @@
       "title": "KISS OF LIFE - Who is she Live at WATERBOMB SEOUL 2026",
       "channel": "WATERBOMB",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 13%"
     },
     {
       "id": "v15611",
@@ -285459,7 +285561,8 @@
       "title": "Kiss of Life \"Igloo\" 🔴LIVE🔴 at Waterbomb 2026 Festival Seoul | July 24th",
       "channel": "EvryGama",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15612",
@@ -285501,7 +285604,8 @@
       "title": "KISS OF LIFE -  K BYE [WATERBOMB SEOUL 2026/260724] Fancam 직캠 4K60",
       "channel": "Saipengu",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 20%"
     },
     {
       "id": "v15614",
@@ -285520,7 +285624,8 @@
       "title": "키스오브라이프 KISS OF LIFE lgloo 워터밤서울 Waterbomb seoul 260724",
       "channel": "공연직캠tv",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15615",
@@ -285541,7 +285646,8 @@
       "title": "KISS OF LIFE - LIPS HIPS KISS [WATERBOMB SEOUL 2026/260724] Fancam 직캠 4K60",
       "channel": "Saipengu",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15616",
@@ -285562,7 +285668,8 @@
       "title": "KISS OF LIFE - TELL ME [WATERBOMB SEOUL 2026/260724] Fancam 직캠 4K60",
       "channel": "Saipengu",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 53%"
     },
     {
       "id": "v15617",
@@ -285669,7 +285776,8 @@
       "title": "'COMEBACK' KISS OF LIFE - SWEAT #엠카운트다운 EP.940 | Mnet 260806 방송",
       "channel": "Mnet K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 49%"
     },
     {
       "id": "v15622",
@@ -285780,7 +285888,8 @@
       "title": "[MPD직캠] 키스오브라이프 직캠 8K 'SWEAT' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2026.8.6",
       "channel": "M2",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 38%"
     },
     {
       "id": "v15627",
@@ -285803,7 +285912,8 @@
       "title": "[입덕직캠] 키스오브라이프 나띠 직캠 4K 'SWEAT' (KISS OF LIFE NATTY FanCam) | @MCOUNTDOWN_2026.8.6",
       "channel": "M2",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "57% 35%"
     },
     {
       "id": "v15628",
@@ -285822,7 +285932,8 @@
       "title": "SWEAT - KISS OF LIFE [뮤직뱅크/Music Bank] | KBS 260807 방송",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15629",
@@ -285928,7 +286039,8 @@
       "title": "[K-Choreo 8K] 키스오브라이프 직캠 'SWEAT' (KISS OF LIFE Choreography) @MusicBank 260807",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 31%"
     },
     {
       "id": "v15634",
@@ -285947,7 +286059,8 @@
       "title": "세계고양이의날축하해키오프😻 키스오브라이프(KISS OF LIFE) 'SWEAT' #뮤직뱅크 | KBS 260807 방송",
       "channel": "KBS 한국방송",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15635",
@@ -285992,7 +286105,8 @@
       "title": "[얼빡직캠 4K] 키스오브라이프 하늘 'SWEAT' (KISS OF LIFE HANEUL Facecam) @뮤직뱅크(Music Bank) 260807",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "56% 35%"
     },
     {
       "id": "v15637",
@@ -286011,7 +286125,8 @@
       "title": "KISS OF LIFE (키스오브라이프) - SWEAT | Show! MusicCore | MBC260808방송",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15638",
@@ -286032,7 +286147,8 @@
       "title": "[#음중직캠] KISS OF LIFE NATTY (키스오브라이프 나띠) – SWEAT FanCam | 쇼! 음악중심 | MBC260808",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "70% 35%"
     },
     {
       "id": "v15639",
@@ -286053,7 +286169,8 @@
       "title": "[#음중직캠] KISS OF LIFE JULIE (키스오브라이프 쥴리) – SWEAT FanCam | 쇼! 음악중심 | MBC260808",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "81% 35%"
     },
     {
       "id": "v15640",
@@ -286074,7 +286191,8 @@
       "title": "[#음중직캠] KISS OF LIFE HANEUL (키스오브라이프 하늘) – SWEAT FanCam | 쇼! 음악중심 | MBC260808",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "76% 35%"
     },
     {
       "id": "v15641",
@@ -286095,7 +286213,8 @@
       "title": "[#음중직캠] KISS OF LIFE BELLE (키스오브라이프 벨) – SWEAT FanCam | 쇼! 음악중심 | MBC260808",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "76% 35%"
     },
     {
       "id": "v15642",
@@ -286114,7 +286233,8 @@
       "title": "[#음중풀캠] KISS OF LIFE (키스오브라이프) – SWEAT FullCam | 쇼! 음악중심 | MBC260808",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 31%"
     },
     {
       "id": "v15643",
@@ -286133,7 +286253,8 @@
       "title": "KISS OF LIFE(키스오브라이프) - SWEAT @SBS GayoDaejeon Summer",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 46%"
     },
     {
       "id": "v15644",
@@ -286176,7 +286297,8 @@
       "title": "2026 SBS 가요대전 SUMMER 'Level Up' ⏐ KISS OF LIFE JULIE 키스오브라이프 쥴리 직캠 fancam_260809",
       "channel": "Captivante",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "75% 35%"
     },
     {
       "id": "v15646",
@@ -286216,7 +286338,8 @@
       "title": "KISS OF LIFE - SWEAT #2026SBS가요대전Summer",
       "channel": "SBS Entertainment",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 28%"
     },
     {
       "id": "v15648",
@@ -286258,7 +286381,8 @@
       "title": "[260809 SUMMER 가요대전] SWEAT 키스오브라이프 쥴리 KISS OF LIFE JULIE Fancam",
       "channel": "주우",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "67% 35%"
     },
     {
       "id": "v15650",
@@ -286279,7 +286403,8 @@
       "title": "2026 SBS 가요대전 SUMMER 'SWEAT' ⏐ KISS OF LIFE JULIE 키스오브라이프 쥴리 직캠 fancam_260809",
       "channel": "Captivante",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "82% 35%"
     },
     {
       "id": "v15651",
@@ -286298,7 +286423,8 @@
       "title": "[THE SHOW CHOICE] SWEAT - KISS OF LIFE [THE SHOW] 260811 방송",
       "channel": "THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 46%"
     },
     {
       "id": "v15652",
@@ -286321,7 +286447,8 @@
       "title": "[FAN PICK CAM 4K] KISS OF LIFE - JULIE 'SWEAT' [키스오브라이프-쥴리] @theshow 260811",
       "channel": "THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "61% 35%"
     },
     {
       "id": "v15653",
@@ -286340,7 +286467,8 @@
       "title": "SWEAT – KISS OF LIFE [THE SHOW] 260811 방송",
       "channel": "THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 39%"
     },
     {
       "id": "v15654",
@@ -286361,7 +286489,8 @@
       "title": "[쇼챔직캠 4K] KISS OF LIFE(키스 오브 라이프) - SWEAT | Show Champion | EP.607 | 260812",
       "channel": "ALL THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 40%"
     },
     {
       "id": "v15655",
@@ -286384,7 +286513,8 @@
       "title": "[쇼챔직캠 4K] KISS OF LIFE (키스 오브 라이프 나띠) - SWEAT | Show Champion | EP.607 | 260812",
       "channel": "ALL THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "56% 35%"
     },
     {
       "id": "v15656",
@@ -286541,7 +286671,8 @@
       "title": "SWEAT - KISS OF LIFE [뮤직뱅크/Music Bank] | KBS 260814 방송",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 43%"
     },
     {
       "id": "v15663",
@@ -286560,7 +286691,8 @@
       "title": "[K-Choreo 8K] 키스오브라이프 직캠 'SWEAT' (KISSOFLIFE Choreography) @MusicBank 260814",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 30%"
     },
     {
       "id": "v15664",
@@ -286579,7 +286711,8 @@
       "title": "KISS OF LIFE (키스오브라이프) - SWEAT | Show! MusicCore | MBC260815방송",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15665",
@@ -286598,7 +286731,8 @@
       "title": "SWEAT - KISS OF LIFE | SBS 260816 방송",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 51%"
     },
     {
       "id": "v15666",
@@ -286619,7 +286753,8 @@
       "title": "[안방1열 풀캠4K] 키스오브라이프 'SWEAT' (KISS OF LIFE FullCam) @SBS Inkigayo 260816",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 35%"
     },
     {
       "id": "v15667",
@@ -286659,7 +286794,8 @@
       "title": "KISS OF LIFE (키스 오브 라이프) - SWEAT l Show Champion l EP.608 l 260819",
       "channel": "ALL THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15669",
@@ -286772,7 +286908,8 @@
       "title": "[쇼챔직캠 4K] KISS OF LIFE(키스 오브 라이프) - SWEAT | Show Champion | EP.608 | 260819",
       "channel": "ALL THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 49%"
     },
     {
       "id": "v15674",
@@ -286791,7 +286928,8 @@
       "title": "'최초 공개' KISS OF LIFE - WHAT! #엠카운트다운 EP.942 | Mnet 260820 방송",
       "channel": "Mnet K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15675",
@@ -286812,7 +286950,8 @@
       "title": "[MPD직캠] 키스오브라이프 직캠 4K 'WHAT!' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2026.8.20",
       "channel": "M2",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 29%"
     },
     {
       "id": "v15676",
@@ -286831,7 +286970,8 @@
       "title": "WHAT! - KISS OF LIFE [뮤직뱅크/Music Bank] | KBS 260821 방송",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 48%"
     },
     {
       "id": "v15677",
@@ -286850,7 +286990,8 @@
       "title": "KISS OF LIFE (키스오브라이프) - WHAT! | Show! MusicCore | MBC260822방송",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15678",
@@ -286869,7 +287010,8 @@
       "title": "Intro + WHAT! - KISS OF LIFE | SBS 260823 방송",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15679",
@@ -286938,7 +287080,8 @@
       "title": "[안방1열 풀캠4K] 키스오브라이프 'WHAT!' (KISS OF LIFE FullCam) @SBS Inkigayo 260823",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15682",
@@ -286957,7 +287100,8 @@
       "title": "KISS OF LIFE (키스 오브 라이프)- WHAT!  l Show Champion l EP.610 l 260902",
       "channel": "ALL THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15683",
@@ -287049,7 +287193,8 @@
       "title": "[쇼챔직캠 4K] KISS OF LIFE (키스 오브 라이프 쥴리) - WHAT! | Show Champion | EP.610 | 260902",
       "channel": "ALL THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "56% 35%"
     },
     {
       "id": "v15687",
@@ -287122,7 +287267,8 @@
       "title": "260905 키스오브라이프 나띠 - Sweat + Sticky 4K 직캠 @천안 K-컬쳐 박람회 (KISS OF LIFE NATTY FANCAM)",
       "channel": "Day_Day",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "41% 35%"
     },
     {
       "id": "v15690",
@@ -287191,7 +287337,8 @@
       "title": "260905 하늘 HANEUL 키스 오브 라이프 KISS OF LIFE💿Sticky [8K 30P] 직캠 FANCAM | 천안 K-컬처 박람회 | GalaxyMaru",
       "channel": "은하마루 GalaxyMaru",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "68% 35%"
     },
     {
       "id": "v15693",
@@ -287218,7 +287365,8 @@
       "title": "나띠Focus 키스오브라이프[KissOfLife] - \"sweat\" \"sticky\" [4k직캠]@천안K-컬처박람회컬투쇼 20260905",
       "channel": "buchaCAM",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "59% 35%"
     },
     {
       "id": "v15694",
@@ -287241,7 +287389,8 @@
       "title": "[4K60P] 260905 키스 오브 라이프(KISS OF LIFE) - 'Sticky' 나띠 직캠 | 2026 천안 K-컬쳐 박람회",
       "channel": "무슨 말이 필요해",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "61% 35%"
     },
     {
       "id": "v15695",
@@ -287266,7 +287415,8 @@
       "title": "[260905 천안 K-컬쳐 박람회] SWEAT + STICKY 키스오브라이프 쥴리 KISSOFLIFE JULIE Fancam ",
       "channel": "주우",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "68% 35%"
     },
     {
       "id": "v15696",
@@ -287310,7 +287460,8 @@
       "title": "260905 하늘 HANEUL 키스 오브 라이프 KISS OF LIFE💿SWEAT [8K 30P] 직캠 FANCAM | 천안 K-컬처 박람회 | GalaxyMaru",
       "channel": "은하마루 GalaxyMaru",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "72% 35%"
     },
     {
       "id": "v15698",
@@ -287356,7 +287507,8 @@
       "title": "260905 천안 K-컬쳐박람회 컬투쇼 공개방송 KISS OF LIFE 키스오브라이프 HANEUL 하늘 Sticky 세로 직캠 FANCAM",
       "channel": "NeRISE_yo",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "0% 35%"
     },
     {
       "id": "v15700",
@@ -287402,7 +287554,8 @@
       "title": "[4K60P] 260906 키스오브라이프(KISS OF LIFE) - 'SWEAT' 쥴리 직캠 | 2026 SPO TV K-POP AWARDS(SKA)",
       "channel": "무슨 말이 필요해",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "38% 35%"
     },
     {
       "id": "v15702",
@@ -287494,7 +287647,8 @@
       "title": "KISS OF LIFE - K-BYE [WATERBOMB KAOHSIUNG 2026/260913] Fancam 직캠 4K60",
       "channel": "Saipengu",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 42%"
     },
     {
       "id": "v15706",
@@ -287515,7 +287669,8 @@
       "title": "260923 키스오브라이프 KISS OF LIFE 'SWEAT' 4K 60P 직캠 @인덕대 축제 by DaftTaengk",
       "channel": "DaftTaengk",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 42%"
     },
     {
       "id": "v15707",
@@ -287531,7 +287686,8 @@
       "title": "260923 키스오브라이프 Full Ver. 4K 직캠 @인덕대 축제",
       "channel": "IDM CAM",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 38%"
     },
     {
       "id": "v15708",
@@ -287547,7 +287703,8 @@
       "title": "260923 키스오브라이프(KISS OF LIFE) 나띠 직캠 @인덕대학교 축제",
       "channel": "남상미",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "42% 35%"
     },
     {
       "id": "v15709",
@@ -287654,7 +287811,8 @@
       "title": "260923 키스오브라이프 KISS OF LIFE 'WHAT!' 4K 60P 직캠 @인덕대 축제 by DaftTaengk",
       "channel": "DaftTaengk",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 32%"
     },
     {
       "id": "v15714",
@@ -287668,7 +287826,8 @@
       "title": "키스오브라이프 풀샷 직캠 풀버전 KISS OF LIFE FANCAM 260923 인덕대축제",
       "channel": "사악키",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15715",
@@ -287925,7 +288084,8 @@
       "title": "SWEAT 키스오브라이프 하늘 인덕대학교 Kiss Of Live HANEUL Induk UNIV by 따라주",
       "channel": "따라주",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "82% 35%"
     },
     {
       "id": "v15726",
@@ -287971,7 +288131,8 @@
       "title": "260923 벨 BELLE 키스오브라이프 KISS OF LIFE ‘Sticky’ 4K 60P 직캠 @인덕대 축제 by 나의달 NAEDAL",
       "channel": "나의달 NAEDAL",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "37% 35%"
     },
     {
       "id": "v15728",
@@ -288010,7 +288171,8 @@
       "title": "키스오브라이프 #KISSOFLIFE @260928 충남대 공대 풀캠 ♬ Who is she ♬ Igloo ♬ Sticky ♬ SWEAT ♬ Lips Hips Kiss ♬ WHAT!",
       "channel": "K-POP 날것이 좋아",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 23%"
     },
     {
       "id": "v15729",
@@ -288074,7 +288236,8 @@
       "title": "260928 키스오브라이프 벨 SWEAT 세로직캠 @충남대",
       "channel": "Ksh Cam",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "0% 35%"
     },
     {
       "id": "v15732",
@@ -288095,7 +288258,8 @@
       "title": "260928 키스오브라이프 KISS OF LIFE 'SWEAT' 4K 60P 직캠 @충남대 공과대 축제 by DaftTaengk",
       "channel": "DaftTaengk",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 49%"
     },
     {
       "id": "v15733",
@@ -288109,7 +288273,8 @@
       "title": "KISS OF LIFE | 충남대 공대 축제 #키스오브라이프 #260928",
       "channel": "MD's clip",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15734",
@@ -288155,7 +288320,8 @@
       "title": "260928 키스오브라이프 벨 Lips Hips Kiss 세로직캠 @충남대",
       "channel": "Ksh Cam",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "0% 35%"
     },
     {
       "id": "v15736",
@@ -288178,7 +288344,8 @@
       "title": "260928 키스오브라이프 벨 Igloo 세로직캠 @충남대",
       "channel": "Ksh Cam",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "0% 35%"
     },
     {
       "id": "v15737",
@@ -288194,7 +288361,8 @@
       "title": "키스오브라이프 (KISS OF LIFE) 배재대축제 4K60P Full Ver 2026.9.28",
       "channel": "Ji hoon TV",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 23%"
     },
     {
       "id": "v15738",
@@ -288270,7 +288438,8 @@
       "title": "260928 키스오브라이프 Full Ver. 4K 직캠 @배재대 축제",
       "channel": "IDM CAM",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 48%"
     },
     {
       "id": "v15742",
@@ -288309,7 +288478,8 @@
       "title": "KISS OF LIFE 키스오브라이프 - Who is she + Igloo + Sticky + SWEAT + Lips hips Kiss + WHAT! 한국공학대 260930",
       "channel": "Tired Shark",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15743",
@@ -288323,7 +288493,8 @@
       "title": "261001 서일대 축제(seoil univ.) 키스오브라이프 공연(KissOfLife)",
       "channel": "수원행/train for suwon",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15744",
@@ -288337,7 +288508,8 @@
       "title": "키스오브라이프 KISS OF LIFE 261001 서일대 축제 full",
       "channel": "이채훈",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 20%"
     },
     {
       "id": "v15745",
@@ -288358,7 +288530,8 @@
       "title": "(4K) KISS OF LIFE (키스오브라이프) - CHEMISTRY | IDOL RADIO LIVE in MALAYSIA 261003",
       "channel": "KAMK",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15746",
@@ -288372,7 +288545,8 @@
       "title": "키스오브라이프 - 연성대학교 축제 직캠 KissOfLife Fancam 261015",
       "channel": "mang2goon",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 27%"
     },
     {
       "id": "v15747",
@@ -288386,7 +288560,8 @@
       "title": "KISS OF LIFE | 연성대 축제 직캠 #키스오브라이프 #261015",
       "channel": "MD's clip",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 47%"
     },
     {
       "id": "v15748",
@@ -288434,7 +288609,8 @@
       "title": "키스오브라이프 쥴리 ( Sticky + SWEAT ) 연성대학교 축제 직캠 KissOfLife Fancam 261015",
       "channel": "mang2goon",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "31% 35%"
     },
     {
       "id": "v15750",
@@ -288459,7 +288635,8 @@
       "title": "키스오브라이프 쥴리 ( Lips Hips Kiss + WHAT! ) 연성대학교 축제 직캠 KissOfLife Fancam 261015",
       "channel": "mang2goon",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "34% 35%"
     },
     {
       "id": "v15751",
@@ -288480,7 +288657,8 @@
       "title": "261015 키스 오브 라이프 하늘 KISS OF LIFE HANEUL - Sticky 직캠｜연성대학교 축제",
       "channel": "도리",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "57% 35%"
     },
     {
       "id": "v15752",
@@ -288518,7 +288696,8 @@
       "title": "261015 연성대 키스오브라이프 KISS OF LIFE Sticky #직캠 ",
       "channel": "콘서트 직촬",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15754",
@@ -288537,7 +288716,8 @@
       "title": "261015 연성대 키스오브라이프 KISS OF LIFE WHAT #직캠 ",
       "channel": "콘서트 직촬",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15755",
@@ -288556,7 +288736,8 @@
       "title": "261015 연성대 키스오브라이프 KISS OF LIFE Lips Hips Kiss #직캠 ",
       "channel": "콘서트 직촬",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 61%"
     },
     {
       "id": "v15756",
@@ -288792,7 +288973,8 @@
       "title": "키스오브라이프 쥴리 ( Who is she + Igloo ) 연성대학교 축제 직캠 KissOfLife Fancam 261015",
       "channel": "mang2goon",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "30% 35%"
     },
     {
       "id": "v15767",
@@ -288899,7 +289081,8 @@
       "title": "261015 KISS OF LIFE (키스오브라이프) 'Lips Hips Kiss' (하늘 직캠) 연성대학교 축제",
       "channel": "신짱캠",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "44% 35%"
     },
     {
       "id": "v15772",
@@ -289004,7 +289187,8 @@
       "title": "키스오브라이프 #KISSOFLIFE @261017 엠카 ♬ SWEAT #놀페 #플페",
       "channel": "K-POP 날것이 좋아",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 29%"
     },
     {
       "id": "v15777",
@@ -289027,7 +289211,8 @@
       "title": "261017 KISS OF LIFE (키스오브라이프)  쥴리 - WHAT! 4k60p 직캠 fancam @NOL FESTIVAL",
       "channel": "라임라임",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "40% 35%"
     },
     {
       "id": "v15778",
@@ -289096,7 +289281,8 @@
       "title": "[4K] 261017 KISS OF LIFE 키스오브라이프 하늘 직캠 Igloo | NOL FESTIVAL K-POP STAGE DAY1",
       "channel": "노브스튜디오(Nob)",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "0% 35%"
     },
     {
       "id": "v15781",
@@ -289117,7 +289303,8 @@
       "title": "[4K HDR] KISS OF LIFE(키스 오브 라이프), SWEAT - 261017 NOL FESTIVAL: K-POP STAGE Day 1",
       "channel": "kimbilly",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 35%"
     },
     {
       "id": "v15782",
@@ -289138,7 +289325,8 @@
       "title": "[4K HDR] KISS OF LIFE(키스 오브 라이프), WHAT! - 261017 NOL FESTIVAL: K-POP STAGE Day 1",
       "channel": "kimbilly",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15783",
@@ -289159,7 +289347,8 @@
       "title": "[4K HDR] KISS OF LIFE(키스 오브 라이프), Igloo - 261017 NOL FESTIVAL: K-POP STAGE Day 1",
       "channel": "kimbilly",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15784",
@@ -289180,7 +289369,8 @@
       "title": "[4K HDR] KISS OF LIFE(키스 오브 라이프), Tell Me - 261017 NOL FESTIVAL: K-POP STAGE Day 1",
       "channel": "kimbilly",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15785",
@@ -289201,7 +289391,8 @@
       "title": "[4K HDR] KISS OF LIFE(키스 오브 라이프), Sticky - 261017 NOL FESTIVAL: K-POP STAGE Day 1",
       "channel": "kimbilly",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15786",
@@ -289220,7 +289411,8 @@
       "title": "KISS OF LIFE 키스오브라이프 – Sticky 💚｜키오라 직캠｜NOL FESTIVAL K-POP STAGE 261017",
       "channel": "꽃비나리는&민트박스tv",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 38%"
     },
     {
       "id": "v15787",
@@ -289241,7 +289433,8 @@
       "title": "[4K HDR] KISS OF LIFE(키스 오브 라이프), Nothing - 261017 NOL FESTIVAL: K-POP STAGE Day 1",
       "channel": "kimbilly",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15788",
@@ -289260,7 +289453,8 @@
       "title": "[Igloo - KISS OF LIFE] 261017 NOLfestival (FULL)",
       "channel": "나띵가띵띵땅",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15789",
@@ -289279,7 +289473,8 @@
       "title": "[Sticky - KISS OF LIFE] 261017 NOLfestival (FULL)",
       "channel": "나띵가띵띵땅",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15790",
@@ -289371,7 +289566,8 @@
       "title": "261017 KISS OF LIFE (키스오브라이프)  쥴리 - Igloo 4k60p 직캠 fancam @NOL FESTIVAL",
       "channel": "라임라임",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "42% 35%"
     },
     {
       "id": "v15794",
@@ -289440,7 +289636,8 @@
       "title": "261017 'NOL FESTIVAL K-POP STAGE'  Kiss of life - Sticky 쥴리 Focus 4k60p",
       "channel": "한쥴리엣",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "0% 35%"
     },
     {
       "id": "v15797",
@@ -289487,7 +289684,8 @@
       "title": "261017 'NOL FESTIVAL K-POP STAGE'  Kiss of life - Nothing 쥴리 Focus 4k60p 세로캠",
       "channel": "한쥴리엣",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "63% 35%"
     },
     {
       "id": "v15799",
@@ -289529,7 +289727,8 @@
       "title": "KISS OF LIFE - SWEAT [열린 음악회/Open Concert] | KBS 261018 방송",
       "channel": "KBS 레전드 케이팝",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15801",
@@ -289548,7 +289747,8 @@
       "title": "KISS OF LIFE - WHAT! [열린 음악회/Open Concert] | KBS 261018 방송",
       "channel": "KBS 레전드 케이팝",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 0%"
     },
     {
       "id": "v15802",
@@ -289567,7 +289767,8 @@
       "title": "KISS OF LIFE - SWEAT | M COUNTDOWN : PLAY FESTA #엠카운트다운 EP.951 | Mnet 261028 방송",
       "channel": "Mnet K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15803",
@@ -289586,7 +289787,8 @@
       "title": "KISS OF LIFE - WHAT! | M COUNTDOWN : PLAY FESTA #엠카운트다운 EP.951 | Mnet 261028 방송",
       "channel": "Mnet K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15804",
@@ -289607,7 +289809,8 @@
       "title": "261106 키스오브라이프 KISS OF LIFE 'SWEAT' 4K 60P 직캠 @국회입법박람회 by DaftTaengk",
       "channel": "DaftTaengk",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 36%"
     },
     {
       "id": "v15805",
@@ -289649,7 +289852,8 @@
       "title": "261106 KISS OF LIFE (키스오브라이프) 'Lips Hips Kiss' (쥴리 직캠) 국회 입법박람회",
       "channel": "신짱캠",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "59% 35%"
     },
     {
       "id": "v15807",
@@ -289736,7 +289940,8 @@
       "title": "261106 키스오브라이프 KISS OF LIFE 'WHAT!' 4K 60P 직캠 @국회입법박람회 by DaftTaengk",
       "channel": "DaftTaengk",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 31%"
     },
     {
       "id": "v15811",
@@ -289897,7 +290102,8 @@
       "title": "261106 KISS OF LIFE(키스 오브 라이프) - SWEAT (Belle Focus) @2026 입법박람회 폐막식",
       "channel": "Long Black",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "56% 35%"
     },
     {
       "id": "v15818",
@@ -289918,7 +290124,8 @@
       "title": "261106 KISS OF LIFE(키스 오브 라이프) - Lips Hips Kiss (Belle Focus) @2026 입법박람회 폐막식",
       "channel": "Long Black",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "59% 35%"
     },
     {
       "id": "v15819",
@@ -289976,7 +290183,8 @@
       "title": "KISS OF LIFE - SWEAT♬",
       "channel": "SBS Entertainment",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15821",
@@ -289999,7 +290207,8 @@
       "title": "[FAN PICK CAM 4K] THE SHOW CHOICE - KISS OF LIFE 'JULIE '  @theshow 260811 방송",
       "channel": "THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "37% 35%"
     },
     {
       "id": "v15822",
@@ -290027,7 +290236,8 @@
       "title": "[4K CAM] 260923 키스오브라이프 벨 KISS OF LIFE BELLE 'Who is she' / ' 'Igloo' 세로 직캠",
       "channel": "떡상배",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "76% 35%"
     },
     {
       "id": "v15823",
@@ -290079,7 +290289,8 @@
       "title": "[4K CAM] 260923 키스오브라이프 하늘 KISS OF LIFE HANEUL 'SWEAT' 세로 직캠",
       "channel": "떡상배",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "81% 35%"
     },
     {
       "id": "v15825",
@@ -290183,7 +290394,8 @@
       "title": "260923 키스오브라이프 KISS OF LIFE 하늘 직캠 “SWEAT” #키스오브라이프 #KISSOFLIFE #하늘 #HANEUL #스웻 #SWEAT  ",
       "channel": "UNZENAMAY",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "57% 35%"
     },
     {
       "id": "v15829",
@@ -290238,7 +290450,8 @@
       "title": "[8K] 260328 키스 오브 라이프 KISS OF LIFE - Full Stage 직캠 Fancam @ASIA FANMEETING TOUR [DEJA VU]",
       "channel": "도리",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 27%"
     },
     {
       "id": "v15831",
@@ -290259,7 +290472,8 @@
       "title": "260328 KISS OF LIFE (키스오브라이프) - Sticky 나띠 8K 직캠 fancam @2026서울팬미팅",
       "channel": "라임라임",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "42% 35%"
     },
     {
       "id": "v15832",
@@ -290305,7 +290519,8 @@
       "title": "[4K] 260328 키스오브라이프 KISS OF LIFE 나띠 직캠 NATTY Fancam 'Bo Peep Bo Peep' @DEJA VU Fanmeeting in Seoul",
       "channel": "hush",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "74% 35%"
     },
     {
       "id": "v15834",
@@ -290368,7 +290583,8 @@
       "title": "[KISS OF LIFE(키스오브라이프)] 260328 'DEJA VU' IN SEOUL: Don't Mind me - HANEUL 하늘 FANCAM",
       "channel": "거북목",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "59% 35%"
     },
     {
       "id": "v15837",
@@ -290429,7 +290645,8 @@
       "title": "[8K] 260328 키스 오브 라이프 KISS OF LIFE - Bo Peep Bo Peep 직캠 Fancam @ASIA FANMEETING TOUR [DEJA VU]",
       "channel": "도리",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 49%"
     },
     {
       "id": "v15840",
@@ -290448,7 +290665,8 @@
       "title": "260328 KISS OF LIFE ASIA FANMEETING TOUR〈DEJA VU〉IN SEOUL Bo Peep Bo Peep",
       "channel": "불갸리스",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 24%"
     },
     {
       "id": "v15841",
@@ -290469,7 +290687,8 @@
       "title": "260328 KISS OF LIFE (키스오브라이프) - Midas Touch 나띠 8K 직캠 fancam @2026서울팬미팅",
       "channel": "라임라임",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "42% 35%"
     },
     {
       "id": "v15842",
@@ -290492,7 +290711,8 @@
       "title": "4K 키스오브라이프 나띠 Don't mind me (선공개곡) Kiss Of LIfe Natty⏐260328 DEJA VU IN SEOUL",
       "channel": "cupid's arrow",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "82% 35%"
     },
     {
       "id": "v15843",
@@ -290597,7 +290817,8 @@
       "title": "260329 키스오브라이프 KISS OF LIFE 'Loving U' 4K 60P 직캠 @KISS OF LIFE ASIA FANMEETING TOUR 〈DEJA VU〉",
       "channel": "DaftTaengk",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 46%"
     },
     {
       "id": "v15848",
@@ -290616,7 +290837,8 @@
       "title": "KISS OF LIFE - Don't Mind Me | ASIA FANMEETING TOUR [DEJA VU] IN SEOUL 260329",
       "channel": "릉릉 Seung What",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15849",
@@ -290681,7 +290903,8 @@
       "title": "KISS OF LIFE - 씨스타 'Loving U 러빙 유' | ASIA FANMEETING TOUR [DEJA VU] IN SEOUL 260329",
       "channel": "릉릉 Seung What",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 33%"
     },
     {
       "id": "v15852",
@@ -290721,7 +290944,8 @@
       "title": "[LIVE] KISS OF LIFE(키스오브라이프) 'Who is she' Showcase Stage",
       "channel": "K-POPIT 케이팝잇",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 31%"
     },
     {
       "id": "v15854",
@@ -290740,7 +290964,8 @@
       "title": "KISS OF LIFE (키스오브라이프) 'Who is she' | Media Showcase",
       "channel": "KISS OF LIFE",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15855",
@@ -290782,7 +291007,8 @@
       "title": "[LIVE] KISS OF LIFE(키스오브라이프) 'Don't Mind Me' Showcase Stage",
       "channel": "K-POPIT 케이팝잇",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 38%"
     },
     {
       "id": "v15857",
@@ -290803,7 +291029,8 @@
       "title": "WHO IS SHE? '키스 오브 라이프' 나띠 FOCUS CAM | KISS OF LIFE 컴백 쇼케이스",
       "channel": "엔터포케이 ENTER4K",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "41% 35%"
     },
     {
       "id": "v15858",
@@ -290822,7 +291049,8 @@
       "title": "'최초 공개' KISS OF LIFE - Who is she #엠카운트다운 EP.923 | Mnet 260409 방송",
       "channel": "Mnet K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 38%"
     },
     {
       "id": "v15859",
@@ -290845,7 +291073,8 @@
       "title": "[MPD직캠] 키스오브라이프 나띠 직캠 4K 'Who is she' (KISS OF LIFE NATTY FanCam) | @MCOUNTDOWN_2026.4.9",
       "channel": "M2",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "57% 35%"
     },
     {
       "id": "v15860",
@@ -290914,7 +291143,8 @@
       "title": "[MPD직캠] 키스오브라이프 벨 직캠 4K 'Who is she' (KISS OF LIFE BELLE FanCam) | @MCOUNTDOWN_2026.4.9",
       "channel": "M2",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "62% 35%"
     },
     {
       "id": "v15863",
@@ -290933,7 +291163,8 @@
       "title": "[MPD직캠] 키스오브라이프 직캠 8K 'Who is she' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2026.4.9",
       "channel": "M2",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 28%"
     },
     {
       "id": "v15864",
@@ -290979,7 +291210,8 @@
       "title": "[입덕직캠] 키스오브라이프 쥴리 직캠 4K 'Who is she' (KISS OF LIFE JULIE FanCam) | @MCOUNTDOWN_2026.4.9",
       "channel": "M2",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "60% 35%"
     },
     {
       "id": "v15866",
@@ -290998,7 +291230,8 @@
       "title": "Who is she - KISS OF LIFE [뮤직뱅크/Music Bank] | KBS 260410 방송",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15867",
@@ -291022,7 +291255,8 @@
       "title": "얼빡직캠 4K] 키스오브라이프 나띠 'Who is she' (KISS OF LIFE NATTY Facecam) @뮤직뱅크(Music Bank) 260410",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "58% 35%"
     },
     {
       "id": "v15868",
@@ -291070,7 +291304,8 @@
       "title": "[얼빡직캠 4K] 키스오브라이프 하늘 'Who is she' (KISS OF LIFE HANEUL Facecam) @뮤직뱅크(Music Bank) 260410",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "43% 35%"
     },
     {
       "id": "v15870",
@@ -291094,7 +291329,8 @@
       "title": "[얼빡직캠 4K] 키스오브라이프 벨 'Who is she' (KISS OF LIFE BELLE Facecam) @뮤직뱅크(Music Bank) 260410",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "57% 35%"
     },
     {
       "id": "v15871",
@@ -291113,7 +291349,8 @@
       "title": "[K-Choreo 8k] 키스오브라이프 'Who is she' (KISS OF LIFE Choreography) @MusicBank 260410",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15872",
@@ -291132,7 +291369,8 @@
       "title": "여자의 악마 키오프 컴백!!!!!!!!! 😈 키스오브라이프(KISS OF LIFE) 'Who is she' #뮤직뱅크 | KBS 260410 방송",
       "channel": "KBS 한국방송",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 47%"
     },
     {
       "id": "v15873",
@@ -291151,7 +291389,8 @@
       "title": "KISS OF LIFE (키스 오브 라이프) - Who is she | Show! MusicCore | MBC260411방송",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15874",
@@ -291172,7 +291411,8 @@
       "title": "[#음중직캠] KISS OF LIFE NATTY (키스오브라이프 나띠) – Who is she FanCam | 쇼! 음악중심 | MBC260411",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "67% 35%"
     },
     {
       "id": "v15875",
@@ -291193,7 +291433,8 @@
       "title": "[#음중직캠] KISS OF LIFE JULIE (키스오브라이프 쥴리) – Who is she FanCam | 쇼! 음악중심 | MBC260411",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "69% 35%"
     },
     {
       "id": "v15876",
@@ -291214,7 +291455,8 @@
       "title": "[#음중직캠] KISS OF LIFE HANEUL (키스오브라이프 하늘) – Who is she FanCam | 쇼! 음악중심 | MBC260411",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "68% 35%"
     },
     {
       "id": "v15877",
@@ -291235,7 +291477,8 @@
       "title": "[#음중직캠] KISS OF LIFE BELLE (키스오브라이프 벨) – Who is she FanCam | 쇼! 음악중심 | MBC260411",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "79% 35%"
     },
     {
       "id": "v15878",
@@ -291254,7 +291497,8 @@
       "title": "[#음중풀캠] KISS OF LIFE (키스오브라이프) – Who is she FullCam | 쇼! 음악중심 | MBC260411",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 34%"
     },
     {
       "id": "v15879",
@@ -291273,7 +291517,8 @@
       "title": "Who is she - KISS OF LIFE | SBS 260412 방송",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 27%"
     },
     {
       "id": "v15880",
@@ -291319,7 +291564,8 @@
       "title": "[안방1열 직캠4K] 키스오브라이프 쥴리 'Who is she' (KISS OF LIFE JULIE FanCam) @SBS Inkigayo 260412",
       "channel": "SBSKPOP ZOOM",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "58% 35%"
     },
     {
       "id": "v15882",
@@ -291365,7 +291611,8 @@
       "title": "[안방1열 직캠4K] 키스오브라이프 벨 'Who is she' (KISS OF LIFE BELLE FanCam) @SBS Inkigayo 260412",
       "channel": "SBSKPOP ZOOM",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "57% 35%"
     },
     {
       "id": "v15884",
@@ -291386,7 +291633,8 @@
       "title": "[안방1열 풀캠4K] 키스오브라이프 'Who is she' (KISS OF LIFE FullCam) @SBS Inkigayo 260412",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15885",
@@ -291407,7 +291655,8 @@
       "title": "[단독샷캠4K] 키스오브라이프 'Who is she' 단독샷 별도녹화│KISS OF LIFE ONE TAKE STAGE│@SBS Inkigayo 260412",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15886",
@@ -291455,7 +291704,8 @@
       "title": "[페이스캠4K] 키스오브라이프 쥴리 'Who is she' (KISS OF LIFE JULIE FaceCam) @SBS Inkigayo 260412",
       "channel": "SBSKPOP ZOOM",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "60% 35%"
     },
     {
       "id": "v15888",
@@ -291469,7 +291719,8 @@
       "title": "KISS OF LIFE - Overall Fancam [ K2O Songkran Music Festival ] | 260414",
       "channel": "BEGIN XOXO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 67%"
     },
     {
       "id": "v15889",
@@ -291483,7 +291734,8 @@
       "title": "KISS OF LIFE LIVE SET | K2O SONGKRAN MUSIC FESTIVAL 2026",
       "channel": "K2O Songkran Music Festival",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 27%"
     },
     {
       "id": "v15890",
@@ -291499,7 +291751,8 @@
       "title": "KISS OF LIFE (키스오브라이프) : K2O 2026 in Bangkok [14.04.2026] [4K 60FPS] [Sub-Main Stage]",
       "channel": "YIBKLONG 📱",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 29%"
     },
     {
       "id": "v15891",
@@ -291518,7 +291771,8 @@
       "title": "KISS OF LIFE - Who is she #엠카운트다운 EP.924 | Mnet 260416 방송",
       "channel": "Mnet K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 52%"
     },
     {
       "id": "v15892",
@@ -291539,7 +291793,8 @@
       "title": "[MPD직캠] 키스오브라이프 1위 앵콜 직캠 4K 'Who is she' (KISS OF LIFE FanCam No.1 Encore) | @MCOUNTDOWN_2026.4.16",
       "channel": "M2",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 36%"
     },
     {
       "id": "v15893",
@@ -291560,7 +291815,8 @@
       "title": "[MPD직캠] 키스오브라이프 직캠 4K 'Who is she' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2026.4.16",
       "channel": "M2",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15894",
@@ -291579,7 +291835,8 @@
       "title": "Who is she - KISS OF LIFE [뮤직뱅크/Music Bank] | KBS 260417 방송",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15895",
@@ -291621,7 +291878,8 @@
       "title": "[K-Fancam] 키스오브라이프 쥴리 직캠 'Who is she' (KISS OF LIFE JULIE Fancam) @뮤직뱅크(Music Bank) 260417",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "76% 35%"
     },
     {
       "id": "v15897",
@@ -291682,7 +291940,8 @@
       "title": "[K-Choreo 8K] 키스오브라이프 직캠 'Who is she' (KISS OF LIFE Choreography) @MusicBank 260417",
       "channel": "KBS Kpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15900",
@@ -291701,7 +291960,8 @@
       "title": "KISS OF LIFE (키스 오브 라이프) - Who is she | Show! MusicCore | MBC260418방송",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15901",
@@ -291722,7 +291982,8 @@
       "title": "[#음중직캠] KISS OF LIFE NATTY (키스오브라이프 나띠) – Who is she FanCam | 쇼! 음악중심 | MBC260418",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "67% 35%"
     },
     {
       "id": "v15902",
@@ -291743,7 +292004,8 @@
       "title": "[#음중직캠] KISS OF LIFE JULIE (키스오브라이프 쥴리) – Who is she FanCam | 쇼! 음악중심 | MBC260418",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "71% 35%"
     },
     {
       "id": "v15903",
@@ -291762,7 +292024,8 @@
       "title": "[#음중풀캠] KISS OF LIFE (키스오브라이프) – Who is she FullCam | 쇼! 음악중심 | MBC260418",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 36%"
     },
     {
       "id": "v15904",
@@ -291781,7 +292044,8 @@
       "title": "Who is she - KISS OF LIFE | SBS 260419 방송",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15905",
@@ -291894,7 +292158,8 @@
       "title": "[안방1열 풀캠4K] 키스오브라이프 'Who is she' (KISS OF LIFE FullCam) @SBS Inkigayo 260419",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15910",
@@ -291913,7 +292178,8 @@
       "title": "KISS OF LIFE - Who is she [열린 음악회/Open Concert] | KBS 260419 방송",
       "channel": "KBS 레전드 케이팝",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15911",
@@ -291932,7 +292198,8 @@
       "title": "KISS OF LIFE - Sticky [열린 음악회/Open Concert] | KBS 260419 방송",
       "channel": "KBS 레전드 케이팝",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15912",
@@ -291951,7 +292218,8 @@
       "title": "[COMEBACK] KISS OF LIFE - Who is she l Show Champion l EP.594 l 260422",
       "channel": "ALL THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15913",
@@ -291970,7 +292238,8 @@
       "title": "[덕질캡처용♥CLEAN] KISS OF LIFE - Who is she l Show Champion l EP.594",
       "channel": "ALL THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15914",
@@ -292083,7 +292352,8 @@
       "title": "[쇼챔직캠 4K] KISS OF LIFE(키스오브라이프) - Who is she | Show Champion | EP.594 | 260422",
       "channel": "ALL THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 28%"
     },
     {
       "id": "v15919",
@@ -292106,7 +292376,8 @@
       "title": "[쇼챔 원픽캠 4K] KISS OF LIFE NATTY(키스오브라이프 나띠) - Who is she | Show Champion | EP.594 | 260422",
       "channel": "ALL THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "42% 35%"
     },
     {
       "id": "v15920",
@@ -292152,7 +292423,8 @@
       "title": "[쇼챔 원픽캠 4K] KISS OF LIFE HANEUL(키스오브라이프 하늘) - Who is she | Show Champion | EP.594 | 260422",
       "channel": "ALL THE K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "44% 35%"
     },
     {
       "id": "v15922",
@@ -292194,7 +292466,8 @@
       "title": "KISS OF LIFE - Who is she #엠카운트다운 EP.925 | Mnet 260423 방송",
       "channel": "Mnet K-POP",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 54%"
     },
     {
       "id": "v15924",
@@ -292215,7 +292488,8 @@
       "title": "[MPD직캠] 키스오브라이프 직캠 4K 'Who is she' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2026.4.23",
       "channel": "M2",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 37%"
     },
     {
       "id": "v15925",
@@ -292234,7 +292508,8 @@
       "title": "KISS OF LIFE (키스 오브 라이프) - Who is she | Show! MusicCore | MBC260425방송",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15926",
@@ -292255,7 +292530,8 @@
       "title": "[#음중직캠] KISS OF LIFE NATTY (키스오브라이프 나띠) – Who is she FanCam | 쇼! 음악중심 | MBC260425",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "74% 35%"
     },
     {
       "id": "v15927",
@@ -292274,7 +292550,8 @@
       "title": "[#음중풀캠] KISS OF LIFE (키스오브라이프) – Who is she FullCam | 쇼! 음악중심 | MBC260425",
       "channel": "MBCkpop",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 37%"
     },
     {
       "id": "v15928",
@@ -292293,7 +292570,8 @@
       "title": "Who is she - KISS OF LIFE | SBS 260426 방송",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 37%"
     },
     {
       "id": "v15929",
@@ -292314,7 +292592,8 @@
       "title": "[안방1열 풀캠4K] 키스오브라이프 'Who is she' (KISS OF LIFE FullCam) @SBS Inkigayo ON THE GO 260426",
       "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15930",
@@ -292335,7 +292614,8 @@
       "title": "260506 키스오브라이프 KISS OF LIFE 'Who is she' 4K 60P 직캠 @전북대 축제 by DaftTaengk",
       "channel": "DaftTaengk",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 23%"
     },
     {
       "id": "v15931",
@@ -292431,7 +292711,8 @@
       "title": "[플리캠 4K] KISS OF LIFE JULIE ‘Who is she’ (키스오브라이프 쥴리 직캠) | Simply K-Pop EP.05 260508",
       "channel": "Koreanet",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "64% 35%"
     },
     {
       "id": "v15935",
@@ -292454,7 +292735,8 @@
       "title": "[플리캠 4K] KISS OF LIFE HANEUL ‘Who is she’ (키스오브라이프 하늘 직캠) | Simply K-Pop EP.05 260508",
       "channel": "Koreanet",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "66% 35%"
     },
     {
       "id": "v15936",
@@ -292477,7 +292759,8 @@
       "title": "[플리캠 4K] KISS OF LIFE BELLE ‘Who is she’ (키스오브라이프 벨 직캠) | Simply K-Pop EP.05 260508",
       "channel": "Koreanet",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "57% 35%"
     },
     {
       "id": "v15937",
@@ -292496,7 +292779,8 @@
       "title": "Kiss of life - who is she @ kcon japan 2026",
       "channel": "DafkGher",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15938",
@@ -292531,7 +292815,8 @@
       "title": "키스오브라이프 (KISS OF LIFE) 2026 순천향대학교 축제 Full Ver.(Who is she +Igloo+Sticky + Nothing+Lips Hips Kiss)",
       "channel": "Rock Music",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 5%"
     },
     {
       "id": "v15939",
@@ -292615,7 +292900,8 @@
       "title": "키스오브라이프 (KISS OF LIFE) 'Who is she' | 순천향대학교 축제 260512",
       "channel": "Rock Music",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 12%"
     },
     {
       "id": "v15943",
@@ -292634,7 +292920,8 @@
       "title": "260512 키스오브라이프 KISS OF LIFE - Who is she 전체 직캠 @순천향대학교",
       "channel": "Ksh Cam",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 27%"
     },
     {
       "id": "v15944",
@@ -292741,7 +293028,8 @@
       "title": "[4K] 260514 KISS OF LIFE - Who is she",
       "channel": "랑자",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15949",
@@ -292755,7 +293043,8 @@
       "title": "키스오브라이프 - 서경대학교 축제 직캠 KissOfLife Fancam 260515",
       "channel": "mang2goon",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 34%"
     },
     {
       "id": "v15950",
@@ -292780,7 +293069,8 @@
       "title": "키스오브라이프 나띠 ( who is she + Sticky ) 서경대학교 축제 직캠 KissOfLife Fancam 260515",
       "channel": "mang2goon",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "23% 35%"
     },
     {
       "id": "v15951",
@@ -292805,7 +293095,8 @@
       "title": "키스오브라이프 쥴리 ( Igloo + Lips Hips Kiss ) 서경대학교 축제 직캠 KissOfLife Fancam 260515",
       "channel": "mang2goon",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "24% 35%"
     },
     {
       "id": "v15952",
@@ -292826,7 +293117,8 @@
       "title": "키스오브라이프 벨 ( Nothing ) 서경대학교 축제 직캠 KissOfLife Fancam 260515",
       "channel": "mang2goon",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "24% 35%"
     },
     {
       "id": "v15953",
@@ -292845,7 +293137,8 @@
       "title": "키스오브라이프 @260519 서울시립대 ♬ Who is she #KISSOFLIFE #키오프 #kpop #fancam #대학축제",
       "channel": "K-POP 날것이 좋아",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 24%"
     },
     {
       "id": "v15954",
@@ -292868,7 +293161,8 @@
       "title": "[4K] 260519 서울시립대학교 키스오브라이프 쥴리 Who is she 직캠",
       "channel": "삼구",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "41% 35%"
     },
     {
       "id": "v15955",
@@ -292889,7 +293183,8 @@
       "title": "260519 키스오브라이프 KISS OF LIFE 'Who is she' 4K 60P 직캠 @서울시립대 축제 by DaftTaengk",
       "channel": "DaftTaengk",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15956",
@@ -292935,7 +293230,8 @@
       "title": "[4K] 260519 서울시립대학교 키스오브라이프 쥴리 Sticky 스티키 직캠",
       "channel": "삼구",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "57% 35%"
     },
     {
       "id": "v15958",
@@ -292954,7 +293250,8 @@
       "title": "WHO IS SHE | KISS OF LIFE FANCAM #키스오브라이프 #직캠 #한양대 #에리카 #260521",
       "channel": "MD's clip",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 42%"
     },
     {
       "id": "v15959",
@@ -292968,7 +293265,8 @@
       "title": "260527 KISS OF LIFE (키스오브라이프) - 동서대학교 축제 직캠 (Fancam)",
       "channel": "Starrysky",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 27%"
     },
     {
       "id": "v15960",
@@ -292989,7 +293287,8 @@
       "title": "260527 나띠 NATTY 키스 오브 라이프 KISS OF LIFE💿 Lips Hips Kiss [8K 30P] 직캠 FANCAM @동서대 축제 by GalaxyMaru",
       "channel": "은하마루 GalaxyMaru",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "85% 35%"
     },
     {
       "id": "v15961",
@@ -293024,7 +293323,8 @@
       "title": "KISS OF LIFE (키스오브라이프)직캠 @ 2026부산동서대학대동제 민석축제 260527",
       "channel": "카카포 KAKAPO",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 22%"
     },
     {
       "id": "v15963",
@@ -293045,7 +293345,8 @@
       "title": "260527 나띠 NATTY 키스 오브 라이프 KISS OF LIFE💿Sticky [8K 30P ]직캠 FANCAM @동서대 축제 by GalaxyMaru",
       "channel": "은하마루 GalaxyMaru",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "74% 35%"
     },
     {
       "id": "v15964",
@@ -293089,7 +293390,8 @@
       "title": "260527 나띠 NATTY 키스 오브 라이프 KISS OF LIFE💿Igloo [8K 30P] 직캠 FANCAM @동서대 축제 by GalaxyMaru",
       "channel": "은하마루 GalaxyMaru",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "65% 35%"
     },
     {
       "id": "v15966",
@@ -293219,7 +293521,8 @@
       "title": "키스 오브 라이프 (KISS OF LIFE) 하늘 (HANEUL) Who Is She [4K60P] 260527 동서대학교 직캠 by ECU",
       "channel": "Cam ECU",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "0% 35%"
     },
     {
       "id": "v15972",
@@ -293259,7 +293562,8 @@
       "title": "[KCON JAPAN 2026] KISS OF LIFE - Who is she | Mnet 260529 방송",
       "channel": "KCON official",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 50%"
     },
     {
       "id": "v15974",
@@ -293275,7 +293579,8 @@
       "title": "KISS OF LIFE ASIA FANMEETING TOUR〈DEJA VU〉IN BANGKOK @BBC Hall  [06.06.2026] [4K 60FPS]",
       "channel": "YIBKLONG 📱",
       "pin": false,
-      "gone": false
+      "gone": false,
+      "thumbPos": "50% 40%"
     },
     {
       "id": "v15975",
@@ -293297,6 +293602,901 @@
       "channel": "ChaeCam",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v15976",
+      "ytId": "y2pMSsursXU",
+      "eventId": "e881",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K AI Upscale] 260326 YENA(최예나) - 캐치 캐치 (Catch Catch) @ Mnet M! Countdown E921",
+      "channel": "Taehyeong Kim [K-POP Video]",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15977",
+      "ytId": "KeHWHa9OAn8",
+      "eventId": "e884",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260404 최예나 '캐치캐치' 직캠(fancam) @concert 콘서트 #CatchCatch #YENA",
+      "channel": "보가츠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15978",
+      "ytId": "egDYyY9_ekA",
+      "eventId": "e884",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "최예나 전체무대 직캠 @ 2026 YENA LIVE TOUR In Seoul 260404",
+      "channel": "안미운오리새끼",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15979",
+      "ytId": "N-nNXIBs_b8",
+      "eventId": "e891",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260725 YENA Fancam ‘SMILEY (Soundcheck)' / 최예나 직캠 @ ACON in Taipei",
+      "channel": "Soupzip 수프집",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15980",
+      "ytId": "Kb6JWrz60dM",
+      "eventId": "e891",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K Full】260725 YENA (최예나) - ACON 2026 공연 전체 직캠",
+      "channel": "YZ澤",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "42% 35%"
+    },
+    {
+      "id": "v15981",
+      "ytId": "uvRl1v91RX4",
+      "eventId": "e902",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k60p] \"SMILEY\" 최예나 직캠 한국전통문화대학교 260911#스마일리 #smiley #예나 #yena #최예나",
+      "channel": "ECwizone",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15982",
+      "ytId": "yfaWwYBxgTY",
+      "eventId": "e904",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "YENA (최예나) Full Ver @ 부산가톨릭대학교 2026오륜골축제 260917",
+      "channel": "카카포 KAKAPO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15983",
+      "ytId": "OWvB08jHZqI",
+      "eventId": "e953",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260328 Belle Kiss Of Life ''Sticky'' Fancam",
+      "channel": "Z O O M",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15984",
+      "ytId": "agL1_mq80tE",
+      "eventId": "e953",
+      "songs": [
+        {
+          "songId": "g10s24",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260328 Belle Kiss Of Life ''Bo Peep Bo Peep'' Fancam",
+      "channel": "FancamIdol",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15985",
+      "ytId": "CDoL32n8RKc",
+      "eventId": "e954",
+      "songs": [
+        {
+          "songId": "g10s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260329 키스오브라이프 KISS OF LIFE 하늘 직캠 Haneul Fancam 'Loving U' @[DEJA VU] IN SEOUL DAY 2",
+      "channel": "Blumire_Sky",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15986",
+      "ytId": "HVA4qyCgqWM",
+      "eventId": "e969",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260426 키스오브라이프 하늘 KISS OF LIFE HANEUL 'Who is she' | SBS Inkigayo ON THE GO",
+      "channel": "Spotted",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15987",
+      "ytId": "p3MDUL4-ufA",
+      "eventId": "e969",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[260426 인기가요 ] Who is she 키스오브라이프 쥴리 KISS OF LIFE JULIE Fancam",
+      "channel": "주우",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15988",
+      "ytId": "zsF-39hS4os",
+      "eventId": "e970",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260506 Belle Kiss Of Life ''Who is she'' fancam",
+      "channel": "FancamIdol",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15989",
+      "ytId": "DdwVy-5BtKs",
+      "eventId": "e970",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260506 Haneul Kiss Of Life ''Who is she'' fancam",
+      "channel": "FancamKpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15990",
+      "ytId": "aC_6H02sp88",
+      "eventId": "e973",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[260512 순천향대학교] Who is she 키스오브라이프 쥴리 KISS OF LIFE JULIE Fancam",
+      "channel": "주우",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "44% 35%"
+    },
+    {
+      "id": "v15991",
+      "ytId": "uAOnc6RbN_c",
+      "eventId": "e974",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260514 용인대학교 키스오브라이프 쥴리 sticky 스티키 직캠",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "44% 35%"
+    },
+    {
+      "id": "v15992",
+      "ytId": "A3tAHrLw1-A",
+      "eventId": "e974",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260514 용인대학교 키스오브라이프 쥴리 Igloo 이글루 직캠",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "37% 35%"
+    },
+    {
+      "id": "v15993",
+      "ytId": "CaPDWkHxzmI",
+      "eventId": "e974",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260514 용인대학교 키스오브라이프 쥴리 Lips Hips Kiss 직캠",
+      "channel": "삼구",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "38% 35%"
+    },
+    {
+      "id": "v15994",
+      "ytId": "0O8X0sjUesE",
+      "eventId": "e976",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s6",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260519 키스오브라이프 KISS OF LIFE 하늘 직캠 “Who is She + Igloo + Sticky + Nothing + Lips Hips Kiss” 서울시립대 축제 ",
+      "channel": "UNZENAMAY",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "58% 35%"
+    },
+    {
+      "id": "v15995",
+      "ytId": "gYMlITlKatA",
+      "eventId": "e976",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260519 KISS OF LIFE 키스오브라이프 쥴리 - Sticky 스티키 (서울시립대 축제) 직캠 fancam by zam",
+      "channel": "z a m",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "32% 35%"
+    },
+    {
+      "id": "v15996",
+      "ytId": "b4BbCAgJF4c",
+      "eventId": "e978",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1",
+        "g10m2",
+        "g10m3",
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260527키스오브라이프-who is she [4K] 동서대축제 #키스오브라이프#벨#나띠#쥴리#하늘#걸그룹#축제#공연#KISS OF LIFE",
+      "channel": "무대인사매니아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15997",
+      "ytId": "5FuwazT5Zh0",
+      "eventId": "e921",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260725 KISS OF LIFE HANEUL Fancam 'Igloo' / 키스오브라이프 하늘 직캠",
+      "channel": "4sun_star",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "81% 35%"
+    },
+    {
+      "id": "v15998",
+      "ytId": "LH-3sMLcy2c",
+      "eventId": "e921",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260725 KISS OF LIFE JULIE Fancam ‘Sticky (Soundcheck)' / 키스오브라이프 쥴리 직캠 @ ACON in Taipei",
+      "channel": "Soupzip 수프집",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15999",
+      "ytId": "NUmK_XBwlb8",
+      "eventId": "e922",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260802 양양 서피비치 키스오브라이프 쥴리 'Tell Me' 텔미 직캠 kiss of life KIOF JULIE 4k fancam",
+      "channel": "먕",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16000",
+      "ytId": "KE8K1okX8xI",
+      "eventId": "e926",
+      "songs": [
+        {
+          "songId": "g10s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260809 Level Up - Julie (KISS OF LIFE) Fancam 직캠 | 2026 가요대전 Summer #키스오브라이프 #쥴리",
+      "channel": "sexy classy lovely",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "73% 35%"
+    },
+    {
+      "id": "v16001",
+      "ytId": "8jMZLC-BOT4",
+      "eventId": "e928",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] KISS OF LIFE (키스 오브 라이프 쥴리) - SWEAT | Show Champion | EP.607 | 260812",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16002",
+      "ytId": "u5SNm33iiGY",
+      "eventId": "e931",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] KISS OF LIFE (키스오브라이프) JULIE (쥴리) - 'SWEAT' @SBS Inkigayo 260816 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16003",
+      "ytId": "gOiliWxA-sA",
+      "eventId": "e931",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] KISS OF LIFE (키스오브라이프) NATTY (나띠)  - 'SWEAT' @SBS Inkigayo 260816 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16004",
+      "ytId": "e45wuJCShCQ",
+      "eventId": "e933",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] KISS OF LIFE (키스 오브 라이프 벨) - SWEAT | Show Champion | EP.608 | 260819",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16005",
+      "ytId": "emsYT4YPP5w",
+      "eventId": "e939",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260905 천안 K-컬쳐 컬투쇼 키스오브라이프 쥴리 Sticky 직캠 | KISSOFLIFE JULIE FANCAM",
+      "channel": "1uvitr0utine",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16006",
+      "ytId": "DcWfkFqJlGM",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260923 KISS OF LIFE 키스오브라이프 벨 - Lips Hips Kiss 립스힙스키스 (인덕대 축제) 직캠 fancam by zam",
+      "channel": "z a m",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16007",
+      "ytId": "zlzxmSN50nw",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] KISS OF LIFE HANEUL 'WHAT!' Fancam @Induk University Festival Sep 23, 2026 by NAEDAL",
+      "channel": "나의달 NAEDAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16008",
+      "ytId": "sFG0qfy8UA8",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260923 KISS OF LIFE 키스오브라이프 나띠 - Sticky 스티키 (인덕대 축제) 직캠 fancam by zam",
+      "channel": "z a m",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16009",
+      "ytId": "t1PT7TaD1eI",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] KISS OF LIFE BELLE 'Lips Hips Kiss' Fancam @Induk University Festival Sep 23, 2026 by NAEDAL",
+      "channel": "나의달 NAEDAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16010",
+      "ytId": "d0rjVvSesYw",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260923 키스오브라이프 쥴리 KISS OF LIFE 'SWEAT' @인덕대학교 /직캠 Fancam",
+      "channel": "곰곰s",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16011",
+      "ytId": "FlsM9j0U8hI",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[20260923] 키스오브라이프 - 벨 (KISS OF LIFE - BELLE) ♪ Lips Hips Kiss ♬ 인덕대학교 축제",
+      "channel": "ZetaCAM 제타캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16012",
+      "ytId": "E_3KNDlTwfY",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260923 키스오브라이프 쥴리 KISS OF LIFE 'SWEAT' @인덕대학교 /직캠 Fancam",
+      "channel": "곰곰s",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16013",
+      "ytId": "SDkan1o1uMs",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260923 쥴리 JULIE 키스오브라이프 KISS OF LIFE ‘SWEAT’ 4K 60P 직캠 @인덕대 축제 by 나의달 NAEDAL",
+      "channel": "나의달 NAEDAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16014",
+      "ytId": "zye9AQK-F2M",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[SWEAT - KISS OF LIFE] 261017 NOLfestival (FULL)",
+      "channel": "나띵가띵띵땅",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "50% 45%"
+    },
+    {
+      "id": "v16015",
+      "ytId": "YKA686PYD5M",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261017 KISS OF LIFE 키스오브라이프 쥴리 직캠 Nothing | NOL FESTIVAL K-POP STAGE DAY1",
+      "channel": "노브스튜디오(Nob)",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "56% 35%"
     }
   ],
   "clips": []
