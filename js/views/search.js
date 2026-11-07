@@ -125,35 +125,60 @@ export function searchHTML(q) {
     ${r.groups.length > limit ? html`<div class="row-actions" style="justify-content:center;margin-top:16px"><button type="button" class="btn" data-act="searchMore">공연 ${Math.min(PAGE, r.groups.length - limit)}곳 더 보기 (${shown.length}/${r.groups.length})</button></div>` : ''}`;
 }
 
+// 공연마다 한 줄: 왼쪽에 날짜·행사·그룹, 오른쪽에 맞은 영상을 조밀 모드 띠 썸네일로 가로로 늘어놓는다.
+// 한 줄에 다 안 들어가면 끝에 +N, 누르면 그 공연만 펼친다(app.sOpen). 제목·채널은 썸네일에 올리면 말풍선으로
+export const sOpen = new Set();
+const normTitle = (v) => norm(`${v.title || ''} ${v.channel || ''}`);
+
 function card(E, videos, clips, tokens) {
   const g = E.group, ix = app.ix;
-  const full = videos.filter((v) => v.type === 'full').slice(0, 4);
-  const cams = videos.filter((v) => v.type !== 'full').slice(0, PER_CARD);
-  const hidden = videos.length - full.length - cams.length;
+  const full = videos.filter((v) => v.type === 'full');
+  const cams = videos.filter((v) => v.type !== 'full');
   const dateLine = `${fmtMD(E.date)} ${E.ev.show}${E.ev.label ? ` ${E.ev.label}` : ''}`;
-  // 목록형: 작은 썸네일 + 글 세 줄. 날짜·행사는 머리에 있으니 줄마다 되풀이하지 않는다. 줄 전체가 재생 링크
-  const row = (v) => {
+  const open = sOpen.has(E.id);
+  const hit = (v) => { const t = normTitle(v); return tokens.some((k) => t.includes(k)); };
+  const cell = (v) => {
     const songKey = v.songs?.[0]?.songId;
-    return html`<li class="srow${v.type === 'full' ? ' full' : ''}">
-      ${videoThumb(v, { ratio: v.type === 'full' ? '169' : '23', songKey })}
-      <a class="stext" href="${playHref(v, songKey)}" tabindex="-1">
-        <span class="s1">${hl(`${songsText(v)} · ${whoText(ix, v.memberIds, v.type)}`, tokens)}</span>
-        <span class="s2">${hl([srcTags(v), v.channel].filter(Boolean).join(' · '), tokens)}</span>
-        <span class="s3">${hl(v.title || '', tokens)}</span>
-      </a></li>`;
+    const isFull = v.type === 'full';
+    const tip = `${songsText(v)} · ${whoText(ix, v.memberIds, v.type)}\n${[srcTags(v), v.channel].filter(Boolean).join(' · ')}\n${v.title || ''}`;
+    return html`<div class="sc${isFull ? ' full' : ''}" data-n="1" title="${tip}">${videoThumb(v, { ratio: isFull ? '169' : 'strip', songKey, label: `${songsText(v)} · ${whoText(ix, v.memberIds, v.type)} 재생`, stripExtra: '', extraBadge: hit(v) ? html`<i class="hitdot" aria-hidden="true"></i>` : '' })}</div>`;
   };
-  return html`<section class="scard" aria-label="${dateLine}">
-    <div class="scard-head">
+  // 풀캠은 둘씩 위아래로 쌓아 한 칸에(가로를 덜 먹게)
+  const fullCols = [];
+  for (let i = 0; i < full.length; i += 2) fullCols.push(full.slice(i, i + 2));
+  const fullCell = (vs) => html`<div class="sc fcol" data-n="${vs.length}">${vs.map(cell)}</div>`;
+  const clipCell = (C) => html`<div class="sc" data-n="1">${clipThumb(C, { ratio: '23' })}</div>`;
+  return html`<section class="sline${open ? ' open' : ''}" data-e="${E.id}" aria-label="${dateLine}">
+    <div class="sl-head">
       <span class="d-big">${hl(fmtMD(E.date), tokens)}</span>${dowPill(E.date)}
       <a class="show" href="${href({ g: g.id, e: E.id })}">${hl(E.ev.show, tokens)}${E.ev.label ? html`<span class="lbl">${hl(E.ev.label, tokens)}</span>` : ''}</a>
       <span class="grp"><span class="dot" style="${`background:hsl(${Number(g.hue) || 0} 55% 45%)`}"></span>${hl(g.name, tokens)}</span>
-      ${E.ev.note ? html`<span class="note">${hl(E.ev.note, tokens)}</span>` : ''}
       <a class="open textlink" href="${href({ g: g.id, e: E.id })}">공연 폴더 →</a>
     </div>
-    <ul class="slist">${[...full, ...cams].map(row)}</ul>
-    ${clips.length ? html`<div class="grid-23" style="margin-top:12px">${clips.map((C) => clipThumb(C, {
-      caption: html`<div class="l1"><span>${hl(`${C.songId === NOSONG ? '전체 공연' : ix.song.get(C.songId)?.title || ''} · ${C.key === 'full' ? '풀캠' : whoText(ix, C.memberIds, 'fancam')}`, tokens)}</span></div><div class="lm">${hl(C.clip.note || '', tokens)}</div>`,
-    }))}</div>` : ''}
-    ${hidden > 0 ? html`<p class="note" style="margin-top:10px"><a href="${href({ g: g.id, e: E.id })}">이 공연에서 맞은 영상 ${hidden}개 더 — 공연 폴더에서 보기 →</a></p>` : ''}
+    <div class="sl-body"><div class="sstrip">${fullCols.map(fullCell)}${cams.map(cell)}${clips.map(clipCell)}</div>
+      <button type="button" class="sl-more" data-act="sline" data-e="${E.id}" hidden aria-expanded="${String(open)}"></button></div>
   </section>`;
+}
+
+// 한 줄에 못 들어간 영상 수를 세어 +N 단추를 보여 준다(펼친 공연은 "접기")
+export function mountSearch(root) {
+  const fit = () => {
+    for (const sec of root.querySelectorAll('.sline')) {
+      const strip = sec.querySelector('.sstrip'), btn = sec.querySelector('.sl-more');
+      if (!strip || !btn) continue;
+      const open = sOpen.has(sec.dataset.e);
+      const cells = [...strip.children];
+      if (!cells.length) continue;
+      const top = cells[0].offsetTop;
+      const hidden = open ? 0 : cells.filter((c) => c.offsetTop > top + 4).reduce((n, c) => n + (Number(c.dataset.n) || 1), 0);
+      if (open) { btn.hidden = false; btn.textContent = '접기'; sec.classList.toggle('wraps', cells.some((c) => c.offsetTop > top + 4)); if (!sec.classList.contains('wraps')) btn.hidden = true; }
+      else { btn.hidden = hidden === 0; btn.textContent = `+${hidden}`; }
+    }
+  };
+  fit();
+  if (root._sro) root._sro.disconnect();
+  root._sro = new ResizeObserver(fit);
+  root._sro.observe(root);
+  // 이미지 칸 크기는 고정이라 불러온 뒤에 다시 셀 필요는 없지만, 글꼴이 늦게 바뀌는 경우를 위해 한 번 더
+  requestAnimationFrame(fit);
 }

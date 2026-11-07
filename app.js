@@ -13,7 +13,7 @@ import { songListHTML, songPageHTML } from './js/views/song.js';
 import { memberListHTML, memberPageHTML } from './js/views/member.js';
 import { clipGridHTML } from './js/views/clips.js';
 import { eventGridHTML } from './js/views/events.js';
-import { searchHTML, PAGE, sf, resetSf } from './js/views/search.js';
+import { searchHTML, PAGE, sf, resetSf, sOpen, mountSearch } from './js/views/search.js';
 import { loadErrorHTML, emptyDataHTML, noResultHTML } from './js/views/states.js';
 import { openPlayer, playerNav } from './js/views/player.js';
 import { openClipDetail } from './js/views/clipdetail.js';
@@ -180,6 +180,7 @@ function renderBase(s) {
   }
   if (app.query.trim()) {
     main.innerHTML = String(searchHTML(app.query));
+    mountSearch(main);
     afterRender();
     return;
   }
@@ -478,7 +479,7 @@ function bindGlobal() {
     e.preventDefault();
     if (app.query !== qInput.value) app.searchLimit = 0;
     app.query = qInput.value; lastBaseKey = null; render();
-    main.querySelector('.scard a, .state a')?.focus();
+    main.querySelector('.sline a, .state a')?.focus();
   });
   document.getElementById('brand').addEventListener('click', () => { if (app.query) clearQuery(false); });
 
@@ -544,12 +545,19 @@ function onAction(e) {
     rerenderKeepFocus(null);
     return;
   }
+  if (act === 'sline') {
+    const id = el.dataset.e;
+    if (sOpen.has(id)) sOpen.delete(id); else sOpen.add(id);
+    el.closest('.sline').classList.toggle('open', sOpen.has(id));
+    mountSearch(main);
+    return;
+  }
   if (act === 'sfClear') { resetSf(); app.searchLimit = 0; rerenderKeepFocus(null); return; }
   if (act === 'searchMore') {
-    const n = main.querySelectorAll('.scard').length;
+    const n = main.querySelectorAll('.sline').length;
     app.searchLimit = n + PAGE;
     rerenderKeepFocus(null);
-    main.querySelectorAll('.scard')[n]?.querySelector('a')?.focus({ preventScroll: true });
+    main.querySelectorAll('.sline')[n]?.querySelector('a')?.focus({ preventScroll: true });
     return;
   }
   if (!g) return;
