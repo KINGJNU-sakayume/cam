@@ -4343,6 +4343,276 @@
           "kind": "cover"
         }
       ]
+    },
+    {
+      "id": "g10",
+      "name": "키스오브라이프",
+      "en": "KISS OF LIFE",
+      "hue": 83,
+      "members": [
+        {
+          "id": "g10m1",
+          "name": "쥴리",
+          "aliases": [
+            "JULIE",
+            "Julie",
+            "줄리",
+            "한줄리",
+            "줄리 한",
+            "JULIE HAN",
+            "Julie Han"
+          ],
+          "order": 1,
+          "active": true,
+          "color": "#c2553f"
+        },
+        {
+          "id": "g10m2",
+          "name": "나띠",
+          "aliases": [
+            "NATTY",
+            "Natty",
+            "아낫차야 수풋티퐁",
+            "아낫차야 수푸티퐁",
+            "นัตตี้"
+          ],
+          "order": 2,
+          "active": true,
+          "color": "#2f7d6d"
+        },
+        {
+          "id": "g10m3",
+          "name": "벨",
+          "aliases": [
+            "BELLE",
+            "Belle",
+            "심혜원",
+            "SHIM HYEWON",
+            "Shim Hyewon"
+          ],
+          "order": 3,
+          "active": true,
+          "color": "#3d6fb6"
+        },
+        {
+          "id": "g10m4",
+          "name": "하늘",
+          "aliases": [
+            "HANEUL",
+            "Haneul",
+            "원하늘",
+            "WON HANEUL",
+            "Won Haneul"
+          ],
+          "order": 4,
+          "active": true,
+          "color": "#b07f22"
+        }
+      ],
+      "songs": [
+        {
+          "id": "g10s1",
+          "title": "Shhh",
+          "aliases": [
+            "쉿",
+            "쉿 (Shhh)"
+          ],
+          "order": 1,
+          "release": "2023-07-05"
+        },
+        {
+          "id": "g10s2",
+          "title": "Countdown",
+          "aliases": [
+            "카운트다운"
+          ],
+          "order": 2,
+          "release": "2023-07-05"
+        },
+        {
+          "id": "g10s3",
+          "title": "Bad News",
+          "aliases": [
+            "배드 뉴스"
+          ],
+          "order": 3,
+          "release": "2023-11-08"
+        },
+        {
+          "id": "g10s4",
+          "title": "Nobody Knows",
+          "aliases": [
+            "노바디 노우즈"
+          ],
+          "order": 4,
+          "release": "2023-11-08"
+        },
+        {
+          "id": "g10s5",
+          "title": "Midas Touch",
+          "aliases": [
+            "마이다스 터치"
+          ],
+          "order": 5,
+          "release": "2024-04-03"
+        },
+        {
+          "id": "g10s6",
+          "title": "Nothing",
+          "aliases": [
+            "낫띵",
+            "나씽"
+          ],
+          "order": 6,
+          "release": "2024-04-03"
+        },
+        {
+          "id": "g10s7",
+          "title": "Sticky",
+          "aliases": [
+            "스티키"
+          ],
+          "order": 7,
+          "release": "2024-07-01"
+        },
+        {
+          "id": "g10s8",
+          "title": "Te Quiero",
+          "aliases": [
+            "테 키에로"
+          ],
+          "order": 8,
+          "release": "2024-07-01"
+        },
+        {
+          "id": "g10s9",
+          "title": "R.E.M",
+          "aliases": [
+            "알이엠"
+          ],
+          "order": 9,
+          "release": "2024-10-04"
+        },
+        {
+          "id": "g10s10",
+          "title": "Get Loud",
+          "aliases": [
+            "겟 라우드"
+          ],
+          "order": 10,
+          "release": "2024-10-15"
+        },
+        {
+          "id": "g10s11",
+          "title": "Igloo",
+          "aliases": [
+            "이글루",
+            "lgloo",
+            "IgIoo"
+          ],
+          "order": 11,
+          "release": "2024-10-15"
+        },
+        {
+          "id": "g10s12",
+          "title": "Chemistry",
+          "aliases": [
+            "케미스트리"
+          ],
+          "order": 12,
+          "release": "2024-10-15"
+        },
+        {
+          "id": "g10s13",
+          "title": "Lips Hips Kiss",
+          "aliases": [
+            "립스 힙스 키스",
+            "Lips, Hips, Kiss"
+          ],
+          "order": 13,
+          "release": "2025-06-09"
+        },
+        {
+          "id": "g10s14",
+          "title": "k bye",
+          "aliases": [
+            "K-BYE",
+            "케이 바이"
+          ],
+          "order": 14,
+          "release": "2025-06-09"
+        },
+        {
+          "id": "g10s15",
+          "title": "Tell Me",
+          "aliases": [
+            "텔 미"
+          ],
+          "order": 15,
+          "release": "2025-06-09"
+        },
+        {
+          "id": "g10s16",
+          "title": "Who is she",
+          "aliases": [
+            "후 이즈 쉬",
+            "후이즈쉬"
+          ],
+          "order": 16,
+          "release": "2026-04-06"
+        },
+        {
+          "id": "g10s17",
+          "title": "SWEAT",
+          "aliases": [
+            "스웻",
+            "스웨트"
+          ],
+          "order": 17,
+          "release": "2026-08-04"
+        },
+        {
+          "id": "g10s18",
+          "title": "WHAT!",
+          "aliases": [
+            "WHAT",
+            "왓",
+            "왓!"
+          ],
+          "order": 18,
+          "release": "2026-08-04"
+        },
+        {
+          "id": "g10s19",
+          "title": "Was It You",
+          "aliases": [
+            "워즈 잇 유"
+          ],
+          "order": 19,
+          "release": "2026-09-16"
+        },
+        {
+          "id": "g10s20",
+          "title": "Level Up",
+          "aliases": [
+            "레벨 업",
+            "Level Up (Ciara)"
+          ],
+          "order": 20,
+          "release": "",
+          "kind": "cover"
+        },
+        {
+          "id": "g10s21",
+          "title": "BAE BAE",
+          "aliases": [
+            "베베"
+          ],
+          "order": 21,
+          "release": "",
+          "kind": "cover"
+        }
+      ]
     }
   ],
   "events": [
@@ -14560,6 +14830,415 @@
         "g9s3",
         "g9s1",
         "g9s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e920",
+      "groupId": "g10",
+      "date": "2026-07-24",
+      "show": "워터밤 서울",
+      "label": "",
+      "setlist": [
+        "g10s7",
+        "g10s16",
+        "g10s11",
+        "g10s15",
+        "g10s14",
+        "g10s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e921",
+      "groupId": "g10",
+      "date": "2026-07-25",
+      "show": "ACON 2026 타이베이",
+      "label": "",
+      "setlist": [
+        "g10s21",
+        "g10s12",
+        "g10s11",
+        "g10s16",
+        "g10s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e922",
+      "groupId": "g10",
+      "date": "2026-08-02",
+      "show": "HEAT: THE BURN 스페셜 이벤트 양양",
+      "label": "",
+      "setlist": [
+        "g10s17"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e923",
+      "groupId": "g10",
+      "date": "2026-08-06",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g10s17",
+        "g10s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e924",
+      "groupId": "g10",
+      "date": "2026-08-07",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g10s17"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e925",
+      "groupId": "g10",
+      "date": "2026-08-08",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g10s17"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e926",
+      "groupId": "g10",
+      "date": "2026-08-09",
+      "show": "SBS 가요대전 SUMMER",
+      "label": "",
+      "setlist": [
+        "g10s17",
+        "g10s20"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e927",
+      "groupId": "g10",
+      "date": "2026-08-11",
+      "show": "더 쇼",
+      "label": "",
+      "setlist": [
+        "g10s17"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e928",
+      "groupId": "g10",
+      "date": "2026-08-12",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g10s17"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e929",
+      "groupId": "g10",
+      "date": "2026-08-14",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g10s17"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e930",
+      "groupId": "g10",
+      "date": "2026-08-15",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g10s17"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e931",
+      "groupId": "g10",
+      "date": "2026-08-16",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g10s17"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e932",
+      "groupId": "g10",
+      "date": "2026-08-18",
+      "show": "FANPOPTY",
+      "label": "",
+      "setlist": [
+        "g10s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e933",
+      "groupId": "g10",
+      "date": "2026-08-19",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g10s17"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e934",
+      "groupId": "g10",
+      "date": "2026-08-20",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g10s18",
+        "g10s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e935",
+      "groupId": "g10",
+      "date": "2026-08-21",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g10s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e936",
+      "groupId": "g10",
+      "date": "2026-08-22",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g10s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e937",
+      "groupId": "g10",
+      "date": "2026-08-23",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g10s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e938",
+      "groupId": "g10",
+      "date": "2026-09-02",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g10s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e939",
+      "groupId": "g10",
+      "date": "2026-09-05",
+      "show": "천안 K-컬처박람회 컬투쇼",
+      "label": "",
+      "setlist": [
+        "g10s17",
+        "g10s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e940",
+      "groupId": "g10",
+      "date": "2026-09-06",
+      "show": "SPOTV K-POP AWARDS",
+      "label": "",
+      "setlist": [
+        "g10s17",
+        "g10s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e941",
+      "groupId": "g10",
+      "date": "2026-09-13",
+      "show": "워터밤 가오슝",
+      "label": "",
+      "setlist": [
+        "g10s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e942",
+      "groupId": "g10",
+      "date": "2026-09-23",
+      "show": "인덕대 축제",
+      "label": "",
+      "setlist": [
+        "g10s17",
+        "g10s7",
+        "g10s18",
+        "g10s16",
+        "g10s11",
+        "g10s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e943",
+      "groupId": "g10",
+      "date": "2026-09-28",
+      "show": "충남대 공과대학 축제",
+      "label": "",
+      "setlist": [
+        "g10s16",
+        "g10s11",
+        "g10s7",
+        "g10s17",
+        "g10s13",
+        "g10s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e944",
+      "groupId": "g10",
+      "date": "2026-09-28",
+      "show": "배재대 축제",
+      "label": "",
+      "setlist": [
+        "g10s16",
+        "g10s17"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e945",
+      "groupId": "g10",
+      "date": "2026-09-30",
+      "show": "한국공학대 축제",
+      "label": "",
+      "setlist": [
+        "g10s16",
+        "g10s11",
+        "g10s7",
+        "g10s17",
+        "g10s13",
+        "g10s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e946",
+      "groupId": "g10",
+      "date": "2026-10-01",
+      "show": "서일대 축제",
+      "label": "",
+      "setlist": [],
+      "note": ""
+    },
+    {
+      "id": "e947",
+      "groupId": "g10",
+      "date": "2026-10-03",
+      "show": "아이돌라디오 LIVE 쿠알라룸푸르",
+      "label": "",
+      "setlist": [
+        "g10s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e948",
+      "groupId": "g10",
+      "date": "2026-10-15",
+      "show": "연성대 축제",
+      "label": "",
+      "setlist": [
+        "g10s13",
+        "g10s7",
+        "g10s17",
+        "g10s18",
+        "g10s11",
+        "g10s16"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e949",
+      "groupId": "g10",
+      "date": "2026-10-17",
+      "show": "NOL FESTIVAL",
+      "label": "",
+      "setlist": [
+        "g10s17",
+        "g10s18",
+        "g10s6",
+        "g10s7",
+        "g10s11",
+        "g10s15"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e950",
+      "groupId": "g10",
+      "date": "2026-10-18",
+      "show": "KBS 열린음악회",
+      "label": "",
+      "setlist": [
+        "g10s17",
+        "g10s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e951",
+      "groupId": "g10",
+      "date": "2026-10-28",
+      "show": "엠카운트다운 PLAY FESTA (방송)",
+      "label": "",
+      "setlist": [
+        "g10s17",
+        "g10s2",
+        "g10s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e952",
+      "groupId": "g10",
+      "date": "2026-11-06",
+      "show": "국회입법박람회 폐막식",
+      "label": "",
+      "setlist": [
+        "g10s17",
+        "g10s13",
+        "g10s16",
+        "g10s11",
+        "g10s7",
+        "g10s18"
       ],
       "note": ""
     }
@@ -284338,6 +285017,4880 @@
       ],
       "title": "[4K] 261028 YENA '캐치캐치' (YENA FAN CAM) l 신라대학교축제",
       "channel": "PEACH CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15608",
+      "ytId": "aanlItfpe2E",
+      "eventId": "e920",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE - STICKY [WATERBOMB SEOUL 2026/260724] Fancam 직캠 4K60",
+      "channel": "Saipengu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15609",
+      "ytId": "fHPfYMWYg-k",
+      "eventId": "e920",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE - Live at WATERBOMB SEOUL 2026",
+      "channel": "WATERBOMB",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15610",
+      "ytId": "3beO8QqBGWI",
+      "eventId": "e920",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE - Who is she Live at WATERBOMB SEOUL 2026",
+      "channel": "WATERBOMB",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15611",
+      "ytId": "6dbmYaEpJ-U",
+      "eventId": "e920",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "Kiss of Life \"Igloo\" 🔴LIVE🔴 at Waterbomb 2026 Festival Seoul | July 24th",
+      "channel": "EvryGama",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15612",
+      "ytId": "iLr1D8XUusY",
+      "eventId": "e920",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260724 키스오브라이프 하늘 직캠 'TELL ME' (KISS OF LIFE HANEUL FanCam) @WATERBOMB2026",
+      "channel": "ChaeCam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15613",
+      "ytId": "s7SvLmjRC0I",
+      "eventId": "e920",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE -  K BYE [WATERBOMB SEOUL 2026/260724] Fancam 직캠 4K60",
+      "channel": "Saipengu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15614",
+      "ytId": "tugrZRnya5A",
+      "eventId": "e920",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 KISS OF LIFE lgloo 워터밤서울 Waterbomb seoul 260724",
+      "channel": "공연직캠tv",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15615",
+      "ytId": "APO8AiZZziM",
+      "eventId": "e920",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE - LIPS HIPS KISS [WATERBOMB SEOUL 2026/260724] Fancam 직캠 4K60",
+      "channel": "Saipengu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15616",
+      "ytId": "MtYQm0tiP_Q",
+      "eventId": "e920",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE - TELL ME [WATERBOMB SEOUL 2026/260724] Fancam 직캠 4K60",
+      "channel": "Saipengu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15617",
+      "ytId": "r5eUtkYvNcw",
+      "eventId": "e921",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260725 ACON KISS OF LIFE-Sticky 나띠 NATTY Fancam #키스오브라이프 #KISSOFLIFE #나띠 #NATTY #ACON",
+      "channel": "K.W",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15618",
+      "ytId": "4AsY0eFTzMg",
+      "eventId": "e921",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "2026.07.25 NATTY (나띠) “Who is she + IgIoo” focus fancam / KISS OF LIFE(키스오브라이프) - ACON in Taipei",
+      "channel": "幽魂Youhun",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15619",
+      "ytId": "hU-4-yWA-Bw",
+      "eventId": "e921",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260725 ACON KISS OF LIFE-Who is she 쥴리 JULIE Fancam #키스오브라이프 #KISSOFLIFE #쥴리 #JULIE #ACON",
+      "channel": "K.W",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15620",
+      "ytId": "Np-BE8F2ZT8",
+      "eventId": "e922",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260802 HEAT: THE BURN Special Event in YANGYANG 키스오브라이프 하늘 'SWEAT' 직캠 (KISS OF LIFE HANEUL FANCAM)",
+      "channel": "CIRCLE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15621",
+      "ytId": "-Pk4zx3Lj4g",
+      "eventId": "e923",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "'COMEBACK' KISS OF LIFE - SWEAT #엠카운트다운 EP.940 | Mnet 260806 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15622",
+      "ytId": "1zQDPTzef64",
+      "eventId": "e923",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 키스오브라이프 나띠 직캠 4K 'SWEAT' (KISS OF LIFE NATTY FanCam) | @MCOUNTDOWN_2026.8.6",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15623",
+      "ytId": "JD3gigpq57E",
+      "eventId": "e923",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 키스오브라이프 쥴리 직캠 4K 'SWEAT' (KISS OF LIFE JULIE FanCam) | @MCOUNTDOWN_2026.8.6",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15624",
+      "ytId": "gEEvcs91hfM",
+      "eventId": "e923",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 키스오브라이프 하늘 직캠 4K 'SWEAT' (KISS OF LIFE HANEUL FanCam) | @MCOUNTDOWN_2026.8.6",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15625",
+      "ytId": "eT4ezYn57RQ",
+      "eventId": "e923",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 키스오브라이프 벨 직캠 4K 'SWEAT' (KISS OF LIFE BELLE FanCam) | @MCOUNTDOWN_2026.8.6",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15626",
+      "ytId": "ybfMim42lTo",
+      "eventId": "e923",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[MPD직캠] 키스오브라이프 직캠 8K 'SWEAT' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2026.8.6",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15627",
+      "ytId": "g7WY_egpJYA",
+      "eventId": "e923",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 키스오브라이프 나띠 직캠 4K 'SWEAT' (KISS OF LIFE NATTY FanCam) | @MCOUNTDOWN_2026.8.6",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15628",
+      "ytId": "P2ppW0ylRHc",
+      "eventId": "e924",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "SWEAT - KISS OF LIFE [뮤직뱅크/Music Bank] | KBS 260807 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15629",
+      "ytId": "XRjd4LMSY4s",
+      "eventId": "e924",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 키스오브라이프 나띠 'SWEAT' (KISS OF LIFE NATTY Facecam) @뮤직뱅크(Music Bank) 260807",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15630",
+      "ytId": "z-kav7nOheM",
+      "eventId": "e924",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 키스오브라이프 쥴리 직캠 'SWEAT' (KISS OF LIFE JULIE Fancam) @뮤직뱅크(Music Bank) 260807",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15631",
+      "ytId": "6xUkV9tIMxo",
+      "eventId": "e924",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 키스오브라이프 하늘 직캠 'SWEAT' (KISS OF LIFE HANEUL Fancam) @뮤직뱅크(Music Bank) 260807",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15632",
+      "ytId": "1ohbyNH_0r4",
+      "eventId": "e924",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 키스오브라이프 벨 직캠 'SWEAT' (KISS OF LIFE BELLE Fancam) @뮤직뱅크(Music Bank) 260807",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15633",
+      "ytId": "23cXIYOyXf8",
+      "eventId": "e924",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Choreo 8K] 키스오브라이프 직캠 'SWEAT' (KISS OF LIFE Choreography) @MusicBank 260807",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15634",
+      "ytId": "8wPKbiUUvL4",
+      "eventId": "e924",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "세계고양이의날축하해키오프😻 키스오브라이프(KISS OF LIFE) 'SWEAT' #뮤직뱅크 | KBS 260807 방송",
+      "channel": "KBS 한국방송",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15635",
+      "ytId": "JiuYrF17W6o",
+      "eventId": "e924",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 키스오브라이프 나띠 직캠 'SWEAT' (KISS OF LIFE NATTY Fancam) @뮤직뱅크(Music Bank) 260807",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15636",
+      "ytId": "ZRCMw13s2tg",
+      "eventId": "e924",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 키스오브라이프 하늘 'SWEAT' (KISS OF LIFE HANEUL Facecam) @뮤직뱅크(Music Bank) 260807",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15637",
+      "ytId": "p6axK4uGuUQ",
+      "eventId": "e925",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE (키스오브라이프) - SWEAT | Show! MusicCore | MBC260808방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15638",
+      "ytId": "uyx9prgza5Y",
+      "eventId": "e925",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] KISS OF LIFE NATTY (키스오브라이프 나띠) – SWEAT FanCam | 쇼! 음악중심 | MBC260808",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15639",
+      "ytId": "-kxqI4Kjj6E",
+      "eventId": "e925",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] KISS OF LIFE JULIE (키스오브라이프 쥴리) – SWEAT FanCam | 쇼! 음악중심 | MBC260808",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15640",
+      "ytId": "MQQq0lzNNGg",
+      "eventId": "e925",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] KISS OF LIFE HANEUL (키스오브라이프 하늘) – SWEAT FanCam | 쇼! 음악중심 | MBC260808",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15641",
+      "ytId": "7rrrFlXqqC0",
+      "eventId": "e925",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] KISS OF LIFE BELLE (키스오브라이프 벨) – SWEAT FanCam | 쇼! 음악중심 | MBC260808",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15642",
+      "ytId": "EWQm-i4_Icc",
+      "eventId": "e925",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠] KISS OF LIFE (키스오브라이프) – SWEAT FullCam | 쇼! 음악중심 | MBC260808",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15643",
+      "ytId": "D8gdVGRSbko",
+      "eventId": "e926",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE(키스오브라이프) - SWEAT @SBS GayoDaejeon Summer",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15644",
+      "ytId": "ho5PeTVyLq0",
+      "eventId": "e926",
+      "songs": [
+        {
+          "songId": "g10s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1",
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "SUMMER KUEENS (코코x쥴리x최정은x나띠) - Level Up (원곡 : Ciara) #2026SBS가요대전Summer",
+      "channel": "SBS Entertainment",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15645",
+      "ytId": "F--cfL8wldU",
+      "eventId": "e926",
+      "songs": [
+        {
+          "songId": "g10s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "2026 SBS 가요대전 SUMMER 'Level Up' ⏐ KISS OF LIFE JULIE 키스오브라이프 쥴리 직캠 fancam_260809",
+      "channel": "Captivante",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15646",
+      "ytId": "WtO_NN0NOb0",
+      "eventId": "e926",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260809 키스오브라이프 하늘 직캠  SWEAT Fancam | 2026 가요대전 썸머 GAYO DAEJEON SUMMER | KISS OF LIFE  | HANEUL",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15647",
+      "ytId": "BQPvbGywl54",
+      "eventId": "e926",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE - SWEAT #2026SBS가요대전Summer",
+      "channel": "SBS Entertainment",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15648",
+      "ytId": "SArSnXnVtuc",
+      "eventId": "e926",
+      "songs": [
+        {
+          "songId": "g10s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260809 키스오브라이프 KISS OF LIFE  썸머 가요대전 #나띠  특무 원곡 Level Up 시에라 ",
+      "channel": "콘서트 직촬",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15649",
+      "ytId": "oY-dCa4CgJM",
+      "eventId": "e926",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[260809 SUMMER 가요대전] SWEAT 키스오브라이프 쥴리 KISS OF LIFE JULIE Fancam",
+      "channel": "주우",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15650",
+      "ytId": "6GiqPJ-oQ14",
+      "eventId": "e926",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "2026 SBS 가요대전 SUMMER 'SWEAT' ⏐ KISS OF LIFE JULIE 키스오브라이프 쥴리 직캠 fancam_260809",
+      "channel": "Captivante",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15651",
+      "ytId": "1j0W06hWmro",
+      "eventId": "e927",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[THE SHOW CHOICE] SWEAT - KISS OF LIFE [THE SHOW] 260811 방송",
+      "channel": "THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15652",
+      "ytId": "TmjhJRJEqc4",
+      "eventId": "e927",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[FAN PICK CAM 4K] KISS OF LIFE - JULIE 'SWEAT' [키스오브라이프-쥴리] @theshow 260811",
+      "channel": "THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15653",
+      "ytId": "NXd4hfoK6I8",
+      "eventId": "e927",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "SWEAT – KISS OF LIFE [THE SHOW] 260811 방송",
+      "channel": "THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15654",
+      "ytId": "H8iokJ_Mrak",
+      "eventId": "e928",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] KISS OF LIFE(키스 오브 라이프) - SWEAT | Show Champion | EP.607 | 260812",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15655",
+      "ytId": "hVoQUGeL9k0",
+      "eventId": "e928",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] KISS OF LIFE (키스 오브 라이프 나띠) - SWEAT | Show Champion | EP.607 | 260812",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15656",
+      "ytId": "HjIvz4_W4mg",
+      "eventId": "e928",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] KISS OF LIFE (키스 오브 라이프 쥴리) - SWEAT | Show Champion | EP.607 | 260812",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15657",
+      "ytId": "bgwZ_fAD9Og",
+      "eventId": "e928",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] KISS OF LIFE (키스 오브 라이프 하늘) - SWEAT | Show Champion | EP.607 | 260812",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15658",
+      "ytId": "tAzsJBmkdDk",
+      "eventId": "e928",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] KISS OF LIFE (키스 오브 라이프 벨) - SWEAT | Show Champion | EP.607 | 260812",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15659",
+      "ytId": "VndQdaSkaME",
+      "eventId": "e928",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] KISS OF LIFE (키스 오브 라이프 나띠) - SWEAT | Show Champion | EP.607 | 260812",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15660",
+      "ytId": "_cHWytldhUs",
+      "eventId": "e928",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] KISS OF LIFE (키스 오브 라이프 하늘) - SWEAT | Show Champion | EP.607 | 260812",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15661",
+      "ytId": "5f3nPitr1Hw",
+      "eventId": "e928",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] KISS OF LIFE (키스 오브 라이프 벨) - SWEAT | Show Champion | EP.607 | 260812",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15662",
+      "ytId": "lGkihjlLDCg",
+      "eventId": "e929",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "SWEAT - KISS OF LIFE [뮤직뱅크/Music Bank] | KBS 260814 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15663",
+      "ytId": "_4CmV8aYMHw",
+      "eventId": "e929",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Choreo 8K] 키스오브라이프 직캠 'SWEAT' (KISSOFLIFE Choreography) @MusicBank 260814",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15664",
+      "ytId": "mHZ04T6hxQc",
+      "eventId": "e930",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE (키스오브라이프) - SWEAT | Show! MusicCore | MBC260815방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15665",
+      "ytId": "MyYlnhV9_BQ",
+      "eventId": "e931",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "SWEAT - KISS OF LIFE | SBS 260816 방송",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15666",
+      "ytId": "GmKsqbWakZ4",
+      "eventId": "e931",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 키스오브라이프 'SWEAT' (KISS OF LIFE FullCam) @SBS Inkigayo 260816",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15667",
+      "ytId": "o-tY9t8kfeg",
+      "eventId": "e932",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[FAN PICK CAM] KISS OF LIFE - JULIE 'Sticky' [키스오브라이프-쥴리] @FANPOPTY  260818",
+      "channel": "THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15668",
+      "ytId": "ctGIBiUtogo",
+      "eventId": "e933",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE (키스 오브 라이프) - SWEAT l Show Champion l EP.608 l 260819",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15669",
+      "ytId": "UalN5DJcLbo",
+      "eventId": "e933",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] KISS OF LIFE (키스 오브 라이프 나띠) - SWEAT | Show Champion | EP.608 | 260819나띠 직캠",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15670",
+      "ytId": "cGelqWNYdt4",
+      "eventId": "e933",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] KISS OF LIFE (키스 오브 라이프 쥴리) - SWEAT | Show Champion | EP.608 | 260819",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15671",
+      "ytId": "fSm5clW1VcY",
+      "eventId": "e933",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] KISS OF LIFE (키스 오브 라이프 하늘) - SWEAT | Show Champion | EP.608 | 260819",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15672",
+      "ytId": "mGQREzDzoKs",
+      "eventId": "e933",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] KISS OF LIFE (키스 오브 라이프 벨) - SWEAT | Show Champion | EP.608 | 260819",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15673",
+      "ytId": "xKmLtVxo5qw",
+      "eventId": "e933",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] KISS OF LIFE(키스 오브 라이프) - SWEAT | Show Champion | EP.608 | 260819",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15674",
+      "ytId": "iumBO-vJWWA",
+      "eventId": "e934",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "'최초 공개' KISS OF LIFE - WHAT! #엠카운트다운 EP.942 | Mnet 260820 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15675",
+      "ytId": "-rc9cfKD1H0",
+      "eventId": "e934",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        },
+        {
+          "songId": "g10s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 키스오브라이프 직캠 4K 'WHAT!' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2026.8.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15676",
+      "ytId": "6C7EoR_efqA",
+      "eventId": "e935",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "WHAT! - KISS OF LIFE [뮤직뱅크/Music Bank] | KBS 260821 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15677",
+      "ytId": "yRq53DDxA8I",
+      "eventId": "e936",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE (키스오브라이프) - WHAT! | Show! MusicCore | MBC260822방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15678",
+      "ytId": "TA0hOCQgdiw",
+      "eventId": "e937",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Intro + WHAT! - KISS OF LIFE | SBS 260823 방송",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15679",
+      "ytId": "zk50E5nFYoY",
+      "eventId": "e937",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 키스오브라이프 나띠 'WHAT!' (KISS OF LIFE NATTY FaceCam) @SBS Inkigayo 260823",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15680",
+      "ytId": "bbUtyneQq14",
+      "eventId": "e937",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 키스오브라이프 하늘 'WHAT!' (KISS OF LIFE HANEUL FaceCam) @SBS Inkigayo 260823",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15681",
+      "ytId": "5prM8sKwWi4",
+      "eventId": "e937",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 키스오브라이프 'WHAT!' (KISS OF LIFE FullCam) @SBS Inkigayo 260823",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15682",
+      "ytId": "mvOtkGEnz-8",
+      "eventId": "e938",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE (키스 오브 라이프)- WHAT!  l Show Champion l EP.610 l 260902",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15683",
+      "ytId": "znHw3M4vH9g",
+      "eventId": "e938",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] KISS OF LIFE (키스 오브 라이프 나띠) - WHAT! | Show Champion | EP.610 | 260902",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15684",
+      "ytId": "S-214ht5KOs",
+      "eventId": "e938",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] KISS OF LIFE (키스 오브 라이프 쥴리) - WHAT! | Show Champion | EP.610 | 260902",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15685",
+      "ytId": "MNUYjsSEUkA",
+      "eventId": "e938",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] KISS OF LIFE (키스 오브 라이프 하늘) - WHAT! | Show Champion | EP.610 | 260902",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15686",
+      "ytId": "Q72BPLOzTxw",
+      "eventId": "e938",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] KISS OF LIFE (키스 오브 라이프 쥴리) - WHAT! | Show Champion | EP.610 | 260902",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15687",
+      "ytId": "V9iJc9RbH44",
+      "eventId": "e938",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] KISS OF LIFE (키스 오브 라이프 하늘) - WHAT! | Show Champion | EP.610 | 260902",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15688",
+      "ytId": "KokgWCTg4EE",
+      "eventId": "e939",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 #KISSOFLIFE @260905 천안 K-Culture 두시탈출 컬투쇼 ♬ SWEAT ♬ STICKY #키오프",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15689",
+      "ytId": "FSAgxetIomM",
+      "eventId": "e939",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260905 키스오브라이프 나띠 - Sweat + Sticky 4K 직캠 @천안 K-컬쳐 박람회 (KISS OF LIFE NATTY FANCAM)",
+      "channel": "Day_Day",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15690",
+      "ytId": "V9GvD-deYMQ",
+      "eventId": "e939",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] 키스 오브 라이프(KISS OF LIFE) - \"쥴리 - Sticky\" 세로 직캠 | K컬쳐박람회 260905",
+      "channel": "Light Duk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15691",
+      "ytId": "HGJu1IoJP1I",
+      "eventId": "e939",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] 키스 오브 라이프(KISS OF LIFE) - \"하늘 - SWEAT\" 세로 직캠 | K컬쳐박람회 260905",
+      "channel": "Light Duk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15692",
+      "ytId": "77sSiiA8luk",
+      "eventId": "e939",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260905 하늘 HANEUL 키스 오브 라이프 KISS OF LIFE💿Sticky [8K 30P] 직캠 FANCAM | 천안 K-컬처 박람회 | GalaxyMaru",
+      "channel": "은하마루 GalaxyMaru",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15693",
+      "ytId": "1mRyVblVj64",
+      "eventId": "e939",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "나띠Focus 키스오브라이프[KissOfLife] - \"sweat\" \"sticky\" [4k직캠]@천안K-컬처박람회컬투쇼 20260905",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15694",
+      "ytId": "DTYTy35OPys",
+      "eventId": "e939",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 260905 키스 오브 라이프(KISS OF LIFE) - 'Sticky' 나띠 직캠 | 2026 천안 K-컬쳐 박람회",
+      "channel": "무슨 말이 필요해",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15695",
+      "ytId": "UzUX1Oo_9f0",
+      "eventId": "e939",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[260905 천안 K-컬쳐 박람회] SWEAT + STICKY 키스오브라이프 쥴리 KISSOFLIFE JULIE Fancam ",
+      "channel": "주우",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15696",
+      "ytId": "LBPUmHw-bjU",
+      "eventId": "e939",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로"
+      ],
+      "title": "260905 키스오브라이프 쥴리 SWEAT 세로직캠 @두시탈출 컬투쇼",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15697",
+      "ytId": "IGWycMuPSWI",
+      "eventId": "e939",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260905 하늘 HANEUL 키스 오브 라이프 KISS OF LIFE💿SWEAT [8K 30P] 직캠 FANCAM | 천안 K-컬처 박람회 | GalaxyMaru",
+      "channel": "은하마루 GalaxyMaru",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15698",
+      "ytId": "LyCyNkvTpe0",
+      "eventId": "e939",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 260905 키스 오브 라이프(KISS OF LIFE) - 'SWEAT' 하늘 직캠 | 2026 천안 K-컬쳐 박람회",
+      "channel": "무슨 말이 필요해",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15699",
+      "ytId": "n3svCILRLno",
+      "eventId": "e939",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로"
+      ],
+      "title": "260905 천안 K-컬쳐박람회 컬투쇼 공개방송 KISS OF LIFE 키스오브라이프 HANEUL 하늘 Sticky 세로 직캠 FANCAM",
+      "channel": "NeRISE_yo",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15700",
+      "ytId": "MJMlytmdifw",
+      "eventId": "e940",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260906 키스오브라이프 KISS OF LIFE 나띠 직캠 NATTY Fancam 'SWEAT' @SKA",
+      "channel": "hush",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15701",
+      "ytId": "7G1W1YkhoQ0",
+      "eventId": "e940",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 260906 키스오브라이프(KISS OF LIFE) - 'SWEAT' 쥴리 직캠 | 2026 SPO TV K-POP AWARDS(SKA)",
+      "channel": "무슨 말이 필요해",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15702",
+      "ytId": "zCgPECyr9Y4",
+      "eventId": "e940",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[KISS OF LIFE(키스오브라이프)] 260906 SPOTV K-POP AWARDS: SWEAT + WHAT! - HANEUL 하늘 FANCAM 직캠",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15703",
+      "ytId": "_hrHrW2YJX8",
+      "eventId": "e940",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260906 키스오브라이프 SPOTV K-POP AWARDS 'WHAT!' 4K60P (focus. Julie)",
+      "channel": "한쥴리엣",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15704",
+      "ytId": "xIfI8__GNIo",
+      "eventId": "e940",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 260906 키스오브라이프(KISS OF LIFE) - 'WHAT!' 하늘 직캠 | 2026 SPO TV K-POP AWARDS(SKA)",
+      "channel": "무슨 말이 필요해",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15705",
+      "ytId": "0f1Vtk0g9G0",
+      "eventId": "e941",
+      "songs": [
+        {
+          "songId": "g10s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE - K-BYE [WATERBOMB KAOHSIUNG 2026/260913] Fancam 직캠 4K60",
+      "channel": "Saipengu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15706",
+      "ytId": "gzg1hwO6T-I",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260923 키스오브라이프 KISS OF LIFE 'SWEAT' 4K 60P 직캠 @인덕대 축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15707",
+      "ytId": "0H279Oh0M6s",
+      "eventId": "e942",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260923 키스오브라이프 Full Ver. 4K 직캠 @인덕대 축제",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15708",
+      "ytId": "I4blREoP0IQ",
+      "eventId": "e942",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260923 키스오브라이프(KISS OF LIFE) 나띠 직캠 @인덕대학교 축제",
+      "channel": "남상미",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15709",
+      "ytId": "MQnzTJGj8lM",
+      "eventId": "e942",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260923 키스오브라이프 나띠 Full Ver. 4K 직캠 @인덕대 축제",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15710",
+      "ytId": "mhrbBsHKkzw",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260923 쥴리 JULIE 키스오브라이프 KISS OF LIFE 'Sticky' 4K 60P 직캠 @인덕대 축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15711",
+      "ytId": "5Rfh6Og0jYM",
+      "eventId": "e942",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로"
+      ],
+      "title": "키스오브라이프 하늘 세로 직캠 풀버전 KISS OF LIFE HANEUL FANCAM 260923 인덕대축제",
+      "channel": "사악키",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15712",
+      "ytId": "SgkDMmNyaS4",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "벨 [KissOfLife] - \"Sweat\" \"What\" [4k직캠] @인덕대축제 260923",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15713",
+      "ytId": "yUfIkW1UsJQ",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260923 키스오브라이프 KISS OF LIFE 'WHAT!' 4K 60P 직캠 @인덕대 축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15714",
+      "ytId": "HYt7eQvhhlM",
+      "eventId": "e942",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 풀샷 직캠 풀버전 KISS OF LIFE FANCAM 260923 인덕대축제",
+      "channel": "사악키",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15715",
+      "ytId": "ZeuJidtIkFU",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "나띠 [KissOfLife] - Sticky [4k직캠] @인덕대축제 260923",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15716",
+      "ytId": "5-z4FcINi0M",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20260923 키스오브라이프(KISS OF LIFE) 하늘 \"Who is she+Igloo+Sticky\" @ 인덕대학교 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15717",
+      "ytId": "NlqzKlWBcNU",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260923 KISS OF LIFE (키스오브라이프) 'Sticky' (하늘 직캠) 인덕대학교 축제",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15718",
+      "ytId": "Meb2PBBsmeE",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "하늘 [KissOfLife] - \"Who is she\" \"Igloo\" [4k직캠] @인덕대축제 260923",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15719",
+      "ytId": "CD2KYeUEw1U",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "하늘 [KissOfLife] - Lips Hips Kiss [4k직캠] @인덕대축제 260923",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15720",
+      "ytId": "GXcIAH4OtLU",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260923 하늘 HANEUL 키스오브라이프 KISS OF LIFE ‘Igloo’ 4K 60P 직캠 @인덕대 축제 by 나의달 NAEDAL",
+      "channel": "나의달 NAEDAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15721",
+      "ytId": "Bb42UMSQpYk",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260923 키스오브라이프(KISS OF LIFE) 하늘 - Lips Hips Kiss / 인덕대 축제",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15722",
+      "ytId": "_vv4e4tBteg",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260923 키스오브라이프(KISS OF LIFE) 하늘 - who is she · lgloo / 인덕대 축제",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15723",
+      "ytId": "tsj2Gc2zxms",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260923 키스오브라이프(KISS OF LIFE) 하늘 - SWEAT / 인덕대 축제",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15724",
+      "ytId": "h7ziSc4skpM",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260923 키스오브라이프(KISS OF LIFE) 하늘 - Sticky / 인덕대 축제",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15725",
+      "ytId": "cumqlQAYjSM",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "SWEAT 키스오브라이프 하늘 인덕대학교 Kiss Of Live HANEUL Induk UNIV by 따라주",
+      "channel": "따라주",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15726",
+      "ytId": "wSJwdSTpRcM",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20260923 키스오브라이프(KISS OF LIFE) 벨 \"Lips Hips Kiss\" @ 인덕대학교 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15727",
+      "ytId": "J1cTGn1T5Uw",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260923 벨 BELLE 키스오브라이프 KISS OF LIFE ‘Sticky’ 4K 60P 직캠 @인덕대 축제 by 나의달 NAEDAL",
+      "channel": "나의달 NAEDAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15728",
+      "ytId": "vLJxHWr2E5I",
+      "eventId": "e943",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 #KISSOFLIFE @260928 충남대 공대 풀캠 ♬ Who is she ♬ Igloo ♬ Sticky ♬ SWEAT ♬ Lips Hips Kiss ♬ WHAT!",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15729",
+      "ytId": "FsI_knx3UcE",
+      "eventId": "e943",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260928 키스오브라이프 KISS OF LIFE 하늘 HANEUL - Full Ver. 직캠 Fancam 4K 60P @충남대학교 공과대학 축제 by Prequel",
+      "channel": "Prequel",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15730",
+      "ytId": "-qKUKG921x0",
+      "eventId": "e943",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로"
+      ],
+      "title": "260928 키스오브라이프 벨 WHAT! 세로직캠 @충남대",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15731",
+      "ytId": "kUEXIJVAF0Y",
+      "eventId": "e943",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로"
+      ],
+      "title": "260928 키스오브라이프 벨 SWEAT 세로직캠 @충남대",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15732",
+      "ytId": "eUL95NlD71I",
+      "eventId": "e943",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260928 키스오브라이프 KISS OF LIFE 'SWEAT' 4K 60P 직캠 @충남대 공과대 축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15733",
+      "ytId": "55IFnI6TdD8",
+      "eventId": "e943",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "KISS OF LIFE | 충남대 공대 축제 #키스오브라이프 #260928",
+      "channel": "MD's clip",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15734",
+      "ytId": "bTkPv-TmeQI",
+      "eventId": "e943",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로"
+      ],
+      "title": "260928 키스오브라이프 벨 Sticky 세로직캠 @충남대",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15735",
+      "ytId": "oJG-njMUKXg",
+      "eventId": "e943",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로"
+      ],
+      "title": "260928 키스오브라이프 벨 Lips Hips Kiss 세로직캠 @충남대",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15736",
+      "ytId": "veR16V2z4Q4",
+      "eventId": "e943",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로"
+      ],
+      "title": "260928 키스오브라이프 벨 Igloo 세로직캠 @충남대",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15737",
+      "ytId": "QkjShLURcW0",
+      "eventId": "e944",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "키스오브라이프 (KISS OF LIFE) 배재대축제 4K60P Full Ver 2026.9.28",
+      "channel": "Ji hoon TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15738",
+      "ytId": "nC1vMKeq9p0",
+      "eventId": "e944",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260928 키스오브라이프 나띠 Full Ver. 4K 직캠 @배재대 축제",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15739",
+      "ytId": "fgSz5IhoIyI",
+      "eventId": "e944",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 쥴리 직캠 ♬ Who is she #KISSOFLIFE #JULIE  @260928 배재대",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15740",
+      "ytId": "9o71_J20HyY",
+      "eventId": "e944",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 하늘 직캠 ♬ SWEAT #KISSOFLIFE #HANEUL @260928 배재대",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15741",
+      "ytId": "6lDL8LjmdKo",
+      "eventId": "e944",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "260928 키스오브라이프 Full Ver. 4K 직캠 @배재대 축제",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15742",
+      "ytId": "5RWo3ihm4mk",
+      "eventId": "e945",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "KISS OF LIFE 키스오브라이프 - Who is she + Igloo + Sticky + SWEAT + Lips hips Kiss + WHAT! 한국공학대 260930",
+      "channel": "Tired Shark",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15743",
+      "ytId": "UX9DyiqV64Y",
+      "eventId": "e946",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "261001 서일대 축제(seoil univ.) 키스오브라이프 공연(KissOfLife)",
+      "channel": "수원행/train for suwon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15744",
+      "ytId": "LE4lzutqtgI",
+      "eventId": "e946",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 KISS OF LIFE 261001 서일대 축제 full",
+      "channel": "이채훈",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15745",
+      "ytId": "YpadOSsR4DY",
+      "eventId": "e947",
+      "songs": [
+        {
+          "songId": "g10s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K) KISS OF LIFE (키스오브라이프) - CHEMISTRY | IDOL RADIO LIVE in MALAYSIA 261003",
+      "channel": "KAMK",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15746",
+      "ytId": "FCZLeN2axZM",
+      "eventId": "e948",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 - 연성대학교 축제 직캠 KissOfLife Fancam 261015",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15747",
+      "ytId": "8zgVukaeo5A",
+      "eventId": "e948",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "KISS OF LIFE | 연성대 축제 직캠 #키스오브라이프 #261015",
+      "channel": "MD's clip",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15748",
+      "ytId": "yZBDLWdrrsI",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261015 나띠 NATTY 키스오브라이프 KISS OF LIFE 'Lips Hips Kiss' 4K 60P 직캠 @연성대 축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15749",
+      "ytId": "RikdIXVPSi0",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 쥴리 ( Sticky + SWEAT ) 연성대학교 축제 직캠 KissOfLife Fancam 261015",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15750",
+      "ytId": "V2_K3vuZK4c",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 쥴리 ( Lips Hips Kiss + WHAT! ) 연성대학교 축제 직캠 KissOfLife Fancam 261015",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15751",
+      "ytId": "LkKhk76NEKo",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 키스 오브 라이프 하늘 KISS OF LIFE HANEUL - Sticky 직캠｜연성대학교 축제",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15752",
+      "ytId": "tN0oBl4KCDQ",
+      "eventId": "e948",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20261015 키스오브라이프(KISS OF LIFE) 하늘 세로 직캠 Full Ver @ 연성대학교 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15753",
+      "ytId": "7-dhqcKT4c0",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 연성대 키스오브라이프 KISS OF LIFE Sticky #직캠 ",
+      "channel": "콘서트 직촬",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15754",
+      "ytId": "XTN2MD7J69I",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 연성대 키스오브라이프 KISS OF LIFE WHAT #직캠 ",
+      "channel": "콘서트 직촬",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15755",
+      "ytId": "LLqFwzpkOB0",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 연성대 키스오브라이프 KISS OF LIFE Lips Hips Kiss #직캠 ",
+      "channel": "콘서트 직촬",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15756",
+      "ytId": "KeQ2c6QBJzM",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE (키스오브라이프) 나띠 'SWEAT' 직캠 @ 연성대 축제 | 261015 | 4K60p",
+      "channel": "smile -wA-",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15757",
+      "ytId": "PKD_DORoA5U",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261015 나띠 NATTY 키스오브라이프 KISS OF LIFE ‘WHAT!’ 4K 60P 직캠 @연성대학교 제50회 양지대동제 by 나의달 NAEDAL",
+      "channel": "나의달 NAEDAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15758",
+      "ytId": "4m6z3UerMFQ",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 키스오브라이프 나띠 직캠 'lgloo' KISS OF LIFE(NATTY) Fancam @연성대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15759",
+      "ytId": "jQpNiMbbcws",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 키스오브라이프 나띠 직캠 'WHAT!' KISS OF LIFE(NATTY) Fancam @연성대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15760",
+      "ytId": "k_wWu6qHK4w",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 키스오브라이프 나띠 직캠 'Lips Hips Kiss' KISS OF LIFE(NATTY) Fancam @연성대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15761",
+      "ytId": "hfjD3Ek31Ck",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 키스오브라이프 나띠 직캠 'Sticky' KISS OF LIFE(NATTY) Fancam @연성대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15762",
+      "ytId": "Vw4WcJ3quoA",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 키스오브라이프 나띠 직캠 'SWEAT' KISS OF LIFE(NATTY) Fancam @연성대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15763",
+      "ytId": "RfxYOOuLinA",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 키스오브라이프 나띠 직캠 'Who is She' KISS OF LIFE(NATTY) Fancam @연성대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15764",
+      "ytId": "94zyFmJQo60",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20261015 키스오브라이프(KISS OF LIFE) 나띠 \"Lips Hips Kiss\" @ 연성대학교 축제",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15765",
+      "ytId": "_wKXk1AHxZg",
+      "eventId": "e948",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "[8K] 261015 키스오브라이프 나띠 직캠 'FULL.Ver' KISS OF LIFE(NATTY) Fancam @연성대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15766",
+      "ytId": "HVD6bFQIuQM",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 쥴리 ( Who is she + Igloo ) 연성대학교 축제 직캠 KissOfLife Fancam 261015",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15767",
+      "ytId": "hkW32AJHWGY",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 KISS OF LIFE (키스오브라이프) 'SWEAT' (쥴리 직캠) 연성대학교 축제",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15768",
+      "ytId": "oH9gbjQLz2U",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 키스 오브 라이프 하늘 KISS OF LIFE HANEUL - SWEAT 직캠｜연성대학교 축제",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15769",
+      "ytId": "-gDkWzMMJ_4",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 키스 오브 라이프 하늘 KISS OF LIFE HANEUL - Who is she 직캠｜연성대학교 축제",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15770",
+      "ytId": "GY3PohvZjx0",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261015 하늘 HANEUL 키스오브라이프 KISS OF LIFE ‘Igloo’ 4K 60P 직캠 @연성대학교 제50회 양지대동제 by 나의달 NAEDAL",
+      "channel": "나의달 NAEDAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15771",
+      "ytId": "8s-_R5SbVRk",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 KISS OF LIFE (키스오브라이프) 'Lips Hips Kiss' (하늘 직캠) 연성대학교 축제",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15772",
+      "ytId": "tY8hlSLr6b4",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 키스 오브 라이프 하늘 KISS OF LIFE HANEUL - Igloo 직캠｜연성대학교 축제",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15773",
+      "ytId": "3-sQOSYlRII",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261015 하늘 HANEUL 키스오브라이프 KISS OF LIFE ‘Sticky’ 4K 60P 직캠 @연성대학교 제50회 양지대동제 by 나의달 NAEDAL",
+      "channel": "나의달 NAEDAL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15774",
+      "ytId": "VtoGDOmwqqU",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 키스 오브 라이프 하늘 KISS OF LIFE HANEUL - Lips Hips Kiss 직캠｜연성대학교 축제",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15775",
+      "ytId": "jJQ7OOp224E",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261015 키스 오브 라이프 하늘 KISS OF LIFE HANEUL - WHAT! 직캠｜연성대학교 축제",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15776",
+      "ytId": "WwFY1tJ_ND4",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 #KISSOFLIFE @261017 엠카 ♬ SWEAT #놀페 #플페",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15777",
+      "ytId": "X5VC3bARnSQ",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261017 KISS OF LIFE (키스오브라이프)  쥴리 - WHAT! 4k60p 직캠 fancam @NOL FESTIVAL",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15778",
+      "ytId": "nvrNcALUpPU",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261017 KISS OF LIFE (키스오브라이프)  쥴리 - Nothing 4k60p 직캠 fancam @NOL FESTIVAL",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15779",
+      "ytId": "lHu3smsbfSI",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261017 KISS OF LIFE 키스오브라이프 하늘 직캠 Sticky | NOL FESTIVAL K-POP STAGE DAY1",
+      "channel": "노브스튜디오(Nob)",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15780",
+      "ytId": "4OvpkTnZ_H8",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261017 KISS OF LIFE 키스오브라이프 하늘 직캠 Igloo | NOL FESTIVAL K-POP STAGE DAY1",
+      "channel": "노브스튜디오(Nob)",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15781",
+      "ytId": "WSlOWwkrJOE",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K HDR] KISS OF LIFE(키스 오브 라이프), SWEAT - 261017 NOL FESTIVAL: K-POP STAGE Day 1",
+      "channel": "kimbilly",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15782",
+      "ytId": "HiMvTTZoEVA",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K HDR] KISS OF LIFE(키스 오브 라이프), WHAT! - 261017 NOL FESTIVAL: K-POP STAGE Day 1",
+      "channel": "kimbilly",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15783",
+      "ytId": "e7Pl9Z9a_aQ",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K HDR] KISS OF LIFE(키스 오브 라이프), Igloo - 261017 NOL FESTIVAL: K-POP STAGE Day 1",
+      "channel": "kimbilly",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15784",
+      "ytId": "VxwJBVAb1_A",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K HDR] KISS OF LIFE(키스 오브 라이프), Tell Me - 261017 NOL FESTIVAL: K-POP STAGE Day 1",
+      "channel": "kimbilly",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15785",
+      "ytId": "LRyazkGlxPs",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K HDR] KISS OF LIFE(키스 오브 라이프), Sticky - 261017 NOL FESTIVAL: K-POP STAGE Day 1",
+      "channel": "kimbilly",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15786",
+      "ytId": "XE43tTM5j-g",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "KISS OF LIFE 키스오브라이프 – Sticky 💚｜키오라 직캠｜NOL FESTIVAL K-POP STAGE 261017",
+      "channel": "꽃비나리는&민트박스tv",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15787",
+      "ytId": "tKgWq06jxIk",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K HDR] KISS OF LIFE(키스 오브 라이프), Nothing - 261017 NOL FESTIVAL: K-POP STAGE Day 1",
+      "channel": "kimbilly",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15788",
+      "ytId": "6b55a6xxKlE",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "[Igloo - KISS OF LIFE] 261017 NOLfestival (FULL)",
+      "channel": "나띵가띵띵땅",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15789",
+      "ytId": "DyvxWSSLfNs",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [],
+      "title": "[Sticky - KISS OF LIFE] 261017 NOLfestival (FULL)",
+      "channel": "나띵가띵띵땅",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15790",
+      "ytId": "2lzBEb43bWE",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261017 'NOL FESTIVAL K-POP STAGE'  Kiss of life - Sweat 쥴리 Focus 4k60p",
+      "channel": "한쥴리엣",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15791",
+      "ytId": "sSQJsHDcGnE",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261017 'NOL FESTIVAL K-POP STAGE'  Kiss of life - Igloo 쥴리 Focus 4k60p",
+      "channel": "한쥴리엣",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15792",
+      "ytId": "JsBzwnYSbbI",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261017 KISS OF LIFE (키스오브라이프)  쥴리 - SWEAT 4k60p 직캠 fancam @NOL FESTIVAL",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15793",
+      "ytId": "q10FxqsvGVA",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261017 KISS OF LIFE (키스오브라이프)  쥴리 - Igloo 4k60p 직캠 fancam @NOL FESTIVAL",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15794",
+      "ytId": "yX8s5_FEKTs",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261017 KISS OF LIFE (키스오브라이프)  쥴리 - Tell Me 4k60p 직캠 fancam @NOL FESTIVAL",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15795",
+      "ytId": "KV4xHs2E6xA",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261017 'NOL FESTIVAL K-POP STAGE'  Kiss of life - Tell me 쥴리 Focus 4k60p",
+      "channel": "한쥴리엣",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15796",
+      "ytId": "WqAnRYzwg3U",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261017 'NOL FESTIVAL K-POP STAGE'  Kiss of life - Sticky 쥴리 Focus 4k60p",
+      "channel": "한쥴리엣",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15797",
+      "ytId": "_9lwCapoa84",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261017 'NOL FESTIVAL K-POP STAGE'  Kiss of life - WHAT! 쥴리 Focus 4k60p",
+      "channel": "한쥴리엣",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15798",
+      "ytId": "G_tHs-WtpJo",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "261017 'NOL FESTIVAL K-POP STAGE'  Kiss of life - Nothing 쥴리 Focus 4k60p 세로캠",
+      "channel": "한쥴리엣",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15799",
+      "ytId": "tT1wyGIsP9Y",
+      "eventId": "e949",
+      "songs": [
+        {
+          "songId": "g10s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261017 'NOL FESTIVAL K-POP STAGE'  Kiss of life - Nothing 쥴리 Focus 4k60p",
+      "channel": "한쥴리엣",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15800",
+      "ytId": "3UYUSd4SbYc",
+      "eventId": "e950",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE - SWEAT [열린 음악회/Open Concert] | KBS 261018 방송",
+      "channel": "KBS 레전드 케이팝",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15801",
+      "ytId": "nU8SgWEzWi8",
+      "eventId": "e950",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE - WHAT! [열린 음악회/Open Concert] | KBS 261018 방송",
+      "channel": "KBS 레전드 케이팝",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15802",
+      "ytId": "rO6tXNXdD4E",
+      "eventId": "e951",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE - SWEAT | M COUNTDOWN : PLAY FESTA #엠카운트다운 EP.951 | Mnet 261028 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15803",
+      "ytId": "ad36WjOxbY0",
+      "eventId": "e951",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        },
+        {
+          "songId": "g10s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE - WHAT! | M COUNTDOWN : PLAY FESTA #엠카운트다운 EP.951 | Mnet 261028 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15804",
+      "ytId": "bnjCwbcqDMA",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261106 키스오브라이프 KISS OF LIFE 'SWEAT' 4K 60P 직캠 @국회입법박람회 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15805",
+      "ytId": "rdOQwlBVURo",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261106 KISS OF LIFE (키스오브라이프) 'SWEAT' (나띠 직캠) 국회 입법박람회",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15806",
+      "ytId": "3EauvcIODqI",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261106 KISS OF LIFE (키스오브라이프) 'Lips Hips Kiss' (쥴리 직캠) 국회 입법박람회",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15807",
+      "ytId": "Q0o_NZxUzTg",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20261106 키스오브라이프(KISS OF LIFE) 하늘 \"Who is she+lgloo\" @ 2026 국회입법박람회",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15808",
+      "ytId": "L5KQhIyDtV8",
+      "eventId": "e952",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로"
+      ],
+      "title": "키스오브라이프 하늘 세로 직캠 풀버전 KISS OF LIFE HANEUL FANCAM 261106 국회입법 박람회",
+      "channel": "사악키",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15809",
+      "ytId": "-keT0r8Z4Qk",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261106 KISS OF LIFE (키스오브라이프) 'Sticky' (벨 직캠) 국회 입법박람회",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15810",
+      "ytId": "zxqXF2RYLrE",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "261106 키스오브라이프 KISS OF LIFE 'WHAT!' 4K 60P 직캠 @국회입법박람회 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15811",
+      "ytId": "SP_PEy2OhPc",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261106 KISS OF LIFE(키스 오브 라이프) - igloo (Natty Focus) @2026 입법박람회 폐막식",
+      "channel": "Long Black",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15812",
+      "ytId": "fStY8_BCB-k",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261106 KISS OF LIFE(키스 오브 라이프) - Sticky (Natty Focus) @2026 입법박람회 폐막식",
+      "channel": "Long Black",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15813",
+      "ytId": "6cw79KRZLpc",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261106 KISS OF LIFE(키스 오브 라이프) - Who is She (Natty Focus) @2026 입법박람회 폐막식",
+      "channel": "Long Black",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15814",
+      "ytId": "09dwcqydXbg",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20261106 키스오브라이프(KISS OF LIFE) 하늘 \"Sticky+Sweat+Lips Hips Kiss+What\" @ 2026 국회입법박람회",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15815",
+      "ytId": "dVbTzo7e3Gc",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261106 KISS OF LIFE (키스오브라이프) 'WHAT!' (하늘 직캠) 국회 입법박람회",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15816",
+      "ytId": "xnLFF9mcBiA",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261106 KISS OF LIFE(키스 오브 라이프) - WHAT! (Haneul Focus) @2026 입법박람회 폐막식",
+      "channel": "Long Black",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15817",
+      "ytId": "suGfNg3dHes",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261106 KISS OF LIFE(키스 오브 라이프) - SWEAT (Belle Focus) @2026 입법박람회 폐막식",
+      "channel": "Long Black",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15818",
+      "ytId": "t4Mcvh6ieKg",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "261106 KISS OF LIFE(키스 오브 라이프) - Lips Hips Kiss (Belle Focus) @2026 입법박람회 폐막식",
+      "channel": "Long Black",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15819",
+      "ytId": "XDrbP7Zr8ZA",
+      "eventId": "e921",
+      "songs": [
+        {
+          "songId": "g10s21",
+          "t": 0
+        },
+        {
+          "songId": "g10s12",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s16",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "fan",
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260725 KISS OF LIFE JULIE Fancam ‘BAE BAE + Chemistry + igloo + Who is she + Sticky' /  쥴리 직캠",
+      "channel": "Soupzip 수프집",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15820",
+      "ytId": "Kzd6xokwMXs",
+      "eventId": "e926",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "KISS OF LIFE - SWEAT♬",
+      "channel": "SBS Entertainment",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15821",
+      "ytId": "3fRwRZ5ATfE",
+      "eventId": "e927",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[FAN PICK CAM 4K] THE SHOW CHOICE - KISS OF LIFE 'JULIE '  @theshow 260811 방송",
+      "channel": "THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15822",
+      "ytId": "gzV6CQx_ZNA",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K CAM] 260923 키스오브라이프 벨 KISS OF LIFE BELLE 'Who is she' / ' 'Igloo' 세로 직캠",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15823",
+      "ytId": "mkFlYjuN028",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K CAM] 260923 키스오브라이프 나띠 KISS OF LIFE NATTY 'Lips Hips Kiss' /'WHAT!' 세로 직캠",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15824",
+      "ytId": "MssMPlhc4rs",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K CAM] 260923 키스오브라이프 하늘 KISS OF LIFE HANEUL 'SWEAT' 세로 직캠",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15825",
+      "ytId": "tDweO9zHSMA",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260923 키스오브라이프 KISS OF LIFE 하늘 직캠 “Who is She + Igloo + Sticky + SWEAT + Lips Hips Kiss + WHAT!”",
+      "channel": "UNZENAMAY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15826",
+      "ytId": "tu2_4JS53UQ",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260923 키스오브라이프 KISS OF LIFE 하늘 직캠 “Who is She” #키스오브라이프 #KISSOFLIFE #하늘 #HANEUL #후이즈쉬 #WhoisShe",
+      "channel": "UNZENAMAY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15827",
+      "ytId": "SlbwIJM3qF8",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260923 키스오브라이프 KISS OF LIFE 하늘 직캠 “Igloo” #키스오브라이프 #KISSOFLIFE #하늘 #HANEUL #이글루 #Igloo ",
+      "channel": "UNZENAMAY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15828",
+      "ytId": "82Awzd4a67w",
+      "eventId": "e942",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "260923 키스오브라이프 KISS OF LIFE 하늘 직캠 “SWEAT” #키스오브라이프 #KISSOFLIFE #하늘 #HANEUL #스웻 #SWEAT  ",
+      "channel": "UNZENAMAY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v15829",
+      "ytId": "cJ9hV7NMwBU",
+      "eventId": "e948",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        },
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s7",
+          "t": 0
+        },
+        {
+          "songId": "g10s17",
+          "t": 0
+        },
+        {
+          "songId": "g10s13",
+          "t": 0
+        },
+        {
+          "songId": "g10s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": "fan",
+      "tags": [],
+      "title": "키스오브라이프 나띠 'Who is she+Igloo+Sticky+SWEAT+Lips Hips Kiss+WHAT!' KISS OF LIFE NATTY (261015)",
+      "channel": "천둥",
       "pin": false,
       "gone": false
     }
