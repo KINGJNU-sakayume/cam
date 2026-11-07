@@ -302328,6 +302328,150 @@
       "channel": "iHeart_TWICE",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v16322",
+      "ytId": "b2-Z2bneIfg",
+      "eventId": "e894",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2026 가요대전 썸머 4K] 최예나 '캐치 캐치' (YENA 'Catch Catch' FanCam) @SBS GayoDaejeon 260817",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "64% 35%"
+    },
+    {
+      "id": "v16323",
+      "ytId": "fu_z0q9Gh6k",
+      "eventId": "e926",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2026 가요대전 썸머 4K] 키스오브라이프 하늘 'SWEAT' (KISS OF LIFE HANEUL FanCam) @SBS GayoDaejeon 260817",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "57% 35%"
+    },
+    {
+      "id": "v16324",
+      "ytId": "HBtviJ6Muac",
+      "eventId": "e926",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2026 가요대전 썸머 4K] 키스오브라이프 벨 'SWEAT' (KISS OF LIFE BELLE FanCam) @SBS GayoDaejeon 260817",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "63% 35%"
+    },
+    {
+      "id": "v16325",
+      "ytId": "FrzMmwq-Pm4",
+      "eventId": "e926",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2026 가요대전 썸머 4K] 키스오브라이프 쥴리 'SWEAT' (KISS OF LIFE JULIE FanCam) @SBS GayoDaejeon 260817",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "thumbPos": "64% 35%"
+    },
+    {
+      "id": "v16326",
+      "ytId": "b7G_YTB08Ug",
+      "eventId": "e926",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2026 가요대전 썸머 4K] 키스오브라이프 나띠 'SWEAT' (KISS OF LIFE NATTY FanCam) @SBS GayoDaejeon 260817",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16327",
+      "ytId": "HQh_xLX_Xfo",
+      "eventId": "e943",
+      "songs": [
+        {
+          "songId": "g10s11",
+          "t": 0
+        },
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260928 KISS OF LIFE BELLE 'Igloo & Who is she' FANCAM (키스오브라이프 벨 직캠)",
+      "channel": "Kpopcam4u",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
