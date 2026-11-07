@@ -15,7 +15,7 @@
 import { readFileSync, writeFileSync, mkdirSync, existsSync, appendFileSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { parseTitle, excludedReason } from '../js/admin/parse.js';
+import { parseTitle, excludedReason, eventsByCityShow } from '../js/admin/parse.js';
 import { BROADCAST_CHANNELS } from '../js/model.js';
 import { search, videoInfo, relativeToDate, kstDate, viewsCut } from './lib/yt.mjs';
 
@@ -192,6 +192,10 @@ for (const c of cands) {
   if (date && (date < addDays(from, -7) || date > to)) { rej('기간 밖'); continue; }
   if (date && uploaded && dayGap(date, uploaded) > 1) why.push(`제목 날짜 ${date}가 업로드 ${uploaded}보다 늦음`);
   if (date && uploaded && dayGap(uploaded, date) > 60) why.push(`업로드가 공연보다 ${dayGap(uploaded, date)}일 늦음`);
+  if (!date) {
+    const ce = eventsByCityShow(data.events, c.g.id, p.show, p.label, title);
+    if (ce.length === 1 && staged) date = ce[0].date; // archive add가 같은 규칙으로 정한다(투어 이름 + 도시)
+  }
   if (!date) {
     const up = uploaded || approx?.date;
     const near = up ? data.events.filter((e) => e.groupId === c.g.id && dayGap(up, e.date) >= 0 && dayGap(up, e.date) <= 7) : [];

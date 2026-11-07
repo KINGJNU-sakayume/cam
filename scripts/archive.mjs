@@ -10,7 +10,7 @@ import { spawnSync } from 'node:child_process';
 import { dirname, join, resolve, extname, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { validateData, fileRefs } from '../js/validate-core.js';
-import { extractYt, parseTitle, parseFileName, fetchOEmbed, findDate, showKey, showSimilarity, songKey, matchSong, excludedReason, HOST_SHOW, weakShowFits, cityOf } from '../js/admin/parse.js';
+import { extractYt, parseTitle, parseFileName, fetchOEmbed, findDate, showKey, showSimilarity, songKey, matchSong, excludedReason, HOST_SHOW, weakShowFits, cityOf, eventsByCityShow } from '../js/admin/parse.js';
 import { GROUP_KEY, DEFAULT_COLORS, cellKey, isSampleYt } from '../js/model.js';
 import { isRealDate, parseTime, fmtTime, norm, dateForms } from '../js/util.js';
 
@@ -379,6 +379,11 @@ const COMMANDS = {
       if (!(r.date ?? req.date) && p.date) auto.push(`날짜=${p.date}`);
       if (!userShow && p.show) auto.push(`행사=${p.show}${conf !== 'known' ? `(${conf === 'raw' ? '@문구' : '추정'})` : ''}`);
       if (labelSrc == null && p.label) auto.push(`label=${p.label}`);
+      // 제목에 날짜가 없어도 투어 이름 + 도시로 공연이 하나뿐이면 그 날짜
+      if (!date && show) {
+        const ce = eventsByCityShow(data.events, g.id, show, label, title);
+        if (ce.length === 1) { date = ce[0].date; show = ce[0].show; auto.push(`날짜=${date}(${cityOf(title)} 공연)`); }
+      }
       // 제목에 날짜가 없으면 업로드 날짜 앞 7일 안의 이 그룹 공연 중 하나로 정해지면 그 날짜
       if (!date && uploaded) {
         const near = data.events.filter((e) => e.groupId === g.id && dayGap(uploaded, e.date) >= 0 && dayGap(uploaded, e.date) <= 7
@@ -551,7 +556,7 @@ const COMMANDS = {
     if (flags.help || pos.length < 2) {
       out(`set <id> 키=값 ...
 영상: title channel type(fancam|full) members(유나,도희|단체) song(Paper Moon@0,Static@3:34|전체 공연) source(official|fan|none)
-      tags(4K,세로|없음) thumb(i.ytimg.com URL·thumbs/경로|none) thumbPos("50% 30%"|none) event(공연id) ytId
+      tags(4K,세로|없음) thumb(i.ytimg.com URL·thumbs/경로|none) thumbPos("50% 30%"|none) thumbPosStrip(조밀 모드 프레임을 따로: "30% 50%"|none) event(공연id) ytId
 공연: date show label note(|none) setlist(곡,곡)
 움짤: note t end video(영상id|none) event song members
 멤버: name aliases color active(true|false) thumb(thumbs/<멤버id>.jpg|none) thumbPos
@@ -583,6 +588,7 @@ const COMMANDS = {
         else if (k === 'tags') v.tags = list(val);
         else if (k === 'thumb') { if (none(val)) delete v.thumb; else v.thumb = val; }
         else if (k === 'thumbPos') { if (none(val)) delete v.thumbPos; else v.thumbPos = val; }
+        else if (k === 'thumbPosStrip') { if (none(val)) delete v.thumbPosStrip; else v.thumbPosStrip = val; }
         else if (k === 'event') { const ne = eventById(val); if (!ne) die(`공연 ${val}이 없어요.`); v.eventId = ne.id; }
         else if (k === 'ytId') { const yt = extractYt(val); if (!yt) die('유튜브 ID를 읽지 못했어요.'); v.ytId = yt.id; }
         else die(`영상에는 ${k}를 바꿀 수 없어요. set --help`);

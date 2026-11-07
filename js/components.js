@@ -57,6 +57,8 @@ export function posFor(v, shape) {
   if (shape === 'band') return v.type === 'full' ? posOf(v, BAND_DEFAULT_POS) : '50% 40%';
   if (shape !== 'strip') return shape === '23' ? posOf(v) : posOf(v, '50% 50%');
   if (v.thumb && !isYtThumb(v.thumb)) return '50% 50%'; // 직접 넣은 그림은 이미 2:3으로 잘려 있다
+  // 조밀 모드 프레임을 편안과 따로 맞춘 영상(thumbPosStrip)은 그 값을 그대로 쓴다
+  if (v.thumbPosStrip && POS_RE.test(v.thumbPosStrip)) return v.thumbPosStrip;
   return stripPosFrom(posOf(v));
 }
 

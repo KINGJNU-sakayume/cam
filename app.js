@@ -13,7 +13,7 @@ import { songListHTML, songPageHTML } from './js/views/song.js';
 import { memberListHTML, memberPageHTML } from './js/views/member.js';
 import { clipGridHTML } from './js/views/clips.js';
 import { eventGridHTML } from './js/views/events.js';
-import { searchHTML, PAGE } from './js/views/search.js';
+import { searchHTML, PAGE, sf, resetSf } from './js/views/search.js';
 import { loadErrorHTML, emptyDataHTML, noResultHTML } from './js/views/states.js';
 import { openPlayer, playerNav } from './js/views/player.js';
 import { openClipDetail } from './js/views/clipdetail.js';
@@ -522,6 +522,7 @@ function clearQuery(focus) {
   qInput.value = '';
   if (!app.query) return;
   app.query = '';
+  resetSf();
   lastBaseKey = null;
   render();
   if (focus) qInput.focus();
@@ -535,6 +536,15 @@ function onAction(e) {
   if ((el.type === 'checkbox') !== isChange) return;
   const g = currentGroup();
   if (act === 'reload') { location.reload(); return; }
+  if (act === 'sf') {
+    const k = el.dataset.k, v = el.dataset.v;
+    sf[k] = sf[k] === v ? '' : v;
+    if (k === 'g') sf.m = ''; // 다른 그룹의 멤버 선택은 풀기
+    app.searchLimit = 0;
+    rerenderKeepFocus(null);
+    return;
+  }
+  if (act === 'sfClear') { resetSf(); app.searchLimit = 0; rerenderKeepFocus(null); return; }
   if (act === 'searchMore') {
     const n = main.querySelectorAll('.scard').length;
     app.searchLimit = n + PAGE;

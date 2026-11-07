@@ -978,3 +978,18 @@ body.rail-open { overflow: hidden; }
 @media (min-width: 880px) {
   .ed-grid > #ed-editor { position: sticky; top: calc(var(--topbar-h) + 12px); max-height: calc(100dvh - var(--topbar-h) - 24px); overflow-y: auto; }
 }
+
+/* 검색 결과 좁히기: 그룹·멤버·종류·월 */
+.sfilter { display: grid; gap: 8px; margin: 4px 0 14px; padding: 12px 14px; background: var(--surface); border-radius: var(--r-card); box-shadow: var(--sheet-shadow); }
+.sf-row { display: flex; align-items: flex-start; gap: 12px; min-width: 0; }
+.sf-l { flex: none; width: 36px; padding-top: 5px; font-size: var(--fs-xs); font-weight: 700; color: var(--muted); }
+.sf-chips { display: flex; flex-wrap: wrap; gap: 6px; min-width: 0; }
+.sf-row .hint { padding-top: 4px; }
+@media (max-width: 640px) {
+  .sf-row { flex-direction: column; gap: 4px; }
+  .sf-l { width: auto; padding-top: 0; }
+  .sf-chips { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; max-width: 100%; }
+  .sf-chips .chip { flex: none; }
+}
+.crop-frame.alt { box-shadow: none; border: 2px dashed #ffd54a; z-index: 2; }
+.crop-frame[hidden] { display: none; }

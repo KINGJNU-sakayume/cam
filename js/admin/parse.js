@@ -196,6 +196,11 @@ const TOKEN_SPLIT = /[\s@|[\](){}'"‘’“”·,_\-/:#<>【】「」]+/;
 // ---------- 행사 추정: 음악 방송이 아닌 행사(축제·투어·어워즈·방송 프로그램) ----------
 const CITY = [[/Auckland|뉴질랜드/i, '오클랜드(뉴질랜드)'], [/Vancouver|밴쿠버/i, '밴쿠버'], [/Austin|오스틴/i, '오스틴'], [/Frankfurt|프랑크푸르트/i, '프랑크푸르트'], [/National Harbor|Washington|워싱턴/i, '워싱턴 D.C.'], [/Kuala|\bKL\b|쿠알라/i, '쿠알라룸푸르'], [/Manila|마닐라/i, '마닐라'], [/Singapore|싱가포르/i, '싱가포르'], [/Macau|마카오/i, '마카오'], [/Sydney|시드니/i, '시드니'], [/Melbourne|멜버른/i, '멜버른'], [/Montreal|몬트리올/i, '몬트리올'], [/Prudential|Newark|뉴어크/i, '뉴어크'], [/\bLA\b|Los Angeles|로스앤젤레스|Inglewood|잉글우드/i, 'LA'], [/Oakland|오클랜드/i, '오클랜드'], [/Seattle|시애틀/i, '시애틀'], [/Hong ?Kong|홍콩/i, '홍콩'], [/Madrid|마드리드/i, '마드리드'], [/Amsterdam|암스테르담/i, '암스테르담'], [/New York|뉴욕|Brooklyn|브루클린/i, '뉴욕'], [/Dallas|댈러스/i, '댈러스'], [/Kaohsiung|가오슝/i, '가오슝'], [/Tokyo|도쿄/i, '도쿄'], [/Osaka|오사카/i, '오사카'], [/Bangkok|방콕/i, '방콕'], [/Jakarta|자카르타/i, '자카르타'], [/Paris|파리/i, '파리'], [/London|런던/i, '런던'], [/Berlin|베를린/i, '베를린'], [/Chicago|시카고/i, '시카고'], [/Toronto|토론토/i, '토론토'], [/Taipei|타이베이/i, '타이베이'], [/Mexico|멕시코/i, '멕시코시티']];
 export const cityOf = (t) => { for (const [r, n] of CITY) if (r.test(t)) return n; return ''; };
+// 제목에 날짜가 없어도 투어 이름 + 도시로 공연이 하나로 정해지면 그 공연(같은 도시에서 이틀 이상 공연했으면 여럿이라 정하지 않는다)
+export function eventsByCityShow(events, groupId, show, label, title) {
+  if (!show || !cityOf(title || '')) return [];
+  return events.filter((e) => e.groupId === groupId && (e.label || '') === (label || '') && (e.show === show || (e.aliases || []).includes(show)));
+}
 const withCity = (base) => (t) => `${base}${cityOf(t) ? ` ${cityOf(t)}` : ''}`;
 const SHOW_RULES = [
   [/울산 ?음악중심/, '울산 음악중심'],
