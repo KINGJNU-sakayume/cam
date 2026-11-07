@@ -16360,6 +16360,39 @@
         "g10s14"
       ],
       "note": ""
+    },
+    {
+      "id": "e1028",
+      "groupId": "g3",
+      "date": "2025-01-29",
+      "show": "MBC 가요대제전",
+      "label": "",
+      "setlist": [
+        "g3s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1029",
+      "groupId": "g3",
+      "date": "2025-06-26",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g3s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1030",
+      "groupId": "g3",
+      "date": "2025-06-27",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g3s6"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -302470,6 +302503,1053 @@
       "tags": [],
       "title": "260928 KISS OF LIFE BELLE 'Igloo & Who is she' FANCAM (키스오브라이프 벨 직캠)",
       "channel": "Kpopcam4u",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16328",
+      "ytId": "0trUEEMnPxI",
+      "eventId": "e1028",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m7"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 프로미스나인 이새롬 – Supersonic 직캠 (fromis_9 LEE SAEROM Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v16329",
+      "ytId": "DW0i_AG94Vc",
+      "eventId": "e1028",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 프로미스나인 – Supersonic (fromis_9 Fullcam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v16330",
+      "ytId": "Ve-eQnqh7ak",
+      "eventId": "e1028",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 프로미스나인 이나경 – Supersonic 직캠 (fromis_9 LEE NAGYUNG Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16331",
+      "ytId": "ihsGl3QgXww",
+      "eventId": "e1028",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 프로미스나인 송하영 – Supersonic 직캠 (fromis_9 SONG HAYOUNG Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16332",
+      "ytId": "zcnDlCp52lw",
+      "eventId": "e1028",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 프로미스나인 백지헌 – Supersonic 직캠 (fromis_9 BAEK JIHEON Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16333",
+      "ytId": "dAuwvvRRzS0",
+      "eventId": "e1028",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 프로미스나인 이채영 – Supersonic 직캠 (fromis_9 LEE CHAEYOUNG Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16334",
+      "ytId": "ravpFqr06rs",
+      "eventId": "e1028",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m9"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 프로미스나인 이서연 – Supersonic 직캠 (fromis_9 LEE SEOYEON Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16335",
+      "ytId": "a_ToQCHQv00",
+      "eventId": "e1028",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m8"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 프로미스나인 노지선 – Supersonic 직캠 (fromis_9 ROH JISUN Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16336",
+      "ytId": "4phYz2uCrB8",
+      "eventId": "e1028",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 프로미스나인 박지원 – Supersonic 직캠 (fromis_9 PARK JIWON Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16337",
+      "ytId": "N7mZmPxiB00",
+      "eventId": "e1028",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[2024 MBC 가요대제전] 프로미스나인 - 슈퍼소닉 (fromis_9 - Supersonic), MBC 250129 방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v16338",
+      "ytId": "vDocQUUzCwU",
+      "eventId": "e1029",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 프로미스나인 백지헌 직캠 4K 'LIKE YOU BETTER' (fromis_9 BAEK JI HEON FanCam) | @MCOUNTDOWN_2025.6.26",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16339",
+      "ytId": "fD2SrpZXAus",
+      "eventId": "e1029",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 프로미스나인 박지원 직캠 4K 'LIKE YOU BETTER' (fromis_9 PARK JI WON FanCam) | @MCOUNTDOWN_2025.6.26",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16340",
+      "ytId": "ZS-azsluh50",
+      "eventId": "e1029",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 프로미스나인 송하영 직캠 4K 'LIKE YOU BETTER' (fromis_9 SONG HA YOUNG FanCam) | @MCOUNTDOWN_2025.6.26",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16341",
+      "ytId": "PcK2oP2MS0o",
+      "eventId": "e1029",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 프로미스나인 이나경 직캠 4K 'LIKE YOU BETTER' (fromis_9 LEE NA GYUNG FanCam) | @MCOUNTDOWN_2025.6.26",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16342",
+      "ytId": "f2LzRNcDQd4",
+      "eventId": "e1029",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 프로미스나인 이채영 직캠 4K 'LIKE YOU BETTER' (fromis_9 LEE CHAE YOUNG FanCam) | @MCOUNTDOWN_2025.6.26",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16343",
+      "ytId": "ZEpqxFl5vEo",
+      "eventId": "e1029",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 프로미스나인 백지헌 직캠 4K 'LIKE YOU BETTER' (fromis_9 BAEK JI HEON FanCam) | @MCOUNTDOWN_2025.6.26",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16344",
+      "ytId": "WQJISekE0oM",
+      "eventId": "e1029",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 프로미스나인 이나경 직캠 4K 'LIKE YOU BETTER' (fromis_9 LEE NA GYUNG FanCam) | @MCOUNTDOWN_2025.6.26",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16345",
+      "ytId": "obWbTDuhaVA",
+      "eventId": "e1029",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "'최초 공개' fromis_9 (프로미스나인) - LIKE YOU BETTER #엠카운트다운 EP.894 | Mnet 250626 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-26"
+    },
+    {
+      "id": "v16346",
+      "ytId": "Jqw3pOozZXU",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 프로미스나인 이나경 직캠 'LIKE YOU BETTER' (fromis_9 LEE NA GYUNG Fancam) @뮤직뱅크(Music Bank) 250627",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16347",
+      "ytId": "eBFD-w9DhtM",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 프로미스나인 백지헌 'LIKE YOU BETTER' (fromis_9 BAEK JI HEON Facecam) @뮤직뱅크(Music Bank) 250627",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16348",
+      "ytId": "SIUG9C8sBsM",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 프로미스나인 송하영 직캠 'LIKE YOU BETTER' (fromis_9 SONG HA YOUNG Fancam) @뮤직뱅크(Music Bank) 250627",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16349",
+      "ytId": "G0ZA8iIb_sA",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 프로미스나인 백지헌 직캠 'LIKE YOU BETTER' (fromis_9 BAEK JI HEON Fancam) @뮤직뱅크(Music Bank) 250627",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16350",
+      "ytId": "43EsrNJn3fQ",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 프로미스나인 박지원 직캠 'LIKE YOU BETTER' (fromis_9 PARK JI WON Fancam) @뮤직뱅크(Music Bank) 250627",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16351",
+      "ytId": "EmKl1kLTXwg",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 프로미스나인 이채영 직캠 'LIKE YOU BETTER' (fromis_9 LEE CHAE YOUNG Fancam) @뮤직뱅크(Music Bank) 250627",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16352",
+      "ytId": "8It9hW0eS04",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 프로미스나인 박지원 'LIKE YOU BETTER' (fromis_9 PARK JI WON Facecam) @뮤직뱅크(Music Bank) 250627",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16353",
+      "ytId": "WxMGrbdzqHI",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 프로미스나인 이채영 'LIKE YOU BETTER' (fromis_9 LEE CHAE YOUNG Facecam) @뮤직뱅크(Music Bank) 250627",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16354",
+      "ytId": "pAMLFya-5bY",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 프로미스나인 이나경 'LIKE YOU BETTER' (fromis_9 LEE NA GYUNG Facecam) @뮤직뱅크(Music Bank) 250627",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16355",
+      "ytId": "sNo9CHoueEI",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 프로미스나인 송하영 'LIKE YOU BETTER' (fromis_9 SONG HA YOUNG Facecam) @뮤직뱅크(Music Bank) 250627",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16356",
+      "ytId": "vTJrHWG0JCo",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "JIHEON 프로미스나인 백지헌 직캠 'LIKE YOU BETTER' (fromis_9 BAEK JI HEON Fancam) @뮤직뱅크(Music Bank) 250627",
+      "channel": "Deleted user",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16357",
+      "ytId": "R7m0g-7HnVQ",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "LIKE YOU BETTER - fromis_9 (프로미스나인) [뮤직뱅크/Music Bank] | KBS 250627 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-27"
+    },
+    {
+      "id": "v16358",
+      "ytId": "S7DWDxha47k",
+      "eventId": "e515",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] fromis_9 PARK JIWON (프로미스나인 박지원) – LIKE YOU BETTER FanCam | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16359",
+      "ytId": "6kyFlLiIKh0",
+      "eventId": "e515",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] fromis_9 LEE NAGYUNG (프로미스나인 이나경) – LIKE YOU BETTER FanCam | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16360",
+      "ytId": "MCXedt-u4u8",
+      "eventId": "e515",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] fromis_9 SONG HAYOUNG (프로미스나인 송하영) – LIKE YOU BETTER FanCam | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16361",
+      "ytId": "7_SSBH7cRuE",
+      "eventId": "e515",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] fromis_9 LEE CHAEYOUNG (프로미스나인 이채영) – LIKE YOU BETTER FanCam | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16362",
+      "ytId": "uchkFSYl8jo",
+      "eventId": "e515",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] fromis_9 BAEK JIHEON (프로미스나인 백지헌) – LIKE YOU BETTER | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16363",
+      "ytId": "-M1Nj_VboRc",
+      "eventId": "e515",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] fromis_9 LEE NAGYUNG (프로미스나인 이나경) – LIKE YOU BETTER | 쇼! 음악중심 | MBC250628",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16364",
+      "ytId": "FxrvkgWptsg",
+      "eventId": "e515",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "fromis_9 (프로미스나인) - LIKE YOU BETTER | Show! MusicCore | MBC250628방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-28"
+    },
+    {
+      "id": "v16365",
+      "ytId": "hvLsucfcRkk",
+      "eventId": "e514",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "프로미스나인(fromis_9) 송하영 LIKE YOU BETTER 음악중심 미니팬미팅 250628",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16366",
+      "ytId": "am8qQ9vtaA4",
+      "eventId": "e514",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250628 프로미스나인 송하영 LIKE YOU BETTER 미니팬미팅",
+      "channel": "챠리니",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16367",
+      "ytId": "EW9hyfA3mqI",
+      "eventId": "e514",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "프로미스나인 백지헌(fromis_9 : BAEK JI HEON) Full ver. 'LIKE YOU BETTER' 미니팬미팅 직캠 | 음악중심 • 250628",
+      "channel": "비몽 BIMONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16368",
+      "ytId": "F7_E8AgQOWU",
+      "eventId": "e517",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 프로미스나인 백지헌 'LIKE YOU BETTER' (fromis_9 BAEK JI HEON FanCam) @SBS Inkigayo 250629",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16369",
+      "ytId": "DTNrQ5fYEuQ",
+      "eventId": "e517",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 프로미스나인 이나경 'LIKE YOU BETTER' (fromis_9 LEE NA GYUNG FanCam) @SBS Inkigayo 250629",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16370",
+      "ytId": "8t_LNXJWcOw",
+      "eventId": "e517",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 프로미스나인 송하영 'LIKE YOU BETTER' (fromis_9 SONG HA YOUNG FaceCam) @SBS Inkigayo 250629",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16371",
+      "ytId": "qYx-BNseblM",
+      "eventId": "e517",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 프로미스나인 백지헌 'LIKE YOU BETTER' (fromis_9 BAEK JI HEON FaceCam) @SBS Inkigayo 250629",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16372",
+      "ytId": "Tpchy-Cy38U",
+      "eventId": "e517",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 프로미스나인 송하영 'LIKE YOU BETTER' (fromis_9 SONG HA YOUNG FanCam) @SBS Inkigayo 250629",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16373",
+      "ytId": "kFja7MaiEMw",
+      "eventId": "e517",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 프로미스나인 박지원 'LIKE YOU BETTER' (fromis_9 PARK JI WON FanCam) @SBS Inkigayo 250629",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16374",
+      "ytId": "uCmKXKqZCKM",
+      "eventId": "e517",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 프로미스나인 이채영 'LIKE YOU BETTER' (fromis_9 LEE CHAE YOUNG FanCam) @SBS Inkigayo 250629",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16375",
+      "ytId": "bJBPLkSNMNM",
+      "eventId": "e517",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "fromis_9 (프로미스나인) - LIKE YOU BETTER | SBS 250629 방송",
+      "channel": "SBSKPOP X INKIGAYO",
       "pin": false,
       "gone": false
     }
