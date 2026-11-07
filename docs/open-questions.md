@@ -26,11 +26,30 @@
 | Ll7-5aDkWhM | Hearts2Hearts TIMA Live 2026 Hong Kong Full Performance | 하츠투하츠 TIMA 2026 공연이 07-25·08-16·08-22·08-23 넷이라 홍콩이 어느 날인지 모름 (2026-10-24 `--gaps --all-events`) |
 | MR8noFcOGqU | 아이브 INTRO + BANG BANG 2026 INKIGAYO LIVE in TOKYO (SBSKPOP) | 09-22·09-23 중 어느 날인지 모름 |
 | FX-m_h9fDuo | 엔믹스 규진 'TIC TIC' 1ST WORLD TOUR 직캠 | 제목에 날짜·도시 없음 |
-| RpePaAgytP8 | 프로미스나인 채영 세로직캠 하얀그리움+DM 앙콘 3일차 막콘 | 날짜를 모르고 담아 둔 앙코르 콘서트 공연이 없음 |
 
 2025년 연말 무대(SBS 가요대전 12-25, 뮤직뱅크 글로벌 페스티벌 12-30)의 하츠투하츠 직캠 10여 개는 찾았지만 담아 둔 공연이 없어 새 공연을 만들지 않았어요. 담을지 정하면 `harvest --gaps --all-events`의 결과로 다시 찾을 수 있어요.
 
 멤버 직캠이 빈 음악 방송 35개는 대부분 1위 발표·스페셜 MC·특집 재업로드만 있는 공연이라, 검색해도 멤버 직캠이 나오지 않았어요.
+
+## 2-2. 11-04 최신화 검토 후보 중 정하지 못한 영상 (2026-11-07)
+
+1,337개 중 259개는 담았어요. 무대가 아닌 영상(MV·연습·베리즈 라이브·예능·라디오·MR 제거·커버 팀 등)과 2025년 이전 영상은 뺐어요. 아래는 무대는 맞지만 날짜·멤버·곡을 정할 수 없어 담지 않은 것들이에요.
+
+| 유튜브 | 내용 | 이유 |
+|---|---|---|
+| Wt3zERevELI | 엔믹스 NOL Festival Full version "2026.10.26" | NOL은 10-18. 같은 업로더 다른 영상은 10.18 |
+| fvhSbaoANkQ · klrqOlvJMJ8 · W8MSaBEWSiY | 아이브 World Tour in Hong Kong (N R) | 홍콩 09-04·05·06 중 어느 날인지 모름 |
+| pVkEcdqivtg | 아이브 INTRO + BANG BANG 인기가요 라이브 인 도쿄 (안방1열 풀캠) | 09-22·09-23 중 어느 날인지 모름 |
+| tJB0mg6Yd9c | 아이브 Austin 072926 'Supernova Love' | 멤버 없음, 곡 미등록 |
+| 9N8zi6Dr57Y · uXHReYtZsr0 · XesmhK9j2mY · 6X1JKPXyaMM | 에스파 LA "10/2/2026"·Intuit Dome | 담아 둔 LA는 10-03 하루. 10-02 공연이 따로 있는지 모름 |
+| gOBYJuntsUI · keswnhaQ4rw · QHyWtVw9hFg · pC1QrxjcQ6k · yp9zs8hvnu8 · XCZp0obr-9E | 에스파 "261010 … in Vancouver" | 담아 둔 밴쿠버는 10-11. 현지 날짜인지 다른 공연인지 모름 |
+| 0zFjcwDAiIM | 하츠투하츠 스텔라 '마지막처럼' 2026 SBS SUMMER | 가요대전 썸머가 08-08(e361)·08-09(e174) 둘로 나뉘어 있음 |
+| UKGQ9hrpLNk · eqn44pJHXXw · BiiQAGZ1svE · 9DfZV6K0dOg | 트리플에스 zenith 11-01 Objekt 이벤트 'See You' | 곡 'See You' 미등록(발매 확인 못 함) |
+| LkRufPt6P2g · B2GMGF7VgbY · n4FDtBYg-rs | 트리플에스 니엔·소현·지연 'Baby Flower' 10-15·10-17 | 어느 행사인지 모름 |
+| xhr67S0MypY · zkRBdScuXYY | 프로미스나인 송하영 'Wonderland' (타이베이 10-25) | 곡 미등록(발매 확인 못 함) |
+| vPBLP40rOGk · Z8Pqq1DC-zU · 4Ls0APReuOs · bIXjMnwFEao | 프로미스나인 타이베이 (떽빵)·(하빵)·(아기블루베리) 직캠 | 별명이 어느 멤버인지 모름 |
+| 13cfG2OY35A · EiarumROf0k | (2-1과 같음) | |
+| ITZY 파리·마와진·가오슝·싱가포르 공식 클립 | 투어 영상 | 파리·마와진 공연이 없고, 가오슝·싱가포르는 이틀 중 어느 날인지 모름 |
 
 ## 3. 지우지 않고 남겨 둔 것 (2026-10-24 정리 때)
 
