@@ -16360,6 +16360,436 @@
         "g10s14"
       ],
       "note": ""
+    },
+    {
+      "id": "e1028",
+      "groupId": "g7",
+      "date": "2024-01-11",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g7s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1029",
+      "groupId": "g7",
+      "date": "2024-01-14",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g7s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1030",
+      "groupId": "g9",
+      "date": "2024-01-18",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g9s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1031",
+      "groupId": "g1",
+      "date": "2024-05-02",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g1s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1032",
+      "groupId": "g6",
+      "date": "2024-05-12",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g6s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1033",
+      "groupId": "g10",
+      "date": "2024-07-04",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g10s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1034",
+      "groupId": "g5",
+      "date": "2024-10-24",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g5s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1035",
+      "groupId": "g5",
+      "date": "2024-10-26",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g5s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1036",
+      "groupId": "g5",
+      "date": "2024-10-27",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g5s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1037",
+      "groupId": "g5",
+      "date": "2024-11-02",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g5s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1038",
+      "groupId": "g8",
+      "date": "2024-11-10",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g8s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1039",
+      "groupId": "g8",
+      "date": "2024-11-17",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g8s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1040",
+      "groupId": "g8",
+      "date": "2024-11-24",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g8s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1041",
+      "groupId": "g8",
+      "date": "2024-12-25",
+      "show": "SBS 가요대전",
+      "label": "",
+      "setlist": [
+        "g8s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1042",
+      "groupId": "g1",
+      "date": "2025-02-08",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g1s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1043",
+      "groupId": "g1",
+      "date": "2025-02-09",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g1s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1044",
+      "groupId": "g4",
+      "date": "2025-02-28",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1045",
+      "groupId": "g4",
+      "date": "2025-03-02",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1046",
+      "groupId": "g4",
+      "date": "2025-03-05",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1047",
+      "groupId": "g4",
+      "date": "2025-03-09",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1048",
+      "groupId": "g4",
+      "date": "2025-03-12",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g4s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1049",
+      "groupId": "g2",
+      "date": "2025-03-20",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g2s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1050",
+      "groupId": "g2",
+      "date": "2025-03-21",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g2s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1051",
+      "groupId": "g2",
+      "date": "2025-03-23",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g2s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1052",
+      "groupId": "g2",
+      "date": "2025-03-26",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g2s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1053",
+      "groupId": "g6",
+      "date": "2025-05-15",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g6s28"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1054",
+      "groupId": "g6",
+      "date": "2025-05-16",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g6s28"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1055",
+      "groupId": "g6",
+      "date": "2025-05-17",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g6s28"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1056",
+      "groupId": "g6",
+      "date": "2025-05-29",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g6s28"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1057",
+      "groupId": "g7",
+      "date": "2025-06-12",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g7s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1058",
+      "groupId": "g7",
+      "date": "2025-06-13",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g7s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1059",
+      "groupId": "g7",
+      "date": "2025-06-14",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g7s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1060",
+      "groupId": "g10",
+      "date": "2025-06-14",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g10s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1061",
+      "groupId": "g7",
+      "date": "2025-06-15",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g7s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1062",
+      "groupId": "g7",
+      "date": "2025-06-19",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g7s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1063",
+      "groupId": "g7",
+      "date": "2025-06-20",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g7s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1064",
+      "groupId": "g10",
+      "date": "2025-06-20",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g10s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1065",
+      "groupId": "g3",
+      "date": "2025-06-27",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g3s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1066",
+      "groupId": "g8",
+      "date": "2025-07-27",
+      "show": "SBS 가요대전",
+      "label": "",
+      "setlist": [
+        "g8s12",
+        "g8s13"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -302470,6 +302900,1283 @@
       "tags": [],
       "title": "260928 KISS OF LIFE BELLE 'Igloo & Who is she' FANCAM (키스오브라이프 벨 직캠)",
       "channel": "Kpopcam4u",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16328",
+      "ytId": "59B_ChmxT_w",
+      "eventId": "e1028",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 있지 류진 직캠 4K 'UNTOUCHABLE' (ITZY RYUJIN FanCam) | @MCOUNTDOWN_2024.1.11",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16329",
+      "ytId": "vEutjPgFUPw",
+      "eventId": "e1029",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 있지 'UNTOUCHABLE' (ITZY FullCam)│@SBS Inkigayo 240114",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16330",
+      "ytId": "5d_IVDyYhYE",
+      "eventId": "e1029",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 유나 'UNTOUCHABLE' (ITZY YUNA FanCam) @SBS Inkigayo 240114",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16331",
+      "ytId": "pAIh2WkuneQ",
+      "eventId": "e1029",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 채령 'UNTOUCHABLE' (ITZY CHAERYEONG FanCam) @SBS Inkigayo 240114",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16332",
+      "ytId": "6QBVGXuoT6U",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 최예나 직캠 4K 'Good Morning' (YENA FanCam) | @MCOUNTDOWN_2024.1.18",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16333",
+      "ytId": "7tKpl5WxC3s",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[MPD직캠] 최예나 직캠 8K 'Good Morning' (Horizontal Ver.) (YENA FanCam) | @MCOUNTDOWN_2024.1.18",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16334",
+      "ytId": "FwPdj7QRykU",
+      "eventId": "e1031",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 아이브 장원영 직캠 4K '해야 (HEYA)' (IVE WONYOUNG FanCam) | @MCOUNTDOWN_2024.5.2",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16335",
+      "ytId": "eEWrbcm6rHI",
+      "eventId": "e1032",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 트리플에스 김유연 'Girls Never Die' (tripleS Kim YooYeon FaceCam) @SBS Inkigayo 240512",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16336",
+      "ytId": "K-6frHauuNE",
+      "eventId": "e1033",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 키스오브라이프 나띠 직캠 4K 'Sticky' (KISS OF LIFE NATTY FanCam) | @MCOUNTDOWN_2024.7.4",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16337",
+      "ytId": "ANeqtKm2o7s",
+      "eventId": "e1033",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 키스오브라이프 쥴리 직캠 4K 'Sticky' (KISS OF LIFE JULIE FanCam) | @MCOUNTDOWN_2024.7.4",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16338",
+      "ytId": "3DeTW8FKKYg",
+      "eventId": "e1034",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 에스파 윈터 직캠 4K 'Whiplash' (aespa WINTER FanCam) | @MCOUNTDOWN_2024.10.24",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16339",
+      "ytId": "eXk-CNSNcto",
+      "eventId": "e1035",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - Whiplash | Show! MusicCore | MBC241026방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16340",
+      "ytId": "e9y52Y_qZdg",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 에스파 닝닝 'Whiplash' (aespa NINGNING FaceCam) @SBS Inkigayo 241027",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16341",
+      "ytId": "rHZv44fPcuE",
+      "eventId": "e1037",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - Whiplash | Show! MusicCore | MBC241102방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16342",
+      "ytId": "ciXIQK6G230",
+      "eventId": "e1038",
+      "songs": [
+        {
+          "songId": "g8s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 베이비몬스터 아현 'DRIP' (BABYMONSTER AHYEON FanCam) @SBS Inkigayo 241110",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16343",
+      "ytId": "karQAIwewUk",
+      "eventId": "e1039",
+      "songs": [
+        {
+          "songId": "g8s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 베이비몬스터 아현 'DRIP' (BABYMONSTER AHYEON FanCam) @SBS Inkigayo 241117",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16344",
+      "ytId": "1YHemRmyWmU",
+      "eventId": "e1040",
+      "songs": [
+        {
+          "songId": "g8s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "BABYMONSTER (베이비몬스터) - DRIP @인기가요 inkigayo 20241124",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16345",
+      "ytId": "prowHppYlsg",
+      "eventId": "e1040",
+      "songs": [
+        {
+          "songId": "g8s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 베이비몬스터 'DRIP' (BABYMONSTER FullCam)│@SBS Inkigayo 241124",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16346",
+      "ytId": "8q6o3D0m0QM",
+      "eventId": "e1040",
+      "songs": [
+        {
+          "songId": "g8s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 베이비몬스터 아현 'DRIP' (BABYMONSTER AHYEON FanCam) @SBS Inkigayo 241124",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16347",
+      "ytId": "OQbDSGVASa0",
+      "eventId": "e1041",
+      "songs": [
+        {
+          "songId": "g8s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024 가요대전 4K] 베이비몬스터 아현 'INTRO + DRIP' (BABYMONSTER AHYEON FanCam)│@SBS Gayo Daejeon 241225",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16348",
+      "ytId": "a95AGRbel4A",
+      "eventId": "e1041",
+      "songs": [
+        {
+          "songId": "g8s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241225 #2024SBS가요대전 'DRIP' AHYEON 아현 직캠 (4K)",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16349",
+      "ytId": "BLA0BB3zGIc",
+      "eventId": "e1042",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[#최애직캠] IVE JANG WONYOUNG (아이브 장원영) – ATTITUDE | 쇼! 음악중심 | MBC250208",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16350",
+      "ytId": "qg3WHiwhHPw",
+      "eventId": "e1043",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 아이브 'ATTITUDE' 단독샷 별도녹화│IVE ONE TAKE STAGE @SBS Inkigayo 250209",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16351",
+      "ytId": "VWNfprBaXt0",
+      "eventId": "e1043",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 장원영 'ATTITUDE' (IVE JANG WONYOUNG FanCam) @SBS Inkigayo 250209",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16352",
+      "ytId": "xW7zPvW13N0",
+      "eventId": "e1043",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 안유진 'ATTITUDE' (IVE AN YUJIN FanCam) @SBS Inkigayo 250209",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16353",
+      "ytId": "87-QS4y8UBQ",
+      "eventId": "e1044",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[K-Fancam] 하츠투하츠 스텔라 'The Chase' (Hearts2Hearts STELLA Fancam) @뮤직뱅크(Music Bank) 250228",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16354",
+      "ytId": "oEDgwk5cUDs",
+      "eventId": "e1045",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 스텔라 'The Chase' (Hearts2Hearts STELLA FanCam) @SBS Inkigayo 250302",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16355",
+      "ytId": "M5Nt9ywS2c8",
+      "eventId": "e1046",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts STELLA(하츠투하츠 스텔라) - The Chase | Show Champion | EP.545 | 250305",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16356",
+      "ytId": "4Ak8fanF-S4",
+      "eventId": "e1047",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 하츠투하츠 스텔라 'The Chase' (Hearts2Hearts STELLA FaceCam) @SBS Inkigayo 250309",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16357",
+      "ytId": "le5vCG-TQps",
+      "eventId": "e1047",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 스텔라 'The Chase' (Hearts2Hearts STELLA FanCam) @SBS Inkigayo 250309",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16358",
+      "ytId": "bX7LIf7xKlE",
+      "eventId": "e1048",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] Hearts2Hearts STELLA(하츠투하츠 스텔라) - The Chase | Show Champion | EP.546 | 250312",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16359",
+      "ytId": "-pWytfdJmko",
+      "eventId": "e1049",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "'최초 공개' NMIXX - KNOW ABOUT ME #엠카운트다운 EP.880 | Mnet 250320 방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16360",
+      "ytId": "DSVZ3qVJs6I",
+      "eventId": "e1050",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 설윤 직캠 'KNOW ABOUT ME'(NMIXX SULLYOON Fancam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16361",
+      "ytId": "a1ssvmj2E9g",
+      "eventId": "e1051",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX (엔믹스) - KNOW ABOUT ME @인기가요 inkigayo 20250323",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16362",
+      "ytId": "CvN9Ptb65Hg",
+      "eventId": "e1051",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 엔믹스 'KNOW ABOUT ME' 단독샷 별도녹화│NMIXX ONE TAKE STAGE│@SBS Inkigayo 250323",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16363",
+      "ytId": "HEd1P4DD1iI",
+      "eventId": "e1052",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[COMEBACK] 엔믹스(NMIXX) - KNOW ABOUT ME l Show Champion l EP.548 l 250326",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16364",
+      "ytId": "mivd53H0Vm4",
+      "eventId": "e1053",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "'COMEBACK' tripleS - 깨어 (Are You Alive) #엠카운트다운 EP.888 | Mnet 250515 방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16365",
+      "ytId": "Uw7ZVt-Wqbo",
+      "eventId": "e1053",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 트리플에스 유연 직캠 4K '깨어 (Are You Alive)' (tripleS YooYeon FanCam) | @MCOUNTDOWN_2025.5.15",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16366",
+      "ytId": "m6el-2QsiZ0",
+      "eventId": "e1054",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "깨어 (Are You Alive) - tripleS [뮤직뱅크/Music Bank] | KBS 250516 방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16367",
+      "ytId": "sLUXfWrWkho",
+      "eventId": "e1055",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[#음중직캠] tripleS KIM YOOYEON (트리플에스 김유연) – 깨어 (Are You Alive) FanCam | 쇼! 음악중심 | MBC250517",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16368",
+      "ytId": "2fsXORTi0Rk",
+      "eventId": "e1056",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "tripleS - 깨어 (Are You Alive) (본교 교복ver.) #엠카운트다운 EP.890 | Mnet 250529 방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16369",
+      "ytId": "2nwPlnHMReo",
+      "eventId": "e1057",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "'최초 공개' ITZY - Girls Will Be Girls #엠카운트다운 EP.892 | Mnet 250612 방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16370",
+      "ytId": "lIUItSfGEOs",
+      "eventId": "e1057",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 있지 류진 직캠 4K 'Girls Will Be Girls' (ITZY RYUJIN FanCam) | @MCOUNTDOWN_2025.6.12",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16371",
+      "ytId": "l7S8MkMtW4w",
+      "eventId": "e1057",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 있지 유나 직캠 4K 'Girls Will Be Girls' (ITZY YUNA FanCam) | @MCOUNTDOWN_2025.6.12",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16372",
+      "ytId": "oM8rGkL2f6U",
+      "eventId": "e1058",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Girls Will Be Girls - ITZY イットジー 있지 [Music Bank] | KBS WORLD TV 250613",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16373",
+      "ytId": "bVt4Cq8pJcE",
+      "eventId": "e1058",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 있지 유나 'Girls Will Be Girls' (ITZY YUNA Facecam) @뮤직뱅크(Music Bank) 250613",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16374",
+      "ytId": "vJXg4Q9ZWGE",
+      "eventId": "e1058",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[K-Fancam] 있지 유나 직캠 'Girls Will Be Girls' (ITZY YUNA Fancam) @뮤직뱅크(Music Bank) 250613",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16375",
+      "ytId": "sZZLFlvtypc",
+      "eventId": "e1058",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[K-Fancam] 있지 류진 직캠 'Girls Will Be Girls' (ITZY RYUJIN Fancam) @뮤직뱅크(Music Bank) 250613",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16376",
+      "ytId": "BtEvxo-_gs0",
+      "eventId": "e1059",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY (있지) - Girls Will Be Girls | Show! MusicCore | MBC250614방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16377",
+      "ytId": "gi3bQPuZYhc",
+      "eventId": "e1060",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "KISS OF LIFE (키스 오브 라이프) - Lips Hips Kiss | Show! MusicCore | MBC250614방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16378",
+      "ytId": "90O9yt7biPE",
+      "eventId": "e1061",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 유나 'Girls Will Be Girls' (ITZY YUNA FanCam) @SBS Inkigayo 250615",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16379",
+      "ytId": "gu7myuOp-WE",
+      "eventId": "e1062",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 있지 유나 직캠 4K 'Girls Will Be Girls' (ITZY YUNA FanCam) | @MCOUNTDOWN_2025.6.19",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16380",
+      "ytId": "rwmW-ELgmBg",
+      "eventId": "e1063",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[K-Fancam] 있지 유나 직캠 'Girls Will Be Girls' (ITZY YUNA Fancam) @뮤직뱅크(Music Bank) 250620",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16381",
+      "ytId": "5dH3SB8Pso0",
+      "eventId": "e1064",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Lips Hips Kiss - KISS OF LIFE (키스오브라이프) [뮤직뱅크/Music Bank] | KBS 250620 방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16382",
+      "ytId": "Jqw3pOozZXU",
+      "eventId": "e1065",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[K-Fancam] 프로미스나인 이나경 직캠 'LIKE YOU BETTER' (fromis_9 LEE NA GYUNG Fancam) @뮤직뱅크(Music Bank) 250627",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16383",
+      "ytId": "43EsrNJn3fQ",
+      "eventId": "e1065",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[K-Fancam] 프로미스나인 박지원 직캠 'LIKE YOU BETTER' (fromis_9 PARK JI WON Fancam) @뮤직뱅크(Music Bank) 250627",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16384",
+      "ytId": "SIUG9C8sBsM",
+      "eventId": "e1065",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[K-Fancam] 프로미스나인 송하영 직캠 'LIKE YOU BETTER' (fromis_9 SONG HA YOUNG Fancam) @뮤직뱅크(Music Bank) 250627",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16385",
+      "ytId": "G0ZA8iIb_sA",
+      "eventId": "e1065",
+      "songs": [
+        {
+          "songId": "g3s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[K-Fancam] 프로미스나인 백지헌 직캠 'LIKE YOU BETTER' (fromis_9 BAEK JI HEON Fancam) @뮤직뱅크(Music Bank) 250627",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16386",
+      "ytId": "IUx2uLTU0YQ",
+      "eventId": "e1066",
+      "songs": [
+        {
+          "songId": "g8s12",
+          "t": 0
+        },
+        {
+          "songId": "g8s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250727 SBS 가요대전 'DRIP + HOT SAUCE' AHYEON 아현 직캠 (4K)",
+      "channel": "",
       "pin": false,
       "gone": false
     }
