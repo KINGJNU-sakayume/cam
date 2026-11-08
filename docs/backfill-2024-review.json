@@ -1,0 +1,4689 @@
+{
+  "version": 1,
+  "checkedAt": "2026-11-08",
+  "status": "partial",
+  "note": "웹 색인으로 확인한 후보만 검토함. YouTube 직접 검색은 플랫폼 차단(CONNECT 403)으로 실행하지 못함. 모든 날짜·모든 영상을 수집했다는 뜻이 아님.",
+  "groups": [
+    {
+      "id": "g1",
+      "name": "아이브",
+      "targetFrom": "2024-01-01",
+      "status": "partial",
+      "addedVideos": 164,
+      "addedEvents": 25,
+      "addedFrom": "2024-05-02",
+      "addedTo": "2025-02-16"
+    },
+    {
+      "id": "g2",
+      "name": "엔믹스",
+      "targetFrom": "2024-01-01",
+      "status": "partial",
+      "addedVideos": 191,
+      "addedEvents": 32,
+      "addedFrom": "2024-01-18",
+      "addedTo": "2025-04-06"
+    },
+    {
+      "id": "g3",
+      "name": "프로미스나인",
+      "targetFrom": "2024-01-01",
+      "status": "partial",
+      "addedVideos": 42,
+      "addedEvents": 7,
+      "addedFrom": "2024-08-16",
+      "addedTo": "2025-06-28"
+    },
+    {
+      "id": "g4",
+      "name": "하츠투하츠",
+      "targetFrom": "2025-02-24",
+      "status": "partial",
+      "addedVideos": 123,
+      "addedEvents": 18,
+      "addedFrom": "2025-02-24",
+      "addedTo": "2025-06-28"
+    },
+    {
+      "id": "g5",
+      "name": "에스파",
+      "targetFrom": "2024-01-01",
+      "status": "partial",
+      "addedVideos": 112,
+      "addedEvents": 19,
+      "addedFrom": "2024-05-16",
+      "addedTo": "2025-07-12"
+    },
+    {
+      "id": "g6",
+      "name": "트리플에스",
+      "targetFrom": "2024-01-01",
+      "status": "partial",
+      "addedVideos": 116,
+      "addedEvents": 28,
+      "addedFrom": "2024-01-28",
+      "addedTo": "2025-06-01"
+    },
+    {
+      "id": "g7",
+      "name": "있지",
+      "targetFrom": "2024-01-01",
+      "status": "partial",
+      "addedVideos": 175,
+      "addedEvents": 33,
+      "addedFrom": "2024-01-11",
+      "addedTo": "2025-12-25"
+    },
+    {
+      "id": "g8",
+      "name": "베이비몬스터",
+      "targetFrom": "2024-01-01",
+      "status": "partial",
+      "addedVideos": 142,
+      "addedEvents": 28,
+      "addedFrom": "2024-04-07",
+      "addedTo": "2025-12-25"
+    },
+    {
+      "id": "g9",
+      "name": "최예나",
+      "targetFrom": "2024-01-01",
+      "status": "partial",
+      "addedVideos": 7,
+      "addedEvents": 6,
+      "addedFrom": "2024-01-20",
+      "addedTo": "2024-10-25"
+    },
+    {
+      "id": "g10",
+      "name": "키스오브라이프",
+      "targetFrom": "2024-01-01",
+      "status": "partial",
+      "addedVideos": 112,
+      "addedEvents": 29,
+      "addedFrom": "2024-04-04",
+      "addedTo": "2025-06-29"
+    }
+  ],
+  "items": [
+    {
+      "ytId": "4Qwp7J9b-zc",
+      "group": "g1",
+      "title": "[UNFILTERED CAM] IVE JANGWONYOUNG(장원영) 'REBEL HEART' 4K | STUDIO CHOOM",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/ive-rebel-heart"
+    },
+    {
+      "ytId": "kbxwX9IJEeM",
+      "group": "g1",
+      "title": "[K-Fancam] 아이브 장원영 직캠 'REBEL HEART' (IVE JANG WONYOUNG Fancam) @뮤직뱅크(MusicBank) 20117",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/ive-rebel-heart"
+    },
+    {
+      "ytId": "L1xZAtnw9oE",
+      "group": "g1",
+      "title": "[UNFILTERED CAM] IVE ANYUJIN(안유진) 'REBEL HEART' 4K | STUDIO CHOOM",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/ive-rebel-heart"
+    },
+    {
+      "ytId": "l-MPUO8rWZI",
+      "group": "g1",
+      "title": "[UNFILTERED CAM] IVE LIZ(리즈) 'REBEL HEART' 4K | STUDIO CHOOM",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/ive-rebel-heart"
+    },
+    {
+      "ytId": "8y2AluSRSt8",
+      "group": "g1",
+      "title": "[UNFILTERED CAM] IVE REI(레이) 'REBEL HEART' 4K | STUDIO CHOOM",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/ive-rebel-heart"
+    },
+    {
+      "ytId": "yWCbbJQZ3d0",
+      "group": "g1",
+      "title": "[UNFILTERED CAM] IVE LEESEO(이서) 'REBEL HEART' 4K | STUDIO CHOOM",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/ive-rebel-heart"
+    },
+    {
+      "ytId": "l6kR3ccABHc",
+      "group": "g1",
+      "title": "[UNFILTERED CAM] IVE GAEUL(가을) 'REBEL HEART' 4K | STUDIO CHOOM",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/ive-rebel-heart"
+    },
+    {
+      "ytId": "RYiIedrIiGY",
+      "group": "g1",
+      "title": "[UNFILTERED CAM] IVE WONYOUNG(장원영) '해야 (HEYA)' 4K | BE ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/ive-heya"
+    },
+    {
+      "ytId": "CJst0fju87g",
+      "group": "g1",
+      "title": "[UNFILTERED CAM] IVE LIZ(리즈) '해야 (HEYA)' 4K | BE ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/ive-heya"
+    },
+    {
+      "ytId": "4Dy6TWevXIc",
+      "group": "g1",
+      "title": "[UNFILTERED CAM] IVE YUJIN(안유진) '해야 (HEYA)' 4K | BE ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/ive-heya"
+    },
+    {
+      "ytId": "8-gxxkpSqFc",
+      "group": "g1",
+      "title": "[UNFILTERED CAM] IVE REI(레이) '해야 (HEYA)' 4K | BE ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/ive-heya"
+    },
+    {
+      "ytId": "vRkeBqkGogk",
+      "group": "g1",
+      "title": "[UNFILTERED CAM] IVE GAEUL(가을) '해야 (HEYA)' 4K | BE ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/ive-heya"
+    },
+    {
+      "ytId": "un0HMNh6404",
+      "group": "g1",
+      "title": "[UNFILTERED CAM] IVE LEESEO(이서) '해야 (HEYA)' 4K | BE ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/ive-heya"
+    },
+    {
+      "ytId": "30u-kH9-FAk",
+      "group": "g2",
+      "title": "[쇼챔1분직캠] NMIXX HAEWON(엔믹스 해원)의 ＜KNOW ABOUT ME＞♬ #NMIXX #엔믹스 #KNOWABOUTME #해원 #HAEWON",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-know-about-me"
+    },
+    {
+      "ytId": "7B5iJa_Lr0E",
+      "group": "g2",
+      "title": "[쇼챔1분직캠] NMIXX BAE(엔믹스 배이)의 ＜KNOW ABOUT ME＞♬ #NMIXX #엔믹스 #KNOWABOUTME #배이 #BAE",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-know-about-me"
+    },
+    {
+      "ytId": "Xp1F7GStcX8",
+      "group": "g2",
+      "title": "[쇼챔1분직캠] NMIXX SULLYOON(엔믹스 설윤)의 ＜KNOW ABOUT ME＞♬ #NMIXX #엔믹스 #KNOWABOUTME #설윤 #SULLYOON",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-know-about-me"
+    },
+    {
+      "ytId": "6kYxD-RFrXc",
+      "group": "g2",
+      "title": "[쇼챔1분직캠] NMIXX Lily Morrow(엔믹스 릴리)의 ＜KNOW ABOUT ME＞♬ #NMIXX #엔믹스 #KNOWABOUTME #릴리 #LilyMorrow",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-know-about-me"
+    },
+    {
+      "ytId": "A_VHps4yMiw",
+      "group": "g2",
+      "title": "[쇼챔1분직캠] NMIXX JIWOO(엔믹스 지우)의 ＜KNOW ABOUT ME＞♬ #NMIXX #엔믹스 #KNOWABOUTME #지우 #JIWOO",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-know-about-me"
+    },
+    {
+      "ytId": "afi140DSKJE",
+      "group": "g2",
+      "title": "[쇼챔1분직캠] NMIXX JIWOO(엔믹스 지우)의 ＜KNOW ABOUT ME＞♬ #NMIXX #엔믹스 #KNOWABOUTME #지우 #JIWOO",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-know-about-me"
+    },
+    {
+      "ytId": "Sxsdu0tPI1k",
+      "group": "g2",
+      "title": "[쇼챔1분직캠] NMIXX KYUJIN(엔믹스 규진)의 ＜KNOW ABOUT ME＞♬ #NMIXX #엔믹스 #KNOWABOUTME #규진 #KYUJIN",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-know-about-me"
+    },
+    {
+      "ytId": "B0WFlf2DeRw",
+      "group": "g2",
+      "title": "[쇼챔1분직캠] NMIXX BAE(엔믹스 배이)의 ＜KNOW ABOUT ME＞♬ #NMIXX #엔믹스 #KNOWABOUTME #배이 #BAE",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-know-about-me"
+    },
+    {
+      "ytId": "hKmOxsePrIQ",
+      "group": "g2",
+      "title": "[쇼챔1분직캠] NMIXX HAEWON(엔믹스 해원)의 ＜KNOW ABOUT ME＞♬ #NMIXX #엔믹스 #KNOWABOUTME #해원 #HAEWON",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-know-about-me"
+    },
+    {
+      "ytId": "4ZaH6XkEtYY",
+      "group": "g2",
+      "title": "[쇼챔1분직캠] NMIXX Lily Morrow(엔믹스 릴리)의 ＜KNOW ABOUT ME＞♬ #NMIXX #엔믹스 #KNOWABOUTME #릴리 #LilyMorrow",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-know-about-me"
+    },
+    {
+      "ytId": "tZoGF9Lijdw",
+      "group": "g2",
+      "title": "[가요대제전 #최애직캠] 엔믹스 설윤 (NMIXX SULLYOON) – 별별별 (See that?) | Gayo Daejejeon 2024 | MBC250129",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-see-that",
+      "titleDate": "2025-01-29"
+    },
+    {
+      "ytId": "xsC_XyKhTWo",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 설윤 직캠 '별별별 (See that?)'(NMIXX SULLYOON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-see-that",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "qjJUwZ2we9s",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 규진 직캠 '별별별 (See that?)'(NMIXX KYUJIN Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-see-that",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "5z9xj9lcD3c",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 해원 직캠 '별별별 (See that?)'(NMIXX HAEWON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-see-that",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "pTnne5ZL8X4",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 배이 직캠 '별별별 (See that?)'(NMIXX BAE Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-see-that",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "kBqyMYTCcvk",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 지우 직캠 '별별별 (See that?)'(NMIXX JIWOO Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-see-that",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "-GFZY8DRMjk",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 릴리 직캠 '별별별 (See that?)'(NMIXX LILY Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-see-that",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "lFHLsmxtA1o",
+      "group": "g2",
+      "title": "[보이스캠 삼육공] 엔믹스 해원 'DASH' | NMIXX HAEWON VoiceCam360˚ | VoiceFocusedFanCam",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-dash"
+    },
+    {
+      "ytId": "OMKfNqYvCY8",
+      "group": "g2",
+      "title": "[보이스캠 삼육공] 엔믹스 릴리 'DASH' | NMIXX LILY VoiceCam360˚ | VoiceFocusedFanCam",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-dash"
+    },
+    {
+      "ytId": "FXjMxy_mHOY",
+      "group": "g2",
+      "title": "[보이스캠 삼육공] 엔믹스 지우 'DASH' | NMIXX JIWOO VoiceCam360˚ | VoiceFocusedFanCam",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-dash"
+    },
+    {
+      "ytId": "yYffUmJdFRE",
+      "group": "g2",
+      "title": "[보이스캠 삼육공] 엔믹스 설윤 'DASH' | NMIXX SULLYOON VoiceCam360˚ | VoiceFocusedFanCam",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-dash"
+    },
+    {
+      "ytId": "4jITd4YClGw",
+      "group": "g2",
+      "title": "[보이스캠 삼육공] 엔믹스 배이 'DASH' | NMIXX BAE VoiceCam360˚ | VoiceFocusedFanCam",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-dash"
+    },
+    {
+      "ytId": "WDl12dPWJEk",
+      "group": "g2",
+      "title": "[보이스캠 삼육공] 엔믹스 규진 'DASH' | NMIXX KYUJIN VoiceCam360˚ | VoiceFocusedFanCam",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-dash"
+    },
+    {
+      "ytId": "QI5J3aDg0zI",
+      "group": "g2",
+      "title": "[보이스캠 삼육공] 엔믹스 설윤 'Run For Roses' | NMIXX SULLYOON VoiceCam360˚ | VoiceFocusedFanCam",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-run-for-roses"
+    },
+    {
+      "ytId": "Hj_8XpsptOc",
+      "group": "g2",
+      "title": "[보이스캠 삼육공] 엔믹스 릴리 'Run For Roses' | NMIXX LILY VoiceCam360˚ | VoiceFocusedFanCam",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-run-for-roses"
+    },
+    {
+      "ytId": "qOYgknKxFp0",
+      "group": "g2",
+      "title": "[보이스캠 삼육공] 엔믹스 해원 'Run For Roses' | NMIXX HAEWON VoiceCam360˚ | VoiceFocusedFanCam",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-run-for-roses"
+    },
+    {
+      "ytId": "toDTHTRn-aY",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 설윤 직캠 'Intro + Run For Roses' (NMIXX SULLYOON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-run-for-roses",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "CWjUsiEGGA8",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 규진 직캠 'Intro + Run For Roses' (NMIXX KYUJIN Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-run-for-roses",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "oOjWKmDQn0E",
+      "group": "g2",
+      "title": "[보이스캠 삼육공] 엔믹스 규진 'Run For Roses' | NMIXX KYUJIN VoiceCam360˚ | VoiceFocusedFanCam",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-run-for-roses"
+    },
+    {
+      "ytId": "9FfA5cS4cj8",
+      "group": "g2",
+      "title": "[보이스캠 삼육공] 엔믹스 지우 'Run For Roses' | NMIXX JIWOO VoiceCam360˚ | VoiceFocusedFanCam",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-run-for-roses"
+    },
+    {
+      "ytId": "LKVkfvifaHo",
+      "group": "g2",
+      "title": "[보이스캠 삼육공] 엔믹스 배이 'Run For Roses' | NMIXX BAE VoiceCam360˚ | VoiceFocusedFanCam",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-run-for-roses"
+    },
+    {
+      "ytId": "zQS2OU_emG4",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 해원 'Intro + Run For Roses' (NMIXX HAEWON Facecam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-run-for-roses",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "Z5drUzpo0oM",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 배이 직캠 'Intro + Run For Roses' (NMIXX BAE Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-run-for-roses",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "2V3xJOWgceo",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 릴리 직캠 'Intro + Run For Roses' (NMIXX LILY Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-run-for-roses",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "ayfB1e7FG-A",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 지우 직캠 'Intro + Run For Roses' (NMIXX JIWOO Fancam)@뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-run-for-roses",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "h5sKErO0hZ0",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 설윤 직캠 'Sonar' (NMIXX SULLYOON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-sonar",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "RA5b8OSG4Lw",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 규진 직캠 'Sonar' (NMIXX KYUJIN Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-sonar",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "qH0o16I77s8",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 해원 직캠 'Sonar' (NMIXX HAEWON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-sonar",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "Rp3w-3hgyyg",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 릴리 직캠 'Sonar' (NMIXX LILY Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-sonar",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "-4wX9UuGc_0",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 지우 직캠 'Sonar' (NMIXX JIWOO Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-sonar",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "mMYS-LTGMos",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 배이 직캠 'Sonar' (NMIXX BAE Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-sonar",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "Gmvi49YCawQ",
+      "group": "g2",
+      "title": "[쇼챔1분직캠] NMIXX SULLYOON(엔믹스 설윤)의 ＜High Horse＞♬ #NMIXX #엔믹스 #HighHorse #설윤 #SULLYOON",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-high-horse"
+    },
+    {
+      "ytId": "Xo61Fs5nuKw",
+      "group": "g2",
+      "title": "[쇼챔1분직캠] NMIXX KYUJIN(엔믹스 규진)의 ＜High Horse＞♬ #NMIXX #엔믹스 #High Horse #규진 #KYUJIN",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-high-horse"
+    },
+    {
+      "ytId": "VQkPTzYNyQQ",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 설윤 직캠 'BEAT BEAT' (NMIXX SULLYOON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-beat-beat",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "VQFHwN5wM7s",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 지우 직캠 'BEAT BEAT' (NMIXX JIWOO Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-beat-beat",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "_ODA7EzOA3Y",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 배이 직캠 'BEAT BEAT' (NMIXX BAE Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-beat-beat",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "3wtoly4xx20",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 규진 직캠 'BEAT BEAT' (NMIXX KYUJIN Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-beat-beat",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "7OIzETP6mEg",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 해원 직캠 'BEAT BEAT' (NMIXX HAEWON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-beat-beat",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "BhOFJjN7Omo",
+      "group": "g2",
+      "title": "[K-Fancam] 엔믹스 릴리 직캠 'BEAT BEAT' (NMIXX LILY Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/nmixx-beat-beat",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "SVvTuu_P8hc",
+      "group": "g3",
+      "title": "[UNFILTERED CAM] fromis_9 LEE NAGYUNG(이나경) 'Supersonic' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/fromis9-supersonic"
+    },
+    {
+      "ytId": "Xd5DgufMu9o",
+      "group": "g3",
+      "title": "[UNFILTERED CAM] fromis_9 ROH JISUN(노지선) 'Supersonic' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/fromis9-supersonic"
+    },
+    {
+      "ytId": "Wn-yp8AG0Bo",
+      "group": "g3",
+      "title": "[UNFILTERED CAM] fromis_9 PARK JIWON(박지원) 'Supersonic' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/fromis9-supersonic"
+    },
+    {
+      "ytId": "yXa2CI5m7ro",
+      "group": "g3",
+      "title": "[UNFILTERED CAM] fromis_9 LEE SAEROM(이새롬) 'Supersonic' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/fromis9-supersonic"
+    },
+    {
+      "ytId": "mCjkAkeq-lU",
+      "group": "g3",
+      "title": "[UNFILTERED CAM] fromis_9 SONG HAYOUNG(송하영) 'Supersonic' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/fromis9-supersonic"
+    },
+    {
+      "ytId": "Zc7aZ-lN7oA",
+      "group": "g3",
+      "title": "[UNFILTERED CAM] fromis_9 LEE CHAEYOUNG(이채영) 'Supersonic' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/fromis9-supersonic"
+    },
+    {
+      "ytId": "frCsLvEYUyE",
+      "group": "g3",
+      "title": "[UNFILTERED CAM] fromis_9 BAEK JIHEON(백지헌) 'Supersonic' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/fromis9-supersonic"
+    },
+    {
+      "ytId": "T0vT46pAm5I",
+      "group": "g3",
+      "title": "[UNFILTERED CAM] fromis_9 LEE SEOYEON(이서연) 'Supersonic' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/fromis9-supersonic"
+    },
+    {
+      "ytId": "ljjBxYR1PJY",
+      "group": "g4",
+      "title": "[UNFILTERED CAM] Hearts2Hearts CARMEN(카르멘) 'The Chase' 4K | STUDIO CHOOM",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/hearts2hearts-the-chase"
+    },
+    {
+      "ytId": "0-VLTMGBFAM",
+      "group": "g4",
+      "title": "[UNFILTERED CAM] Hearts2Hearts IAN(이안) 'The Chase' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/hearts2hearts-the-chase"
+    },
+    {
+      "ytId": "3OL5rk9I9P8",
+      "group": "g4",
+      "title": "[UNFILTERED CAM] Hearts2Hearts JIWOO(지우) 'The Chase' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/hearts2hearts-the-chase"
+    },
+    {
+      "ytId": "Wx1zZjPKzrA",
+      "group": "g4",
+      "title": "[쇼챔1분직캠] Hearts2Hearts CARMEN(하츠투하츠 카르멘)의 ＜The Chase＞♬ #Hearts2Hearts #하츠투하츠 #TheChase #카르멘 #CARMEN",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/hearts2hearts-the-chase"
+    },
+    {
+      "ytId": "-7ZeM8zuwOg",
+      "group": "g4",
+      "title": "[UNFILTERED CAM] Hearts2Hearts STELLA(스텔라) 'The Chase' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/hearts2hearts-the-chase"
+    },
+    {
+      "ytId": "DJSDyaOOR5o",
+      "group": "g4",
+      "title": "[UNFILTERED CAM] Hearts2Hearts YUHA(유하) 'The Chase' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/hearts2hearts-the-chase"
+    },
+    {
+      "ytId": "LqggXYqFaQQ",
+      "group": "g4",
+      "title": "[쇼챔 1분 직캠] Hearts2Hearts JIWOO(하츠투하츠 지우)의 ＜The Chase＞♬ #Hearts2Hearts #하츠투하츠 #TheChase #지우 #JIWOO",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/hearts2hearts-the-chase"
+    },
+    {
+      "ytId": "zXyEVShzOcQ",
+      "group": "g4",
+      "title": "[UNFILTERED CAM] Hearts2Hearts JUUN(주은) 'The Chase' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/hearts2hearts-the-chase"
+    },
+    {
+      "ytId": "E_uzYyEPp-4",
+      "group": "g4",
+      "title": "[UNFILTERED CAM] Hearts2Hearts YE-ON(예온) 'The Chase' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/hearts2hearts-the-chase"
+    },
+    {
+      "ytId": "frXM7ftowLo",
+      "group": "g4",
+      "title": "[UNFILTERED CAM] Hearts2Hearts A-NA(에이나) 'The Chase' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/hearts2hearts-the-chase"
+    },
+    {
+      "ytId": "WaYA7PQzj7E",
+      "group": "g4",
+      "title": "[쇼챔 1분 직캠] Hearts2Hearts IAN(하츠투하츠 이안)의 ＜The Chase＞♬ #Hearts2Hearts #하츠투하츠 #TheChase #이안 #IAN",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/hearts2hearts-the-chase"
+    },
+    {
+      "ytId": "i1Znjk67RdQ",
+      "group": "g4",
+      "title": "[쇼챔1분직캠] Hearts2Hearts STELLA(하츠투하츠 스텔라)의 ＜The Chase＞♬ #Hearts2Hearts #하츠투하츠 #TheChase #스텔라 #STELLA",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/hearts2hearts-the-chase"
+    },
+    {
+      "ytId": "QVinBrQP4Hs",
+      "group": "g5",
+      "title": "[K-Fancam] 에스파 카리나 직캠 'INTRO + Whiplash' (aespa KARINA Fancam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/aespa-whiplash",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "sawmwgiOpJ0",
+      "group": "g5",
+      "title": "[K-Fancam] 에스파 닝닝 직캠 'INTRO + Whiplash' (aespa NINGNING Fancam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/aespa-whiplash",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "4xu59ex8C3w",
+      "group": "g5",
+      "title": "[K-Fancam] 에스파 윈터 직캠 'INTRO + Whiplash' (aespa WINTER Fancam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/aespa-whiplash",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "2McDdMWn1cY",
+      "group": "g5",
+      "title": "[K-Fancam] 에스파 지젤 직캠 'INTRO + Whiplash' (aespa GISELLE Fancam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/aespa-whiplash",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "uykiCReIEf8",
+      "group": "g5",
+      "title": "[K-Fancam] 에스파 카리나 직캠 'Armageddon' (aespa KARINA Fancam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/aespa-armageddon",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "fGuH9pJ0TZY",
+      "group": "g5",
+      "title": "[K-Fancam] 에스파 닝닝 직캠 'Armageddon' (aespa NINGNING Fancam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/aespa-armageddon",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "iGzAwXP0h_Y",
+      "group": "g5",
+      "title": "[K-Fancam] 에스파 윈터 직캠 'Armageddon' (aespa WINTER Fancam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/aespa-armageddon",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "zwzdbzj2Lys",
+      "group": "g5",
+      "title": "[K-Fancam] 에스파 지젤 직캠 'Armageddon' (aespa GISELLE Fancam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/aespa-armageddon",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "gYSGVtpK6aw",
+      "group": "g5",
+      "title": "[가요대제전 #최애직캠] aespa WINTER (에스파 윈터) – Kill It | 2025 GayoDaejejeon | MBC251231",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/aespa-kill-it",
+      "titleDate": "2025-12-31"
+    },
+    {
+      "ytId": "hsQmvtfH884",
+      "group": "g5",
+      "title": "[가요대제전 #최애직캠] aespa GISELLE (에스파 지젤) – Kill It | 2025 GayoDaejejeon | MBC251231",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/aespa-kill-it",
+      "titleDate": "2025-12-31"
+    },
+    {
+      "ytId": "CBJGFflH6pc",
+      "group": "g6",
+      "title": "[쇼챔1분직캠] TripleS Chae Yeon(트리플에스 채연)의 ＜깨어(Are You Alive)＞♬ #TripleS #트리플에스 #채연 #깨어",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-are-you-alive"
+    },
+    {
+      "ytId": "P0v6OjA2jZM",
+      "group": "g6",
+      "title": "[쇼챔1분직캠] TripleS Mayu(트리플에스 마유)의 ＜깨어(Are You Alive)＞♬ #TripleS #트리플에스 #마유 #깨어",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-are-you-alive"
+    },
+    {
+      "ytId": "Du88Is8ursg",
+      "group": "g6",
+      "title": "[입덕직캠] 트리플에스 나경 직캠 4K 'Hit the Floor' (tripleS Visionary Vision NaKyoung FanCam) | @MCOUNTDOWN",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "8EwJa3uba-M",
+      "group": "g6",
+      "title": "[UNFILTERED CAM] tripleS VV SoHyun(소현) 'Hit the Floor' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "ONnSSKjkTHU",
+      "group": "g6",
+      "title": "[입덕직캠] 트리플에스 유연 직캠 4K 'Hit the Floor' (tripleS Visionary Vision YooYeon FanCam) | @MCOUNTDOWN",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "Wq0NPMtRi0Q",
+      "group": "g6",
+      "title": "[MPD직캠] 트리플에스 소현 직캠 4K 'Hit the Floor' (tripleS Visionary Vision SoHyun FanCam) | @MCOUNTDOWN",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "MoJjfAAacZ0",
+      "group": "g6",
+      "title": "[UNFILTERED CAM] tripleS VV Kaede(카에데) 'Hit the Floor' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "vtOjS6wkG2Q",
+      "group": "g6",
+      "title": "[UNFILTERED CAM] tripleS VV Kotone(코토네) 'Hit the Floor' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "PqG5h6-3ilc",
+      "group": "g6",
+      "title": "[UNFILTERED CAM] tripleS VV NaKyoung(나경) 'Hit the Floor' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "PfrGWJmOsjI",
+      "group": "g6",
+      "title": "[MPD직캠] 트리플에스 유연 직캠 4K 'Hit the Floor' (tripleS Visionary Vision YooYeon FanCam) | @MCOUNTDOWN",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "zWVuw5o_F1Q",
+      "group": "g6",
+      "title": "[MPD직캠] 트리플에스 나경 직캠 4K 'Hit the Floor' (tripleS Visionary Vision NaKyoung FanCam) | @MCOUNTDOWN",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "sw9wwzQdviQ",
+      "group": "g6",
+      "title": "[UNFILTERED CAM] tripleS VV Lynn(린) 'Hit the Floor' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "YLi8PC9pklY",
+      "group": "g6",
+      "title": "[UNFILTERED CAM] tripleS VV YooYeon(유연) 'Hit the Floor' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "ID-Han_WG60",
+      "group": "g6",
+      "title": "[UNFILTERED CAM] tripleS VV JiYeon(지연) 'Hit the Floor' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "p7eJpU5UiA0",
+      "group": "g6",
+      "title": "[UNFILTERED CAM] tripleS VV Xinyu(신위) 'Hit the Floor' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "I9s_Yo6p9M8",
+      "group": "g6",
+      "title": "[UNFILTERED CAM] tripleS VV Nien(니엔) 'Hit the Floor' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "VqFgjGrGyJM",
+      "group": "g6",
+      "title": "[MPD직캠] 트리플에스 코토네 직캠 4K 'Hit the Floor' (tripleS Visionary Vision Kotone FanCam) | @MCOUNTDOWN",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "EAa1UIC63x0",
+      "group": "g6",
+      "title": "[UNFILTERED CAM] tripleS VV YuBin(유빈) 'Hit the Floor' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "mgHt2X_Wv5w",
+      "group": "g6",
+      "title": "[MPD직캠] 트리플에스 신위 직캠 4K 'Hit the Floor' (tripleS Visionary Vision Xinyu FanCam) | @MCOUNTDOWN",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "en7uRh5QQkM",
+      "group": "g6",
+      "title": "[MPD직캠] 트리플에스 유빈 직캠 4K 'Hit the Floor' (tripleS Visionary Vision YuBin FanCam) | @MCOUNTDOWN",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "Dt1FNq54rT0",
+      "group": "g6",
+      "title": "[UNFILTERED CAM] tripleS VV HyeRin(혜린) 'Hit the Floor' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/triples-hit-the-floor"
+    },
+    {
+      "ytId": "oS4aIP8NfVo",
+      "group": "g7",
+      "title": "[K-Fancam] 있지 류진 직캠 'GOLD' (ITZY RYUJIN Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/itzy-gold",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "zbdDOrZcBpw",
+      "group": "g7",
+      "title": "[K-Fancam] 있지 채령 직캠 'GOLD' (ITZY CHAERYEONG Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/itzy-gold",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "RY9B111rHIM",
+      "group": "g7",
+      "title": "[K-Fancam] 있지 예지 직캠 'GOLD' (ITZY YEJI Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/itzy-gold",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "vsrSd8t3tQs",
+      "group": "g7",
+      "title": "[K-Fancam] 있지 유나 직캠 'GOLD' (ITZY YUNA Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/itzy-gold",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "Q9gyl74YlhQ",
+      "group": "g7",
+      "title": "[K-Fancam] 있지 리아 직캠 'GOLD' (ITZY LIA Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/itzy-gold",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "hsyWzrQIYYA",
+      "group": "g7",
+      "title": "[UNFILTERED CAM] ITZY RYUJIN(류진) 'Girls Will Be Girls' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/itzy-girls-will-be-girls"
+    },
+    {
+      "ytId": "-0fuUyic1R0",
+      "group": "g7",
+      "title": "[UNFILTERED CAM] ITZY YEJI(예지) 'Girls Will Be Girls' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/itzy-girls-will-be-girls"
+    },
+    {
+      "ytId": "r_FCC1OFy6A",
+      "group": "g7",
+      "title": "[UNFILTERED CAM] ITZY YUNA(유나) 'Girls Will Be Girls' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/itzy-girls-will-be-girls"
+    },
+    {
+      "ytId": "wniejaQpnuU",
+      "group": "g7",
+      "title": "[UNFILTERED CAM] ITZY LIA(리아) 'Girls Will Be Girls' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/itzy-girls-will-be-girls"
+    },
+    {
+      "ytId": "cHpXgV1z200",
+      "group": "g7",
+      "title": "[UNFILTERED CAM] ITZY CHAERYEONG(채령) 'Girls Will Be Girls' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/itzy-girls-will-be-girls"
+    },
+    {
+      "ytId": "0-Ba5LS0UyE",
+      "group": "g7",
+      "title": "[UNFILTERED CAM] ITZY RYUJIN(류진) 'TUNNEL VISION' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/itzy-tunnel-vision"
+    },
+    {
+      "ytId": "Y18vnPMXp1I",
+      "group": "g7",
+      "title": "[UNFILTERED CAM] ITZY YUNA(유나) 'TUNNEL VISION' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/itzy-tunnel-vision"
+    },
+    {
+      "ytId": "nWqccf5qMKc",
+      "group": "g7",
+      "title": "[UNFILTERED CAM] ITZY YEJI(예지) 'TUNNEL VISION' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/itzy-tunnel-vision"
+    },
+    {
+      "ytId": "xqtqsBZhlqs",
+      "group": "g7",
+      "title": "[UNFILTERED CAM] ITZY CHAERYEONG(채령) 'TUNNEL VISION' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/itzy-tunnel-vision"
+    },
+    {
+      "ytId": "VqB5QT2JQz4",
+      "group": "g7",
+      "title": "[UNFILTERED CAM] ITZY LIA(리아) 'TUNNEL VISION' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/itzy-tunnel-vision"
+    },
+    {
+      "ytId": "bGDcd8Rxenk",
+      "group": "g10",
+      "title": "[UNFILTERED CAM] KISS OF LIFE NATTY(나띠) 'Sticky' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-sticky"
+    },
+    {
+      "ytId": "qESTKVuOobU",
+      "group": "g10",
+      "title": "[UNFILTERED CAM] KISS OF LIFE JULIE(쥴리) 'Sticky' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-sticky"
+    },
+    {
+      "ytId": "cO1BXjKObmI",
+      "group": "g10",
+      "title": "[UNFILTERED CAM] KISS OF LIFE HANEUL(하늘) 'Sticky' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-sticky"
+    },
+    {
+      "ytId": "ZOW61H9Nots",
+      "group": "g10",
+      "title": "[UNFILTERED CAM] KISS OF LIFE BELLE(벨) 'Sticky' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-sticky"
+    },
+    {
+      "ytId": "OPK8NsJfRoE",
+      "group": "g10",
+      "title": "[K-Fancam] 키스오브라이프 나띠 직캠 'INTRO + Sticky' (KISS OF LIFE NATTY Fancam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-sticky",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "ZtzZG3Z3tLU",
+      "group": "g10",
+      "title": "[K-Fancam] 키스오브라이프 쥴리 직캠 'INTRO + Sticky' (KISS OF LIFE JULIE Fancam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-sticky",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "0_FyJTjEmsM",
+      "group": "g10",
+      "title": "[K-Fancam] 키스오브라이프 하늘 직캠 'INTRO + Sticky' (KISS OF LIFE HANEUL Fancam)@가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-sticky",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "AaDrVy_-GO0",
+      "group": "g10",
+      "title": "[K-Fancam] 키스오브라이프 벨 직캠 'INTRO + Sticky' (KISS OF LIFE BELLE Fancam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-sticky",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "X2XT2Vs1EGQ",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE NATTY(키스오브라이프 나띠) - Lips Hips Kiss | Show Champion | EP.559",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-lips-hips-kiss"
+    },
+    {
+      "ytId": "Y8vumuwvlnw",
+      "group": "g10",
+      "title": "[쇼챔1분직캠] KISS OF LIFE NATTY(키스오브라이프 나띠)의 ＜Lips Hips Kiss＞♬ #KISS_OF_LIFE #나띠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-lips-hips-kiss"
+    },
+    {
+      "ytId": "kX3aXeohbNc",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE JULIE(키스오브라이프 쥴리) - Lips Hips Kiss | Show Champion | EP.559",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-lips-hips-kiss"
+    },
+    {
+      "ytId": "_r7Ts6gAKiM",
+      "group": "g10",
+      "title": "[쇼챔1분직캠] KISS OF LIFE NATTY(키스오브라이프 나띠)의 ＜Lips Hips Kiss＞♬ #KISS_OF_LIFE #나띠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-lips-hips-kiss"
+    },
+    {
+      "ytId": "EOl2_EG15MU",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE JULIE(키스오브라이프 쥴리) - Lips Hips Kiss | Show Champion | EP.560",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-lips-hips-kiss"
+    },
+    {
+      "ytId": "IZqScmzGDSA",
+      "group": "g10",
+      "title": "[쇼챔1분직캠] KISS OF LIFE JULIE(키스오브라이프 쥴리)의 ＜Lips Hips Kiss＞♬ #KISS_OF_LIFE #쥴리",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-lips-hips-kiss"
+    },
+    {
+      "ytId": "XvNjmipKX3Y",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE HANEUL(키스오브라이프 하늘) - Lips Hips Kiss | Show Champion | EP.560",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-lips-hips-kiss"
+    },
+    {
+      "ytId": "L7jCI78Q1HA",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE NATTY(키스오브라이프 나띠) - Lips Hips Kiss | Show Champion | EP.560",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-lips-hips-kiss"
+    },
+    {
+      "ytId": "BMfBPd1OJWQ",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE HANEUL(키스오브라이프 하늘) - Lips Hips Kiss | Show Champion | EP.559",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-lips-hips-kiss"
+    },
+    {
+      "ytId": "VvO2GJ-QsCo",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE BELLE(키스오브라이프 벨) - Lips Hips Kiss | Show Champion | EP.560",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-lips-hips-kiss"
+    },
+    {
+      "ytId": "cxws47dGJWo",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE BELLE(키스오브라이프 벨) - Lips Hips Kiss | Show Champion | EP.559",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-lips-hips-kiss"
+    },
+    {
+      "ytId": "sN_J7WIpyG0",
+      "group": "g10",
+      "title": "[K-Fancam] 키스오브라이프 나띠 직캠 'INTRO + Get Loud' (KISS OF LIFE NATTY Fancam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-get-loud",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "jduyQBLfpR8",
+      "group": "g10",
+      "title": "[얼빡직캠 4K] 키스오브라이프 나띠 'INTRO + Get Loud' (KISS OF LIFE NATTY Facecam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-get-loud",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "2l6SVFRHBjw",
+      "group": "g10",
+      "title": "[K-Fancam] 키스오브라이프 쥴리 직캠 'INTRO + Get Loud' (KISS OF LIFE JULIE Fancam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-get-loud",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "1hLLxrvaQ18",
+      "group": "g10",
+      "title": "[얼빡직캠 4K] 키스오브라이프 쥴리 'INTRO + Get Loud' (KISS OF LIFE JULIE Facecam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-get-loud",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "BX5QQxuRvt0",
+      "group": "g10",
+      "title": "[얼빡직캠 4K] 키스오브라이프 하늘 'INTRO + Get Loud' (KISS OF LIFE HANEUL Facecam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-get-loud",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "3ndpfxnCFYg",
+      "group": "g10",
+      "title": "[K-Fancam] 키스오브라이프 하늘 직캠 'INTRO + Get Loud' (KISS OF LIFE HANEUL Fancam)@가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-get-loud",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "f8xTmzAY5-M",
+      "group": "g10",
+      "title": "[얼빡직캠 4K] 키스오브라이프 벨 'INTRO + Get Loud' (KISS OF LIFE BELLE Facecam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-get-loud",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "JJejr8EM-ds",
+      "group": "g10",
+      "title": "[K-Fancam] 키스오브라이프 벨 직캠 'INTRO + Get Loud' (KISS OF LIFE BELLE Fancam) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/song/kiss-of-life-get-loud",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "EE3nNIghevg",
+      "group": "g1",
+      "title": "[#직캠보고서🔍] #IVE #아이브 🚨긴급 속보🚨 음중의 평화를 지키기 위해, 히어로 아이브 출동! 👊 음중 사전녹화 비하인드⏯️",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "SxrH3MtobXo",
+      "group": "g1",
+      "title": "50초 요약으로 보는 아이브 'Looks Can Kill' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "pVkEcdqivtg",
+      "group": "g1",
+      "title": "[안방1열 풀캠4K] 아이브 'INTRO + BANG BANG' (IVE FullCam) @2026 INKIGAYO LIVE in TOKYO",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "EWZ3wQODycc",
+      "group": "g1",
+      "title": "[선공개 #매점1열직캠] 아이브 'BANG BANG' (IVE FanCam) #인기가요끝나면매점가요2",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "gUcGQobJg2I",
+      "group": "g1",
+      "title": "[#직캠보고서🔍] #IVE #아이브 원하면 뭐든 이뤄지나요? 그럼 아이브♥️다이브 우리 사랑 영원하기🙏 음중 사전녹화 비하인드⏯️(ENG/JPN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "eoPkud9ewO4",
+      "group": "g1",
+      "title": "[#직캠보고서🔍] #IVE #아이브 뱅칠 시간이다. 다 같이 뱅치자💥 음중 사전녹화 비하인드⏯️(ENG/JPN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "Sgxd2v22sVI",
+      "group": "g1",
+      "title": "45초 요약으로 보는 아이브 'BLACKHOLE' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "8C3Phy6xaz4",
+      "group": "g1",
+      "title": "50초 요약으로 보는 아이브 'BANG BANG' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "CsMBHFWYPL4",
+      "group": "g1",
+      "title": "[현장직캠 4K] 아이브(IVE LIVECAM) 'XOXZ' @뮤직뱅크글로벌페스티벌 251230",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-12-30"
+    },
+    {
+      "ytId": "nulgkvS7wmI",
+      "group": "g1",
+      "title": "[K-Choreo 4K] 아이브 직캠 'XOXZ' (IVE Choreography ) @뮤직뱅크글로벌페스티벌 251230",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-12-30"
+    },
+    {
+      "ytId": "dyOhOTzVMgc",
+      "group": "g1",
+      "title": "[현장직캠 4K] 아이브(IVE LIVECAM) 'ATTITUDE' @뮤직뱅크글로벌페스티벌 251230",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-12-30"
+    },
+    {
+      "ytId": "VvC3ST5L7Z0",
+      "group": "g1",
+      "title": "[K-Choreo 4K] 아이브 직캠 'ATTITUDE' (IVE Choreography ) @뮤직뱅크글로벌페스티벌 251230",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-12-30"
+    },
+    {
+      "ytId": "QkwsQqY7KEE",
+      "group": "g1",
+      "title": "[현장직캠] 아이브(IVE LIVECAM) 'Dear, My Feelings' Bonus Ver. @뮤직뱅크글로벌페스티벌 251230",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-12-30"
+    },
+    {
+      "ytId": "NIUM6zBX8lU",
+      "group": "g1",
+      "title": "[K-Choreo 4K] 아이브 직캠 'Dear, My Feelings' (IVE Choreography) @뮤직뱅크글로벌페스티벌 251230",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-12-30"
+    },
+    {
+      "ytId": "waUEBTYDlKI",
+      "group": "g1",
+      "title": "[K-Choreo 4K] 아이브 직캠 'REBEL HEART' (IVE Choreography ) @뮤직뱅크글로벌페스티벌 251230",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-12-30"
+    },
+    {
+      "ytId": "dMCtO9Ct5fo",
+      "group": "g1",
+      "title": "[앵콜캠4K] 아이브 'XOXZ' 인기가요 1위 앵콜 직캠 (IVE Encore Fancam) @SBS Inkigayo 251019",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-10-19"
+    },
+    {
+      "ytId": "QWedY1cQrdA",
+      "group": "g1",
+      "title": "[#직캠보고서🔍] #IVE #아이브 XOXZ로 무대 찢었Z💥 미모는 미쳤Z🌸 음중 사전녹화 비하인드⏯️(ENG / JPN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "vRwf5d2lrjo",
+      "group": "g1",
+      "title": "[K-Choreo Tower Cam 4K] 아이브 직캠 'XOXZ' (IVE Choreography) l @MusicBank KBS 250905",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-09-05"
+    },
+    {
+      "ytId": "1IyPs5rrm00",
+      "group": "g1",
+      "title": "[앵콜캠4K] 아이브 'XOXZ' 인기가요 1위 앵콜 직캠 (IVE Encore Fancam) @SBS Inkigayo 250907",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-09-07"
+    },
+    {
+      "ytId": "qz1_eZuB3xA",
+      "group": "g1",
+      "title": "[#음중직캠] IVE (아이브) – XOXZ 1위 직캠 | 쇼! 음악중심 | MBC250906",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-09-06"
+    },
+    {
+      "ytId": "1Fa5-lidaa8",
+      "group": "g1",
+      "title": "[4K] 아이브 'XOXZ' 뮤직뱅크 1위 앵콜직캠(IVE Encore Facecam) @뮤직뱅크(Music Bank) 250905",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-09-05"
+    },
+    {
+      "ytId": "Jlr2eq3CooI",
+      "group": "g1",
+      "title": "[MPD직캠] 아이브 직캠 4K 'XOXZ' (IVE FanCam) | @MCOUNTDOWN_2025.9.4",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-09-04"
+    },
+    {
+      "ytId": "jIv-ebTYGrU",
+      "group": "g1",
+      "title": "[K-Choreo 8K HDR] 아이브 직캠 'XOXZ' (IVE Choreography) 🎧공간음향.Ver @MusicBank 250829",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-08-29"
+    },
+    {
+      "ytId": "e_S3d3Tfbdo",
+      "group": "g1",
+      "title": "50초 요약으로 보는 아이브 'XOXZ' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "pkcX4LoRre8",
+      "group": "g1",
+      "title": "[MPD직캠] 아이브 직캠 8K 'XOXZ' (IVE FanCam) | @MCOUNTDOWN_2025.8.28",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-08-28"
+    },
+    {
+      "ytId": "ZANNhhL8n5c",
+      "group": "g1",
+      "title": "[앵콜캠4K] 아이브 'ATTITUDE' 인기가요 1위 앵콜 직캠 (IVE ATTITUDE Encore Fancam) @SBS Inkigayo 250223",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-02-23"
+    },
+    {
+      "ytId": "trcGl-FJPZA",
+      "group": "g1",
+      "title": "[#음중직캠] IVE (아이브) – REBEL HEART 1위 직캠 | 쇼! 음악중심 | MBC250222",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-02-22"
+    },
+    {
+      "ytId": "_QKAenAYorE",
+      "group": "g1",
+      "title": "[K-Choreo Tower Cam 4K] 아이브 직캠 'ATTITUDE' (IVE Choreography) l @MusicBank KBS 240214",
+      "reason": "정규 방송 요일과 제목 날짜가 다름",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2024-02-14"
+    },
+    {
+      "ytId": "Q8vhiklBCho",
+      "group": "g1",
+      "title": "[앵콜캠4K] 아이브 'ATTITUDE' 인기가요 1위 앵콜 직캠 (IVE ATTITUDE Encore Fancam) @SBS Inkigayo 250216",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-02-16"
+    },
+    {
+      "ytId": "gqQb0WWa5UU",
+      "group": "g1",
+      "title": "[#직캠보고서🔍] #아이브 #IVE 폭주기니와 원영턴으로 퀸👑의 애티튜드 낉이는 법🏍️🎀 음중 사전녹화 비하인드⏯",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "IAAXEXoICTE",
+      "group": "g1",
+      "title": "[#직캠보고서🔍] #아이브 #IVE 짱이브가 영원히 다이브 맘을 쏘아올려💘 음중 사전녹화 비하인드⏯️",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "7DYdkDBEVHE",
+      "group": "g1",
+      "title": "[4K] 아이브 'REBEL HEART' 뮤직뱅크 1위 앵콜직캠(IVE Encore Facecam) @뮤직뱅크(Music Bank) 250214",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-02-14"
+    },
+    {
+      "ytId": "Vbj9BxIiVjQ",
+      "group": "g1",
+      "title": "[MPD직캠] 아이브 1위 앵콜 직캠 4K 'ATTITUDE' (IVE FanCam No.1 Encore) | @MCOUNTDOWN_2025.2.13",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-02-13"
+    },
+    {
+      "ytId": "eXdHolI8YP4",
+      "group": "g1",
+      "title": "[MPD직캠] 아이브 직캠 4K 'ATTITUDE' (IVE FanCam) | @MCOUNTDOWN_2025.2.13",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-02-13"
+    },
+    {
+      "ytId": "pz6fV77QPsg",
+      "group": "g1",
+      "title": "[앵콜캠4K] 아이브 'REBEL HEART' 인기가요 1위 앵콜 직캠 (IVE REBEL HEART Encore Fancam) @SBS Inkigayo 250209",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-02-09"
+    },
+    {
+      "ytId": "09KybqBmpF4",
+      "group": "g1",
+      "title": "[#음중직캠] IVE (아이브) – REBEL HEART 1위 직캠 | 쇼! 음악중심 | MBC250208",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-02-08"
+    },
+    {
+      "ytId": "ShWikZ_Kbnk",
+      "group": "g1",
+      "title": "[K-Choreo 8K HDR] 아이브 직캠 'ATTITUDE' (IVE Choreography) @MusicBank 250207",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-02-07"
+    },
+    {
+      "ytId": "v5vKeY1TTwI",
+      "group": "g1",
+      "title": "[MPD직캠] 아이브 1위 앵콜 직캠 4K 'REBEL HEART' (IVE FanCam No.1 Encore) | @MCOUNTDOWN_2025.2.6",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-02-06"
+    },
+    {
+      "ytId": "Ip_7E3Y0p6Y",
+      "group": "g1",
+      "title": "1분 요약으로 보는 아이브 'ATTITUDE' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "fZxN_SuCsCE",
+      "group": "g1",
+      "title": "[MPD직캠] 아이브 직캠 8K 'ATTITUDE' (IVE FanCam) | @MCOUNTDOWN_2025.2.6",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-02-06"
+    },
+    {
+      "ytId": "Sh1Pr_stKHs",
+      "group": "g1",
+      "title": "[앵콜캠4K] 아이브 'REBEL HEART' 인기가요 1위 앵콜 직캠 (IVE REBEL HEART Encore Fancam) @SBS Inkigayo 250202",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-02-02"
+    },
+    {
+      "ytId": "66jgnPKjS2Y",
+      "group": "g1",
+      "title": "[가요대제전] 아이브 – Accendio + 해야(HEYA) (IVE Fullcam) | Gayo Daejejeon 2024 | MBC250130",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-01-30"
+    },
+    {
+      "ytId": "UoretkhyIA0",
+      "group": "g1",
+      "title": "[가요대제전] 아이브 – ELEVEN (IVE Fullcam) | Gayo Daejejeon 2024 | MBC250129",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-01-29"
+    },
+    {
+      "ytId": "X8dxyn4TmP4",
+      "group": "g1",
+      "title": "[K-Choreo Tower Cam 4K] 아이브 직캠 'REBEL HEART '(IVE Choreography) l @MusicBank KBS 250124",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-01-24"
+    },
+    {
+      "ytId": "FbvOiPh0Cvo",
+      "group": "g1",
+      "title": "[앵콜캠4K] 아이브 'REBEL HEART' 인기가요 1위 앵콜 직캠 (REBEL HEART Encore Fancam)│@SBS Inkigayo 250126",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-01-26"
+    },
+    {
+      "ytId": "dLwIwoZqEYo",
+      "group": "g1",
+      "title": "[#음중직캠] IVE (아이브) – REBEL HEART 1위 직캠 | 쇼! 음악중심 | MBC250125",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-01-25"
+    },
+    {
+      "ytId": "YIgBlnprwCk",
+      "group": "g1",
+      "title": "[4K] 아이브 'REBEL HEART' 뮤직뱅크 1위 앵콜직캠(IVE Encore Facecam) @뮤직뱅크(Music Bank) 250124",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-01-24"
+    },
+    {
+      "ytId": "qwDnW4sGoho",
+      "group": "g1",
+      "title": "[MPD직캠] 아이브 1위 앵콜 직캠 4K 'REBEL HEART' (IVE FanCam No.1 Encore) | @MCOUNTDOWN_2025.1.23",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-01-23"
+    },
+    {
+      "ytId": "R803nmsDaK4",
+      "group": "g1",
+      "title": "[MPD직캠] 아이브 직캠 4K 'REBEL HEART' (IVE FanCam) | @MCOUNTDOWN_2025.1.23",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-01-23"
+    },
+    {
+      "ytId": "Yy5W59zJn_A",
+      "group": "g1",
+      "title": "[K-Choreo 8K HDR] 아이브 직캠 'REBEL HEART' (IVE Choreography) 🎧공간음향.Ver @MusicBank 250117",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-01-17"
+    },
+    {
+      "ytId": "mQBZXRSTPIU",
+      "group": "g1",
+      "title": "40초 요약으로 보는 아이브 'REBEL HEART' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "mDKguve0q0E",
+      "group": "g1",
+      "title": "[MPD직캠] 아이브 직캠 8K 'REBEL HEART' (IVE FanCam) | @MCOUNTDOWN_2025.1.16",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2025-01-16"
+    },
+    {
+      "ytId": "-aUFuDs4oww",
+      "group": "g1",
+      "title": "[K-Choreo 8K] 아이브 직캠 'INTRO + 해야 (HEYA)' (IVE Choreography) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "uFWzs4dE4OQ",
+      "group": "g1",
+      "title": "[K-Choreo 8K] 아이브 직캠 'INTRO + Blue Heart' (IVE Choreography) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "4ZHv5LzzAKk",
+      "group": "g1",
+      "title": "[2024 가요대전 썸머 4K] 아이브 'Intro + 해야 (HEYA) + Accendio' (IVE FullCam)│@SBS GayoDaejeon 240726",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2024-07-26"
+    },
+    {
+      "ytId": "V5b4KGSm004",
+      "group": "g1",
+      "title": "[K-Choreo 8K] 아이브 직캠 'Accendio' (IVE Choreography) @MusicBank 240517",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2024-05-17"
+    },
+    {
+      "ytId": "H2-QxJUusSY",
+      "group": "g1",
+      "title": "1분 요약으로 보는 아이브 더블타이틀 'Accendio' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "FFVG-Sn2LRw",
+      "group": "g1",
+      "title": "[MPD직캠] 아이브 직캠 8K 'Accendio' (IVE FanCam) | @MCOUNTDOWN_2024.5.16",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2024-05-16"
+    },
+    {
+      "ytId": "39x5sV9v6yU",
+      "group": "g1",
+      "title": "[K-Choreo 8K] 아이브 직캠 '해야 (HEYA)' (IVE Choreography) @MusicBank 240510",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2024-05-10"
+    },
+    {
+      "ytId": "d0WwzlqglKo",
+      "group": "g1",
+      "title": "[#직캠보고서🔍] IVE💓사녹현장을 볼 수 있다니 완전 럭키음중이잖앙🍀락스타를 사랑하세요...🎸엑디즈 붐은 온다🤟 #IVE #XdinaryHeroes 사전녹화 비하인드⏯",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "91ljo6rtD1k",
+      "group": "g1",
+      "title": "[K-Choreo 8K] 아이브 직캠 '해야 (HEYA)' (IVE Choreography) @MusicBank 240503",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2024-05-03"
+    },
+    {
+      "ytId": "sUhMhqbx1s4",
+      "group": "g1",
+      "title": "화제가 된 원영이 입덕직캠 썸네일 탄생 과정 #IVE | 입덕직캠 Behind",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "jpdqMHRnKGA",
+      "group": "g1",
+      "title": "첫방부터 라이브하는 아이브 '해야' #MPD직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "HUOASu_-PPQ",
+      "group": "g1",
+      "title": "[MPD직캠] 아이브 직캠 8K '해야 (HEYA)' (IVE FanCam) | @MCOUNTDOWN_2024.5.2",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/ive",
+      "titleDate": "2024-05-02"
+    },
+    {
+      "ytId": "EwLJUl-HRqc",
+      "group": "g1",
+      "title": "[909 직캠 4K] IVE 풀캠 'ELEVEN + LOVE DIVE (Golden Disc ver.)' (IVE FullCam) 골든디스크어워즈 스페셜 무대 | @K-909",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/ive"
+    },
+    {
+      "ytId": "1kmSj5ehVTE",
+      "group": "g2",
+      "title": "[주간아 직캠] NMIXX LILY - O.O (엔믹스 릴리 - 오오) l EP.550",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "HWVoJqtPhWg",
+      "group": "g2",
+      "title": "[주간아 직캠] NMIXX SULLYOON - O.O (엔믹스 설윤 - 오오) l EP.550",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "ZFoZEq5LzY4",
+      "group": "g2",
+      "title": "[선공개 #매점1열직캠] 엔믹스 'Heavy Serenade' (NMIXX FanCam) #인기가요끝나면매점가요2",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "johQ9iDQPf8",
+      "group": "g2",
+      "title": "[#직캠보고서🔍] #NMIXX #엔믹스 엔믹스랑 캠핑 오면 이런 기분일까❓따뜻+아늑 감성 한가득🏕️ 음중 사전녹화 비하인드⏯️(ENG/JPN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "J-bXYJ0Iu-o",
+      "group": "g2",
+      "title": "45초 요약으로 보는 엔믹스 'Heavy Serenade' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "foD0TnSNHwc",
+      "group": "g2",
+      "title": "[현장직캠 4K] 엔믹스(NMIXX LIVECAM) 'KNOW ABOUT ME' @뮤직뱅크글로벌페스티벌 251230",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-12-30"
+    },
+    {
+      "ytId": "YAfz4mrVd8E",
+      "group": "g2",
+      "title": "[K-Choreo 4K] 엔믹스 직캠 'KNOW ABOUT ME' (NMIXX Choreography) @뮤직뱅크글로벌페스티벌 251230",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-12-30"
+    },
+    {
+      "ytId": "x8WZ_Cy7RPk",
+      "group": "g2",
+      "title": "[현장직캠 4K] 엔믹스(NMIXX LIVECAM) 'INTRO + SPINNIN' ON IT+ Blue Valentine' @뮤직뱅크글로벌페스티벌 251230",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-12-30"
+    },
+    {
+      "ytId": "41JqewnODu4",
+      "group": "g2",
+      "title": "[K-Choreo Tower Cam 4K] 엔믹스 직캠 'Blue Valentine' (NMIXX Choreography) l @MusicBank KBS 251024",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-10-24"
+    },
+    {
+      "ytId": "YdhomuraZpQ",
+      "group": "g2",
+      "title": "[앵콜캠4K] 엔믹스 'Blue Valentine' 인기가요 1위 앵콜 직캠 (NMIXX Encore Fancam) @SBS Inkigayo 251026",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-10-26"
+    },
+    {
+      "ytId": "1L0Xr21vMyc",
+      "group": "g2",
+      "title": "[#음중직캠] NMIXX (엔믹스) – Blue Valentine 1위 직캠 | 쇼! 음악중심 | MBC251025",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-10-25"
+    },
+    {
+      "ytId": "2BjaoJXa4W4",
+      "group": "g2",
+      "title": "[4K] 엔믹스 'Blue Valentine' 뮤직뱅크 1위 앵콜직캠(NMIXX Encore Facecam) @뮤직뱅크(Music Bank) 251024",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-10-24"
+    },
+    {
+      "ytId": "rKg9I4mVLVc",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 1위 앵콜 직캠 4K 'Blue Valentine' (NMIXX FanCam No.1 Encore) | @MCOUNTDOWN_2025.10.23",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-10-23"
+    },
+    {
+      "ytId": "eUjKXTedtko",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 직캠 4K 'Blue Valentine' (NMIXX FanCam) | @MCOUNTDOWN_2025.10.23",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-10-23"
+    },
+    {
+      "ytId": "-zVn540ZUz4",
+      "group": "g2",
+      "title": "[쇼챔직캠 4K] NMIXX(엔믹스) - Blue Valentine | Show Champion | EP.574",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "uLM95L2vJkY",
+      "group": "g2",
+      "title": "[#직캠보고서🔍] #엔믹스 #NMIXX 차트 1위가수 음방 현장 보러 반신욕 하다가 뛰쳐나옴🛀 음중 사전녹화 비하인드⏯️(ENG/JPN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "aZhXPctPxdI",
+      "group": "g2",
+      "title": "[K-Choreo Tower Cam 4K] 엔믹스 직캠 'SPINNIN’ON IT' (NMIXX Choreography) l @MusicBank KBS 251017",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-10-17"
+    },
+    {
+      "ytId": "fPWoqFuf6OI",
+      "group": "g2",
+      "title": "[K-Choreo 8K HDR] 엔믹스 직캠 'Blue Valentine' (NMIXX Choreography) @MusicBank 251017",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-10-17"
+    },
+    {
+      "ytId": "-1yFMiO3a7M",
+      "group": "g2",
+      "title": "1분 요약으로 보는 엔믹스 'Blue Valentine' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "BmMPFKNgxBc",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 직캠 8K 'Blue Valentine' (NMIXX FanCam) | @MCOUNTDOWN_2025.10.16",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-10-16"
+    },
+    {
+      "ytId": "NlZQl1JKrBA",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 직캠 8K 'SPINNIN' ON IT' (NMIXX FanCam) | @MCOUNTDOWN_2025.10.16",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-10-16"
+    },
+    {
+      "ytId": "GnFUgHsxvbo",
+      "group": "g2",
+      "title": "[선공개 #매점1열직캠] 엔믹스 '첫 만남은 계획대로 되지 않아' (NMIXX 'plot twist' FanCam)｜#인기가요끝나면매점가요",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "XBXzJMSiWmY",
+      "group": "g2",
+      "title": "[#직캠보고서🔍] #엔믹스 #NMIXX 더 알고(know)싶은 그녀들에게로 말(horse)벌 아저씨처럼 달려가🏃🏃 음중 사전녹화 비하인드⏯️",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "-JRFEmJUScI",
+      "group": "g2",
+      "title": "[K-Choreo Tower Cam 4K] 엔믹스 직캠 'High Horse' (NMIXX Choreography) l @MusicBank KBS 250404",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-04-04"
+    },
+    {
+      "ytId": "NnIAZy_QaWY",
+      "group": "g2",
+      "title": "[4K] 엔믹스 'KNOW ABOUT ME' 뮤직뱅크 1위 앵콜직캠(NMIXX Encore Facecam) @뮤직뱅크(Music Bank) 250404",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-04-04"
+    },
+    {
+      "ytId": "-fNdTe_kqDY",
+      "group": "g2",
+      "title": "[K-Choreo 8K] 엔믹스 직캠 'KNOW ABOUT ME' (NMIXX Choreography) @MusicBank 250404",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-04-04"
+    },
+    {
+      "ytId": "5E289eNfN-k",
+      "group": "g2",
+      "title": "[쇼챔직캠 4K] NMIXX(엔믹스) - KNOW ABOUT ME | Show Champion | EP.549 | 250402",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-04-02"
+    },
+    {
+      "ytId": "QRa1-qZg8Z4",
+      "group": "g2",
+      "title": "[앵콜캠4K] 엔믹스 'KNOW ABOUT ME' 인기가요 1위 앵콜 직캠 (NMIXX KNOW ABOUT ME Encore Fancam) @SBS Inkigayo 250330",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-03-30"
+    },
+    {
+      "ytId": "6_GblahU-JA",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 직캠 4K 'KNOW ABOUT ME' (NMIXX FanCam) | @MCOUNTDOWN_2025.3.27",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-03-27"
+    },
+    {
+      "ytId": "UmeDwVfOEuE",
+      "group": "g2",
+      "title": "[쇼챔직캠 4K] NMIXX(엔믹스) - KNOW ABOUT ME | Show Champion | EP.548 | 250326",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-03-26"
+    },
+    {
+      "ytId": "5TUNknQJD7A",
+      "group": "g2",
+      "title": "[K-Choreo Tower Cam 4K] 엔믹스 직캠 'High Horse' (NMIXX Choreography) l @MusicBank KBS 250321",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-03-21"
+    },
+    {
+      "ytId": "da-KLSF3N88",
+      "group": "g2",
+      "title": "[K-Choreo 8K] 엔믹스 직캠 'KNOW ABOUT ME' (NMIXX Choreography) @MusicBank 250321",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-03-21"
+    },
+    {
+      "ytId": "0cMTSwf7jRg",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 직캠 4K 'High Horse' (NMIXX FanCam) | @MCOUNTDOWN_2025.3.20",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-03-20"
+    },
+    {
+      "ytId": "z-kcFbNUcu0",
+      "group": "g2",
+      "title": "1분 요약으로 보는 엔믹스 'KNOW ABOUT ME' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "3XapxftbFyY",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 직캠 8K 'KNOW ABOUT ME' (NMIXX FanCam) | @MCOUNTDOWN_2025.3.20",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2025-03-20"
+    },
+    {
+      "ytId": "PbmjXtx26h0",
+      "group": "g2",
+      "title": "[가요대제전] 엔믹스 – 별별별 (See that?) (NMIXX Fullcam) | Gayo Daejejeon 2024 | MBC241231",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-12-31"
+    },
+    {
+      "ytId": "iTY-IHuNILs",
+      "group": "g2",
+      "title": "[2024가요대전4K]엔믹스 'INTRO+DASH +별별별 (See that?) (Christmas Remix Ver.)' (NMIXX FullCam)│@SBSGayoDaejeon",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "RTQmyr8ddPE",
+      "group": "g2",
+      "title": "[K-Choreo 8K] 엔믹스 직캠 'BEAT BEAT' (NMIXX Choreography) @뮤직뱅크글로벌페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "Vup07ixoGqA",
+      "group": "g2",
+      "title": "[K-Choreo 8K] 엔믹스 직캠 'Intro + Run For Roses' (NMIXX Choreography) @뮤직뱅크글로벌페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "fzrxDdNCo-k",
+      "group": "g2",
+      "title": "[K-Choreo 8K] 엔믹스 직캠 'Sonar' (NMIXX Choreography) @뮤직뱅크글로벌페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "BeUOUMgXv4Y",
+      "group": "g2",
+      "title": "[K-Choreo 8K] 엔믹스 직캠 '별별별 (See that?)' (NMIXX Choreography) @뮤직뱅크글로벌페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "ISsqRmIe7JI",
+      "group": "g2",
+      "title": "[K-Choreo 8K] 엔믹스 직캠 'Electric Shock (원곡: f(x))' (NMIXX Choreography) @뮤직뱅크글로벌페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "z48br-AEEto",
+      "group": "g2",
+      "title": "[K-Choreo Tower Cam 4K] 엔믹스 직캠 '별별별(See that?)' (NMIXX Choreography) l @MusicBank KBS 240913",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-09-13"
+    },
+    {
+      "ytId": "vozvF3bz-VU",
+      "group": "g2",
+      "title": "[#음중직캠] NMIXX (엔믹스) – 별별별 (See that?) | 쇼! 음악중심 | MBC240914방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-09-14"
+    },
+    {
+      "ytId": "H5nrkEk6h0M",
+      "group": "g2",
+      "title": "[쇼챔직캠 4K] NMIXX(엔믹스) - 별별별 (See that?) | Show Champion | EP.532 | 240911",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-09-11"
+    },
+    {
+      "ytId": "-4Mnhe9ProE",
+      "group": "g2",
+      "title": "[K-Choreo Tower Cam 4K] 엔믹스 직캠 '별별별(See that?)' (NMIXX Choreography) l @MusicBank KBS 240906",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-09-06"
+    },
+    {
+      "ytId": "KmksIGmFNMs",
+      "group": "g2",
+      "title": "[#음중직캠] NMIXX (엔믹스) – 별별별 (See that?) | 쇼! 음악중심 | MBC240907방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-09-07"
+    },
+    {
+      "ytId": "zePTMlSLBH8",
+      "group": "g2",
+      "title": "[JPN SUB] [#직캠보고서🔍] ⭐⭐ [제보] 조용할 틈이 없었던 NMIXX 사녹현장 증거 영상과 함께 제보합니다 ⭐⭐ #NMIXX #엔믹스 사전녹화 비하인드⏯",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "iqpay2vwZP0",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 직캠 4K '별별별 (See that?)' (NMIXX FanCam) | @MCOUNTDOWN_2024.9.5",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-09-05"
+    },
+    {
+      "ytId": "eSEDyA_jIQg",
+      "group": "g2",
+      "title": "[K-Choreo Tower Cam 4K] 엔믹스 직캠 '별별별(See that?)' (NMIXX Choreography) l @MusicBank KBS 240830",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-08-30"
+    },
+    {
+      "ytId": "I5LSdAs6mno",
+      "group": "g2",
+      "title": "[앵콜캠4K] 엔믹스 '별별별' 인기가요 1위 앵콜 직캠 (NMIXX 'See that?' Encore Fancam) | @SBS Inkigayo 240901",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-09-01"
+    },
+    {
+      "ytId": "oTVJUCNVf9s",
+      "group": "g2",
+      "title": "[#음중직캠] NMIXX (엔믹스) – 별별별 (See that?) | 쇼! 음악중심 | MBC240831방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-08-31"
+    },
+    {
+      "ytId": "HP1ykXVro1A",
+      "group": "g2",
+      "title": "[4K] 엔믹스 '별별별 (See that?)' 뮤직뱅크 1위 앵콜직캠(NMIXX Encore Facecam) @뮤직뱅크(Music Bank) 240830",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-08-30"
+    },
+    {
+      "ytId": "NCQ89aLx54Y",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 1위 앵콜 직캠 4K '별별별 (See that?)' (NMIXX FanCam No.1 Encore) | @MCOUNTDOWN_2024.8.29",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-08-29"
+    },
+    {
+      "ytId": "3erbRw5LEjA",
+      "group": "g2",
+      "title": "[K-Choreo Tower Cam 4K] 엔믹스 직캠 'Love Is Lonely' (NMIXX Choreography) l @MusicBank KBS 240823",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-08-23"
+    },
+    {
+      "ytId": "eOD34ZMITzE",
+      "group": "g2",
+      "title": "[#음중직캠] NMIXX (엔믹스) – Love Is Lonely | 쇼! 음악중심 | MBC240824방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-08-24"
+    },
+    {
+      "ytId": "eVF5bustr5k",
+      "group": "g2",
+      "title": "[#음중직캠] NMIXX (엔믹스) – 별별별 (See that?) | 쇼! 음악중심 | MBC240824방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-08-24"
+    },
+    {
+      "ytId": "kPEDCvkm1U4",
+      "group": "g2",
+      "title": "[K-Choreo 8K] 엔믹스 직캠 '별별별 (See that?)' (NMIXX Choreography) @MusicBank 240823",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-08-23"
+    },
+    {
+      "ytId": "dC2Nq-XEPio",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 직캠 4K 'Love Is Lonely' (NMIXX FanCam) | @MCOUNTDOWN_2024.8.22",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-08-22"
+    },
+    {
+      "ytId": "JPjRkc3hZD8",
+      "group": "g2",
+      "title": "1분 요약으로 보는 엔믹스 '별별별' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "ewisrth943Q",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 직캠 8K '별별별 (See that?)' (NMIXX FanCam) | @MCOUNTDOWN_2024.8.22",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-08-22"
+    },
+    {
+      "ytId": "b3xsWVgI-14",
+      "group": "g2",
+      "title": "[2024 가요대전 썸머 4K] 엔믹스 'Soñar (Breaker)‘(NMIXX FullCam)│@SBS GayoDaejeon 240726",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-07-26"
+    },
+    {
+      "ytId": "eF5zioXywe0",
+      "group": "g2",
+      "title": "[#예능연구소8K] NMIXX – Run For Roses (엔믹스 – 런 포 로지스) FanCam | Show! MusicCore | MBC240217방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-02-17"
+    },
+    {
+      "ytId": "VwxEdQ91GF8",
+      "group": "g2",
+      "title": "[K-Choreo 8K] 엔믹스 직캠 'Run For Roses' (NMIXX Choreography) @MusicBank 240216",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-02-16"
+    },
+    {
+      "ytId": "wPhg6VXNXYw",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 직캠 4K 'DASH' (NMIXX FanCam) | @MCOUNTDOWN_2024.2.8",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-02-08"
+    },
+    {
+      "ytId": "5wFISwBlblM",
+      "group": "g2",
+      "title": "[예능연구소] NMIXX - DASH(엔믹스 – 대시) FanCam | Show! MusicCore | MBC240203방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-02-03"
+    },
+    {
+      "ytId": "KaNb3EtrLhU",
+      "group": "g2",
+      "title": "사녹에서 갑자기 오페라 부르는 해원이 #엔믹스 | MPD직캠 Behind",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "xzbyJlbfslY",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 직캠 8K 'DASH' (NMIXX FanCam) | @MCOUNTDOWN_2024.2.1",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-02-01"
+    },
+    {
+      "ytId": "AdUBEiI2PA8",
+      "group": "g2",
+      "title": "[쇼챔직캠 4K] NMIXX - DASH (엔믹스 - 대시) l Show Champion l EP.503 l 240130",
+      "reason": "정규 방송 요일과 제목 날짜가 다름",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-01-30"
+    },
+    {
+      "ytId": "x_ObXank5kA",
+      "group": "g2",
+      "title": "[앵콜캠4K] 엔믹스 'DASH' 인기가요 1위 앵콜 직캠 (NMIXX Encore Fancam) | @SBS Inkigayo 240128",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-01-28"
+    },
+    {
+      "ytId": "A6Saxxke1Ls",
+      "group": "g2",
+      "title": "[예능연구소] NMIXX - DASH(엔믹스 – 대시) FanCam | Show! MusicCore | MBC240127방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-01-27"
+    },
+    {
+      "ytId": "hoHy38Jjkvg",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 1위 앵콜 직캠 4K 'DASH' (NMIXX FanCam No.1 Encore) | @MCOUNTDOWN_2024.1.25",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-01-25"
+    },
+    {
+      "ytId": "iV85l-pY0o4",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 직캠 4K 'DASH' (NMIXX FanCam) | @MCOUNTDOWN_2024.1.25",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-01-25"
+    },
+    {
+      "ytId": "Z30TIimGQ4k",
+      "group": "g2",
+      "title": "[쇼챔직캠 4K] NMIXX - DASH (엔믹스 - 대시) l Show Champion l EP.502 l 240124",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-01-24"
+    },
+    {
+      "ytId": "dzG9ZAZO_4E",
+      "group": "g2",
+      "title": "[예능연구소] NMIXX -Soñar (Breaker) (엔믹스 - 쏘냐르 (브레이커)) FanCam | Show! MusicCore | MBC240120방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-01-20"
+    },
+    {
+      "ytId": "hvnZm4XIu4Q",
+      "group": "g2",
+      "title": "[#예능연구소8K] NMIXX – DASH (엔믹스 – 대시) FanCam | Show! MusicCore | MBC240120방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-01-20"
+    },
+    {
+      "ytId": "1rzMSiP_P3M",
+      "group": "g2",
+      "title": "[K-Choreo 8K] 엔믹스 직캠 'Soñar (Breaker)' (NMIXX Choreography) @MusicBank 240119",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-01-19"
+    },
+    {
+      "ytId": "OjYL5tAzSHc",
+      "group": "g2",
+      "title": "[K-Choreo 8K HDR] 엔믹스 직캠 'DASH' (NMIXX Choreography) @MusicBank 240119",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-01-19"
+    },
+    {
+      "ytId": "3356dm9osB8",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 직캠 4K 'Soñar (Breaker)' (NMIXX FanCam) | @MCOUNTDOWN_2024.1.18",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-01-18"
+    },
+    {
+      "ytId": "3dvwkeSkRBM",
+      "group": "g2",
+      "title": "[MPD직캠] 엔믹스 직캠 8K 'DASH' (NMIXX FanCam) | @MCOUNTDOWN_2024.1.18",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx",
+      "titleDate": "2024-01-18"
+    },
+    {
+      "ytId": "CsXdu9x9rhw",
+      "group": "g2",
+      "title": "엔믹스가 말아주는 크리스마스 캐롤❄️l MPD직캠 #NMIXX",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "rDC1DXYZRx8",
+      "group": "g2",
+      "title": "[쇼챔직캠 4K] NMIXX - Party O'Clock (엔믹스 - 파티어클락) l Show Champion l EP.485",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "_Mhg2k6Uuy8",
+      "group": "g2",
+      "title": "[쇼챔직캠 4K] NMIXX - Roller Coaster (엔믹스 - 롤러 코스터) l Show Champion l EP.484",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "SebM_sb_CP0",
+      "group": "g2",
+      "title": "[쇼챔직캠 4K] NMIXX - Party O'Clock (엔믹스 - 파티어클락) l Show Champion l EP.484",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/nmixx"
+    },
+    {
+      "ytId": "UGFLtREVbMk",
+      "group": "g3",
+      "title": "[입덕직캠] 프로미스나인 백지헌 직캠 4K ‘LOVE BOMB’ (fromis_9 BAEK JI HEON FanCam) | @MCOUNTDOWN_2018.10.18",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "WwPFq78F0Pc",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 장규리 직캠 ‘LOVE BOMB’ (fromis_9 JANG GYU RI FanCam) | @MCOUNTDOWN_2018.10.18",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "aaEcSqKoRJQ",
+      "group": "g3",
+      "title": "[선공개 #매점1열직캠] 프로미스나인 'Vitamin ME' (fromis_9 FanCam) #인기가요끝나면매점가요2",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "YAd9KLkfAs0",
+      "group": "g3",
+      "title": "[#직캠보고서🔍] #fromis_9 #프로미스나인 왔다. 내 여름 보양식. ㄴ비타민이 어떻게 보양식?? ㄴ저는 되던데요... 음중 사전녹화 비하인드⏯️ [ENG/JPN SUB]",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "1Hkauyas78w",
+      "group": "g3",
+      "title": "40초 요약으로 보는 프로미스나인 'Vitamin ME' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "y0JUggWOIM4",
+      "group": "g3",
+      "title": "[#직캠보고서🔍] #fromis_9 #프로미스나인 올 겨울은 프미나 덕에 따뜻하겠네에⛄️ 요정들이 눈송이에 실어 보낸 음중 사전녹화 비하인드⏯️",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "CJBfc3fd1EY",
+      "group": "g3",
+      "title": "[#직캠보고서🔍] #프로미스나인 #fromis_9 흰 천과 프나☘️만 있다면 어디든 갈 수 있어⛵️ 음중 사전녹화 비하인드⏯️(ENG/JPN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "U5gwn0_7328",
+      "group": "g3",
+      "title": "[K-Choreo Tower Cam 4K] 프로미스나인 직캠 'LIKE YOU BETTER' (fromis_9 Choreography) l @MusicBank KBS 250704",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9",
+      "titleDate": "2025-07-04"
+    },
+    {
+      "ytId": "s2JVml7e2Tk",
+      "group": "g3",
+      "title": "[4K] 프로미스나인 'LIKE YOU BETTER' 뮤직뱅크 1위 앵콜직캠(fromis_9 Encore Facecam) @뮤직뱅크(Music Bank) 250704",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9",
+      "titleDate": "2025-07-04"
+    },
+    {
+      "ytId": "9VfoIZsVYJg",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 4K 'LIKE YOU BETTER' (fromis_9 FanCam) | @MCOUNTDOWN_2025.7.3",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9",
+      "titleDate": "2025-07-03"
+    },
+    {
+      "ytId": "5qbvfL69YC8",
+      "group": "g3",
+      "title": "40초 요약으로 보는 프로미스나인 'LIKE YOU BETTER' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "QZo_F_OWpNg",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 8K 'LIKE YOU BETTER' (fromis_9 FanCam) | @MCOUNTDOWN_2025.6.26",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9",
+      "titleDate": "2025-06-26"
+    },
+    {
+      "ytId": "DW0i_AG94Vc",
+      "group": "g3",
+      "title": "[가요대제전] 프로미스나인 – Supersonic (fromis_9 Fullcam) | Gayo Daejejeon 2024 | MBC250129",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9",
+      "titleDate": "2025-01-29"
+    },
+    {
+      "ytId": "E7IA6GpK6lU",
+      "group": "g3",
+      "title": "[#음중직캠] fromis_9 (프로미스나인) – Supersonic | 쇼! 음악중심 | MBC240824방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9",
+      "titleDate": "2024-08-24"
+    },
+    {
+      "ytId": "DYQUi9TR39w",
+      "group": "g3",
+      "title": "[#음중직캠] fromis_9 (프로미스나인) – Supersonic 1위 직캠 | 쇼! 음악중심 | MBC240824방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9",
+      "titleDate": "2024-08-24"
+    },
+    {
+      "ytId": "li1mtRzZqF8",
+      "group": "g3",
+      "title": "[4K] 프로미스나인 'Supersonic' 뮤직뱅크 1위 앵콜직캠(fromis_9 Encore Facecam) @뮤직뱅크(Music Bank) 240823",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9",
+      "titleDate": "2024-08-23"
+    },
+    {
+      "ytId": "7FZV6h00Yh8",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 1위 앵콜 직캠 4K 'Supersonic' (fromis_9 FanCam No.1 Encore) | @MCOUNTDOWN_2024.8.22",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9",
+      "titleDate": "2024-08-22"
+    },
+    {
+      "ytId": "iCOcXWXwoiE",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 8K 'Supersonic' (fromis_9 FanCam) | @MCOUNTDOWN_2024.8.22",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9",
+      "titleDate": "2024-08-22"
+    },
+    {
+      "ytId": "dboV7dP1c7w",
+      "group": "g3",
+      "title": "[쇼챔직캠 4K] fromis_9 - #menow (프로미스나인 - #미나우) l Show Champion l EP.480",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "uYeFr0Ow05E",
+      "group": "g3",
+      "title": "[쇼챔직캠 4K] fromis_9 - Attitude (프로미스나인 - 에티튜드) l Show Champion l EP.479",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "Zr6w0m9hKeE",
+      "group": "g3",
+      "title": "[쇼챔직캠 4K] fromis_9 - #menow (프로미스나인 - #미나우) l Show Champion l EP.479",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "Q3uSyyMwz6g",
+      "group": "g3",
+      "title": "[쇼챔직캠 4K] fromis_9 - Stay This Way (프로미스나인 - 스테이 디스 웨이) l Show Champion l EP.441",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "zbJ0iBvVh_U",
+      "group": "g3",
+      "title": "[쇼챔직캠 4K] fromis_9 - Rewind (프로미스나인 - 리와인드) l Show Champion l EP.440",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "Y1-LesIZ19c",
+      "group": "g3",
+      "title": "[쇼챔직캠 4K] fromis_9 - Stay This Way (프로미스나인 - 스테이 디스 웨이) l Show Champion l EP.440",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "Umprv-xvLxw",
+      "group": "g3",
+      "title": "[주간아 직캠] 프로미스나인(fromis_9)의 '소원수리센터' 직캠 Ver. l PING PONG l EP.568",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "KbZA5fxeqto",
+      "group": "g3",
+      "title": "[쇼챔직캠 4K] fromis_9 - DM (프로미스나인 - 디엠) l Show Champion l EP.422",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "CyOIkPNKHOA",
+      "group": "g3",
+      "title": "[쇼챔직캠 4K] fromis_9 - DM (프로미스나인 - 디엠) l Show Champion l EP.421",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "6uFPdgqoE_U",
+      "group": "g3",
+      "title": "[쇼챔직캠 4K] fromis_9 - Talk & Talk (프로미스나인 - 톡 & 톡) l EP.408",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "0BJNLRyLjXM",
+      "group": "g3",
+      "title": "[쇼챔직캠 4K] 프로미스나인(fromis_9) - 위 고 (fromis_9 - WE GO) l EP.395",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "HgIW2Eu6eIk",
+      "group": "g3",
+      "title": "[쇼챔직캠 4K] 프로미스나인(fromis_9) - Feel Good(SECRET CODE) l #쇼챔피언 l EP.374",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "Bkiw_jawQZE",
+      "group": "g3",
+      "title": "[쇼챔직캠 4K] 프로미스나인 - Feel Good (fromis_9 - Feel Good) l #쇼챔피언 l EP.372",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "uudpCUfH9d4",
+      "group": "g3",
+      "title": "[안방1열 직캠4K] 프로미스나인 'LOVE RUMPUMPUM’' (fromis_9 Fancam)│@SBS Inkigayo_2019.7.21",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "PekzyeBMoUM",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 4K 'LOVE RUMPUMPUM’ (fromis_9 FanCam) | @MCOUNTDOWN_2019.7.18",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "umfQcCFlUmM",
+      "group": "g3",
+      "title": "[안방1열 직캠4K] 프로미스나인 'LOVE RUMPUMPUM' 풀캠 (fromis_9 'LOVE RUMPUMPUM' FanCam)│@SBS Inkigayo_2019.7.14",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "oINR2E51GvA",
+      "group": "g3",
+      "title": "[4K 풀캠] LOVE RUMPUMPUM- 프로미스나인(fromis_9) FULL Ver. / 190712 뮤직뱅크 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "6N_BgojjSEE",
+      "group": "g3",
+      "title": "[리허설캠4K] 프로미스나인 'FUN! ' 드라이리허설 직캠 (fromis_9 'FUN! ' Rehearsal cam) @SBS inkigayo_2019.7.7",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "UzOSj-vSFtk",
+      "group": "g3",
+      "title": "[안방1열 직캠4K] 프로미스나인 'FUN!' 풀캠 (fromis_9 'FUN!' FanCam)│@SBS Inkigayo_2019.7.7",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "ODvYfcEQT94",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 4K 'FUN!’ (fromis_9 FanCam) | @MCOUNTDOWN_2019.6.27",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "6kACssidV8o",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 4K 'FUN!’ (fromis_9 FanCam) | @MCOUNTDOWN_2019.6.20",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "S0SF1uYW-fI",
+      "group": "g3",
+      "title": "[안방1열 직캠4K] 프로미스나인 'FUN!' 풀캠 (fromis_9 'FUN!' FanCam)│@SBS Inkigayo_2019.6.16",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "Mz8PnBkqglM",
+      "group": "g3",
+      "title": "FUN! - 프로미스나인(fromis_9) / 190614 뮤직뱅크 직캠(풀캠ver)(4K)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "75vIoQI_nGs",
+      "group": "g3",
+      "title": "[리허설캠4K] 프로미스나인 'FUN!' 드라이리허설 직캠 (fromis_9 Rehearsal cam)ㅣ@SBS Inkigayo_2019.6.9",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "caa6RiJl4YE",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 4K 'FUN!’ (fromis_9 FanCam) | @MCOUNTDOWN_2019.6.13",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "2i87g0WB5gA",
+      "group": "g3",
+      "title": "[안방1열 직캠4K] 프로미스나인 'FUN!' 풀캠 (fromis_9 fancam) @SBS Inkigayo_2019.6.9",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "qFpmVpsw4So",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 4K 'FUN!’ (fromis_9 FanCam) | @MCOUNTDOWN_2019.6.6",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "rojX2ZWEVcg",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 4K ‘다시 만난 세계(Into The New World)’ (fromis_9 FanCam) | @MCOUNTDOWN_2019.01.03",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "rpG1cnFQjro",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 4K ‘LOVE BOMB’ (fromis_9 FanCam) | @MCOUNTDOWN_2018.11.8",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "5jmA-t_Ib70",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 4K ‘LOVE BOMB’ (fromis_9 FanCam) | @MCOUNTDOWN_2018.11.01",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "p07bOFSPc3s",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 4K ‘LOVE BOMB’ (fromis_9 FanCam) | @MCOUNTDOWN_2018.10.25",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "DpM7KatcB7I",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 4K ‘Red Light' of f(x) (fromis_9 FanCam) | @MCOUNTDOWN_2018.10.25",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "Y0uzX-h6ETg",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 4K ‘LOVE BOMB’ (fromis_9 FanCam) | @MCOUNTDOWN_2018.10.18",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "ALO5RqhseCI",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 4K '두근두근(DKDK)' (fromis_9 FanCam) | @MCOUNTDOWN_2018.6.21",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "70wM3mr4q-k",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 '두근두근(DKDK)' (fromis_9 FanCam) | @MCOUNTDOWN_2018.6.14",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "099AHIM8ej8",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 4K '22세기 소녀(22CENTURY GIRL)' (fromis_9 FanCam) | @MCOUNTDOWN_2018.6.7",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "qXdX2AOMZHc",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 4K '두근두근(DKDK)' (fromis_9 FanCam) | @MCOUNTDOWN_2018.6.7",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "8Bu-r8DRTik",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스나인 직캠 'To Heart' (fromis_9 FanCam) | @MCOUNTDOWN_2018.2.1",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "fU1xAX8rlvE",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스_9 직캠 4K '환상 속의 그대(You in my fantasy)' (fromis_9 FanCam) | @MCOUNTDOWN_2018.1.25",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "uP9NvleEasM",
+      "group": "g3",
+      "title": "[MPD직캠] 프로미스_9 직캠 4K 'To Heart' (fromis_9 FanCam) | @MCOUNTDOWN_2018.1.25",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/fromis9"
+    },
+    {
+      "ytId": "-60R8_KyV9U",
+      "group": "g4",
+      "title": "[쇼챔1분직캠] Hearts2Hearts IAN(하츠투하츠 이안)의 ＜FOCUS＞♬ #Hearts2Hearts #이안 #FOCUS",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "q3bS-H0Y72I",
+      "group": "g4",
+      "title": "[안방1열 풀캠4K] 하츠투하츠 'Lemon Tang' (Hearts2Hearts FullCam) @2026 INKIGAYO LIVE in TOKYO",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "SClhx4xH6xw",
+      "group": "g4",
+      "title": "[#직캠보고서🔍] #Hearts2Hearts #하츠투하츠 기억해? 체육관에서 테니스 치다가 같이 혼나던 우리 둘🎾 음중 사전녹화 비하인드⏯️ [ENG/JPN/IDN SUB]",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "aUszMtv03u4",
+      "group": "g4",
+      "title": "40초 요약으로 보는 하츠투하츠 '15-LOVE' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "8n8-mN5GyZo",
+      "group": "g4",
+      "title": "[쇼챔 MIX직캠] Hearts2Hearts(하츠투하츠) - Lemon Tang | Show Champion | EP.602",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "5QX7UVQs9ps",
+      "group": "g4",
+      "title": "[#직캠보고서🔍] #Hearts2Hearts #하츠투하츠 얘들아 유기농 레몬 착즙 쥬스 원샷할 시간이다🍋 음중 사전녹화 비하인드⏯️ [ENG/JPN/IDN SUB]",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "nR25BOkdfso",
+      "group": "g4",
+      "title": "35초 요약으로 보는 하츠투하츠 'Lemon Tang' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "X_yAch-iD5A",
+      "group": "g4",
+      "title": "[#직캠보고서🔍] #Hearts2Hearts #하츠투하츠 우리 너무 예뻐서 𝑹𝑼𝑫𝑬하다고❓ 알아요(ゝ⩊•̀⁎)🤍 음중 사전녹화 비하인드⏯️(ENG/JPN/IDN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "hJ2MuWK1eAE",
+      "group": "g4",
+      "title": "[#직캠보고서🔍] #Hearts2Hearts #하츠투하츠 이미 잘알 언니들은 물회한 하투하 잡음🍀 음중 사전녹화 비하인드⏯️(ENG/JPN/IDN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "C0RS5RagEPg",
+      "group": "g4",
+      "title": "50초 요약으로 보는 하츠투하츠 'RUDE!' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "PBzkmJL2Jik",
+      "group": "g4",
+      "title": "[K-Choreo 4K] 하츠투하츠 직캠 '소원을 말해봐 (*원곡: 소녀시대)' (Hearts2Hearts Choreography) @뮤직뱅크글로벌페스티벌 251230",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-12-30"
+    },
+    {
+      "ytId": "f_W-BocVPaE",
+      "group": "g4",
+      "title": "[2025 가요대전 4K] 하츠투하츠 'FOCUS X Dirty Work (Mash Up Ver.)' (Hearts2Hearts FullCam)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "qsPsmoXWso8",
+      "group": "g4",
+      "title": "[#직캠보고서🔍] #하츠투하츠 #Hearts2Hearts 하츄의 가장 큰 행복들에게 끝까지 집중﻿˚₊·—̳͟͞͞♥ 음중 사전녹화 비하인드⏯️(ENG/IDN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "EtcKgdsiCg4",
+      "group": "g4",
+      "title": "[K-Choreo Tower Cam 4K] 하츠투하츠 직캠 'FOCUS' (Hearts2Hearts Choreography) l @MusicBank KBS 251114",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-11-14"
+    },
+    {
+      "ytId": "S8s4ZY-Bytc",
+      "group": "g4",
+      "title": "[K-Choreo Tower Cam 4K] 하츠투하츠 직캠 'FOCUS' (Hearts2Hearts Choreography) l @MusicBank KBS 251107",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-11-07"
+    },
+    {
+      "ytId": "LkVAr3JiQ-c",
+      "group": "g4",
+      "title": "[#직캠보고서🔍] #하츠투하츠 #Hearts2Hearts 하츄들아 𝑭𝑶𝑪𝑼𝑺가 너무 좋을 때 어떻게 했어? ˗ˋˏ!!둘셋!!ˎˊ˗ 음중 사전녹화 비하인드⏯️(ENG/IDN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "A1WEsHVOWTc",
+      "group": "g4",
+      "title": "[K-Choreo Tower Cam 4K] 하츠투하츠 직캠 'FOCUS' (Hearts2Hearts Choreography) l @MusicBank KBS 251031",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-10-31"
+    },
+    {
+      "ytId": "WnOw6McYSbM",
+      "group": "g4",
+      "title": "[쇼챔직캠 4K] Hearts2Hearts(하츠투하츠) - FOCUS | Show Champion | EP.575",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "h5qp2v7rcDU",
+      "group": "g4",
+      "title": "[K-Choreo 8K] 하츠투하츠 직캠 'FOCUS' (Hearts2Hearts Choreography) @MusicBank 251024",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-10-24"
+    },
+    {
+      "ytId": "UnX5TDDJqmY",
+      "group": "g4",
+      "title": "1분 요약으로 보는 하츠투하츠 'FOCUS' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "mnCVZGadXfI",
+      "group": "g4",
+      "title": "[MPD직캠] 하츠투하츠 직캠 8K 'FOCUS' (Hearts2Hearts FanCam) | @MCOUNTDOWN_2025.10.23",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-10-23"
+    },
+    {
+      "ytId": "GkBE_yFT8EI",
+      "group": "g4",
+      "title": "1분 요약으로 보는 하츠투하츠 'Pretty Please' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "r2zf3E5tdTE",
+      "group": "g4",
+      "title": "[MPD직캠] 하츠투하츠 직캠 8K 'Pretty Please' (Hearts2Hearts FanCam) | @MCOUNTDOWN_2025.10.2",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-10-02"
+    },
+    {
+      "ytId": "WT7995J38MQ",
+      "group": "g4",
+      "title": "[#직캠보고서🔍] #하츠투하츠 #Hearts2Hearts 너무 𝑷𝒓𝒆𝒕𝒕𝒚한 하투하 𝑷𝒍𝒆𝒂𝒔𝒆 저요ᯓ ᡣ𐭩｡°💗💫 음중 사전녹화 비하인드⏯️(ENG/IDN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "RfE9tOEptmI",
+      "group": "g4",
+      "title": "[K-Choreo 8K] 하츠투하츠 직캠 'Pretty Please' (Hearts2Hearts Choreography) @MusicBank 250926",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-09-26"
+    },
+    {
+      "ytId": "-_Kol2fWCpQ",
+      "group": "g4",
+      "title": "[#직캠보고서🔍] #하츠투하츠 #Hearts2Hearts 같이 걷자! 하츄는 하투하가 다 궁금해₊˚⊹♡ 음중 사전녹화 비하인드⏯️(ENG/IDN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "VaXFLytTLKs",
+      "group": "g4",
+      "title": "[MPD직캠] 하츠투하츠 직캠 4K 'STYLE' (Hearts2Hearts FanCam) | @MCOUNTDOWN_2025.6.26",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-06-26"
+    },
+    {
+      "ytId": "d4WIngZ4Ykw",
+      "group": "g4",
+      "title": "[K-Choreo 8K] 하츠투하츠 직캠 'STYLE' (Hearts2Hearts Choreography) @MusicBank 250620",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-06-20"
+    },
+    {
+      "ytId": "Wpp6KluH_N4",
+      "group": "g4",
+      "title": "[MPD직캠] 하츠투하츠 직캠 8K 'STYLE' (Hearts2Hearts FanCam) | @MCOUNTDOWN_2025.6.19",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-06-19"
+    },
+    {
+      "ytId": "QRk_lGMlZ6I",
+      "group": "g4",
+      "title": "[K-Choreo Tower Cam 4K] 하츠투하츠 직캠 'The Chase' (Hearts2Hearts Choreography) l @MusicBank KBS 250314",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-03-14"
+    },
+    {
+      "ytId": "1TOUoemF0fQ",
+      "group": "g4",
+      "title": "[MPD직캠] 하츠투하츠 직캠 4K 'The Chase' (Hearts2Hearts FanCam) | @MCOUNTDOWN_2025.3.13",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-03-13"
+    },
+    {
+      "ytId": "IqfYZeupx38",
+      "group": "g4",
+      "title": "[쇼챔직캠 4K] Hearts2Hearts(하츠투하츠) - The Chase | Show Champion | EP.546 | 250312",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-03-12"
+    },
+    {
+      "ytId": "iTnZXvW_kLo",
+      "group": "g4",
+      "title": "[K-Choreo Tower Cam 4K] 하츠투하츠 직캠 'The Chase' (Hearts2Hearts Choreography) l @MusicBank KBS 250307",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-03-07"
+    },
+    {
+      "ytId": "W43W4dW9zxA",
+      "group": "g4",
+      "title": "[MPD직캠] 하츠투하츠 직캠 8K 'The Chase' (Hearts2Hearts FanCam) | @MCOUNTDOWN_2025.3.6",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-03-06"
+    },
+    {
+      "ytId": "Syx72dY4PX8",
+      "group": "g4",
+      "title": "[쇼챔직캠 4K] Hearts2Hearts(하츠투하츠) - The Chase | Show Champion | EP.545 | 250305",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-03-05"
+    },
+    {
+      "ytId": "x2NJ98P6t6E",
+      "group": "g4",
+      "title": "[K-Choreo 8K] 하츠투하츠 직캠 'The Chase' (Hearts2Hearts Choreography) @MusicBank 250228",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-02-28"
+    },
+    {
+      "ytId": "L46Go5oh8fk",
+      "group": "g4",
+      "title": "1분 요약으로 보는 하츠투하츠 'The Chase' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts"
+    },
+    {
+      "ytId": "C-Y6jyM8JDw",
+      "group": "g4",
+      "title": "[MPD직캠] 하츠투하츠 직캠 8K 'The Chase' (Hearts2Hearts FanCam) | @MCOUNTDOWN_2025.2.27",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/hearts2hearts",
+      "titleDate": "2025-02-27"
+    },
+    {
+      "ytId": "3z1OuqfIOUY",
+      "group": "g5",
+      "title": "[#직캠보고서🔍] #aespa #에스파 날도 더운데 에스파가 말아주는 레모네이드 한잔⁉️🍋 음중 사전녹화 비하인드⏯️(ENG/JPN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "H6Xks2KXQxM",
+      "group": "g5",
+      "title": "[#직캠보고서🔍] #aespa #에스파 AM 5:00, 음중에 전세 낸 에스파 사녹 현장 파헤치기 음중 사전녹화 비하인드⏯️(ENG/JPN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "4sSZ4bqMAug",
+      "group": "g5",
+      "title": "40초 요약으로 보는 에스파 'WDA (Whole Different Animal)' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "9Myl8-Dmt9U",
+      "group": "g5",
+      "title": "[선공개 #매점1열직캠] 에스파 공식 애교 다이너MY트 #인기가요끝나면매점가요#매점가요 #에스파 #aespa",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "zz_PAzYp1Z4",
+      "group": "g5",
+      "title": "[선공개 #매점1열직캠] 에스파는 유명한 피자사랑단임 #인기가요끝나면매점가요#매점가요 #에스파 #aespa",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "2XC3ZvOfRbg",
+      "group": "g5",
+      "title": "[선공개 #매점1열직캠] 에스파 '나는 알바' (aespa FanCam) #인기가요끝나면매점가요#매점가요 #에스파 #aespa",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "s3wtfvUJp0E",
+      "group": "g5",
+      "title": "1분 요약으로 보는 에스파 'Rich Man' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "qHsDjG0vmKE",
+      "group": "g5",
+      "title": "[MPD직캠] 에스파 직캠 8K 'Rich Man' (aespa FanCam) | @MCOUNTDOWN_2025.9.11",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2025-09-11"
+    },
+    {
+      "ytId": "sFjCKHGkQrA",
+      "group": "g5",
+      "title": "[#직캠보고서🔍] #에스파 #aespa 에스파 리치맨 활동 1주만 더하자!!!! 🎸😻 이렇게 좋은데!!! 왜 안 되는데!!!! 음중 사전녹화 비하인드⏯️(ENG / JPN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "YaQp7siP7FE",
+      "group": "g5",
+      "title": "[#직캠보고서🔍] #에스파 #aespa 짱스파 용광로면 쇠⛓️+태양☀️+마이💜 다 녹죠 ｡･*･: 음중 사전녹화 비하인드⏯️(ENG/CHN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "ZmSUoddZfjU",
+      "group": "g5",
+      "title": "[앵콜캠4K] 에스파 'Dirty Work' 인기가요 1위 앵콜 직캠 (aespa Encore Fancam) @SBS Inkigayo 250713",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2025-07-13"
+    },
+    {
+      "ytId": "Shj6xCoF_14",
+      "group": "g5",
+      "title": "[#음중직캠] aespa (에스파) – Dirty Work 1위 직캠 | 쇼! 음악중심 | MBC250712",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2025-07-12"
+    },
+    {
+      "ytId": "RC_h_XDGKZQ",
+      "group": "g5",
+      "title": "[MPD직캠] 에스파 1위 앵콜 직캠 4K 'Dirty Work' (aespa FanCam No.1 Encore) | @MCOUNTDOWN_2025.7.10",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2025-07-10"
+    },
+    {
+      "ytId": "dtC7yU8Sbpw",
+      "group": "g5",
+      "title": "[MPD직캠] 에스파 직캠 8K 'Dirty Work' (aespa FanCam) | @MCOUNTDOWN_2025.7.10",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2025-07-10"
+    },
+    {
+      "ytId": "N3gsANeQYBQ",
+      "group": "g5",
+      "title": "40초 요약으로 보는 에스파 'Dirty Work' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "Do1nD39Y7jU",
+      "group": "g5",
+      "title": "[MPD직캠] 에스파 직캠 8K 'Dirty Work' (aespa FanCam) | @MCOUNTDOWN_2025.7.3",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2025-07-03"
+    },
+    {
+      "ytId": "lYhIi0ClUEk",
+      "group": "g5",
+      "title": "[가요대제전] 에스파 – Supernova + Whiplash (aespa Fullcam) | Gayo Daejejeon 2024 | MBC250130",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2025-01-30"
+    },
+    {
+      "ytId": "Dr3zFs3BcEM",
+      "group": "g5",
+      "title": "[K-Choreo 8K] 에스파 직캠 'Armageddon' (aespa Choreography) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "xY-8VdoaLro",
+      "group": "g5",
+      "title": "[K-Choreo 8K] 에스파 직캠 'INTRO + Whiplash' (aespa Choreography) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "QYWqA4aJHpg",
+      "group": "g5",
+      "title": "[#음중직캠] aespa (에스파) – Whiplash FullCam | 쇼! 음악중심 | MBC241102방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-11-02"
+    },
+    {
+      "ytId": "-8N3i6gfy_U",
+      "group": "g5",
+      "title": "[K-Choreo 8K] 에스파 직캠 'Whiplash' (aespa Choreography) @MusicBank 241101",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-11-01"
+    },
+    {
+      "ytId": "DCVNDnRzkco",
+      "group": "g5",
+      "title": "[4K] 에스파 'Whiplash' 뮤직뱅크 1위 앵콜직캠(aespa Encore Facecam) @뮤직뱅크(Music Bank) 241101",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-11-01"
+    },
+    {
+      "ytId": "N_5cdstBkUA",
+      "group": "g5",
+      "title": "[ENG/JPN][#직캠보고서🔍] 뒷목 잡고 쓰러질 만큼 좋은 여자의 악마들 영접하기💥💘 #에스파 #aespa 사전녹화 비하인드⏯️",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "Y_UG5q7eFWA",
+      "group": "g5",
+      "title": "[#음중직캠8K] aespa (에스파) – Whiplash FullCam | 쇼! 음악중심 | MBC241026방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-10-26"
+    },
+    {
+      "ytId": "cmM9RKTWRpQ",
+      "group": "g5",
+      "title": "풀캠으로 봐야 진리인 에스파 위플래시 안무 대형",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "FdYjQHK9DXo",
+      "group": "g5",
+      "title": "1분 요약으로 보는 에스파 'Whiplash' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "8wb1k60_vkk",
+      "group": "g5",
+      "title": "[MPD직캠] 에스파 직캠 8K 'Whiplash' (aespa FanCam) | @MCOUNTDOWN_2024.10.24",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-10-24"
+    },
+    {
+      "ytId": "fOqGGHX9ges",
+      "group": "g5",
+      "title": "[#직캠보고서🔍] 다중우주🪐를 보여줘도 핑크빛 사랑🩷만 주는 마이들과 티키타카 완벽한 #aespa 사전녹화 비하인드⏯️",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "47hGfGVzcnk",
+      "group": "g5",
+      "title": "[예능연구소] aespa (에스파) – Supernova 1위 직캠 | 쇼! 음악중심 | MBC240601방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-06-01"
+    },
+    {
+      "ytId": "LvzafrmPQXU",
+      "group": "g5",
+      "title": "[K-Choreo 8K] 에스파 직캠 'Armageddon' (aespa Choreography) @MusicBank 240531",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-05-31"
+    },
+    {
+      "ytId": "7HlWzS8ygLU",
+      "group": "g5",
+      "title": "[#직캠보고서🔍] ae쇠일러문spa Supernova💫 고양이 엔딩요정 보고가세요😻 #aespa 사전녹화 비하인드⏯",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "mOGzHa5AQys",
+      "group": "g5",
+      "title": "[MPD직캠] 에스파 1위 앵콜 직캠 4K 'Supernova' (aespa FanCam No.1 Encore) | @MCOUNTDOWN_2024.5.30",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-05-30"
+    },
+    {
+      "ytId": "M1q7JvMP73o",
+      "group": "g5",
+      "title": "1분 요약으로 보는 에스파 'Armageddon' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "t3CBZCMUpf4",
+      "group": "g5",
+      "title": "[MPD직캠] 에스파 직캠 8K 'Armageddon' (aespa FanCam) | @MCOUNTDOWN_2024.5.30",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-05-30"
+    },
+    {
+      "ytId": "HCNq_6cuL44",
+      "group": "g5",
+      "title": "[앵콜캠4K] 에스파 'Supernova' 인기가요 1위 앵콜 직캠 (aespa Encore Fancam) | @SBS Inkigayo 240526",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-05-26"
+    },
+    {
+      "ytId": "sND3melXYW8",
+      "group": "g5",
+      "title": "[예능연구소] aespa (에스파) – Supernova 1위 직캠 | 쇼! 음악중심 | MBC240525방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-05-25"
+    },
+    {
+      "ytId": "BjOI5nHDwQ0",
+      "group": "g5",
+      "title": "[K-Choreo 8K] 에스파 직캠 'Supernova' (aespa Choreography) @MusicBank 240524",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-05-24"
+    },
+    {
+      "ytId": "agq42t1NulA",
+      "group": "g5",
+      "title": "[#직캠보고서🔍] OMG 지민언니 TALMO...?! 짱스파 비하인드 들고 왔수수수수 Supernova💫❇ #aespa 사전녹화 비하인드⏯",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "ZxT51ihEfCI",
+      "group": "g5",
+      "title": "[MPD직캠] 에스파 1위 앵콜 직캠 4K 'Supernova' (aespa FanCam No.1 Encore) | @MCOUNTDOWN_2024.5.23",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-05-23"
+    },
+    {
+      "ytId": "pFnrak19ias",
+      "group": "g5",
+      "title": "1분 요약으로 보는 에스파 'Supernova' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "yt_XFwiKKEo",
+      "group": "g5",
+      "title": "[MPD직캠] 에스파 직캠 8K 'Supernova' (aespa FanCam) | @MCOUNTDOWN_2024.5.23",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-05-23"
+    },
+    {
+      "ytId": "RZqUGKR__VE",
+      "group": "g5",
+      "title": "[K-Choreo 8K] 에스파 직캠 'Supernova' (aespa Choreography) @MusicBank 240517",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/aespa",
+      "titleDate": "2024-05-17"
+    },
+    {
+      "ytId": "iP9bQt0xvew",
+      "group": "g5",
+      "title": "에스파 핫걸 지젤의 짜릿한 성장 #MPD직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "2xdAsQIpwfo",
+      "group": "g5",
+      "title": "닝닝이 미모가 서사고 드라마입니다 #aespa #MPD직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/aespa"
+    },
+    {
+      "ytId": "_fFI4Mhr_Hg",
+      "group": "g6",
+      "title": "[쇼챔1분직캠] tripleS msnz Kwak YeonJi(tripleS 미소녀즈 연지)의 ＜Christmas Alone＞♬ #tripleS_msnz #연지",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/triples"
+    },
+    {
+      "ytId": "VxyM8JOAPtU",
+      "group": "g6",
+      "title": "[#직캠보고서🔍] #tripleS 전 분명 트리플에스 사녹 보러 왔는데 왜 꽃밭🌼에 있는 거죠? ㄴ 아주 정확히 도착하셨습니다. 음중 사전녹화 비하인드⏯️ (ENG/JPN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/triples"
+    },
+    {
+      "ytId": "eQaTEGEgwWU",
+      "group": "g6",
+      "title": "[쇼챔1분직캠] tripleS - YeonJi (트리플에스 - 연지)의 ＜Baby Flower＞♬ #tripleS #YeonJi #연지 #Baby_Flower",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/triples"
+    },
+    {
+      "ytId": "nN2mAQC6ZOY",
+      "group": "g6",
+      "title": "[#직캠보고서🔍] #tripleSmsnz #트리플에스 애니 찢고 나온 미소녀들🔓💞 진짜 느낌 좋은데 보러 오실 분⁉️ 음중 사전녹화 비하인드⏯️(ENG/JPN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/triples"
+    },
+    {
+      "ytId": "KHOFo6_EGio",
+      "group": "g6",
+      "title": "[K-Choreo 8K] 트리플에스 미소녀즈 문 직캠 'Cameo Love' (tripleS msnz moon Choreography) @MusicBank 251205",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2025-12-05"
+    },
+    {
+      "ytId": "vFfW6PNqwm0",
+      "group": "g6",
+      "title": "[쇼챔직캠 4K] tripleS msnz(트리플에스 미소녀즈) - Christmas Alone | Show Champion | EP.580 | 251203",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2025-12-03"
+    },
+    {
+      "ytId": "F26hO1Y1nnk",
+      "group": "g6",
+      "title": "[K-Choreo 8K] 트리플에스 미소녀즈 직캠 'Christmas Alone' (tripleS msnz Choreography) @MusicBank 251128",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2025-11-28"
+    },
+    {
+      "ytId": "CpZiS94KiLU",
+      "group": "g6",
+      "title": "[#직캠보고서🔍] #트리플에스 #tripleS 24인 초미녀 무한 등장💥으로 잠💤에서 확 깨어난 사건💦 음중 사전녹화 비하인드⏯️ (ENG/JPN sub)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/triples"
+    },
+    {
+      "ytId": "30HRYXjuba8",
+      "group": "g6",
+      "title": "[K-Choreo 8K] 트리플에스 직캠 '깨어 (Are You Alive)' (tripleS Choreography) @MusicBank 250530",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2025-05-30"
+    },
+    {
+      "ytId": "Zbe22iOcmes",
+      "group": "g6",
+      "title": "[MPD직캠] 트리플에스 직캠 4K '깨어 (Are You Alive)' (tripleS FanCam) | @MCOUNTDOWN_2025.5.29",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2025-05-29"
+    },
+    {
+      "ytId": "e3EZ-6L6LIs",
+      "group": "g6",
+      "title": "[K-Choreo 8K] 트리플에스 직캠 '깨어 (Are You Alive)' (tripleS Choreography) @MusicBank 250523",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2025-05-23"
+    },
+    {
+      "ytId": "UycSxaH-vA4",
+      "group": "g6",
+      "title": "[MPD직캠] 트리플에스 직캠 4K '깨어 (Are You Alive)' (tripleS FanCam) | @MCOUNTDOWN_2025.5.22",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2025-05-22"
+    },
+    {
+      "ytId": "0zA-CFew2EI",
+      "group": "g6",
+      "title": "[쇼챔1분직캠] TripleS SooMin(트리플에스 수민)의 ＜깨어(Are You Alive)＞♬ #TripleS #트리플에스 #수민 #깨어",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/triples"
+    },
+    {
+      "ytId": "o72fc1xkdBM",
+      "group": "g6",
+      "title": "[쇼챔직캠 4K] TripleS(트리플에스) - 깨어(Are You Alive) | Show Champion | EP.555 | 250521",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2025-05-21"
+    },
+    {
+      "ytId": "Rq0LZJuCvK8",
+      "group": "g6",
+      "title": "[K-Choreo 8K] 트리플에스 직캠 '깨어' (Are You Alive)' (tripleS Choreography) @MusicBank 250516",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2025-05-16"
+    },
+    {
+      "ytId": "LFX_FDWB08A",
+      "group": "g6",
+      "title": "[MPD직캠] 트리플에스 직캠 8K '깨어 (Are You Alive)' (tripleS FanCam) | @MCOUNTDOWN_2025.5.15",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2025-05-15"
+    },
+    {
+      "ytId": "c9TS2OmELJg",
+      "group": "g6",
+      "title": "[K-Choreo 8K] 트리플에스 직캠 'INTRO + Girls Never Die' (tripleS Choreography) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "Csqtl2qiEUc",
+      "group": "g6",
+      "title": "[K-Choreo Tower Cam 4K] 트리플에스 VV 직캠 'Hit the Floor'(tripleS VV Choreography) l @MusicBank KBS 241108",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-11-08"
+    },
+    {
+      "ytId": "agsmsGZU-hs",
+      "group": "g6",
+      "title": "[쇼챔직캠 4K] tripleS Visionary Vision(트리플에스 비저너리 비전) - Choom | Show Champion | EP.539 | 241106",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-11-06"
+    },
+    {
+      "ytId": "brQOlu8Pa3o",
+      "group": "g6",
+      "title": "[쇼챔직캠 4K] tripleS Visionary Vision(트리플에스 비저너리 비전) - Hit the Floor | Show Champion | EP.539 | 241106",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-11-06"
+    },
+    {
+      "ytId": "o9_okqenzic",
+      "group": "g6",
+      "title": "[K-Choreo 8K] 트리플에스 VV 직캠 'Hit the Floor' (tripleS Visionary Vision Choreography) @MusicBank 241101",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-11-01"
+    },
+    {
+      "ytId": "D6rg7fV9BzQ",
+      "group": "g6",
+      "title": "[K-Choreo 8K] 트리플에스 VV 직캠 'Hit the Floor' (tripleS Visionary Vision Choreography) @MusicBank 241025",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-10-25"
+    },
+    {
+      "ytId": "N1XA4B64f0w",
+      "group": "g6",
+      "title": "[주간아 직캠 FULL] 트리플에스 비저너리 비전(tripleS Visionary Vision)의 K-POP 랜덤 플레이 댄스 (4K 직캠 Ver.) l EP.686",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/triples"
+    },
+    {
+      "ytId": "FhcMhkIItAc",
+      "group": "g6",
+      "title": "[UNFILTERED CAM] tripleS VV YeonJi(연지) 'Hit the Floor' 4K | STUDIO CHOOM ORIGINAL",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/triples"
+    },
+    {
+      "ytId": "wuv8Di8V3Jk",
+      "group": "g6",
+      "title": "[#음중직캠] tripleS Visionary Vision (트리플에스 비저너리 비전) – Hit the Floor FullCam | 쇼! 음악중심 | MBC241026방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-10-26"
+    },
+    {
+      "ytId": "COw8vfV0KtM",
+      "group": "g6",
+      "title": "[MPD직캠] 트리플에스 직캠 8K 'Hit the Floor' (tripleS Visionary Vision FanCam) | @MCOUNTDOWN_2024.10.24",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-10-24"
+    },
+    {
+      "ytId": "ifalCiBh2jE",
+      "group": "g6",
+      "title": "[주간아 직캠] 트리플에스 비저너리 비전(tripleS Visionary Vision)의 K-POP 랜덤 플레이 댄스 (4K 직캠 Ver.) l EP.686",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/triples"
+    },
+    {
+      "ytId": "FUun7qIwCvU",
+      "group": "g6",
+      "title": "[주간아 직캠] 트리플에스 비저너리 비전(tripleS Visionary Vision) 동생즈의 K-POP 랜덤 플레이 댄스 (4K 직캠 Ver.) l EP.686",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/triples"
+    },
+    {
+      "ytId": "5pL2UhtIGv4",
+      "group": "g6",
+      "title": "[주간아 직캠] 트리플에스 비저너리 비전(tripleS Visionary Vision) 언니즈의 K-POP 랜덤 플레이 댄스 (4K 직캠 Ver.) l EP.686",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/triples"
+    },
+    {
+      "ytId": "6ZyXXlTyuzM",
+      "group": "g6",
+      "title": "[MPD직캠] 트리플에스 직캠 8K 'Girls Never Die' (tripleS FanCam) | @MCOUNTDOWN_2024.5.23",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-05-23"
+    },
+    {
+      "ytId": "6PdVnbJv-C0",
+      "group": "g6",
+      "title": "[쇼챔직캠 4K] tripleS(트리플에스) - Non Scale | Show Champion | EP.518 | 240522",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-05-22"
+    },
+    {
+      "ytId": "KrwAS4kiWAQ",
+      "group": "g6",
+      "title": "[쇼챔직캠 4K] tripleS(트리플에스) - Girls Never Die | Show Champion | EP.518 | 240522",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-05-22"
+    },
+    {
+      "ytId": "LbTrFFzmeP0",
+      "group": "g6",
+      "title": "[K-Choreo 8K] 트리플에스 직캠 'Girls Never Die' (tripleS Choreography) @MusicBank 240517",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-05-17"
+    },
+    {
+      "ytId": "buO5m3KvTjo",
+      "group": "g6",
+      "title": "[K-Choreo 8K] 트리플에스 직캠 'Girls Never Die' (tripleS Choreography) 🎧공간음향.Ver @MusicBank 240510",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-05-10"
+    },
+    {
+      "ytId": "uW4LLsO9TSI",
+      "group": "g6",
+      "title": "[쇼챔직캠 4K] tripleS Aria - Door (트리플에스 아리아 - 도어) | Show Champion | EP.503 | 240131",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-01-31"
+    },
+    {
+      "ytId": "Uombcht-L1c",
+      "group": "g6",
+      "title": "[예능연구소] tripleS Aria - Door(트리플에스 아리아 – 도어) FanCam | Show! MusicCore | MBC240127방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-01-27"
+    },
+    {
+      "ytId": "ii_Ms7Tvhko",
+      "group": "g6",
+      "title": "[MPD직캠] 트리플에스 직캠 4K 'Door' (tripleS Aria FanCam) | @MCOUNTDOWN_2024.1.25",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/triples",
+      "titleDate": "2024-01-25"
+    },
+    {
+      "ytId": "4BH8OBe1BK8",
+      "group": "g6",
+      "title": "[쇼챔직캠 4K] tripleS +(KR)ystal Eyes - Cherry Talk (트리플에스 크리스탈 아이즈 - 체리 톡) | Show Champion | EP.482",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/triples"
+    },
+    {
+      "ytId": "eUyHh7TnoQ4",
+      "group": "g6",
+      "title": "[쇼챔직캠 4K] tripleS +(KR)ystal Eyes - Touch (트리플에스 크리스탈 아이즈 - 터치) l Show Champion l EP.482",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/triples"
+    },
+    {
+      "ytId": "8f2IDOUrzkI",
+      "group": "g7",
+      "title": "[입덕직캠] 있지 유나 직캠 4K '달라달라(DALLA DALLA)' (ITZY YUNA FanCam) | @MCOUNTDOWN_2019.2.14",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/itzy"
+    },
+    {
+      "ytId": "fSAUQ37xbho",
+      "group": "g7",
+      "title": "[MPD직캠] 있지 예지 직캠 '달라달라(DALLA DALLA)' (ITZY YEJI FanCam) | @MCOUNTDOWN_2019.2.14",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/itzy"
+    },
+    {
+      "ytId": "syoATmUcmL4",
+      "group": "g7",
+      "title": "[입덕직캠] 있지 류진 직캠 4K 'ICY' (ITZY Ryujin FanCam) | @MCOUNTDOWN_2019.8.22",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/itzy"
+    },
+    {
+      "ytId": "S9HVfE_IlwY",
+      "group": "g7",
+      "title": "[입덕직캠] 있지 유나 직캠 4K '달라달라(DALLA DALLA)' (ITZY YUNA FanCam) | @MCOUNTDOWN_2019.3.7",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/itzy"
+    },
+    {
+      "ytId": "8pCRjfUIF5A",
+      "group": "g7",
+      "title": "[입덕직캠] 있지 유나 직캠 4K ‘ICY’ (ITZY YUNA FanCam) | @MGMA_2019.8.1",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/itzy"
+    },
+    {
+      "ytId": "IESR9dX2jpk",
+      "group": "g7",
+      "title": "[#직캠보고서🔍] #ITZY #있지 바닷속 다섯 공주님들을 만나기 위해 믿지는 Dive in🌊🪼 음중 사전녹화 비하인드⏯️",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/itzy"
+    },
+    {
+      "ytId": "0zveI3BMiFs",
+      "group": "g7",
+      "title": "45초 요약으로 보는 있지 'Motto' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/itzy"
+    },
+    {
+      "ytId": "5p2vfq-_okk",
+      "group": "g7",
+      "title": "45초 요약으로 보는 있지 'THAT'S A NO NO' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/itzy"
+    },
+    {
+      "ytId": "-pL5yExlMOI",
+      "group": "g7",
+      "title": "[가요대제전] ITZY (있지) – Focus+TUNNEL VISION FullCam | 2025 GayoDaejejeon | MBC251231",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2025-12-31"
+    },
+    {
+      "ytId": "GOg2hjrKRgo",
+      "group": "g7",
+      "title": "[현장직캠 4K] 있지(ITZY LIVECAM) 'Not Shy' @뮤직뱅크글로벌페스티벌 251230",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2025-12-30"
+    },
+    {
+      "ytId": "MvJ-5GynZsc",
+      "group": "g7",
+      "title": "[K-Choreo 4K] 있지 직캠 'Not Shy' (ITZY Choreography) @뮤직뱅크글로벌페스티벌 251230",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2025-12-30"
+    },
+    {
+      "ytId": "69FR7_TwPPo",
+      "group": "g7",
+      "title": "[현장직캠 4K] 있지 (ITZY LIVECAM) 'TUNNEL VISION(DB ver.) + Girls Will Be Girls' @뮤직뱅크글로벌페스티벌 251230",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2025-12-30"
+    },
+    {
+      "ytId": "_2jXop5witw",
+      "group": "g7",
+      "title": "[K-Choreo Tower Cam 4K] 있지 직캠 'TUNNEL VISION' (ITZY Choreography) l @MusicBank KBS 251121",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2025-11-21"
+    },
+    {
+      "ytId": "IG9_qgzFeBE",
+      "group": "g7",
+      "title": "[4K] 있지 'TUNNEL VISION' 뮤직뱅크 1위 앵콜직캠(ITZY Encore Facecam) @뮤직뱅크(Music Bank) 251121",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2025-11-21"
+    },
+    {
+      "ytId": "dAr_86Ym7ow",
+      "group": "g7",
+      "title": "[#직캠보고서🔍] #ITZY #있지 퍼포먼스퀸👑 있지의 귀환이다아아아이갓터널비전😎 사전녹화 비하인드⏯️(ENG/JPN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/itzy"
+    },
+    {
+      "ytId": "sTuJTpPBCYU",
+      "group": "g7",
+      "title": "[K-Choreo 8K HDR] 있지 직캠 'TUNNEL VISION' (ITZY Choreography)🎧공간음향.Ver @MusicBank 251114",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2025-11-14"
+    },
+    {
+      "ytId": "stcLMO3yXo4",
+      "group": "g7",
+      "title": "[2025 가요대전 썸머 4K] 있지 'Girls Will Be Girls + Kiss & Tell (Dance break Ver.)' (ITZY FullCam) @SBS",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/itzy"
+    },
+    {
+      "ytId": "iqyGeVbzCOA",
+      "group": "g7",
+      "title": "[K-Choreo 8K] 있지 직캠 'Girls Will Be Girls' (ITZY Choreography) @MusicBank 250620",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2025-06-20"
+    },
+    {
+      "ytId": "WZkC2qlfsQ8",
+      "group": "g7",
+      "title": "[MPD직캠] 있지 직캠 4K 'Girls Will Be Girls' (ITZY FanCam) | @MCOUNTDOWN_2025.6.19",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2025-06-19"
+    },
+    {
+      "ytId": "D7-PPZYC0no",
+      "group": "g7",
+      "title": "[#직캠보고서🔍] #있지 #ITZY 🚨믿지 마음에 울린 siren🚨 사유는 오늘도 아름다운 있지🤦‍♀️ 음중 사전녹화 비하인드⏯️(ENG/JPN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/itzy"
+    },
+    {
+      "ytId": "-ss3IlvFzYc",
+      "group": "g7",
+      "title": "[K-Choreo 8K] 있지 직캠 'Kiss & Tell' (ITZY Choreography) @MusicBank 250613",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2025-06-13"
+    },
+    {
+      "ytId": "T_Q48oUx61E",
+      "group": "g7",
+      "title": "[K-Choreo 8K] 있지 직캠 'Girls Will Be Girls' (ITZY Choreography) @MusicBank 250613",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2025-06-13"
+    },
+    {
+      "ytId": "ePJyLvE_VkQ",
+      "group": "g7",
+      "title": "[MPD직캠] 있지 직캠 8K 'Kiss & Tell' (ITZY FanCam) | @MCOUNTDOWN_2025.6.12",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2025-06-12"
+    },
+    {
+      "ytId": "vbaXq9cfNv4",
+      "group": "g7",
+      "title": "30초 요약으로 보는 있지 'Girls Will Be Girls' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/itzy"
+    },
+    {
+      "ytId": "STgiVYpd3PE",
+      "group": "g7",
+      "title": "[MPD직캠] 있지 직캠 8K 'Girls Will Be Girls' (ITZY FanCam) | @MCOUNTDOWN_2025.6.12",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2025-06-12"
+    },
+    {
+      "ytId": "0TI5F7P01Wc",
+      "group": "g7",
+      "title": "[가요대제전] 있지 – UNTOUCHABLE + GOLD (ITZY Fullcam) | Gayo Daejejeon 2024 | MBC250130",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2025-01-30"
+    },
+    {
+      "ytId": "Op6XbAywXUY",
+      "group": "g7",
+      "title": "[2024 가요대전 4K]있지 'Imaginary Friend + Mr.Vampire (Horror Christmas Ver.)'ITZY FullCam @SBSGayoDaejeon",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/itzy"
+    },
+    {
+      "ytId": "76m-GGmaGuo",
+      "group": "g7",
+      "title": "[K-Choreo 8K] 있지 직캠 'GOLD' (ITZY Choreography) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "AULY8Z_iWcs",
+      "group": "g7",
+      "title": "[K-Choreo 8K] 있지 직캠 'WANNABE' (ITZY Choreography) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "KZ7ygod9Q_w",
+      "group": "g7",
+      "title": "[K-Choreo 8K] 있지 직캠 'Sugar-holic' (ITZY Choreography) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "oNPJIbgR0Z0",
+      "group": "g7",
+      "title": "[K-Choreo 8K] 있지 직캠 'INTRO + BORN TO BE +Imaginary Friend' (ITZY Choreography) @뮤직뱅크 글로벌 페스티벌 241219",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-12-19"
+    },
+    {
+      "ytId": "hDxdz_F30QE",
+      "group": "g7",
+      "title": "[K-Choreo Tower Cam 4K] 있지 직캠 'Imaginary Friend' (ITZY Choreography) l @MusicBank KBS 241108",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-11-08"
+    },
+    {
+      "ytId": "9o62np8PGb8",
+      "group": "g7",
+      "title": "[#음중직캠] ITZY (있지) – Imaginary Friend FullCam | 쇼! 음악중심 | MBC241109방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-11-09"
+    },
+    {
+      "ytId": "cKzHvgMbdQE",
+      "group": "g7",
+      "title": "[ENG][#직캠보고서🔍] 있지는 든든한 믿지를 믿지🩷 GOLD보다 더 값진 것은 있지💛 #있지 #ITZY 사전녹화 비하인드⏯️",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/itzy"
+    },
+    {
+      "ytId": "bK_xMhitmxM",
+      "group": "g7",
+      "title": "[K-Choreo 8K] 있지 직캠 'Imaginary Friend' (ITZY Choreography) @MusicBank 241101",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-11-01"
+    },
+    {
+      "ytId": "1bZFt_HwTrQ",
+      "group": "g7",
+      "title": "[K-Choreo 8K] 있지 직캠 'GOLD' (ITZY Choreography) @MusicBank 241025",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-10-25"
+    },
+    {
+      "ytId": "GQS5hJUAt9c",
+      "group": "g7",
+      "title": "[#음중직캠] ITZY (있지) – GOLD FullCam | 쇼! 음악중심 | MBC241026방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-10-26"
+    },
+    {
+      "ytId": "woDdWptyQV0",
+      "group": "g7",
+      "title": "[MPD직캠] 있지 직캠 4K 'GOLD' (ITZY FanCam) | @MCOUNTDOWN_2024.10.24",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-10-24"
+    },
+    {
+      "ytId": "6GIAXxH22JI",
+      "group": "g7",
+      "title": "[#음중직캠8K] ITZY (있지) – GOLD FullCam | 쇼! 음악중심 | MBC241019방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-10-19"
+    },
+    {
+      "ytId": "FHcSfyJr1tA",
+      "group": "g7",
+      "title": "[K-Choreo 8K] 있지 직캠 'GOLD' (ITZY Choreography) @MusicBank 241018",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-10-18"
+    },
+    {
+      "ytId": "tGP_7_4LXG0",
+      "group": "g7",
+      "title": "50초 요약으로 보는 있지 'GOLD' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/itzy"
+    },
+    {
+      "ytId": "9yrw6BhzH2Y",
+      "group": "g7",
+      "title": "[MPD직캠] 있지 직캠 8K 'GOLD' (ITZY FanCam) | @MCOUNTDOWN_2024.10.17",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-10-17"
+    },
+    {
+      "ytId": "bNdQBhjtcLU",
+      "group": "g7",
+      "title": "[예능연구소] ITZY - MR. VAMPIRE(있지 – 미스터 뱀파이어) FanCam | Show! MusicCore | MBC240127방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-01-27"
+    },
+    {
+      "ytId": "e2IKj9LYun8",
+      "group": "g7",
+      "title": "[MPD직캠] 있지 직캠 4K 'Mr. Vampire' (ITZY FanCam) | @MCOUNTDOWN_2024.1.25",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-01-25"
+    },
+    {
+      "ytId": "wpIe1WpRKvc",
+      "group": "g7",
+      "title": "[예능연구소] ITZY - UNTOUCHABLE (있지 – 언터처블) FanCam | Show! MusicCore | MBC240120방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-01-20"
+    },
+    {
+      "ytId": "WxFFiVbgpsY",
+      "group": "g7",
+      "title": "[MPD직캠] 있지 직캠 4K 'UNTOUCHABLE' (ITZY FanCam) | @MCOUNTDOWN_2024.1.18",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-01-18"
+    },
+    {
+      "ytId": "YNNc5mVjRZE",
+      "group": "g7",
+      "title": "[예능연구소] ITZY - BORN TO BE(있지 – 본 투 비) FanCam | Show! MusicCore | MBC240113방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-01-13"
+    },
+    {
+      "ytId": "Uuup3WhqmYo",
+      "group": "g7",
+      "title": "[#예능연구소8K] ITZY - UNTOUCHABLE(있지 – 언터처블) FanCam | Show! MusicCore | MBC240113방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-01-13"
+    },
+    {
+      "ytId": "k2wazMHU-9M",
+      "group": "g7",
+      "title": "[K-Choreo 8K] 있지 직캠 'BORN TO BE' (ITZY Choreography) @MusicBank 240112",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-01-12"
+    },
+    {
+      "ytId": "eV2PSUE-UPY",
+      "group": "g7",
+      "title": "[K-Choreo 8K HDR] 있지 직캠 'UNTOUCHABLE' (ITZY Choreography) @MusicBank 240112",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-01-12"
+    },
+    {
+      "ytId": "VVxlzdrftsQ",
+      "group": "g7",
+      "title": "[MPD직캠] 있지 직캠 4K 'BORN TO BE' (ITZY FanCam) | @MCOUNTDOWN_2024.1.11",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-01-11"
+    },
+    {
+      "ytId": "dhsvccM6bZE",
+      "group": "g7",
+      "title": "[MPD직캠] 있지 직캠 8K 'UNTOUCHABLE' (ITZY FanCam) | @MCOUNTDOWN_2024.1.11",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/itzy",
+      "titleDate": "2024-01-11"
+    },
+    {
+      "ytId": "3ZvaXiQu64A",
+      "group": "g8",
+      "title": "1분 요약으로 보는 베이비몬스터 'MOON' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster"
+    },
+    {
+      "ytId": "9AflbLiNofc",
+      "group": "g8",
+      "title": "[#직캠보고서🔍] #BABYMONSTER #베이비몬스터 주문하신 슈가 허니 아이스티 나왔습니다 🍯🧊 음중 사전녹화 비하인드⏯️ [ENG/JPN SUB]",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster"
+    },
+    {
+      "ytId": "uNd5-7kWrKw",
+      "group": "g8",
+      "title": "45초 요약으로 보는 베이비몬스터 'SUGAR HONEY ICE TEA' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster"
+    },
+    {
+      "ytId": "7UFeuBwtpxI",
+      "group": "g8",
+      "title": "30초 요약으로 보는 베이비몬스터 '춤 (CHOOM)' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster"
+    },
+    {
+      "ytId": "T8vNI-nhVSA",
+      "group": "g8",
+      "title": "[#직캠보고서🔍] #BABYMONSTER #베이비몬스터 저는 월화수목금토 베몬에게 취해있고 싶은데요...🥂🕺 음중 사전녹화 비하인드⏯️(ENG/JPN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster"
+    },
+    {
+      "ytId": "U_uJXv0R9c8",
+      "group": "g8",
+      "title": "50초 요약으로 보는 베이비몬스터 'Really Like You' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster"
+    },
+    {
+      "ytId": "d1ZHODNCJkU",
+      "group": "g8",
+      "title": "[#직캠보고서🔍] #BABYMONSTER #베이비몬스터 𝗪𝗘 𝗚𝗢 𝗨𝗣 듣고 분위기🆙 심박수도🆙 음중 사전녹화 비하인드⏯️(ENG/JPN/CHN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster"
+    },
+    {
+      "ytId": "i7DEKVBaWd0",
+      "group": "g8",
+      "title": "[MPD직캠] 베이비몬스터 직캠 8K 'WE GO UP' (BABYMONSTER FanCam) | @MCOUNTDOWN_2025.10.23",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster",
+      "titleDate": "2025-10-23"
+    },
+    {
+      "ytId": "fS-ZLE0ASsw",
+      "group": "g8",
+      "title": "[MPD직캠] 베이비몬스터 1위 앵콜 직캠 4K 'WE GO UP' (BABYMONSTER FanCam No.1 Encore) | @MCOUNTDOWN_2025.10.16",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster",
+      "titleDate": "2025-10-16"
+    },
+    {
+      "ytId": "saHcbHcHO4o",
+      "group": "g8",
+      "title": "1분 요약으로 보는 베이비몬스터 'WE GO UP' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster"
+    },
+    {
+      "ytId": "gFPwmSwpW8c",
+      "group": "g8",
+      "title": "[MPD직캠] 베이비몬스터 직캠 8K 'WE GO UP' (BABYMONSTER FanCam) | @MCOUNTDOWN_2025.10.16",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster",
+      "titleDate": "2025-10-16"
+    },
+    {
+      "ytId": "YHBDGBNEGXU",
+      "group": "g8",
+      "title": "[2025가요대전썸머4K] 베이비몬스터 'DRIP + HOT SAUCE + SHEESH (Band Ver.)' (BABYMONSTER FullCam) @SBSGayoDaejeon",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster"
+    },
+    {
+      "ytId": "oalHMcvyxp4",
+      "group": "g8",
+      "title": "[#직캠보고서🔍] #베이비몬스터 #BABYMONSTER 세상에서 제일 𝑯𝑶𝑻한 베몬표 𝑺𝑨𝑼𝑪𝑬를 소개합니다!🔥 음중 사전녹화 비하인드⏯️(ENG/JPN/IDN SUB)",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster"
+    },
+    {
+      "ytId": "UBQHN33MOpw",
+      "group": "g8",
+      "title": "50초 요약으로 보는 베이비몬스터 'HOT SAUCE' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster"
+    },
+    {
+      "ytId": "1xYACJDhQuE",
+      "group": "g8",
+      "title": "[MPD직캠] 베이비몬스터 직캠 8K 'HOT SAUCE' (BABYMONSTER FanCam) | @MCOUNTDOWN_2025.7.10",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster",
+      "titleDate": "2025-07-10"
+    },
+    {
+      "ytId": "92YAEjlmH9k",
+      "group": "g8",
+      "title": "[#음중직캠] BABYMONSTER (베이비몬스터) – DRIP FullCam | 쇼! 음악중심 | MBC241123방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster",
+      "titleDate": "2024-11-23"
+    },
+    {
+      "ytId": "CJtkRxuD0BE",
+      "group": "g8",
+      "title": "[#음중직캠8K] BABYMONSTER (베이비몬스터) – DRIP FullCam | 쇼! 음악중심 | MBC241116방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster",
+      "titleDate": "2024-11-16"
+    },
+    {
+      "ytId": "tmw2RBde3wY",
+      "group": "g8",
+      "title": "1분 요약으로 보는 베이비몬스터 'FOREVER' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster"
+    },
+    {
+      "ytId": "ylRx8QOuGXo",
+      "group": "g8",
+      "title": "[MPD직캠] 베이비몬스터 직캠 8K 'FOREVER' (BABYMONSTER FanCam) | @MCOUNTDOWN_2024.7.11",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster",
+      "titleDate": "2024-07-11"
+    },
+    {
+      "ytId": "8qa-nm9bCLs",
+      "group": "g8",
+      "title": "[MPD직캠] 베이비몬스터 직캠 8K 'LIKE THAT' (BABYMONSTER FanCam) | @MCOUNTDOWN_2024.6.13",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster",
+      "titleDate": "2024-06-13"
+    },
+    {
+      "ytId": "QHf-2xSJzYE",
+      "group": "g8",
+      "title": "[MPD직캠] 베이비몬스터 직캠 8K 'SHEESH' (BABYMONSTER FanCam) | @MCOUNTDOWN_2024.4.25",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster",
+      "titleDate": "2024-04-25"
+    },
+    {
+      "ytId": "dn-4_inO-P0",
+      "group": "g8",
+      "title": "[MPD직캠] 베이비몬스터 직캠 8K 'SHEESH' (BABYMONSTER FanCam) | @MCOUNTDOWN_2024.4.18",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster",
+      "titleDate": "2024-04-18"
+    },
+    {
+      "ytId": "9-oS7QcGI2c",
+      "group": "g8",
+      "title": "1분 요약으로 보는 베이비몬스터 'SHEESH' 직캠 #BABYMONSTER",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster"
+    },
+    {
+      "ytId": "IJWY52xK5oM",
+      "group": "g8",
+      "title": "[MPD직캠] 베이비몬스터 직캠 8K 'SHEESH' (BABYMONSTER FanCam) | @MCOUNTDOWN_2024.4.11",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/babymonster",
+      "titleDate": "2024-04-11"
+    },
+    {
+      "ytId": "QMB_2NGxO3I",
+      "group": "g10",
+      "title": "[쇼챔1분직캠] KISS OF LIFE (키스오브라이프 - 벨)의 ＜SWEAT＞♬ #KISS_OF_LIFE #벨 #SWEAT",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    },
+    {
+      "ytId": "eRg6OkYid74",
+      "group": "g10",
+      "title": "[쇼챔1분직캠] KISS OF LIFE (키스 오브 라이프 - 벨)의 ＜SWEAT＞♬ #KISS_OF_LIFE #벨 #SWEAT",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    },
+    {
+      "ytId": "2IGBn8v9H9c",
+      "group": "g10",
+      "title": "45초 요약으로 보는 키스오브라이프 'SWEAT' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    },
+    {
+      "ytId": "3zf3ZuQRHu4",
+      "group": "g10",
+      "title": "35초 요약으로 보는 키스오브라이프 'Who is she' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    },
+    {
+      "ytId": "FgWlHAa7VB8",
+      "group": "g10",
+      "title": "[K-Choreo Tower Cam 4K] 키스오브라이프 직캠 'k bye'(KISSOFLIFE Choreography) l @MusicBank KBS 250627",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2025-06-27"
+    },
+    {
+      "ytId": "tr-oZDsLk5k",
+      "group": "g10",
+      "title": "[MPD직캠] 키스오브라이프 직캠 4K 'k bye' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2025.6.26",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2025-06-26"
+    },
+    {
+      "ytId": "fM3JxPD41Kk",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE(키스오브라이프) - Tell Me | Show Champion | EP.560",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    },
+    {
+      "ytId": "ssvzx39L-9E",
+      "group": "g10",
+      "title": "[K-Choreo Tower Cam 4K] 키스오브라이프 직캠 'Lips Hips Kiss'(KISSOFLIFE Choreography) l @MusicBank KBS 250620",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2025-06-20"
+    },
+    {
+      "ytId": "MiQrg7C_w2E",
+      "group": "g10",
+      "title": "[MPD직캠] 키스오브라이프 직캠 4K 'Lips Hips Kiss' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2025.6.19",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2025-06-19"
+    },
+    {
+      "ytId": "tcEyRGgKZeQ",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE (키스오브라이프) - Heart of Gold | Show Champion | EP.559",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    },
+    {
+      "ytId": "y_slsUruY6g",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE(키스오브라이프) - Lips Hips Kiss | Show Champion | EP.559",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    },
+    {
+      "ytId": "xkjV7u21TWA",
+      "group": "g10",
+      "title": "[K-Choreo 8K] 키스오브라이프 직캠 'Lips Hips Kiss' (KISS OF LIFE Choreography) @MusicBank 250613",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2025-06-13"
+    },
+    {
+      "ytId": "YdtIvEjAbE8",
+      "group": "g10",
+      "title": "40초 요약으로 보는 키스오브라이프 'Lips Hips Kiss' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    },
+    {
+      "ytId": "OgXkwivh6mA",
+      "group": "g10",
+      "title": "[MPD직캠] 키스오브라이프 직캠 8K 'Lips Hips Kiss' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2025.6.12",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2025-06-12"
+    },
+    {
+      "ytId": "P6tHWWM6WWI",
+      "group": "g10",
+      "title": "[가요대제전] 키스오브라이프 – Igloo (KISS OF LIFE Fullcam) | Gayo Daejejeon 2024 | MBC250129",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2025-01-29"
+    },
+    {
+      "ytId": "2eTHDyR6gpk",
+      "group": "g10",
+      "title": "[K-Choreo 8K] 키스오브라이프 직캠 'INTRO + Get Loud' (KISS OF LIFE Choreography) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "JTNfwY3LL-0",
+      "group": "g10",
+      "title": "[K-Choreo 8K] 키스오브라이프 직캠 'INTRO + Sticky' (KISS OF LIFE Choreography) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "yQIgC-hLfrQ",
+      "group": "g10",
+      "title": "[K-Choreo 8K] 베이비복스 & 키스오브라이프 직캠 'INTRO + Killer' (Baby V.O.X & KISS OF LIFE) @가요대축제 글로벌페스티벌 241220",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-12-20"
+    },
+    {
+      "ytId": "-BRDIAg0RNU",
+      "group": "g10",
+      "title": "[#음중직캠] KISS OF LIFE (키스오브라이프) – Igloo FullCam | 쇼! 음악중심 | MBC241102방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-11-02"
+    },
+    {
+      "ytId": "Yt-_FP9Q5f0",
+      "group": "g10",
+      "title": "[K-Choreo 8K] 키스오브라이프 직캠 'Igloo' (KISS OF LIFE Choreography) @MusicBank 241101",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-11-01"
+    },
+    {
+      "ytId": "eHSshWjxP5E",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE(키스오브라이프) - Igloo | Show Champion | EP.537 | 241023",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-10-23"
+    },
+    {
+      "ytId": "yaQlpAqG75k",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE(키스오브라이프) - Get Loud | Show Champion | EP.537 | 241023",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-10-23"
+    },
+    {
+      "ytId": "zc45NBV_t68",
+      "group": "g10",
+      "title": "[#음중직캠] KISS OF LIFE (키스오브라이프) – Get Loud FullCam | 쇼! 음악중심 | MBC241019방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-10-19"
+    },
+    {
+      "ytId": "ghOAhunNO70",
+      "group": "g10",
+      "title": "[K-Choreo 8K] 키스오브라이프 직캠 'Get Loud' (KISS OF LIFE Choreography) @MusicBank 241018",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-10-18"
+    },
+    {
+      "ytId": "bAWFcWTlInM",
+      "group": "g10",
+      "title": "1분 요약으로 보는 키스오브라이프 'Get Loud' 직캠",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    },
+    {
+      "ytId": "PElxvIH75Gk",
+      "group": "g10",
+      "title": "[MPD직캠] 키스오브라이프 직캠 8K 'Get Loud' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2024.10.17",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-10-17"
+    },
+    {
+      "ytId": "njomkJjrzMw",
+      "group": "g10",
+      "title": "[2024 가요대전 썸머 4K] 키스오브라이프 'Intro + Sticky' (KISS OF LIFE FullCam)│@SBS GayoDaejeon 240726",
+      "reason": "방송일과 실제 공연일 대조 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-07-26"
+    },
+    {
+      "ytId": "46xsHUXv-jA",
+      "group": "g10",
+      "title": "[주간아 직캠] 키스오브라이프(KISS OF LIFE)의 '다짜고짜 2배속 댄스 신고식' (4K 직캠 Ver.) l #Sticky #TeQuiero l EP.672",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    },
+    {
+      "ytId": "l4Yk-LICBdk",
+      "group": "g10",
+      "title": "[#음중직캠] KISS OF LIFE (키스 오브 라이프) – Sticky | 쇼! 음악중심 | MBC240720방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-07-20"
+    },
+    {
+      "ytId": "s0PxvDcsdhU",
+      "group": "g10",
+      "title": "[K-Choreo 8K] 키스오브라이프 직캠 'Sticky' (KISS OF LIFE Choreography) @MusicBank 240719",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-07-19"
+    },
+    {
+      "ytId": "As085gmAwE0",
+      "group": "g10",
+      "title": "[MPD직캠] 키스오브라이프 직캠 4K 'Sticky' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2024.7.18",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-07-18"
+    },
+    {
+      "ytId": "dQd-inYa06s",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE(키스 오브 라이프) - Te Quiero | Show Champion | EP.526 | 240717",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-07-17"
+    },
+    {
+      "ytId": "crDacH1TQq8",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE(키스 오브 라이프) - Sticky | Show Champion | EP.526 | 240717",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-07-17"
+    },
+    {
+      "ytId": "BL4lxsNqVaM",
+      "group": "g10",
+      "title": "[#음중직캠] KISS OF LIFE (키스 오브 라이프) – Sticky | 쇼! 음악중심 | MBC240713방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-07-13"
+    },
+    {
+      "ytId": "S9TPF0OKRhA",
+      "group": "g10",
+      "title": "[MPD직캠] 키스오브라이프 직캠 4K 'Sticky' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2024.7.11",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-07-11"
+    },
+    {
+      "ytId": "bqVYQWVQGcs",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE(키스 오브 라이프) - Sticky | Show Champion | EP.525 | 240710",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-07-10"
+    },
+    {
+      "ytId": "j_MoPaVHEi4",
+      "group": "g10",
+      "title": "[#음중직캠] KISS OF LIFE (키스 오브 라이프) – Sticky | 쇼! 음악중심 | MBC240706방송",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-07-06"
+    },
+    {
+      "ytId": "bQ8szh7_M-M",
+      "group": "g10",
+      "title": "[MPD직캠] 키스오브라이프 직캠 8K 'Sticky' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2024.7.4",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-07-04"
+    },
+    {
+      "ytId": "pe3Ls0HU4v4",
+      "group": "g10",
+      "title": "[MPD직캠] 키스오브라이프 직캠 4K 'Midas Touch' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2024.4.18",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-04-18"
+    },
+    {
+      "ytId": "E6veYLWuGgU",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE - Midas Touch (키스오브라이프 - 미다스 터치) | Show Champion | EP.514 | 240417",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-04-17"
+    },
+    {
+      "ytId": "wk2sWouyzx4",
+      "group": "g10",
+      "title": "[MPD직캠] 키스오브라이프 직캠 4K 'Midas Touch' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2024.4.11",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-04-11"
+    },
+    {
+      "ytId": "dupWJD8-1kk",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE - Midas Touch (키스오브라이프 - 미다스 터치) | Show Champion | EP.513 | 240410",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-04-10"
+    },
+    {
+      "ytId": "kNahJj-T7j0",
+      "group": "g10",
+      "title": "[주간아 직캠] 키스오브라이프(KISS OF LIFE)의 K-POP 랜덤 플레이 댄스 (4K 직캠 Ver.) l #Midas_Touch #Bad_News 등 l EP.657",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    },
+    {
+      "ytId": "CLOAWZSJE3I",
+      "group": "g10",
+      "title": "[MPD직캠] 키스오브라이프 직캠 8K 'Midas Touch' (KISS OF LIFE FanCam) | @MCOUNTDOWN_2024.4.4",
+      "reason": "멤버 확인 필요",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life",
+      "titleDate": "2024-04-04"
+    },
+    {
+      "ytId": "NwAj0LOMe44",
+      "group": "g10",
+      "title": "[흰빽캠 4K] KISS OF LIFE 컴백 기념 ✨아이돌 표정 집중 탐구 직캠✨ KISS OF LIFE (키스오브라이프) - Bad News l #주간아이돌 l EP.637",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    },
+    {
+      "ytId": "cNjvoWnZZ1M",
+      "group": "g10",
+      "title": "[주간아 직캠] 키스오브라이프(KISS OF LIFE)의 K-POP 랜덤 플레이 댄스 (4K 직캠 Ver.) l #YouandMe #Spicy #Baddie 등 l EP.637",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    },
+    {
+      "ytId": "NZ5fpzgssfA",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE - Shhh (키스오브라이프 - 쉿) l Show Champion l EP.485",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    },
+    {
+      "ytId": "mrm7Z6QHS5Q",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE - Bye My Neverland (키스 오브 라이프 - 안녕,네버랜드) | Show Champion | EP.483",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    },
+    {
+      "ytId": "cUil1IFa-IM",
+      "group": "g10",
+      "title": "[쇼챔직캠 4K] KISS OF LIFE - Shhh (키스 오브 라이프 - 쉿) l Show Champion l EP.483",
+      "reason": "제목에 공연 날짜 없음",
+      "source": "https://zzalbox.com/en/fancam/group/kiss-of-life"
+    }
+  ]
+}
