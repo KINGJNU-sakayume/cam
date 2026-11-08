@@ -16790,6 +16790,29 @@
         "g8s13"
       ],
       "note": ""
+    },
+    {
+      "id": "e1067",
+      "groupId": "g7",
+      "date": "2025-12-25",
+      "show": "SBS 가요대전",
+      "label": "",
+      "setlist": [
+        "g7s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1068",
+      "groupId": "g8",
+      "date": "2025-12-25",
+      "show": "SBS 가요대전",
+      "label": "",
+      "setlist": [
+        "g8s10",
+        "g8s11"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -304176,6 +304199,323 @@
         "4K"
       ],
       "title": "250727 SBS 가요대전 'DRIP + HOT SAUCE' AHYEON 아현 직캠 (4K)",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16387",
+      "ytId": "UK2o1LSqFAE",
+      "eventId": "e1067",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 있지 유나 'INTRO + TUNNEL VISION (Remix)' (ITZY YUNA FanCam) @SBS GayoDaejeon 251225",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16388",
+      "ytId": "WeFQuiSbhVk",
+      "eventId": "e1067",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 있지 류진 'INTRO + TUNNEL VISION (Remix)' (ITZY RYUJIN FanCam) @SBS GayoDaejeon 251225",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16389",
+      "ytId": "RJe8cphv_Bw",
+      "eventId": "e1067",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 ITZY RYUJIN 류진 Intro + TUNNEL VISION Fancam 직캠 @ SBS 가요대전 GAYO DAEJEON",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16390",
+      "ytId": "OszFo_HTEnM",
+      "eventId": "e1067",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 ITZY RYUJIN 'TUNNEL VISION' fancam 있지 류진 직캠 @ SBS 가요대전",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16391",
+      "ytId": "iR3pombYXCw",
+      "eventId": "e1067",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251225 TUNNEL VISION -YEJI FOCUS 직캠 [4K] 있지 예지 ITZY FANCAM@SBS Gayo Daejeon 가요대전",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16392",
+      "ytId": "JTbayp0L50g",
+      "eventId": "e1067",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251225 있지 예지 직캠 4K 'TUNNEL VISION' (ITZY YEJI FANCAM) | SBS Gayo Daejeon 2025",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16393",
+      "ytId": "Dr5K56vIGMc",
+      "eventId": "e1067",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 있지 예지 'INTRO + TUNNEL VISION (Remix)' (ITZY YEJI FanCam) @SBS GayoDaejeon 251225",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16394",
+      "ytId": "Pg6hKBh6Dg4",
+      "eventId": "e1067",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251225 〖4K〗SBS Gayo Daejeon ITZY CHAERYEONG FOCUS TUNNEL VISION 채령 직캠",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16395",
+      "ytId": "in83gtdK29Q",
+      "eventId": "e1068",
+      "songs": [
+        {
+          "songId": "g8s10",
+          "t": 0
+        },
+        {
+          "songId": "g8s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 베이비몬스터 'WE GO UP + PSYCHO' (BABYMONSTER FullCam) @SBS GayoDaejeon 251225",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16396",
+      "ytId": "W6hRxeHYZ1I",
+      "eventId": "e1068",
+      "songs": [
+        {
+          "songId": "g8s10",
+          "t": 0
+        },
+        {
+          "songId": "g8s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 베이비몬스터 치키타 'WE GO UP + PSYCHO' (BABYMONSTER CHIQUITA FanCam) @SBS GayoDaejeon 251225",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16397",
+      "ytId": "ChpgsyU2lls",
+      "eventId": "e1068",
+      "songs": [
+        {
+          "songId": "g8s10",
+          "t": 0
+        },
+        {
+          "songId": "g8s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 베이비몬스터 아현 'WE GO UP + PSYCHO' (BABYMONSTER AHYEON FanCam) @SBS GayoDaejeon 251225",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16398",
+      "ytId": "vr6oUKLOs00",
+      "eventId": "e1068",
+      "songs": [
+        {
+          "songId": "g8s10",
+          "t": 0
+        },
+        {
+          "songId": "g8s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 BABYMONSTER ASA 베이비몬스터 아사 'WE GO UP + PSYCHO' FANCAM 직캠 | SBS 가요대전 GayoDaejeon",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v16399",
+      "ytId": "BG2tKAdecD0",
+      "eventId": "e1068",
+      "songs": [
+        {
+          "songId": "g8s10",
+          "t": 0
+        },
+        {
+          "songId": "g8s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 베이비몬스터 아사 'WE GO UP + PSYCHO' (BABYMONSTER ASA FanCam) @SBS GayoDaejeon 251225",
       "channel": "",
       "pin": false,
       "gone": false
