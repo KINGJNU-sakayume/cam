@@ -146,6 +146,9 @@ if (flags.deep) {
     const [gid, day] = k.split(' ');
     const g = groups.find((x) => x.id === gid);
     if (!g) continue;
+    // 이번에 찾는 기간의 날짜만(같은 폴더에 다른 기간 결과가 쌓여 있어도)
+    const rg = ranges.find((x) => x.g === g);
+    if (!flags.gaps && rg && (day < rg.from || day > rg.to)) continue;
     // --full: 활동 종료 멤버도(옛 날짜엔 활동 중이었을 수 있음), 같은 이름이 다른 그룹에도 있으니 그룹명을 붙인 검색도
     for (const m of g.members.filter((x) => flags.full || x.active !== false)) {
       deep.push({ g, day, q: `${m.name} 직캠 ${yymmdd(day)}`, pages: 3 });
