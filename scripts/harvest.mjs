@@ -112,14 +112,24 @@ let failedQ = 0;
 const runQueries = async (list, label) => {
   const todo = list.filter((x) => !doneQ.has(x.q));
   console.log(`${label}: 검색 ${todo.length}개 (이미 한 것 ${list.length - todo.length}개 건너뜀, 동시 ${JOBS}개)`);
+  // found.json을 먼저 쓰고 done.txt에 남긴다(중간에 끊겨도 done에 있는 검색의 결과는 found에 있게)
+  let pend = [];
+  const flush = () => {
+    if (!pend.length) return;
+    writeFileSync(join(OUT, 'found.json'), JSON.stringify(found));
+    appendFileSync(doneFile, pend.map((q) => `${q}\n`).join(''));
+    pend = [];
+  };
   await pool(todo, JOBS, async (x) => {
     await new Promise((r) => setTimeout(r, Math.random() * 400));
     const r = await search(x.q, { pages: x.pages });
     if (!r) { failedQ++; return; } // 실패한 검색은 done에 안 남겨 다음에 다시
     for (const v of r) if (!found[v.id]) found[v.id] = { ...v, g: x.g.id, day: x.day };
     doneQ.add(x.q);
-    appendFileSync(doneFile, `${x.q}\n`);
+    pend.push(x.q);
+    if (pend.length >= 100) flush();
   });
+  flush();
   writeFileSync(join(OUT, 'found.json'), JSON.stringify(found));
   if (failedQ) console.log(`  ! 검색 ${failedQ}개 실패(유튜브 접속·차단 확인). 같은 명령을 다시 돌리면 실패한 것만 다시 찾아요`);
   if (todo.length && failedQ === todo.length) { console.error('✗ 모든 검색이 실패했어요. www.youtube.com에 접속할 수 있는 곳에서 돌려 주세요'); process.exit(3); }
