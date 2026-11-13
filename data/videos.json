@@ -19,7 +19,7 @@
           ],
           "order": 1,
           "active": true,
-          "color": "#c2553f"
+          "color": "#e4007f"
         },
         {
           "id": "g1m2",
@@ -30,7 +30,7 @@
           ],
           "order": 2,
           "active": true,
-          "color": "#2f7d6d"
+          "color": "#1f5bd6"
         },
         {
           "id": "g1m3",
@@ -41,7 +41,7 @@
           ],
           "order": 3,
           "active": true,
-          "color": "#3d6fb6"
+          "color": "#2e9e4f"
         },
         {
           "id": "g1m4",
@@ -55,7 +55,7 @@
           ],
           "order": 4,
           "active": true,
-          "color": "#b07f22"
+          "color": "#e60023"
         },
         {
           "id": "g1m5",
@@ -66,7 +66,7 @@
           ],
           "order": 5,
           "active": true,
-          "color": "#8a5aa8"
+          "color": "#00b2e3"
         },
         {
           "id": "g1m6",
@@ -77,7 +77,7 @@
           ],
           "order": 6,
           "active": true,
-          "color": "#c0567e"
+          "color": "#f2c200"
         }
       ],
       "songs": [
@@ -427,7 +427,7 @@
           ],
           "order": 1,
           "active": true,
-          "color": "#c2553f"
+          "color": "#ffffff"
         },
         {
           "id": "g2m2",
@@ -438,7 +438,7 @@
           ],
           "order": 2,
           "active": true,
-          "color": "#2f7d6d"
+          "color": "#c6dcf3"
         },
         {
           "id": "g2m3",
@@ -449,7 +449,7 @@
           ],
           "order": 3,
           "active": true,
-          "color": "#3d6fb6"
+          "color": "#083090"
         },
         {
           "id": "g2m4",
@@ -460,7 +460,7 @@
           ],
           "order": 4,
           "active": true,
-          "color": "#b07f22"
+          "color": "#fff677"
         },
         {
           "id": "g2m5",
@@ -471,7 +471,7 @@
           ],
           "order": 5,
           "active": true,
-          "color": "#8a5aa8"
+          "color": "#e8364c"
         },
         {
           "id": "g2m6",
@@ -482,7 +482,7 @@
           ],
           "order": 6,
           "active": true,
-          "color": "#c0567e"
+          "color": "#f4afcc"
         },
         {
           "id": "g2m7",
@@ -495,7 +495,7 @@
           ],
           "order": 7,
           "active": false,
-          "color": "#4f8a3c"
+          "color": "#c9b8da"
         }
       ],
       "songs": [
@@ -2349,7 +2349,7 @@
           ],
           "order": 1,
           "active": true,
-          "color": "#c2553f"
+          "color": "#1e90ff"
         },
         {
           "id": "g6m2",
@@ -2365,7 +2365,7 @@
           ],
           "order": 2,
           "active": true,
-          "color": "#2f7d6d"
+          "color": "#bf00ff"
         },
         {
           "id": "g6m3",
@@ -2379,7 +2379,7 @@
           ],
           "order": 3,
           "active": true,
-          "color": "#3d6fb6"
+          "color": "#fafa33"
         },
         {
           "id": "g6m4",
@@ -2393,7 +2393,7 @@
           ],
           "order": 4,
           "active": true,
-          "color": "#b07f22"
+          "color": "#66cc33"
         },
         {
           "id": "g6m5",
@@ -2407,7 +2407,7 @@
           ],
           "order": 5,
           "active": true,
-          "color": "#8a5aa8"
+          "color": "#ec118f"
         },
         {
           "id": "g6m6",
@@ -2421,7 +2421,7 @@
           ],
           "order": 6,
           "active": true,
-          "color": "#c0567e"
+          "color": "#ef98aa"
         },
         {
           "id": "g6m7",
@@ -2435,7 +2435,7 @@
           ],
           "order": 7,
           "active": true,
-          "color": "#4f8a3c"
+          "color": "#5f9ea0"
         },
         {
           "id": "g6m8",
@@ -2449,7 +2449,7 @@
           ],
           "order": 8,
           "active": true,
-          "color": "#7a6a58"
+          "color": "#ffe4e1"
         },
         {
           "id": "g6m9",
@@ -2463,7 +2463,7 @@
           ],
           "order": 9,
           "active": true,
-          "color": "#c2553f"
+          "color": "#ffcc33"
         },
         {
           "id": "g6m10",
@@ -2477,7 +2477,7 @@
           ],
           "order": 10,
           "active": true,
-          "color": "#2f7d6d"
+          "color": "#fba0e3"
         },
         {
           "id": "g6m11",
@@ -2491,7 +2491,7 @@
           ],
           "order": 11,
           "active": true,
-          "color": "#3d6fb6"
+          "color": "#ffdf00"
         },
         {
           "id": "g6m12",
@@ -2505,7 +2505,7 @@
           ],
           "order": 12,
           "active": true,
-          "color": "#b07f22"
+          "color": "#4169e1"
         },
         {
           "id": "g6m13",
@@ -2518,7 +2518,7 @@
           ],
           "order": 13,
           "active": true,
-          "color": "#8a5aa8"
+          "color": "#ffa343"
         },
         {
           "id": "g6m14",
@@ -2532,7 +2532,7 @@
           ],
           "order": 14,
           "active": true,
-          "color": "#c0567e"
+          "color": "#1034a6"
         },
         {
           "id": "g6m15",
@@ -2545,7 +2545,7 @@
           ],
           "order": 15,
           "active": true,
-          "color": "#4f8a3c"
+          "color": "#c80815"
         },
         {
           "id": "g6m16",
@@ -2557,7 +2557,7 @@
           ],
           "order": 16,
           "active": true,
-          "color": "#7a6a58"
+          "color": "#ffa089"
         },
         {
           "id": "g6m17",
@@ -2569,7 +2569,7 @@
           ],
           "order": 17,
           "active": true,
-          "color": "#c2553f"
+          "color": "#ab62b4"
         },
         {
           "id": "g6m18",
@@ -2580,7 +2580,7 @@
           ],
           "order": 18,
           "active": true,
-          "color": "#2f7d6d"
+          "color": "#b7f54a"
         },
         {
           "id": "g6m19",
@@ -2594,7 +2594,7 @@
           ],
           "order": 19,
           "active": true,
-          "color": "#3d6fb6"
+          "color": "#52d9bb"
         },
         {
           "id": "g6m20",
@@ -2608,7 +2608,7 @@
           ],
           "order": 20,
           "active": true,
-          "color": "#b07f22"
+          "color": "#ff428a"
         },
         {
           "id": "g6m21",
@@ -2622,7 +2622,7 @@
           ],
           "order": 21,
           "active": true,
-          "color": "#8a5aa8"
+          "color": "#c7a3df"
         },
         {
           "id": "g6m22",
@@ -2634,7 +2634,7 @@
           ],
           "order": 22,
           "active": true,
-          "color": "#c0567e"
+          "color": "#7bba8d"
         },
         {
           "id": "g6m23",
@@ -2648,7 +2648,7 @@
           ],
           "order": 23,
           "active": true,
-          "color": "#4f8a3c"
+          "color": "#cff4ff"
         },
         {
           "id": "g6m24",
@@ -2662,7 +2662,7 @@
           ],
           "order": 24,
           "active": true,
-          "color": "#7a6a58"
+          "color": "#feaa61"
         }
       ],
       "songs": [
@@ -4392,7 +4392,7 @@
           ],
           "order": 1,
           "active": true,
-          "color": "#c2553f"
+          "color": "#d7263d"
         },
         {
           "id": "g10m2",
@@ -4406,7 +4406,7 @@
           ],
           "order": 2,
           "active": true,
-          "color": "#2f7d6d"
+          "color": "#1a1a1a"
         },
         {
           "id": "g10m3",
@@ -4420,7 +4420,7 @@
           ],
           "order": 3,
           "active": true,
-          "color": "#3d6fb6"
+          "color": "#f06fa6"
         },
         {
           "id": "g10m4",
@@ -4434,7 +4434,7 @@
           ],
           "order": 4,
           "active": true,
-          "color": "#b07f22"
+          "color": "#2f6fd6"
         }
       ],
       "songs": [
@@ -254645,7 +254645,12 @@
       "id": "v14092",
       "ytId": "wmz9aMdAEfs",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g7m3"
@@ -254663,7 +254668,12 @@
       "id": "v14093",
       "ytId": "RRUO_8ojtfg",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": null,
@@ -254679,7 +254689,12 @@
       "id": "v14094",
       "ytId": "yQ20Q50nx2U",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g7m3"
@@ -254697,7 +254712,12 @@
       "id": "v14095",
       "ytId": "Q7ClPbgJmnY",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g7m4"
@@ -254713,7 +254733,12 @@
       "id": "v14096",
       "ytId": "R-DhqAEWw1M",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g7m3"
@@ -254745,7 +254770,12 @@
       "id": "v14098",
       "ytId": "DqV5EF0DYY0",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": null,
@@ -254761,7 +254791,12 @@
       "id": "v14099",
       "ytId": "9kWOahHrjHM",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": null,
@@ -254777,7 +254812,12 @@
       "id": "v14100",
       "ytId": "THJdaTgBYTg",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": null,
@@ -254793,7 +254833,12 @@
       "id": "v14101",
       "ytId": "52gmfgnm2l8",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": null,
@@ -254832,7 +254877,12 @@
       "id": "v14103",
       "ytId": "fsxmaAvU6bg",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g7m3"
@@ -254850,7 +254900,12 @@
       "id": "v14104",
       "ytId": "fUJDbt5H7eg",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g7m3"
@@ -283621,7 +283676,28 @@
       "id": "v15369",
       "ytId": "OUFk6G-ScIU",
       "eventId": "e863",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g3s7",
+          "t": 0
+        },
+        {
+          "songId": "g3s1",
+          "t": 0
+        },
+        {
+          "songId": "g3s6",
+          "t": 0
+        },
+        {
+          "songId": "g3s8",
+          "t": 0
+        },
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": null,
@@ -283696,7 +283772,28 @@
       "id": "v15373",
       "ytId": "if7Sp2xY5Qc",
       "eventId": "e864",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g4s5",
+          "t": 0
+        },
+        {
+          "songId": "g4s9",
+          "t": 0
+        },
+        {
+          "songId": "g4s15",
+          "t": 0
+        },
+        {
+          "songId": "g4s10",
+          "t": 0
+        },
+        {
+          "songId": "g4s4",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": null,
@@ -288185,7 +288282,20 @@
       "id": "v15581",
       "ytId": "wKLPqAuqnSA",
       "eventId": "e918",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": "fan",
@@ -302101,7 +302211,20 @@
       "id": "v16197",
       "ytId": "MyyCNBVW5pI",
       "eventId": "e1010",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        },
+        {
+          "songId": "g9s17",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g9m1"
@@ -302119,7 +302242,20 @@
       "id": "v16198",
       "ytId": "yH1T0ysnEQU",
       "eventId": "e1010",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        },
+        {
+          "songId": "g9s17",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g9m1"
@@ -302135,7 +302271,20 @@
       "id": "v16199",
       "ytId": "kmI-6DE4kD8",
       "eventId": "e1010",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        },
+        {
+          "songId": "g9s17",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g9m1"
