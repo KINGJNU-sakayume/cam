@@ -19201,6 +19201,52 @@
         "g5s67"
       ],
       "note": ""
+    },
+    {
+      "id": "e1255",
+      "groupId": "g5",
+      "date": "2024-02-18",
+      "show": "한터뮤직어워즈",
+      "label": "",
+      "setlist": [
+        "g5s6",
+        "g5s59"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1256",
+      "groupId": "g5",
+      "date": "2024-02-22",
+      "show": "SMTOWN LIVE",
+      "label": "",
+      "setlist": [
+        "g5s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1257",
+      "groupId": "g5",
+      "date": "2024-02-21",
+      "show": "SMTOWN LIVE",
+      "label": "",
+      "setlist": [
+        "g5s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1258",
+      "groupId": "g5",
+      "date": "2024-03-20",
+      "show": "2024 MLB World Tour Seoul Series",
+      "label": "",
+      "setlist": [
+        "g5s6",
+        "g5s2"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -331747,6 +331793,326 @@
       "tags": [],
       "title": "240128 aespa GMO SONIC 2024 “Thirsty”",
       "channel": "pana",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17519",
+      "ytId": "cLySAfCLuKg",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240218 한터뮤직어워즈2023 - Drama 카리나 Karina 에스파 aespa FANCAM 직캠",
+      "channel": "notes0411",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17520",
+      "ytId": "VHQsdqy2s80",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240218 에스파 aespa 윈터 winter HMA 한터뮤직어워즈 - 드라마 Drama 직캠 fancam",
+      "channel": "hiver",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17521",
+      "ytId": "MncHAjxfOUc",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240218 한터뮤직어워즈 에스파 aespa 지젤 GISELLE 드라마 Drama 직캠 fancam",
+      "channel": "flow.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17522",
+      "ytId": "84Pooe8kH5M",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240218 Hanteo Music Awards Aespa Karina Drama fancam 카리나 폰직캠",
+      "channel": "온리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17523",
+      "ytId": "VwEcOwMH-ME",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "에스파 카리나 드라마 한터뮤직어워즈 aespa karina drama hanteo 240218",
+      "channel": "네오 NEO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17524",
+      "ytId": "5SkP0fZm3PM",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240218  한터뮤직어워즈 HMA aespa DRAMA 윈터 직캠 WINTER focus",
+      "channel": "melted",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17525",
+      "ytId": "DLap6TAue6k",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g5s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240218 aespa Trick or Trick (닝닝위주) 한터뮤직어워즈",
+      "channel": "기억저장소",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17526",
+      "ytId": "Gevnn7Uf3v0",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240222 SMTOWN LVE 2024 SMCU PALACE TOKYO | AESPA DRAMA WINTER focus",
+      "channel": "Vitaminjeong01 ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17527",
+      "ytId": "F8lxlAOTxVg",
+      "eventId": "e1255",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa(에스파) - Trick or Trick+Drama 240218 | 31st HMAs 2023",
+      "channel": "HANTEO CHART [한터차트]",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17528",
+      "ytId": "37M2LTpV1rM",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g5s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240218 에스파 윈터 aespa WINTER Trick or Trick 직캠 FANCAM @HMA2023",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17529",
+      "ytId": "cdoJcEZyIXA",
+      "eventId": "e1255",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240218 aespa NINGNING - Trick or Trick + Drama Fancam @ HMAs 2023",
+      "channel": "quokkabao",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17530",
+      "ytId": "-43Nlw9ag_Q",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240221 AESPA NINGNING DRAMA- SMT",
+      "channel": "HEDIO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17531",
+      "ytId": "ePC-MR4YXdk",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240320 MLB SEOUL SERIES - DRAMA 에스파 닝닝 직캠 aespa NingNing focus",
+      "channel": "Cerise",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17532",
+      "ytId": "_jGJl8Z5WWU",
+      "eventId": "e1258",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240320 에스파 카리나 aespa KARINA Drama+Next Level 직캠 FANCAM @MLBWORLDTOUR_SEOUL_2024",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17533",
+      "ytId": "pOaRWifhAsQ",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240320 MLB SEOUL SERIES - 'NEXT LEVEL' 에스파 윈터 직캠 aespa WINTER FOCUS fancam",
+      "channel": "White.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17534",
+      "ytId": "cKB0sNM-RR8",
+      "eventId": "e1258",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240320 aespa(에스파) 'Intro Performance + Drama + Next Level' @ 2024 MLB WORLD TOUR SEOUL SERIES",
+      "channel": "JeunJi 전지 K-POP",
       "pin": false,
       "gone": false
     }
