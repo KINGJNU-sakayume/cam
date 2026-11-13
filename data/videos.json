@@ -254645,7 +254645,12 @@
       "id": "v14092",
       "ytId": "wmz9aMdAEfs",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g7m3"
@@ -254663,7 +254668,12 @@
       "id": "v14093",
       "ytId": "RRUO_8ojtfg",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": null,
@@ -254679,7 +254689,12 @@
       "id": "v14094",
       "ytId": "yQ20Q50nx2U",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g7m3"
@@ -254697,7 +254712,12 @@
       "id": "v14095",
       "ytId": "Q7ClPbgJmnY",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g7m4"
@@ -254713,7 +254733,12 @@
       "id": "v14096",
       "ytId": "R-DhqAEWw1M",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g7m3"
@@ -254745,7 +254770,12 @@
       "id": "v14098",
       "ytId": "DqV5EF0DYY0",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": null,
@@ -254761,7 +254791,12 @@
       "id": "v14099",
       "ytId": "9kWOahHrjHM",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": null,
@@ -254777,7 +254812,12 @@
       "id": "v14100",
       "ytId": "THJdaTgBYTg",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": null,
@@ -254793,7 +254833,12 @@
       "id": "v14101",
       "ytId": "52gmfgnm2l8",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": null,
@@ -254832,7 +254877,12 @@
       "id": "v14103",
       "ytId": "fsxmaAvU6bg",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g7m3"
@@ -254850,7 +254900,12 @@
       "id": "v14104",
       "ytId": "fUJDbt5H7eg",
       "eventId": "e786",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g7m3"
@@ -283621,7 +283676,28 @@
       "id": "v15369",
       "ytId": "OUFk6G-ScIU",
       "eventId": "e863",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g3s7",
+          "t": 0
+        },
+        {
+          "songId": "g3s1",
+          "t": 0
+        },
+        {
+          "songId": "g3s6",
+          "t": 0
+        },
+        {
+          "songId": "g3s8",
+          "t": 0
+        },
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": null,
@@ -283696,7 +283772,28 @@
       "id": "v15373",
       "ytId": "if7Sp2xY5Qc",
       "eventId": "e864",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g4s5",
+          "t": 0
+        },
+        {
+          "songId": "g4s9",
+          "t": 0
+        },
+        {
+          "songId": "g4s15",
+          "t": 0
+        },
+        {
+          "songId": "g4s10",
+          "t": 0
+        },
+        {
+          "songId": "g4s4",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": null,
@@ -288185,7 +288282,20 @@
       "id": "v15581",
       "ytId": "wKLPqAuqnSA",
       "eventId": "e918",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
       "type": "full",
       "memberIds": [],
       "source": "fan",
@@ -302101,7 +302211,20 @@
       "id": "v16197",
       "ytId": "MyyCNBVW5pI",
       "eventId": "e1010",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        },
+        {
+          "songId": "g9s17",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g9m1"
@@ -302119,7 +302242,20 @@
       "id": "v16198",
       "ytId": "yH1T0ysnEQU",
       "eventId": "e1010",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        },
+        {
+          "songId": "g9s17",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g9m1"
@@ -302135,7 +302271,20 @@
       "id": "v16199",
       "ytId": "kmI-6DE4kD8",
       "eventId": "e1010",
-      "songs": [],
+      "songs": [
+        {
+          "songId": "g9s7",
+          "t": 0
+        },
+        {
+          "songId": "g9s17",
+          "t": 0
+        },
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
       "type": "fancam",
       "memberIds": [
         "g9m1"
