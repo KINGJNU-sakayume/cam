@@ -2328,6 +2328,13 @@
           "order": 66,
           "release": "",
           "kind": "cover"
+        },
+        {
+          "id": "g5s67",
+          "title": "Hold on Tight",
+          "aliases": [],
+          "order": 67,
+          "release": ""
         }
       ]
     },
@@ -19167,6 +19174,31 @@
       "setlist": [
         "g8s10",
         "g8s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1253",
+      "groupId": "g5",
+      "date": "2024-01-14",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g5s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1254",
+      "groupId": "g5",
+      "date": "2024-01-28",
+      "show": "GMO SONIC 2024",
+      "label": "",
+      "setlist": [
+        "g5s57",
+        "g5s54",
+        "g5s5",
+        "g5s67"
       ],
       "note": ""
     }
@@ -331582,6 +331614,139 @@
       ],
       "title": "[2025 가요대전 4K] 베이비몬스터 'WE GO UP + PSYCHO' (BABYMONSTER FullCam) @SBS GayoDaejeon 251225",
       "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17512",
+      "ytId": "HOF7Hh6iIO0",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "AESPA DRAMA 3RD WIN+ ENCORE 240114 SBS INKIGAYO VS JENNIE",
+      "channel": "Kpop Snorlax",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17513",
+      "ytId": "5yOrL6BXl4c",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g5s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[LIVE] aespa 에스파 '도깨비불 illusion' in JAPAN | GMO SONIC2024 240128",
+      "channel": "YUKarina_yes!",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17514",
+      "ytId": "nRBVoRVXliQ",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g5s54",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[LIVE] aespa 에스파 'Thirsty' in JAPAN | GMO SONIC2024 240128",
+      "channel": "YUKarina_yes!",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17515",
+      "ytId": "uUrli5TPyoQ",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g5s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[LIVE] aespa 에스파 'Spicy' in JAPAN | GMO SONIC2024 240128",
+      "channel": "YUKarina_yes!",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17516",
+      "ytId": "l9Usi5m1_ME",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g5s67",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[LIVE] aespa 에스파 'Hold on Tight' in JAPAN | GMO SONIC2024 240128",
+      "channel": "YUKarina_yes!",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17517",
+      "ytId": "JAVRx_-dVeY",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g5s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240128 aespa GMO SONIC 2024 “Illusion”",
+      "channel": "pana",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17518",
+      "ytId": "Mgfpj0xqojY",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g5s54",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240128 aespa GMO SONIC 2024 “Thirsty”",
+      "channel": "pana",
       "pin": false,
       "gone": false
     }
