@@ -7,7 +7,6 @@
 //   node scripts/harvest.mjs --gaps --all-events              음악 방송 말고 축제·콘서트·행사 공연까지
 //   node scripts/harvest.mjs 2024-01-01 2024-06-30 --group g11 --full   빠짐없이: 날짜마다 직캠·fancam 검색을 더하고,
 //                                                             후보가 1개라도 있는 날은 모든 멤버(활동 종료 포함) × 날짜로 찾기
-//   --light   멤버별 검색을 멤버마다 "그룹명 멤버 직캠 날짜" 하나만(검색량을 1/3로)
 //   --min N   --deep의 멤버별 검색을 시작할 후보 수(기본 5, --full이면 1)
 //
 // 결과(<폴더>, 기본 .cache/harvest):
@@ -152,8 +151,6 @@ if (flags.deep) {
     if (!flags.gaps && rg && (day < rg.from || day > rg.to)) continue;
     // --full: 활동 종료 멤버도(옛 날짜엔 활동 중이었을 수 있음), 같은 이름이 다른 그룹에도 있으니 그룹명을 붙인 검색도
     for (const m of g.members.filter((x) => flags.full || x.active !== false)) {
-      // --light: 멤버마다 "그룹명 멤버 직캠 날짜" 하나만(유튜브가 검색량을 막을 때)
-      if (flags.light) { deep.push({ g, day, q: `${g.name} ${m.name} 직캠 ${yymmdd(day)}`, pages: 2 }); continue; }
       deep.push({ g, day, q: `${m.name} 직캠 ${yymmdd(day)}`, pages: 3 });
       if (m.aliases?.[0]) deep.push({ g, day, q: `${m.aliases[0]} fancam ${yymmdd(day)}`, pages: 3 });
       if (flags.full) deep.push({ g, day, q: `${g.name} ${m.name} 직캠 ${yymmdd(day)}`, pages: 2 });
