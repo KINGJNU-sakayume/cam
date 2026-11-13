@@ -4783,6 +4783,283 @@
           "kind": "cover"
         }
       ]
+    },
+    {
+      "id": "g11",
+      "name": "르세라핌",
+      "en": "LE SSERAFIM",
+      "hue": 150,
+      "members": [
+        {
+          "id": "g11m1",
+          "name": "김채원",
+          "aliases": [
+            "KIM CHAEWON",
+            "Kim Chaewon",
+            "CHAEWON",
+            "Chaewon",
+            "채원"
+          ],
+          "order": 1,
+          "active": true,
+          "color": "#c2553f"
+        },
+        {
+          "id": "g11m2",
+          "name": "사쿠라",
+          "aliases": [
+            "SAKURA",
+            "Sakura",
+            "미야와키 사쿠라",
+            "MIYAWAKI SAKURA"
+          ],
+          "order": 2,
+          "active": true,
+          "color": "#2f7d6d"
+        },
+        {
+          "id": "g11m3",
+          "name": "허윤진",
+          "aliases": [
+            "HUH YUNJIN",
+            "Huh Yunjin",
+            "YUNJIN",
+            "Yunjin",
+            "윤진"
+          ],
+          "order": 3,
+          "active": true,
+          "color": "#3d6fb6"
+        },
+        {
+          "id": "g11m4",
+          "name": "카즈하",
+          "aliases": [
+            "KAZUHA",
+            "Kazuha",
+            "나카무라 카즈하"
+          ],
+          "order": 4,
+          "active": true,
+          "color": "#b07f22"
+        },
+        {
+          "id": "g11m5",
+          "name": "홍은채",
+          "aliases": [
+            "HONG EUNCHAE",
+            "Hong Eunchae",
+            "EUNCHAE",
+            "Eunchae",
+            "은채"
+          ],
+          "order": 5,
+          "active": true,
+          "color": "#8a5aa8"
+        },
+        {
+          "id": "g11m6",
+          "name": "김가람",
+          "aliases": [
+            "KIM GARAM",
+            "GARAM",
+            "Garam",
+            "가람"
+          ],
+          "order": 6,
+          "active": false,
+          "color": "#c0567e"
+        }
+      ],
+      "songs": [
+        {
+          "id": "g11s1",
+          "title": "FEARLESS",
+          "aliases": [
+            "피어리스"
+          ],
+          "order": 1,
+          "release": "2022-05-02"
+        },
+        {
+          "id": "g11s2",
+          "title": "ANTIFRAGILE",
+          "aliases": [
+            "안티프래자일"
+          ],
+          "order": 2,
+          "release": "2022-10-17"
+        },
+        {
+          "id": "g11s3",
+          "title": "UNFORGIVEN",
+          "aliases": [
+            "언포기븐"
+          ],
+          "order": 3,
+          "release": "2023-05-01"
+        },
+        {
+          "id": "g11s4",
+          "title": "Eve, Psyche & The Bluebeard's wife",
+          "aliases": [
+            "이브 프시케 그리고 푸른 수염의 아내",
+            "이브, 프시케 그리고 푸른 수염의 아내",
+            "EVE PSYCHE",
+            "Eve Psyche",
+            "푸른 수염"
+          ],
+          "order": 4,
+          "release": "2023-05-01"
+        },
+        {
+          "id": "g11s5",
+          "title": "Perfect Night",
+          "aliases": [
+            "퍼펙트 나이트"
+          ],
+          "order": 5,
+          "release": "2023-10-27"
+        },
+        {
+          "id": "g11s6",
+          "title": "EASY",
+          "aliases": [
+            "이지"
+          ],
+          "order": 6,
+          "release": "2024-02-19"
+        },
+        {
+          "id": "g11s7",
+          "title": "Smart",
+          "aliases": [
+            "스마트"
+          ],
+          "order": 7,
+          "release": "2024-02-19"
+        },
+        {
+          "id": "g11s8",
+          "title": "CRAZY",
+          "aliases": [
+            "크레이지"
+          ],
+          "order": 8,
+          "release": "2024-08-30"
+        },
+        {
+          "id": "g11s9",
+          "title": "1-800-hot-n-fun",
+          "aliases": [
+            "1800 hot n fun"
+          ],
+          "order": 9,
+          "release": "2024-08-30"
+        },
+        {
+          "id": "g11s10",
+          "title": "HOT",
+          "aliases": [
+            "핫"
+          ],
+          "order": 10,
+          "release": "2025-03-14"
+        },
+        {
+          "id": "g11s11",
+          "title": "Come Over",
+          "aliases": [
+            "컴 오버"
+          ],
+          "order": 11,
+          "release": "2025-03-14"
+        },
+        {
+          "id": "g11s12",
+          "title": "Ash",
+          "aliases": [
+            "애쉬"
+          ],
+          "order": 12,
+          "release": "2025-03-14"
+        },
+        {
+          "id": "g11s13",
+          "title": "DIFFERENT",
+          "aliases": [
+            "디퍼런트"
+          ],
+          "order": 13,
+          "release": "2025-06-24"
+        },
+        {
+          "id": "g11s14",
+          "title": "SPAGHETTI",
+          "aliases": [
+            "스파게티"
+          ],
+          "order": 14,
+          "release": "2025-10-24"
+        },
+        {
+          "id": "g11s15",
+          "title": "Pearlies (My oyster is the world)",
+          "aliases": [
+            "Pearlies",
+            "PEARLIES",
+            "펄리스"
+          ],
+          "order": 15,
+          "release": "2025-10-24"
+        },
+        {
+          "id": "g11s16",
+          "title": "CELEBRATION",
+          "aliases": [
+            "셀러브레이션"
+          ],
+          "order": 16,
+          "release": "2026-04-24"
+        },
+        {
+          "id": "g11s17",
+          "title": "BOOMPALA",
+          "aliases": [
+            "붐팔라"
+          ],
+          "order": 17,
+          "release": "2026-05-22"
+        },
+        {
+          "id": "g11s18",
+          "title": "ICONIC BY MISTAKE",
+          "aliases": [
+            "아이코닉 바이 미스테이크"
+          ],
+          "order": 18,
+          "release": "2026-06-12"
+        },
+        {
+          "id": "g11s19",
+          "title": "Made My Night",
+          "aliases": [
+            "메이드 마이 나이트",
+            "YOU JUST MADE MY NIGHT"
+          ],
+          "order": 19,
+          "release": "2026-09-11"
+        },
+        {
+          "id": "g11s20",
+          "title": "AEIOU",
+          "aliases": [
+            "에이이아이오유"
+          ],
+          "order": 20,
+          "release": "2026-09-11"
+        }
+      ]
     }
   ],
   "events": [
