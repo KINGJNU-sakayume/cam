@@ -40632,7 +40632,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v1216",
@@ -40651,7 +40651,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v1217",
@@ -41207,7 +41207,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 41%"
     },
     {
@@ -42470,7 +42470,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 3%"
     },
     {
@@ -53708,7 +53708,7 @@
       "title": "하츠투하츠 스텔라 15-LOVE 직캠 중앙대학교 다빈치캠버스 (260915)",
       "channel": "VAIL",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v2299",
@@ -53860,7 +53860,7 @@
       "title": "하츠투하츠 지우 STYLE 직캠 중앙대학교 다빈치캠버스 (260915)",
       "channel": "VAIL",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v2306",
@@ -54167,7 +54167,7 @@
       "title": "하츠투하츠 이안 FOCUS 직캠 중앙대학교 다빈치캠버스 (260915)",
       "channel": "VAIL",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v2320",
@@ -54209,7 +54209,7 @@
       "title": "하츠투하츠 이안 RUDE! 직캠 중앙대학교 다빈치캠버스 (260915)",
       "channel": "VAIL",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v2322",
@@ -55845,7 +55845,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 50%"
     },
     {
@@ -62829,7 +62829,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 37%"
     },
     {
@@ -67989,7 +67989,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v3434",
@@ -74334,7 +74334,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v4304",
@@ -77546,7 +77546,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 46%"
     },
     {
@@ -89846,7 +89846,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 48%"
     },
     {
@@ -91777,7 +91777,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v6468",
@@ -95094,7 +95094,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v6699",
@@ -95264,7 +95264,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 50%"
     },
     {
@@ -100866,7 +100866,7 @@
       "title": "[4k] 260303 HUFS Festival | Hearts2Hearts YUHA 'Rude' 직캠(H2H YUHA Focus)",
       "channel": "청람🎐",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "15% 35%"
     },
     {
@@ -101180,7 +101180,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "66% 35%"
     },
     {
@@ -102421,7 +102421,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 17%"
     },
     {
@@ -106238,7 +106238,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v7417",
@@ -112538,7 +112538,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 50%"
     },
     {
@@ -112553,7 +112553,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v7924",
@@ -112854,7 +112854,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 34%"
     },
     {
@@ -114058,7 +114058,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 50%"
     },
     {
@@ -115956,7 +115956,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 38%"
     },
     {
@@ -116063,7 +116063,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 33%"
     },
     {
@@ -117322,7 +117322,7 @@
       "title": "",
       "channel": "",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 24%"
     },
     {
@@ -120231,7 +120231,7 @@
       "title": "260822 에스파 카리나 직캠 TIMA Whiplash (AESPA KARINA FANCAM) #에스파 #aespa #카리나 #karina #winter #윈터 #shorts",
       "channel": "GSJS 외 2명",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v8331",
@@ -120377,7 +120377,7 @@
       "title": "260822 에스파 카리나 직캠 TIMA Supernova (AESPA KARINA FANCAM) #에스파 #aespa #카리나 #karina #winter #윈터 #shorts",
       "channel": "GSJS 외 2명",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v8337",
@@ -123365,7 +123365,7 @@
       "title": "260802 에스파 윈터 직캠 (AESPA WINTER FANCAM SWITCHBLADE) #aespa #에스파 #카리나 #윈터 #WINTER #lollapalooza",
       "channel": "GSJX 및 GSJE",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v8475",
@@ -123386,7 +123386,7 @@
       "title": "260802 에스파 카리나 직캠 (AESPA KARINA FANCAM LEMONADE) #aespa #에스파 #카리나 #KARINA #윈터 #WINTER #lollapalooza",
       "channel": "GSJX 및 GSJE",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v8476",
@@ -123407,7 +123407,7 @@
       "title": "260802 에스파 카리나 직캠 (AESPA KARINA FANCAM LEMONADE) #aespa #에스파 #카리나 #KARINA #윈터 #WINTER #lollapalooza",
       "channel": "GSJX 및 GSJE",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v8477",
@@ -123428,7 +123428,7 @@
       "title": "260802 에스파 윈터 직캠 (AESPA WINTER FANCAM SUPERNOVA) #aespa #에스파 #카리나 #윈터 #WINTER #KARINA #lollapalooza",
       "channel": "GSJX 및 GSJE",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v8478",
@@ -126595,7 +126595,7 @@
       "title": "260811 에스파 카리나 직캠 Serenade (AESPA KARINA FANCAM) #에스파 #aespa #카리나 #karina #winter #윈터",
       "channel": "GSJX 외 2명",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v8623",
@@ -127143,7 +127143,7 @@
       "title": "aespa KARINA (에스파 카리나) - 16bit  [SYNK : COMPLæXITY] [Mexico City] [4K] [260911]",
       "channel": "Photographleb",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v8649",
@@ -127211,7 +127211,7 @@
       "title": "aespa (에스파) - SERENADE (KARINA & WINTER) [SYNK : COMPLæXITY] [Mexico City] [4K] [260911]",
       "channel": "Photographleb",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "81% 35%"
     },
     {
@@ -127449,7 +127449,7 @@
       "title": "aespa GISELLE (에스파 지젤) - BYEB4HELLO  [SYNK : COMPLæXITY] [Mexico City] [4K] [260911]",
       "channel": "Photographleb",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "62% 35%"
     },
     {
@@ -127494,7 +127494,7 @@
       "title": "aespa WINTER (에스파 윈터) 'SADDLE UP'  Live in Mexico City [4K Fancam] (260911)",
       "channel": "Photographleb",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v8664",
@@ -127965,7 +127965,7 @@
       "title": "aespa (에스파) | 260918 | Belmont Park | Karina & Winter - Serenade",
       "channel": "KarinaIsLoveKarinaIsLife",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v8687",
@@ -136914,7 +136914,7 @@
       "title": "260626 트리플에스(tripleS) Full Ver. @ MyK FESTA(마이케이 페스타) MyK Live",
       "channel": "인다하우스",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 46%"
     },
     {
@@ -138655,7 +138655,7 @@
       "title": "260809 트리플에스 tripleS moon 박소현 ParkSoHyun Dream Dress 4K 직캠 fancam",
       "channel": "soh2o",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v9160",
@@ -152415,7 +152415,7 @@
       "title": "251231 Anymotion 하츠투하츠 지우 직캠 Hearts2Hearts JIWOO focus @ 2025 MBC 가요대제전",
       "channel": "heartache",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v9751",
@@ -152888,7 +152888,7 @@
       "title": "260624 아이브 안유진 Force 직캠 (IVE YUJIN FORCE FANCAM)",
       "channel": "GSJE",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-06-25"
     },
     {
@@ -153012,7 +153012,7 @@
       "title": "[FULLCAM] 하츠투하츠 Hearts2Hearts (LemonTang+15-LOVE+STYLE+FOCUS+RUDE!) 중앙대 다빈치캠 축제 무대 공연 FANCAM",
       "channel": "전람회",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-09-16",
       "thumbPos": "50% 20%"
     },
@@ -153030,7 +153030,7 @@
       "title": "[11분짜리] 프로미스나인 (fromis_9) 이채영 (LeeChaeYoung) 직캠 (fancam) FULL 강남대",
       "channel": "신이즈",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-10-16"
     },
     {
@@ -159189,7 +159189,7 @@
       "title": "[fromis_9] BAEK JIHEON - Love Story | 250902 Phoenix | NOW TOMORROW Tour #fromis_9",
       "channel": "Waki",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2025-09-04"
     },
     {
@@ -165732,7 +165732,7 @@
       "title": "#FOCUS #Hearts2Hearts #STELLA #하츠투하츠 #스텔라 #SHOWCASE #251020",
       "channel": "다올려",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2025-10-21"
     },
     {
@@ -170134,7 +170134,7 @@
       "title": "251124 트리플에스 tripleS msnz Beyond Beauty 쇼케이스 박소현 ParkSoHyun Cameo Love 4K 직캠 fancam",
       "channel": "soh2o",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2025-11-25"
     },
     {
@@ -182962,7 +182962,7 @@
       "title": "250821 아이브 장원영 이서 직캠 3분할 ATTITUDE FANCAM 2025 KWDA #아이브 #ive #장원영 #원영 #이서 #bangbang #blackhole",
       "channel": "GSJS",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-02-26"
     },
     {
@@ -186637,7 +186637,7 @@
       "title": "250921 STYLE 하츠투하츠 지우 직캠 Hearts2Hearts JIWOO focus @ KB 조이올팍 페스티벌",
       "channel": "heartache",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2025-09-21"
     },
     {
@@ -194403,7 +194403,7 @@
       "title": "251219 KBS가요대축제 트리플에스 tripleS 정하연 HAYEON - '으르렁' 직캠 fancam",
       "channel": "감튀",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-01-07"
     },
     {
@@ -195637,7 +195637,7 @@
       "title": "251220 The Chase + FOCUS 하츠투하츠 지우 직캠 Hearts2Hearts JIWOO focus @ MMA 2025",
       "channel": "heartache",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2025-12-23"
     },
     {
@@ -199448,7 +199448,7 @@
       "title": "250821 아이브 직캠 ATTITUDE (IVE FANCAM ATTITUDE) 2025 케이월드 드림 어워즈 (2025 K-WORLD DREAM AWARDS)",
       "channel": "GSJS",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-10-18"
     },
     {
@@ -202323,7 +202323,7 @@
       "title": "250917 하츠투하츠 (Hearts2Hearts) The Chase + Butterflies + STYLE + GEE @경희대 국제캠 대동제 / FULL FANCAM",
       "channel": "전람회",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2025-09-18",
       "thumbPos": "50% 63%"
     },
@@ -210065,7 +210065,7 @@
       "title": "[FULL] 250730 쿠팡플레이 시리즈 #아이브 #IVE 'Opening +해야+LOVE DIVE+REBEL HEART+I AM+퇴장' 하프타임 공연  FANCAM",
       "channel": "전람회",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2025-07-31"
     },
     {
@@ -215933,7 +215933,7 @@
       "title": "[4K] 251012 트리플에스 tripleS - Cherry Talk 유연 YooYeon 직캠 fancam",
       "channel": "ame.",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2025-10-15"
     },
     {
@@ -219896,7 +219896,7 @@
       "title": "[4K] 251122 트리플에스 tripleS - Girls Never Die 혜린 HyeRin 직캠 fancam",
       "channel": "ame.",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2025-11-23"
     },
     {
@@ -221959,7 +221959,7 @@
       "title": "251219 트리플에스 tripleS KBS 가요대축제 박소현 ParkSoHyun 깨어(Are You Alive) 4K 직캠 fancam",
       "channel": "soh2o",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2025-12-25"
     },
     {
@@ -221983,7 +221983,7 @@
       "title": "251219 트리플에스 tripleS KBS 가요대축제 박소현 ParkSoHyun 으르렁 Growl 4K 직캠 fancam",
       "channel": "soh2o",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2025-12-21"
     },
     {
@@ -226332,7 +226332,7 @@
       "title": "261009 에스파 aespa - Lemonade, Switchblade, Whiplash, Black Mamba & WDA (4k fancam)",
       "channel": "Stardust Nebulae",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-10-11",
       "thumbPos": "50% 50%"
     },
@@ -228785,7 +228785,7 @@
       "title": "260418 아이브 안유진 직캠 Force (IVE YUJIN FANCAM) #아이브 #IVE #장원영 #안유진 #이서 #리즈 #레이 #가을 #BANGBANG",
       "channel": "GSJE",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-04-18"
     },
     {
@@ -228833,7 +228833,7 @@
       "title": "[4K] 260424 T1 HOME GROUND x  Spotify OPENING STAGE - ' DICE ' 엔믹스 NMIXX 규진 지우 설윤 멀티 직캠 MULTI CAM",
       "channel": "Duu..",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-04-26"
     },
     {
@@ -231151,7 +231151,7 @@
       "title": "260719 에스파 카리나 Lemonade 직캠 (AESPA KARINA LEMONADE FANCAM) #aespa #에스파 #카리나 #karina",
       "channel": "GSJE",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-07-20"
     },
     {
@@ -231223,7 +231223,7 @@
       "title": "260725 tripleS 김채연 - 깨어 (Are You Alive) @대구 두두썸동",
       "channel": "Yaggu",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-07-26"
     },
     {
@@ -231482,7 +231482,7 @@
       "title": "260807-08 bite aespa 2026-27 LIVE TOUR -SYNK: COMPLaeXITY IN SEOUL 에스파 aespa 카리나  karina 4K 60 직캠",
       "channel": "BLUE💙",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-08-13",
       "thumbPos": "17% 35%"
     },
@@ -232165,7 +232165,7 @@
       "title": "[4K 직캠] 트리플에스(tripleS) 김채연 'Are You Alive' 깨어 | 260815 WBSC K-POP ALiVE CONCERT 장충체육관",
       "channel": "RECDOL",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-10-13"
     },
     {
@@ -232236,7 +232236,7 @@
       "title": "[4K 직캠] 트리플에스(tripleS) 김채연 'Baby Flower (Japanese Ver.)' | 260815 WBSC K-POP ALiVE CONCERT 장충체육관",
       "channel": "RECDOL",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-10-13"
     },
     {
@@ -232260,7 +232260,7 @@
       "title": "[4K 직캠] 트리플에스(tripleS) 김채연 'Rising' 라이징 | 260815 WBSC K-POP ALiVE CONCERT 장충체육관",
       "channel": "RECDOL",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-10-13"
     },
     {
@@ -232813,7 +232813,7 @@
       "title": "[4k] 트리플에스 린 baby flower 직캠 tripleS lynn fancam | 260905 @2026 K-컬쳐 천안 박람회 두시탈출 컬투쇼 공개방송",
       "channel": "roxng2",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-10-06"
     },
     {
@@ -235861,7 +235861,7 @@
       "title": "261010 tripleS 트리플에스 공유빈 Yubin - 'Love2Love' 4K 직캠 Fancam | WORLD TOUR ANDLESS in Seoul",
       "channel": "smiley",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-10-16"
     },
     {
@@ -236074,7 +236074,7 @@
       "title": "261010 tripleS 트리플에스 공유빈 Yubin - '복합성' (Complexity) 4K 직캠 Fancam | WORLD TOUR ANDLESS in Seoul",
       "channel": "smiley",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-10-17"
     },
     {
@@ -236494,7 +236494,7 @@
       "title": "Baby Flower 나경 직캠 - tripleS(트리플에스) ANDLESS 서울 1일차 261010 장충체육관",
       "channel": "코제이",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-10-23"
     },
     {
@@ -238733,7 +238733,7 @@
       "title": "261017 ICONIC HEART 하츠투하츠 지우 직캠 Hearts2Hearts JIWOO focus @ NOL FESTIVAL",
       "channel": "heartache",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "uploaded": "2026-10-24"
     },
     {
@@ -262911,7 +262911,7 @@
       "title": "[4K] 260626 BABYMONSTER WORLD TOUR [CHOOM] IN SEOUL 'MOON' 베이비몬스터 로라 직캠 BABYMONSTER RORA FANCAM",
       "channel": "Flawless Rora",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v14450",
@@ -268049,7 +268049,7 @@
       "title": "[4K] BABYMONSTER WORLD TOUR [춤 (CHOOM)] IN MANILA - PSYCHO",
       "channel": "Carla Rafer",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 46%"
     },
     {
@@ -268171,7 +268171,7 @@
       "title": "[4K] BABYMONSTER WORLD TOUR [춤 (CHOOM)] IN MANILA - ENCORE: SUGAR HONEY ICE TEA",
       "channel": "Carla Rafer",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 50%"
     },
     {
@@ -268554,7 +268554,7 @@
       "title": "[4K] BABYMONSTER WORLD TOUR [춤 (CHOOM)] IN MANILA - DRIP",
       "channel": "Carla Rafer",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 50%"
     },
     {
@@ -268599,7 +268599,7 @@
       "title": "[4K] BABYMONSTER WORLD TOUR [춤 (CHOOM)] IN MANILA - CLIK CLAK",
       "channel": "Carla Rafer",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 50%"
     },
     {
@@ -269211,7 +269211,7 @@
       "title": "[4K] BABYMONSTER WORLD TOUR [춤 (CHOOM)] IN MANILA - ENCORE: SHEESH",
       "channel": "Carla Rafer",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 50%"
     },
     {
@@ -269313,7 +269313,7 @@
       "title": "[4K] BABYMONSTER WORLD TOUR [춤 (CHOOM)] IN MANILA - PHARITA SOLO (SUPER BASS)",
       "channel": "Carla Rafer",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v14725",
@@ -269642,7 +269642,7 @@
       "title": "BABYMONSTER WorldTour CHOOM in Macao D1 | BATTER UP | DRIP | MOON | CLIK CLAK | SHEESH | PSYCHO",
       "channel": "reeedirect",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 37%"
     },
     {
@@ -282496,7 +282496,7 @@
       "title": "261024 tripleS Sun - CHEER UP  / YooYeon fancam _ tripleS World Tour ANDLESS in Macau",
       "channel": "isly",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v15299",
@@ -288130,7 +288130,7 @@
       "title": "261022 최예나(YENA) 마산대학교 축제(청우대동제) 라이브 직캠 풀영상(캐치캐치,네모네모,그건사랑이었다고,스마일리,WithOrWithOut)",
       "channel": "고점이낮다",
       "pin": false,
-      "gone": false,
+      "gone": true,
       "thumbPos": "50% 50%"
     },
     {
@@ -303007,7 +303007,7 @@
       "title": "[4K] 250720 키스오브라이프 나띠 KISS OF LIFE NATTY 'W.House' 직캠 Fancam @키스로드 KISS ROAD IN SEOUL ENCORE",
       "channel": "hush",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v16220",
@@ -303072,7 +303072,7 @@
       "title": "[4K] 250720 키스오브라이프 나띠 KISS OF LIFE NATTY 'Chemistry' 직캠 Fancam @키스로드 KISS ROAD IN SEOUL ENCORE",
       "channel": "hush",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v16223",
@@ -303269,7 +303269,7 @@
       "title": "[4K] 250720 키스오브라이프 나띠 KISS OF LIFE NATTY 'Maestro of My Heart' 직캠 @키스로드 KISS ROAD IN SEOUL ENCORE",
       "channel": "hush",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v16232",
@@ -305199,7 +305199,7 @@
       "title": "[4K] IVE SHOW WHAT I AM in Manila, Philippines - FULL PERFORMANCE Fancam",
       "channel": "Carla Rafer",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v16317",
@@ -321817,7 +321817,7 @@
       "title": "[4K] 250224 하츠투하츠 유하 Butterflies 직캠 (Hearts2Hearts YUHA FanCam)",
       "channel": "",
       "pin": false,
-      "gone": false
+      "gone": true
     },
     {
       "id": "v17067",
