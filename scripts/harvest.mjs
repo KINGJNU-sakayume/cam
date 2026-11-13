@@ -5,6 +5,9 @@
 //   node scripts/harvest.mjs --since-last [--group g1]        그룹마다 지난번 끝 날짜 3일 전부터 오늘까지
 //   node scripts/harvest.mjs --gaps [--group g1] [--no-info]  멤버 직캠이 빈 음악 방송 공연만 멤버 × 날짜로 찾기
 //   node scripts/harvest.mjs --gaps --all-events              음악 방송 말고 축제·콘서트·행사 공연까지
+//   node scripts/harvest.mjs 2024-01-01 2024-06-30 --group g11 --full   빠짐없이: 날짜마다 직캠·fancam 검색을 더하고,
+//                                                             후보가 1개라도 있는 날은 모든 멤버(활동 종료 포함) × 날짜로 찾기
+//   --min N   --deep의 멤버별 검색을 시작할 후보 수(기본 5, --full이면 1)
 //
 // 결과(<폴더>, 기본 .cache/harvest):
 //   auto.json    확실한 영상. 그대로 node scripts/archive.mjs add <폴더>/auto.json --create-songs --dry-run → 실제 실행
@@ -28,12 +31,12 @@ for (let i = 0; i < argv.length; i++) {
   const a = argv[i];
   if (a.startsWith('--')) {
     const k = a.slice(2);
-    if (['deep', 'since-last', 'help', 'no-info', 'gaps', 'all-events'].includes(k)) flags[k] = true;
+    if (['deep', 'full', 'since-last', 'help', 'no-info', 'gaps', 'all-events'].includes(k)) flags[k] = true;
     else flags[k] = argv[++i];
   } else pos.push(a);
 }
 if (flags.help || (!pos[0] && !flags['since-last'] && !flags.gaps)) {
-  console.log(readFileSync(fileURLToPath(import.meta.url), 'utf8').split('\n').slice(1, 14).map((l) => l.replace(/^\/\/ ?/, '')).join('\n'));
+  console.log(readFileSync(fileURLToPath(import.meta.url), 'utf8').split('\n').slice(1, 17).map((l) => l.replace(/^\/\/ ?/, '')).join('\n'));
   process.exit(0);
 }
 
@@ -94,35 +97,50 @@ if (flags.gaps) {
     if (m.aliases?.[0] && g.en) queries.push({ g, day: e.date, q: `${g.en} ${m.aliases[0]} fancam ${yymmdd(e.date)}`, pages: 2 });
   }
 } else for (const { g, from, to } of ranges) {
-  for (let d = from; d <= to; d = addDays(d, 1)) for (const n of [g.name, g.en].filter(Boolean)) queries.push({ g, day: d, q: `${n} ${yymmdd(d)}`, pages: 5 });
+  for (let d = from; d <= to; d = addDays(d, 1)) {
+    for (const n of [g.name, g.en].filter(Boolean)) queries.push({ g, day: d, q: `${n} ${yymmdd(d)}`, pages: 5 });
+    // --full: 제목에 그룹명 대신 "직캠/fancam"이 앞에 오는 영상까지
+    if (flags.full) {
+      queries.push({ g, day: d, q: `${g.name} 직캠 ${yymmdd(d)}`, pages: 3 });
+      if (g.en) queries.push({ g, day: d, q: `${g.en} fancam ${yymmdd(d)}`, pages: 3 });
+    }
+  }
 }
+if (flags.full) flags.deep = true;
+const DEEP_MIN = Math.max(1, Number(flags.min) || (flags.full ? 1 : 5));
+let failedQ = 0;
 const runQueries = async (list, label) => {
   const todo = list.filter((x) => !doneQ.has(x.q));
   console.log(`${label}: 검색 ${todo.length}개 (이미 한 것 ${list.length - todo.length}개 건너뜀, 동시 ${JOBS}개)`);
   await pool(todo, JOBS, async (x) => {
     await new Promise((r) => setTimeout(r, Math.random() * 400));
     const r = await search(x.q, { pages: x.pages });
-    if (!r) return; // 실패한 검색은 done에 안 남겨 다음에 다시
+    if (!r) { failedQ++; return; } // 실패한 검색은 done에 안 남겨 다음에 다시
     for (const v of r) if (!found[v.id]) found[v.id] = { ...v, g: x.g.id, day: x.day };
     doneQ.add(x.q);
     appendFileSync(doneFile, `${x.q}\n`);
   });
   writeFileSync(join(OUT, 'found.json'), JSON.stringify(found));
+  if (failedQ) console.log(`  ! 검색 ${failedQ}개 실패(유튜브 접속·차단 확인). 같은 명령을 다시 돌리면 실패한 것만 다시 찾아요`);
+  if (todo.length && failedQ === todo.length) { console.error('✗ 모든 검색이 실패했어요. www.youtube.com에 접속할 수 있는 곳에서 돌려 주세요'); process.exit(3); }
+  failedQ = 0;
 };
 await runQueries(queries, '날짜별');
 if (flags.deep) {
-  // 후보가 5개 이상인 (그룹, 날짜): 멤버 × 날짜로 더 찾는다
+  // 후보가 DEEP_MIN개 이상인 (그룹, 날짜): 멤버 × 날짜로 더 찾는다
   const cnt = {};
   for (const v of Object.values(found)) { const k = `${v.g} ${v.day}`; cnt[k] = (cnt[k] || 0) + 1; }
   const deep = [];
   for (const [k, c] of Object.entries(cnt)) {
-    if (c < 5) continue;
+    if (c < DEEP_MIN) continue;
     const [gid, day] = k.split(' ');
     const g = groups.find((x) => x.id === gid);
     if (!g) continue;
-    for (const m of g.members.filter((x) => x.active !== false)) {
+    // --full: 활동 종료 멤버도(옛 날짜엔 활동 중이었을 수 있음), 같은 이름이 다른 그룹에도 있으니 그룹명을 붙인 검색도
+    for (const m of g.members.filter((x) => flags.full || x.active !== false)) {
       deep.push({ g, day, q: `${m.name} 직캠 ${yymmdd(day)}`, pages: 3 });
       if (m.aliases?.[0]) deep.push({ g, day, q: `${m.aliases[0]} fancam ${yymmdd(day)}`, pages: 3 });
+      if (flags.full) deep.push({ g, day, q: `${g.name} ${m.name} 직캠 ${yymmdd(day)}`, pages: 2 });
     }
   }
   await runQueries(deep, '멤버별(deep)');
