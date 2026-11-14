@@ -207,3 +207,7 @@
 ### 르세라핌 2025-08
 - 자동 선별 3개는 모두 보류: 타이베이 풀콘서트(Hjjb13IQAgs)·채원 DIFFERENT(2qMxufv2ad8)는 제목에 날짜가 없어 추정 날짜라 보류, 고려대 풀버전(3_TBBivstB8)은 날짜 불명.
 - 마닐라 투어(08-02) 직캠 7개·방콕(08-09) 채원 CRAZY 1개만 담음(제목에 날짜·멤버·곡 1개·투어 도시 모두 있음). 이름은 `LE SSERAFIM TOUR 'EASY CRAZY HOT' 마닐라/방콕`. 두 곡 이상 묶음(Highdef… 채널 등), 새 곡(Fire in the belly, FEARNOT, Blue Flame 등), 풀콘서트·풀캠/직캠 불명(kpopante·Jae·Leiso 등), 방콕 08-10 Day2는 보류.
+
+### 르세라핌 2025-09
+- 자동 '확실' 3개 보류: 타이베이 풀콘서트(`Hjjb13IQAgs`)·채원 DIFFERENT(`2qMxufv2ad8`)는 제목에 날짜가 없고 업로드일 추정이라 보류, 고려대 입실렌티 풀버전(`3_TBBivstB8`)은 날짜를 알 수 없어 보류. 시카고 채원 영상(`Xs8HeD_CuUw`)은 제목이 NMIXX 투어로 잘못 읽혀 르세라핌 투어 시카고로 직접 지정해 담음.
+- 미국 투어(뉴어크 09-03/04, 시카고, 달라스, 로스앤젤레스, 샌프란시스코, 라스베이거스, 시애틀) 직캠 중 보류: 멤버 없는 직캠(ggoomCAM·Bic·Notag 등), 여러 곡 묶음·풀콘서트, 미등록 곡(Pierrot·Sour Grapes·Blue Flame·The Great Mermaid·Impurities·No-Return·Burn the Bridge·Fire in the belly), 버전 표기곡(Smart remix, EASY rock ver.), 날짜 없는 방콕 채원 ANTIFRAGILE(`TusKrs_nLvo`), 마닐라 사쿠라 묶음(`Oe63euXWMrg`), 공식 'IN US' Stage Cam(날짜 불명).

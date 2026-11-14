@@ -20176,6 +20176,64 @@
         "g11s8"
       ],
       "note": ""
+    },
+    {
+      "id": "e1335",
+      "groupId": "g11",
+      "date": "2025-09-05",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 시카고",
+      "label": "",
+      "setlist": [
+        "g11s21"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1336",
+      "groupId": "g11",
+      "date": "2025-09-08",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 달라스",
+      "label": "",
+      "setlist": [
+        "g11s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1337",
+      "groupId": "g11",
+      "date": "2025-09-12",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 로스앤젤레스",
+      "label": "",
+      "setlist": [
+        "g11s5",
+        "g11s21"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1338",
+      "groupId": "g11",
+      "date": "2025-09-14",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 샌프란시스코",
+      "label": "",
+      "setlist": [
+        "g11s11",
+        "g11s13",
+        "g11s21"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1339",
+      "groupId": "g11",
+      "date": "2025-09-17",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 시애틀",
+      "label": "",
+      "setlist": [
+        "g11s1"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -347449,6 +347507,205 @@
       "pin": false,
       "gone": false,
       "uploaded": "2025-08-11"
+    },
+    {
+      "id": "v18161",
+      "ytId": "Xs8HeD_CuUw",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250905 LE SSERAFIM Kim Chaewon (르세라핌 김채원) - Swan song 4k 직캠 | LESSERAFIM 1st World Tour in Chicago ",
+      "channel": "Dukemon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18162",
+      "ytId": "OspUYDfOl4U",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250908 르세라핌 허윤진 직캠 'Different' (LE SSERAFIM YUNJIN FanCam) @Easy Crazy Hot TOUR In Grand Prairie",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-11"
+    },
+    {
+      "id": "v18163",
+      "ytId": "l_Vc5I34GoY",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250912 LE SSERAFIM #르세라핌 'Perfect Night' CHAEBRON #Chaewon #김채원 focus 직캠",
+      "channel": "Bic",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18164",
+      "ytId": "gNzRSsfrTVM",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250912 LE SSERAFIM 르세라핌 'Swan Song' #Kazuha #카즈하 focus 직캠",
+      "channel": "Bic",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18165",
+      "ytId": "nLvaHMY67CQ",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250914 LESSERAFIM 르세라핌 카즈하(KAZUHA) - Come Over Fancam 직캠 [EASY CRAZY HOT IN SAN FRANCISCO]",
+      "channel": "zuhasvrse",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-16"
+    },
+    {
+      "id": "v18166",
+      "ytId": "Mif96TPqjx4",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250914 르세라핌 카즈하 직캠 \"DIFFERENT\" (LE SSERAFIM KAZUHA FANCAM) 2025 LE SSERAFIM TOUR IN SAN FRANCISCO",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18167",
+      "ytId": "9vsA-3Oi0ns",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250914 LESSERAFIM 르세라핌 카즈하(KAZUHA) - Swan Song Fancam 직캠 [EASY CRAZY HOT IN SAN FRANCISCO]",
+      "channel": "zuhasvrse",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-18"
+    },
+    {
+      "id": "v18168",
+      "ytId": "wpR78RVAzRE",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Eunchae - Come Over Fancam | LE SSERAFIM EASY CRAZY HOT TOUR - SAN FRANCISCO | 250914",
+      "channel": "CLUCK CLUCK KPOP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-21"
+    },
+    {
+      "id": "v18169",
+      "ytId": "PvcLXG5Jlts",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g11s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250917 LE SSERAFIM(르세라핌) 'FEARLESS' SAKURA Focus 사쿠라 직캠 LE SSERAFIM TOUR 'EASY CRAZY HOT' IN SEATTLE",
+      "channel": "nvr4GGet93o39🌸",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
