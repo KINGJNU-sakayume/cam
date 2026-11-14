@@ -19169,6 +19169,29 @@
         "g8s11"
       ],
       "note": ""
+    },
+    {
+      "id": "e1253",
+      "groupId": "g10",
+      "date": "2024-01-02",
+      "show": "서울가요대상",
+      "label": "",
+      "setlist": [
+        "g10s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1254",
+      "groupId": "g10",
+      "date": "2024-01-10",
+      "show": "CCMA",
+      "label": "",
+      "setlist": [
+        "g10s1",
+        "g10s3"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -331584,6 +331607,106 @@
       "channel": "",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v17512",
+      "ytId": "-Xuedbx5RMA",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g10s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K Fancam】240102 키스오브라이프 (KISS OF LIFE) 쥴리 (JULIE) The Seoul Music Awards 서울가요대상 - 'Bad News' 직캠",
+      "channel": "JULIEnet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-05"
+    },
+    {
+      "id": "v17513",
+      "ytId": "j0myXz5MXLg",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g10s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[ 240110 CCMA ] KISS OF LIFE NATTY 직캠 | 나띠 쉿 4K 직캠",
+      "channel": "HONEY POT",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-17"
+    },
+    {
+      "id": "v17514",
+      "ytId": "of-IiNIyQ9U",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g10s3",
+          "t": 0
+        },
+        {
+          "songId": "g10s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240110 키스 오브 라이프 나띠 KISS OF LIFE NATTY 🎧Bad News+쉿(Shhh) 직캠 FANCAM @CCMA2023 4K30P HDR",
+      "channel": "CENTERBUG",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-11"
+    },
+    {
+      "id": "v17515",
+      "ytId": "r885gCCKcCQ",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g10s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[ 240110 CCMA ] KISS OF LIFE NATTY Bad News 직캠 | 나띠 4K 직캠",
+      "channel": "HONEY POT",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-15"
     }
   ],
   "clips": []
