@@ -126,3 +126,9 @@
 
 ### 르세라핌 2024-06
 - 자동으로 담긴 것 없음. 위버스콘 페스티벌(06-15) 직캠 중 제목에 멤버·곡 한 개가 있는 20개만 담음. 멤버 없음·풀캠/직캠 불명·2곡 이상(No Celestial + Smart 등, 곡 시작 초 모름)·미등록곡 No Celestial은 보류. 행사명은 `위버스콘 페스티벌 2024`로 지었어요(공식 표기: AliExpress 2024 Weverse Con Festival).
+
+### 르세라핌 2024-07
+- 멤버 없는 07-21 가요대전 Summer 직캠(그룹 직캠): 5_fkZ1uiqRo, 186 AC8d5MBB0yo(Smart), 2TG4KIClecs, FUAnwZe4Coc, nvsu6rLLBTM, l-fMFxihSiA, kLchJjVAtaY(풀 직캠) 등 — 멤버 없는 직캠을 단체로 임의 지정하지 않으려고 보류.
+- 곡 없음/엔딩·퇴장 인사 직캠(6VeEoMbZ47s, iiIXUl0v80w, G_6952e_X18, bbNJ2PKmp9g, BxkPnRs3zK0, kuK4ICpYzY0): 곡을 정할 수 없어 보류.
+- SBS 공식 풀캠(hCcTfBWC0O8, V9ND5sdmQQ0, vLiJHEnHRvQ): 07-21인지 07-26인지 제목에 날짜가 없어 보류. 해외 팬 직캠(AtotheJOne97 등, 제목에 072124)도 종류 불명이라 보류.
+- 일본 방송(FNS 07-03, NTV MUSIC DAY 07-06, 엠카 07-25)과 FEARNADA 일본 팬미팅(07-06~07-31, 사쿠라·채원 직캠 등): 행사가 새 공연이고 풀캠/직캠 구분·곡이 불명이라 보류.

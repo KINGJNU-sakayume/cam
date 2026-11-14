@@ -19169,6 +19169,30 @@
         "g8s11"
       ],
       "note": ""
+    },
+    {
+      "id": "e1253",
+      "groupId": "g11",
+      "date": "2024-07-21",
+      "show": "SBS 가요대전 SUMMER",
+      "label": "",
+      "setlist": [
+        "g11s6",
+        "g11s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1254",
+      "groupId": "g11",
+      "date": "2024-07-26",
+      "show": "SBS 가요대전 SUMMER",
+      "label": "",
+      "setlist": [
+        "g11s6",
+        "g11s7"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -331584,6 +331608,478 @@
       "channel": "",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v17512",
+      "ytId": "ML8LTydafXk",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240721 르세라핌 사쿠라 'Easy' 직캠 LE SSERAFIM Sakura 4k Fancam @2024 가요대전 SUMMER",
+      "channel": "꾸루트",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-23"
+    },
+    {
+      "id": "v17513",
+      "ytId": "RreIvYT8wFg",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240721 르세라핌 사쿠라 'Smart' 직캠 LE SSERAFIM Sakura 4k Fancam @2024 가요대전 SUMMER",
+      "channel": "꾸루트",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-23"
+    },
+    {
+      "id": "v17514",
+      "ytId": "y0ylNjQyiVM",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240721 LESSERAFIM CHAEWON Smart Fancam 르세라핌 김채원 직캠 SBS 가요대전 SUMMER",
+      "channel": "미쉘",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-22"
+    },
+    {
+      "id": "v17515",
+      "ytId": "6CNYBff30vU",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240721 가요대전 SUMMER #르세라핌 #김채원 Smart INTRO 직캠",
+      "channel": "𝙛𝙛.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-22"
+    },
+    {
+      "id": "v17516",
+      "ytId": "KgjcSYbao5U",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240721 르세라핌(LE SSERAFIM) 2024 SBS 가요대전(GAYO DAEJEON) SUMMER 카즈하(KAZUHA) EASY 직캠 by 김이모 - 4K",
+      "channel": "KIM Yimo 김이모",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-24"
+    },
+    {
+      "id": "v17517",
+      "ytId": "wbqSq8b2f50",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240721 EASY 르세라핌 김채원 LE SSERAFIM KIM CHAEWON 직캠 fancam [2024 SBS 가요대전 Summer]",
+      "channel": "𝕡𝕠𝕧",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-22"
+    },
+    {
+      "id": "v17518",
+      "ytId": "sNUUVdwtF9Q",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240721 Smart Intro 르세라핌 김채원 LE SSERAFIM KIM CHAEWON 직캠 fancam [2024 SBS 가요대전 Summer]",
+      "channel": "𝕡𝕠𝕧",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-22"
+    },
+    {
+      "id": "v17519",
+      "ytId": "D5dpQTN08EY",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240721'EASY & SMART' 르세라핌 김채원 직캠 LE SSERAFIM KIM CHAEWON FANCAM |  SBS 가요대전 Summer 2024",
+      "channel": "코코아☘️ cocoa.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-23"
+    },
+    {
+      "id": "v17520",
+      "ytId": "tT3nZ45tvfE",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240721 르세라핌(LE SSERAFIM) 2024 SBS 가요대전(GAYO DAEJEON) SUMMER 카즈하(KAZUHA) SMART 직캠 by 김이모 - 4K",
+      "channel": "KIM Yimo 김이모",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-24"
+    },
+    {
+      "id": "v17521",
+      "ytId": "GXYZCxiWWEc",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240721 가요대전 르세라핌 easy 카즈하 후면캠",
+      "channel": "Pastime",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-23"
+    },
+    {
+      "id": "v17522",
+      "ytId": "gYJl9-AVbFo",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240721 'EASY' + 'SMART' (Remix ver.) - 르세라핌 홍은채 lesserafim 직캠 @2024 가요대전 SUMMER",
+      "channel": "케박",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-24"
+    },
+    {
+      "id": "v17523",
+      "ytId": "pngivF9-kOc",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240721 SBS 가요대전 LE SSERAFIM 사쿠라 FOCUS ‘EASY' | 르세라핌 SAKURA 직캠 2024 SBS 가요대전 SUMMER",
+      "channel": "ARUKAS - For Sakura",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-23"
+    },
+    {
+      "id": "v17524",
+      "ytId": "bDssGfkIfb8",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240721 SBS가요대전Summer 르세라핌 홍은채 직캠 ‘EASY&SMART’ (LE SSERAFIM HONG EUNCHAE Fancam)",
+      "channel": "marshmallow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-24"
+    },
+    {
+      "id": "v17525",
+      "ytId": "OzmKsneRKnw",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240721 LESSERAFIM CHAEWON Easy Fancam 르세라핌 김채원 직캠 SBS 가요대전 SUMMER",
+      "channel": "미쉘",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-22"
+    },
+    {
+      "id": "v17526",
+      "ytId": "46d6clXjx7w",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024 가요대전 썸머 4K] 르세라핌 카즈하 'Intro + EASY + Smart' (LE SSERAFIM KAZUHA FanCam)@SBS GayoDaejeon 240726",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-28"
+    },
+    {
+      "id": "v17527",
+      "ytId": "RDXn0s5-JI4",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024 가요대전 썸머 4K] 르세라핌 사쿠라 'Intro + EASY + Smart' (LE SSERAFIM SAKURA FanCam)@SBS GayoDaejeon 240726",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-28"
+    },
+    {
+      "id": "v17528",
+      "ytId": "PV68kRPF7mw",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024 가요대전 썸머 4K] 르세라핌 김채원'Intro + EASY + Smart'(LE SSERAFIM KIMCHAEWON FanCam)@SBSGayoDaejeon240726",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-28"
+    },
+    {
+      "id": "v17529",
+      "ytId": "HWzmUgkJUCY",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024 가요대전 썸머 4K] 르세라핌 홍은채 'Intro+EASY+Smart' (LE SSERAFIM HONGEUNCHAE FanCam)@SBSGayoDaejeon240726",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-28"
+    },
+    {
+      "id": "v17530",
+      "ytId": "oot4YjefEd4",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024 가요대전 썸머 4K] 르세라핌 허윤진'Intro + EASY + Smart'(LE SSERAFIM HUHYUNJIN FanCam)@SBS GayoDaejeon240726",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-28"
     }
   ],
   "clips": []
