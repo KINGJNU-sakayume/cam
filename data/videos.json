@@ -19169,6 +19169,28 @@
         "g8s11"
       ],
       "note": ""
+    },
+    {
+      "id": "e1253",
+      "groupId": "g11",
+      "date": "2023-12-25",
+      "show": "SBS 가요대전",
+      "label": "",
+      "setlist": [
+        "g11s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1254",
+      "groupId": "g11",
+      "date": "2024-01-06",
+      "show": "골든디스크어워즈",
+      "label": "",
+      "setlist": [
+        "g11s3"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -331582,6 +331604,72 @@
       ],
       "title": "[2025 가요대전 4K] 베이비몬스터 'WE GO UP + PSYCHO' (BABYMONSTER FullCam) @SBS GayoDaejeon 251225",
       "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17512",
+      "ytId": "eJuZNhEliVE",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2023 가요대전 4K] 르세라핌 허윤진 'INTRO + Perfect Night'(LE SSERAFIM  HUH YUNJIN FanCam)@SBSGayoDaejeon231225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2023-12-27"
+    },
+    {
+      "id": "v17513",
+      "ytId": "6X3wlWyxlA0",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240106 'UNFORGIVEN+Fire in the belly' 르세라핌 김채원 직캠 LESSERAFIM KIM CHAEWON FANCAM | Golden Disc Awards",
+      "channel": "코코아☘️ cocoa.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17514",
+      "ytId": "ZrWBzFk5C2I",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] 240106 KIM CHAEWON 김채원 LE SSERAFIM 르세라핌 UNFORGIVEN + FIRE IN THE BELLY @ GOLDEN DISC AWARDS",
+      "channel": "agicheetah",
       "pin": false,
       "gone": false
     }
