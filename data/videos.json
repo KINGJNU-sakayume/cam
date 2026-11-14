@@ -20105,6 +20105,17 @@
         "g7s7"
       ],
       "note": ""
+    },
+    {
+      "id": "e1329",
+      "groupId": "g11",
+      "date": "2025-01-04",
+      "show": "골든디스크어워즈",
+      "label": "",
+      "setlist": [
+        "g11s8"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -346594,6 +346605,121 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-04-04"
+    },
+    {
+      "id": "v18127",
+      "ytId": "H8T-busgRVo",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250104 'CRAZY' 르세라핌 김채원 직캠 LE SSERAFIM KIM CHAEWON FANCAM | GOLDEN DISC AWARDS 2025 골든디스크어워즈",
+      "channel": "코코아☘️ cocoa.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-05"
+    },
+    {
+      "id": "v18128",
+      "ytId": "3euNBnT-xIk",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250104 르세라핌(LE SSERAFIM) 골든디스크어워즈(2025 GDA) 카즈하(KAZUHA) Pierrot+Crazy 직캠 by 김이모 - 4K",
+      "channel": "KIM Yimo 김이모",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18129",
+      "ytId": "5aQ1K4ONzNI",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250104 GDA 르세라핌 홍은채 직캠 ‘Fierrot&CRAZY’ (LE SSERAFIM HONG EUNCHAE Fancam)",
+      "channel": "marshmallow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-05"
+    },
+    {
+      "id": "v18130",
+      "ytId": "iG4cO0hmtkk",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] LE SSERAFIM KIMCHAEWON 르세라핌 김채원  - \"CRAZY\" 직캠 FANCAM | 250104 GDA",
+      "channel": "Mr. Egg",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18131",
+      "ytId": "pQgUy8BWUUo",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250104 GDA #르세라핌 #김채원 CRAZY 직캠",
+      "channel": "𝙛𝙛.",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []

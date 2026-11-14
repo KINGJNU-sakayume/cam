@@ -171,3 +171,8 @@
 - 새 곡이 제목에 나온 직캠(Star Signs, jewelry — KgC3BOssAng, w_8n2DVMtVI, gPGYFjtDkr8 / Category is LE SSERAFIM — BjAunphZpHU, D8aCGyIGS98, VPJNVQ7iNxs, oFixg386g6I): 곡이 그룹 곡인지 커버·특별 무대인지 확인이 필요해 보류. oFixg386g6I는 제목 날짜(241215)가 SBS 가요대전과 맞지 않아 더 보류.
 - AAA 12-27 직캠: 멤버 1명·곡 1개가 제목에 있는 6개만 담음. 두 곡이 묶인 영상(KbFCBbU2CQk), 멤버·곡 없음, 곡 불명(Love Is An Open Door), 풀캠 불명 영상은 보류.
 - 방송 영상 제목에 "뮤직뱅크 글로벌 페스티벌"이 있으면 일반 뮤직뱅크가 아니라 별도 행사 "뮤직뱅크 글로벌 페스티벌"로 담음.
+
+### 르세라핌 2025-01
+- 제39회 골든디스크 JTBC 공식 방송 무대(bza4Cz8FOpo, HKJcwNwk5eA 등)와 2025 GDA 직캠 중 곡이 Pierrot 한 곡이거나 Pierrot+CRAZY 두 곡인 영상(MBmLtGD8SK8, rCy1xonCiXM, 5aQ1K4ONzNI, R7JLLxj7dnw, 9WCbiITYHpg 등): Pierrot가 곡 목록에 없어 새 곡 여부 확인이 필요해 보류. 곡 없음·시상식 소감·방송사 풀캠도 보류.
+- 12-25 가요대전 홍은채 CRAZY(Atntuz3jfxY)는 4분기 PR에 이미 담음. Category is LESSERAFIM(oEXbNTiTBaw, fcFrfSZUsMs)은 12월과 같은 이유로 보류.
+- 01-24 SWU, 01-30 엠카운트다운(vf97Wm2RS8U)은 새 행사·풀캠/직캠 불명으로 보류.
