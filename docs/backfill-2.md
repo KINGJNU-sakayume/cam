@@ -63,3 +63,4 @@ node scripts/archive.mjs validate
 | g11 | 2024-01 | 3 (공연 2) | open-questions §8 (검색 18개는 유튜브 실패로 못 함) |
 | g11 | 2024-02 | 131 (자동 97 + Swan Song 직캠 34, 공연 6) | open-questions §8 (검색 실패 0, `--jobs 1`) |
 | g11 | 2024-03 | 75 (공연 9, 02월분 3 포함) | open-questions §8 (검색 실패 0, `--jobs 1`) |
+| g11 | 2024-04 | 6 (코첼라 공연 2) | open-questions §8 (검색 실패 일부, 위 .done 확인) |
