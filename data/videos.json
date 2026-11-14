@@ -19225,6 +19225,36 @@
         "g7s43"
       ],
       "note": ""
+    },
+    {
+      "id": "e1258",
+      "groupId": "g7",
+      "date": "2024-02-24",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 서울",
+      "label": "",
+      "setlist": [
+        "g7s7",
+        "g7s43",
+        "g7s31",
+        "g7s6",
+        "g7s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1259",
+      "groupId": "g7",
+      "date": "2024-02-25",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 서울",
+      "label": "",
+      "setlist": [
+        "g7s12",
+        "g7s7",
+        "g7s13",
+        "g7s6",
+        "g7s42"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -332898,6 +332928,266 @@
       ],
       "title": "[페이스캠4K] 있지 유나 'Mr. Vampire' (ITZY YUNA FaceCam) @SBS Inkigayo 240128",
       "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17568",
+      "ytId": "EfVyRt7vonQ",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240224 ITZY 2ND WORLD TOUR 〈BORN TO BE〉 CAKE 유나 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17569",
+      "ytId": "zue8195Z4Zs",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240224 ITZY 2ND WORLD TOUR 〈BORN TO BE〉 Mr. Vampire 유나 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17570",
+      "ytId": "ln7siaoM9F4",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] ITZY 'CAKE'' 신유나 SHIN YUNA FANCAM @ 2ND WORLD TOUR 'BORN TO BE' IN SEOUL 240224",
+      "channel": "Meowchae",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17571",
+      "ytId": "Cm9dXQ8zrKc",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g7s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240224 ITZY Yeji Fancam - Be In Love live @ Jamsil Arena, Seoul",
+      "channel": "SonicAwareness 4K Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17572",
+      "ytId": "SRAo-96j_N8",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240224 ITZY 2ND WORLD TOUR 〈BORN TO BE〉 Untouchable 유나 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17573",
+      "ytId": "ag64efyPZpw",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240224 ITZY 2ND WORLD TOUR 〈BORN TO BE〉 Not Shy 유나 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17574",
+      "ytId": "cygigi_rcDo",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] ITZY 'Not Shy' 황예지 HWANG YEJI FANCAM @ 2ND WORLD TOUR 'BORN TO BE' IN SEOUL 240225",
+      "channel": "Meowchae",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17575",
+      "ytId": "nNwwJv1aCSo",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240225 ITZY BORN TO BE CONCERT IN SEOUL - CAKE #채령 Fancam",
+      "channel": "Sunboya",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17576",
+      "ytId": "sloEDDsAVpI",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240225 있지 예지 직캠 'WANNABE' (YEJI Fancam) @ ITZY 2ND WORLD TOUR [BORN TO BE] in SEOUL",
+      "channel": "SHOOT!",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17577",
+      "ytId": "me6VF2WyWwY",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240225 ITZY BORN TO BE Concert in SEOUL - Not Shy #채령 fancam",
+      "channel": "Sunboya",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17578",
+      "ytId": "SzuRmHtdcPc",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] ITZY 'UNTOUCHABLE' 황예지 HWANG YEJI  FANCAM @ 2ND WORLD TOUR 'BORN TO BE' IN SEOUL 240225",
+      "channel": "Meowchae",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17579",
+      "ytId": "6ODBDqV2o-k",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240225 있지 예지 'BORN TO BE' 직캠 (ITZY YEJI Fancam) @2ND WORLD TOUR 〈BORN TO BE〉 in Seoul by 0",
+      "channel": "SaeHeon",
       "pin": false,
       "gone": false
     }
