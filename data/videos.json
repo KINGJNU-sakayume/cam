@@ -19169,6 +19169,40 @@
         "g8s11"
       ],
       "note": ""
+    },
+    {
+      "id": "e1253",
+      "groupId": "g9",
+      "date": "2024-01-18",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g9s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1254",
+      "groupId": "g10",
+      "date": "2025-06-20",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g10s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1255",
+      "groupId": "g8",
+      "date": "2025-07-27",
+      "show": "SBS 가요대전",
+      "label": "",
+      "setlist": [
+        "g8s12",
+        "g8s13"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -331581,6 +331615,1025 @@
         "4K"
       ],
       "title": "[2025 가요대전 4K] 베이비몬스터 'WE GO UP + PSYCHO' (BABYMONSTER FullCam) @SBS GayoDaejeon 251225",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17512",
+      "ytId": "5d_IVDyYhYE",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 유나 'UNTOUCHABLE' (ITZY YUNA FanCam) @SBS Inkigayo 240114",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17513",
+      "ytId": "pAIh2WkuneQ",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 채령 'UNTOUCHABLE' (ITZY CHAERYEONG FanCam) @SBS Inkigayo 240114",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17514",
+      "ytId": "6QBVGXuoT6U",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 최예나 직캠 4K 'Good Morning' (YENA FanCam) | @MCOUNTDOWN_2024.1.18",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17515",
+      "ytId": "7tKpl5WxC3s",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[MPD직캠] 최예나 직캠 8K 'Good Morning' (Horizontal Ver.) (YENA FanCam) | @MCOUNTDOWN_2024.1.18",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17516",
+      "ytId": "eEWrbcm6rHI",
+      "eventId": "e1067",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 트리플에스 김유연 'Girls Never Die' (tripleS Kim YooYeon FaceCam) @SBS Inkigayo 240512",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17517",
+      "ytId": "eXk-CNSNcto",
+      "eventId": "e1138",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - Whiplash | Show! MusicCore | MBC241026방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17518",
+      "ytId": "e9y52Y_qZdg",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 에스파 닝닝 'Whiplash' (aespa NINGNING FaceCam) @SBS Inkigayo 241027",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17519",
+      "ytId": "rHZv44fPcuE",
+      "eventId": "e1149",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - Whiplash | Show! MusicCore | MBC241102방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17520",
+      "ytId": "ciXIQK6G230",
+      "eventId": "e1158",
+      "songs": [
+        {
+          "songId": "g8s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 베이비몬스터 아현 'DRIP' (BABYMONSTER AHYEON FanCam) @SBS Inkigayo 241110",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17521",
+      "ytId": "karQAIwewUk",
+      "eventId": "e1160",
+      "songs": [
+        {
+          "songId": "g8s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 베이비몬스터 아현 'DRIP' (BABYMONSTER AHYEON FanCam) @SBS Inkigayo 241117",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17522",
+      "ytId": "1YHemRmyWmU",
+      "eventId": "e1162",
+      "songs": [
+        {
+          "songId": "g8s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "BABYMONSTER (베이비몬스터) - DRIP @인기가요 inkigayo 20241124",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17523",
+      "ytId": "8q6o3D0m0QM",
+      "eventId": "e1162",
+      "songs": [
+        {
+          "songId": "g8s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 베이비몬스터 아현 'DRIP' (BABYMONSTER AHYEON FanCam) @SBS Inkigayo 241124",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17524",
+      "ytId": "OQbDSGVASa0",
+      "eventId": "e1164",
+      "songs": [
+        {
+          "songId": "g8s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024 가요대전 4K] 베이비몬스터 아현 'INTRO + DRIP' (BABYMONSTER AHYEON FanCam)│@SBS Gayo Daejeon 241225",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17525",
+      "ytId": "a95AGRbel4A",
+      "eventId": "e1164",
+      "songs": [
+        {
+          "songId": "g8s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241225 #2024SBS가요대전 'DRIP' AHYEON 아현 직캠 (4K)",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17526",
+      "ytId": "qg3WHiwhHPw",
+      "eventId": "e1175",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 아이브 'ATTITUDE' 단독샷 별도녹화│IVE ONE TAKE STAGE @SBS Inkigayo 250209",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17527",
+      "ytId": "VWNfprBaXt0",
+      "eventId": "e1175",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 장원영 'ATTITUDE' (IVE JANG WONYOUNG FanCam) @SBS Inkigayo 250209",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17528",
+      "ytId": "xW7zPvW13N0",
+      "eventId": "e1175",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 안유진 'ATTITUDE' (IVE AN YUJIN FanCam) @SBS Inkigayo 250209",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17529",
+      "ytId": "oEDgwk5cUDs",
+      "eventId": "e1183",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 스텔라 'The Chase' (Hearts2Hearts STELLA FanCam) @SBS Inkigayo 250302",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17530",
+      "ytId": "4Ak8fanF-S4",
+      "eventId": "e1187",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 하츠투하츠 스텔라 'The Chase' (Hearts2Hearts STELLA FaceCam) @SBS Inkigayo 250309",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17531",
+      "ytId": "le5vCG-TQps",
+      "eventId": "e1187",
+      "songs": [
+        {
+          "songId": "g4s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 하츠투하츠 스텔라 'The Chase' (Hearts2Hearts STELLA FanCam) @SBS Inkigayo 250309",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17532",
+      "ytId": "-pWytfdJmko",
+      "eventId": "e1192",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "'최초 공개' NMIXX - KNOW ABOUT ME #엠카운트다운 EP.880 | Mnet 250320 방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17533",
+      "ytId": "a1ssvmj2E9g",
+      "eventId": "e1194",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX (엔믹스) - KNOW ABOUT ME @인기가요 inkigayo 20250323",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17534",
+      "ytId": "CvN9Ptb65Hg",
+      "eventId": "e1194",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 엔믹스 'KNOW ABOUT ME' 단독샷 별도녹화│NMIXX ONE TAKE STAGE│@SBS Inkigayo 250323",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17535",
+      "ytId": "HEd1P4DD1iI",
+      "eventId": "e1195",
+      "songs": [
+        {
+          "songId": "g2s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[COMEBACK] 엔믹스(NMIXX) - KNOW ABOUT ME l Show Champion l EP.548 l 250326",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17536",
+      "ytId": "mivd53H0Vm4",
+      "eventId": "e1202",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "'COMEBACK' tripleS - 깨어 (Are You Alive) #엠카운트다운 EP.888 | Mnet 250515 방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17537",
+      "ytId": "m6el-2QsiZ0",
+      "eventId": "e1203",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "깨어 (Are You Alive) - tripleS [뮤직뱅크/Music Bank] | KBS 250516 방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17538",
+      "ytId": "2fsXORTi0Rk",
+      "eventId": "e1210",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "tripleS - 깨어 (Are You Alive) (본교 교복ver.) #엠카운트다운 EP.890 | Mnet 250529 방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17539",
+      "ytId": "2nwPlnHMReo",
+      "eventId": "e1215",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "'최초 공개' ITZY - Girls Will Be Girls #엠카운트다운 EP.892 | Mnet 250612 방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17540",
+      "ytId": "oM8rGkL2f6U",
+      "eventId": "e1217",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Girls Will Be Girls - ITZY イットジー 있지 [Music Bank] | KBS WORLD TV 250613",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17541",
+      "ytId": "BtEvxo-_gs0",
+      "eventId": "e1219",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY (있지) - Girls Will Be Girls | Show! MusicCore | MBC250614방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17542",
+      "ytId": "gi3bQPuZYhc",
+      "eventId": "e1218",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "KISS OF LIFE (키스 오브 라이프) - Lips Hips Kiss | Show! MusicCore | MBC250614방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17543",
+      "ytId": "90O9yt7biPE",
+      "eventId": "e1221",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 유나 'Girls Will Be Girls' (ITZY YUNA FanCam) @SBS Inkigayo 250615",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17544",
+      "ytId": "5dH3SB8Pso0",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g10s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Lips Hips Kiss - KISS OF LIFE (키스오브라이프) [뮤직뱅크/Music Bank] | KBS 250620 방송",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17545",
+      "ytId": "IUx2uLTU0YQ",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g8s12",
+          "t": 0
+        },
+        {
+          "songId": "g8s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250727 SBS 가요대전 'DRIP + HOT SAUCE' AHYEON 아현 직캠 (4K)",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17546",
+      "ytId": "UK2o1LSqFAE",
+      "eventId": "e1251",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 있지 유나 'INTRO + TUNNEL VISION (Remix)' (ITZY YUNA FanCam) @SBS GayoDaejeon 251225",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17547",
+      "ytId": "WeFQuiSbhVk",
+      "eventId": "e1251",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 있지 류진 'INTRO + TUNNEL VISION (Remix)' (ITZY RYUJIN FanCam) @SBS GayoDaejeon 251225",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17548",
+      "ytId": "RJe8cphv_Bw",
+      "eventId": "e1251",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 ITZY RYUJIN 류진 Intro + TUNNEL VISION Fancam 직캠 @ SBS 가요대전 GAYO DAEJEON",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17549",
+      "ytId": "OszFo_HTEnM",
+      "eventId": "e1251",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 ITZY RYUJIN 'TUNNEL VISION' fancam 있지 류진 직캠 @ SBS 가요대전",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17550",
+      "ytId": "iR3pombYXCw",
+      "eventId": "e1251",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251225 TUNNEL VISION -YEJI FOCUS 직캠 [4K] 있지 예지 ITZY FANCAM@SBS Gayo Daejeon 가요대전",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17551",
+      "ytId": "JTbayp0L50g",
+      "eventId": "e1251",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251225 있지 예지 직캠 4K 'TUNNEL VISION' (ITZY YEJI FANCAM) | SBS Gayo Daejeon 2025",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17552",
+      "ytId": "Dr5K56vIGMc",
+      "eventId": "e1251",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 있지 예지 'INTRO + TUNNEL VISION (Remix)' (ITZY YEJI FanCam) @SBS GayoDaejeon 251225",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17553",
+      "ytId": "Pg6hKBh6Dg4",
+      "eventId": "e1251",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251225 〖4K〗SBS Gayo Daejeon ITZY CHAERYEONG FOCUS TUNNEL VISION 채령 직캠",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17554",
+      "ytId": "W6hRxeHYZ1I",
+      "eventId": "e1252",
+      "songs": [
+        {
+          "songId": "g8s10",
+          "t": 0
+        },
+        {
+          "songId": "g8s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 베이비몬스터 치키타 'WE GO UP + PSYCHO' (BABYMONSTER CHIQUITA FanCam) @SBS GayoDaejeon 251225",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17555",
+      "ytId": "ChpgsyU2lls",
+      "eventId": "e1252",
+      "songs": [
+        {
+          "songId": "g8s10",
+          "t": 0
+        },
+        {
+          "songId": "g8s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 베이비몬스터 아현 'WE GO UP + PSYCHO' (BABYMONSTER AHYEON FanCam) @SBS GayoDaejeon 251225",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17556",
+      "ytId": "vr6oUKLOs00",
+      "eventId": "e1252",
+      "songs": [
+        {
+          "songId": "g8s10",
+          "t": 0
+        },
+        {
+          "songId": "g8s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 BABYMONSTER ASA 베이비몬스터 아사 'WE GO UP + PSYCHO' FANCAM 직캠 | SBS 가요대전 GayoDaejeon",
+      "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17557",
+      "ytId": "BG2tKAdecD0",
+      "eventId": "e1252",
+      "songs": [
+        {
+          "songId": "g8s10",
+          "t": 0
+        },
+        {
+          "songId": "g8s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 베이비몬스터 아사 'WE GO UP + PSYCHO' (BABYMONSTER ASA FanCam) @SBS GayoDaejeon 251225",
       "channel": "",
       "pin": false,
       "gone": false
