@@ -176,3 +176,6 @@
 - 제39회 골든디스크 JTBC 공식 방송 무대(bza4Cz8FOpo, HKJcwNwk5eA 등)와 2025 GDA 직캠 중 곡이 Pierrot 한 곡이거나 Pierrot+CRAZY 두 곡인 영상(MBmLtGD8SK8, rCy1xonCiXM, 5aQ1K4ONzNI, R7JLLxj7dnw, 9WCbiITYHpg 등): Pierrot가 곡 목록에 없어 새 곡 여부 확인이 필요해 보류. 곡 없음·시상식 소감·방송사 풀캠도 보류.
 - 12-25 가요대전 홍은채 CRAZY(Atntuz3jfxY)는 4분기 PR에 이미 담음. Category is LESSERAFIM(oEXbNTiTBaw, fcFrfSZUsMs)은 12월과 같은 이유로 보류.
 - 01-24 SWU, 01-30 엠카운트다운(vf97Wm2RS8U)은 새 행사·풀캠/직캠 불명으로 보류.
+
+### 르세라핌 2025-02
+- 확실한 무대 영상이 없었어요(자동 0, 확인 필요 364는 대부분 범위 밖·비무대). 02-18 오버워치2 라이브 스트리밍 이벤트 직캠(nFhr7tsB1_Y, OWt2FPWjyho)은 곡이 없어 보류.

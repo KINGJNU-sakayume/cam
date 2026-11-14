@@ -89,3 +89,4 @@ node scripts/archive.mjs validate
 | g11 | 2024-11 | 2 (2024 MTV EMA 직캠, 공연 1) | open-questions §8 (검색 실패 0) |
 | g11 | 2024-12 | 28 (글로벌 페스티벌 12-15 5 + 12-19 15, SBS 가요대전 2, AAA 직캠 6, 공연 4) | open-questions §8 (검색 실패 0) |
 | g11 | 2025-01 | 5 (골든디스크어워즈 01-04 직캠, 공연 1) | open-questions §8 (검색 실패 0) |
+| g11 | 2025-02 | 0 (무대 영상 없음) | open-questions §8 (검색 실패 0) |
