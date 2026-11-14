@@ -19194,6 +19194,50 @@
         "g11s5"
       ],
       "note": ""
+    },
+    {
+      "id": "e1255",
+      "groupId": "g11",
+      "date": "2024-05-09",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g11s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1256",
+      "groupId": "g11",
+      "date": "2024-05-11",
+      "show": "팬미팅",
+      "label": "",
+      "setlist": [
+        "g11s4",
+        "g11s10",
+        "g11s3",
+        "g11s6",
+        "g11s5",
+        "g11s9",
+        "g11s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1257",
+      "groupId": "g11",
+      "date": "2024-05-12",
+      "show": "팬미팅",
+      "label": "",
+      "setlist": [
+        "g11s4",
+        "g11s5",
+        "g11s9",
+        "g11s3",
+        "g11s6",
+        "g11s7"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -331737,6 +331781,755 @@
       "tags": [],
       "title": "240420 르세라핌 김채원 코첼라 Perfect NightㅣLE SSERAFIM KIMCHAEWON",
       "channel": "Poppy",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17518",
+      "ytId": "E5mZw8PGu7Y",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[SHINE STAGE 특집] LE SSERAFIM (르세라핌) - Smart #엠카운트다운 EP.842 | Mnet 240509 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-09"
+    },
+    {
+      "id": "v17519",
+      "ytId": "UQUOTsg_J30",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s4",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[240511 4K LE SSELAIM fanmeeting] 르세라핌 팬미팅 멘트+무대 (ment + 앵콜 옷고르기 + ending+ 이브,프시케 그리고 푸른 수염의 아내)",
+      "channel": "기록용",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-12"
+    },
+    {
+      "id": "v17520",
+      "ytId": "SagFk6LPChw",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        },
+        {
+          "songId": "g11s3",
+          "t": 0
+        },
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[240511 4K LE SSERAFIM fanmeeting] 르세라핌 팬미팅 무대2 ( Hot and Fun + UNFORGIVEN + EASY + Perfect Night )",
+      "channel": "기록용",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-12"
+    },
+    {
+      "id": "v17521",
+      "ytId": "MZ70cG1TKFE",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240511 르세라핌 사쿠라 'Perfect Night' 직캠 LE SSERAFIM Sakura 4k Fancam @FAN MEETING 'FEARNADA' 2024 S/S",
+      "channel": "꾸루투",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v17522",
+      "ytId": "uL91DZIm038",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240511 '1-800-Hot-N-Fun' - 르세라핌 홍은채 focus 직캠 @LESSERAFIM FANMEETING 'FEARNADA' 2024 S/S Day1",
+      "channel": "케박",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-11"
+    },
+    {
+      "id": "v17523",
+      "ytId": "d8JDPejo8BM",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240511 'Unforgiven' (Rock ver.) - 르세라핌 홍은채 focus 직캠 @LESSERAFIM FANMEETING 'FEARNADA' 2024 S/S Day1",
+      "channel": "케박",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-12"
+    },
+    {
+      "id": "v17524",
+      "ytId": "ytc_LI-TBhU",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240511 'UNFORGIVEN' (KimChaewon Fancam) 김채원 직캠 | 르세라핌 FANMEETING FEARNADA",
+      "channel": "네이탄",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v17525",
+      "ytId": "scWKmcIia8g",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "4K 240511 LE SSERAFIM FEARNADA HUH YUN JIN Unforgiven fancam 르세라핌 팬미팅 허윤진 언포기븐 세로 직캠",
+      "channel": "밤상잭 Night walk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-15"
+    },
+    {
+      "id": "v17526",
+      "ytId": "AB_GvzsFNMY",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240511 르세라핌 사쿠라 'SMART' 직캠 LE SSERAFIM Sakura 4k Fancam @FAN MEETING 'FEARNADA' 2024 S/S",
+      "channel": "꾸루투",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-15"
+    },
+    {
+      "id": "v17527",
+      "ytId": "MI2xrY_MVwc",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240511 르세라핌 허윤진 직캠 '이브, 프시케 그리고 푸른 수염의 아내' (LE SSERAFIM YUNJIN Fancam) @FAN MEETING FEARNADA",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-12"
+    },
+    {
+      "id": "v17528",
+      "ytId": "fC9hogAkpvg",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K】Smart【240511 FAN MEETING FEARNADA】 | LE SSERAFIM YUNJIN FANCAM/윤진 직캠",
+      "channel": "MONIKA DIARY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v17529",
+      "ytId": "B_l4-pe5mZ0",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K】EASY【240511 FAN MEETING FEARNADA】 | LE SSERAFIM YUNJIN FANCAM/윤진 직캠",
+      "channel": "MONIKA DIARY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-16"
+    },
+    {
+      "id": "v17530",
+      "ytId": "vwO4Zi5hCoc",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240511 르세라핌 사쿠라 '1-800-hot-n-fun' 직캠 LE SSERAFIM Sakura 4k Fancam @FAN MEETING 'FEARNADA' 2024 S/S",
+      "channel": "꾸루트",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17531",
+      "ytId": "Ut1CIx6l7Sc",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240511 '1-800-HOT-N-FUN' (KimChaewon Fancam) 김채원 직캠 | 르세라핌 FANMEETING FEARNADA",
+      "channel": "네이탄",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17532",
+      "ytId": "WyZCniPKWAs",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240511 르세라핌 사쿠라 'Unforgiven' 직캠 LE SSERAFIM Sakura 4k Fancam @FAN MEETING 'FEARNADA' 2024 S/S",
+      "channel": "꾸루투",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17533",
+      "ytId": "AsLrFgMtvus",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240511 르세라핌 사쿠라 'EASY' 직캠 LE SSERAFIM Sakura 4k Fancam @FAN MEETING 'FEARNADA' 2024 S/S",
+      "channel": "꾸루투",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17534",
+      "ytId": "r5z2OfnkCu4",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g11s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240512 르세라핌 김채원(Chaewon) 이브, 프시케 그리고 푸른수염의 아내 @ LE SSERAFIM 2024 FANMEETING ‘FEARNADA’ 팬미팅 직캠 fancam",
+      "channel": "enustiK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v17535",
+      "ytId": "slQLtwnPKLk",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240512 르세라핌 사쿠라 'Perfect Night' 직캠 LE SSERAFIM Sakura 4k Fancam @FAN MEETING 'FEARNADA' 2024 S/S",
+      "channel": "꾸루투",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-19"
+    },
+    {
+      "id": "v17536",
+      "ytId": "xnqGcBR7iRk",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240512 르세라핌 김채원 Chaewon - 1-800-hot-n-fun @ LE SSERAFIM FANMEETING ‘FEARNADA’ 2024 S/S 팬미팅 직캠 fancam",
+      "channel": "enustiK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-13"
+    },
+    {
+      "id": "v17537",
+      "ytId": "saJeAHUHfwk",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240512 르세라핌 사쿠라 'Unforgiven' 직캠 LE SSERAFIM Sakura 4k Fancam @FAN MEETING 'FEARNADA' 2024 S/S",
+      "channel": "꾸루투",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-21"
+    },
+    {
+      "id": "v17538",
+      "ytId": "5da_8J6lD1I",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240512 르세라핌 김채원(Chaewon) - Perfect Night @ LE SSERAFIM FAN MEETING ‘FEARNADA’ 2024 S/S 팬미팅 직캠 fancam",
+      "channel": "enustiK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v17539",
+      "ytId": "dtZFsEMXm3Q",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 240512 1-800-Hot-N-Fun 르세라핌 김채원 KIM CHAEWON 직캠 [LE SSERAFIM FAN MEETING 'FEARNADA' 2024 S/S]",
+      "channel": "𝕡𝕠𝕧",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17540",
+      "ytId": "mlr3D3cCiTM",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240512 르세라핌 사쿠라 '1-800-hot-n-fun' 직캠 LE SSERAFIM Sakura 4k Fancam @FAN MEETING 'FEARNADA' 2024 S/S",
+      "channel": "꾸루투",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-18"
+    },
+    {
+      "id": "v17541",
+      "ytId": "GEPlp8z9zo0",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240512 르세라핌 김채원(Chaewon) - Easy @ LE SSERAFIM FAN MEETING ‘FEARNADA’ 2024 S/S 팬미팅 직캠 fancam",
+      "channel": "enustiK",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17542",
+      "ytId": "mMTxCbxCFNI",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240512 르세라핌 사쿠라 'EASY' 직캠 LE SSERAFIM Sakura 4k Fancam @FAN MEETING 'FEARNADA' 2024 S/S",
+      "channel": "꾸루투",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17543",
+      "ytId": "VdsgH9lCuaE",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240512 르세라핌 사쿠라 'SMART' 직캠 LE SSERAFIM Sakura 4k Fancam @FAN MEETING 'FEARNADA' 2024 S/S",
+      "channel": "꾸루투",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17544",
+      "ytId": "64aPzOjYU9U",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240511 김채원 직캠 이브, 프시케 그리고 푸른수염의 아내 르세라핌 팬미팅 FEARNADA LE SSERAFIM KIMCHEAWOM",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-02"
+    },
+    {
+      "id": "v17545",
+      "ytId": "A5F2CIOq2Wo",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240511 FEARNADA #르세라핌 #김채원 이브, 프시케 그리고 푸른 수염의 아내 직캠",
+      "channel": "𝙛𝙛.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-12"
+    },
+    {
+      "id": "v17546",
+      "ytId": "1pcOv2B3_pw",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240511 르세라핌 사쿠라 '이브, 프시케 그리고 푸른수염의 아내' 직캠 LE SSERAFIM Sakura 4k Fancam @'FEARNADA' 2024 S/S",
+      "channel": "꾸루투",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-16"
+    },
+    {
+      "id": "v17547",
+      "ytId": "cD1_hRRPVEk",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g11s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240512 르세라핌 사쿠라 '이브, 프시케 그리고 푸른수염의 아내' 직캠 LE SSERAFIM Sakura 4k Fancam @'FEARNADA' 2024 S/S",
+      "channel": "꾸루투",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-21"
+    },
+    {
+      "id": "v17548",
+      "ytId": "BjA18s48D-w",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240512 르세라핌 사쿠라 ‘1-800-hot-n-fun’ 직캠 (LE SSERAFIM SAKURA FANCAM) @ ‘FEARNADA’ 2024 S/S",
+      "channel": "maplensakura",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17549",
+      "ytId": "r7tm9GYXdoo",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g11s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240512 르세라핌 사쿠라 ‘이브, 프시케 그리고 푸른 수염의 아내’ 직캠 (LE SSERAFIM SAKURA FANCAM) @ ‘FEARNADA’ 2024 S/S",
+      "channel": "maplensakura",
       "pin": false,
       "gone": false
     }
