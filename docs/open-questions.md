@@ -154,3 +154,14 @@
 - 같은 날(09-27) 서강대·서울과학기술대 축제는 제목에 학교명이 분명해 각각 다른 공연으로 담음.
 - 방송사 공식 영상·멤버 없는 직캠·곡을 알 수 없는 영상은 이전 달과 같은 기준으로 보류(review.txt 참고).
 - 광주대 09-30 카즈하 UNFORGIVEN(WthHd8XKeCE): 제목에 곡이 분명해 담았지만 공연 setlist에 없어 경고가 났어요. 확인 필요.
+
+### 르세라핌 2024-10
+- 10-01 호서대·10-02 동명대/영남대 축제 영상: 멤버 없는 직캠(DaftTaengk, Bamp VIDEO 등), 풀캠/직캠 구분 없는 kimbilly·Rock Music·K-MORY 영상, 풀 버전(J6yzPl6GNhE, xAQ0MHP5WVY, k49JPBO3-38 등), 멤버는 있으나 곡 표기가 달라 자동 선별을 못 한 동명대 직캠(GS5bwm1h_DI, ny-AcHA-DBU, JxFvcqrMfGI, snlPYZR7HV4, QaHTSFAI8aM, UuGsVOkklNg, CuzPjapIpHs)은 보류.
+- 10-01 한양대 에리카 축제(OCzGc-sxTfg, O_VICinYco8): 새 행사라 보류.
+- 09-30 광주대 영상 4개는 3분기 PR(#59)에 이미 담겨 있어 이번 브랜치에서는 뺐어요.
+
+### 르세라핌 2024-11
+- 광주대 카즈하 Full Ver.(TvqR1uOp8SY): 제목에 날짜가 없어 보류(09-30 광주대 축제로 보이나 확인 필요).
+- JTBC 골든 웨이브 241108 방송 무대(o2GDtkQaz7c, mbDq75c63lE, w8hZJwMOGns, fkxrCMImq28, Ch-rAUgYRhQ), MTV EMA 공식 무대(NdExiLt1erE, QMXvuKzbgkI), 맨체스터 직캠(p68-MTjjWjg, B-QzfBIfDic): 풀캠/직캠·멤버가 불명이라 보류.
+- 영남대 축제 직캠(l9vGJ72Dud4)은 멤버·곡 없음, 11-24 Revive X 파티 영상은 새 행사라 보류.
+- 담은 것: 2024 MTV EMA(11-10) 사쿠라·홍은채 CRAZY 직캠 2개(제목에 행사·날짜·멤버·곡 모두 있음).

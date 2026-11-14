@@ -20105,6 +20105,65 @@
         "g7s7"
       ],
       "note": ""
+    },
+    {
+      "id": "e1329",
+      "groupId": "g11",
+      "date": "2024-10-01",
+      "show": "호서대 축제",
+      "label": "",
+      "setlist": [
+        "g11s5",
+        "g11s3",
+        "g11s2",
+        "g11s8",
+        "g11s7",
+        "g11s9",
+        "g11s4"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1330",
+      "groupId": "g11",
+      "date": "2024-10-02",
+      "show": "동명대 축제",
+      "label": "",
+      "setlist": [
+        "g11s2",
+        "g11s8",
+        "g11s9",
+        "g11s5",
+        "g11s7",
+        "g11s3",
+        "g11s4"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1331",
+      "groupId": "g11",
+      "date": "2024-10-02",
+      "show": "영남대 축제",
+      "label": "",
+      "setlist": [
+        "g11s7",
+        "g11s8",
+        "g11s9",
+        "g11s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1332",
+      "groupId": "g11",
+      "date": "2024-11-10",
+      "show": "2024 MTV EMA",
+      "label": "",
+      "setlist": [
+        "g11s8"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -346594,6 +346653,886 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-04-04"
+    },
+    {
+      "id": "v18127",
+      "ytId": "30tefPc4lfk",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "르세라핌 (LE SSERAFIM) 홍은채 'Perfect Night' 직캠 @ 호서대 축제 | 241001 | 4K60p",
+      "channel": "smile -wA-",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18128",
+      "ytId": "E6gOz9s6uFs",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "르세라핌 허윤진 ( UNFORGIVEN ) 호서대학교 축제 직캠 Lesserafim Fancam 241001",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18129",
+      "ytId": "jia7DMxGWI0",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "르세라핌 (LE SSERAFIM) 김채원 'ANTIFRAGILE' 직캠 @ 호서대 축제 | 241001 | 4K60p",
+      "channel": "smile -wA-",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18130",
+      "ytId": "CDsNJjDQyRw",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "르세라핌 허윤진 ( Antifragile ) 호서대학교 축제 직캠 Lesserafim Fancam 241001",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18131",
+      "ytId": "2EXH6qTh_6o",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "르세라핌 허윤진 ( CRAZY ) 호서대학교 축제 직캠 Lesserafim Fancam 241001",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18132",
+      "ytId": "44QI0brA-_k",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "르세라핌 (LE SSERAFIM) 김채원 'CRAZY' 직캠 @ 호서대 축제 | 241001 | 4K60p",
+      "channel": "smile -wA-",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18133",
+      "ytId": "2MRXY2Zl8SE",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "르세라핌 허윤진 ( SMART ) 호서대학교 축제 직캠 Lesserafim Fancam 241001",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-04"
+    },
+    {
+      "id": "v18134",
+      "ytId": "Rel64XQ2s54",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241001 르세라핌 홍은채 직캠 (LE SSERAFIM HONG EUNCHAE Fancam) 'Smart' @호서대 축제 #ルセラフィム",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18135",
+      "ytId": "fK_DBkBH5EI",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "르세라핌 허윤진 ( Perfect Night ) 호서대학교 축제 직캠 Lesserafim Fancam 241001",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18136",
+      "ytId": "odbWGERs-Xk",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "르세라핌 (LE SSERAFIM) 허윤진 '1-800-hot-n-fun' 직캠 @ 호서대 축제 | 241001 | 4K60p",
+      "channel": "smile -wA-",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18137",
+      "ytId": "-oGcCzT9n8g",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "르세라핌 (LE SSERAFIM) 김채원 '이브, 프시케 그리고 푸른 수염의 아내' 직캠 @ 호서대 축제 | 241001 | 4K60p",
+      "channel": "smile -wA-",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18138",
+      "ytId": "r3SolraqGMg",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "르세라핌 (LE SSERAFIM) 사쿠라 'Smart' 직캠 @ 호서대 축제 | 241001 | 4K60p",
+      "channel": "smile -wA-",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18139",
+      "ytId": "da5-nQmmqh4",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "르세라핌 허윤진 ( 1-800-hot-n-fun ) 호서대학교 축제 직캠 Lesserafim Fancam 241001",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18140",
+      "ytId": "4anjRXHByIU",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241001 르세라핌 허윤진 직캠 'Smart' (LE SSERAFIM YUNJIN FanCam) @호서대",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-02"
+    },
+    {
+      "id": "v18141",
+      "ytId": "V943GMsQMLU",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241001 르세라핌 홍은채 직캠 (LE SSERAFIM HONG EUNCHAE Fancam) 'CRAZY' @호서대 축제 #ルセラフィム",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18142",
+      "ytId": "IPWiJtMKGvg",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "르세라핌 (LE SSERAFIM) 카즈하 'UNFORGIVEN' 직캠 @ 호서대 축제 | 241001 | 4K60p",
+      "channel": "smile -wA-",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18143",
+      "ytId": "z9E88GGnvs4",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        },
+        {
+          "songId": "g11s8",
+          "t": 0
+        },
+        {
+          "songId": "g11s9",
+          "t": 0
+        },
+        {
+          "songId": "g11s5",
+          "t": 0
+        },
+        {
+          "songId": "g11s7",
+          "t": 0
+        },
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241002 르세라핌 카즈하 🎵ANTIFRAGILE+CRAZY+1-800-hot-n-fun+Perfect Night+Smart+UNFORGIVEN+EP&TB's wife @동명대",
+      "channel": "CENTERBUG",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-02"
+    },
+    {
+      "id": "v18144",
+      "ytId": "G_Xjj50OJws",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241002 #LE_SSERAFIM #르세라핌 #김채원 #KIMCHAEWON #UNFORGIVEN #동명대_축제 #직캠 #FANCAM By #땀맨 #SWEATMAN",
+      "channel": "땀맨",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18145",
+      "ytId": "wMOR5eVXttk",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241002 #LE_SSERAFIM #르세라핌 #사쿠라 #SAKURA #ANTIFRAGILE #동명대_축제 #직캠 #FANCAM By #땀맨 #SWEATMAN",
+      "channel": "땀맨",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18146",
+      "ytId": "BHN-LZbKsEw",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K 241002 동명대 축제 르세라핌 허윤진 1-800-HOT-N-FUN . HUH YUN JIN TONGMYONG UNIV",
+      "channel": "밤상잭 Night walk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18147",
+      "ytId": "vjn5PqBC7T8",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "241002 르세라핌 홍은채 Unforgiven 세로 직캠 / LE SSERAFIM HONGEUNCHAE focus fancam @동명대학교 축제",
+      "channel": "OFF",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18148",
+      "ytId": "PH8yjiDwr4k",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "241002 르세라핌 홍은채 CRAZY 세로 직캠 / LE SSERAFIM HONGEUNCHAE focus fancam @동명대학교 축제",
+      "channel": "OFF",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18149",
+      "ytId": "zFAnxv2lYT0",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "241002 르세라핌 홍은채 SMART 세로 직캠 / LE SSERAFIM HONGEUNCHAE focus fancam @동명대학교 축제",
+      "channel": "OFF",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18150",
+      "ytId": "NHCEt4XSBeg",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[FaceCam] 241002 LE SSERFIM (르세라핌) 홍은채 (Eunchae) - 이브, 프시케 그리고 푸른 수염의 아내 @ 동명대학교 축제 직캠 (Fancam)",
+      "channel": "Lunatic Soul",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18151",
+      "ytId": "hwtQjKDwwNk",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241002 #LE_SSERAFIM #르세라핌 #카즈하 #KAZUHA #CRAZY #동명대_축제 #직캠 #FANCAM By #땀맨 #SWEATMAN",
+      "channel": "땀맨",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18152",
+      "ytId": "wkQzk302g5E",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241002 #LE_SSERAFIM #르세라핌 #사쿠라 #SAKURA #Smart #동명대_축제 #직캠 #FANCAM By #땀맨 #SWEATMAN",
+      "channel": "땀맨",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18153",
+      "ytId": "AbvcAnXPAhU",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "241002 르세라핌 홍은채 이브, 프시케 그리고 푸른 수염의 아내 세로 직캠 / LE SSERAFIM HONGEUNCHAE focus fancam @동명대학교 축제",
+      "channel": "OFF",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18154",
+      "ytId": "BCdT9FELQOM",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "241002 르세라핌 홍은채 Perfect Night 세로 직캠 / LE SSERAFIM HONGEUNCHAE focus fancam @동명대학교 축제",
+      "channel": "OFF",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18155",
+      "ytId": "w5QeWMH5tu0",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "르세라핌 카즈하 (LE SSERAFiM KAZUHA focus) 🎧 ‘Smart’ | 영남대 축제 | 241002",
+      "channel": "SPHiNX",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18156",
+      "ytId": "Md-_hQV7Fsg",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "르세라핌 카즈하 (LE SSERAFiM KAZUHA focus) 🎧 ‘CRAZY’ | 영남대 축제 | 241002",
+      "channel": "SPHiNX",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18157",
+      "ytId": "Adkwb2uTk5U",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "르세라핌 카즈하 (LE SSERAFiM KAZUHA focus) 🎧 ‘1-800-hot-n-fun’ | 영남대 축제 | 241002",
+      "channel": "SPHiNX",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18158",
+      "ytId": "Z5yqTGXhl58",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241002 르세라핌 홍은채 직캠 (LE SSERAFIM HONG EUNCHAE Fancam) 'ANTIFRAGILE' @영남대 축제 #ルセラフィム",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18159",
+      "ytId": "dYRY360vt2U",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241002 르세라핌 김채원 '1-800-hot-n-fun' 직캠 LE SSERAFIM KIMCHAEWON Fancam @영남대학교",
+      "channel": "JYing.t",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18160",
+      "ytId": "Ffztj1r-gUg",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241002 르세라핌 김채원 'ANTIFRAGILE' 직캠 LE SSERAFIM KIMCHAEWON Fancam @영남대학교",
+      "channel": "JYing.t",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18161",
+      "ytId": "NI1vpYmLdi8",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "UNFORGIVEN 르세라핌 (LE SSERAFIM)채원 세로 직캠FULL VER. 호서대학교 241001",
+      "channel": "K-MORY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18162",
+      "ytId": "8Ny8eshZs-g",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241001 르세라핌 LE SSERAFIM - 안티프래자일 ANTIFRAGILE | 김채원 포함 와이드풀샷 가로 직캠 | 호서대학교 대동제 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-20"
+    },
+    {
+      "id": "v18163",
+      "ytId": "PrONghmsyDo",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241001 르세라핌 LE SSERAFIM - 퍼팩트 나이트 Perfect Night | 김채원 포함 와이드풀샷 가로 직캠 | 호서대학교 대동제 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-29"
+    },
+    {
+      "id": "v18164",
+      "ytId": "Ko2CuOlJzTc",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241110 2024 MTV EMA | LE SSERAFIM SAKURA FOCUS ‘CRAZY' | 르세라핌 사쿠라 직캠 2024 MTV EMA",
+      "channel": "ARUKAS - For Sakura",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-17"
+    },
+    {
+      "id": "v18165",
+      "ytId": "5LsdT4da14k",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241110 LE SSERAFIM HONG EUNCHAE CRAZY MTV EMA fancam 르세라핌 홍은채 크레이지 EMA 직캠",
+      "channel": "Cherish",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-11"
     }
   ],
   "clips": []
