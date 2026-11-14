@@ -93,3 +93,4 @@ node scripts/archive.mjs validate
 | g11 | 2025-03 | 89 (음악방송 컴백 활동 8회 + 쇼케이스 2, 공연 10) | open-questions §8 (검색 실패 0) |
 | g11 | 2025-04 | 7 (투어 'EASY CRAZY HOT' 인천 직캠, 공연 2) + 03월분 6개는 #64 병합 뒤 | open-questions §8 (검색 실패 0) |
 | g11 | 2025-05 | 8 (고려대 입실렌티 직캠, 공연 1) | open-questions §8 (검색 실패 0) |
+| g11 | 2025-06 | 13 (고려대 페이스캠 3 + 위버스콘 페스티벌 2025 직캠 5 + 사이타마 투어 직캠 5, 공연 4) | open-questions §8 (검색 실패 0) |

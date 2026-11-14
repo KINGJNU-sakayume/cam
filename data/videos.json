@@ -20145,6 +20145,51 @@
         "g11s2"
       ],
       "note": ""
+    },
+    {
+      "id": "e1332",
+      "groupId": "g11",
+      "date": "2025-06-01",
+      "show": "위버스콘 페스티벌 2025",
+      "label": "",
+      "setlist": [
+        "g11s10",
+        "g11s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1333",
+      "groupId": "g11",
+      "date": "2025-06-12",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 사이타마",
+      "label": "",
+      "setlist": [
+        "g11s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1334",
+      "groupId": "g11",
+      "date": "2025-06-14",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 사이타마",
+      "label": "",
+      "setlist": [
+        "g11s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1335",
+      "groupId": "g11",
+      "date": "2025-06-15",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 사이타마",
+      "label": "",
+      "setlist": [
+        "g11s13"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -346968,6 +347013,301 @@
       "channel": "vvt_il ",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v18142",
+      "ytId": "_SLqL4ipY0Q",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[4K 페이스캠] LE SSERAFIM 사쿠라 'CRAZY’ (LE SSERAFIM SAKURA FACECAM) | 2025 고려대학교 입실렌티",
+      "channel": "고려대학교 교육방송국 KUBS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-25"
+    },
+    {
+      "id": "v18143",
+      "ytId": "2RwwkzAHaRM",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[4K 페이스캠] LE SSERAFIM 김채원 'HOT’ (LE SSERAFIM KIM CHAEWON FACECAM) | 2025 고려대학교 입실렌티",
+      "channel": "고려대학교 교육방송국 KUBS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-24"
+    },
+    {
+      "id": "v18144",
+      "ytId": "Ic8_xCQwI2U",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[4K 페이스캠] LE SSERAFIM 카즈하 'Come Over’ (LE SSERAFIM KAZUHA FACECAM) | 2025 고려대학교 입실렌티",
+      "channel": "고려대학교 교육방송국 KUBS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-24"
+    },
+    {
+      "id": "v18145",
+      "ytId": "tcw7ryghggA",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250601 WEVERSE CON - 'HOT'  LE SSERAFIM (르세라핌) CHAEWON Focus 김채원 직캠",
+      "channel": "Bloom x Rewind",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18146",
+      "ytId": "K0f1JbVZ12c",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]  250601 WEVERSE CON LE SSERAFIM KAZUHA 르세라핌 카즈하 HOT 직캠",
+      "channel": "Quest",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-13"
+    },
+    {
+      "id": "v18147",
+      "ytId": "8SZItQ8jHzA",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM KAZUHA HOT 🥵 FANCAM📽  [WEVERSE CON FESTIVAL 🇰🇷 250601] ",
+      "channel": "vvt_il ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18148",
+      "ytId": "Re6spz-GckU",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM SAKURA HOT 🔥 FANCAM📽 [WEVERSE CON FESTIVAL 🇰🇷 250601]  ",
+      "channel": "vvt_il ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18149",
+      "ytId": "9BO16KZMfM4",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM KAZUHA ANTIFRAGILE 💪 FANCAM📽 [WEVERSE CON FESTIVAL 🇰🇷 250601] ",
+      "channel": "vvt_il ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18150",
+      "ytId": "NYlkuxLA0nM",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250612 LE SSERAFIM TOUR ‘EASY CRAZY HOT’ IN SAITAMA ‘DIFFERENT’ 4K LE SSERAFIM 사쿠라 FOCUS |  사쿠라 직캠",
+      "channel": "ARUKAS - For Sakura",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18151",
+      "ytId": "aHxyg6dWUKU",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250614 LE SSERAFIM TOUR, EASY CRAZY HOT in Saitama - Different (Sakura Cam)",
+      "channel": "서기찬 SEOKICHAN",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18152",
+      "ytId": "FOC53Bo99gA",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250614 LE SSERAFIM (르세라핌) DIFFERENT SAKURA 사쿠라 FANCAM",
+      "channel": "coldnadongie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18153",
+      "ytId": "ctyvZzVMECI",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250615 LE SSERAFIM (르세라핌) DIFFERENT SAKURA 사쿠라 FANCAM",
+      "channel": "coldnadongie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18154",
+      "ytId": "zOi-4MqIBk0",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250615 르세라핌 사쿠라 Different 직캠 (LE SSERAFIM SAKURA FANCAM) @ ‘EASY CRAZY HOT’ in Saitama Day 3",
+      "channel": "maplensakura",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-19"
     }
   ],
   "clips": []
