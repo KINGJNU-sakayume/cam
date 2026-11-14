@@ -5058,6 +5058,13 @@
           ],
           "order": 20,
           "release": "2026-09-11"
+        },
+        {
+          "id": "g11s21",
+          "title": "Swan Song",
+          "aliases": [],
+          "order": 21,
+          "release": ""
         }
       ]
     }
@@ -19201,6 +19208,182 @@
       "setlist": [
         "g8s12",
         "g8s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1256",
+      "groupId": "g11",
+      "date": "2023-12-25",
+      "show": "SBS 가요대전",
+      "label": "",
+      "setlist": [
+        "g11s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1257",
+      "groupId": "g11",
+      "date": "2024-01-06",
+      "show": "골든디스크어워즈",
+      "label": "",
+      "setlist": [
+        "g11s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1258",
+      "groupId": "g11",
+      "date": "2024-02-19",
+      "show": "쇼케이스",
+      "label": "",
+      "setlist": [
+        "g11s21",
+        "g11s7",
+        "g11s6",
+        "g11s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1259",
+      "groupId": "g11",
+      "date": "2024-02-22",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g11s21",
+        "g11s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1260",
+      "groupId": "g11",
+      "date": "2024-02-23",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g11s21",
+        "g11s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1261",
+      "groupId": "g11",
+      "date": "2024-02-24",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g11s21",
+        "g11s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1262",
+      "groupId": "g11",
+      "date": "2024-02-25",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g11s21",
+        "g11s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1263",
+      "groupId": "g11",
+      "date": "2024-02-29",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g11s6",
+        "g11s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1264",
+      "groupId": "g11",
+      "date": "2024-03-01",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g11s7",
+        "g11s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1265",
+      "groupId": "g11",
+      "date": "2024-03-02",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g11s21",
+        "g11s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1266",
+      "groupId": "g11",
+      "date": "2024-03-03",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g11s6",
+        "g11s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1267",
+      "groupId": "g11",
+      "date": "2024-03-07",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g11s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1268",
+      "groupId": "g11",
+      "date": "2024-03-08",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g11s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1269",
+      "groupId": "g11",
+      "date": "2024-03-09",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g11s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1270",
+      "groupId": "g11",
+      "date": "2024-03-10",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g11s7"
       ],
       "note": ""
     }
@@ -332635,6 +332818,4840 @@
       ],
       "title": "[2025 가요대전 4K] 베이비몬스터 아사 'WE GO UP + PSYCHO' (BABYMONSTER ASA FanCam) @SBS GayoDaejeon 251225",
       "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17558",
+      "ytId": "eJuZNhEliVE",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2023 가요대전 4K] 르세라핌 허윤진 'INTRO + Perfect Night'(LE SSERAFIM  HUH YUNJIN FanCam)@SBSGayoDaejeon231225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2023-12-27"
+    },
+    {
+      "id": "v17559",
+      "ytId": "6X3wlWyxlA0",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240106 'UNFORGIVEN+Fire in the belly' 르세라핌 김채원 직캠 LESSERAFIM KIM CHAEWON FANCAM | Golden Disc Awards",
+      "channel": "코코아☘️ cocoa.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17560",
+      "ytId": "ZrWBzFk5C2I",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] 240106 KIM CHAEWON 김채원 LE SSERAFIM 르세라핌 UNFORGIVEN + FIRE IN THE BELLY @ GOLDEN DISC AWARDS",
+      "channel": "agicheetah",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17561",
+      "ytId": "STVcylLL8LI",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K 240219 르세라핌 쇼케이스 허윤진 직캠 SWAN SONG LE SSERAFIM HUHYUNJIN fancam",
+      "channel": "밤상잭 Night walk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17562",
+      "ytId": "Lj4LnIQVkHc",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 LE SSERAFIM HONG EUNCHAE Swan Song Showcase fancam 르세라핌 홍은채 스완송 쇼케이스 직캠",
+      "channel": "Cherish",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17563",
+      "ytId": "5HIRrWOYfRY",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240219 르세라핌 사쿠라 'SWAN SONG' 직캠 LE SSERAFIM Sakura 4k Fancam @COMEBACK SHOWCASE",
+      "channel": "꾸루트",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17564",
+      "ytId": "g-ZMQyREfdk",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 LE SSERAFIM HONG EUNCHAE 'Swan Song' Fancam (르세라핌 홍은채 직캠) @SHOWCASE 쇼케이스 by favv",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-22"
+    },
+    {
+      "id": "v17565",
+      "ytId": "VEa7Dwi2mxM",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K 240219 르세라핌 쇼케이스 카즈하 직캠 SWAN SONG LE SSERAFIM KAZUHA fancam",
+      "channel": "밤상잭 Night walk",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17566",
+      "ytId": "qN23b9ostDQ",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 르세라핌 컴백 쇼케이스 \"Swan Song\" 카즈하 focus 직캠",
+      "channel": "나피나",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17567",
+      "ytId": "YSYHha4pplY",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 르세라핌 사쿠라  SMART 직캠",
+      "channel": "핌",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17568",
+      "ytId": "p3EwqI_ReDM",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM (르세라핌) 'Swan Song' l Original Stage",
+      "channel": "LE SSERAFIM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17569",
+      "ytId": "dj3m_rWWIqY",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM (르세라핌) 'EASY' l Original Stage 'HUH YUNJIN'",
+      "channel": "LE SSERAFIM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17570",
+      "ytId": "ye3blP4MxfE",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM (르세라핌) 'EASY' l Original Stage",
+      "channel": "LE SSERAFIM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17571",
+      "ytId": "IVo6WCQ2dsI",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM (르세라핌) 'EASY' l Original Stage ‘SAKURA'",
+      "channel": "LE SSERAFIM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17572",
+      "ytId": "ogsCsuf2aOo",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM (르세라핌) 'EASY' l Original Stage ‘KIM CHAEWON'",
+      "channel": "LE SSERAFIM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17573",
+      "ytId": "UW2uviF-VUs",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        },
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM(르세라핌) , Smart KIM CHAEWON Fancam Focus 240219 Comeback Showcase 'EASY'",
+      "channel": "Chaery",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17574",
+      "ytId": "vBW3dHAZwiY",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 르세라핌(LE SSERAFIM)  ‘이지(EASY)’ 컴백 쇼케이스 Good Bones + Easy(허윤진) 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17575",
+      "ytId": "atFgGT15cd8",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240219 EASY COMEBACK SHOWCASE ‘Smart’ - 르세라핌 김채원 직캠 LE SSERAFIM CHAEWON focus fancam",
+      "channel": "포이",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17576",
+      "ytId": "4r6AjooAa6Y",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 르세라핌(LE SSERAFIM)  ‘이지(EASY)’ 컴백 쇼케이스 Perfect Night 은채 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17577",
+      "ytId": "OnYwBMxFJng",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        },
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 ‘Smart’ 르세라핌 김채원 KIM CHAEWON 직캠 [LE SSERAFIM COMEBACK SHOWCASE 'EASY' 컴백쇼케이스]",
+      "channel": "𝕡𝕠𝕧",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17578",
+      "ytId": "CP62MNhlYGM",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240219 르세라핌(LE SSERAFIM) 'EASY COMEBACK SHOWCASE' 카즈하(KAZUHA) SMART 직캠 by 김이모 - 4K",
+      "channel": "KIM Yimo 김이모",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17579",
+      "ytId": "zyrKkU-Q7D8",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240219 르세라핌 사쿠라 'EASY' 직캠 LE SSERAFIM Sakura 4k Fancam @COMEBACK SHOWCASE",
+      "channel": "꾸루트",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17580",
+      "ytId": "JDLqxTJoRP0",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 르세라핌(LE SSERAFIM)  ‘이지(EASY)’ 컴백 쇼케이스 은채 Easy 파트 댄스",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17581",
+      "ytId": "EAfnsBAYASI",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240219 LE SSERAFIM COMEBACK SHOWCASE #르세라핌 #김채원 Good Bones+EASY 직캠",
+      "channel": "𝙛𝙛.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17582",
+      "ytId": "LnLTrES5eWY",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240219 LE SSERAFIM(르세라핌) COMEBACK SHOWCASE ‘EASY’ 인사 및 앨범 소개(은채 포인트 안무)",
+      "channel": "Choyoun",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17583",
+      "ytId": "OPTD7lU4IXs",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        },
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240219 르세라핌 사쿠라 ‘Smart’ 직캠 (LE SSERAFIM SAKURA FANCAM)@ LE SSERAFIM COMEBACK SHOWCASE 'EASY'",
+      "channel": "maplensakura",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17584",
+      "ytId": "kR48wqRxa4w",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 르세라핌 easy 쇼케이스 'smart' - 사쿠라",
+      "channel": "아무거나",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17585",
+      "ytId": "KaU3yZnNBWs",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        },
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 ‘Swan Song’ 르세라핌 김채원 KIM CHAEWON 직캠 [LE SSERAFIM COMEBACK SHOWCASE  'EASY' 컴백쇼케이스]",
+      "channel": "𝕡𝕠𝕧",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17586",
+      "ytId": "Y7XL4DPI9FQ",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 르세라핌 LE SSERAFIM COMEBACK SHOWCASE ‘EASY’ [은채만 추는 EASY]",
+      "channel": "쏭 soooong",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-22"
+    },
+    {
+      "id": "v17587",
+      "ytId": "1_MRGIVNW_I",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        },
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 LE SSERAFIM KAZUHA 'SMART' FanCam  | Easy Comeback Showcase",
+      "channel": "violet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17588",
+      "ytId": "JI5Bb7kucoc",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240219 르세라핌 사쿠라 'SMART' 직캠 LE SSERAFIM Sakura 4k Fancam @COMEBACK SHOWCASE",
+      "channel": "꾸루트",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-21"
+    },
+    {
+      "id": "v17589",
+      "ytId": "aay4vtf-urw",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240219 르세라핌(LE SSERAFIM) 'EASY COMEBACK SHOWCASE' 카즈하(KAZUHA) Swan Song 직캠 by 김이모 - 4K",
+      "channel": "KIM Yimo 김이모",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17590",
+      "ytId": "1B5nWnIaOTs",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 ‘Good Bones + EASY’ 르세라핌 김채원 KIM CHAEWON 직캠 [LE SSERAFIM COMEBACK SHOWCASE 'EASY'컴백쇼케이스]",
+      "channel": "𝕡𝕠𝕧",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17591",
+      "ytId": "g4vwXXtnsGc",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240219 르세라핌 컴백 쇼케이스 미야와키 사쿠라 직캠 / LE SSERAFIM Smart miyawaki sakura fancam",
+      "channel": "kirsche Miyawaki",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-21"
+    },
+    {
+      "id": "v17592",
+      "ytId": "sFO-77MscB0",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K】240219 comeback showcase LE SSERAFIM HUH YUNJIN 'EASY' fancam/직캠",
+      "channel": "MONIKA DIARY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17593",
+      "ytId": "dyCPYZABWRU",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240219 LE SSERAFIM(르세라핌) COMEBACK SHOWCASE ‘EASY’ SMART 김채원 focus 직캠",
+      "channel": "Choyoun",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-19"
+    },
+    {
+      "id": "v17594",
+      "ytId": "AabR6vpUJvg",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K】240219 comeback showcase LE SSERAFIM HUH YUNJIN 'Smart' fancam/직캠",
+      "channel": "MONIKA DIARY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17595",
+      "ytId": "G5J2CxnbMnw",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240219 르세라핌 사쿠라 'Perfect Night & 끝인사' 직캠 LE SSERAFIM Sakura 4k Fancam @COMEBACK SHOWCASE",
+      "channel": "꾸루트",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17596",
+      "ytId": "1y8XXX_2xmA",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 르세라핌(LE SSERAFIM)  ‘이지(EASY)’ 컴백 쇼케이스 Fire in the belly 사쿠라 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17597",
+      "ytId": "p3OGeSXNgFg",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        },
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 ‘Perfect Night’+마무리인사 르세라핌 김채원 KIMCHAEWON 직캠 [LE SSERAFIM COMEBACK SHOWCASE'EASY'컴백쇼케이스]",
+      "channel": "𝕡𝕠𝕧",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17598",
+      "ytId": "J7KcypBrWI0",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 'EASY' 르세라핌 김채원 직캠 LE SSERAFIM KIM CHAEWON FANCAM | COMEBACK SHOWCASE",
+      "channel": "코코아☘️ cocoa.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17599",
+      "ytId": "EyIDoCHtF_U",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 LE SSERAFIM HONG EUNCHAE Smart Showcase fancam 르세라핌 홍은채 스마트 쇼케이스 직캠",
+      "channel": "Cherish",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17600",
+      "ytId": "zJgVrHlZuTk",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 LE SSERAFIM HONG EUNCHAE EASY Showcase fancam 르세라핌 홍은채 이지 쇼케이스 직캠",
+      "channel": "Cherish",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17601",
+      "ytId": "xlsMk-7xeqk",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 LE SSERAFIM HONG EUNCHAE 'EASY' Fancam (르세라핌 홍은채 직캠) @SHOWCASE 쇼케이스 by favv",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-21"
+    },
+    {
+      "id": "v17602",
+      "ytId": "2esBTHgCcO0",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        },
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 르세라핌 사쿠라 (LE SSERAFIM SAKURA) - Smart 직캠 Fancam @ EASY COMEBACK SHOWCASE",
+      "channel": "gabi",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17603",
+      "ytId": "N-_U6KvDXqw",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3",
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K 240219 르세라핌 쇼케이스 이지 직캠  LE SSERAFIM SHOWCASE EASY fancam 허윤진 카즈하 FOCUS HUHYUNJIN KAZUHA",
+      "channel": "밤상잭 Night walk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17604",
+      "ytId": "OLQClv_YBsw",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        },
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240219 르세라핌(LE SSERAFIM)  ‘이지(EASY)’ 컴백 쇼케이스 Swan Song 카즈하 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17605",
+      "ytId": "3bBUDvxk7tw",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "르세라핌 김채원 'Swan Song' 직캠 (LE SSERAFIM KIM CHAEWON FanCam) 240222 | @MCOUNTDOWN_2024.2.22",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17606",
+      "ytId": "DWFafHU6N0c",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 르세라핌 홍은채 'Swan Song' (LE SSERAFIM HONG EUNCHAE FanCam) @M Countdown 240222",
+      "channel": "m0tri3t",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-28"
+    },
+    {
+      "id": "v17607",
+      "ytId": "mChKLMvGjf0",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "르세라핌 허윤진 'Swan Song' 직캠 (LE SSERAFIM HUH YUNJIN FanCam) 240222 | @MCOUNTDOWN_2024.2.22",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17608",
+      "ytId": "PxJ0D-lP_xc",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240222 르세라핌 홍은채 (LE SSERAFIM HONG EUNCHAE) - Swan Song 직캠 Fancam @ M2 MCOUNTDOWN",
+      "channel": "gabi",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17609",
+      "ytId": "Au9E78pNX3I",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 김채원 직캠 4K 'Swan Song' (LE SSERAFIM KIMCHAEWON FanCam) | @MCOUNTDOWN_2024.2.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17610",
+      "ytId": "RZjqclHzKrI",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 카즈하 직캠 4K 'Swan Song' (LE SSERAFIM KAZUHA FanCam) | @MCOUNTDOWN_2024.2.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-22"
+    },
+    {
+      "id": "v17611",
+      "ytId": "tNKxYsqgg_c",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 사쿠라 직캠 4K 'Swan Song' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2024.2.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-22"
+    },
+    {
+      "id": "v17612",
+      "ytId": "s6CFtkdRgJU",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 르세라핌 김채원 'Swan Song' (LE SSERAFIM KIM CHAEWON FanCam) @M Countdown 240222",
+      "channel": "m0tri3t",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17613",
+      "ytId": "9kElNv2gzXM",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 허윤진 직캠 4K 'EASY' (LE SSERAFIM HUH YUNJIN FanCam) | @MCOUNTDOWN_2024.2.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17614",
+      "ytId": "31OUdxqQaaY",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 카즈하 직캠 4K 'EASY' (LE SSERAFIM KAZUHA FanCam) | @MCOUNTDOWN_2024.2.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-22"
+    },
+    {
+      "id": "v17615",
+      "ytId": "Q0CtcrCbYaI",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 사쿠라 직캠 4K 'EASY' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2024.2.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-22"
+    },
+    {
+      "id": "v17616",
+      "ytId": "NFg-8-tY9YI",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 김채원 직캠 4K 'EASY' (LE SSERAFIM KIMCHAEWON FanCam) | @MCOUNTDOWN_2024.2.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-22"
+    },
+    {
+      "id": "v17617",
+      "ytId": "u0hkscMLMp8",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 김채원 직캠 4K 'EASY' (LE SSERAFIM KIMCHAEWON FanCam) | @MCOUNTDOWN_2024.2.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17618",
+      "ytId": "0y5pxAe7mdg",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 허윤진 직캠 4K 'EASY' (LE SSERAFIM HUH YUNJIN FanCam) | @MCOUNTDOWN_2024.2.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17619",
+      "ytId": "xfkzW1zsqm0",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 홍은채 직캠 4K 'EASY' (LE SSERAFIM HONGEUNCHAE FanCam)| @MCOUNTDOWN_2024.2.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-22"
+    },
+    {
+      "id": "v17620",
+      "ytId": "IoTs_z_zV4c",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 사쿠라 직캠 4K 'EASY' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2024.2.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17621",
+      "ytId": "ZlgD4lfpZpk",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 홍은채 직캠 4K 'EASY' (LE SSERAFIM HONGEUNCHAE FanCam)| @MCOUNTDOWN_2024.2.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17622",
+      "ytId": "RYYd-psnxzA",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 카즈하 직캠 4K 'EASY' (LE SSERAFIM KAZUHA FanCam) | @MCOUNTDOWN_2024.2.22",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17623",
+      "ytId": "TodpQBcyCUk",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 김채원 직캠 'Swan Song'(LE SSERAFIM KIM CHAEWON Fancam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17624",
+      "ytId": "KmaQr8221dY",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 홍은채 직캠 'Swan Song'(LE SSERAFIM HONG EUNCHAE Fancam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17625",
+      "ytId": "HHNxzJqtzRk",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 허윤진 직캠 'Swan Song'(LE SSERAFIM HUH YUNJIN Fancam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17626",
+      "ytId": "JABbM1mT69M",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 김채원 'Swan Song'(LE SSERAFIM KIM CHAEWON Facecam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17627",
+      "ytId": "QpSM_0QnQ8Q",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 홍은채 'Swan Song'(LE SSERAFIM HONG EUNCHAE Facecam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17628",
+      "ytId": "ONhGVRJ44nM",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 허윤진 'Swan Song'(LE SSERAFIM HUH YUNJIN Facecam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17629",
+      "ytId": "VImqtse1ikI",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 카즈하 'Swan Song'(LE SSERAFIM KAZUHA Facecam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17630",
+      "ytId": "UmrYS4Bd474",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 사쿠라 직캠 'Swan Song' (LE SSERAFIM SAKURA Fancam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17631",
+      "ytId": "wwC1YpABhDs",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 사쿠라 'Swan Song'(LE SSERAFIM SAKURA Facecam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17632",
+      "ytId": "ZDoMiotQDP8",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 카즈하 직캠 'Swan Song'(LE SSERAFIM KAZUHA Fancam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17633",
+      "ytId": "AVMBDkl7wIg",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240223 LE SSERAFIM SAKURA 'EASY (English ver.)' Fancam (르세라핌 사쿠라 직캠) (Live Performance) | Vevo",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-27"
+    },
+    {
+      "id": "v17634",
+      "ytId": "nsYGlDSvRFM",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 김채원 직캠 'EASY'(LE SSERAFIM KIM CHAEWON Fancam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17635",
+      "ytId": "cy8AGUTKyYI",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 허윤진 직캠 'EASY'(LE SSERAFIM HUH YUNJIN Fancam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17636",
+      "ytId": "nt2wDraZRp0",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 사쿠라 직캠 'EASY'(LE SSERAFIM SAKURA Fancam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17637",
+      "ytId": "-bumnIXayNk",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 카즈하 직캠 'EASY'(LE SSERAFIM KAZUHA Fancam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17638",
+      "ytId": "vu5iEVF2jYM",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 김채원 'EASY'(LE SSERAFIM KIM CHAEWON Facecam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17639",
+      "ytId": "eP6tILkLYkU",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 홍은채 직캠 'EASY'(LE SSERAFIM HONG EUNCHAE Fancam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17640",
+      "ytId": "3FUbJCWrIjc",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 카즈하 'EASY'(LE SSERAFIM KAZUHA Facecam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17641",
+      "ytId": "AQIf199af_0",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 허윤진 'EASY'(LE SSERAFIM HUH YUNJIN Facecam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17642",
+      "ytId": "jkGodve1l_c",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 사쿠라 'EASY'(LE SSERAFIM SAKURA Facecam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17643",
+      "ytId": "Taq-qPCETrE",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 홍은채 'EASY'(LE SSERAFIM HONG EUNCHAE Facecam) @뮤직뱅크(Music Bank) 240223",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17644",
+      "ytId": "A8DgYAC4kZo",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM HUHYUNJIN (르세라핌 허윤진) - Swan Song 직캠 | 쇼! 음악중심 | MBC240224방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17645",
+      "ytId": "VemZ17pd8W0",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM KIMCHAEWON (르세라핌 김채원) - Swan Song 직캠 | 쇼! 음악중심 | MBC240224방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17646",
+      "ytId": "p6yg2cqIE7k",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM KAZUHA (르세라핌 카즈하) - Swan Song 직캠 | 쇼! 음악중심 | MBC240224방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-24"
+    },
+    {
+      "id": "v17647",
+      "ytId": "hOBQJPL6OiQ",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) - Swan Song | 쇼! 음악중심 | MBC240224방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17648",
+      "ytId": "GhgpiTYeZu4",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "르세라핌 김채원 직캠 'Swan song' (LE SSERAFIM Kim Chaewon) 쇼! 음악중심 MBC 240224 방송 가로직캠, WideFancam 4K",
+      "channel": "4K FANCAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-24"
+    },
+    {
+      "id": "v17649",
+      "ytId": "2I1HSoXIry0",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM HONGEUNCHAE (르세라핌 홍은채) - Swan Song 직캠 | 쇼! 음악중심 | MBC240224방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-24"
+    },
+    {
+      "id": "v17650",
+      "ytId": "Qn_Q19Cc5Es",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM SAKURA (르세라핌 사쿠라) - Swan Song 직캠 | 쇼! 음악중심 | MBC240224방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-24"
+    },
+    {
+      "id": "v17651",
+      "ytId": "4L_UQdNDB3E",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM KAZUHA (르세라핌 카즈하) - Swan Song | 쇼! 음악중심 | MBC240224방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17652",
+      "ytId": "M8Me6tBQqbo",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM HUHYUNJIN (르세라핌 허윤진) - EASY | 쇼! 음악중심 | MBC240224방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-26"
+    },
+    {
+      "id": "v17653",
+      "ytId": "96nC76XDXwc",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM KIMCHAEWON (르세라핌 김채원) - Swan Song | 쇼! 음악중심 | MBC240224방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17654",
+      "ytId": "gnf2Z7NNwVg",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM HUHYUNJIN - EASY FanCam | Show! MusicCore | MBC240224onair",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17655",
+      "ytId": "Ye6qunwW4XA",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240224 르세라핌 사쿠라 직캠 (LE SSERAFIM SAKURA) @ 'EASY' 음악중심 미니팬미팅",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-24"
+    },
+    {
+      "id": "v17656",
+      "ytId": "134oQmbM3aU",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240224 르세라핌 김채원 직캠 (LE SSERAFIM CHAEWON) @ 'EASY' 음악중심 미니팬미팅",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-24"
+    },
+    {
+      "id": "v17657",
+      "ytId": "SDpOYYftLWU",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM KAZUHA (르세라핌 카즈하) - EASY 직캠 | 쇼! 음악중심 | MBC240224방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-24"
+    },
+    {
+      "id": "v17658",
+      "ytId": "yScgOQ-OENM",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM KIMCHAEWON (르세라핌 김채원) - EASY | 쇼! 음악중심 | MBC240224방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-26"
+    },
+    {
+      "id": "v17659",
+      "ytId": "1on4inKI8jM",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM HONGEUNCHAE (르세라핌 홍은채) - EASY 직캠 | 쇼! 음악중심 | MBC240224방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-24"
+    },
+    {
+      "id": "v17660",
+      "ytId": "7DLB4xODXhM",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM SAKURA (르세라핌 사쿠라) - EASY 직캠 | 쇼! 음악중심 | MBC240224방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-24"
+    },
+    {
+      "id": "v17661",
+      "ytId": "ad2Nzsv-F_g",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 김채원 'Swan Song' (LE SSERAFIM KIM CHAEWON FanCam) @SBS Inkigayo 240225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17662",
+      "ytId": "7iWfcvrEtyo",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 홍은채 'Swan Song' (LE SSERAFIM HONG EUNCHAE FanCam) @SBS Inkigayo 240225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-26"
+    },
+    {
+      "id": "v17663",
+      "ytId": "C5lanf7MdKs",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 카즈하 'Swan Song' (LE SSERAFIM KAZUHA FanCam) @SBS Inkigayo 240225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-26"
+    },
+    {
+      "id": "v17664",
+      "ytId": "vDgLJCUXz_s",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 허윤진 'Swan Song' (LE SSERAFIM HUH YUNJIN FanCam) @SBS Inkigayo 240225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-26"
+    },
+    {
+      "id": "v17665",
+      "ytId": "EOvr3v045vw",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 사쿠라 'Swan Song' (LE SSERAFIM SAKURA FanCam) @SBS Inkigayo 240225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-26"
+    },
+    {
+      "id": "v17666",
+      "ytId": "A45qltjSdMU",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240225 르세라핌 사쿠라 (LE SSERAFIM SAKURA) - Swan Song 직캠 Fancam @ INKIGAYO 인기가요",
+      "channel": "gabi",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-26"
+    },
+    {
+      "id": "v17667",
+      "ytId": "g1AmYDq4gek",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 르세라핌 'Swan Song' (LE SSERAFIM FullCam)│@SBS Inkigayo 240225",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-25"
+    },
+    {
+      "id": "v17668",
+      "ytId": "Koa_UzPvDhs",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 르세라핌 'Swan Song' 단독샷 별도녹화│LE SSERAFIM ONE TAKE STAGE│@SBS Inkigayo 240225",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-29"
+    },
+    {
+      "id": "v17669",
+      "ytId": "H6jkyA0Nvgc",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 김채원 'EASY' (LE SSERAFIM KIM CHAEWON FanCam) @SBS Inkigayo 240225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-25"
+    },
+    {
+      "id": "v17670",
+      "ytId": "8Eiwvxo6TQQ",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 르세라핌 'EASY' (LE SSERAFIM FullCam)│@SBS Inkigayo 240225",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-25"
+    },
+    {
+      "id": "v17671",
+      "ytId": "5TQ_QZxpGPY",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 르세라핌 'EASY' 단독샷 별도녹화│LE SSERAFIM ONE TAKE STAGE│@SBS Inkigayo 240225",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-29"
+    },
+    {
+      "id": "v17672",
+      "ytId": "7GPyfvL6Atw",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 허윤진 'EASY' (LE SSERAFIM HUH YUNJIN FanCam) @SBS Inkigayo 240225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-25"
+    },
+    {
+      "id": "v17673",
+      "ytId": "Dw-auoE-s5w",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 홍은채 'EASY' (LE SSERAFIM HONG EUNCHAE FanCam) @SBS Inkigayo 240225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-25"
+    },
+    {
+      "id": "v17674",
+      "ytId": "A600xrHgsKE",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 카즈하 'EASY' (LE SSERAFIM KAZUHA FanCam) @SBS Inkigayo 240225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-25"
+    },
+    {
+      "id": "v17675",
+      "ytId": "vq3rfvhiRgU",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 사쿠라 'EASY' (LE SSERAFIM SAKURA FanCam) @SBS Inkigayo 240225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-25"
+    },
+    {
+      "id": "v17676",
+      "ytId": "BqUHveYSa4g",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 허윤진 'EASY' (LE SSERAFIM HUH YUNJIN FaceCam) @SBS Inkigayo 240225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-26"
+    },
+    {
+      "id": "v17677",
+      "ytId": "g0U2P9toj9Q",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 김채원 'EASY' (LE SSERAFIM KIM CHAEWON FaceCam) @SBS Inkigayo 240225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-26"
+    },
+    {
+      "id": "v17678",
+      "ytId": "3DCmY3NTTJk",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 사쿠라 'EASY' (LE SSERAFIM SAKURA FaceCam) @SBS Inkigayo 240225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-26"
+    },
+    {
+      "id": "v17679",
+      "ytId": "IgAqSVnVAf4",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 카즈하 'EASY' (LE SSERAFIM KAZUHA FaceCam) @SBS Inkigayo 240225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-26"
+    },
+    {
+      "id": "v17680",
+      "ytId": "MIfQW65XXTY",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 홍은채 'EASY' (LE SSERAFIM HONG EUNCHAE FaceCam) @SBS Inkigayo 240225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17681",
+      "ytId": "DvvutCB_tPs",
+      "eventId": "e1263",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 사쿠라 직캠 4K 'EASY' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2024.2.29",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17682",
+      "ytId": "J1SZzyuhVZQ",
+      "eventId": "e1263",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240229 르세라핌 (LE SSERAFIM) 'EASY' 엠카운트다운 미니팬미팅 홍은채 직캠 (LE SSERAFIM HONG EUNCHAE FOCUS Fancam)",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-29"
+    },
+    {
+      "id": "v17683",
+      "ytId": "q1qx4hwdkxU",
+      "eventId": "e1263",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240229 르세라핌 사쿠라 직캠 (LE SSERAFIM SAKURA) @ 'EASY' 엠카운트다운 미니팬미팅",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-29"
+    },
+    {
+      "id": "v17684",
+      "ytId": "ppIBQsYMqBQ",
+      "eventId": "e1263",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 홍은채 직캠 4K 'Smart' (LE SSERAFIM HONG EUNCHAE FanCam)| @MCOUNTDOWN_2024.2.29",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-29"
+    },
+    {
+      "id": "v17685",
+      "ytId": "ZP3slS2eMzQ",
+      "eventId": "e1263",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "르세라핌 홍은채 직캠 'EASY' (LE SSERAFIM EUNCHAE FanCam) @MCOUNTDOWN 240229",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-29"
+    },
+    {
+      "id": "v17686",
+      "ytId": "VlfiFZ6f5vk",
+      "eventId": "e1263",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240229 LE SSERAFIM YUNJIN 'EASY' FanCam | MCOUNTDOWN",
+      "channel": "violet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-01"
+    },
+    {
+      "id": "v17687",
+      "ytId": "UrVdyn8yQfs",
+      "eventId": "e1263",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 김채원 직캠 4K 'Smart' (LE SSERAFIM KIM CHAEWON FanCam) | @MCOUNTDOWN_2024.2.29",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-29"
+    },
+    {
+      "id": "v17688",
+      "ytId": "8ZtovevYX2o",
+      "eventId": "e1263",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240229 르세라핌 (LE SSERAFIM) 'EASY' 엠카운트다운 미니팬미팅 홍은채 직캠 (LE SSERAFIM HONG EUNCHAE FOCUS Fancam)",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-01"
+    },
+    {
+      "id": "v17689",
+      "ytId": "sq6Xba6u-b0",
+      "eventId": "e1263",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 김채원 직캠 4K 'Smart' (KIMCHAEWON FanCam) | @MCOUNTDOWN_2024.2.29",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-02"
+    },
+    {
+      "id": "v17690",
+      "ytId": "iNDHz9W1tFM",
+      "eventId": "e1263",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 김채원 직캠 4K 'EASY' (LE SSERAFIM KIMCHAEWON FanCam) | @MCOUNTDOWN_2024.2.29",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-29"
+    },
+    {
+      "id": "v17691",
+      "ytId": "U6uxWeYXutI",
+      "eventId": "e1263",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 허윤진 직캠 4K 'Smart' (LE SSERAFIM HUH YUNJIN FanCam) | @MCOUNTDOWN_2024.2.29",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-29"
+    },
+    {
+      "id": "v17692",
+      "ytId": "7kenEHwBuQk",
+      "eventId": "e1263",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 사쿠라 직캠 4K 'Smart' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2024.2.29",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-29"
+    },
+    {
+      "id": "v17693",
+      "ytId": "JEZ0Jvm4f30",
+      "eventId": "e1263",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 카즈하 직캠 4K 'Smart' (LE SSERAFIM KAZUHA FanCam) | @MCOUNTDOWN_2024.2.29",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-29"
+    },
+    {
+      "id": "v17694",
+      "ytId": "aUrLxJtzE0c",
+      "eventId": "e1263",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 사쿠라 직캠 4K 'Smart' (SAKURA FanCam) | @MCOUNTDOWN_2024.2.29",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-02"
+    },
+    {
+      "id": "v17695",
+      "ytId": "3-PWz-MUkl4",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 카즈하 직캠 'Smart'(LE SSERAFIM KAZUHA Fancam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-01"
+    },
+    {
+      "id": "v17696",
+      "ytId": "l1UAOI1do5E",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 김채원 직캠 'Smart'(LE SSERAFIM KIM CHAEWON Fancam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17697",
+      "ytId": "W5_iINy3oBY",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 김채원 'Smart'(LE SSERAFIM KIM CHAEWON Facecam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17698",
+      "ytId": "ujz3lcl_DJo",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 홍은채 직캠 'Smart'(LE SSERAFIM HONG EUNCHAE Fancam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17699",
+      "ytId": "s1m2WrJnM4w",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 허윤진 'Smart'(LE SSERAFIM HUH YUNJIN Facecam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17700",
+      "ytId": "dWe3rQVpQbw",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 사쿠라 직캠 'Smart'(LE SSERAFIM SAKURA Fancam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-01"
+    },
+    {
+      "id": "v17701",
+      "ytId": "g42UYJNJqjs",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 카즈하 'EASY'(LE SSERAFIM KAZUHA Facecam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-01"
+    },
+    {
+      "id": "v17702",
+      "ytId": "eSKN_H2D25M",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 허윤진 직캠 'Smart'(LE SSERAFIM HUH YUNJIN Fancam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17703",
+      "ytId": "arXmvFJwYJ0",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 카즈하 직캠 'EASY'(LE SSERAFIM KAZUHA Fancam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17704",
+      "ytId": "OaG8sjqSvVA",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 김채원 'EASY'(LE SSERAFIM KIM CHAEWON Facecam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17705",
+      "ytId": "Dfm8hKj-Eug",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 카즈하 'Smart'(LE SSERAFIM KAZUHA Facecam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-01"
+    },
+    {
+      "id": "v17706",
+      "ytId": "gtzEHTwFL2o",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 김채원 직캠 'EASY'(LE SSERAFIM KIM CHAEWON Fancam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-01"
+    },
+    {
+      "id": "v17707",
+      "ytId": "m4p9IfNXBl8",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 홍은채 'EASY'(LE SSERAFIM HONG EUNCHAE Facecam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-01"
+    },
+    {
+      "id": "v17708",
+      "ytId": "8Q4lFc2Hl38",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 홍은채 'Smart'(LE SSERAFIM HONG EUNCHAE Facecam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-01"
+    },
+    {
+      "id": "v17709",
+      "ytId": "Xht2c4pGuD4",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 허윤진 'EASY'(LE SSERAFIM HUH YUNJIN Facecam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17710",
+      "ytId": "8XLW6eYWqOA",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 사쿠라 'EASY'(LE SSERAFIM SAKURA Facecam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17711",
+      "ytId": "mTyBtSYbAzc",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 홍은채 직캠 'EASY'(LE SSERAFIM HONG EUNCHAE Fancam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-01"
+    },
+    {
+      "id": "v17712",
+      "ytId": "Wj8IPUz2RKw",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 허윤진 직캠 'EASY'(LE SSERAFIM HUH YUNJIN Fancam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-01"
+    },
+    {
+      "id": "v17713",
+      "ytId": "8KDE7Sr9Cqc",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 사쿠라 직캠 'EASY'(LE SSERAFIM SAKURA Fancam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-01"
+    },
+    {
+      "id": "v17714",
+      "ytId": "d0PZ2SdoPyE",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 사쿠라 'Smart'(LE SSERAFIM SAKURA Facecam) @뮤직뱅크(Music Bank) 240301",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17715",
+      "ytId": "xrpiG0ES8g4",
+      "eventId": "e1264",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "kazuha (le sserafim) Music Bank 240301 armpit 4k edit 'Smart'",
+      "channel": "pits for life",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17716",
+      "ytId": "kWH4CVoVoFA",
+      "eventId": "e1265",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM KAZUHA (르세라핌 카즈하) - Swan Song 직캠 | Show! 쇼! 음악중심 | MBC240302방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v17717",
+      "ytId": "c7qGlu0DaMQ",
+      "eventId": "e1265",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM HUHYUNJIN (르세라핌 허윤진) - EASY 직캠 | 쇼! 음악중심 | MBC240302방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-02"
+    },
+    {
+      "id": "v17718",
+      "ytId": "UsZZY6HMc58",
+      "eventId": "e1265",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM KIMCHAEWON - EASY FanCam | Show! MusicCore | MBC240302onair",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17719",
+      "ytId": "jk68xpVMxD4",
+      "eventId": "e1265",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM HONGEUNCHAE (르세라핌 홍은채) - EASY 직캠 | 쇼! 음악중심 | MBC240302방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-02"
+    },
+    {
+      "id": "v17720",
+      "ytId": "MuNgaaKh86I",
+      "eventId": "e1265",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM SAKURA (르세라핌 사쿠라) - Swan Song 직캠 | 쇼! 음악중심 | MBC240302방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v17721",
+      "ytId": "ubteM_yPjkA",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 르세라핌 'EASY' (LE SSERAFIM FullCam)│@SBS Inkigayo 240303",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v17722",
+      "ytId": "klzoaqQ4q4E",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 르세라핌 'Smart' (LE SSERAFIM FullCam)│@SBS Inkigayo 240303",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17723",
+      "ytId": "yikDdrcqxZQ",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 카즈하 'EASY' (LE SSERAFIM KAZUHA FanCam) @SBS Inkigayo 240303",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-05"
+    },
+    {
+      "id": "v17724",
+      "ytId": "nkH_jovqp64",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 김채원 'EASY' (LE SSERAFIM KIM CHAEWON FanCam) @SBS Inkigayo 240303",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17725",
+      "ytId": "ZZ9kDuIdaT0",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM(르세라핌) , 'Smart' KIM CHAEWON Fancam Focus @SBS Inkigayo 240303",
+      "channel": "Chaery",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17726",
+      "ytId": "GAybds7MVJ4",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 사쿠라 'EASY' (LE SSERAFIM SAKURA FanCam) @SBS Inkigayo 240303",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17727",
+      "ytId": "eBMMe1IJ-cw",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 카즈하 'Smart' (LE SSERAFIM KAZUHA FanCam) @SBS Inkigayo 240303",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v17728",
+      "ytId": "zaPfl1KpOL0",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM(르세라핌) , 'Smart' HUH YUNJIN Fancam Focus @SBS Inkigayo 240303",
+      "channel": "Chaery",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17729",
+      "ytId": "pdBJdsq-k3E",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 홍은채 'EASY' (LE SSERAFIM HONG EUNCHAE FanCam) @SBS Inkigayo 240303",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-05"
+    },
+    {
+      "id": "v17730",
+      "ytId": "6OywQcLBLsQ",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 홍은채 'Smart' (LE SSERAFIM HONG EUNCHAE FanCam) @SBS Inkigayo 240303",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v17731",
+      "ytId": "SnSV7ChqQdc",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 허윤진 'EASY' (LE SSERAFIM HUH YUNJIN FanCam) @SBS Inkigayo 240303",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17732",
+      "ytId": "ycsUfthXQFA",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 김채원 'Smart' (LE SSERAFIM KIM CHAEWON FaceCam) @SBS Inkigayo 240303",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17733",
+      "ytId": "5EifuzCp19g",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 김채원 'Smart' (LE SSERAFIM KIM CHAEWON FanCam) @SBS Inkigayo 240303",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17734",
+      "ytId": "9XjytpJZdYI",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[초고화질 8K] 르세라핌 'Smart' (LE SSERAFIM FullCam)│@SBS Inkigayo 240303",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17735",
+      "ytId": "VIO6whD1hSg",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 사쿠라 'Smart' (LE SSERAFIM SAKURA FanCam) @SBS Inkigayo 240303",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17736",
+      "ytId": "daX1iunfLSc",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 사쿠라 'Smart' (LE SSERAFIM SAKURA FaceCam) @SBS Inkigayo 240303",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17737",
+      "ytId": "890qbOo8w6U",
+      "eventId": "e1266",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 허윤진 'Smart' (LE SSERAFIM HUH YUNJIN FanCam) @SBS Inkigayo 240303",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v17738",
+      "ytId": "IHOJxzRvHn4",
+      "eventId": "e1267",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 카즈하 직캠 4K 'Smart' (LE SSERAFIM KAZUHA FanCam) | @MCOUNTDOWN_2024.3.7",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17739",
+      "ytId": "yYqRgVoDII4",
+      "eventId": "e1267",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 허윤진 직캠 4K 'Smart' (LE SSERAFIM HUH YUNJIN FanCam) | @MCOUNTDOWN_2024.3.7",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-07"
+    },
+    {
+      "id": "v17740",
+      "ytId": "6YzxZRCyD0Y",
+      "eventId": "e1267",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 사쿠라 직캠 4K 'Smart' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2024.3.7",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-08"
+    },
+    {
+      "id": "v17741",
+      "ytId": "b5-NZLKBVlE",
+      "eventId": "e1267",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 김채원 직캠 4K 'Smart' (LE SSERAFIM KIM CHAEWON FanCam) | @MCOUNTDOWN_2024.3.7",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-08"
+    },
+    {
+      "id": "v17742",
+      "ytId": "9cQOgdMjwWQ",
+      "eventId": "e1267",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 김채원 직캠 4K 'Smart' (LE SSERAFIM KIM CHAEWON FanCam) | @MCOUNTDOWN_2024.3.7",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17743",
+      "ytId": "WI69tq98b8o",
+      "eventId": "e1267",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 사쿠라 직캠 4K 'Smart' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2024.3.7",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-07"
+    },
+    {
+      "id": "v17744",
+      "ytId": "6UT0ECBHP4k",
+      "eventId": "e1267",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 홍은채 직캠 4K 'Smart' (LE SSERAFIM HONG EUNCHAE FanCam)| @MCOUNTDOWN_2024.3.7",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-07"
+    },
+    {
+      "id": "v17745",
+      "ytId": "WRFWhsYJVU4",
+      "eventId": "e1267",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 카즈하 직캠 4K 'Smart' (LE SSERAFIM KAZUHA FanCam) | @MCOUNTDOWN_2024.3.7",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-08"
+    },
+    {
+      "id": "v17746",
+      "ytId": "jrZtFTqltpk",
+      "eventId": "e1268",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 허윤진 직캠 'Smart'(LE SSERAFIM HUH YUNJIN Fancam) @뮤직뱅크(Music Bank) 240308",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-08"
+    },
+    {
+      "id": "v17747",
+      "ytId": "Rw-z4ler_WU",
+      "eventId": "e1268",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 홍은채 직캠 'Smart'(LE SSERAFIM HONG EUNCHAE Fancam) @뮤직뱅크(Music Bank) 240308",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-08"
+    },
+    {
+      "id": "v17748",
+      "ytId": "AQysIlFiTbg",
+      "eventId": "e1268",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 카즈하 직캠 'Smart'(LE SSERAFIM KAZUHA Fancam) @뮤직뱅크(Music Bank) 240308",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-08"
+    },
+    {
+      "id": "v17749",
+      "ytId": "c4Xn8DNmTI8",
+      "eventId": "e1268",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 김채원 직캠 'Smart'(LE SSERAFIM KIM CHAEWON Fancam) @뮤직뱅크(Music Bank) 240308",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-08"
+    },
+    {
+      "id": "v17750",
+      "ytId": "zZaR1rhB1UY",
+      "eventId": "e1268",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 카즈하 'Smart'(LE SSERAFIM KAZUHA Facecam) @뮤직뱅크(Music Bank) 240308",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-08"
+    },
+    {
+      "id": "v17751",
+      "ytId": "7tf56NuIrq4",
+      "eventId": "e1268",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 사쿠라 직캠 'Smart'(LE SSERAFIM SAKURA Fancam) @뮤직뱅크(Music Bank) 240308",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-08"
+    },
+    {
+      "id": "v17752",
+      "ytId": "AzrbWFmsWGk",
+      "eventId": "e1268",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 홍은채 'Smart'(LE SSERAFIM HONG EUNCHAE Facecam) @뮤직뱅크(Music Bank) 240308",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17753",
+      "ytId": "KHRNG5XFUvA",
+      "eventId": "e1268",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 허윤진 'Smart'(LE SSERAFIM HUH YUNJIN Facecam) @뮤직뱅크(Music Bank) 240308",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-08"
+    },
+    {
+      "id": "v17754",
+      "ytId": "eSf6a-869mM",
+      "eventId": "e1268",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 김채원 'Smart'(LE SSERAFIM KIM CHAEWON Facecam) @뮤직뱅크(Music Bank) 240308",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17755",
+      "ytId": "unXAlgOMBHU",
+      "eventId": "e1268",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 사쿠라 'Smart'(LE SSERAFIM SAKURA Facecam) @뮤직뱅크(Music Bank) 240308",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17756",
+      "ytId": "k9N2f4qMkWg",
+      "eventId": "e1269",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM KIMCHAEWON (르세라핌 김채원) - Smart 직캠 | 쇼! 음악중심 | MBC240309방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17757",
+      "ytId": "fGa6WfdbDak",
+      "eventId": "e1269",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM HONGEUNCHAE (르세라핌 홍은채) - Smart 직캠 | 쇼! 음악중심 | MBC240309방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-09"
+    },
+    {
+      "id": "v17758",
+      "ytId": "rUy8TageuFI",
+      "eventId": "e1269",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM HUHYUNJIN (르세라핌 허윤진) - Smart 직캠 | 쇼! 음악중심 | MBC240309방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17759",
+      "ytId": "mRhRozgKhw0",
+      "eventId": "e1269",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] LE SSERAFIM KAZUHA (르세라핌 카즈하) - Smart 직캠 | 쇼! 음악중심 | MBC240309방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17760",
+      "ytId": "tIdXxrgkDeg",
+      "eventId": "e1270",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 르세라핌 'Smart' (LE SSERAFIM FullCam)│@SBS Inkigayo 240310",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17761",
+      "ytId": "jJkCzN2gk5s",
+      "eventId": "e1270",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 카즈하 'Smart' (LE SSERAFIM KAZUHA FaceCam) @SBS Inkigayo 240310",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-12"
+    },
+    {
+      "id": "v17762",
+      "ytId": "y240NGEtOD0",
+      "eventId": "e1270",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 홍은채 'Smart' (LE SSERAFIM HONG EUNCHAE FanCam)│@SBS Inkigayo 240310",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v17763",
+      "ytId": "M5IP9a95bAE",
+      "eventId": "e1270",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 김채원 'Smart' (LE SSERAFIM KIM CHAEWON FanCam)│@SBS Inkigayo 240310",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17764",
+      "ytId": "6zxTTZDH7U8",
+      "eventId": "e1270",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 사쿠라 'Smart' (LE SSERAFIM SAKURA FanCam)│@SBS Inkigayo 240310",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v17765",
+      "ytId": "F60rTosL3ik",
+      "eventId": "e1270",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 허윤진 'Smart' (LE SSERAFIM HUH YUNJIN FaceCam) @SBS Inkigayo 240310",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17766",
+      "ytId": "Ni_kt05CAGs",
+      "eventId": "e1270",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "kazuha (le sserafim) 'Smart' 4k armpit edit forest dress zuha with bangs SBS Inkigayo 240310",
+      "channel": "pits for life",
       "pin": false,
       "gone": false
     }
