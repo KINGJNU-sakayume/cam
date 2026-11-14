@@ -215,3 +215,7 @@
 ### 르세라핌 2025-10
 - 10-24 뮤직뱅크·10-25 음악중심·10-26 인기가요·10-31 뮤직뱅크 자동 확실 29개는 모두 담음.
 - 보류: M2 '입덕직캠·MPD직캠' 계열(제목에 날짜 없음, 업로드일로만 10-25/26 추정), STUDIO CHOOM UNFILTERED CAM(날짜 없음), KBS K-Choreo 타워캠(멤버 없음), 연세대 10-29 직캠 등 멤버 없는 영상, 지포스 게이머 페스티벌·10-01 출범식의 UNFORGIVEN+ANTIFRAGILE·SPAGHETTI 묶음/풀버전·풀캠, 제목에 날짜가 없는 지포스 직캠(윤진 `9HYr4rHwSPg` 등), 마닐라 사쿠라 묶음(`Oe63euXWMrg`), 공식 IN US 스테이지캠(날짜 불명). 2026년 영상(고려대 석탑대동제·골든디스크 등)은 해당 월에서 처리.
+
+### 르세라핌 2025-11
+- 자동 '확실' 36개 중 12개 보류: 추정 날짜인 10-01 출범식 풀캠(`-2ngVqqCAPA`)·마닐라 사쿠라 묶음(`Oe63euXWMrg`), 미니 팬미팅 풀캠(음악중심 `4Wjs21SauBk`, 인기가요 `02vx_Co4bdg`, 팬미팅은 보류), 10-30 지포스 게이머 페스티벌의 여러 곡 묶음 직캠 8개(`HQwwCQFefUA`·`YyPpHxJbOqk`·`syJIM_JX1KM`·`ULwHF0UReN4`·`lCmlWQq9wQk`·`XJoijtow03g`·`_5EdUWIgpy0`·`QYNF7Lwn7FI`). 나머지 24개(음악중심 11-01·인기가요 11-02/09·더 시즌즈·지포스 단곡 1개)는 담음.
+- 도쿄돔 앵콜(11-18/19) 직캠은 대부분 멤버 없음(coldnadong 등), 사쿠라 Kawaii는 미등록 곡이라 보류. 음중·인기가요 미니 팬미팅 직캠(`H0tILb32oEg`·`aGoHVLolkXU`·`NFB7zQXhyt8`·`mTaLUcAzrzY`), KBS 더 시즌즈 공식 CRAZY(`wznKC21EGyg`, 종류 불명), KBS K-Choreo 타워캠(멤버 없음), ILLIT 콘서트 속 르세라핌 곡은 담지 않음.
