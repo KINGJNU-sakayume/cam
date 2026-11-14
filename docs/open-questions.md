@@ -198,3 +198,8 @@
 - 위버스콘 페스티벌 2025(06-01) 직캠 5개(제목에 멤버·곡·날짜·WEVERSE CON 표기)와 사이타마 투어 5개(06-12·14·15 사쿠라 DIFFERENT 직캠 5개)만 담음. 행사명은 기존 `위버스콘 페스티벌 2024` 형식과 투어 이름 형식에 맞춤.
 - 두 곡 묶음(I93J1eyWafk, XhuR8qIYpl8), 풀캠/직캠 불명 사이타마 영상(きーま🐰, POOH 등), 새 곡 Pierrot, 06-11 윤진 DIFFERENT(iMiJ66ci3zw, 공연 날짜 불명)는 보류. 06-18 요코하마 청사과 축제 직캠(yHfDN3ye1a8, LW-Sv8mY6_Q)은 제목 행사명이 불분명해 보류.
 - 05-24 고려대 페이스캠 3개(_SLqL4ipY0Q 등)는 06월 수집에서 새로 발견돼 담음.
+
+### 르세라핌 2025-07
+- 07-03 엠카운트다운·07-04 뮤직뱅크·07-06 인기가요(DIFFERENT English ver.) 방송사 공식 영상·KBS WORLD·1HR LOOP·릴레이댄스·TV 라이브 영상: 풀캠/직캠 구분이 없어 보류. 인기가요 안방1열 직캠 중 제목에 날짜가 없는 것(L6cAO4V7Iw4, U9VPiF1yMRM)과 [FOCUS ON FACE] 영상(p70b4udHtR8, N4vBId7QS5M)은 날짜 불명이라 보류.
+- 타이베이 투어 'EASY CRAZY HOT'(07-19) 직캠 3개만 담음(제목에 날짜·멤버·곡 모두 있음). 이름은 `LE SSERAFIM TOUR 'EASY CRAZY HOT' 타이베이`. 새 곡(Burn the Bridge, Blue Flame, FEARNOT, Fire in the belly 등)이나 두 곡 묶음, 풀 콘서트, 멤버 없는 영상은 보류.
+- 고려대 입실렌티 풀버전(3_TBBivstB8): 업로드가 7월이라 날짜 불명으로 보류(05-24 공연).
