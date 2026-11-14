@@ -102,3 +102,49 @@
 - 곡 미등록·원곡 불확실: 'Sugarcoat'(서울가요대상 240102, 1Spirit 240302), 'Bye My Neverland'(벨 240220), 'Standing Next To You'(정국 곡 커버)·'Guilty'(태민 곡 커버)
 - 직캠/풀캠 단서·멤버 없음: 2CkhyU9f03M, 0jKQJCpp1eQ(서울가요대상), qWnrKanuhxw(CCMA 풀), NXSXN_UaaJc(한터 풀), vefEdRiSLuQ(나띠, 곡 없음), odvhsAa5FGw(하늘 위주)
 - 제외: IG Live·버블·팬미팅(DEAR KISSY)·복면가왕·HAKENTER 레벨체크
+## 8. 2차 전수 검색(bf2)에서 담지 않은 영상
+
+### 르세라핌 2024-01
+- PbBW8awuQ6g: 골든디스크 JTBC 방송 YB × 르세라핌 3곡 메들리(UNFORGIVEN + Stay Alive + Fire in the belly). 곡별 시작 초를 몰라 보류.
+- 멤버 이름 없는 골든디스크 2024 자카르타 240106 직캠(ZjJBdaT_lq8 · uyqx6WdmYq0 · XzYiQQqQn5I · NooMsMwJsqY · 2IWhcL3fJro · YxdG9hS-jGg · OSPUC9jX1aQ · OWwDBuWRlZY): 단체 직캠인지 확인 못 함.
+- 날짜는 맞지만 담아 둔 공연이 없고 행사·곡이 불명인 것: 240113 임페리얼 월드 Samrong(ILFpymPAEjU), 240127 TTV SUPER STAR 타이완(Samx00ntGT8). 윤아 팬미팅(niAf566r4lo)은 무대 영상 아님.
+- 나머지 review 약 350개는 제목에 날짜가 없고 업로드가 2024-01이 아니라 기간 밖.
+
+### 르세라핌 2024-02
+- 쇼케이스(02-19) 팬 업로드 다수: 멤버 이름이 없거나(Smart·Perfect Night·EASY 등) 풀캠인지 직캠인지 몰라 보류. 2곡 메들리(No Celestial + Fire in the belly)는 곡별 시작 초를 몰라 보류.
+- 240220 THE GARAGE(7N02c0yhaaM · EY4fudJSEhQ · yIhIaMk4Up4 · kQi9LHsbdHs): 행사 불명, 담아 둔 공연 없음.
+- 미니팬미팅 직캠(음악중심 02-24·엠카운트다운 02-29), 뜬뜬편집실, 비어 있는 멤버 없는 K-Choreo(m7uws0SVJxg 등): 무대 직캠인지·멤버 불명.
+- 02-24·02-25 방송에 Swan Song를 담았으나 공연 setlist에는 EASY만 있어 경고가 났어요(실제 무대 곡이라 담음, setlist 확인 필요).
+
+### 르세라핌 2024-03
+- 2O6OttvX0tI: 03-08 "마지막 미니 팬미팅 Full ver." — 같은 날 뮤직뱅크(e1265)와 같은 공연인지, 별도 팬미팅인지 애매해 담지 않음.
+- 미니팬미팅 직캠(ffrS_taKgeY 등), 귀국길(nPv6lyeakvU)·숙소(z2mtQbF-gtQ)·챌린지(TIl_6Q6ER3w)·MAX 내한(wOYUcEn3BjU, 행사·곡 불명): 무대 영상 아님이거나 판단 불가.
+- 나머지 review 약 400개: 제목에 날짜가 없거나 기간 밖 업로드.
+
+### 르세라핌 2024-04
+- 자동으로 담긴 것 없음(활동 쉬는 달). 코첼라 2024(04-13·04-20) 멤버·곡이 제목에 있는 직캠 6개만 담음.
+- 코첼라: 멤버 이름 없는 직캠(o8qhqQlpHXc 등), 두 멤버 합본(WJHQzI9XFlY·_gIsPGlhqRw 허윤진+카즈하 SHINEZ), 04-14 표기 클린 MR 영상(1yjvB8Xspw8), 라이브 논란 뉴스·반응 영상: 보류/제외.
+- 인천 투어(04-19, Ue90vfR47-Y·JUxokzluqDI): 멤버 없음.
+
+### 르세라핌 2024-05
+- 팬미팅 FEARNADA(05-11·12) 팬 직캠 다수: 멤버 이름 없음·풀캠/직캠 불명·커버곡(Get A Guitar·으르렁)·미등록곡(피어나)·2024-05-02 2주년 라이브(공연 아님)는 보류. 제목에서 멤버·곡·날짜가 모두 확인되는 직캠 6개만 추가로 담음(`pick.mjs` 규칙).
+
+### 르세라핌 2024-06
+- 자동으로 담긴 것 없음. 위버스콘 페스티벌(06-15) 직캠 중 제목에 멤버·곡 한 개가 있는 20개만 담음. 멤버 없음·풀캠/직캠 불명·2곡 이상(No Celestial + Smart 등, 곡 시작 초 모름)·미등록곡 No Celestial은 보류. 행사명은 `위버스콘 페스티벌 2024`로 지었어요(공식 표기: AliExpress 2024 Weverse Con Festival).
+
+### 르세라핌 2024-07
+- 멤버 없는 07-21 가요대전 Summer 직캠(그룹 직캠): 5_fkZ1uiqRo, 186 AC8d5MBB0yo(Smart), 2TG4KIClecs, FUAnwZe4Coc, nvsu6rLLBTM, l-fMFxihSiA, kLchJjVAtaY(풀 직캠) 등 — 멤버 없는 직캠을 단체로 임의 지정하지 않으려고 보류.
+- 곡 없음/엔딩·퇴장 인사 직캠(6VeEoMbZ47s, iiIXUl0v80w, G_6952e_X18, bbNJ2PKmp9g, BxkPnRs3zK0, kuK4ICpYzY0): 곡을 정할 수 없어 보류.
+- SBS 공식 풀캠(hCcTfBWC0O8, V9ND5sdmQQ0, vLiJHEnHRvQ): 07-21인지 07-26인지 제목에 날짜가 없어 보류. 해외 팬 직캠(AtotheJOne97 등, 제목에 072124)도 종류 불명이라 보류.
+- 일본 방송(FNS 07-03, NTV MUSIC DAY 07-06, 엠카 07-25)과 FEARNADA 일본 팬미팅(07-06~07-31, 사쿠라·채원 직캠 등): 행사가 새 공연이고 풀캠/직캠 구분·곡이 불명이라 보류.
+
+### 르세라핌 2024-08
+- 08-30 뮤직뱅크·08-31 음악중심 방송사 공식 영상(CRAZY·1-800-hot-n-fun 무대, KBS/MBC/Mnet 등 gZuKmC_cDPA, CxiuxbsdfOc, AgZGnrG8XzU, dxhfi7VPDwk, YhzF50WE3w0 등)과 4K 원테이크·공간음향 Choreography 영상: 풀캠/직캠 구분이 제목에 없어 보류.
+- 멤버 없는 직캠(Ez6NpqarMxo, bASHGZRHKg0, gwQ_nVqzedA)과 08-30 뮤뱅 미니 팬미팅 영상(8hfjqhFBs4E, VmlDY8lhUGw, 1mG5hVoXu3I, aLmUZfHKSqU, HN6YzdNwuZI, 4_bbrZ749is, jbJlQY0qg4A, nnMn5lmyE6Q): 멤버·곡 불명 또는 같은 날 미니 팬미팅과 뮤뱅 구분이 애매해 보류.
+- 08-29·08-30 CRAZY THUNDER PARTY(청음회) 영상(TcFN_qmw8-0, OPdvfGNWvpI, noNzFyPMHHM, kimbilly 영상 등): 새 행사라 보류. 08-16 뮤뱅 MR 제거(2zL9pJWF2-A)·팬 라이브 방송류도 보류.
+
+### 르세라핌 2024-09
+- 09-06 뮤직뱅크 Crazy 미니팬미팅 사쿠라 세로 직캠(HTKIKl2lHxU): 같은 날 뮤직뱅크와 미니 팬미팅 구분이 애매해 보류(이전 달과 같은 처리).
+- 같은 날(09-27) 서강대·서울과학기술대 축제는 제목에 학교명이 분명해 각각 다른 공연으로 담음.
+- 방송사 공식 영상·멤버 없는 직캠·곡을 알 수 없는 영상은 이전 달과 같은 기준으로 보류(review.txt 참고).
+- 광주대 09-30 카즈하 UNFORGIVEN(WthHd8XKeCE): 제목에 곡이 분명해 담았지만 공연 setlist에 없어 경고가 났어요. 확인 필요.
