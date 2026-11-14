@@ -19169,6 +19169,62 @@
         "g8s11"
       ],
       "note": ""
+    },
+    {
+      "id": "e1253",
+      "groupId": "g7",
+      "date": "2024-01-13",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g7s6",
+        "g7s42"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1254",
+      "groupId": "g7",
+      "date": "2024-01-20",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g7s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1255",
+      "groupId": "g7",
+      "date": "2024-01-25",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g7s43"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1256",
+      "groupId": "g7",
+      "date": "2024-01-26",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g7s43"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1257",
+      "groupId": "g7",
+      "date": "2024-01-27",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g7s43"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -331582,6 +331638,1266 @@
       ],
       "title": "[2025 가요대전 4K] 베이비몬스터 'WE GO UP + PSYCHO' (BABYMONSTER FullCam) @SBS GayoDaejeon 251225",
       "channel": "",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17512",
+      "ytId": "TEhDW8FqVO0",
+      "eventId": "e1028",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "ITZY ' BORN TO BE ' CHAERYEONG FANCAM 240111 MCOUNTDOWN",
+      "channel": "Chaery",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17513",
+      "ytId": "gaXWfPZ2lXc",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] ITZY RYUJIN - UNTOUCHABLE(있지 류진 - 언터처블) Close-up Cam | Show! MusicCore | MBC240113방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17514",
+      "ytId": "uMuaJl4lzOs",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] ITZY RYUJIN – UNTOUCHABLE(있지 류진 - 언터처블) FanCam | Show! MusicCore | MBC240113방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17515",
+      "ytId": "acjFIthDrSY",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] ITZY RYUJIN – BORN TO BE(있지 류진 - 본 투 비) FanCam | Show! MusicCore | MBC240113방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17516",
+      "ytId": "4wQ16wAKOhM",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] ITZY YEJI – UNTOUCHABLE(있지 예지 - 언터처블) FanCam | Show! MusicCore | MBC240113방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17517",
+      "ytId": "q5Rn03Fk85g",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] ITZY YEJI – BORN TO BE(있지 예지 - 본 투 비) FanCam | Show! MusicCore | MBC240113방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17518",
+      "ytId": "dLxWLw7CfBc",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] ITZY CHAERYEONG – UNTOUCHABLE(있지 채령 - 언터처블) FanCam | Show! MusicCore | MBC240113방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-13"
+    },
+    {
+      "id": "v17519",
+      "ytId": "MM5_qidUzWs",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] ITZY CHAERYEONG – BORN TO BE(있지 채령 - 본 투 비) FanCam | Show! MusicCore | MBC240113방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-13"
+    },
+    {
+      "id": "v17520",
+      "ytId": "XU4kJhKA96I",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] ITZY CHAERYEONG - BORN TO BE(있지 채령 - 본 투 비) Close-up Cam | Show! MusicCore | MBC240113방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17521",
+      "ytId": "-9KGjPxWrWo",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] ITZY YUNA – UNTOUCHABLE(있지 유나 - 언터처블) FanCam | Show! MusicCore | MBC240113방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17522",
+      "ytId": "dRKJUS3m6i8",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 류진 'UNTOUCHABLE' (ITZY RYUJIN FanCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17523",
+      "ytId": "n_tu1aUOshE",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 유나 'BORN TO BE' (ITZY YUNA FanCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17524",
+      "ytId": "pAIh2WkuneQ",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 채령 'UNTOUCHABLE' (ITZY CHAERYEONG  FanCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17525",
+      "ytId": "kZjHYW_lVkQ",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 류진 'BORN TO BE' (ITZY RYUJIN FanCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17526",
+      "ytId": "7YWSESZRHFg",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 예지 'UNTOUCHABLE' (ITZY YEJI FanCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17527",
+      "ytId": "5d_IVDyYhYE",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 유나 'UNTOUCHABLE' (ITZY YUNA FanCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17528",
+      "ytId": "sNHxHPJHnmw",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 예지 'UNTOUCHABLE' (ITZY YEJI FaceCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17529",
+      "ytId": "npoRUjMmGxc",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 류진 'BORN TO BE' (ITZY RYUJIN FaceCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17530",
+      "ytId": "Cq4kbZc5sk4",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 있지 'UNTOUCHABLE' 단독샷 별도녹화│ITZY ONE TAKE STAGE│@SBS Inkigayo 240114",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17531",
+      "ytId": "utds5hBIRw8",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 채령 'BORN TO BE' (ITZY CHAERYEONG FanCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17532",
+      "ytId": "zrDObMYm7MM",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 류진 'UNTOUCHABLE' (ITZY RYUJIN FaceCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17533",
+      "ytId": "pCAPzWL3eN8",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 채령 'BORN TO BE' (ITZY CHAERYEONG FaceCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17534",
+      "ytId": "ZfdPm2rh9Bc",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 예지 'BORN TO BE' (ITZY YEJI FaceCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17535",
+      "ytId": "7CmE-TuxkEI",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 유나 'UNTOUCHABLE' (ITZY YUNA FaceCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17536",
+      "ytId": "zlE7SZWZYqA",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 예지 'BORN TO BE' (ITZY YEJI FanCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17537",
+      "ytId": "XEchfM9YLeQ",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 채령 'UNTOUCHABLE' (ITZY CHAERYEONG FaceCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17538",
+      "ytId": "OaEdTa8oXd8",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY RYUJIN \"UNTOUCHABLE\" (Focus Cam) 4K @SBS Inkigayo 240114 류진 있지",
+      "channel": "crazed-individual",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17539",
+      "ytId": "sM1zohdY3yU",
+      "eventId": "e1030",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 유나 'BORN TO BE' (ITZY YUNA FaceCam) @SBS Inkigayo 240114",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17540",
+      "ytId": "RQ5fb-0nm1g",
+      "eventId": "e1032",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "있지 예지 'UNTOUCHABLE' 직캠 (ITZY YEJI FanCam) 240118 | @MCOUNTDOWN_2024.1.18",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17541",
+      "ytId": "9I1J5H0gr4c",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] ITZY RYUJIN – UNTOUCHABLE (있지 류진 - 언터처블) FanCam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17542",
+      "ytId": "qtbLwn3xhgo",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "있지 채령 직캠 'UNTOUCHABLE' (ITZY CHAERYEONG FanCam) @MusicCore 240120",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17543",
+      "ytId": "Bk_xnhigDag",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] ITZY YEJI – UNTOUCHABLE (있지 예지 - 언터처블) FanCam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17544",
+      "ytId": "xhnIxfO8B-A",
+      "eventId": "e1037",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 류진 'UNTOUCHABLE' (ITZY RYUJIN FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17545",
+      "ytId": "6pNWvWRQI-A",
+      "eventId": "e1037",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 유나 'UNTOUCHABLE' (ITZY YUNA FaceCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17546",
+      "ytId": "gnK3ZpUsC_I",
+      "eventId": "e1037",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 예지 'UNTOUCHABLE' (ITZY YEJI FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17547",
+      "ytId": "FP08YgGLIEA",
+      "eventId": "e1037",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 예지 'UNTOUCHABLE' (ITZY YEJI FaceCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17548",
+      "ytId": "vA4gfZTmqiw",
+      "eventId": "e1037",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 유나 'UNTOUCHABLE' (ITZY YUNA FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17549",
+      "ytId": "MbN_QGNEVQw",
+      "eventId": "e1037",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 채령 'UNTOUCHABLE' (ITZY CHAERYEONG FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17550",
+      "ytId": "1hZsRgBIx4U",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 있지 류진 직캠 4K 'Mr. Vampire' (ITZY RYUJIN FanCam) | @MCOUNTDOWN_2024.1.25",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17551",
+      "ytId": "zzJ5q_m2FUA",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "있지 채령 'Mr. Vampire' 직캠 (ITZY CHAERYEONG FanCam) 240125 | @MCOUNTDOWN_2024.1.25",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17552",
+      "ytId": "IcPLvCvxRoo",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "있지 유나 'Mr. Vampire' 직캠 (ITZY YUNA FanCam) 240125 | @MCOUNTDOWN_2024.1.25",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17553",
+      "ytId": "theg2R7LUjI",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "있지 예지 'Mr. Vampire' 직캠 (ITZY YEJI FanCam) 240125 | @MCOUNTDOWN_2024.1.25",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17554",
+      "ytId": "MAyoqfeTkIY",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 있지 유나 직캠 4K 'Mr. Vampire' (ITZY YUNA FanCam) | @MCOUNTDOWN_2024.1.25",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17555",
+      "ytId": "-BEu2OYU9UI",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "있지 유나 직캠 'Mr. Vampire' (ITZY YUNA FanCam) @MusicBank 240126",
+      "channel": "scarlet",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17556",
+      "ytId": "4DwS2GVhQYM",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "[세로직캠] 있지 류진 'MR VAMPIRE' (ITZY RYUJIN FanCam) @뮤직뱅크(Music Bank) 240126",
+      "channel": "loveRYU",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17557",
+      "ytId": "ICXSrGvy448",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[#COTPD직캠] 있지 채령 직캠 \"Mr. Vampire\" (ITZY Chaeryeong Fancam) @ KBS Music Bank 240126",
+      "channel": "Chaery On Top Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17558",
+      "ytId": "YP11pMK8Xr4",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] ITZY RYUJIN – MR. VAMPIRE(있지 류진 - 미스터 뱀파이어) FanCam | Show! MusicCore | MBC240127방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17559",
+      "ytId": "pC2Ttrdd3Js",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[#COTPD직캠] 240127 있지 채령 직캠 \"Mr. Vampire\" (ITZY Chaeryeong Fancam) @ Show! MusicCore",
+      "channel": "Chaery On Top Fancams",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17560",
+      "ytId": "_mZd1s-9F1w",
+      "eventId": "e1041",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 류진 'Mr. Vampire' (ITZY RYUJIN FanCam) @SBS Inkigayo 240128",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17561",
+      "ytId": "t-zu0qKmVGY",
+      "eventId": "e1041",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 예지 'Mr. Vampire' (ITZY YEJI FanCam) @SBS Inkigayo 240128",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17562",
+      "ytId": "BSqP7xli-As",
+      "eventId": "e1041",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 채령 'Mr. Vampire' (ITZY CHAERYEONG FanCam) @SBS Inkigayo 240128",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17563",
+      "ytId": "cvQTSN4pAeU",
+      "eventId": "e1041",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 류진 'Mr. Vampire' (ITZY RYUJIN FaceCam) @SBS Inkigayo 240128",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17564",
+      "ytId": "zw4OKxMoxLw",
+      "eventId": "e1041",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 채령 'Mr. Vampire' (ITZY CHAERYEONG FaceCam) @SBS Inkigayo 240128",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17565",
+      "ytId": "xMRLs824tTI",
+      "eventId": "e1041",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 있지 유나 'Mr. Vampire' (ITZY YUNA FanCam) @SBS Inkigayo 240128",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17566",
+      "ytId": "wapqQy305D8",
+      "eventId": "e1041",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 예지 'Mr. Vampire' (ITZY YEJI FaceCam) @SBS Inkigayo 240128",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17567",
+      "ytId": "I7H5uaCS4jI",
+      "eventId": "e1041",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 있지 유나 'Mr. Vampire' (ITZY YUNA FaceCam) @SBS Inkigayo 240128",
+      "channel": "SBSKPOP ZOOM",
       "pin": false,
       "gone": false
     }
