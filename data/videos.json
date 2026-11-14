@@ -4376,6 +4376,13 @@
           "aliases": [],
           "order": 17,
           "release": ""
+        },
+        {
+          "id": "g9s18",
+          "title": "Good Girls in the Dark",
+          "aliases": [],
+          "order": 18,
+          "release": ""
         }
       ]
     },
@@ -19745,6 +19752,188 @@
         "g5s2",
         "g5s6",
         "g5s59"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1299",
+      "groupId": "g9",
+      "date": "2024-01-15",
+      "show": "쇼케이스",
+      "label": "",
+      "setlist": [
+        "g9s5",
+        "g9s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1300",
+      "groupId": "g9",
+      "date": "2024-01-19",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g9s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1301",
+      "groupId": "g9",
+      "date": "2024-01-21",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g9s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1302",
+      "groupId": "g9",
+      "date": "2024-01-24",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g9s5",
+        "g9s18"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1303",
+      "groupId": "g9",
+      "date": "2024-01-25",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g9s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1304",
+      "groupId": "g9",
+      "date": "2024-01-26",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g9s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1305",
+      "groupId": "g9",
+      "date": "2024-01-27",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g9s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1306",
+      "groupId": "g9",
+      "date": "2024-01-28",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g9s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1307",
+      "groupId": "g9",
+      "date": "2024-01-31",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g9s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1308",
+      "groupId": "g9",
+      "date": "2024-02-01",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g9s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1309",
+      "groupId": "g9",
+      "date": "2024-02-02",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g9s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1310",
+      "groupId": "g9",
+      "date": "2024-02-03",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g9s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1311",
+      "groupId": "g9",
+      "date": "2024-02-04",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g9s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1312",
+      "groupId": "g9",
+      "date": "2024-02-21",
+      "show": "신입생 행사",
+      "label": "",
+      "setlist": [
+        "g9s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1313",
+      "groupId": "g9",
+      "date": "2024-03-09",
+      "show": "SKT ifland 에코 페스티벌",
+      "label": "",
+      "setlist": [
+        "g9s5",
+        "g9s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1314",
+      "groupId": "g9",
+      "date": "2024-03-30",
+      "show": "KCON Hong Kong 2024",
+      "label": "",
+      "setlist": [
+        "g9s5",
+        "g9s1",
+        "g9s2",
+        "g9s3"
       ],
       "note": ""
     }
@@ -332223,7 +332412,7 @@
       "memberIds": [
         "g9m1"
       ],
-      "source": null,
+      "source": "official",
       "tags": [
         "4K"
       ],
@@ -332246,7 +332435,7 @@
       "memberIds": [
         "g9m1"
       ],
-      "source": null,
+      "source": "official",
       "tags": [],
       "title": "[MPD직캠] 최예나 직캠 8K 'Good Morning' (Horizontal Ver.) (YENA FanCam) | @MCOUNTDOWN_2024.1.18",
       "channel": "",
@@ -343201,6 +343390,1224 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-04-15"
+    },
+    {
+      "id": "v17992",
+      "ytId": "Lpzu417UY2Y",
+      "eventId": "e1299",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[YENA] 240115 최예나 GOOD MORNING 쇼케이스 Fan Showcase Fancam HQ 4K",
+      "channel": "CatchTheDream",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17993",
+      "ytId": "v7s4Nj6mhlQ",
+      "eventId": "e1299",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] 최예나(YENA), 굿모닝(Good Morning) 세로 직캠 @3RD MINI ALBUM SHOWCASE, 240115",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17994",
+      "ytId": "lznVIWHyUMc",
+      "eventId": "e1299",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240115 YENA (최예나) - Good Morning｜3RD MINI ALBUM 〈Good Morning〉 COMEBACK SHOWCASE",
+      "channel": "슈삼",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17995",
+      "ytId": "BPbOOqUtB18",
+      "eventId": "e1299",
+      "songs": [
+        {
+          "songId": "g9s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] 최예나(YENA), 굿 걸스 인 더 다크(Good Girls in the Dark) 세로 직캠 @3RD MINI ALBUM SHOWCASE, 240115",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17996",
+      "ytId": "X2-FOBYuxjc",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 최예나 직캠 4K 'Good Morning' (YENA FanCam) | @MCOUNTDOWN_2024.1.18",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17997",
+      "ytId": "QmEDK8o2EVI",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "'최초 공개' YENA(최예나) - Good Morning #엠카운트다운 EP.825 | Mnet 240118 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-18"
+    },
+    {
+      "id": "v17998",
+      "ytId": "ARX6yj8Zqww",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g9s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 최예나 직캠 4K 'Good Girls in the Dark' (YENA FanCam) | @MCOUNTDOWN_2024.1.18",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17999",
+      "ytId": "534OxYfKDU4",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g9s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 최예나 직캠 4K 'Good Girls in the Dark' (Horizontal Ver.) (YENA FanCam) | @MCOUNTDOWN_2024.1.18",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18000",
+      "ytId": "7zVS-aY8W3U",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g9s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 최예나 직캠 4K 'Good Girls in the Dark' (YENA FanCam) | @MCOUNTDOWN_2024.1.18",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18001",
+      "ytId": "mLyxJWTukBY",
+      "eventId": "e1300",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "Good Morning - YENA [Music Bank] | KBS WORLD TV 240119",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18002",
+      "ytId": "-UmPMAhv27M",
+      "eventId": "e1300",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Choreo 8K] 최예나 직캠 'Good Morning' (YENA Choreography) @MusicBank 240119",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18003",
+      "ytId": "IYOhjn4bwF8",
+      "eventId": "e1300",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "Good Morning - YENA(최예나) [뮤직뱅크/Music Bank] | KBS 240119 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18004",
+      "ytId": "8va67xeyStw",
+      "eventId": "e1300",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 최예나 'Good Morning'(YENA Facecam) @뮤직뱅크(Music Bank) 240119",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18005",
+      "ytId": "ItvsWCRIgdk",
+      "eventId": "e1035",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "YENA (최예나) - Good Morning | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18006",
+      "ytId": "ZY3DgD_1f6Q",
+      "eventId": "e1035",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] YENA- Good Morning (최예나 – 굿모닝) Close-up Cam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18007",
+      "ytId": "SiAC2paVLNs",
+      "eventId": "e1301",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 최예나 'Good Morning' (YENA FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18008",
+      "ytId": "dkw8matqQzA",
+      "eventId": "e1301",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 최예나 'Good Morning' 단독샷 별도녹화│YENA ONE TAKE STAGE│@SBS Inkigayo 240121",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18009",
+      "ytId": "38xPoXjkX8g",
+      "eventId": "e1301",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 최예나 'Good Morning' (YENA FaceCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18010",
+      "ytId": "PHd5d2wgr5A",
+      "eventId": "e1301",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[항공캠4K] 최예나 'Good Morning' (YENA Sky Cam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18011",
+      "ytId": "3TnBfO_q_94",
+      "eventId": "e1301",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[초고화질 8K] 최예나 'Good Morning' (YENA FullCam)│@SBS Inkigayo 240121",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18012",
+      "ytId": "RoFK1pq80O4",
+      "eventId": "e1301",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 최예나 'Good Morning' (YENA FullCam)│@SBS Inkigayo 240121",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18013",
+      "ytId": "SKDkMfVxZHY",
+      "eventId": "e1302",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] YENA - Good Morning (최예나 - 굿모닝) l Show Champion l EP.502 l 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18014",
+      "ytId": "nNMRddL8fTY",
+      "eventId": "e1302",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] YENA - Good Morning (최예나 - 굿모닝) l Show Champion l EP.502 l 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18015",
+      "ytId": "7l6U2N3V3l4",
+      "eventId": "e1302",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[COMEBACK] 최예나(YENA) - Good Morning l Show Champion l EP.502 l 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18016",
+      "ytId": "IJtVwR5U4O8",
+      "eventId": "e1302",
+      "songs": [
+        {
+          "songId": "g9s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] YENA - Good Girls in the Dark (최예나 - 굿 걸스 인 더 다크) | Show Champion | EP.502 | 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18017",
+      "ytId": "9YIMyVATlBU",
+      "eventId": "e1303",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "YENA (최예나) - Good Morning #엠카운트다운 EP.826 | Mnet 240125 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18018",
+      "ytId": "8yZt5skqLSs",
+      "eventId": "e1304",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "Good Morning - YENA [Music Bank] | KBS WORLD TV 240126",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18019",
+      "ytId": "lOWJ1IT06gg",
+      "eventId": "e1304",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "Good Morning - YENA(최예나) [뮤직뱅크/Music Bank] | KBS 240126 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18020",
+      "ytId": "2N-1Oi__kyg",
+      "eventId": "e1304",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[K-Choreo Tower Cam 4K] 최예나 직캠 'Good Morning' (YENA Choreography) l @MusicBank KBS 240126",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18021",
+      "ytId": "mZMdh3v497I",
+      "eventId": "e1305",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "YENA (최예나) - Good Morning | Show! MusicCore | MBC240127방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18022",
+      "ytId": "vgXc4IrWfSI",
+      "eventId": "e1305",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] YENA- Good Morning (최예나 – 굿모닝) FanCam (Horizontal Ver.) | Show! MusicCore | MBC240127방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18023",
+      "ytId": "7z38FWmvlq4",
+      "eventId": "e1306",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "YENA (최예나) - Good Morning @인기가요 inkigayo 20240128",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18024",
+      "ytId": "gOvPKZT28C8",
+      "eventId": "e1306",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 최예나 'Good Morning' (YENA FanCam) @SBS Inkigayo 240128",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-31"
+    },
+    {
+      "id": "v18025",
+      "ytId": "0cfi3mNvzeM",
+      "eventId": "e1306",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 최예나 'Good Morning' (YENA FullCam)│@SBS Inkigayo 240128",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18026",
+      "ytId": "xlqANVZOtAI",
+      "eventId": "e1306",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[초고화질 8K] 최예나 'Good Morning' (YENA FullCam)│@SBS Inkigayo 240128",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18027",
+      "ytId": "Nj-goyJCd14",
+      "eventId": "e1307",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] YENA - Good Morning (최예나 - 굿모닝) | Show Champion | EP.503 | 240131",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18028",
+      "ytId": "cg0uoJF-xFs",
+      "eventId": "e1307",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] YENA - Good Morning (최예나 - 굿모닝) | Show Champion | EP.503 | 240131",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18029",
+      "ytId": "9HM8iilntLU",
+      "eventId": "e1307",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "최예나(YENA) - Good Morning l Show Champion l EP.503 l 240131",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18030",
+      "ytId": "SLIuIng6N60",
+      "eventId": "e1308",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "YENA(최예나) - Good Morning #엠카운트다운 EP.827 | Mnet 240201 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18031",
+      "ytId": "qOcrOfAg9QI",
+      "eventId": "e1309",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "Good Morning - YENA [Music Bank] | KBS WORLD TV 240202",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18032",
+      "ytId": "jzbiQPZ61qs",
+      "eventId": "e1309",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "Good Morning - YENA(최예나) [뮤직뱅크/Music Bank] | KBS 240202 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18033",
+      "ytId": "flhFzNlLHfU",
+      "eventId": "e1309",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[K-Choreo Tower Cam 4K] 최예나 직캠 'Good Morning' (YENA Choreography) l @MusicBank KBS 240202",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18034",
+      "ytId": "_rCtW-B5Nr8",
+      "eventId": "e1310",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "YENA (최예나) - Good Morning | Show! MusicCore | MBC240203방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18035",
+      "ytId": "_Gq97LTIZKs",
+      "eventId": "e1311",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 최예나 'Good Morning' (YENA FullCam)│@SBS Inkigayo 240204",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18036",
+      "ytId": "a0gAo_fE5Zc",
+      "eventId": "e1311",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "YENA (최예나) - Good Morning @인기가요 inkigayo 20240204",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-04"
+    },
+    {
+      "id": "v18037",
+      "ytId": "ulRqBy9Dtak",
+      "eventId": "e1312",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240221 최예나 SMILEY 스마일리 직캠 @ 2024 선문대학교 OT",
+      "channel": "Duck’s Life",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18038",
+      "ytId": "M5xH8jhWEu0",
+      "eventId": "e1313",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "[4K] 최예나(YENA) 'Good Morning' 세로 직캠 @SKT ifland 에코 페스티벌, 240309",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18039",
+      "ytId": "jAJJ1JU7xRM",
+      "eventId": "e1313",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 최예나(YENA) 'Good Morning' 가로 직캠 @SKT ifland 에코 페스티벌, 240309",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18040",
+      "ytId": "_oHGQ_6ARjQ",
+      "eventId": "e1313",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "[4K] 최예나(YENA) 'SMiLEY' 세로 직캠 @SKT ifland 에코 페스티벌, 240309",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18041",
+      "ytId": "SsO8Igb2xx4",
+      "eventId": "e1314",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240330 YENA Fancam 'Good Morning+SMILEY+SMARTPHONE' @2024 KCON in Hong Kong / 최예나 직캠",
+      "channel": "Soupzip 수프집",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18042",
+      "ytId": "ngMqFMy3H1E",
+      "eventId": "e1314",
+      "songs": [
+        {
+          "songId": "g9s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240330 KCON HK- 'SMARTPHONE' YENA fancam SMARTPHONE 최예나 직캠",
+      "channel": "Leafwind",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18043",
+      "ytId": "4KFUzlAXOrg",
+      "eventId": "e1314",
+      "songs": [
+        {
+          "songId": "g9s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Yena 최예나 ] Smartphone - KCON HONG KONG 240330 Day1",
+      "channel": "PaperCrane",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18044",
+      "ytId": "aED-ePwQrt4",
+      "eventId": "e1314",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240330 KCON HK- 'GOOD MORNING ' STAGE VER. YENA fancam GOOD MORNING 최예나 직캠2",
+      "channel": "Leafwind",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18045",
+      "ytId": "NN9aim-H23E",
+      "eventId": "e1314",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240330 KCON HK- 'SMILEY ' YENA fancam SMILEY 최예나 직캠",
+      "channel": "Leafwind",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18046",
+      "ytId": "pkFZ9Nci-Eo",
+      "eventId": "e1314",
+      "songs": [
+        {
+          "songId": "g9s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240330 KCON HK- 'LOVE WAR ' YENA fancam LOVE WAR 최예나 직캠",
+      "channel": "Leafwind",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
