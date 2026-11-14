@@ -20116,6 +20116,121 @@
         "g11s8"
       ],
       "note": ""
+    },
+    {
+      "id": "e1330",
+      "groupId": "g11",
+      "date": "2025-03-13",
+      "show": "쇼케이스",
+      "label": "",
+      "setlist": [
+        "g11s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1331",
+      "groupId": "g11",
+      "date": "2025-03-14",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g11s11",
+        "g11s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1332",
+      "groupId": "g11",
+      "date": "2025-03-14",
+      "show": "쇼케이스",
+      "label": "",
+      "setlist": [
+        "g11s11",
+        "g11s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1333",
+      "groupId": "g11",
+      "date": "2025-03-15",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g11s10",
+        "g11s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1334",
+      "groupId": "g11",
+      "date": "2025-03-16",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g11s11",
+        "g11s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1335",
+      "groupId": "g11",
+      "date": "2025-03-20",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g11s10",
+        "g11s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1336",
+      "groupId": "g11",
+      "date": "2025-03-21",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g11s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1337",
+      "groupId": "g11",
+      "date": "2025-03-23",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g11s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1338",
+      "groupId": "g11",
+      "date": "2025-03-27",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g11s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1339",
+      "groupId": "g11",
+      "date": "2025-03-29",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g11s10"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -346720,6 +346835,2072 @@
       "channel": "𝙛𝙛.",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v18132",
+      "ytId": "tiS0FunH_B0",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250313 르세라핌 사쿠라 'HOT' 직캠 LE SSERAFIM Sakura 4k Fancam @COMEBACK SHOWCASE",
+      "channel": "꾸루트",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18133",
+      "ytId": "ZEDHDpDeS1Q",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 홍은채 직캠 'Come Over'(LE SSERAFIM HONG EUNCHAE Fancam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18134",
+      "ytId": "9ZCMqNOgjbU",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 홍은채 직캠 'HOT'(LE SSERAFIM HONG EUNCHAE Fancam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18135",
+      "ytId": "VpL5edRar10",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[K-Fancam] 르세라핌 허윤진 직캠 'HOT' (LE SSERAFIM HUH YUNJIN Facecam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18136",
+      "ytId": "KWPa4mW_cJw",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[K-Fancam] 르세라핌 허윤진 직캠 'Come Over' (LE SSERAFIM HUH YUNJIN Facecam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18137",
+      "ytId": "a8B6JU6XUVE",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 카즈하 직캠 'Come Over'(LE SSERAFIM KAZUHA Fancam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18138",
+      "ytId": "1QYChsKMPsE",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[K-Fancam] 르세라핌 사쿠라 직캠 'Come Over' (LE SSERAFIM SAKURA Facecam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18139",
+      "ytId": "ss2uXvACKUE",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 카즈하 직캠 'HOT'(LE SSERAFIM KAZUHA Fancam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18140",
+      "ytId": "SUVzmdAPrXs",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 김채원 'HOT' (LE SSERAFIM KIM CHAEWON Facecam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18141",
+      "ytId": "8v13Rqd2ae0",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 김채원 직캠 'HOT'(LE SSERAFIM KIM CHAEWON Fancam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18142",
+      "ytId": "qd-GWk_HwFE",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 김채원 'Come Over' (LE SSERAFIM KIM CHAEWON Facecam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18143",
+      "ytId": "paVA5gDl_g8",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[K-Fancam] 르세라핌 사쿠라 직캠 'HOT' (LE SSERAFIM SAKURA Facecam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18144",
+      "ytId": "LJZllb3ods4",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 홍은채 'HOT' (LE SSERAFIM HONG EUNCHAE Facecam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18145",
+      "ytId": "ot3x7T0inqE",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 허윤진 'HOT' (LE SSERAFIM HUH YUNJIN Facecam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18146",
+      "ytId": "eNUvFtAR9F0",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 카즈하 'HOT' (LE SSERAFIM KAZUHA Facecam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18147",
+      "ytId": "i_bKL0-rJ0k",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 사쿠라 'HOT' (LE SSERAFIM SAKURA Facecam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18148",
+      "ytId": "tW7ydCJ13MM",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 김채원 직캠 'Come Over'(LE SSERAFIM KIM CHAEWON Fancam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18149",
+      "ytId": "8SZRRv_1cw4",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 홍은채 'Come Over' (LE SSERAFIM HONG EUNCHAE Facecam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18150",
+      "ytId": "Sq-dQESHlOg",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 카즈하 'Come Over' (LE SSERAFIM KAZUHA Facecam) @뮤직뱅크(Music Bank) 250314",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-14"
+    },
+    {
+      "id": "v18151",
+      "ytId": "R8rUN0s0r3k",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        },
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250314 르세라핌 홍은채 직캠 (LE SSERAFIM HONG EUNCHAE Fancam) 'Come Over' @COMEBACK SHOWCASE 'HOT' #ルセラフィム",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-21"
+    },
+    {
+      "id": "v18152",
+      "ytId": "K4FRpqjZwgQ",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠8K] LE SSERAFIM (르세라핌) – HOT FullCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-15"
+    },
+    {
+      "id": "v18153",
+      "ytId": "5EQJ8aon6v0",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM KAZUHA (르세라핌 카즈하) – HOT FanCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-15"
+    },
+    {
+      "id": "v18154",
+      "ytId": "VHCrKACblgs",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM KIM CHAEWON (르세라핌 김채원) – HOT FanCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-15"
+    },
+    {
+      "id": "v18155",
+      "ytId": "M1_VQmOMlPg",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM KAZUHA (르세라핌 카즈하) – Come Over FanCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-15"
+    },
+    {
+      "id": "v18156",
+      "ytId": "SJ7QswBCul0",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM HONG EUNCHAE (르세라핌 홍은채) – HOT FanCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-15"
+    },
+    {
+      "id": "v18157",
+      "ytId": "_r4ULe-vDq8",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM HONG EUNCHAE (르세라핌 홍은채) – Come Over FanCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-15"
+    },
+    {
+      "id": "v18158",
+      "ytId": "ywVSM5abDTs",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM HUH YUNJIN (르세라핌 허윤진) – HOT FanCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-15"
+    },
+    {
+      "id": "v18159",
+      "ytId": "NlxVIZzhYmg",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM HUH YUNJIN (르세라핌 허윤진) – Come Over FanCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-15"
+    },
+    {
+      "id": "v18160",
+      "ytId": "h7oDPK07vJM",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠] LE SSERAFIM (르세라핌) – Come Over FullCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-15"
+    },
+    {
+      "id": "v18161",
+      "ytId": "EPivNU5wxC0",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – HOT FanCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-15"
+    },
+    {
+      "id": "v18162",
+      "ytId": "ohjvy6yscnw",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM KIM CHAEWON (르세라핌 김채원) – Come Over FanCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-15"
+    },
+    {
+      "id": "v18163",
+      "ytId": "HR2w0bFcfRY",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – Come Over FanCam | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-15"
+    },
+    {
+      "id": "v18164",
+      "ytId": "Qzn_XmIYXUE",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – HOT | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-18"
+    },
+    {
+      "id": "v18165",
+      "ytId": "Qby-tQX0Mw4",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM HONG EUNCHAE (르세라핌 홍은채) – HOT | 쇼! 음악중심 | MBC250315",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-18"
+    },
+    {
+      "id": "v18166",
+      "ytId": "X3tw20s9SeI",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 홍은채 'Come Over' (LE SSERAFIM HONG EUNCHAE FanCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-17"
+    },
+    {
+      "id": "v18167",
+      "ytId": "1kd_oaZOYCk",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 홍은채 'HOT' (LE SSERAFIM HONG EUNCHAE FanCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-16"
+    },
+    {
+      "id": "v18168",
+      "ytId": "RjUsfDVgjH4",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 르세라핌 'HOT' (LE SSERAFIM FullCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-16"
+    },
+    {
+      "id": "v18169",
+      "ytId": "Yb8WlFWM9lA",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 카즈하 'HOT' (LE SSERAFIM KAZUHA FanCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-16"
+    },
+    {
+      "id": "v18170",
+      "ytId": "8tR5-P6_h3E",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 카즈하 'Come Over' (LE SSERAFIM KAZUHA FanCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-17"
+    },
+    {
+      "id": "v18171",
+      "ytId": "keKKNZUG6dA",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 르세라핌 'Come Over' (LE SSERAFIM FullCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-16"
+    },
+    {
+      "id": "v18172",
+      "ytId": "HIHjb-_h5ms",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 허윤진 'HOT' (LE SSERAFIM HUH YUNJIN FanCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-16"
+    },
+    {
+      "id": "v18173",
+      "ytId": "MyVrpRy-6SQ",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 허윤진 'Come Over' (LE SSERAFIM HUH YUNJIN FanCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-17"
+    },
+    {
+      "id": "v18174",
+      "ytId": "t7d5dF9D7Kw",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 사쿠라 'HOT' (LE SSERAFIM SAKURA FanCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-16"
+    },
+    {
+      "id": "v18175",
+      "ytId": "ifdYxijwaoM",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 르세라핌 'HOT' 단독샷 별도녹화│LE SSERAFIM ONE TAKE STAGE│@SBS Inkigayo 250316",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-17"
+    },
+    {
+      "id": "v18176",
+      "ytId": "7NLW9aHGPyg",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 김채원 'Come Over' (LE SSERAFIM KIM CHAEWON FanCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-17"
+    },
+    {
+      "id": "v18177",
+      "ytId": "WLcxeo5de1o",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 김채원 'HOT' (LE SSERAFIM KIM CHAEWON FanCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-16"
+    },
+    {
+      "id": "v18178",
+      "ytId": "mnUlE52jRHw",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250316 르세라핌 홍은채 직캠 (LE SSERAFIM HONG EUNCHAE Fancam) 'Come Over' @인기가요 #ルセラフィム",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-16"
+    },
+    {
+      "id": "v18179",
+      "ytId": "pomDhF53tBc",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 홍은채 'Come Over' (LE SSERAFIM HONG EUNCHAE FaceCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-18"
+    },
+    {
+      "id": "v18180",
+      "ytId": "j21PF_aS1vY",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 허윤진 'HOT' (LE SSERAFIM HUH YUNJIN FaceCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-17"
+    },
+    {
+      "id": "v18181",
+      "ytId": "EAvubI0rtlg",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 사쿠라 'Come Over' (LE SSERAFIM SAKURA FanCam) @SBS Inkigayo 250316",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-17"
+    },
+    {
+      "id": "v18182",
+      "ytId": "5KD36yUv43o",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 카즈하 직캠 4K 'HOT' (LE SSERAFIM KAZUHA FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-20"
+    },
+    {
+      "id": "v18183",
+      "ytId": "BOE8iyZgSxw",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "르세라핌 허윤진 직캠 'Come Over' (LE SSERAFIM HUH YUNJIN FanCam) @MCOUNTDOWN 250320",
+      "channel": "scarlet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-21"
+    },
+    {
+      "id": "v18184",
+      "ytId": "Pwx1Qb9VihU",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 김채원 직캠 4K 'Come Over' (LE SSERAFIM KIM CHAEWON FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-20"
+    },
+    {
+      "id": "v18185",
+      "ytId": "voE0jbmgUA4",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 김채원 직캠 4K 'HOT' (LE SSERAFIM KIM CHAEWON FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-20"
+    },
+    {
+      "id": "v18186",
+      "ytId": "C73KOlbFTyc",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 허윤진 직캠 4K 'HOT' (LE SSERAFIM HUH YUNJIN FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-20"
+    },
+    {
+      "id": "v18187",
+      "ytId": "xF_a8cmAgJI",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 사쿠라 직캠 4K 'HOT' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-21"
+    },
+    {
+      "id": "v18188",
+      "ytId": "gqMAdk8okdA",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 사쿠라 직캠 4K 'HOT' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-20"
+    },
+    {
+      "id": "v18189",
+      "ytId": "Nh2EKrOSBAw",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 홍은채 직캠 4K 'HOT' (LE SSERAFIM HONG EUNCHAE FanCam)| @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-20"
+    },
+    {
+      "id": "v18190",
+      "ytId": "FYTig7NcNAk",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 사쿠라 직캠 4K 'Come Over' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2025.3.20",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-20"
+    },
+    {
+      "id": "v18191",
+      "ytId": "65HDZ8BZyJs",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 카즈하 직캠 'HOT'(LE SSERAFIM KAZUHA Fancam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-21"
+    },
+    {
+      "id": "v18192",
+      "ytId": "wXI9LKtgBsU",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[K-Fancam] 르세라핌 허윤진 직캠 'HOT' (LE SSERAFIM HUH YUNJIN Facecam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-21"
+    },
+    {
+      "id": "v18193",
+      "ytId": "mlYiXPQY78w",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[K-Fancam] 르세라핌 사쿠라 직캠 'HOT' (LE SSERAFIM SAKURA Facecam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-21"
+    },
+    {
+      "id": "v18194",
+      "ytId": "F2MlryzOlGo",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 홍은채 직캠 'HOT'(LE SSERAFIM HONG EUNCHAE Fancam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-21"
+    },
+    {
+      "id": "v18195",
+      "ytId": "TDUB4y3B0ak",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 김채원 'HOT' (LE SSERAFIM KIM CHAEWON Facecam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-21"
+    },
+    {
+      "id": "v18196",
+      "ytId": "Ga9bqPWQpW8",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 김채원 직캠 'HOT'(LE SSERAFIM KIM CHAEWON Fancam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-21"
+    },
+    {
+      "id": "v18197",
+      "ytId": "hOEFwOdWq-k",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "250321 뮤직뱅크 르세라핌 HOT 1위 앵콜 라이브 무대",
+      "channel": "혜의 덕질일기",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-21"
+    },
+    {
+      "id": "v18198",
+      "ytId": "i8-91H9J3d4",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 사쿠라 'HOT' (LE SSERAFIM SAKURA Facecam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-21"
+    },
+    {
+      "id": "v18199",
+      "ytId": "GKIApDU5nrQ",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 홍은채 'HOT' (LE SSERAFIM HONG EUNCHAE Facecam) @뮤직뱅크(Music Bank) 250321",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-21"
+    },
+    {
+      "id": "v18200",
+      "ytId": "MNDhxJExIWs",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 르세라핌 'HOT' (LE SSERAFIM FullCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-23"
+    },
+    {
+      "id": "v18201",
+      "ytId": "uoK8qH1eMZ8",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 홍은채 'HOT' (LE SSERAFIM HONG EUNCHAE FanCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-24"
+    },
+    {
+      "id": "v18202",
+      "ytId": "PAkEZ2uMSEI",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 카즈하 'HOT' (LE SSERAFIM KAZUHA FanCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-24"
+    },
+    {
+      "id": "v18203",
+      "ytId": "iKJjGru_cyY",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 르세라핌 'HOT' 단독샷 별도녹화│LE SSERAFIM ONE TAKE STAGE│@SBS Inkigayo 250323",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-24"
+    },
+    {
+      "id": "v18204",
+      "ytId": "XxB0lWLELAk",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 김채원 'HOT' (LE SSERAFIM KIM CHAEWON FanCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-24"
+    },
+    {
+      "id": "v18205",
+      "ytId": "wcjbXUT3Vqo",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 사쿠라 'HOT' (LE SSERAFIM SAKURA FanCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-24"
+    },
+    {
+      "id": "v18206",
+      "ytId": "SdkjdW3eRsw",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 허윤진 'HOT' (LE SSERAFIM HUH YUNJIN FanCam) @SBS Inkigayo 250323",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-24"
+    },
+    {
+      "id": "v18207",
+      "ytId": "_F3KhkKVFs8",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250327 르세라핌 홍은채 직캠 (LE SSERAFIM HONG EUNCHAE Fancam) 'HOT' @MCOUNTDOWN #ルセラフィム",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-28"
+    },
+    {
+      "id": "v18208",
+      "ytId": "VzML0MvnGdQ",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "르세라핌(LE SSERAFIM) 홍은채(HONG EUNCHAE) - 핫(HOT) 세로직캠 (Vertical Cam) / 250327 MCountdown",
+      "channel": "우유한잔",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-28"
+    },
+    {
+      "id": "v18209",
+      "ytId": "4pI6u5UbGjY",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "르세라핌 허윤진 직캠 'HOT' (LE SSERAFIM YUNJIN FanCam) @MCOUNTDOWN 250327",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-31"
+    },
+    {
+      "id": "v18210",
+      "ytId": "xxqv9d4YgqQ",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "르세라핌(LE SSERAFIM) 김채원(KIM CHAEWON) - 핫(HOT) 세로직캠 (Vertical Cam) / 250327 MCountdown",
+      "channel": "우유한잔",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-28"
+    },
+    {
+      "id": "v18211",
+      "ytId": "j9gfs9yw7OI",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] HOT - LE SSERAFIM KIM CHAEWON (김채원) FOCUS | [MCOUNTDOWN - 250327]",
+      "channel": "KISSTILLUDROP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-30"
+    },
+    {
+      "id": "v18212",
+      "ytId": "TxfYhPICZJQ",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] HOT - LE SSERAFIM HUH YUNJIN (허윤진) FOCUS | [MCOUNTDOWN - 250327]",
+      "channel": "KISSTILLUDROP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-01"
+    },
+    {
+      "id": "v18213",
+      "ytId": "DUB52IUXuFI",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] HOT - LE SSERAFIM HONG EUNCHAE (홍은채) FOCUS | [MCOUNTDOWN - 250327]",
+      "channel": "KISSTILLUDROP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-03"
+    },
+    {
+      "id": "v18214",
+      "ytId": "8Pmi7YOWjUw",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] HOT - LE SSERAFIM KAZUHA (카즈하) FOCUS | [MCOUNTDOWN - 250327]",
+      "channel": "KISSTILLUDROP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-02"
+    },
+    {
+      "id": "v18215",
+      "ytId": "PAJFJApyAyM",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] HOT - LE SSERAFIM SAKURA (사쿠라) FOCUS | [MCOUNTDOWN - 250327]",
+      "channel": "KISSTILLUDROP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-31"
+    },
+    {
+      "id": "v18216",
+      "ytId": "P2FwGUkfn1A",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠] LE SSERAFIM (르세라핌) – HOT FullCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-29"
+    },
+    {
+      "id": "v18217",
+      "ytId": "UsuU5Y5Wy6g",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – HOT FanCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-30"
+    },
+    {
+      "id": "v18218",
+      "ytId": "rjg1XEhBvO4",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM KIM CHAEWON (르세라핌 김채원) – HOT FanCam | 쇼! 음악중심 | MBC250329",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-29"
+    },
+    {
+      "id": "v18219",
+      "ytId": "jJjV7RQNxIc",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250329 르세라핌 홍은채 직캠 (LE SSERAFIM HONG EUNCHAE Fancam) 'HOT' @음악중심 #ルセラフィム",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-29"
+    },
+    {
+      "id": "v18220",
+      "ytId": "xfU68Q68Vww",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250329 LE SSERAFIM KIM CHAEWON (르세라핌 김채원) – HOT FanCam _ 쇼_ 음악중심 _ MBC250329",
+      "channel": "SWHIT ST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-30"
     }
   ],
   "clips": []
