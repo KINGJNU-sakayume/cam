@@ -4369,6 +4369,13 @@
           "aliases": [],
           "order": 17,
           "release": ""
+        },
+        {
+          "id": "g9s18",
+          "title": "Good Girls in the Dark",
+          "aliases": [],
+          "order": 18,
+          "release": ""
         }
       ]
     },
@@ -332764,6 +332771,274 @@
       ],
       "title": "[4K] 최예나(YENA) 'SMiLEY' 세로 직캠 @SKT ifland 에코 페스티벌, 240309",
       "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17557",
+      "ytId": "lznVIWHyUMc",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240115 YENA (최예나) - Good Morning｜3RD MINI ALBUM 〈Good Morning〉 COMEBACK SHOWCASE",
+      "channel": "슈삼",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17558",
+      "ytId": "IYOhjn4bwF8",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "Good Morning - YENA(최예나) [뮤직뱅크/Music Bank] | KBS 240119 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17559",
+      "ytId": "8va67xeyStw",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 최예나 'Good Morning'(YENA Facecam) @뮤직뱅크(Music Bank) 240119",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17560",
+      "ytId": "ZY3DgD_1f6Q",
+      "eventId": "e1035",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] YENA- Good Morning (최예나 – 굿모닝) Close-up Cam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17561",
+      "ytId": "7l6U2N3V3l4",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[COMEBACK] 최예나(YENA) - Good Morning l Show Champion l EP.502 l 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17562",
+      "ytId": "2N-1Oi__kyg",
+      "eventId": "e1258",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[K-Choreo Tower Cam 4K] 최예나 직캠 'Good Morning' (YENA Choreography) l @MusicBank KBS 240126",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17563",
+      "ytId": "vgXc4IrWfSI",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g9s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] YENA- Good Morning (최예나 – 굿모닝) FanCam (Horizontal Ver.) | Show! MusicCore | MBC240127방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17564",
+      "ytId": "BPbOOqUtB18",
+      "eventId": "e1253",
+      "songs": [
+        {
+          "songId": "g9s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] 최예나(YENA), 굿 걸스 인 더 다크(Good Girls in the Dark) 세로 직캠 @3RD MINI ALBUM SHOWCASE, 240115",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17565",
+      "ytId": "ARX6yj8Zqww",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g9s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 최예나 직캠 4K 'Good Girls in the Dark' (YENA FanCam) | @MCOUNTDOWN_2024.1.18",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17566",
+      "ytId": "534OxYfKDU4",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g9s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 최예나 직캠 4K 'Good Girls in the Dark' (Horizontal Ver.) (YENA FanCam) | @MCOUNTDOWN_2024.1.18",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17567",
+      "ytId": "7zVS-aY8W3U",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g9s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 최예나 직캠 4K 'Good Girls in the Dark' (YENA FanCam) | @MCOUNTDOWN_2024.1.18",
+      "channel": "M2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17568",
+      "ytId": "IJtVwR5U4O8",
+      "eventId": "e1257",
+      "songs": [
+        {
+          "songId": "g9s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] YENA - Good Girls in the Dark (최예나 - 굿 걸스 인 더 다크) | Show Champion | EP.502 | 240124",
+      "channel": "ALL THE K-POP",
       "pin": false,
       "gone": false
     }
