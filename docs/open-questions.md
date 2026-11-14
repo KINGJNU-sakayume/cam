@@ -96,3 +96,22 @@
 
 - 최예나: APEC 뮤직페스타 영상 4개(251021 방송·251026 월드 두 날짜), 2025 콘서트·도쿄 팬미팅 라이브 스테이지(날짜 없음, 일본 커버곡 '晩餐歌'가 STAR!로 잘못 읽혀 뺌), 서일대 '너만 아니면 돼'·'Lxxk 2 U' 공식 영상(곡 미확인), AAA·ACON 2025·코믹월드 윈터 무대(행사 이름 불명).
 - 키스오브라이프: 멤버 이름이 없는 직캠(워터밤 서울 250706, KISS ROAD 앙콘 250719·20, 청년의 날 콘서트 풀버전), 직캠·풀캠을 알 수 없는 영상(릉릉·랑자 등), 풀 콘서트 영상(말레이시아·시카고·후쿠오카·앙콘 1·2일차), 날짜가 업로드 추정뿐인 Simply K-Pop·스튜디오 춤 등. 제목 날짜가 공연과 맞는 직캠도 `KISSY LOAD`·`10 Minutes`(MC) 같은 곡 아닌 항목이 곡으로 읽혀 담지 않았어요.
+
+## 8. 2차 전수 검색(bf2)에서 담지 않은 영상
+
+### 르세라핌 2024-01
+- PbBW8awuQ6g: 골든디스크 JTBC 방송 YB × 르세라핌 3곡 메들리(UNFORGIVEN + Stay Alive + Fire in the belly). 곡별 시작 초를 몰라 보류.
+- 멤버 이름 없는 골든디스크 2024 자카르타 240106 직캠(ZjJBdaT_lq8 · uyqx6WdmYq0 · XzYiQQqQn5I · NooMsMwJsqY · 2IWhcL3fJro · YxdG9hS-jGg · OSPUC9jX1aQ · OWwDBuWRlZY): 단체 직캠인지 확인 못 함.
+- 날짜는 맞지만 담아 둔 공연이 없고 행사·곡이 불명인 것: 240113 임페리얼 월드 Samrong(ILFpymPAEjU), 240127 TTV SUPER STAR 타이완(Samx00ntGT8). 윤아 팬미팅(niAf566r4lo)은 무대 영상 아님.
+- 나머지 review 약 350개는 제목에 날짜가 없고 업로드가 2024-01이 아니라 기간 밖.
+
+### 르세라핌 2024-02
+- 쇼케이스(02-19) 팬 업로드 다수: 멤버 이름이 없거나(Smart·Perfect Night·EASY 등) 풀캠인지 직캠인지 몰라 보류. 2곡 메들리(No Celestial + Fire in the belly)는 곡별 시작 초를 몰라 보류.
+- 240220 THE GARAGE(7N02c0yhaaM · EY4fudJSEhQ · yIhIaMk4Up4 · kQi9LHsbdHs): 행사 불명, 담아 둔 공연 없음.
+- 미니팬미팅 직캠(음악중심 02-24·엠카운트다운 02-29), 뜬뜬편집실, 비어 있는 멤버 없는 K-Choreo(m7uws0SVJxg 등): 무대 직캠인지·멤버 불명.
+- 02-24·02-25 방송에 Swan Song를 담았으나 공연 setlist에는 EASY만 있어 경고가 났어요(실제 무대 곡이라 담음, setlist 확인 필요).
+
+### 르세라핌 2024-03
+- 2O6OttvX0tI: 03-08 "마지막 미니 팬미팅 Full ver." — 같은 날 뮤직뱅크(e1265)와 같은 공연인지, 별도 팬미팅인지 애매해 담지 않음.
+- 미니팬미팅 직캠(ffrS_taKgeY 등), 귀국길(nPv6lyeakvU)·숙소(z2mtQbF-gtQ)·챌린지(TIl_6Q6ER3w)·MAX 내한(wOYUcEn3BjU, 행사·곡 불명): 무대 영상 아님이거나 판단 불가.
+- 나머지 review 약 400개: 제목에 날짜가 없거나 기간 밖 업로드.
