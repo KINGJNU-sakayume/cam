@@ -132,3 +132,8 @@
 - 곡 없음/엔딩·퇴장 인사 직캠(6VeEoMbZ47s, iiIXUl0v80w, G_6952e_X18, bbNJ2PKmp9g, BxkPnRs3zK0, kuK4ICpYzY0): 곡을 정할 수 없어 보류.
 - SBS 공식 풀캠(hCcTfBWC0O8, V9ND5sdmQQ0, vLiJHEnHRvQ): 07-21인지 07-26인지 제목에 날짜가 없어 보류. 해외 팬 직캠(AtotheJOne97 등, 제목에 072124)도 종류 불명이라 보류.
 - 일본 방송(FNS 07-03, NTV MUSIC DAY 07-06, 엠카 07-25)과 FEARNADA 일본 팬미팅(07-06~07-31, 사쿠라·채원 직캠 등): 행사가 새 공연이고 풀캠/직캠 구분·곡이 불명이라 보류.
+
+### 르세라핌 2024-08
+- 08-30 뮤직뱅크·08-31 음악중심 방송사 공식 영상(CRAZY·1-800-hot-n-fun 무대, KBS/MBC/Mnet 등 gZuKmC_cDPA, CxiuxbsdfOc, AgZGnrG8XzU, dxhfi7VPDwk, YhzF50WE3w0 등)과 4K 원테이크·공간음향 Choreography 영상: 풀캠/직캠 구분이 제목에 없어 보류.
+- 멤버 없는 직캠(Ez6NpqarMxo, bASHGZRHKg0, gwQ_nVqzedA)과 08-30 뮤뱅 미니 팬미팅 영상(8hfjqhFBs4E, VmlDY8lhUGw, 1mG5hVoXu3I, aLmUZfHKSqU, HN6YzdNwuZI, 4_bbrZ749is, jbJlQY0qg4A, nnMn5lmyE6Q): 멤버·곡 불명 또는 같은 날 미니 팬미팅과 뮤뱅 구분이 애매해 보류.
+- 08-29·08-30 CRAZY THUNDER PARTY(청음회) 영상(TcFN_qmw8-0, OPdvfGNWvpI, noNzFyPMHHM, kimbilly 영상 등): 새 행사라 보류. 08-16 뮤뱅 MR 제거(2zL9pJWF2-A)·팬 라이브 방송류도 보류.

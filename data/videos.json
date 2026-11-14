@@ -19193,6 +19193,29 @@
         "g11s7"
       ],
       "note": ""
+    },
+    {
+      "id": "e1255",
+      "groupId": "g11",
+      "date": "2024-08-30",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g11s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1256",
+      "groupId": "g11",
+      "date": "2024-08-31",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g11s8",
+        "g11s9"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -332080,6 +332103,435 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-07-28"
+    },
+    {
+      "id": "v17531",
+      "ytId": "OfLqmCtaVEo",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 홍은채 직캠 'CRAZY'(LE SSERAFIM HONG EUNCHAE Fancam) @뮤직뱅크(Music Bank) 240830",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-30"
+    },
+    {
+      "id": "v17532",
+      "ytId": "K4-aLTrBO1w",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 카즈하 직캠 'CRAZY'(LE SSERAFIM KAZUHA Fancam) @뮤직뱅크(Music Bank) 240830",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-30"
+    },
+    {
+      "id": "v17533",
+      "ytId": "U7KLoQELdgc",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 허윤진 직캠 'CRAZY'(LE SSERAFIM HUH YUNJIN Fancam) @뮤직뱅크(Music Bank) 240830",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-30"
+    },
+    {
+      "id": "v17534",
+      "ytId": "duTfKaiIh6M",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 홍은채 'CRAZY'(LE SSERAFIM HONG EUNCHAE Facecam) @뮤직뱅크(Music Bank) 240830",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-30"
+    },
+    {
+      "id": "v17535",
+      "ytId": "-tvQAnoL2Jg",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 김채원 직캠 'CRAZY'(LE SSERAFIM KIM CHAEWON Fancam) @뮤직뱅크(Music Bank) 240830",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-30"
+    },
+    {
+      "id": "v17536",
+      "ytId": "_jTPH-9N-fY",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 허윤진 'CRAZY'(LE SSERAFIM HUH YUNJIN Facecam) @뮤직뱅크(Music Bank) 240830",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-30"
+    },
+    {
+      "id": "v17537",
+      "ytId": "3vR4gKUfMfY",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 김채원 'CRAZY'(LE SSERAFIM KIM CHAEWON Facecam) @뮤직뱅크(Music Bank) 240830",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17538",
+      "ytId": "bi6Hiws6tRM",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 사쿠라 직캠 'CRAZY'(LE SSERAFIM SAKURA Fancam) @뮤직뱅크(Music Bank) 240830",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-30"
+    },
+    {
+      "id": "v17539",
+      "ytId": "RUhfzxNKO6s",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 사쿠라 'CRAZY'(LE SSERAFIM SAKURA Facecam) @뮤직뱅크(Music Bank) 240830",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-30"
+    },
+    {
+      "id": "v17540",
+      "ytId": "pqHkUPGzQ60",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 카즈하 'CRAZY'(LE SSERAFIM KAZUHA Facecam) @뮤직뱅크(Music Bank) 240830",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-30"
+    },
+    {
+      "id": "v17541",
+      "ytId": "JVMGf7J0JBQ",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – CRAZY | 쇼! 음악중심 | MBC240831방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-09-02"
+    },
+    {
+      "id": "v17542",
+      "ytId": "fhbz6rrwEYI",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – CRAZY | 쇼! 음악중심 | MBC240831방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-31"
+    },
+    {
+      "id": "v17543",
+      "ytId": "O6GHKV-0pa8",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM KIM CHAEWON (르세라핌 김채원) – CRAZY | 쇼! 음악중심 | MBC240831방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17544",
+      "ytId": "xZsvVPanwho",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240831 르세라핌 사쿠라 (LE SSERAFIM SAKURA) - 1-800-hot-n-fun 직캠 Fancam @ 쇼! 음악중심",
+      "channel": "gabi",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17545",
+      "ytId": "L6QWmwIVhVI",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM HUH YUNJIN (르세라핌 허윤진) – CRAZY | 쇼! 음악중심 | MBC240831방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-31"
+    },
+    {
+      "id": "v17546",
+      "ytId": "qXgzYR_d4PE",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM '1-800-HOT-N-FUN' - HUH YUNJIN (FANCAM) MBC MUSIC CORE 240831",
+      "channel": "Naega Hoshi",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17547",
+      "ytId": "6lyKW0PuXiE",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM HONG EUNCHAE (르세라핌 홍은채) – CRAZY | 쇼! 음악중심 | MBC240831방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-31"
+    },
+    {
+      "id": "v17548",
+      "ytId": "tWZ6uKyIgcI",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM KAZUHA (르세라핌 카즈하) – CRAZY | 쇼! 음악중심 | MBC240831방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-31"
+    },
+    {
+      "id": "v17549",
+      "ytId": "mH7s9vo4DK0",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM KIM CHAEWON (르세라핌 김채원) – CRAZY | 쇼! 음악중심 | MBC240831방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-09-02"
     }
   ],
   "clips": []
