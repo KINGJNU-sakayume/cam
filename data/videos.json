@@ -19192,6 +19192,18 @@
         "g10s3"
       ],
       "note": ""
+    },
+    {
+      "id": "e1255",
+      "groupId": "g10",
+      "date": "2024-02-18",
+      "show": "한터뮤직어워즈",
+      "label": "",
+      "setlist": [
+        "g10s4",
+        "g10s1"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -331707,6 +331719,32 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-01-15"
+    },
+    {
+      "id": "v17516",
+      "ytId": "_XwSEtUIUPA",
+      "eventId": "e1255",
+      "songs": [
+        {
+          "songId": "g10s4",
+          "t": 0
+        },
+        {
+          "songId": "g10s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240218 KISS OF LIFE Julie - Nobody Knows + Shhh Fancam @ HMAs 2023",
+      "channel": "quokkabao",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
     }
   ],
   "clips": []
