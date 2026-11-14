@@ -229,10 +229,12 @@ node scripts/make-samples.mjs --clips  # 움짤만
 ```
 index.html  admin.html  styles.css  app.js  admin.js
 js/           util·model·data·indexer·router·theme·state·components·placeholder·clipplay·validate-core·migrate
-js/views/     lineup·folder·player·clipdetail·song·member·clips·search·states
+js/views/     lineup·folder·events·player·clipdetail·song·member·clips·search·states
 js/admin/     store·parse·zip·ui·thumbs·edit·pick·roster·clips·save·import
-data/videos.json   thumbs/   clips/   clips/posters/
+data/videos.json   data/pending.json (담기 대기 목록)   thumbs/   clips/   clips/posters/
+docs/         백필 기록·대기 영상 목록·열린 질문 (사이트는 읽지 않음)
 scripts/      validate.mjs  archive.mjs  harvest.mjs  test-parse.mjs  make-samples.mjs  check-alive.mjs
+              face-pos.py (썸네일 얼굴 기준 크롭 위치, 개발용)  thumb-sheet.py (조밀 테마 검토용 대조 시트, 개발용)
 scripts/lib/  yt.mjs (유튜브 검색·영상 정보)   scripts/fixtures/  titles.json (제목 해석 스냅숏)
 CLAUDE.md  .claude/skills/   Claude에게 부탁할 때 읽는 규칙과 절차
 .github/workflows/  validate.yml  check-alive.yml
