@@ -104,3 +104,9 @@
 - 멤버 이름 없는 골든디스크 2024 자카르타 240106 직캠(ZjJBdaT_lq8 · uyqx6WdmYq0 · XzYiQQqQn5I · NooMsMwJsqY · 2IWhcL3fJro · YxdG9hS-jGg · OSPUC9jX1aQ · OWwDBuWRlZY): 단체 직캠인지 확인 못 함.
 - 날짜는 맞지만 담아 둔 공연이 없고 행사·곡이 불명인 것: 240113 임페리얼 월드 Samrong(ILFpymPAEjU), 240127 TTV SUPER STAR 타이완(Samx00ntGT8). 윤아 팬미팅(niAf566r4lo)은 무대 영상 아님.
 - 나머지 review 약 350개는 제목에 날짜가 없고 업로드가 2024-01이 아니라 기간 밖.
+
+### 르세라핌 2024-02
+- 쇼케이스(02-19) 팬 업로드 다수: 멤버 이름이 없거나(Smart·Perfect Night·EASY 등) 풀캠인지 직캠인지 몰라 보류. 2곡 메들리(No Celestial + Fire in the belly)는 곡별 시작 초를 몰라 보류.
+- 240220 THE GARAGE(7N02c0yhaaM · EY4fudJSEhQ · yIhIaMk4Up4 · kQi9LHsbdHs): 행사 불명, 담아 둔 공연 없음.
+- 미니팬미팅 직캠(음악중심 02-24·엠카운트다운 02-29), 뜬뜬편집실, 비어 있는 멤버 없는 K-Choreo(m7uws0SVJxg 등): 무대 직캠인지·멤버 불명.
+- 02-24·02-25 방송에 Swan Song를 담았으나 공연 setlist에는 EASY만 있어 경고가 났어요(실제 무대 곡이라 담음, setlist 확인 필요).
