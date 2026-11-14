@@ -143,3 +143,8 @@
 - 같은 날(09-27) 서강대·서울과학기술대 축제는 제목에 학교명이 분명해 각각 다른 공연으로 담음.
 - 방송사 공식 영상·멤버 없는 직캠·곡을 알 수 없는 영상은 이전 달과 같은 기준으로 보류(review.txt 참고).
 - 광주대 09-30 카즈하 UNFORGIVEN(WthHd8XKeCE): 제목에 곡이 분명해 담았지만 공연 setlist에 없어 경고가 났어요. 확인 필요.
+
+### 르세라핌 2024-10
+- 10-01 호서대·10-02 동명대/영남대 축제 영상: 멤버 없는 직캠(DaftTaengk, Bamp VIDEO 등), 풀캠/직캠 구분 없는 kimbilly·Rock Music·K-MORY 영상, 풀 버전(J6yzPl6GNhE, xAQ0MHP5WVY, k49JPBO3-38 등), 멤버는 있으나 곡 표기가 달라 자동 선별을 못 한 동명대 직캠(GS5bwm1h_DI, ny-AcHA-DBU, JxFvcqrMfGI, snlPYZR7HV4, QaHTSFAI8aM, UuGsVOkklNg, CuzPjapIpHs)은 보류.
+- 10-01 한양대 에리카 축제(OCzGc-sxTfg, O_VICinYco8): 새 행사라 보류.
+- 09-30 광주대 영상 4개는 3분기 PR(#59)에 이미 담겨 있어 이번 브랜치에서는 뺐어요.
