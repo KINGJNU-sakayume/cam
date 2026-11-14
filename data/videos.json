@@ -20132,6 +20132,19 @@
         "g11s11"
       ],
       "note": ""
+    },
+    {
+      "id": "e1331",
+      "groupId": "g11",
+      "date": "2025-05-24",
+      "show": "고려대 축제",
+      "label": "",
+      "setlist": [
+        "g11s10",
+        "g11s11",
+        "g11s2"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -346773,6 +346786,186 @@
       "tags": [],
       "title": "250420 LE SSERAFIM Sakura Fancam【come over】르세라핌 사쿠라 宮脇咲良",
       "channel": "Bambiii",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18134",
+      "ytId": "7tRRe7689p0",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        },
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250524 르세라핌 사쿠라 직캠 'HOT + Come Over' (LE SSERAFIM SAKURA FanCam) @고려대",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-25"
+    },
+    {
+      "id": "v18135",
+      "ytId": "GJ9rQaaYkqo",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250524 Eunchae Fancam 홍은채 직캠 'HOT' LE SSERAFIM 르세라핌 @ 고려대학교 축제 Korea University Festival",
+      "channel": "Asta Hinata",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-25"
+    },
+    {
+      "id": "v18136",
+      "ytId": "3gRBQ2C_wpo",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250524 르세라핌 김채원 직캠 'ANTIFRAGILE' (LE SSERAFIM KIM CHAEWON FanCam) @고려대",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-25"
+    },
+    {
+      "id": "v18137",
+      "ytId": "0gizU8jqEHM",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250524 'COME OVER' 르세라핌 김채원 직캠 LESSERAFIM KIM CHAEWON FANCAM | 고려대 입실렌티",
+      "channel": "코코아☘️ cocoa.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-25"
+    },
+    {
+      "id": "v18138",
+      "ytId": "XwClOCuMXho",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250524 르세라핌( LE SSERAFIM)- KAZUHA fancam 'COME OVER' 고려대학교 입실렌티",
+      "channel": "balloon💭",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18139",
+      "ytId": "FTdQrt3YEck",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250524 'CRAZY' 르세라핌 김채원 직캠 LESSERAFIM KIM CHAEWON FANCAM | 고려대 입실렌티",
+      "channel": "코코아☘️ cocoa.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-27"
+    },
+    {
+      "id": "v18140",
+      "ytId": "ne57MrWMIwU",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250524 'ANTIFRAGILE' 르세라핌 김채원 직캠 LESSERAFIM KIM CHAEWON FANCAM | 고려대 입실렌티",
+      "channel": "코코아☘️ cocoa.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-26"
+    },
+    {
+      "id": "v18141",
+      "ytId": "Z0QPbaDbvzs",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM KAZUHA UNFORGIVEN FANCAM📽  [KOREA UNIVERSITY 🇰🇷 250524]",
+      "channel": "vvt_il ",
       "pin": false,
       "gone": false
     }
