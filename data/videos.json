@@ -2328,6 +2328,13 @@
           "order": 66,
           "release": "",
           "kind": "cover"
+        },
+        {
+          "id": "g5s67",
+          "title": "Hold on Tight",
+          "aliases": [],
+          "order": 67,
+          "release": ""
         }
       ]
     },
@@ -19651,6 +19658,93 @@
         "g11s5",
         "g11s8",
         "g11s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1292",
+      "groupId": "g5",
+      "date": "2024-01-14",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g5s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1293",
+      "groupId": "g5",
+      "date": "2024-01-28",
+      "show": "GMO SONIC 2024",
+      "label": "",
+      "setlist": [
+        "g5s57",
+        "g5s54",
+        "g5s5",
+        "g5s67",
+        "g5s6",
+        "g5s58"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1294",
+      "groupId": "g5",
+      "date": "2024-02-18",
+      "show": "한터뮤직어워즈",
+      "label": "",
+      "setlist": [
+        "g5s6",
+        "g5s59"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1295",
+      "groupId": "g5",
+      "date": "2024-02-21",
+      "show": "SMTOWN LIVE",
+      "label": "",
+      "setlist": [
+        "g5s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1296",
+      "groupId": "g5",
+      "date": "2024-02-22",
+      "show": "SMTOWN LIVE",
+      "label": "",
+      "setlist": [
+        "g5s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1297",
+      "groupId": "g5",
+      "date": "2024-03-20",
+      "show": "2024 MLB World Tour Seoul Series",
+      "label": "",
+      "setlist": [
+        "g5s6",
+        "g5s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1298",
+      "groupId": "g5",
+      "date": "2024-03-30",
+      "show": "KCON Hong Kong 2024",
+      "label": "",
+      "setlist": [
+        "g5s5",
+        "g5s2",
+        "g5s6",
+        "g5s59"
       ],
       "note": ""
     }
@@ -342362,6 +342456,751 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-12-23"
+    },
+    {
+      "id": "v17957",
+      "ytId": "HOF7Hh6iIO0",
+      "eventId": "e1292",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "AESPA DRAMA 3RD WIN+ ENCORE 240114 SBS INKIGAYO VS JENNIE",
+      "channel": "Kpop Snorlax",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17958",
+      "ytId": "5yOrL6BXl4c",
+      "eventId": "e1293",
+      "songs": [
+        {
+          "songId": "g5s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[LIVE] aespa 에스파 '도깨비불 illusion' in JAPAN | GMO SONIC2024 240128",
+      "channel": "YUKarina_yes!",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17959",
+      "ytId": "nRBVoRVXliQ",
+      "eventId": "e1293",
+      "songs": [
+        {
+          "songId": "g5s54",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[LIVE] aespa 에스파 'Thirsty' in JAPAN | GMO SONIC2024 240128",
+      "channel": "YUKarina_yes!",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17960",
+      "ytId": "uUrli5TPyoQ",
+      "eventId": "e1293",
+      "songs": [
+        {
+          "songId": "g5s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[LIVE] aespa 에스파 'Spicy' in JAPAN | GMO SONIC2024 240128",
+      "channel": "YUKarina_yes!",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17961",
+      "ytId": "l9Usi5m1_ME",
+      "eventId": "e1293",
+      "songs": [
+        {
+          "songId": "g5s67",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[LIVE] aespa 에스파 'Hold on Tight' in JAPAN | GMO SONIC2024 240128",
+      "channel": "YUKarina_yes!",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17962",
+      "ytId": "JAVRx_-dVeY",
+      "eventId": "e1293",
+      "songs": [
+        {
+          "songId": "g5s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240128 aespa GMO SONIC 2024 “Illusion”",
+      "channel": "pana",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17963",
+      "ytId": "Mgfpj0xqojY",
+      "eventId": "e1293",
+      "songs": [
+        {
+          "songId": "g5s54",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240128 aespa GMO SONIC 2024 “Thirsty”",
+      "channel": "pana",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17964",
+      "ytId": "Rhdsdf10gro",
+      "eventId": "e1293",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[LIVE] aespa 에스파 'Drama' in JAPAN | GMO SONIC2024 240128",
+      "channel": "YUKarina_yes!",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-29"
+    },
+    {
+      "id": "v17965",
+      "ytId": "dM05P9c1_gQ",
+      "eventId": "e1293",
+      "songs": [
+        {
+          "songId": "g5s58",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240128 aespa GMO SONIC 2024 “Better Things”",
+      "channel": "pana",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17966",
+      "ytId": "cLySAfCLuKg",
+      "eventId": "e1294",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240218 한터뮤직어워즈2023 - Drama 카리나 Karina 에스파 aespa FANCAM 직캠",
+      "channel": "notes0411",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-23"
+    },
+    {
+      "id": "v17967",
+      "ytId": "VHQsdqy2s80",
+      "eventId": "e1294",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240218 에스파 aespa 윈터 winter HMA 한터뮤직어워즈 - 드라마 Drama 직캠 fancam",
+      "channel": "hiver",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17968",
+      "ytId": "MncHAjxfOUc",
+      "eventId": "e1294",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240218 한터뮤직어워즈 에스파 aespa 지젤 GISELLE 드라마 Drama 직캠 fancam",
+      "channel": "flow.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17969",
+      "ytId": "84Pooe8kH5M",
+      "eventId": "e1294",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240218 Hanteo Music Awards Aespa Karina Drama fancam 카리나 폰직캠",
+      "channel": "온리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17970",
+      "ytId": "VwEcOwMH-ME",
+      "eventId": "e1294",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "에스파 카리나 드라마 한터뮤직어워즈 aespa karina drama hanteo 240218",
+      "channel": "네오 NEO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17971",
+      "ytId": "5SkP0fZm3PM",
+      "eventId": "e1294",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240218  한터뮤직어워즈 HMA aespa DRAMA 윈터 직캠 WINTER focus",
+      "channel": "melted",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17972",
+      "ytId": "DLap6TAue6k",
+      "eventId": "e1294",
+      "songs": [
+        {
+          "songId": "g5s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240218 aespa Trick or Trick (닝닝위주) 한터뮤직어워즈",
+      "channel": "기억저장소",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17973",
+      "ytId": "F8lxlAOTxVg",
+      "eventId": "e1294",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa(에스파) - Trick or Trick+Drama 240218 | 31st HMAs 2023",
+      "channel": "HANTEO CHART [한터차트]",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17974",
+      "ytId": "37M2LTpV1rM",
+      "eventId": "e1294",
+      "songs": [
+        {
+          "songId": "g5s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240218 에스파 윈터 aespa WINTER Trick or Trick 직캠 FANCAM @HMA2023",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17975",
+      "ytId": "cdoJcEZyIXA",
+      "eventId": "e1294",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240218 aespa NINGNING - Trick or Trick + Drama Fancam @ HMAs 2023",
+      "channel": "quokkabao",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17976",
+      "ytId": "-43Nlw9ag_Q",
+      "eventId": "e1295",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240221 AESPA NINGNING DRAMA- SMT",
+      "channel": "HEDIO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-22"
+    },
+    {
+      "id": "v17977",
+      "ytId": "Gevnn7Uf3v0",
+      "eventId": "e1296",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240222 SMTOWN LVE 2024 SMCU PALACE TOKYO | AESPA DRAMA WINTER focus",
+      "channel": "Vitaminjeong01 ",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-27"
+    },
+    {
+      "id": "v17978",
+      "ytId": "ePC-MR4YXdk",
+      "eventId": "e1297",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240320 MLB SEOUL SERIES - DRAMA 에스파 닝닝 직캠 aespa NingNing focus",
+      "channel": "Cerise",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-22"
+    },
+    {
+      "id": "v17979",
+      "ytId": "_jGJl8Z5WWU",
+      "eventId": "e1297",
+      "songs": [],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240320 에스파 카리나 aespa KARINA Drama+Next Level 직캠 FANCAM @MLBWORLDTOUR_SEOUL_2024",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-21"
+    },
+    {
+      "id": "v17980",
+      "ytId": "pOaRWifhAsQ",
+      "eventId": "e1297",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240320 MLB SEOUL SERIES - 'NEXT LEVEL' 에스파 윈터 직캠 aespa WINTER FOCUS fancam",
+      "channel": "White.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-22"
+    },
+    {
+      "id": "v17981",
+      "ytId": "cKB0sNM-RR8",
+      "eventId": "e1297",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240320 aespa(에스파) 'Intro Performance + Drama + Next Level' @ 2024 MLB WORLD TOUR SEOUL SERIES",
+      "channel": "JeunJi 전지 K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-21"
+    },
+    {
+      "id": "v17982",
+      "ytId": "OyLbUAbdSek",
+      "eventId": "e1298",
+      "songs": [
+        {
+          "songId": "g5s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240330 KCON HONGKONG 2024 윈터 winter 에스파 aespa Spicy (Band Ver.) 4K 60 직캠",
+      "channel": "VirginSnow0101",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-03"
+    },
+    {
+      "id": "v17983",
+      "ytId": "2NdtwpM1N4s",
+      "eventId": "e1298",
+      "songs": [
+        {
+          "songId": "g5s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240330 에스파 윈터 aespa WINTER 🎵Spicy 직캠 FANCAM @KCON_HONGKONG_2024 8K60P HDR",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-02"
+    },
+    {
+      "id": "v17984",
+      "ytId": "3-R6qbmf8Zs",
+      "eventId": "e1298",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240330 에스파 카리나 aespa KARINA 🎵Next Level 직캠 FANCAM @KCON_HONGKONG_2024 8K60P HDR",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-02"
+    },
+    {
+      "id": "v17985",
+      "ytId": "O7cLOa88Hjk",
+      "eventId": "e1298",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240330 에스파 카리나 aespa KARINA 🎵Drama 직캠 FANCAM @KCON_HONGKONG_2024 8K60P HDR",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-02"
+    },
+    {
+      "id": "v17986",
+      "ytId": "uzH3m8uv4Fw",
+      "eventId": "e1298",
+      "songs": [
+        {
+          "songId": "g5s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240330 KCON HONGKONG 2024 - Spicy 카리나 Karina 에스파 aespa FANCAM 직캠",
+      "channel": "notes0411",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-31"
+    },
+    {
+      "id": "v17987",
+      "ytId": "UTg54c-pLaI",
+      "eventId": "e1298",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        },
+        {
+          "songId": "g5s59",
+          "t": 0
+        },
+        {
+          "songId": "g5s2",
+          "t": 0
+        },
+        {
+          "songId": "g5s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240330 aespa Karina Fancam 'Drama+Trick or Trick+Next Level+Spicy'@2024 KCON in Hong Kong/에스파 카리나 직캠",
+      "channel": "Soupzip 수프집",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-08"
+    },
+    {
+      "id": "v17988",
+      "ytId": "-QJ_CYuS-2w",
+      "eventId": "e1298",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa 'Next Level' DREAM STAGE | KCON Hong Kong 2024 Day 1 | 240330",
+      "channel": "Kuro",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-31"
+    },
+    {
+      "id": "v17989",
+      "ytId": "vKg1GpkEybU",
+      "eventId": "e1298",
+      "songs": [
+        {
+          "songId": "g5s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240330 에스파 윈터 aespa WINTER 🎵Trick or Trick 직캠 FANCAM @KCON_HONGKONG_2024 8K60P HDR",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-02"
+    },
+    {
+      "id": "v17990",
+      "ytId": "nfrDhoaa1J8",
+      "eventId": "e1298",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        },
+        {
+          "songId": "g5s59",
+          "t": 0
+        },
+        {
+          "songId": "g5s2",
+          "t": 0
+        },
+        {
+          "songId": "g5s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240330 aespa Winter Fancam 'Drama+Trick or Trick+Next Level+Spicy'@2024 KCON in Hong Kong /에스파 윈터 직캠",
+      "channel": "Soupzip 수프집",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-07"
+    },
+    {
+      "id": "v17991",
+      "ytId": "rW9wOni37kQ",
+      "eventId": "e1298",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240330 aespa 에스파 - Next Level DREAMSTAGE ♡ KCON HONG KONG 2024 D1",
+      "channel": "evannalee",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-15"
     }
   ],
   "clips": []
