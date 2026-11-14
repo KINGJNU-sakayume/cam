@@ -19255,6 +19255,43 @@
         "g7s42"
       ],
       "note": ""
+    },
+    {
+      "id": "e1260",
+      "groupId": "g7",
+      "date": "2024-03-21",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 오클랜드",
+      "label": "",
+      "setlist": [
+        "g7s12",
+        "g7s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1261",
+      "groupId": "g7",
+      "date": "2024-03-24",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 시드니",
+      "label": "",
+      "setlist": [
+        "g7s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1262",
+      "groupId": "g7",
+      "date": "2024-03-26",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 멜버른",
+      "label": "",
+      "setlist": [
+        "g7s13",
+        "g7s42",
+        "g7s10",
+        "g7s7"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -333190,6 +333227,188 @@
       "channel": "SaeHeon",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v17580",
+      "ytId": "VsEE2mBcsVs",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240321 ITZY YEJI 'Not Shy' (있지 예지 직캠) Fancam @〈BORN TO BE〉World Tour in Auckland by yentaxi",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-30"
+    },
+    {
+      "id": "v17581",
+      "ytId": "hP6myJut3n8",
+      "eventId": "e1260",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240321 ITZY YEJI 'WANNABE' (있지 예지 직캠) Fancam @〈BORN TO BE〉World Tour in Auckland by yentaxi",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-30"
+    },
+    {
+      "id": "v17582",
+      "ytId": "zdkVXdY4FC8",
+      "eventId": "e1261",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240324 ITZY CAKE Ryujin Sydney Concert Fancam",
+      "channel": "CarrotCake8423",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-14"
+    },
+    {
+      "id": "v17583",
+      "ytId": "KNm-zmC-Ipg",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K FanCam] 240326 Wannabe - Ryujin Fancam @ ITZY Born To Be in Melbourne",
+      "channel": "Loaf cat ITZY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-28"
+    },
+    {
+      "id": "v17584",
+      "ytId": "PN8z7FZlqkY",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K Fancam] 240326 Born To Be - Yeji Fancam @ ITZY Born To Be in Melbourne",
+      "channel": "Loaf cat ITZY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-26"
+    },
+    {
+      "id": "v17585",
+      "ytId": "iAV0Xs4dIfM",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K Fancam] 240326 LOCO - Yeji Fancam @ ITZY Born To Be in Melbourne",
+      "channel": "Loaf cat ITZY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-28"
+    },
+    {
+      "id": "v17586",
+      "ytId": "JO5DdEyT4uc",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240326 ITZY YUNA 'CAKE' (있지 유나 직캠) Fancam @〈BORN TO BE〉World Tour in Melbourne by yentaxi",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-04"
+    },
+    {
+      "id": "v17587",
+      "ytId": "l13EwogqU7s",
+      "eventId": "e1262",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240326 ITZY YEJI 'CAKE' (있지 예지 직캠) Fancam @〈BORN TO BE〉World Tour in Melbourne by yentaxi",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-04"
     }
   ],
   "clips": []
