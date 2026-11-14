@@ -332115,6 +332115,44 @@
       "channel": "JeunJi 전지 K-POP",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v17535",
+      "ytId": "Rhdsdf10gro",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[LIVE] aespa 에스파 'Drama' in JAPAN | GMO SONIC2024 240128",
+      "channel": "YUKarina_yes!",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v17536",
+      "ytId": "dM05P9c1_gQ",
+      "eventId": "e1254",
+      "songs": [
+        {
+          "songId": "g5s58",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240128 aespa GMO SONIC 2024 “Better Things”",
+      "channel": "pana",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
