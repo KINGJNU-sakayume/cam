@@ -20150,6 +20150,32 @@
         "g11s8"
       ],
       "note": ""
+    },
+    {
+      "id": "e1333",
+      "groupId": "g11",
+      "date": "2025-08-02",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 마닐라",
+      "label": "",
+      "setlist": [
+        "g11s10",
+        "g11s13",
+        "g11s11",
+        "g11s5",
+        "g11s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1334",
+      "groupId": "g11",
+      "date": "2025-08-09",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 방콕",
+      "label": "",
+      "setlist": [
+        "g11s8"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -347243,6 +347269,186 @@
       "pin": false,
       "gone": false,
       "uploaded": "2025-07-22"
+    },
+    {
+      "id": "v18153",
+      "ytId": "38GzBIxPYbw",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60] 250802 LE SSERAFIM (르세라핌) HOT SAKURA 사쿠라 FOCUS @ EASY CRAZY HOT IN MANILA",
+      "channel": "coldnadongie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18154",
+      "ytId": "_gizMCoa__A",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250802 르세라핌 KIM CHAEWON 김채원 직캠 [HOT] | LE SSERAFIM TOUR 'EASY CRAZY HOT' MANILA",
+      "channel": "엠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-03"
+    },
+    {
+      "id": "v18155",
+      "ytId": "g48ZIipgsqs",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250802 르세라핌 카즈하 직캠 'Different' (LE SSERAFIM Kazuha FanCam) @EASY CRAZY HOT in MANILA",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-09"
+    },
+    {
+      "id": "v18156",
+      "ytId": "YeGU43FZfH4",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60] 250802 LE SSERAFIM (르세라핌) COME OVER SAKURA 사쿠라 FOCUS @ EASY CRAZY HOT IN MANILA",
+      "channel": "coldnadongie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18157",
+      "ytId": "HiAABovwsQw",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250802 르세라핌 KIM CHAEWON 김채원 직캠 [COME OVER] | LE SSERAFIM TOUR 'EASY CRAZY HOT' MANILA",
+      "channel": "엠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-06"
+    },
+    {
+      "id": "v18158",
+      "ytId": "HJ2RlxEmVTM",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60] 250802 LE SSERAFIM (르세라핌) PERFECT NIGHT SAKURA 사쿠라 FOCUS @ EASY CRAZY HOT IN MANILA",
+      "channel": "coldnadongie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18159",
+      "ytId": "rFi11xCBky0",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250802 르세라핌 KIM CHAEWON 김채원 직캠 [CRAZY] | LE SSERAFIM TOUR 'EASY CRAZY HOT' MANILA",
+      "channel": "엠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18160",
+      "ytId": "H4pEk2noVxk",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "CHAEWON LE SSERAFIM 'CRAZY' 4K Fancam | 2025 LE SSERAFIM TOUR ‘EASY CRAZY HOT’ IN BANGKOK 250809",
+      "channel": "GirlGroupthailand",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-11"
     }
   ],
   "clips": []

@@ -203,3 +203,7 @@
 - 07-03 엠카운트다운·07-04 뮤직뱅크·07-06 인기가요(DIFFERENT English ver.) 방송사 공식 영상·KBS WORLD·1HR LOOP·릴레이댄스·TV 라이브 영상: 풀캠/직캠 구분이 없어 보류. 인기가요 안방1열 직캠 중 제목에 날짜가 없는 것(L6cAO4V7Iw4, U9VPiF1yMRM)과 [FOCUS ON FACE] 영상(p70b4udHtR8, N4vBId7QS5M)은 날짜 불명이라 보류.
 - 타이베이 투어 'EASY CRAZY HOT'(07-19) 직캠 3개만 담음(제목에 날짜·멤버·곡 모두 있음). 이름은 `LE SSERAFIM TOUR 'EASY CRAZY HOT' 타이베이`. 새 곡(Burn the Bridge, Blue Flame, FEARNOT, Fire in the belly 등)이나 두 곡 묶음, 풀 콘서트, 멤버 없는 영상은 보류.
 - 고려대 입실렌티 풀버전(3_TBBivstB8): 업로드가 7월이라 날짜 불명으로 보류(05-24 공연).
+
+### 르세라핌 2025-08
+- 자동 선별 3개는 모두 보류: 타이베이 풀콘서트(Hjjb13IQAgs)·채원 DIFFERENT(2qMxufv2ad8)는 제목에 날짜가 없어 추정 날짜라 보류, 고려대 풀버전(3_TBBivstB8)은 날짜 불명.
+- 마닐라 투어(08-02) 직캠 7개·방콕(08-09) 채원 CRAZY 1개만 담음(제목에 날짜·멤버·곡 1개·투어 도시 모두 있음). 이름은 `LE SSERAFIM TOUR 'EASY CRAZY HOT' 마닐라/방콕`. 두 곡 이상 묶음(Highdef… 채널 등), 새 곡(Fire in the belly, FEARNOT, Blue Flame 등), 풀콘서트·풀캠/직캠 불명(kpopante·Jae·Leiso 등), 방콕 08-10 Day2는 보류.
