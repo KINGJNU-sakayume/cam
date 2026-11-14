@@ -19204,6 +19204,17 @@
         "g10s1"
       ],
       "note": ""
+    },
+    {
+      "id": "e1256",
+      "groupId": "g10",
+      "date": "2024-03-29",
+      "show": "영남대 축제",
+      "label": "",
+      "setlist": [
+        "g10s4"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -331745,6 +331756,27 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v17517",
+      "ytId": "yHpBc3wvuR4",
+      "eventId": "e1256",
+      "songs": [
+        {
+          "songId": "g10s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240329 영남대학교 축제 nobody knows KISS OF LIFE BELLE FANCAM",
+      "channel": "Bellemyvi0let",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
