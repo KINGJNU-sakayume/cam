@@ -20105,6 +20105,33 @@
         "g7s7"
       ],
       "note": ""
+    },
+    {
+      "id": "e1329",
+      "groupId": "g11",
+      "date": "2025-04-19",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 인천",
+      "label": "",
+      "setlist": [
+        "g11s8",
+        "g11s2",
+        "g11s6",
+        "g11s21"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1330",
+      "groupId": "g11",
+      "date": "2025-04-20",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 인천",
+      "label": "",
+      "setlist": [
+        "g11s2",
+        "g11s9",
+        "g11s11"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -346594,6 +346621,160 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-04-04"
+    },
+    {
+      "id": "v18127",
+      "ytId": "mRA7zV_8IKQ",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "르세라핌 허윤진 'CRAZY' (LESSERAFIM YUNJIN FANCAM) |250419",
+      "channel": "Rose",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18128",
+      "ytId": "mm1zJhCa5hU",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250419 #르세라핌 LE SSERAFIM CONCERT 콘서트 HUH #YUNJIN #허윤진  'ANTIFRAGILE' FANCAM 직캠",
+      "channel": "YunNight",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-22"
+    },
+    {
+      "id": "v18129",
+      "ytId": "hF1OGHBNKE0",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250419 르세라핌 콘서트 사쿠라 - EASY 직캠 LE SSERAFIM CONCERT SAKURA - EASY FANCAM",
+      "channel": "재밌는거보면냥냥펀치",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18130",
+      "ytId": "bieoT9wZwlw",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250419 르세라핌 콘서트 사쿠라 - Swan Song 직캠 LE SSERAFIM SAKURA - Swan Song Fancam",
+      "channel": "재밌는거보면냥냥펀치",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18131",
+      "ytId": "oI-DGTUyzlA",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "LE SSERAFIM Kazuha — Anti-Fragile (250420) | Premium Fancam Edit [4K]",
+      "channel": "KPOPVISIONS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-27"
+    },
+    {
+      "id": "v18132",
+      "ytId": "hhQRQRyoi-E",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250420 LE SSERAFIM (르세라핌) - '1-800-HOT-N-FUN'  CHAEWON Focus 김채원 직캠",
+      "channel": "Bloom x Rewind",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-03"
+    },
+    {
+      "id": "v18133",
+      "ytId": "gsubjK0_3Do",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250420 LE SSERAFIM Sakura Fancam【come over】르세라핌 사쿠라 宮脇咲良",
+      "channel": "Bambiii",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []

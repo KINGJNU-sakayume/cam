@@ -184,3 +184,7 @@
 - HOT·Come Over 컴백 활동(03-14~03-29) 방송사 공식 영상(KBS·MBC·Mnet·SBS, 항공캠, KBS WORLD 등)은 풀캠/직캠 구분이 제목에 없어 보류. 쇼케이스 공식 Stage Cam(W7lcs4w-y_c)·STUDIO CHOOM 영상도 보류.
 - 03-14 컴백 쇼케이스 홍은채 직캠(R8rUN0s0r3k): 제목에 쇼케이스·날짜가 모두 있어 담았지만, 같은 날 뮤직뱅크가 있어 쇼케이스 날짜(03-13/03-14)를 확인하면 좋아요.
 - 03-08 CDTV 라이브(8KjWoy1y8jM 등 일본 방송 직캠): 새 행사·풀캠/직캠 불명으로 보류.
+
+### 르세라핌 2025-04
+- 투어 'EASY CRAZY HOT' 인천(04-19·04-20) 콘서트 영상: 제목에 날짜·멤버·곡·직캠 표기가 모두 있는 7개만 담음(공연 2, 이름은 `LE SSERAFIM TOUR 'EASY CRAZY HOT' 인천`). 나머지(kimbilly 등 풀캠/직캠 불명, 여러 곡 묶음, VCR·Weverse Live 등 곡 불명, Zereu·YOYO 멤버 직캠 등 제목에 행사 표기가 약한 것)는 보류.
+- 2025-04 수집에서 03-27 엠카운트다운·03-29 음악중심 영상 6개가 새로 발견됨(4pI6u5UbGjY, VzML0MvnGdQ, _F3KhkKVFs8, P2FwGUkfn1A, UsuU5Y5Wy6g, rjg1XEhBvO4). 1분기 PR(#64) 공연과 겹쳐 공연이 둘로 갈라질 수 있어 #64 병합 뒤 담음.
