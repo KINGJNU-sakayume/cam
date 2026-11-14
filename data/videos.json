@@ -19936,6 +19936,52 @@
         "g9s3"
       ],
       "note": ""
+    },
+    {
+      "id": "e1315",
+      "groupId": "g10",
+      "date": "2024-01-02",
+      "show": "서울가요대상",
+      "label": "",
+      "setlist": [
+        "g10s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1316",
+      "groupId": "g10",
+      "date": "2024-01-10",
+      "show": "CCMA",
+      "label": "",
+      "setlist": [
+        "g10s1",
+        "g10s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1317",
+      "groupId": "g10",
+      "date": "2024-02-18",
+      "show": "한터뮤직어워즈",
+      "label": "",
+      "setlist": [
+        "g10s4",
+        "g10s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1318",
+      "groupId": "g10",
+      "date": "2024-03-29",
+      "show": "영남대 축제",
+      "label": "",
+      "setlist": [
+        "g10s4"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -344606,6 +344652,153 @@
       ],
       "title": "[4K] 240330 KCON HK- 'LOVE WAR ' YENA fancam LOVE WAR 최예나 직캠",
       "channel": "Leafwind",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18047",
+      "ytId": "-Xuedbx5RMA",
+      "eventId": "e1315",
+      "songs": [
+        {
+          "songId": "g10s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K Fancam】240102 키스오브라이프 (KISS OF LIFE) 쥴리 (JULIE) The Seoul Music Awards 서울가요대상 - 'Bad News' 직캠",
+      "channel": "JULIEnet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-05"
+    },
+    {
+      "id": "v18048",
+      "ytId": "j0myXz5MXLg",
+      "eventId": "e1316",
+      "songs": [
+        {
+          "songId": "g10s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[ 240110 CCMA ] KISS OF LIFE NATTY 직캠 | 나띠 쉿 4K 직캠",
+      "channel": "HONEY POT",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-17"
+    },
+    {
+      "id": "v18049",
+      "ytId": "of-IiNIyQ9U",
+      "eventId": "e1316",
+      "songs": [
+        {
+          "songId": "g10s3",
+          "t": 0
+        },
+        {
+          "songId": "g10s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240110 키스 오브 라이프 나띠 KISS OF LIFE NATTY 🎧Bad News+쉿(Shhh) 직캠 FANCAM @CCMA2023 4K30P HDR",
+      "channel": "CENTERBUG",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-11"
+    },
+    {
+      "id": "v18050",
+      "ytId": "r885gCCKcCQ",
+      "eventId": "e1316",
+      "songs": [
+        {
+          "songId": "g10s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[ 240110 CCMA ] KISS OF LIFE NATTY Bad News 직캠 | 나띠 4K 직캠",
+      "channel": "HONEY POT",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-15"
+    },
+    {
+      "id": "v18051",
+      "ytId": "_XwSEtUIUPA",
+      "eventId": "e1317",
+      "songs": [
+        {
+          "songId": "g10s4",
+          "t": 0
+        },
+        {
+          "songId": "g10s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240218 KISS OF LIFE Julie - Nobody Knows + Shhh Fancam @ HMAs 2023",
+      "channel": "quokkabao",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v18052",
+      "ytId": "yHpBc3wvuR4",
+      "eventId": "e1318",
+      "songs": [
+        {
+          "songId": "g10s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240329 영남대학교 축제 nobody knows KISS OF LIFE BELLE FANCAM",
+      "channel": "Bellemyvi0let",
       "pin": false,
       "gone": false
     }
