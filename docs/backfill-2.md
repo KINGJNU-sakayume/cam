@@ -61,4 +61,4 @@ node scripts/archive.mjs validate
 | 그룹 | 월 | 담은 수 | 남은 보류 |
 |---|---|---|---|
 | g11 | 2024-01 | 3 (공연 2) | open-questions §8 (검색 18개는 유튜브 실패로 못 함) |
-| g11 | 2024-02 | 116 (자동 82 + Swan Song 직캠 34, 공연 6) | open-questions §8 (검색 일부 재시도 중) |
+| g11 | 2024-02 | 131 (자동 97 + Swan Song 직캠 34, 공연 6) | open-questions §8 (검색 실패 0, `--jobs 1`) |
