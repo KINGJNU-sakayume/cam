@@ -19247,6 +19247,20 @@
         "g5s2"
       ],
       "note": ""
+    },
+    {
+      "id": "e1259",
+      "groupId": "g5",
+      "date": "2024-03-30",
+      "show": "KCON Hong Kong 2024",
+      "label": "",
+      "setlist": [
+        "g5s5",
+        "g5s2",
+        "g5s6",
+        "g5s59"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -332153,6 +332167,252 @@
       "channel": "pana",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v17537",
+      "ytId": "OyLbUAbdSek",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g5s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240330 KCON HONGKONG 2024 윈터 winter 에스파 aespa Spicy (Band Ver.) 4K 60 직캠",
+      "channel": "VirginSnow0101",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-03"
+    },
+    {
+      "id": "v17538",
+      "ytId": "2NdtwpM1N4s",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g5s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240330 에스파 윈터 aespa WINTER 🎵Spicy 직캠 FANCAM @KCON_HONGKONG_2024 8K60P HDR",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-02"
+    },
+    {
+      "id": "v17539",
+      "ytId": "3-R6qbmf8Zs",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240330 에스파 카리나 aespa KARINA 🎵Next Level 직캠 FANCAM @KCON_HONGKONG_2024 8K60P HDR",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-02"
+    },
+    {
+      "id": "v17540",
+      "ytId": "O7cLOa88Hjk",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240330 에스파 카리나 aespa KARINA 🎵Drama 직캠 FANCAM @KCON_HONGKONG_2024 8K60P HDR",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-02"
+    },
+    {
+      "id": "v17541",
+      "ytId": "uzH3m8uv4Fw",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g5s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240330 KCON HONGKONG 2024 - Spicy 카리나 Karina 에스파 aespa FANCAM 직캠",
+      "channel": "notes0411",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-31"
+    },
+    {
+      "id": "v17542",
+      "ytId": "UTg54c-pLaI",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        },
+        {
+          "songId": "g5s59",
+          "t": 0
+        },
+        {
+          "songId": "g5s2",
+          "t": 0
+        },
+        {
+          "songId": "g5s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240330 aespa Karina Fancam 'Drama+Trick or Trick+Next Level+Spicy'@2024 KCON in Hong Kong/에스파 카리나 직캠",
+      "channel": "Soupzip 수프집",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-08"
+    },
+    {
+      "id": "v17543",
+      "ytId": "-QJ_CYuS-2w",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa 'Next Level' DREAM STAGE | KCON Hong Kong 2024 Day 1 | 240330",
+      "channel": "Kuro",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-31"
+    },
+    {
+      "id": "v17544",
+      "ytId": "vKg1GpkEybU",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g5s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240330 에스파 윈터 aespa WINTER 🎵Trick or Trick 직캠 FANCAM @KCON_HONGKONG_2024 8K60P HDR",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-02"
+    },
+    {
+      "id": "v17545",
+      "ytId": "nfrDhoaa1J8",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g5s6",
+          "t": 0
+        },
+        {
+          "songId": "g5s59",
+          "t": 0
+        },
+        {
+          "songId": "g5s2",
+          "t": 0
+        },
+        {
+          "songId": "g5s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240330 aespa Winter Fancam 'Drama+Trick or Trick+Next Level+Spicy'@2024 KCON in Hong Kong /에스파 윈터 직캠",
+      "channel": "Soupzip 수프집",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-07"
+    },
+    {
+      "id": "v17546",
+      "ytId": "rW9wOni37kQ",
+      "eventId": "e1259",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240330 aespa 에스파 - Next Level DREAMSTAGE ♡ KCON HONG KONG 2024 D1",
+      "channel": "evannalee",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-15"
     }
   ],
   "clips": []
