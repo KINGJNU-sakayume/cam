@@ -165,3 +165,9 @@
 - JTBC 골든 웨이브 241108 방송 무대(o2GDtkQaz7c, mbDq75c63lE, w8hZJwMOGns, fkxrCMImq28, Ch-rAUgYRhQ), MTV EMA 공식 무대(NdExiLt1erE, QMXvuKzbgkI), 맨체스터 직캠(p68-MTjjWjg, B-QzfBIfDic): 풀캠/직캠·멤버가 불명이라 보류.
 - 영남대 축제 직캠(l9vGJ72Dud4)은 멤버·곡 없음, 11-24 Revive X 파티 영상은 새 행사라 보류.
 - 담은 것: 2024 MTV EMA(11-10) 사쿠라·홍은채 CRAZY 직캠 2개(제목에 행사·날짜·멤버·곡 모두 있음).
+
+### 르세라핌 2024-12
+- 뮤직뱅크 글로벌 페스티벌 in Japan(12-15·12-19)과 SBS 가요대전(12-25) 방송사 공식 영상·풀 버전(rBiV7TvXPkc, 0WlaZHrYkK4, bmN1swMtOnY, n01BljCjzhE, CxEvMW5uGVs, sBfi84W5bww 등): 풀캠/직캠 구분이 없어 보류.
+- 새 곡이 제목에 나온 직캠(Star Signs, jewelry — KgC3BOssAng, w_8n2DVMtVI, gPGYFjtDkr8 / Category is LE SSERAFIM — BjAunphZpHU, D8aCGyIGS98, VPJNVQ7iNxs, oFixg386g6I): 곡이 그룹 곡인지 커버·특별 무대인지 확인이 필요해 보류. oFixg386g6I는 제목 날짜(241215)가 SBS 가요대전과 맞지 않아 더 보류.
+- AAA 12-27 직캠: 멤버 1명·곡 1개가 제목에 있는 6개만 담음. 두 곡이 묶인 영상(KbFCBbU2CQk), 멤버·곡 없음, 곡 불명(Love Is An Open Door), 풀캠 불명 영상은 보류.
+- 방송 영상 제목에 "뮤직뱅크 글로벌 페스티벌"이 있으면 일반 뮤직뱅크가 아니라 별도 행사 "뮤직뱅크 글로벌 페스티벌"로 담음.
