@@ -68,3 +68,4 @@ node scripts/archive.mjs validate
 | g11 | 2024-06 | 20 (위버스콘 페스티벌 직캠, 공연 1) | open-questions §8 (검색 실패 0) |
 | g11 | 2024-07 | 19 (가요대전 Summer 07-21 14 + 07-26 5, 공연 2) | open-questions §8 (검색 실패 0) |
 | g11 | 2024-08 | 19 (뮤직뱅크 08-30 10 + 음악중심 08-31 9, 공연 2) | open-questions §8 (검색 실패 0) |
+| g11 | 2024-09 | 88 (자동 75 + 직캠 13, 공연 11) | open-questions §8 (검색 실패 0) |

@@ -137,3 +137,9 @@
 - 08-30 뮤직뱅크·08-31 음악중심 방송사 공식 영상(CRAZY·1-800-hot-n-fun 무대, KBS/MBC/Mnet 등 gZuKmC_cDPA, CxiuxbsdfOc, AgZGnrG8XzU, dxhfi7VPDwk, YhzF50WE3w0 등)과 4K 원테이크·공간음향 Choreography 영상: 풀캠/직캠 구분이 제목에 없어 보류.
 - 멤버 없는 직캠(Ez6NpqarMxo, bASHGZRHKg0, gwQ_nVqzedA)과 08-30 뮤뱅 미니 팬미팅 영상(8hfjqhFBs4E, VmlDY8lhUGw, 1mG5hVoXu3I, aLmUZfHKSqU, HN6YzdNwuZI, 4_bbrZ749is, jbJlQY0qg4A, nnMn5lmyE6Q): 멤버·곡 불명 또는 같은 날 미니 팬미팅과 뮤뱅 구분이 애매해 보류.
 - 08-29·08-30 CRAZY THUNDER PARTY(청음회) 영상(TcFN_qmw8-0, OPdvfGNWvpI, noNzFyPMHHM, kimbilly 영상 등): 새 행사라 보류. 08-16 뮤뱅 MR 제거(2zL9pJWF2-A)·팬 라이브 방송류도 보류.
+
+### 르세라핌 2024-09
+- 09-06 뮤직뱅크 Crazy 미니팬미팅 사쿠라 세로 직캠(HTKIKl2lHxU): 같은 날 뮤직뱅크와 미니 팬미팅 구분이 애매해 보류(이전 달과 같은 처리).
+- 같은 날(09-27) 서강대·서울과학기술대 축제는 제목에 학교명이 분명해 각각 다른 공연으로 담음.
+- 방송사 공식 영상·멤버 없는 직캠·곡을 알 수 없는 영상은 이전 달과 같은 기준으로 보류(review.txt 참고).
+- 광주대 09-30 카즈하 UNFORGIVEN(WthHd8XKeCE): 제목에 곡이 분명해 담았지만 공연 setlist에 없어 경고가 났어요. 확인 필요.
