@@ -20138,6 +20138,30 @@
         "g11s7"
       ],
       "note": ""
+    },
+    {
+      "id": "e1332",
+      "groupId": "g11",
+      "date": "2026-11-07",
+      "show": "LE SSERAFIM TOUR 'PUREFLOW' 마카오",
+      "label": "",
+      "setlist": [
+        "g11s19"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1333",
+      "groupId": "g11",
+      "date": "2026-11-08",
+      "show": "LE SSERAFIM TOUR 'PUREFLOW' 마카오",
+      "label": "",
+      "setlist": [
+        "g11s2",
+        "g11s14",
+        "g11s19"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -346693,6 +346717,100 @@
       "pin": false,
       "gone": false,
       "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v18130",
+      "ytId": "4aSP5lv5awY",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]르세라핌 채원 직캠 Made My Night  | LE SSERAFIM  Chaewon | PUREFLOW MACAU  261107",
+      "channel": "kpopmylife1314",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18131",
+      "ytId": "FTxeGGT46GY",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]르세라핌 채원 직캠 ANTIFRAGILE  | LE SSERAFIM  Chaewon Fancam | PUREFLOW MACAU  261108",
+      "channel": "kpopmylife1314",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-11"
+    },
+    {
+      "id": "v18132",
+      "ytId": "ANg6ACtLTjI",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4KMulti-Cam멀티캠]르세라핌 채원 직캠 SPAGHETTI  | LE SSERAFIM  Chaewon Fancam | PUREFLOW MACAU  261108",
+      "channel": "kpopmylife1314",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18133",
+      "ytId": "1jw4tG1UjF4",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]르세라핌 채원 직캠 Made My Night  | LE SSERAFIM  Chaewon | PUREFLOW MACAU  261108",
+      "channel": "kpopmylife1314",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []

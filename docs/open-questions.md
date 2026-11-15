@@ -264,3 +264,7 @@
 ### 르세라핌 2026-10
 - 자동 '확실' 0개. PUREFLOW 북미·유럽 투어(시카고 10-02, 워싱턴 D.C. 10-05, 런던 10-16, 암스테르담 10-18, 파리·코펜하겐 10-22~23) 직캠 중 멤버·등록 곡 하나·날짜가 제목에 있는 3개(시카고·워싱턴 D.C.·올랜도)만 담음.
 - 보류: 멤버 없는 직캠(Dukemon 시카고 연작, blckvlvtx 암스테르담 연작, LCY0509 런던, 풀콘서트·풀캠), 미등록 신곡(Irony·Blue Flame·Saki·Need Your Company·Creatures·Sonder·Fire in the belly), 'Smart + Ending' 같은 묶음, 윤진 생일 콘서트 풀(`iWFUVmiAtYs`). 투어 도시 공연이 늘어나므로 곡 목록에 신곡을 한꺼번에 등록하면 상당수를 다시 담을 수 있음.
+
+### 르세라핌 2026-11 (범위 끝 11-13)
+- 자동 '확실' 0개. PUREFLOW 마카오(11-07·11-08) 채원 직캠 4개만 직접 골라 담음.
+- 보류: 마카오 shingshing 연작(멤버 없음, 곡 다수가 미등록), Troll·Livelylife 등 멤버 없음/미등록 곡(Blue Flame·Irony·Trust Exercise·Sonder·Creatures), 풀퍼포먼스(`WGYmb-xL0t0`), 11-14 타이베이 공연(범위 밖). 신곡을 곡 목록에 등록하면 투어 직캠 상당수를 다시 담을 수 있음.
