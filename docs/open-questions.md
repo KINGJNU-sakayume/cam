@@ -219,3 +219,8 @@
 ### 르세라핌 2025-11
 - 자동 '확실' 36개 중 12개 보류: 추정 날짜인 10-01 출범식 풀캠(`-2ngVqqCAPA`)·마닐라 사쿠라 묶음(`Oe63euXWMrg`), 미니 팬미팅 풀캠(음악중심 `4Wjs21SauBk`, 인기가요 `02vx_Co4bdg`, 팬미팅은 보류), 10-30 지포스 게이머 페스티벌의 여러 곡 묶음 직캠 8개(`HQwwCQFefUA`·`YyPpHxJbOqk`·`syJIM_JX1KM`·`ULwHF0UReN4`·`lCmlWQq9wQk`·`XJoijtow03g`·`_5EdUWIgpy0`·`QYNF7Lwn7FI`). 나머지 24개(음악중심 11-01·인기가요 11-02/09·더 시즌즈·지포스 단곡 1개)는 담음.
 - 도쿄돔 앵콜(11-18/19) 직캠은 대부분 멤버 없음(coldnadong 등), 사쿠라 Kawaii는 미등록 곡이라 보류. 음중·인기가요 미니 팬미팅 직캠(`H0tILb32oEg`·`aGoHVLolkXU`·`NFB7zQXhyt8`·`mTaLUcAzrzY`), KBS 더 시즌즈 공식 CRAZY(`wznKC21EGyg`, 종류 불명), KBS K-Choreo 타워캠(멤버 없음), ILLIT 콘서트 속 르세라핌 곡은 담지 않음.
+
+### 르세라핌 2025-12
+- 자동 '확실' 54개 중 2개 보류(추정 날짜의 10-01 출범식 풀캠 `-2ngVqqCAPA`, 마닐라 사쿠라 묶음 `Oe63euXWMrg`). 제목의 'Hot Chili ver.'가 곡 HOT으로 읽힌 2개(`vZ4BRmDak0I`, `ED96qYga1Wo`)는 SPAGHETTI 한 곡으로 고쳐 담음.
+- AAA 12-06(가오슝)은 멤버·곡 하나가 제목에 있는 직캠 5개만 담음. 보류: 'Born Fire+Ash+HOT' 등 묶음·멤버 없는 영상, 'Born Fire'(미등록), 대상 수상소감.
+- 가요대축제 12-19 카즈하 'Standing Next to You'(정국 커버) 직캠 약 9개, 채원 'Never Ending Story'(아이유 커버), 가요대전 홍은채 'Pretty Savage' 직캠은 커버곡이라 곡 목록 종류 결정이 필요해 보류. 허윤진 'Intro Performance' 직캠(곡 아님), 12-28 사쿠라 포커스(행사 불명), 공식 K-Choreo 8K(멤버 없음), 팬미팅·FIFTY FIFTY·김소원 팬미팅 속 SPAGHETTI 커버는 담지 않음.
