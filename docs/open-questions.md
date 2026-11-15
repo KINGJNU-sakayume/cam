@@ -224,3 +224,7 @@
 - 자동 '확실' 54개 중 2개 보류(추정 날짜의 10-01 출범식 풀캠 `-2ngVqqCAPA`, 마닐라 사쿠라 묶음 `Oe63euXWMrg`). 제목의 'Hot Chili ver.'가 곡 HOT으로 읽힌 2개(`vZ4BRmDak0I`, `ED96qYga1Wo`)는 SPAGHETTI 한 곡으로 고쳐 담음.
 - AAA 12-06(가오슝)은 멤버·곡 하나가 제목에 있는 직캠 5개만 담음. 보류: 'Born Fire+Ash+HOT' 등 묶음·멤버 없는 영상, 'Born Fire'(미등록), 대상 수상소감.
 - 가요대축제 12-19 카즈하 'Standing Next to You'(정국 커버) 직캠 약 9개, 채원 'Never Ending Story'(아이유 커버), 가요대전 홍은채 'Pretty Savage' 직캠은 커버곡이라 곡 목록 종류 결정이 필요해 보류. 허윤진 'Intro Performance' 직캠(곡 아님), 12-28 사쿠라 포커스(행사 불명), 공식 K-Choreo 8K(멤버 없음), 팬미팅·FIFTY FIFTY·김소원 팬미팅 속 SPAGHETTI 커버는 담지 않음.
+
+### 르세라핌 2026-01
+- 자동 '확실' 7개 중 12월 가요대전·가요대제전 3개는 4분기 PR(#67)에 이미 있어 제외, 골든디스크 'Intro + SPAGHETTI + HOT' 묶음(`a1CTkZnWk7o`)은 보류. 나머지 3개와 직접 고른 9개(골든디스크 2, 앙코르 서울 01-31 7)를 담음.
+- 보류: 앙코르 서울 풀 분할본(enustiK 등)·멤버 없는 직캠·묶음('UNFORGIVEN+ANTIFRAGILE', 'HOT+Come Over', 'Impurities & The Great Mermaid'), 01-31~02-01 날짜가 겹친 채원 HOT(`ig-4SmWnilo`), 골든디스크 윤진 '비처럼 음악처럼'(커버)·멤버 없는 직캠·풀캠(`B23bbUxWlU0`), 카운트다운 재팬 공식 스테이지캠(날짜 불명). 02-01 앙코르 서울 2일차는 2월에서 처리.
