@@ -20132,6 +20132,33 @@
         "g1s3"
       ],
       "note": ""
+    },
+    {
+      "id": "e1331",
+      "groupId": "g1",
+      "date": "2024-02-17",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 쿠알라룸푸르",
+      "label": "",
+      "setlist": [
+        "g1s8",
+        "g1s3",
+        "g1s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1332",
+      "groupId": "g1",
+      "date": "2024-02-24",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 싱가포르",
+      "label": "",
+      "setlist": [
+        "g1s1",
+        "g1s5",
+        "g1s7",
+        "g1s2"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -346986,6 +347013,166 @@
       ],
       "title": "240127 IVE 아이브 WONYOUNG - AFTER LIKE 4K - IVE THE 1ST WORLD TOUR [SHOW WHAT I HAVE] IN BANGKOK",
       "channel": "HeArTLeSS",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18143",
+      "ytId": "T8G0JVy0x6I",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240217 - Baddie [4K] IVE ANYUJIN 안유진 fancam \"SHOW WHAT I HAVE in Kuala Lumpur\"",
+      "channel": "OXY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-19"
+    },
+    {
+      "id": "v18144",
+      "ytId": "d_dqYHXwsYk",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240217 - AfterLike [4K] IVE ANYUJIN 안유진 fancam \"SHOW WHAT I HAVE in Kuala Lumpur\"",
+      "channel": "OXY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-24"
+    },
+    {
+      "id": "v18145",
+      "ytId": "TGvg-wKlhCQ",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[2K] 240217 아이브 장원영 WONYOUNG - SHOW WHAT I HAVE IN KL 'ELEVEN' FOCUS CAM",
+      "channel": "PigMe",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18146",
+      "ytId": "9HVOREocg8A",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240224 IVE - Eleven | GAEUL Fancam | Show What I Have in SG",
+      "channel": "GrantSor",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-12"
+    },
+    {
+      "id": "v18147",
+      "ytId": "Z7uXIfsamRA",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240224 SHOW WHAT I HAVE SINGAPORE 'I AM' IVE JANGWONYOUNG 아이브 장원영 직캠 FANCAM",
+      "channel": "NinoJ",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-26"
+    },
+    {
+      "id": "v18148",
+      "ytId": "rASCMkh1p2o",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240224 IVE Show What I Have SG - Off The Record - Gaeul Fancam",
+      "channel": "GrantSor",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-12"
+    },
+    {
+      "id": "v18149",
+      "ytId": "P0Hob8w0xpk",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240224 SHOW WHAT I HAVE SINGAPORE 'LOVE DIVE' IVE JANGWONYOUNG 아이브 장원영 직캠 FANCAM",
+      "channel": "NinoJ",
       "pin": false,
       "gone": false
     }

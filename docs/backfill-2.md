@@ -112,3 +112,4 @@ node scripts/archive.mjs validate
 | g11 | 2026-10 | 3 (PUREFLOW 올랜도 1·시카고 1·워싱턴 D.C. 1, 공연 3) | open-questions §8 (검색 실패 0) |
 | g11 | 2026-11 (~11-13) | 4 (PUREFLOW 마카오 채원 직캠, 공연 2) | open-questions §8 (검색 실패 0) |
 | g1 | 2024-01 | 16 (하나 드림콘서트 11, 방콕 5, 공연 2) | 보류: open-questions §8 |
+| g1 | 2024-02 | 7 (쿠알라룸푸르 3, 싱가포르 4, 공연 2) | 보류: open-questions §8 |

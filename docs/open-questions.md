@@ -273,3 +273,8 @@
 - 담음 16개: 하나 드림콘서트(01-20) 11개, SHOW WHAT I HAVE 방콕(01-27) 5개 (멤버 1명 + 등록 곡 + 날짜가 제목에 있는 직캠).
 - 2023-12 영상(SBS 가요대전·MBC 가요대제전)은 범위 밖이라 뺐어요. 2025-01-16 엠카운트다운 4Qwp7J9b-zc, 2025-12-14 뮤직뱅크 글로벌 페스티벌 K8h7AFqEDNE는 날짜 추정이라 뺐어요.
 - 보류: 골든디스크(01-06) 직캠은 여러 곡 묶음이거나 멤버 없음(VDCoJxHnMrc, 8lR2Rk4um1w, lyHGtbZ-Sl4, WZ1R5CuCRis, FTQdSyAg-q4, 0_vBJ1jVv50, b3o1z5YO3ng, agpi_6GrWg4). 방콕 직캠 중 미등록 곡(Lips, Royal, Holo, Cherish, Wannabe, Woman Like Me 등)과 멘트는 곡 등록 결정 후. 도무디(01-13) 멤버 없음.
+
+### 아이브 2024-02
+- 담음 7개: SHOW WHAT I HAVE 쿠알라룸푸르(02-17) 3개, 싱가포르(02-24) 4개 (멤버 1명 + 등록 곡 + 날짜가 제목에 있는 직캠).
+- 자동 2개(2025-01-16 엠카운트다운 레이 8y2AluSRSt8, 2025-12-14 K8h7AFqEDNE)는 날짜 추정이라 뺐어요.
+- 보류: 쿠알라룸푸르·싱가포르 직캠 대부분은 미등록 곡(Lips, Royal, Mine, OTT, Cherish, Wannabe, Heroine, Hypnosis, Blue Blood, Woman Like Me, I Want 등)이거나 멤버 없음/여러 멤버/멘트·리허설·풀콘. 2024-02-14 뮤직뱅크 Attitude 타워캠 _QKAenAYorE는 멤버 없음. 오사카 D-2(02-08) 팬캠은 공연이 아니라 리허설 계열이라 뺐어요. 곡 등록 결정 후 다시 담을 수 있어요.
