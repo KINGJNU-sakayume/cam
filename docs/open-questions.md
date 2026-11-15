@@ -243,3 +243,7 @@
 ### 르세라핌 2026-05
 - 자동 '확실' 90개 중 82개를 담고, 직접 고른 11개(인천대 1·숭실대 4·경희대 3·Spotify PURE FLOWERS LIVE 1·엠카운트다운 X 메가콘서트 2) 추가. 8개 보류: 여러 곡 묶음 풀(인천대 `bBR9__AmLdA`, 고려대 `MC3i0vJpRsw`·`hKV7PkKmigE`·`sXsGFzApM0k`·`teh-zhqw32U`·`FjnNVnTGVf0`)과 05-30 같은 날 다른 행사로 갈린 미니 팬미팅 직캠(`em9W5z9LIZ8`)·엠카운트다운 X 메가콘서트 은채(`wLKDMj8mOcU`, 같은 행사 직캠 2개는 직접 담음).
 - 보류: 음악중심 미니 팬미팅(05-01·02·30) 직캠·풀, 멤버 없는 직캠·전체무대, 고려대 석탑대동제·KULIMAX 직캠(제목에 날짜 없음, 'UNFORGIVEN & ANTIFRAGILE'·'CELEBRATION+CRAZY' 묶음), 미등록 곡(Fire in the belly·Creatures·Sonder), 연세대 아카라카·세종대 축제 직캠(멤버 없음), 경희대 풀버전·묶음, 곡 표기 없는 멤버 직캠, ILLIT 합동 풀캠.
+
+### 르세라핌 2026-06
+- 자동 '확실' 23개 중 21개를 담고 직접 고른 23개(위버스콘 페스티벌 2026 15·서울가요대상 4·iHeartRadio TikTok LIVE in LA 2·엠카운트다운 X 메가콘서트 2) 추가. 2개 보류: 경희대 풀캠 묶음(`jHoqU2rGwh8`)과 서울가요대상 'SPAGETTI + BOOMPALA' 두 곡을 한 곡으로 잘못 읽은 카즈하 영상(`8U3QJWohsHI`). 05-30 엠카운트다운 X 메가콘서트 영상 3개는 이 달 수집에 포함돼 같은 공연(e1346)에 담음(공연 setlist는 CELEBRATION뿐이라 BOOMPALA 경고, 제목 기준으로 담음).
+- 보류: 'Born Fire' 류가 아니라 여러 곡 묶음('SPAGHETTI + BOOMPALA', 'CELEBRATION & 이프푸 & CRAZY', 'Smart + Perfect Night', 'Fire in the belly & SMART & Perfect Night'), 위버스콘 풀버전, 서울가요대상 수상소감·단체 엔딩, 멤버 없는 직캠(R0Kyvf7mODA 등), 미등록 곡(CREATURE·Fire in the belly·이프푸), KD K-POP IDOL 직캠(날짜 없음).
