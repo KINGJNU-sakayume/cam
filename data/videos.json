@@ -20129,6 +20129,32 @@
         "g1s10"
       ],
       "note": ""
+    },
+    {
+      "id": "e1331",
+      "groupId": "g1",
+      "date": "2024-12-20",
+      "show": "가요대 축제",
+      "label": "",
+      "setlist": [
+        "g1s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1332",
+      "groupId": "g1",
+      "date": "2024-12-25",
+      "show": "SBS 가요대전",
+      "label": "",
+      "setlist": [
+        "g1s9",
+        "g1s2",
+        "g1s4",
+        "g1s5",
+        "g1s8"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -347469,6 +347495,394 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-12-01"
+    },
+    {
+      "id": "v18164",
+      "ytId": "O2OTLgY3EK4",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241130 MELON MUSIC AWARDS MMA 'SOLO INTRO + HEYA' IVE JANGWONYOUNG 아이브 장원영 직캠 (4k)",
+      "channel": "want",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-04"
+    },
+    {
+      "id": "v18165",
+      "ytId": "sz9J9aGtXtk",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 아이브 장원영 직캠 'Blue Heart + 해야 (HEYA)' (IVE JANG WONYOUNG Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v18166",
+      "ytId": "TfivwrtJkew",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 아이브 리즈 직캠 'Blue Heart + 해야 (HEYA)' (IVE LIZ Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v18167",
+      "ytId": "dJdhy5p_pGk",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 아이브 안유진 'INTRO + Blue Heart + 해야 (HEYA)' (IVE YUJIN Facecam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v18168",
+      "ytId": "o5cy2wvrtG8",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 아이브 안유진 직캠 'Blue Heart + 해야 (HEYA)' (IVE AN YUJIN Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v18169",
+      "ytId": "c1fJKfXGWYg",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 아이브 이서 직캠 'Blue Heart + 해야 (HEYA)' (IVE LEESEO Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v18170",
+      "ytId": "un_9ooqU2Xo",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 아이브 레이 직캠 'Blue Heart + 해야 (HEYA)' (IVE REI Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v18171",
+      "ytId": "3xAx1dgJlGg",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 아이브 가을 직캠 'Blue Heart + 해야 (HEYA)' (IVE GAEUL Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v18172",
+      "ytId": "joJTxxzel4c",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 아이브 리즈 'INTRO + Blue Heart + 해야 (HEYA)' (IVE LIZ Facecam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v18173",
+      "ytId": "IVyUEcrKqD8",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]241225 SBS 가요대전 IVE HEYA+IVE EMPATHY 안유진 focus",
+      "channel": "Jjang_GU",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18174",
+      "ytId": "5zYsU2t1yqw",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241225 가요대전 아이브 원영 LOVE DIVE 솔로 직캠 IVE WONYOUNG LOVE DIVE focus.",
+      "channel": "BLOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18175",
+      "ytId": "RCJfjHubI5k",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241225 가요대전 아이브 원영 해야+EMPATHY 직캠 IVE WONYOUNG HEYA+ EMPATHY focus.",
+      "channel": "BLOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18176",
+      "ytId": "rbhNv9o47wc",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 아이브 (IVE) 2024 SBS 가요대전 - 'LOVE DIVE' 원영 직캠 (WONYOUNG Fancam)",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18177",
+      "ytId": "RfXd-ZXtDjA",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 아이브 (IVE) 2024 SBS 가요대전 - 'Kitsch' 유진 직캠 (YUJIN Fancam)",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-21"
+    },
+    {
+      "id": "v18178",
+      "ytId": "YhdJpUieIlI",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 20241225 IVE 안유진 SBS 가요대전 - Kitsch",
+      "channel": "Last Pang",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-28"
+    },
+    {
+      "id": "v18179",
+      "ytId": "WWDrzV0mUDE",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 SBS 가요대전 | I AM (SOLO PERFORMANCE) | IVE LIZ 아이브 리즈 직캠 fancam",
+      "channel": "mya.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-01"
+    },
+    {
+      "id": "v18180",
+      "ytId": "YtEYgXHvTsM",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20241225 SBS GAYO DAEJEON 가요대전 2024 IVE Baddie 배디 IVE Rei （아이브 레이） Focus Fancam",
+      "channel": "Young Sheep",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-28"
     }
   ],
   "clips": []
