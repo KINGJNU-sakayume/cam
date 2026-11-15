@@ -14688,7 +14688,10 @@
         "g6s20",
         "g6s18"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "ANDLESS in Tokyo"
+      ]
     },
     {
       "id": "e869",
@@ -20103,6 +20106,17 @@
         "g7s42",
         "g7s10",
         "g7s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1329",
+      "groupId": "g3",
+      "date": "2026-11-14",
+      "show": "TOMORROW GLOW 도쿄",
+      "label": "",
+      "setlist": [
+        "g3s25"
       ],
       "note": ""
     }
@@ -346594,6 +346608,720 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-04-04"
+    },
+    {
+      "id": "v18127",
+      "ytId": "7UstoQ4yLQo",
+      "eventId": "e852",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[Comeback Stage] 261025 NMIXX (엔믹스) - Birthday Wish (긴 소원) | SBS INKIGAYO 인기가요 방송 [1080P]",
+      "channel": "K-EVER KPOP LIVE [VOD]",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18128",
+      "ytId": "fy2SXUIJalE",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]261025 WE GO fromis_9 프로미스나인 '송하영' Ha Young직캠 FANCAM ASIA TOUR [TOMORROW GLOW] IN TAIPEI",
+      "channel": "JOY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18129",
+      "ytId": "dnLiWdE7KrA",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "fromis_9(프로미스나인) Supersonic ❘ ASIA TOUR [TOMORROW GLOW.] IN TAIPEI 송하영 4K 직캠",
+      "channel": "foaneikl",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18130",
+      "ytId": "lAu0_nGucAE",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "20261025 Blue Heart - FullCAM fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI #fromis_9",
+      "channel": "lewiq_9",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18131",
+      "ytId": "HCVTQ4ncLuk",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "20261025 DM - FULLCAM fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI #fromis_9 #fromis9 ",
+      "channel": "lewiq_9",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18132",
+      "ytId": "h5dSdcCsUks",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s36",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261025 fromis_9 2026 [TOMORROW GLOW.] IN TAIPEI 'Blind Letter' 이나경fancam",
+      "channel": "Wesley",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18133",
+      "ytId": "1PDNMcPM_Sc",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "2026 fromis_9 ASIA TOUR [TOMORROW GLOW.] IN TAIPEI - Teacher - Jiwon (朴池原) Fancam",
+      "channel": "Lance",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18134",
+      "ytId": "oOvF4mOc_wM",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s14",
+          "t": 0
+        },
+        {
+          "songId": "g3s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261025 프로미스나인 (fromis_9) - Blue Heart + Teacher 이채영 직캠(fancam) | [TOMORROW GLOW.] IN TAIPEI ",
+      "channel": "weiii",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18135",
+      "ytId": "2oNDCNQwsc8",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s21",
+          "t": 0
+        },
+        {
+          "songId": "g3s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261025 프로미스나인 (fromis_9) - Pocket Treat + Vitamin ME 이채영 직캠 (fancam) | [TOMORROW GLOW.] IN TAIPEI ",
+      "channel": "weiii",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18136",
+      "ytId": "UMabEnfgm4M",
+      "eventId": "e853",
+      "songs": [
+        {
+          "songId": "g3s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261025 프로미스나인 (fromis_9) - ETERNAL 이채영 직캠 (fancam) | [TOMORROW GLOW.] IN TAIPEI ",
+      "channel": "weiii",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18137",
+      "ytId": "65f4BeCSwg8",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[20261027] 최예나 (YENA) ♪ 캐치 캐치 ♬ 서울신학대학교 축제",
+      "channel": "ZetaCAM 제타캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18138",
+      "ytId": "4UBW-ZqPU6I",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261027 최예나 YENA - SMILEY 스마일리 & WithOrWithOut 위드올위드아웃 (서울신학대 축제) 직캠 fancam by zam",
+      "channel": "z a m",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18139",
+      "ytId": "KdsEoWd2d44",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[20261027] Choi Yena (YENA) ♪ SMILEY ♬ Seoul Theological University Festival",
+      "channel": "ZetaCAM 제타캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18140",
+      "ytId": "Vko-6ZEc8vQ",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[20261027] 최예나 (YENA) ♪ 네모네모 (Nemo Nemo) ♬ 서울신학대학교 축제",
+      "channel": "ZetaCAM 제타캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18141",
+      "ytId": "wufbJGTTQMQ",
+      "eventId": "e918",
+      "songs": [
+        {
+          "songId": "g9s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261027 최예나 YENA - Love War 러브워 (서울신학대 축제) 직캠 fancam by zam",
+      "channel": "z a m",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18142",
+      "ytId": "axU42E1yroY",
+      "eventId": "e856",
+      "songs": [
+        {
+          "songId": "g2s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[직캠] NMIXX(엔믹스) 지우 - Heavy Serenade [불후의 명곡2 전설을 노래하다] | KBS 261031방송",
+      "channel": "KBS 레전드 케이팝",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18143",
+      "ytId": "5peWoE5iluQ",
+      "eventId": "e868",
+      "songs": [
+        {
+          "songId": "g6s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[tripleS(트리플에스)] 261031 ANDLESS in Tokyo: Welcome to Heaven - YoonSeoYeon 윤서연 FANCAM 직캠",
+      "channel": "Gorgeous",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18144",
+      "ytId": "nODPfyENxGU",
+      "eventId": "e868",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m18"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261031 tripleS(트리플에스) 주빈(JooBin) 'Andless' 직캠 Fancam",
+      "channel": "Woodpecker",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18145",
+      "ytId": "Nuq1ysR2ykY",
+      "eventId": "e868",
+      "songs": [
+        {
+          "songId": "g6s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[tripleS(트리플에스)] 261031 ANDLESS in Tokyo: Choom - YoonSeoYeon 윤서연 FANCAM 직캠",
+      "channel": "Gorgeous",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18146",
+      "ytId": "Op1KDrH1ms8",
+      "eventId": "e868",
+      "songs": [
+        {
+          "songId": "g6s55",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261031 DNA 유연 Fancam Andless 투어 트리플에스 도쿄 Tokyo 콘서트  #트리플에스#tripleS#김유연#유연#KimYooyeon#YooYeon",
+      "channel": "유연하게",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18147",
+      "ytId": "jWNvxLb_Tt8",
+      "eventId": "e868",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m7"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261031 tripleS (트리플에스) 김나경 'Andless' 직캠 ( NAKYOUNG FOCUS FANCAM) @ ANDLESS in Tokyo",
+      "channel": "NYALL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18148",
+      "ytId": "gZCHe2pZvUk",
+      "eventId": "e868",
+      "songs": [
+        {
+          "songId": "g6s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m13"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261031 tripleS ANDLESS in Tokyo - “Welcome To Heaven” Nien 니엔 focus",
+      "channel": "Littlepuppy",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18149",
+      "ytId": "J99ZbB9qW4Y",
+      "eventId": "e868",
+      "songs": [
+        {
+          "songId": "g6s54",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m17",
+        "g6m22"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261031 tripleS World Tour [ANDLESS] in Tokyo - “Dream Dress” Sullin 설린 focus",
+      "channel": "TiramiSullin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18150",
+      "ytId": "HZF8LifP9Rs",
+      "eventId": "e854",
+      "songs": [
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "IVE 아이브 LIZ 리즈   'Looks Can Kill'  MBC 261031 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v18151",
+      "ytId": "FueZkSKTu80",
+      "eventId": "e855",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX (엔믹스) LILY (릴리) - 'Birthday Wish' @ Show Music Core MBC 261031 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18152",
+      "ytId": "yZ5k_XP2J-c",
+      "eventId": "e858",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX (엔믹스) SULLYOON (설윤) - 'Birthday Wish'  @SBS Inkigayo 261101 UNOFFICAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18153",
+      "ytId": "QpR_sIPTAG4",
+      "eventId": "e858",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX (엔믹스) HAEWON (오해원) - 'Birthday Wish'  @SBS Inkigayo 261101 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18154",
+      "ytId": "UQ_qSvcGSyw",
+      "eventId": "e858",
+      "songs": [
+        {
+          "songId": "g2s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[안방1열 직캠] 엔믹스 지우 '긴 소원' (NMIXX JIWOO 'Birthday Wish' FanCam) @SBS Inkigayo 261101",
+      "channel": "감자우",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18155",
+      "ytId": "EMIPSlokHYI",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[20261106] 키스오브라이프 - 나띠 (KISS OF LIFE - NATTY) ♪ SWEAT ♬ 국회의사당 입법박람회",
+      "channel": "ZetaCAM 제타캠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-07"
+    },
+    {
+      "id": "v18156",
+      "ytId": "IiNwEBPDLrw",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261106 KISS OF LIFE (키스오브라이프) 'Who is she' (하늘 직캠) 국회 입법박람회",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18157",
+      "ytId": "0Cs2AoVY7_k",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[20261106] 키스오브라이프 - 나띠 (KISS OF LIFE - NATTY) ♪ Sticky ♬ 국회의사당 입법박람회",
+      "channel": "ZetaCAM 제타캠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-06"
+    },
+    {
+      "id": "v18158",
+      "ytId": "Gv2-cr6Abw4",
+      "eventId": "e952",
+      "songs": [
+        {
+          "songId": "g10s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[20261106] 키스오브라이프 - 나띠 (KISS OF LIFE - NATTY) ♪ Who is She ♬ 국회의사당 입법박람회",
+      "channel": "ZetaCAM 제타캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18159",
+      "ytId": "U0u5L14keX0",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g3s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g3m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261114 프로미스나인(fromis_9) 이채영 (LEE CHAEYOUNG) - SKY RUNNER @ TOMORROW GLOW IN TOKYO 직캠(FANCAM)",
+      "channel": "MARS_0514",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
