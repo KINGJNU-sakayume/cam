@@ -123,3 +123,4 @@ node scripts/archive.mjs validate
 | g1 | 2024-10 | 0 | 무대 영상 없음 (open-questions §8) |
 | g1 | 2024-11 | 37 (MAMA AWARDS 10, MMA 2024 27) | 보류: open-questions §8 |
 | g1 | 2024-12 | 17 (가요대 축제 8, SBS 가요대전 8, MMA 1) | 보류: open-questions §8 |
+| g1 | 2025-01 | 44 (Rebel Heart 활동 방송, 골든디스크, MBC 가요대제전) | 보류: open-questions §8 |
