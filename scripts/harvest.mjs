@@ -20,7 +20,8 @@ import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseTitle, excludedReason, eventsByCityShow } from '../js/admin/parse.js';
 import { BROADCAST_CHANNELS } from '../js/model.js';
-import { search, videoInfo, relativeToDate, kstDate, viewsCut } from './lib/yt.mjs';
+import { search, videoInfo, relativeToDate, kstDate, viewsCut, takeFailStats } from './lib/yt.mjs';
+const failReasons = () => Object.entries(takeFailStats()).map(([k, n]) => `${k} ${n}`).join(' · ');
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(HERE, '..');
@@ -121,7 +122,7 @@ const runQueries = async (list, label) => {
     appendFileSync(doneFile, `${x.q}\n`);
   });
   writeFileSync(join(OUT, 'found.json'), JSON.stringify(found));
-  if (failedQ) console.log(`  ! 검색 ${failedQ}개 실패(유튜브 접속·차단 확인). 같은 명령을 다시 돌리면 실패한 것만 다시 찾아요`);
+  if (failedQ) console.log(`  ! 검색 ${failedQ}개 실패(유튜브 접속·차단 확인). 같은 명령을 다시 돌리면 실패한 것만 다시 찾아요\n    이유: ${failReasons() || '알 수 없음'}  (http429=요청 과다 → --jobs를 줄이세요 · network=연결 실패 · no-data=검색 결과 페이지 이상)`);
   if (todo.length && failedQ === todo.length) { console.error('✗ 모든 검색이 실패했어요. www.youtube.com에 접속할 수 있는 곳에서 돌려 주세요'); process.exit(3); }
   failedQ = 0;
 };
@@ -175,10 +176,13 @@ for (const v of Object.values(found)) {
 // ---------- 3) 정확한 업로드 날짜·조회수 (동시에, 캐시) ----------
 const needInfo = flags['no-info'] ? [] : cands.filter((c) => !meta[c.id]?.uploaded);
 console.log(`정보 불러오기: ${needInfo.length}개 (캐시 ${cands.length - needInfo.length}개, 동시 ${Math.min(8, JOBS * 2)}개)`);
+let infoFail = 0;
 await pool(needInfo, Math.min(8, JOBS * 2), async (c) => {
   const x = await videoInfo(c.id);
   if (x) meta[c.id] = { ...(meta[c.id] || {}), ...Object.fromEntries(Object.entries(x).filter(([, val]) => val != null && val !== '')), at: today };
+  else infoFail++;
 });
+if (infoFail) console.log(`  ! 정보 ${infoFail}개 실패(업로드 날짜를 추정해서 review가 늘어요). 이유: ${failReasons() || '알 수 없음'}. 같은 명령을 다시 돌리면 실패한 것만 다시 불러와요`);
 mkdirSync(dirname(CACHE), { recursive: true });
 writeFileSync(CACHE, JSON.stringify(meta));
 

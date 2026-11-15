@@ -1,6 +1,7 @@
 // 유튜브 검색·영상 정보 (API 키 없이, 의존성 없음). harvest.mjs가 쓴다.
 // 화면에 보이는 공개 정보만 읽는다: 검색 결과(ytInitialData + continuation), 영상 정보(innertube player → 안 되면 watch 페이지).
-const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36';
+import { spawn } from 'node:child_process';
+const UA ='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36';
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 // "조회수 673,342회" · "조회수 131만회" · "1.2천회" · "12,155 views" → 숫자(모르면 null)
@@ -71,14 +72,64 @@ export function parseSearch(d) {
   return { vids, tok };
 }
 
-async function get(url, opts = {}, tries = 3) {
+// 실패 이유 집계 (harvest.mjs가 끝에 출력한다): http429 · http5xx · network · no-data
+const fails = {};
+const noteFail = (why) => { fails[why] = (fails[why] || 0) + 1; };
+export function takeFailStats() {
+  const out = { ...fails };
+  for (const k of Object.keys(fails)) delete fails[k];
+  return out;
+}
+const reasonOf = (e) => {
+  const m = /^HTTP (\d+)/.exec(e?.message || '');
+  if (!m) return 'network';
+  return m[1] === '429' ? 'http429' : 'http5xx';
+};
+
+// 전송은 curl을 먼저 쓴다. 클라우드 환경(프록시 뒤)에서는 Node fetch가 직접 DNS를 찾다가 절반 넘게 ENOTFOUND로 실패하는데,
+// curl은 HTTPS_PROXY·CA 설정을 그대로 따라 안정적이다. curl이 없으면 fetch로 되돌아간다.
+let curlOk = true;
+function curlRequest(url, opts) {
+  return new Promise((resolve, reject) => {
+    const args = ['-sS', '--compressed', '-m', '20', '-w', '\n%{http_code}', '-A', UA, '-H', 'accept-language: ko-KR,ko;q=0.9'];
+    for (const [k, v] of Object.entries(opts.headers || {})) args.push('-H', `${k}: ${v}`);
+    if (opts.method === 'POST') args.push('-X', 'POST', '--data-binary', '@-');
+    args.push(url);
+    const p = spawn('curl', args, { stdio: ['pipe', 'pipe', 'pipe'] });
+    const out = [], err = [];
+    p.stdout.on('data', (d) => out.push(d));
+    p.stderr.on('data', (d) => err.push(d));
+    p.on('error', reject); // ENOENT: curl이 없다
+    p.on('close', (code) => {
+      const buf = Buffer.concat(out).toString('utf8');
+      const nl = buf.lastIndexOf('\n');
+      const status = Number(buf.slice(nl + 1)) || 0;
+      if (code !== 0 || !status) return reject(new Error(`curl ${code}: ${Buffer.concat(err).toString('utf8').trim().slice(0, 120)}`));
+      const text = buf.slice(0, nl);
+      resolve({ status, text: async () => text, json: async () => JSON.parse(text) });
+    });
+    p.stdin.on('error', () => {});
+    p.stdin.end(opts.body || '');
+  });
+}
+async function request(url, opts) {
+  if (curlOk) {
+    try { return await curlRequest(url, opts); } catch (e) {
+      if (e.code !== 'ENOENT') throw e;
+      curlOk = false; // curl이 없으면 이후로는 fetch만
+    }
+  }
+  return fetch(url, { ...opts, headers: { 'user-agent': UA, 'accept-language': 'ko-KR,ko;q=0.9', ...(opts.headers || {}) }, signal: AbortSignal.timeout(15000) });
+}
+
+async function get(url, opts = {}, tries = 4) {
   for (let i = 0; i < tries; i++) {
     try {
-      const r = await fetch(url, { ...opts, headers: { 'user-agent': UA, 'accept-language': 'ko-KR,ko;q=0.9', ...(opts.headers || {}) }, signal: AbortSignal.timeout(15000) });
+      const r = await request(url, opts);
       if (r.status === 429 || r.status >= 500) throw new Error(`HTTP ${r.status}`);
       return r;
     } catch (e) {
-      if (i === tries - 1) throw e;
+      if (i === tries - 1) { noteFail(reasonOf(e)); throw e; }
       await sleep(1500 * (i + 1) + Math.random() * 1000);
     }
   }
@@ -88,10 +139,13 @@ async function get(url, opts = {}, tries = 3) {
 let client = null; // { key, ver } 첫 검색 페이지에서 얻는다
 // 검색: 첫 페이지 + continuation pages-1장. 실패하면 null
 export async function search(q, { pages = 3 } = {}) {
-  let html;
-  try { html = await (await get(`https://www.youtube.com/results?search_query=${encodeURIComponent(q)}`)).text(); } catch { return null; }
-  const m = html.match(/var ytInitialData = (\{.*?\});<\/script>/s);
-  if (!m) return null;
+  let html, m;
+  for (let i = 0; i < 3 && !m; i++) { // 검색 페이지에 ytInitialData가 빠져 오면(동의 화면 등) 잠시 뒤 다시
+    if (i) await sleep(1500 * i + Math.random() * 1000);
+    try { html = await (await get(`https://www.youtube.com/results?search_query=${encodeURIComponent(q)}`)).text(); } catch { return null; }
+    m = html.match(/var ytInitialData = (\{.*?\});<\/script>/s);
+  }
+  if (!m) { noteFail('no-data'); return null; }
   const key = (html.match(/"INNERTUBE_API_KEY":"([^"]+)"/) || [])[1];
   const ver = (html.match(/"INNERTUBE_CLIENT_VERSION":"([^"]+)"/) || [])[1] || '2.20261001.00.00';
   if (key) client = { key, ver };
@@ -147,7 +201,12 @@ export async function videoInfo(id) {
       }, 2);
       const x = parsePlayer(await r.json());
       if (x && x.uploaded) return x;
+      noteFail('info-player-empty'); // 응답은 왔지만 영상 정보가 없다(비공개·삭제·봇 확인 등)
     } catch { /* watch 페이지로 */ }
   }
-  try { return parseWatchHtml(await (await get(`https://www.youtube.com/watch?v=${id}&hl=ko`, {}, 2)).text()); } catch { return null; }
+  try {
+    const x = parseWatchHtml(await (await get(`https://www.youtube.com/watch?v=${id}&hl=ko`, {}, 2)).text());
+    if (!x) noteFail('info-watch-empty');
+    return x;
+  } catch { return null; }
 }
