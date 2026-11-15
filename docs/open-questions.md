@@ -232,3 +232,6 @@
 ### 르세라핌 2026-02
 - 앙코르 서울(01-31·02-01) 자동 '확실' 29개 중 16개를 담음(02-01은 직접 고른 3개 추가). 13개 보류: 여러 곡 묶음(`cnOSHaiitQE`·`oGudw7B_jKo`·`Z2F-YZEGm78`·`QMEOaV1KeNs`·`ePZclemOnsQ`·`MuzdEts7STI`·`zO_nlSnxANQ`·`jRBthfDWYjs`·`E7vc3UDIFE4`), 행사명이 '2025'로 읽힌 1부 풀버전(`j-JjpDsundA`), 날짜 01-31/02-01이 겹친 채원 HOT(`ig-4SmWnilo`), 곡 판별이 애매한 `9XUtfXLDeLA`·`dVncfwBhYGM`. 다수 영상이 '이 공연 setlist에 없어요' 경고였으나 제목이 분명해 담음(앙코르 공연이라 세트 구성이 투어와 다름, 공연 setlist 보정 필요 여부는 확인 바람).
 - 보류: Kawaii·The Great Mermaid·Impurities·Pearlies 단독 직캠 등 미등록 곡, 'SPAGHETTI+DANCE BREAK'·'HOT+Come Over' 묶음, 멤버 없는 전체무대·풀 분할본, 곡 목록 확인이 필요한 So Cynical(채원 `W6ZdqKZtLNk`).
+
+### 르세라핌 2026-03
+- 자동 '확실' 0개, '확인 필요' 264개 중 르세라핌 3월 무대 직캠은 찾지 못함(카운트다운 재팬 공식 스테이지캠 `BgaOjtPOhLk`은 날짜 불명, 타 그룹 커버 영상은 제외).
