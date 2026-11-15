@@ -20105,6 +20105,50 @@
         "g7s7"
       ],
       "note": ""
+    },
+    {
+      "id": "e1329",
+      "groupId": "g11",
+      "date": "2026-04-24",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g11s16"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1330",
+      "groupId": "g11",
+      "date": "2026-04-25",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g11s16"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1331",
+      "groupId": "g11",
+      "date": "2026-04-26",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g11s16"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1332",
+      "groupId": "g11",
+      "date": "2026-04-30",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g11s16"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -346594,6 +346638,1148 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-04-04"
+    },
+    {
+      "id": "v18127",
+      "ytId": "OQPZQvRD794",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 김채원 'CELEBRATION' (LE SSERAFIM KIM CHAEWON Facecam) @뮤직뱅크(Music Bank) 260424",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-24"
+    },
+    {
+      "id": "v18128",
+      "ytId": "0b1VBlY1B40",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 카즈하 'CELEBRATION' (LE SSERAFIM KAZUHA Facecam) @뮤직뱅크(Music Bank) 260424",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-24"
+    },
+    {
+      "id": "v18129",
+      "ytId": "_annS_ZRTuA",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 허윤진 직캠 'CELEBRATION' (LE SSERAFIM HONG HUH YUNJIN Fancam) @뮤직뱅크(Music Bank) 260424",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-24"
+    },
+    {
+      "id": "v18130",
+      "ytId": "7PSyAqQv-WY",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 홍은채 'CELEBRATION' (LE SSERAFIM HONG EUNCHAE Facecam) @뮤직뱅크(Music Bank) 260424",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-24"
+    },
+    {
+      "id": "v18131",
+      "ytId": "pefs9HjHkdQ",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 허윤진 'CELEBRATION' (LE SSERAFIM HUH YUNJIN Facecam) @뮤직뱅크(Music Bank) 260424",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-24"
+    },
+    {
+      "id": "v18132",
+      "ytId": "iNw0EfXCc6E",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 김채원 직캠 'CELEBRATION' (LE SSERAFIM KIMCHAEWON Fancam) @뮤직뱅크(Music Bank) 260424",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-24"
+    },
+    {
+      "id": "v18133",
+      "ytId": "wnXQTF2O5io",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 사쿠라 'CELEBRATION' (LE SSERAFIM SAKURA Facecam) @뮤직뱅크(Music Bank) 260424",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-24"
+    },
+    {
+      "id": "v18134",
+      "ytId": "__59O6W1zu0",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 카즈하 직캠 'CELEBRATION' (LE SSERAFIM KAZUHA Fancam) @뮤직뱅크(Music Bank) 260424",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-24"
+    },
+    {
+      "id": "v18135",
+      "ytId": "BPxdS2QKOGo",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 홍은채 직캠 'CELEBRATION' (LE SSERAFIM HONG EUNCHAE Fancam) @뮤직뱅크(Music Bank) 260424",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-24"
+    },
+    {
+      "id": "v18136",
+      "ytId": "rsEgOjxMR8U",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 사쿠라 직캠 'CELEBRATION' (LE SSERAFIM MIYAWAKI SAKURA Fancam) @뮤직뱅크(Music Bank) 260424",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-24"
+    },
+    {
+      "id": "v18137",
+      "ytId": "XHNEjVXA6CQ",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠8K] LE SSERAFIM (르세라핌) – CELEBRATION FullCam | 쇼! 음악중심 | MBC260425",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-25"
+    },
+    {
+      "id": "v18138",
+      "ytId": "4ZuZxGRRhYA",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – CELEBRATION FanCam | 쇼! 음악중심 | MBC260425",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-25"
+    },
+    {
+      "id": "v18139",
+      "ytId": "Yu_HDtz4fJg",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM KAZUHA (르세라핌 카즈하) – CELEBRATION FanCam | 쇼! 음악중심 | MBC260425",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-25"
+    },
+    {
+      "id": "v18140",
+      "ytId": "ABosy492JSQ",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM HUH YUNJIN (르세라핌 허윤진) – CELEBRATION | 쇼! 음악중심 | MBC260425",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-27"
+    },
+    {
+      "id": "v18141",
+      "ytId": "bbcdAhDHuOc",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM KIM CHAEWON (르세라핌 김채원) – CELEBRATION FanCam | 쇼! 음악중심 | MBC260425",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-25"
+    },
+    {
+      "id": "v18142",
+      "ytId": "DshJNooyqKs",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM HONG EUNCHAE (르세라핌 홍은채) – CELEBRATION FanCam | 쇼! 음악중심 | MBC260425",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-25"
+    },
+    {
+      "id": "v18143",
+      "ytId": "AkrP27wLiTg",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM HUH YUNJIN (르세라핌 허윤진) – CELEBRATION FanCam | 쇼! 음악중심 | MBC260425",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-25"
+    },
+    {
+      "id": "v18144",
+      "ytId": "gDpht_JxrwY",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM HONG EUNCHAE (르세라핌 홍은채) – CELEBRATION | 쇼! 음악중심 | MBC260425",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-27"
+    },
+    {
+      "id": "v18145",
+      "ytId": "baFi4E8dvwE",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM KIM CHAEWON (르세라핌 김채원) – CELEBRATION | 쇼! 음악중심 | MBC260425",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-27"
+    },
+    {
+      "id": "v18146",
+      "ytId": "_UO7Ls4cwCs",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM KAZUHA (르세라핌 카즈하) – CELEBRATION | 쇼! 음악중심 | MBC260425",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-27"
+    },
+    {
+      "id": "v18147",
+      "ytId": "dlBgtdgQBJo",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – CELEBRATION | 쇼! 음악중심 | MBC260425",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-27"
+    },
+    {
+      "id": "v18148",
+      "ytId": "27jKXDabxC8",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 르세라핌 'CELEBRATION' (LE SSERAFIM FullCam) @SBS Inkigayo ON THE GO 260426",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-26"
+    },
+    {
+      "id": "v18149",
+      "ytId": "kmjJnnqSVW4",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 카즈하 'CELEBRATION' (LE SSERAFIM KAZUHA FanCam) @SBS Inkigayo ON THE GO 260426",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-27"
+    },
+    {
+      "id": "v18150",
+      "ytId": "IIrF9bhaGMo",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 김채원 'CELEBRATION' (LE SSERAFIM KIM CHAEWON FanCam) @SBS Inkigayo 260426",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-05"
+    },
+    {
+      "id": "v18151",
+      "ytId": "Nn1SxfVMkU8",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 김채원 'CELEBRATION' (LE SSERAFIM KIM CHAEWON FanCam) @SBS Inkigayo ON THE GO 260426",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-27"
+    },
+    {
+      "id": "v18152",
+      "ytId": "MltY1rCLwsM",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 르세라핌 'CELEBRATION' 단독샷 별도녹화│LE SSERAFIM ONE TAKE STAGE│@SBS Inkigayo ON THE GO 260426",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-27"
+    },
+    {
+      "id": "v18153",
+      "ytId": "qvNPD_kYgk8",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 홍은채 'CELEBRATION' (LE SSERAFIM HONG EUNCHAE FanCam) @SBS Inkigayo ON THE GO 260426",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-27"
+    },
+    {
+      "id": "v18154",
+      "ytId": "iFWUXvJuEG8",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260426 르세라핌 채원 (LE SSERAFIM Chaewon) - 'CELEBRATION' 직캠 (Chaewon FOCUS Fancam) | 인기가요 ON THE GO",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-26"
+    },
+    {
+      "id": "v18155",
+      "ytId": "nqkIOoi1F5U",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 김채원 'CELEBRATION' (LE SSERAFIM KIM CHAEWON FaceCam) @SBS Inkigayo ON THE GO 260426",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-28"
+    },
+    {
+      "id": "v18156",
+      "ytId": "vQyjekTuZ_c",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260426 르세라핌 카즈하 CELEBRATION 직캠 4K - SBS 인기가요 ON THE GO",
+      "channel": "스키",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-26"
+    },
+    {
+      "id": "v18157",
+      "ytId": "vsKEUlw7Bx8",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260426 LE SSERAFIM SAKURA 르세라핌 사쿠라 - 'CELEBRATION' 직캠 | 2026 SBS 인기가요 ON THE GO",
+      "channel": "Zetty.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-28"
+    },
+    {
+      "id": "v18158",
+      "ytId": "FlA02V4wcbM",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260426 인기가요 ON THE GO LE SSERAFIM SAKURA 4K FanCam ‘CELEBRATION‘ | 르세라핌 사쿠라 직캠",
+      "channel": "ARUKAS - For Sakura",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-19"
+    },
+    {
+      "id": "v18159",
+      "ytId": "2wsngx5ItCU",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260426 'CELEBRATION' 르세라핌 김채원 직캠 LE SSERAFIM KIM CHAEWON FANCAM | INKIGAYO ON THE GO",
+      "channel": "코코아☘️ cocoa.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-26"
+    },
+    {
+      "id": "v18160",
+      "ytId": "N5_0dFaWeyo",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 허윤진 'CELEBRATION' (LE SSERAFIM HUH YUNJIN FanCam) @SBS Inkigayo ON THE GO 260426",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-27"
+    },
+    {
+      "id": "v18161",
+      "ytId": "mywe9ZaudqY",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 사쿠라 'CELEBRATION' (LE SSERAFIM SAKURA FanCam) @SBS Inkigayo ON THE GO 260426",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-27"
+    },
+    {
+      "id": "v18162",
+      "ytId": "C2r1BuUXk0A",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] LE SSERAFIM HONG EUNCHAE (르세라핌 홍은채) \"CELEBRATION\" |   260426 INKIGAYO ON THE GO",
+      "channel": "CherryAde",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-28"
+    },
+    {
+      "id": "v18163",
+      "ytId": "L1X-dLU7VnY",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260426 ‘CELEBRATION ' - 르세라핌 홍은채 lesserafim 직캠 @인기가요 ON THE GO",
+      "channel": "케박",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-27"
+    },
+    {
+      "id": "v18164",
+      "ytId": "4Z7I4IY-5c8",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260426 'CELEBRATION’ 르세라핌 김채원 직캠 LE SSERAFIM KIM CHAEWON FANCAM @ 인기가요 INKIGAYO ON THE GO",
+      "channel": "Wonder for Chaewon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-29"
+    },
+    {
+      "id": "v18165",
+      "ytId": "yusOpgkAI8Q",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 사쿠라 'CELEBRATION' (LE SSERAFIM SAKURA FaceCam) @SBS Inkigayo ON THE GO 260426",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-28"
+    },
+    {
+      "id": "v18166",
+      "ytId": "-QZiWTYrC34",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 홍은채 'CELEBRATION' (LE SSERAFIM HONG EUNCHAE FaceCam) @SBS Inkigayo ON THE GO 260426",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-28"
+    },
+    {
+      "id": "v18167",
+      "ytId": "4t0hP74883Q",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] LE SSERAFIM KIMCHAEWON 르세라핌 김채원 - \"CELEBRATION\" 직캠 FANCAM | 260426 SBS 인기가요 ON THE GO",
+      "channel": "Mr. Egg",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-28"
+    },
+    {
+      "id": "v18168",
+      "ytId": "VVUWa2fVVlc",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 카즈하 직캠 4K 'CELEBRATION' (LE SSERAFIM KAZUHA FanCam) | @MCOUNTDOWN_2026.4.30",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-30"
+    },
+    {
+      "id": "v18169",
+      "ytId": "HcX8sKKEixk",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 김채원 직캠 4K 'CELEBRATION' (LE SSERAFIM KIM CHAEWON FanCam) | @MCOUNTDOWN_2026.4.30",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-30"
+    },
+    {
+      "id": "v18170",
+      "ytId": "dFDWfG5G7Bk",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 사쿠라 직캠 4K 'CELEBRATION' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2026.4.30",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-01"
+    },
+    {
+      "id": "v18171",
+      "ytId": "iJJ0ZPZRIGE",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 사쿠라 직캠 4K 'CELEBRATION' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2026.4.30",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-30"
+    },
+    {
+      "id": "v18172",
+      "ytId": "Ey-hskBlygY",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 홍은채 직캠 4K 'CELEBRATION' (LE SSERAFIM HONG EUNCHAE FanCam)| @MCOUNTDOWN_2026.4.30",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-30"
+    },
+    {
+      "id": "v18173",
+      "ytId": "O5FCBXXjkOY",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 허윤진 직캠 4K 'CELEBRATION' (LE SSERAFIM HUH YUNJIN FanCam) | @MCOUNTDOWN_2026.4.30",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-30"
+    },
+    {
+      "id": "v18174",
+      "ytId": "CfmqUT4TWR4",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 김채원 직캠 4K 'CELEBRATION' (LE SSERAFIM KIM CHAEWON FanCam) | @MCOUNTDOWN_2026.4.30",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-01"
+    },
+    {
+      "id": "v18175",
+      "ytId": "PMD9K39k0Fs",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260426 CELEBRATION - 르세라핌 채원 직캠 LE SSERAFIM Chaewon Fancam",
+      "channel": "kpopmylife1314",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-11"
     }
   ],
   "clips": []
