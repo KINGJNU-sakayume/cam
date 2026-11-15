@@ -20105,6 +20105,33 @@
         "g7s7"
       ],
       "note": ""
+    },
+    {
+      "id": "e1329",
+      "groupId": "g1",
+      "date": "2024-01-20",
+      "show": "하나 드림콘서트",
+      "label": "",
+      "setlist": [
+        "g1s7",
+        "g1s5",
+        "g1s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1330",
+      "groupId": "g1",
+      "date": "2024-01-27",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 방콕",
+      "label": "",
+      "setlist": [
+        "g1s5",
+        "g1s4",
+        "g1s2",
+        "g1s3"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -346594,6 +346621,373 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-04-04"
+    },
+    {
+      "id": "v18127",
+      "ytId": "-FWE2Llg9mE",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240120 [4k] IVE 아이브「Off The Record」안유진 직캠 AnYujin fancam | 하나금융그룹 출발2024",
+      "channel": "덕카이브 Duckive: DearMyDuckLife",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18128",
+      "ytId": "F0dA_xmA6gY",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240120 하나 드림콘서트 HANA DREAM CONCERT 'I AM(아이엠)' 아이브 이서 IVE LEESEO 직캠",
+      "channel": "Double!",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18129",
+      "ytId": "cjXC5peJMKs",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K) 240120 하나 DREAM 콘서트 'BADDIE' 아이브 장원영 IVE JANGWONYOUNG 직캠",
+      "channel": "MILKY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18130",
+      "ytId": "sPNdRBe-gh4",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K직캠] 아이브 안유진 직캠 'I AM' / @하나드림콘서트_240120",
+      "channel": "안댕댕",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18131",
+      "ytId": "nUEBudWTg90",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240120 하나드림콘서트 아이브 가을 ive gaeul Off the record  오프더레코드 직캠",
+      "channel": "Florens",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18132",
+      "ytId": "lBIY4S2e5rw",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240120 [4k] IVE 아이브「I AM」장원영 직캠 Jang Wonyoung | 하나금융그룹 출발2024",
+      "channel": "덕카이브 Duckive: DearMyDuckLife",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18133",
+      "ytId": "f53vDPkU0jw",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K직캠] 아이브 안유진 직캠 'BADDIE' / @하나드림콘서트_240120",
+      "channel": "안댕댕",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18134",
+      "ytId": "hCrFDFZwIkA",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240120 하나Dream 콘서트 아이브 가을 Off the record 직캠 IVE GAEUL 4K FANCAM",
+      "channel": "sunset",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18135",
+      "ytId": "_qcCYxXWUl4",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K) 240120 하나 DREAM 콘서트 'OFF THE RECORD' 아이브 장원영 IVE JANGWONYOUNG 직캠",
+      "channel": "MILKY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18136",
+      "ytId": "q68Y4Nt-G-U",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240120 하나드림콘서트 HANA DREAM CONCERT 아이브 가을 ive gaeul Baddie 배디 직캠",
+      "channel": "Florens",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18137",
+      "ytId": "oQoDHQgIuL8",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K직캠] 아이브 안유진 직캠 'OFF THE RECORD' / @하나드림콘서트_240120",
+      "channel": "안댕댕",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18138",
+      "ytId": "ZtSkBEhNFmI",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240127 IVE AN YUJIN (아이브 안유진) - 'I AM' SHOW WHAT I HAVE IN BANGKOK",
+      "channel": "FreakyPIMM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-19"
+    },
+    {
+      "id": "v18139",
+      "ytId": "kRbqs2lFBzY",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240127 SHOW WHAT I HAVE BANGKOK 'Kitsch' IVE JANGWONYOUNG 아이브 장원영 직캠 FANCAM",
+      "channel": "NinoJ",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-06"
+    },
+    {
+      "id": "v18140",
+      "ytId": "WhWQXdfMCHU",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240127 SHOW WHAT I HAVE BANGKOK 'LOVE DIVE' IVE JANGWONYOUNG 아이브 장원영 직캠 FANCAM",
+      "channel": "NinoJ",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-03"
+    },
+    {
+      "id": "v18141",
+      "ytId": "wNoGvfqWd2s",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240127 IVE 아이브 원영 - 키치 4K - IVE THE 1ST WORLD TOUR [SHOW WHAT I HAVE] IN BANGKOK",
+      "channel": "HeArTLeSS",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18142",
+      "ytId": "iU7w1bADH_s",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240127 IVE 아이브 WONYOUNG - AFTER LIKE 4K - IVE THE 1ST WORLD TOUR [SHOW WHAT I HAVE] IN BANGKOK",
+      "channel": "HeArTLeSS",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []

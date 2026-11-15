@@ -268,3 +268,8 @@
 ### 르세라핌 2026-11 (범위 끝 11-13)
 - 자동 '확실' 0개. PUREFLOW 마카오(11-07·11-08) 채원 직캠 4개만 직접 골라 담음.
 - 보류: 마카오 shingshing 연작(멤버 없음, 곡 다수가 미등록), Troll·Livelylife 등 멤버 없음/미등록 곡(Blue Flame·Irony·Trust Exercise·Sonder·Creatures), 풀퍼포먼스(`WGYmb-xL0t0`), 11-14 타이베이 공연(범위 밖). 신곡을 곡 목록에 등록하면 투어 직캠 상당수를 다시 담을 수 있음.
+
+### 아이브 2024-01
+- 담음 16개: 하나 드림콘서트(01-20) 11개, SHOW WHAT I HAVE 방콕(01-27) 5개 (멤버 1명 + 등록 곡 + 날짜가 제목에 있는 직캠).
+- 2023-12 영상(SBS 가요대전·MBC 가요대제전)은 범위 밖이라 뺐어요. 2025-01-16 엠카운트다운 4Qwp7J9b-zc, 2025-12-14 뮤직뱅크 글로벌 페스티벌 K8h7AFqEDNE는 날짜 추정이라 뺐어요.
+- 보류: 골든디스크(01-06) 직캠은 여러 곡 묶음이거나 멤버 없음(VDCoJxHnMrc, 8lR2Rk4um1w, lyHGtbZ-Sl4, WZ1R5CuCRis, FTQdSyAg-q4, 0_vBJ1jVv50, b3o1z5YO3ng, agpi_6GrWg4). 방콕 직캠 중 미등록 곡(Lips, Royal, Holo, Cherish, Wannabe, Woman Like Me 등)과 멘트는 곡 등록 결정 후. 도무디(01-13) 멤버 없음.
