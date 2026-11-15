@@ -119,3 +119,4 @@ node scripts/archive.mjs validate
 | g1 | 2024-06 | 11 (투어 파리·바르셀로나·런던·베를린·산티아고) | 보류: open-questions §8 |
 | g1 | 2024-07 | 43 (투어 홍콩·마닐라·시드니, SBS 가요대전 SUMMER) | 보류: 07-26 가요대전 방송분 (open-questions §8) |
 | g1 | 2024-08 | 103 (롤라팔루자·앙코르 서울·SUMMER SONIC 오사카·자카르타) | 보류: open-questions §8 |
+| g1 | 2024-09 | 17 (2024 펩시 페스타) | 보류: open-questions §8 (Crush 방송 무대 등) |

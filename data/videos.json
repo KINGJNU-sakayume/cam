@@ -20251,6 +20251,19 @@
         "g1s10"
       ],
       "note": ""
+    },
+    {
+      "id": "e1339",
+      "groupId": "g1",
+      "date": "2024-09-22",
+      "show": "2024 펩시 페스타",
+      "label": "",
+      "setlist": [
+        "g1s4",
+        "g1s5",
+        "g1s9"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -350054,6 +350067,378 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-08-26"
+    },
+    {
+      "id": "v18273",
+      "ytId": "FKp8tqiyRIE",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240922 아이브 가을 직캠 'Kitsch' (IVE GAEUL FanCam) @PEPSI FESTA",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-09-28"
+    },
+    {
+      "id": "v18274",
+      "ytId": "KMsy0XzH4TI",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240922 아이브 가을 직캠 'I AM' (IVE GAEUL FanCam) @PEPSI FESTA",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-09-28"
+    },
+    {
+      "id": "v18275",
+      "ytId": "PDdmpgi9Ztc",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240922 펩시 페스타(PEPSI FESTA) IVE 장원영(WONYOUNG) Kitsch",
+      "channel": "My Sweetie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18276",
+      "ytId": "9mJJkX96ua4",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240922 아이브 IVE '해야' 'HEYA' 가을 GAEUL 직캠 Fancam 2024 펩시 페스타 PEPSI FESTA",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-09-25"
+    },
+    {
+      "id": "v18277",
+      "ytId": "zfdzjckXVHw",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240922 아이브 IVE 가을 GAEUL 직캠 - I AM PEPSI FESTA",
+      "channel": "sj-KPOP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18278",
+      "ytId": "vJLSKKPdxeA",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240922 I AM - 안유진 아이브(IVE) | 2024 펩시 페스타",
+      "channel": "윈차",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18279",
+      "ytId": "cpc0m4SumMA",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240922 펩시 페스타(PEPSI FESTA) IVE 장원영(WONYOUNG) 해야(HEYA)",
+      "channel": "My Sweetie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18280",
+      "ytId": "cNVpMW7kIxc",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240922 아이브 레이 'Kitsch' 직캠 (IVE REI FanCam) | @2024 펩시 페스타 2024 PEPSI FESTA",
+      "channel": "김레몬",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-09-27"
+    },
+    {
+      "id": "v18281",
+      "ytId": "Gk47Uaq7hBs",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240922 펩시 페스타(PEPSI FESTA) IVE 장원영(WONYOUNG) I AM",
+      "channel": "My Sweetie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18282",
+      "ytId": "EBwjHdxHqHs",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240922 아이브 장원영 직캠 'Kitsch' (IVE WONYOUNG FanCam) @PEPSI FESTA",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-09-23"
+    },
+    {
+      "id": "v18283",
+      "ytId": "XmfpyOS6yXk",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 240922 I AM 아이브 유진 직캠 YUJIN IVE 2024 PEPSI FESTA",
+      "channel": "N",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18284",
+      "ytId": "19DZeTyrTKg",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240922 Kitsch - 리즈 아이브(IVE) | 2024 펩시 페스타",
+      "channel": "윈차",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18285",
+      "ytId": "bsmFplTyGj8",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240922 PEPSI FESTA 아이브 안유진 KITSCH 4K 직캠",
+      "channel": "돼냥이",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18286",
+      "ytId": "AH-RwtqRjDM",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 240922 해야(HEYA) 아이브 유진 직캠 YUJIN IVE 2024 PEPSI FESTA",
+      "channel": "N",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18287",
+      "ytId": "iZ5hfNKEAO8",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 240922 KITSCH 아이브 유진 직캠 YUJIN IVE 2024 PEPSI FESTA",
+      "channel": "N",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18288",
+      "ytId": "DyONG4pQxOo",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240922 PEPSI FESTA 아이브 안유진 I AM 4K 직캠",
+      "channel": "돼냥이",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18289",
+      "ytId": "kQSRtPdCQOo",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240922 아이브 레이 '해야 (HEYA)' 직캠 (IVE REI FanCam) | @2024 펩시 페스타 2024 PEPSI FESTA",
+      "channel": "김레몬",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
