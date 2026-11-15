@@ -125,3 +125,4 @@ node scripts/archive.mjs validate
 | g1 | 2024-12 | 17 (가요대 축제 8, SBS 가요대전 8, MMA 1) | 보류: open-questions §8 |
 | g1 | 2025-01 | 44 (Rebel Heart 활동 방송, 골든디스크, MBC 가요대제전) | 보류: open-questions §8 |
 | g1 | 2025-02 | 30 (Attitude 활동 방송 직캠, 1월분 2) | 보류: 더 시즌즈 (open-questions §8) |
+| g1 | 2025-03 | 0 | 무대 영상 없음 (open-questions §8) |
