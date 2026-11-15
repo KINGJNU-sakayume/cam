@@ -247,3 +247,7 @@
 ### 르세라핌 2026-06
 - 자동 '확실' 23개 중 21개를 담고 직접 고른 23개(위버스콘 페스티벌 2026 15·서울가요대상 4·iHeartRadio TikTok LIVE in LA 2·엠카운트다운 X 메가콘서트 2) 추가. 2개 보류: 경희대 풀캠 묶음(`jHoqU2rGwh8`)과 서울가요대상 'SPAGETTI + BOOMPALA' 두 곡을 한 곡으로 잘못 읽은 카즈하 영상(`8U3QJWohsHI`). 05-30 엠카운트다운 X 메가콘서트 영상 3개는 이 달 수집에 포함돼 같은 공연(e1346)에 담음(공연 setlist는 CELEBRATION뿐이라 BOOMPALA 경고, 제목 기준으로 담음).
 - 보류: 'Born Fire' 류가 아니라 여러 곡 묶음('SPAGHETTI + BOOMPALA', 'CELEBRATION & 이프푸 & CRAZY', 'Smart + Perfect Night', 'Fire in the belly & SMART & Perfect Night'), 위버스콘 풀버전, 서울가요대상 수상소감·단체 엔딩, 멤버 없는 직캠(R0Kyvf7mODA 등), 미등록 곡(CREATURE·Fire in the belly·이프푸), KD K-POP IDOL 직캠(날짜 없음).
+
+### 르세라핌 2026-07
+- 자동 '확실' 0개. PUREFLOW 인천(07-11·07-12) 직캠 중 멤버·등록된 곡 하나·날짜가 제목에 있는 12개만 직접 골라 담음.
+- 보류: 미등록 신곡(Irony·iffy iffy·Blue Flame·Saki·No Celestial·Creatures·Fire in the belly·Trust Exercise)을 담은 직캠 다수, 여러 곡 묶음(K-PLANET 'CRAZY + SPAGHETTI' 등), 멤버 없는 직캠·전체무대·단체직캠, 날짜가 07-11·12 둘로 적힌 영상(`q63Ks2VgqhY`, `KtfNWtmgnOg`), 공식 Stage Cam(`fsYCvJYQSr8`·`ox9Bw-lmn6s`, 멤버 없음). 새 곡이 많아 곡 목록에 한꺼번에 추가할지 정해 주세요.

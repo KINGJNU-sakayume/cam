@@ -20105,6 +20105,33 @@
         "g7s7"
       ],
       "note": ""
+    },
+    {
+      "id": "e1329",
+      "groupId": "g11",
+      "date": "2026-07-11",
+      "show": "LE SSERAFIM TOUR 'PUREFLOW' 인천",
+      "label": "",
+      "setlist": [
+        "g11s17",
+        "g11s2",
+        "g11s1",
+        "g11s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1330",
+      "groupId": "g11",
+      "date": "2026-07-12",
+      "show": "LE SSERAFIM TOUR 'PUREFLOW' 인천",
+      "label": "",
+      "setlist": [
+        "g11s3",
+        "g11s17",
+        "g11s6"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -346594,6 +346621,277 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-04-04"
+    },
+    {
+      "id": "v18127",
+      "ytId": "S7GDNqsi3sI",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260711 르세라핌 김채원 LE SSERAFIM CHAEWON - BOOMPALA 직캠 @2026 LE SSERAFIM TOUR PUREFLOW",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-11"
+    },
+    {
+      "id": "v18128",
+      "ytId": "r_psLVwFpYk",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] LE SSERAFIM KIMCHAEWON 르세라핌 김채원 - \"BOOMPALA\" 직캠 FANCAM | 260711 PUREFLOW 서울콘",
+      "channel": "Mr. Egg",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-12"
+    },
+    {
+      "id": "v18129",
+      "ytId": "2WLz3P1i1qs",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260711 LE SSERAFIM(르세라핌) - 'Antifragile' 김채원 직캠 | PUREFLOW in Incheon",
+      "channel": "무슨 말이 필요해",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-12"
+    },
+    {
+      "id": "v18130",
+      "ytId": "zRywBfP5P1c",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260711 르세라핌 김채원 FEARLESS 직캠 4K60p LESSERAFIM fancam",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-14"
+    },
+    {
+      "id": "v18131",
+      "ytId": "jND60Iy9WVo",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260711 LE SSERAFIM(르세라핌) - 'FEARLESS' 김채원 직캠 | PUREFLOW in Incheon",
+      "channel": "무슨 말이 필요해",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-14"
+    },
+    {
+      "id": "v18132",
+      "ytId": "pelvqk19Vdw",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260711 르세라핌 흥은채 LE SSERAFIM EUNCHAE - Perfect Night 직캠 @2026 LE SSERAFIM TOUR PUREFLOW",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-12"
+    },
+    {
+      "id": "v18133",
+      "ytId": "wGRSHjHw8Ms",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260711 르세라핌 김채원 직캠 \"ANTIFRAGILE\" (LE SSERAFIM KIM CHAEWON FANCAM) @TOUR 'PUREFLOW' IN INCHEON",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-11"
+    },
+    {
+      "id": "v18134",
+      "ytId": "jK8DoJq1w7o",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260712 르세라핌 김채원 LE SSERAFIM CHAEWON - UNFORGIVEN 직캠 @2026 LE SSERAFIM TOUR PUREFLOW",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-18"
+    },
+    {
+      "id": "v18135",
+      "ytId": "Y9lfwsixovA",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260712 카즈하(Kazuha) - BOOMPALA | 직캠 FANCAM | LE SSERAFIM TOUR ‘PUREFLOW’ IN INCHEON",
+      "channel": "alan_0317",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-26"
+    },
+    {
+      "id": "v18136",
+      "ytId": "GHHfI2uy4Sc",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260712 르세라핌 사쿠라 LE SSERAFIM SAKURA - EASY 직캠 @2026 LE SSERAFIM TOUR PUREFLOW",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-12"
+    },
+    {
+      "id": "v18137",
+      "ytId": "2hAxOKyp_9I",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260712 르세라핌 김채원 LE SSERAFIM CHAEWON - BOOMPALA 직캠 @2026 LE SSERAFIM TOUR PUREFLOW",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-12"
+    },
+    {
+      "id": "v18138",
+      "ytId": "1fRYjyfin3I",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260712 LE SSERAFIM (르세라핌) PUREFLOW - 'BOOMPALA' CHAEWON Focus 김채원 직캠",
+      "channel": "Bloom x Rewind",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
