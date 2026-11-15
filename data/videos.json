@@ -20105,6 +20105,70 @@
         "g7s7"
       ],
       "note": ""
+    },
+    {
+      "id": "e1329",
+      "groupId": "g1",
+      "date": "2024-07-07",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 홍콩",
+      "label": "",
+      "setlist": [
+        "g1s1",
+        "g1s4",
+        "g1s3",
+        "g1s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1330",
+      "groupId": "g1",
+      "date": "2024-07-13",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 마닐라",
+      "label": "",
+      "setlist": [
+        "g1s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1331",
+      "groupId": "g1",
+      "date": "2024-07-21",
+      "show": "SBS 가요대전 SUMMER",
+      "label": "",
+      "setlist": [
+        "g1s9",
+        "g1s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1332",
+      "groupId": "g1",
+      "date": "2024-07-06",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 홍콩",
+      "label": "",
+      "setlist": [
+        "g1s4",
+        "g1s2",
+        "g1s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1333",
+      "groupId": "g1",
+      "date": "2024-07-28",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 시드니",
+      "label": "",
+      "setlist": [
+        "g1s2",
+        "g1s7",
+        "g1s3",
+        "g1s4"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -346594,6 +346658,985 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-04-04"
+    },
+    {
+      "id": "v18127",
+      "ytId": "bkd9GuEfPdA",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240707 아이브 안유진 직캠 'ELEVEN' (IVE YUJIN FanCam) @1st World Tour in HK",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18128",
+      "ytId": "n1BDQfPhAhk",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240707 아이브 가을 직캠 'Kitsch' (IVE GAEUL FanCam) @1st World Tour in HK",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-08"
+    },
+    {
+      "id": "v18129",
+      "ytId": "X3WihEIf__o",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240707 아이브 가을 직캠 _Kitsch_ (IVE GAEUL FanCam) _1st World Tour in HK",
+      "channel": "SWHIT ST",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18130",
+      "ytId": "YbnvxmFal2w",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 아이브 IVE 'After LIKE' GAEUL FANCAM@IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' IN HONG KONG 240707",
+      "channel": "Meowchae",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18131",
+      "ytId": "iLCAtrNMd0M",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 아이브 IVE 'ELEVEN' GAEUL FANCAM @ IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' IN HONG KONG 240707",
+      "channel": "Meowchae",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18132",
+      "ytId": "kBmCzu_yGGw",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 아이브 IVE 'Off The Record' GAEUL FANCAM@IVE 1ST WORLD TOUR 'SHOW WHAT I HAVE' IN HONG KONG 240707",
+      "channel": "Meowchae",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18133",
+      "ytId": "FuU962JCv8M",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240713 아이브 안유진 직캠 'HEYA' (IVE YUJIN FanCam) @1st World Tour in MANILA",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18134",
+      "ytId": "Cyhp2VDy8Gw",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240721 아이브 장원영 직캠 (IVE WONYOUNG fancam) '해야(HEYA)' @가요대전 SUMMER #アイヴ",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-22"
+    },
+    {
+      "id": "v18135",
+      "ytId": "Np2UIzgZ530",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240721 아이브 이서 직캠 (IVE LEESEO fancam) '해야(HEYA)' @가요대전 SUMMER #アイヴ",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-22"
+    },
+    {
+      "id": "v18136",
+      "ytId": "Ci3EUALrDLY",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240721 SUMMER 가요대전 '해야(HEYA)' IVE 아이브 LEESEO 이서 직캠",
+      "channel": "SILKY.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-22"
+    },
+    {
+      "id": "v18137",
+      "ytId": "_q2U13wcjYo",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240721 SBS 가요대전 SUMMER 'HEYA' IVE JANGWONYOUNG 아이브 장원영 직캠 (4k)",
+      "channel": "want",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-24"
+    },
+    {
+      "id": "v18138",
+      "ytId": "nWvG7BFmAxY",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240721 아이브 안유진 직캠 (IVE YUJIN fancam) '해야(HEYA)' @가요대전 SUMMER #アイヴ",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-22"
+    },
+    {
+      "id": "v18139",
+      "ytId": "FPRrs95or8k",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240721 SBS 가요대전 IVE \"해야(HEYA)\" IVE REI 아이브 레이 focus cam",
+      "channel": "lux",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-23"
+    },
+    {
+      "id": "v18140",
+      "ytId": "u-gFclHSl0w",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240721 IVE 아이브 안유진 - Accendio 4K Focus SBS 가요대전 SUMMER",
+      "channel": "901Percent_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-23"
+    },
+    {
+      "id": "v18141",
+      "ytId": "xFjpsiZDpNM",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "240721 아이브 안유진 'HEYA' 세로 직캠 (IVE AN YUJIN Vertical FanCam) @SBS GAYO SUMMER",
+      "channel": "focus on you",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-26"
+    },
+    {
+      "id": "v18142",
+      "ytId": "RgFCNKS7bQ4",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240721 IVE 아이브 안유진 - Accendio 4K Focus SBS 가요대전 SUMMER",
+      "channel": "SWHIT ST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-27"
+    },
+    {
+      "id": "v18143",
+      "ytId": "-r_mIeC03wo",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240721 SBS 가요대전 IVE \"해야(HEYA)\" IVE REI 아이브 레이 Fan cam",
+      "channel": "Pichoni",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-24"
+    },
+    {
+      "id": "v18144",
+      "ytId": "_IEk1Vo6DxE",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240721 SBS 가요대전 IVE \"Accendio)\" IVE REI 아이브 레이 Fan cam",
+      "channel": "Pichoni",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-26"
+    },
+    {
+      "id": "v18145",
+      "ytId": "hDkQVhJd3Js",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240721 아이브 레이 'Accendio' 직캠 (IVE REI FanCam) | @2024 SBS 가요대전 SUMMER",
+      "channel": "김레몬",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-25"
+    },
+    {
+      "id": "v18146",
+      "ytId": "ZmumDOg_HtA",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240721 가요대전 썸머 아이브 리즈 해야 직캠",
+      "channel": "냥냥이🐱",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-24"
+    },
+    {
+      "id": "v18147",
+      "ytId": "ZNsqsF6ojNk",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240706 아이브 이서 'Kitsch' (IVE LEESEO Fancam) 직캠 @'Show What I Have World Tour' Hong Kong",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-10"
+    },
+    {
+      "id": "v18148",
+      "ytId": "craXyogfNP4",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240706 아이브 장원영 'Kitsch' (IVE JANG WONYOUNG Fancam) 직캠 @'Show What I Have World Tour' Hong Kong",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-25"
+    },
+    {
+      "id": "v18149",
+      "ytId": "GdjFc0KODPg",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240706 아이브 안유진 'Kitsch' (IVE AN YUJIN Fancam) 직캠 @'Show What I Have World Tour' Hong Kong",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-25"
+    },
+    {
+      "id": "v18150",
+      "ytId": "FH6Tqxnthts",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240706 아이브 안유진 직캠 (IVE YUJIN fancam) 'LOVE DIVE' @World Tour in HONG KONG #アイヴ",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18151",
+      "ytId": "yvV6_DWrpRU",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]IVE 아이브 'Love Dive' 리즈 LIZ FOCUS 240706 SHOW WHAT I HAVE IN HONG KONG (S24Ultra fancam)",
+      "channel": "초초",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18152",
+      "ytId": "d8CCMLZvXmA",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K】240706 IVE \"Off The Record\" LIZ Fancam @ SHOW WHAT I HAVE in HONG KONG Day 1",
+      "channel": "arpor Record阿婆追星記錄",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18153",
+      "ytId": "wTKwhdD6CEc",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240707 아이브 IVE - LOVE DIVE (AN YUJIN Fancam 안유진 직캠) | “SHOW WHAT I HAVE” in Hong Kong",
+      "channel": "kpopmomoma桃媽",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-08"
+    },
+    {
+      "id": "v18154",
+      "ytId": "dIPbUb075I8",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240707 아이브 IVE - Kitsch (AN YUJIN Fancam 안유진 직캠) | “SHOW WHAT I HAVE” in Hong Kong",
+      "channel": "kpopmomoma桃媽",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-08"
+    },
+    {
+      "id": "v18155",
+      "ytId": "mVEcn-YfV04",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240707 아이브 IVE - I AM (AN YUJIN Fancam 안유진 직캠) | “SHOW WHAT I HAVE” in Hong Kong",
+      "channel": "kpopmomoma桃媽",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18156",
+      "ytId": "cQJuzHbylmg",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240707 아이브 안유진 직캠 (IVE YUJIN fancam) 'I AM' @World Tour in HONG KONG #アイヴ",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18157",
+      "ytId": "ASvOPMM3td4",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240707 아이브 안유진 직캠 (IVE YUJIN fancam) 'Kitsch' @World Tour in HONG KONG #アイヴ",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-10"
+    },
+    {
+      "id": "v18158",
+      "ytId": "vD_MsCIx_jk",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240707 HONGKONG ‘Accendio’ IVE ANYUJIN 아이브 안유진 focus cam",
+      "channel": "Beacoup",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-08"
+    },
+    {
+      "id": "v18159",
+      "ytId": "A72Qtj3lq_I",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[240713] IVE SHOW WHAT I HAVE in MANILA | I AM - Gaeul Fancam 4K",
+      "channel": "GrantSor",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-17"
+    },
+    {
+      "id": "v18160",
+      "ytId": "Xh2z7zXdd_s",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240713 IVE (아이브) JANG WONYOUNG (장원영) - KITSCH 직캠 (FanCam) @ Show What I Have in Manila",
+      "channel": "smelly_p",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-14"
+    },
+    {
+      "id": "v18161",
+      "ytId": "plspGPuvRnQ",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[240713] IVE ELEVEN - Gaeul Fancam 4K | IVE SHOW WHAT I HAVE in MANILA",
+      "channel": "GrantSor",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-19"
+    },
+    {
+      "id": "v18162",
+      "ytId": "SyWLOBsj8z0",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[240713] IVE OFF THE RECORD - Gaeul Fancam 4K | IVE SHOW WHAT I HAVE in MANILA",
+      "channel": "GrantSor",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-22"
+    },
+    {
+      "id": "v18163",
+      "ytId": "NLtqUCXacfE",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240713 IVE (아이브) JANG WONYOUNG (장원영) - LOVE DIVE 직캠 (FanCam) @ Show What I Have in Manila",
+      "channel": "smelly_p",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-14"
+    },
+    {
+      "id": "v18164",
+      "ytId": "3d6-l42-HRk",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "【240721】 IVE REI HEYA FANCAM by 七次扑空",
+      "channel": "七次扑空",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-22"
+    },
+    {
+      "id": "v18165",
+      "ytId": "wPUQI5c24P8",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240721 아이브 리즈 직캠 ‘Accendio’ (IVE LIZ Fancam) | @SBS GayoDaejeon",
+      "channel": "HoW.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-06"
+    },
+    {
+      "id": "v18166",
+      "ytId": "pEUk-CtleJE",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240728 아이브 이서 직캠 (IVE LEESEO fancam) 'LOVE DIVE' @WORLD TOUR IN SYDNEY #アイヴ",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-31"
+    },
+    {
+      "id": "v18167",
+      "ytId": "01ttuotQYDY",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240728 Sydney ‘Off the record’ IVE ANYUJIN 아이브 안유진 focus cam",
+      "channel": "Beacoup",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-30"
+    },
+    {
+      "id": "v18168",
+      "ytId": "iJO52_YOTo8",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240728 'After Like'- IVE AN YUJIN -SHOW WHAT I HAVE IN SYDNEY 2024",
+      "channel": "Doggie",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-14"
+    },
+    {
+      "id": "v18169",
+      "ytId": "p4CL2_ohJL4",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240728 아이브 안유진 직캠 (IVE YUJIN fancam) 'Kitsch' @WORLD TOUR IN SYDNEY #アイヴ",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-31"
     }
   ],
   "clips": []
