@@ -114,3 +114,4 @@ node scripts/archive.mjs validate
 | g1 | 2024-01 | 16 (하나 드림콘서트 11, 방콕 5, 공연 2) | 보류: open-questions §8 |
 | g1 | 2024-02 | 7 (쿠알라룸푸르 3, 싱가포르 4, 공연 2) | 보류: open-questions §8 |
 | g1 | 2024-03 | 166 (타이베이 21, MAGAZINE IVE 팬미팅 115, 북미 투어 30, 공연 9) | 보류: open-questions §8 |
+| g1 | 2024-04 | 0 | 무대 영상 없음 (open-questions §8) |
