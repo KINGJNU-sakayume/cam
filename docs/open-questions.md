@@ -228,3 +228,7 @@
 ### 르세라핌 2026-01
 - 자동 '확실' 7개 중 12월 가요대전·가요대제전 3개는 4분기 PR(#67)에 이미 있어 제외, 골든디스크 'Intro + SPAGHETTI + HOT' 묶음(`a1CTkZnWk7o`)은 보류. 자동 3개와 직접 고른 9개(골든디스크 2, 앙코르 서울 01-31 7)를 담음.
 - 보류: 앙코르 서울 풀 분할본(enustiK 등)·멤버 없는 직캠·묶음('UNFORGIVEN+ANTIFRAGILE', 'HOT+Come Over', 'Impurities & The Great Mermaid'), 01-31~02-01 날짜가 겹친 채원 HOT(`ig-4SmWnilo`), 골든디스크 윤진 '비처럼 음악처럼'(커버)·멤버 없는 직캠·풀캠(`B23bbUxWlU0`), 카운트다운 재팬 공식 스테이지캠(날짜 불명). 02-01 앙코르 서울 2일차는 2월에서 처리.
+
+### 르세라핌 2026-02
+- 앙코르 서울(01-31·02-01) 자동 '확실' 29개 중 16개를 담음(02-01은 직접 고른 3개 추가). 13개 보류: 여러 곡 묶음(`cnOSHaiitQE`·`oGudw7B_jKo`·`Z2F-YZEGm78`·`QMEOaV1KeNs`·`ePZclemOnsQ`·`MuzdEts7STI`·`zO_nlSnxANQ`·`jRBthfDWYjs`·`E7vc3UDIFE4`), 행사명이 '2025'로 읽힌 1부 풀버전(`j-JjpDsundA`), 날짜 01-31/02-01이 겹친 채원 HOT(`ig-4SmWnilo`), 곡 판별이 애매한 `9XUtfXLDeLA`·`dVncfwBhYGM`. 다수 영상이 '이 공연 setlist에 없어요' 경고였으나 제목이 분명해 담음(앙코르 공연이라 세트 구성이 투어와 다름, 공연 setlist 보정 필요 여부는 확인 바람).
+- 보류: Kawaii·The Great Mermaid·Impurities·Pearlies 단독 직캠 등 미등록 곡, 'SPAGHETTI+DANCE BREAK'·'HOT+Come Over' 묶음, 멤버 없는 전체무대·풀 분할본, 곡 목록 확인이 필요한 So Cynical(채원 `W6ZdqKZtLNk`).
