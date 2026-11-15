@@ -20336,6 +20336,64 @@
         "g1s10"
       ],
       "note": ""
+    },
+    {
+      "id": "e1346",
+      "groupId": "g1",
+      "date": "2024-06-04",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 파리",
+      "label": "",
+      "setlist": [
+        "g1s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1347",
+      "groupId": "g1",
+      "date": "2024-06-07",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 바르셀로나",
+      "label": "",
+      "setlist": [
+        "g1s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1348",
+      "groupId": "g1",
+      "date": "2024-06-16",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 런던",
+      "label": "",
+      "setlist": [
+        "g1s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1349",
+      "groupId": "g1",
+      "date": "2024-06-10",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 베를린",
+      "label": "",
+      "setlist": [
+        "g1s4",
+        "g1s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1350",
+      "groupId": "g1",
+      "date": "2024-06-30",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 산티아고",
+      "label": "",
+      "setlist": [
+        "g1s5",
+        "g1s4",
+        "g1s2"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -353610,6 +353668,244 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-12-15"
+    },
+    {
+      "id": "v18426",
+      "ytId": "k7mzAjPveiM",
+      "eventId": "e1346",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240604 아이브 안유진 직캠 'I AM' (IVE YUJIN FanCam) @1st World Tour in Paris",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18427",
+      "ytId": "MiEB8IjKAUo",
+      "eventId": "e1347",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240607 아이브 안유진 직캠 'LOVE DIVE' (IVE YUJIN FanCam) @1st World Tour in Barcelona",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-10"
+    },
+    {
+      "id": "v18428",
+      "ytId": "EVHPsVa7KSs",
+      "eventId": "e1348",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240616 아이브 장원영 직캠 (IVE WONYOUNG fancam) - 'I AM' @1ST WORLD TOUR in LONDON",
+      "channel": "Annika",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18429",
+      "ytId": "7ErQAijSTtA",
+      "eventId": "e1349",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240610 Kitsch ( An Yujin ) IVE Show What I Have in Berlin",
+      "channel": "Bee Anne",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18430",
+      "ytId": "8O_kZmaclKM",
+      "eventId": "e1349",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240610 아이브 레이 직캠 (IVE REI fancam) _LOVE DIVE_ _World Tour in Berlin",
+      "channel": "SWHIT ST",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18431",
+      "ytId": "QBpy7gKI568",
+      "eventId": "e1349",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240610 아이브 안유진 직캠 (IVE YUJIN fancam) _Kitsch_ _World Tour in Berlin",
+      "channel": "SWHIT ST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-12"
+    },
+    {
+      "id": "v18432",
+      "ytId": "7wBttQdAPNg",
+      "eventId": "e1349",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240610 아이브 안유진 직캠 (IVE YUJIN fancam)_Kitsch__World Tour in Berlin",
+      "channel": "ISA 아이사 CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-09"
+    },
+    {
+      "id": "v18433",
+      "ytId": "7OmYkfUiBTE",
+      "eventId": "e1350",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240630 아이브 안유진 직캠 'I AM' (IVE YUJIN FanCam) @SHOW WHAT I HAVE In Chile",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-01"
+    },
+    {
+      "id": "v18434",
+      "ytId": "qWhm7Jx7U0A",
+      "eventId": "e1350",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240630 아이브 안유진 직캠 'Kitsch' (IVE YUJIN FanCam) @SHOW WHAT I HAVE In Chile",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-01"
+    },
+    {
+      "id": "v18435",
+      "ytId": "CtKO4-l9Hpo",
+      "eventId": "e1350",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240630 IVE - SHOW WHAT I HAVE In Chile | Kitsch - Yujin Focus",
+      "channel": "Miukki",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-12"
+    },
+    {
+      "id": "v18436",
+      "ytId": "s7XViT8M9VI",
+      "eventId": "e1350",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240630 IVE - SHOW WHAT I HAVE In Chile | LOVE DIVE - Yujin Focus",
+      "channel": "Miukki",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-12"
     }
   ],
   "clips": []

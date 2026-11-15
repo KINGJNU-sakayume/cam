@@ -116,3 +116,4 @@ node scripts/archive.mjs validate
 | g1 | 2024-03 | 166 (타이베이 21, MAGAZINE IVE 팬미팅 115, 북미 투어 30, 공연 9) | 보류: open-questions §8 |
 | g1 | 2024-04 | 0 | 무대 영상 없음 (open-questions §8) |
 | g1 | 2024-05 | 110 (활동 방송 직캠, 인천대·한국체육대·연세대 축제) | 보류: open-questions §8 (직캠100 등) |
+| g1 | 2024-06 | 11 (투어 파리·바르셀로나·런던·베를린·산티아고) | 보류: open-questions §8 |
