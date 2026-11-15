@@ -251,3 +251,7 @@
 ### 르세라핌 2026-07
 - 자동 '확실' 0개. PUREFLOW 인천(07-11·07-12) 직캠 중 멤버·등록된 곡 하나·날짜가 제목에 있는 12개만 직접 골라 담음.
 - 보류: 미등록 신곡(Irony·iffy iffy·Blue Flame·Saki·No Celestial·Creatures·Fire in the belly·Trust Exercise)을 담은 직캠 다수, 여러 곡 묶음(K-PLANET 'CRAZY + SPAGHETTI' 등), 멤버 없는 직캠·전체무대·단체직캠, 날짜가 07-11·12 둘로 적힌 영상(`q63Ks2VgqhY`, `KtfNWtmgnOg`), 공식 Stage Cam(`fsYCvJYQSr8`·`ox9Bw-lmn6s`, 멤버 없음). 새 곡이 많아 곡 목록에 한꺼번에 추가할지 정해 주세요.
+
+### 르세라핌 2026-08
+- 자동 '확실' 0개. 2026 K-WORLD DREAM AWARDS(08-27) 13개와 SUMMER SONIC 2026(08-16 도쿄) 사쿠라 2개를 직접 골라 담음(멤버·등록 곡 하나·날짜가 제목에 있는 것만).
+- 보류: PUREFLOW 요코하마 D3(08-02) 직캠(coldnadong, 멤버 없음)·미야기 앙코르(`gUE1kA8zPgs`, 멤버 없음), 'BOOMPALA+SPAGHETTI' 묶음(K-PLANET 등), 수상 소감·상 영상, 제목에 날짜가 없는 사쿠라 KWDA 2개(`PlYlTTas93A`·`ufr7Pddwri0`), 08-14 SUMMER SONIC 오사카(`OtC5SVQPtr0`)·채원 08-16(`DxwFW0WdhdQ`)처럼 곡·날짜가 불분명한 영상, 'Saki'·'Irony' 등 미등록 곡, 260809 행사 불명 은채 SMART 2개(`7FjY0jhXREM`·`0AIEA38oQXA`).

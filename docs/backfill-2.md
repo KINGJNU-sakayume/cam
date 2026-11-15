@@ -107,3 +107,4 @@ node scripts/archive.mjs validate
 | g11 | 2026-05 | 93 (음악중심 3일·인기가요·뮤직뱅크·엠카운트다운 방송 + 인천대·숭실대·고려대·경희대 축제 + Spotify PURE FLOWERS LIVE + 엠카운트다운 X 메가콘서트, 공연 14) | open-questions §8 (검색 실패 0) |
 | g11 | 2026-06 | 44 (엠카운트다운 06-11 7 + 서울가요대상 16 + 위버스콘 페스티벌 2026 15 + iHeartRadio 2 + 메가콘서트 3 + 경희대 1, 공연 3·새 공연 4) | open-questions §8 (검색 실패 0) |
 | g11 | 2026-07 | 12 (PUREFLOW 인천 07-11 7 + 07-12 5, 공연 2) | open-questions §8 (검색 실패 0) |
+| g11 | 2026-08 | 15 (K-WORLD DREAM AWARDS 13 + SUMMER SONIC 2026 2, 공연 2) | open-questions §8 (검색 실패 0) |
