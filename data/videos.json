@@ -20169,6 +20169,88 @@
         "g1s4"
       ],
       "note": ""
+    },
+    {
+      "id": "e1334",
+      "groupId": "g1",
+      "date": "2024-08-10",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 앙코르 서울",
+      "label": "",
+      "setlist": [
+        "g1s7",
+        "g1s9",
+        "g1s56",
+        "g1s1",
+        "g1s10",
+        "g1s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1335",
+      "groupId": "g1",
+      "date": "2024-08-24",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 자카르타",
+      "label": "",
+      "setlist": [
+        "g1s8",
+        "g1s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1336",
+      "groupId": "g1",
+      "date": "2024-08-03",
+      "show": "Lollapalooza Chicago 2024",
+      "label": "",
+      "setlist": [
+        "g1s5",
+        "g1s4",
+        "g1s9",
+        "g1s3",
+        "g1s8",
+        "g1s7",
+        "g1s1",
+        "g1s2",
+        "g1s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1337",
+      "groupId": "g1",
+      "date": "2024-08-11",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 앙코르 서울",
+      "label": "",
+      "setlist": [
+        "g1s1",
+        "g1s5",
+        "g1s7",
+        "g1s4",
+        "g1s56",
+        "g1s2",
+        "g1s3",
+        "g1s10",
+        "g1s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1338",
+      "groupId": "g1",
+      "date": "2024-08-17",
+      "show": "SUMMER SONIC 2024 오사카",
+      "label": "",
+      "setlist": [
+        "g1s4",
+        "g1s7",
+        "g1s3",
+        "g1s5",
+        "g1s9",
+        "g1s10"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -347637,6 +347719,2341 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-07-31"
+    },
+    {
+      "id": "v18170",
+      "ytId": "_FapIcBkGAg",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240810 아이브 IVE THE 1ST WORLD TOUR- Off The Record 장원영 JANGWONYOUNG Fan Cam",
+      "channel": "Cloud blue",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18171",
+      "ytId": "6VFOqJZUIB8",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 240810 해야(HEYA) 아이브 유진 직캠 YUJIN IVE THE 1ST WORLD TOUR 〈 SHOW WHAT I HAVE – ENCORE 〉",
+      "channel": "N",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18172",
+      "ytId": "U-WPguM4Fjk",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 240810 Off The Record 아이브 유진 직캠 YUJIN IVE THE 1ST WORLD TOUR 〈 SHOW WHAT I HAVE – ENCORE 〉",
+      "channel": "N",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18173",
+      "ytId": "43qLHxI4F4o",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 240810 Holy Moly 아이브 유진 직캠 YUJIN IVE THE 1ST WORLD TOUR 〈 SHOW WHAT I HAVE – ENCORE 〉",
+      "channel": "N",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18174",
+      "ytId": "gO7exqe1QyU",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240810 아이브 (IVE) - 일레븐 (ELEVEN) 안유진 직캠 | IVE THE 1ST WORLD TOUR ‘SHOW WHAT I HAVE’－ENCORE |",
+      "channel": "Jelly Cam09",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18175",
+      "ytId": "XQgCYWgiyFI",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 240810 ACCENDIO 아센디오 아이브 유진 직캠 YUJIN IVE THE 1ST WORLD TOUR 〈 SHOW WHAT I HAVE – ENCORE 〉",
+      "channel": "N",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-22"
+    },
+    {
+      "id": "v18176",
+      "ytId": "xkNE5rFs3v4",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 240810 I AM 아이브 유진 직캠 YUJIN IVE THE 1ST WORLD TOUR 〈 SHOW WHAT I HAVE – ENCORE 〉",
+      "channel": "N",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-21"
+    },
+    {
+      "id": "v18177",
+      "ytId": "bWdlt9xO968",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240810 아이브 레이 'I AM' 직캠 (IVE REI FanCam) | @IVE THE 1ST WORLD TOUR ‘SHOW WHAT I HAVE‘ – ENCORE",
+      "channel": "김레몬",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-10"
+    },
+    {
+      "id": "v18178",
+      "ytId": "_uW3KMv6wCU",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240810 아이브 (IVE) 1ST WORLD TOUR 'ENCORE' - 'Off The Record' 리즈 직캠 (LIZ Fancam)",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-11"
+    },
+    {
+      "id": "v18179",
+      "ytId": "pKo69oT4HD8",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240824 IVE Yujin - Baddie @ IVE THE 1ST WORLD TOUR \"SHOW WHAT I HAVE\" in Jakarta",
+      "channel": "RDFRMD",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-09-02"
+    },
+    {
+      "id": "v18180",
+      "ytId": "IJ5ljH5mdKA",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240824 아이브 안유진 직캠 (IVE YUJIN fancam) 'Accendio' @1st World Tour 'SHOW WHAT I HAVE' in Jakarta #アイヴ",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-27"
+    },
+    {
+      "id": "v18181",
+      "ytId": "RSBBwp-vD8I",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240803 아이브 안유진 직캠 'I AM' (IVE YUJIN FanCam) @Lollapalooza Music Festival Chicago",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-06"
+    },
+    {
+      "id": "v18182",
+      "ytId": "FMXXM7tArS0",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240803 아이브 안유진 직캠 “KITSCH” IVE @ Lollapalooza 2024 (An Yujin Focus Fancam)",
+      "channel": "Dean Lee Cooper",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-07"
+    },
+    {
+      "id": "v18183",
+      "ytId": "ZEb6w3wiUuY",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240803 아이브 안유진 직캠 “HEYA” IVE @ Lollapalooza 2024 (An Yujin Focus Fancam)",
+      "channel": "Dean Lee Cooper",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-08"
+    },
+    {
+      "id": "v18184",
+      "ytId": "xnkBjN17n0U",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240803 아이브 안유진 직캠 “AFTER LIKE” IVE @ Lollapalooza 2024 (An Yujin Focus Fancam Re-Uploaded)",
+      "channel": "Dean Lee Cooper",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-13"
+    },
+    {
+      "id": "v18185",
+      "ytId": "033ODOZ4yKo",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240803 아이브 안유진 직캠 “BADDIE” IVE @ Lollapalooza 2024 (An Yujin Focus Fancam)",
+      "channel": "Dean Lee Cooper",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18186",
+      "ytId": "PQRxwQ_4CRU",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240803 아이브 장원영 직캠 'After LIKE' (IVE WONYOUNG FanCam) @Lollapalooza Music Festival Chicago",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18187",
+      "ytId": "9rMmBYxSzUE",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240803 아이브 안유진 직캠 “OFF THE RECORD” IVE @ Lollapalooza 2024 (An Yujin Focus Fancam)",
+      "channel": "Dean Lee Cooper",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18188",
+      "ytId": "C7-12pldWrI",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240803 아이브 안유진 직캠 “AFTER LIKE” IVE @ Lollapalooza 2024 (An Yujin Focus Fancam)",
+      "channel": "Dean Lee Cooper",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-10"
+    },
+    {
+      "id": "v18189",
+      "ytId": "oo1cmoXwEb0",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240803 아이브 안유진 직캠 “ELEVEN” IVE @ Lollapalooza 2024 (An Yujin Focus Fancam)",
+      "channel": "Dean Lee Cooper",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18190",
+      "ytId": "SEqBitS_T9E",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240803 아이브 안유진 직캠 “LOVE DIVE” IVE @ Lollapalooza 2024 (An Yujin Focus Fancam)",
+      "channel": "Dean Lee Cooper",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18191",
+      "ytId": "tC_PAJG08PA",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240803 아이브 안유진 직캠 “LOVE DIVE” IVE @ Lollapalooza 2024 (An Yujin Focus Fancam Reupload)",
+      "channel": "Dean Lee Cooper",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-15"
+    },
+    {
+      "id": "v18192",
+      "ytId": "NlZ5riVeqoY",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240803 아이브 안유진 직캠 “ACCENDIO” IVE @ Lollapalooza 2024 (An Yujin Focus Fancam)",
+      "channel": "Dean Lee Cooper",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18193",
+      "ytId": "56ecM6Ltzbw",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240803 아이브 안유진 직캠 “I AM” IVE @ Lollapalooza 2024 (An Yujin Focus Fancam)",
+      "channel": "Dean Lee Cooper",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18194",
+      "ytId": "vjJqvUII4XQ",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240803 아이브 안유진 직캠 “KITSCH” IVE @ Lollapalooza 2024 (An Yujin Focus Fancam)",
+      "channel": "Dean Lee Cooper",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-12"
+    },
+    {
+      "id": "v18195",
+      "ytId": "oeoQrzKgTpQ",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240803 아이브 안유진 직캠 “I AM” IVE @ Lollapalooza 2024 (An Yujin Focus Fancam)",
+      "channel": "Dean Lee Cooper",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-29"
+    },
+    {
+      "id": "v18196",
+      "ytId": "peayQRneKEk",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240803 아이브 안유진 직캠 “I AM” IVE @ Lollapalooza 2024 (An Yujin Focus Fancam)",
+      "channel": "Dean Lee Cooper",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-28"
+    },
+    {
+      "id": "v18197",
+      "ytId": "cZddtT1lmzU",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240810 아이브 안유진 'I AM' 콘서트 IVE《SHOW WHAT I HAVE – ENCORE》ANYUJIN 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18198",
+      "ytId": "Pil-ualitkw",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K CAM] 240810 아이브 앵콜 콘서트 이서 IVE LEESEO 'Off The Record' 직캠",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18199",
+      "ytId": "rtcCGZqIl2c",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240810 아이브 안유진 '해야 (HEYA)' 콘서트 IVE《SHOW WHAT I HAVE – ENCORE》ANYUJIN 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18200",
+      "ytId": "RRqRLz8WL3M",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240810 아이브 안유진 'Off The Record' 콘서트 IVE《SHOW WHAT I HAVE – ENCORE》ANYUJIN 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18201",
+      "ytId": "1hSk5jllfQw",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240810 아이브 안유진 'AFTER LIKE' 콘서트 IVE《SHOW WHAT I HAVE – ENCORE》ANYUJIN 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18202",
+      "ytId": "4pNzz4nKpRk",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K CAM] 240810 아이브 앵콜 콘서트 안유진 IVE AN YUJIN 'I AM' 직캠",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18203",
+      "ytId": "FRe0FZPzHoo",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 'Accendio' 직캠 240810@ive 앵콜 콘서트",
+      "channel": "TopSeed",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18204",
+      "ytId": "XKJwzvCaJu8",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240810 아이브 장원영 Off The Record 직캠 fancam",
+      "channel": "cr",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18205",
+      "ytId": "dHH2IXtj0DY",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240810 아이브 안유진 'Holy Moly' 콘서트 IVE《SHOW WHAT I HAVE – ENCORE》ANYUJIN 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18206",
+      "ytId": "y-W8xeO7fMk",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K CAM] 240810 아이브 앵콜 콘서트 안유진 IVE AN YUJIN '해야 (HEYA)' 직캠",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18207",
+      "ytId": "jnSAlL7CR_4",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240810 아이브 안유진 'LOVE DIVE' 콘서트 IVE《SHOW WHAT I HAVE – ENCORE》ANYUJIN 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-01"
+    },
+    {
+      "id": "v18208",
+      "ytId": "kBtvPIvxl1o",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240810 아이브 IVE SHOW WHAT I HAVE – ENCORE 레이 HOLY MOLY 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-11"
+    },
+    {
+      "id": "v18209",
+      "ytId": "AEvJsIP8YC4",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240810 아이브 IVE SHOW WHAT I HAVE – ENCORE 레이 Accendio 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-12"
+    },
+    {
+      "id": "v18210",
+      "ytId": "NAEUFadURwY",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 'ELEVEN' 직캠 240810@ive 앵콜 콘서트",
+      "channel": "TopSeed",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-11"
+    },
+    {
+      "id": "v18211",
+      "ytId": "FLXZyy7va5Y",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240810 IVE 아이브 JANGWONYOUNG 장원영 fancam 직캠 I AM @ SHOW WHAT I HAVE - ENCORE",
+      "channel": "솜",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-20"
+    },
+    {
+      "id": "v18212",
+      "ytId": "-qQYkTnuBBg",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 '해야' 직캠 240810@ive 앵콜 콘서트",
+      "channel": "TopSeed",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-11"
+    },
+    {
+      "id": "v18213",
+      "ytId": "ORjSUbvUOrw",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K CAM] 240810 아이브 앵콜 콘서트 이서 IVE LEESEO 'After LIKE' 직캠",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-11"
+    },
+    {
+      "id": "v18214",
+      "ytId": "L_k4ZfWlfhA",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 240811 아이브 안유진 IVE YUJIN - ELEVEN 직캠 @SHOW WHAT I HAVE in Seoul Encore",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-12"
+    },
+    {
+      "id": "v18215",
+      "ytId": "FsKtX3nq7gA",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240811 아이브 레이 'I AM' (IVE REI) [4k 60p 직캠] @SHOW WHAT I HAVE",
+      "channel": "SST CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18216",
+      "ytId": "8Lopxx22Rik",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 장원영 - 'I AM' 직캠 IVE Wonyoung FANCAM @WORLD TOUR SHOW WHAT I HAVE - ENCORE",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-14"
+    },
+    {
+      "id": "v18217",
+      "ytId": "r8czGVMCHuE",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 이서 직캠 'ELEVEN' IVE LEESEO｜SHOW WHAT I HAVE ENCORE 240811",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-14"
+    },
+    {
+      "id": "v18218",
+      "ytId": "y688JAs7fTM",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 240811 아이브 가을 IVE GAEUL - Off The Record 직캠 @SHOW WHAT I HAVE in Seoul Encore",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-12"
+    },
+    {
+      "id": "v18219",
+      "ytId": "e3henusnwJc",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 240811 아이브 안유진 IVE YUJIN  - Kitsch 직캠 @SHOW WHAT I HAVE in Seoul Encore",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-12"
+    },
+    {
+      "id": "v18220",
+      "ytId": "IF_WAZUx8u0",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240811 IVE 아이브 JANGWONYOUNG 장원영 fancam 직캠 Kitsch @ SHOW WHAT I HAVE - ENCORE",
+      "channel": "솜",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18221",
+      "ytId": "iV-I0vImvq4",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 240811 아이브 이서 IVE LEESEO - I AM 직캠 @SHOW WHAT I HAVE in Seoul Encore",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-11"
+    },
+    {
+      "id": "v18222",
+      "ytId": "L3K7AQqtUcU",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 안유진 직캠 'Kitsch' IVE YUJIN｜SHOW WHAT I HAVE ENCORE 240811",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-12"
+    },
+    {
+      "id": "v18223",
+      "ytId": "yAJ4woBXtwI",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 ( IVE ) 이서 - Off The Record [ SHOW WHAT I HAVE ENCORE ] 직캠",
+      "channel": "SinC",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18224",
+      "ytId": "ttGAmpXKS70",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 장원영 - 'Holy Moly' 직캠 IVE Wonyoung FANCAM @WORLD TOUR SHOW WHAT I HAVE - ENCORE",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-15"
+    },
+    {
+      "id": "v18225",
+      "ytId": "-n-SjCxc9sE",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 IVE 아이브 SHOW WHAT I HAVE ENCORE 'Off The Record' 오프더레코드 장원영 JANGWONYOUNG 직캠",
+      "channel": "cuddly",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-28"
+    },
+    {
+      "id": "v18226",
+      "ytId": "k1DQwGddj3s",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 ( IVE ) 안유진 - Kitsch [ SHOW WHAT I HAVE ENCORE ] 직캠",
+      "channel": "SinC",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-12"
+    },
+    {
+      "id": "v18227",
+      "ytId": "JHuPxwvlqSs",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 240811 아이브 이서 IVE LEESEO  - LOVE DIVE 직캠 @SHOW WHAT I HAVE in Seoul Encore",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18228",
+      "ytId": "yqDEqk5cGVg",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 240811 아이브 안유진 IVE YUJIN - After LIKE 직캠 Fancam @SHOW WHAT I HAVE in Seoul Encore",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-15"
+    },
+    {
+      "id": "v18229",
+      "ytId": "aHWq6rgfqkQ",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 240811 아이브 리즈 IVE LIZ - Holy Moly 직캠 @SHOW WHAT I HAVE in Seoul Encore",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-12"
+    },
+    {
+      "id": "v18230",
+      "ytId": "_jO9eQuWinE",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 장원영 - 'Accendio' 직캠 IVE Wonyoung FANCAM @WORLD TOUR SHOW WHAT I HAVE - ENCORE",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18231",
+      "ytId": "VvnUNshzYsg",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 직캠 'Accendio' IVE WONYOUNG｜SHOW WHAT I HAVE ENCORE 240811",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-13"
+    },
+    {
+      "id": "v18232",
+      "ytId": "5XR5YeDxAVI",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 240811 아이브 안유진 IVE YUJIN - HEYA 직캠 @SHOW WHAT I HAVE in Seoul Encore",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-12"
+    },
+    {
+      "id": "v18233",
+      "ytId": "OzcmhagWOFQ",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 안유진 직캠 '해야 HEYA' IVE YUJIN｜SHOW WHAT I HAVE ENCORE 240811",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-11"
+    },
+    {
+      "id": "v18234",
+      "ytId": "a1diqfH2qZY",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 장원영 - 'Love Dive' 직캠 IVE Wonyoung FANCAM @WORLD TOUR SHOW WHAT I HAVE - ENCORE",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-19"
+    },
+    {
+      "id": "v18235",
+      "ytId": "XiqXW8kQoEM",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 장원영 - 'Off The Record' 직캠 IVE Wonyoung FANCAM @WORLD TOUR SHOW WHAT I HAVE - ENCORE",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-16"
+    },
+    {
+      "id": "v18236",
+      "ytId": "ejfnuHIGhAo",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 리즈 직캠 'I AM' (IVE LIZ  FanCam) @SHOW WHAT I HAVE - ENCORE",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-28"
+    },
+    {
+      "id": "v18237",
+      "ytId": "NMDBi2d96DU",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240811 IVE Yujin 이브 안유진 'ELEVEN'",
+      "channel": "Lucky Dream",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-13"
+    },
+    {
+      "id": "v18238",
+      "ytId": "QTdjEws5xIs",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240811 IVE Yujin 이브 안유진 'HEYA'",
+      "channel": "Lucky Dream",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-13"
+    },
+    {
+      "id": "v18239",
+      "ytId": "dnpIYzj_Bv0",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[ZOOM] 240811 IVE-I AM An Yujin Focus  @ENCORE CONCERT〈SHOW WHAT I HAVE〉아이브 안유진 직캠 페이스캠",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-29"
+    },
+    {
+      "id": "v18240",
+      "ytId": "y8H-xUcI1iU",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240811 IVE-Holy Moly An Yujin Focus  @ENCORE CONCERT〈SHOW WHAT I HAVE〉아이브 안유진 직캠",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-14"
+    },
+    {
+      "id": "v18241",
+      "ytId": "QwwAvTk1yJ4",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240811 IVE-해야 HEYA  An Yujin Focus  @ENCORE CONCERT〈SHOW WHAT I HAVE〉아이브 안유진 직캠",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-14"
+    },
+    {
+      "id": "v18242",
+      "ytId": "-k84adZEEp0",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240811 IVE-After LIKE An Yujin Focus  @ENCORE CONCERT〈SHOW WHAT I HAVE〉아이브 안유진 직캠",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-14"
+    },
+    {
+      "id": "v18243",
+      "ytId": "3M0xaqeLe3g",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240811 아이브 레이 'ELEVEN' (IVE REI) [4k 60p 직캠] @SHOW WHAT I HAVE",
+      "channel": "SST CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-12"
+    },
+    {
+      "id": "v18244",
+      "ytId": "5uN1iVI4WMM",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 장원영 - 'Kitsch' 직캠 IVE Wonyoung FANCAM @WORLD TOUR SHOW WHAT I HAVE - ENCORE",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-19"
+    },
+    {
+      "id": "v18245",
+      "ytId": "W476JEK9viA",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 장원영 'ELEVEN' 콘서트 IVE《SHOW WHAT I HAVE – ENCORE》JangWonYoung 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-19"
+    },
+    {
+      "id": "v18246",
+      "ytId": "KoxhTrs6HpA",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 장원영 'Kitsch' 콘서트 IVE《SHOW WHAT I HAVE – ENCORE》JangWonYoung 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-10"
+    },
+    {
+      "id": "v18247",
+      "ytId": "X328U0Li4r8",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 장원영 'LOVE DIVE' 콘서트 IVE《SHOW WHAT I HAVE – ENCORE》JangWonYoung 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-03"
+    },
+    {
+      "id": "v18248",
+      "ytId": "fo0OfJl8n1g",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 장원영 'Off The Record' 콘서트 IVE《SHOW WHAT I HAVE – ENCORE》JangWonYoung 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-09-20"
+    },
+    {
+      "id": "v18249",
+      "ytId": "wNtt9L8Juhg",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 장원영 - 'After Like' 직캠 IVE Wonyoung FANCAM @WORLD TOUR SHOW WHAT I HAVE - ENCORE",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-19"
+    },
+    {
+      "id": "v18250",
+      "ytId": "vByX_JjbJ_M",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 장원영 'I AM' 콘서트 IVE《SHOW WHAT I HAVE – ENCORE》JangWonYoung 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-17"
+    },
+    {
+      "id": "v18251",
+      "ytId": "UqwrQgUFhpw",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240811 IVE 아이브 JANGWONYOUNG 장원영 fancam 직캠 Holy Moly @ SHOW WHAT I HAVE - ENCORE",
+      "channel": "솜",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-23"
+    },
+    {
+      "id": "v18252",
+      "ytId": "kN-ra-3A1vk",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 SHOW WHAT I HAVE – ENCORE 'Off The Record' IVE 아이브 LEESEO 이서 직캠",
+      "channel": "SILKY.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-12"
+    },
+    {
+      "id": "v18253",
+      "ytId": "NagejPp4wb0",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240811 아이브 IVE SHOW WHAT I HAVE – ENCORE 이서 After Like",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-12"
+    },
+    {
+      "id": "v18254",
+      "ytId": "C0E3p0ZKBn8",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240817 KITSCH - 아이브 이서 IVE LEESEO OSAKA SUMMER SONIC 2024 FANCAM",
+      "channel": "Scent.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-21"
+    },
+    {
+      "id": "v18255",
+      "ytId": "op6Qm-34tTY",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240817 아이브 장원영 직캠 'Off The Record' (IVE WONYOUNG FanCam) @SUMMER SONIC 2024 OSAKA",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-21"
+    },
+    {
+      "id": "v18256",
+      "ytId": "mntTuoAl7xM",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240817 IVE - After LIKE An Yujin Focus  @SUMMERSONIC 2024 Day1 아이브 안유진 직캠 썸머소닉 サマソニ 大阪 Osaka [4K]",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-18"
+    },
+    {
+      "id": "v18257",
+      "ytId": "hKhTHQN2zFY",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240817 IVE - I AM  An Yujin Focus  @SUMMERSONIC 2024 Day1 아이브 안유진 직캠 썸머소닉 サマソニ 大阪 Osaka [4K]",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-18"
+    },
+    {
+      "id": "v18258",
+      "ytId": "szip_jczEBk",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240817-HEYA [4K] IVE ANYUJIN 직캠 fancam“Summer Sonic in Osaka”",
+      "channel": "OXY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-20"
+    },
+    {
+      "id": "v18259",
+      "ytId": "hdyLdinbvms",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240817-Accendio [4K] IVE ANYUJIN 직캠 fancam“Summer Sonic in Osaka”",
+      "channel": "OXY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-02"
+    },
+    {
+      "id": "v18260",
+      "ytId": "FCC72FScqEY",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240824 'Love Dive' - IVE AN YUJIN -SHOW WHAT I HAVE IN JAKARTA 2024",
+      "channel": "Doggie",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-11"
+    },
+    {
+      "id": "v18261",
+      "ytId": "5rxEBOjGOJc",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240824 'Baddie'- IVE AN YUJIN -SHOW WHAT I HAVE IN JAKARTA 2024",
+      "channel": "Doggie",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-10"
+    },
+    {
+      "id": "v18262",
+      "ytId": "qzO_fhTsGQA",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240824 'HEYA'' - IVE AN YUJIN -SHOW WHAT I HAVE IN JAKARTA 2024",
+      "channel": "Doggie",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-11"
+    },
+    {
+      "id": "v18263",
+      "ytId": "--zDmTJyMh8",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240824 'Kitsch'- IVE AN YUJIN -SHOW WHAT I HAVE IN JAKARTA 2024",
+      "channel": "Doggie",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-10"
+    },
+    {
+      "id": "v18264",
+      "ytId": "LeIxl8bfg_s",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240824 'After Like'- IVE AN YUJIN -SHOW WHAT I HAVE IN JAKARTA 2024",
+      "channel": "Doggie",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-11"
+    },
+    {
+      "id": "v18265",
+      "ytId": "38zIqoysT3c",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240824 'ELEVEN - IVE AN YUJIN -SHOW WHAT I HAVE IN JAKARTA 2024",
+      "channel": "Doggie",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-08"
+    },
+    {
+      "id": "v18266",
+      "ytId": "b3hs94vwiPA",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240824 'I AM' - IVE AN YUJIN -SHOW WHAT I HAVE IN JAKARTA 2024",
+      "channel": "Doggie",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-08"
+    },
+    {
+      "id": "v18267",
+      "ytId": "3jP8fuO3Cxs",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240824 'Off The Record' - IVE AN YUJIN -SHOW WHAT I HAVE IN JAKARTA 2024",
+      "channel": "Doggie",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-09"
+    },
+    {
+      "id": "v18268",
+      "ytId": "Vf83Tc2KjxE",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P] IVE ‘Baddie’ Yujin Fancam @ SHOW WHAT I HAVE World Tour in Jakarta 240824",
+      "channel": "LeoPisanGG",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-25"
+    },
+    {
+      "id": "v18269",
+      "ytId": "I7uP6teL0nI",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P] IVE 'HEYA' Wonyoung Fancam @ SHOW WHAT I HAVE World Tour in Jakarta 240824",
+      "channel": "LeoPisanGG",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-25"
+    },
+    {
+      "id": "v18270",
+      "ytId": "TXPQRk47myA",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P] IVE 'Off The Record' Gaeul Fancam @ SHOW WHAT I HAVE in Jakarta 240824",
+      "channel": "LeoPisanGG",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-25"
+    },
+    {
+      "id": "v18271",
+      "ytId": "QnjHXmWfKjs",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P] IVE 'After LIKE' Wonyoung Fancam @ SHOW WHAT I HAVE in Jakarta 240824",
+      "channel": "LeoPisanGG",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-25"
+    },
+    {
+      "id": "v18272",
+      "ytId": "Ss25JIpqrlg",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P] IVE ‘Accendio’ Yujin Fancam @ SHOW WHAT I HAVE in Jakarta 240824",
+      "channel": "LeoPisanGG",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-26"
     }
   ],
   "clips": []
