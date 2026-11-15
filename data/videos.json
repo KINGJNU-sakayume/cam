@@ -20156,6 +20156,81 @@
         "g11s14"
       ],
       "note": ""
+    },
+    {
+      "id": "e1333",
+      "groupId": "g11",
+      "date": "2026-09-17",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g11s19"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1334",
+      "groupId": "g11",
+      "date": "2026-09-20",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g11s19"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1335",
+      "groupId": "g11",
+      "date": "2026-09-21",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g11s19"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1336",
+      "groupId": "g11",
+      "date": "2026-09-13",
+      "show": "BlizzCon 2026",
+      "label": "",
+      "setlist": [
+        "g11s19",
+        "g11s3",
+        "g11s8",
+        "g11s14",
+        "g11s18",
+        "g11s2",
+        "g11s16",
+        "g11s17",
+        "g11s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1337",
+      "groupId": "g11",
+      "date": "2026-09-16",
+      "show": "LE SSERAFIM TOUR 'PUREFLOW' 로스앤젤레스",
+      "label": "",
+      "setlist": [
+        "g11s2",
+        "g11s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1338",
+      "groupId": "g11",
+      "date": "2026-09-27",
+      "show": "LE SSERAFIM TOUR 'PUREFLOW' 포트워스",
+      "label": "",
+      "setlist": [
+        "g11s2"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -347269,6 +347344,962 @@
       "channel": "STAY CAM",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v18154",
+      "ytId": "2x69n7cQRQU",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g11s17",
+          "t": 0
+        },
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]260827 K-WORLD DREAM AWARDS 르세라핌 허윤진 HUH YUNJIN ‘BOOMPALA+SPAGHETTI’직캠",
+      "channel": "CARROT",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-31"
+    },
+    {
+      "id": "v18155",
+      "ytId": "8qxQZlSzF5M",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 홍은채 직캠 4K 'Made My Night' (LE SSERAFIM HONG EUNCHAE FanCam) | @MCOUNTDOWN_2026.9.17",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-17"
+    },
+    {
+      "id": "v18156",
+      "ytId": "UY1XxZFnQQk",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 김채원 직캠 4K 'Made My Night' (LE SSERAFIM KIM CHAEWON FanCam) | @MCOUNTDOWN_2026.9.17",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-18"
+    },
+    {
+      "id": "v18157",
+      "ytId": "H8Gu1XYh_BE",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 카즈하 직캠 4K 'Made My Night' (LE SSERAFIM KAZUHA FanCam) | @MCOUNTDOWN_2026.9.17",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-18"
+    },
+    {
+      "id": "v18158",
+      "ytId": "cPNFfjxPI5k",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 김채원 직캠 4K 'Made My Night' (LE SSERAFIM KIM CHAEWON FanCam) | @MCOUNTDOWN_2026.9.17",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-17"
+    },
+    {
+      "id": "v18159",
+      "ytId": "gIdeS1AXXAQ",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 허윤진 직캠 4K 'Made My Night' (LE SSERAFIM HUH YUNJIN FanCam) | @MCOUNTDOWN_2026.9.17",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-17"
+    },
+    {
+      "id": "v18160",
+      "ytId": "YSQ3rJertkg",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 카즈하 직캠 4K 'Made My Night' (LE SSERAFIM KAZUHA FanCam) | @MCOUNTDOWN_2026.9.17",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-17"
+    },
+    {
+      "id": "v18161",
+      "ytId": "MqRc6mvocYw",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 사쿠라 직캠 4K 'Made My Night' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2026.9.17",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-18"
+    },
+    {
+      "id": "v18162",
+      "ytId": "JJGP0Rq3RNQ",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 사쿠라 직캠 4K 'Made My Night' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2026.9.17",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-17"
+    },
+    {
+      "id": "v18163",
+      "ytId": "tqAHg0yq3PQ",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 르세라핌 'Made My Night' (LE SSERAFIM FullCam) @SBS Inkigayo 260920",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-21"
+    },
+    {
+      "id": "v18164",
+      "ytId": "Zh2qPgIXrwA",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 르세라핌 'Made My Night' 단독샷 별도녹화│LE SSERAFIM ONE TAKE STAGE│@SBS Inkigayo 260920",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-21"
+    },
+    {
+      "id": "v18165",
+      "ytId": "jjCfL0F-zZ0",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 카즈하 'Made My Night' (LE SSERAFIM KAZUHA FaceCam) @SBS Inkigayo 260920",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-21"
+    },
+    {
+      "id": "v18166",
+      "ytId": "wKGv-YdcA3g",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 사쿠라 'Made My Night' (LE SSERAFIM SAKURA FanCam) @SBS Inkigayo 260920",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-21"
+    },
+    {
+      "id": "v18167",
+      "ytId": "KZuliTeP5Ew",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 김채원 'Made My Night' (LE SSERAFIM KIM CHAEWON FaceCam) @SBS Inkigayo 260920",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-21"
+    },
+    {
+      "id": "v18168",
+      "ytId": "zpb8BSWmPf4",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 허윤진 'Made My Night' (LE SSERAFIM HUH YUNJIN FanCam) @SBS Inkigayo 260920",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-21"
+    },
+    {
+      "id": "v18169",
+      "ytId": "9SocU3-VgeQ",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 홍은채 'Made My Night' (LE SSERAFIM HONG EUNCHAE FaceCam) @SBS Inkigayo 260920",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-21"
+    },
+    {
+      "id": "v18170",
+      "ytId": "Q17wEVyu-IU",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 사쿠라 'Made My Night' (LE SSERAFIM SAKURA FanCam) @SBS Inkigayo 260920",
+      "channel": "@RealOthani",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18171",
+      "ytId": "s225hVr5NqQ",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] LE SSERAFIM (르세라핌) CHAEWON (채원) - 'Made My Night' @SBS Inkigayo 260921 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-22"
+    },
+    {
+      "id": "v18172",
+      "ytId": "wBWlCeVTa7Q",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] LE SSERAFIM (르세라핌) EUNCHAE (은채) - 'Made My Night' @SBS Inkigayo 260921 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-22"
+    },
+    {
+      "id": "v18173",
+      "ytId": "nPHkf0Es-ko",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] LE SSERAFIM (르세라핌) KAZUHA (카즈하)  - 'Made My Night' @SBS Inkigayo 260921 UNOFFICIAL FANCAM",
+      "channel": "kpop up on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18174",
+      "ytId": "Znbf291qiDw",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM Eunchae Made My Night Fancam | 르세라핌 홍은채 직캠 | BLIZZCON 2026 | 260913",
+      "channel": "CLUCK CLUCK KPOP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-15"
+    },
+    {
+      "id": "v18175",
+      "ytId": "s7CVbTv6jac",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260913 LE SSERAFIM BLIZZCON CHAEWON 「UNFORGIVEN」FANCAM",
+      "channel": "KpopTakes",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-15"
+    },
+    {
+      "id": "v18176",
+      "ytId": "4rLCwG9Op68",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM Chaewon Crazy Fancam | 르세라핌 김채원 직캠 | BLIZZCON 2026 | 260913",
+      "channel": "CLUCK CLUCK KPOP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-15"
+    },
+    {
+      "id": "v18177",
+      "ytId": "ZkAMIuVznfQ",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260913 LE SSERAFIM BLIZZCON CHAEWON 「SPAGHETTI 」 FANCAM",
+      "channel": "KpopTakes",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-15"
+    },
+    {
+      "id": "v18178",
+      "ytId": "HLRJ7VnATf8",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM BlizzCon 2026 Closing Ceremony Chaewon Crazy Fancam 260913",
+      "channel": "Pearin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18179",
+      "ytId": "bHUeT6Rirk4",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260913 LE SSERAFIM BLIZZCON CHAEWON 「ICONIC BY MISTAKE 」 FANCAM",
+      "channel": "KpopTakes",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-15"
+    },
+    {
+      "id": "v18180",
+      "ytId": "1uR-PKNtvqY",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM BlizzCon 2026 Closing Ceremony Chaewon Antifragile Fancam 260913",
+      "channel": "Pearin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18181",
+      "ytId": "YNk-KmLxrN4",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM BlizzCon 2026 Closing Ceremony Chaewon Unforgiven Fancam 260913",
+      "channel": "Pearin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-15"
+    },
+    {
+      "id": "v18182",
+      "ytId": "DaRZ7RtoRVI",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260913 ‘MADE MY NIGHT’ 르세라핌 김채원 직캠 LE SSERAFIM KIM CHAEWON FANCAM @ BLIZZCON",
+      "channel": "Wonder for Chaewon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-16"
+    },
+    {
+      "id": "v18183",
+      "ytId": "PZPL953vdnI",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM BlizzCon 2026 Closing Ceremony Chaewon Celebration Fancam 260913",
+      "channel": "Pearin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18184",
+      "ytId": "42DPlNH2qMQ",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260913 LE SSERAFIM BLIZZCON CHAEWON 「BOOMPALA 」 FANCAM",
+      "channel": "KpopTakes",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18185",
+      "ytId": "FEwvGw1FOJs",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM BlizzCon 2026 Closing Ceremony Chaewon 1 800 hot n fun Fancam 260913",
+      "channel": "Pearin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18186",
+      "ytId": "tGAgZCqv_M4",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260913 LE SSERAFIM BLIZZCON CHAEWON 「CELEBRATION 」 FANCAM",
+      "channel": "KpopTakes",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18187",
+      "ytId": "VhhGtQGHZRk",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260913 LE SSERAFIM Chaewon Crazy Fancam   르세라핌 김채원 직캠   BLIZZCON 2026",
+      "channel": "Jai Narayan",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18188",
+      "ytId": "B6p-NdtmwhM",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM BlizzCon 2026 Closing Ceremony Chaewon Made My Night Fancam 260913",
+      "channel": "Pearin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18189",
+      "ytId": "QaZTjGNnx_c",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260913 LE SSERAFIM BLIZZCON CHAEWON 「CRAZY」 FANCAM",
+      "channel": "KpopTakes",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18190",
+      "ytId": "HGKPOjgKhFE",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM BlizzCon 2026 Closing Ceremony Chaewon Spaghetti Fancam 260913",
+      "channel": "Pearin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18191",
+      "ytId": "1C8fTkX69sU",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260913 LE SSERAFIM BLIZZCON CHAEWON 「MADE MY NIGHT」 FANCAM",
+      "channel": "KpopTakes",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18192",
+      "ytId": "_Uc_yFyEUI0",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM Eunchae Antifragile Fancam | 르세라핌 홍은채 직캠 | Pureflow LA | 260916",
+      "channel": "CLUCK CLUCK KPOP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-18"
+    },
+    {
+      "id": "v18193",
+      "ytId": "7-0joxsBPnk",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260916 LE SSERAFIM 르세라핌 'CRAZY' #SAKURA #사쿠라  fancam 직캠",
+      "channel": "Bic",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-18"
+    },
+    {
+      "id": "v18194",
+      "ytId": "WdX2VdgYKA4",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM Eunchae Crazy Fancam | 르세라핌 홍은채 직캠 | Pureflow LA | 260916",
+      "channel": "CLUCK CLUCK KPOP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-18"
+    },
+    {
+      "id": "v18195",
+      "ytId": "MTaBUYkveRU",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260927 | Kazuha Fancam (Le Sserafim) - Antifragile | Fort Worth Texas| Pureflow 2026 Tour",
+      "channel": "Sandz Vault",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-29"
     }
   ],
   "clips": []

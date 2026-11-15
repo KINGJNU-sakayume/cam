@@ -255,3 +255,8 @@
 ### 르세라핌 2026-08
 - 자동 '확실' 0개. 2026 K-WORLD DREAM AWARDS(08-27) 13개와 SUMMER SONIC 2026(08-16 도쿄) 사쿠라 2개를 직접 골라 담음(멤버·등록 곡 하나·날짜가 제목에 있는 것만).
 - 보류: PUREFLOW 요코하마 D3(08-02) 직캠(coldnadong, 멤버 없음)·미야기 앙코르(`gUE1kA8zPgs`, 멤버 없음), 'BOOMPALA+SPAGHETTI' 묶음(K-PLANET 등), 수상 소감·상 영상, 제목에 날짜가 없는 사쿠라 KWDA 2개(`PlYlTTas93A`·`ufr7Pddwri0`), 08-14 SUMMER SONIC 오사카(`OtC5SVQPtr0`)·채원 08-16(`DxwFW0WdhdQ`)처럼 곡·날짜가 불분명한 영상, 'Saki'·'Irony' 등 미등록 곡, 260809 행사 불명 은채 SMART 2개(`7FjY0jhXREM`·`0AIEA38oQXA`).
+
+### 르세라핌 2026-09
+- 자동 '확실' 21개 중 20개를 담음(엠카운트다운 09-17 8, 인기가요 09-20 8·09-21 3, KWDA 1). 업로드일로 날짜를 추정한 사쿠라 KWDA(`PlYlTTas93A`)는 보류. 단, KWDA 허윤진 'BOOMPALA+SPAGHETTI'(`2x69n7cQRQU`)는 두 곡 묶음인데 도구가 그대로 담음(보류 기준과 달라 확인 바람).
+- 직접 고른 22개(BlizzCon 2026 18, PUREFLOW 로스앤젤레스 3, 포트워스 1) 추가. BlizzCon은 채원 직캠 위주.
+- 보류: 미등록 곡(Irony·Creatures·So Cynical·Saki·Goodbye·Trust Exercise), 풀콘서트·풀스테이지·묶음, 멤버 없는 직캠(iHeartRadio Music Festival 09-19·샌호세 09-23·피닉스·후쿠오카·LA 일부), 1회성 사운드체크.
