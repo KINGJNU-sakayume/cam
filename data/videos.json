@@ -20105,6 +20105,39 @@
         "g7s7"
       ],
       "note": ""
+    },
+    {
+      "id": "e1329",
+      "groupId": "g11",
+      "date": "2026-09-30",
+      "show": "LE SSERAFIM TOUR 'PUREFLOW' 올랜도",
+      "label": "",
+      "setlist": [
+        "g11s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1330",
+      "groupId": "g11",
+      "date": "2026-10-02",
+      "show": "LE SSERAFIM TOUR 'PUREFLOW' 시카고",
+      "label": "",
+      "setlist": [
+        "g11s16"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1331",
+      "groupId": "g11",
+      "date": "2026-10-05",
+      "show": "LE SSERAFIM TOUR 'PUREFLOW' 워싱턴 D.C.",
+      "label": "",
+      "setlist": [
+        "g11s7"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -346594,6 +346627,72 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-04-04"
+    },
+    {
+      "id": "v18127",
+      "ytId": "IVsk-M43Pl4",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260930 LE SSERAFIM(르세라핌) 'HOT' SAKURA Focus 사쿠라 직캠 | TOUR 'PUREFLOW' IN ORLANDO",
+      "channel": "nvr4GGet93o39🌸",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-02"
+    },
+    {
+      "id": "v18128",
+      "ytId": "U4K9jsGxmZY",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g11s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261002 LE SSERAFIM(르세라핌) 'CELEBRATION' SAKURA Focus 사쿠라 직캠 | LE SSERAFIM TOUR 'PUREFLOW' IN CHICAGO",
+      "channel": "nvr4GGet93o39🌸",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-27"
+    },
+    {
+      "id": "v18129",
+      "ytId": "TEBeQ90Tikk",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM Eunchae Smart Fancam | 르세라핌 홍은채 직캠 | Pureflow DC | 261005",
+      "channel": "CLUCK CLUCK KPOP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-10"
     }
   ],
   "clips": []

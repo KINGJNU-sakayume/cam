@@ -260,3 +260,7 @@
 - 자동 '확실' 21개 중 20개를 담음(엠카운트다운 09-17 8, 인기가요 09-20 8·09-21 3, KWDA 1). 업로드일로 날짜를 추정한 사쿠라 KWDA(`PlYlTTas93A`)는 보류. 단, KWDA 허윤진 'BOOMPALA+SPAGHETTI'(`2x69n7cQRQU`)는 두 곡 묶음인데 도구가 그대로 담음(보류 기준과 달라 확인 바람).
 - 직접 고른 22개(BlizzCon 2026 18, PUREFLOW 로스앤젤레스 3, 포트워스 1) 추가. BlizzCon은 채원 직캠 위주.
 - 보류: 미등록 곡(Irony·Creatures·So Cynical·Saki·Goodbye·Trust Exercise), 풀콘서트·풀스테이지·묶음, 멤버 없는 직캠(iHeartRadio Music Festival 09-19·샌호세 09-23·피닉스·후쿠오카·LA 일부), 1회성 사운드체크.
+
+### 르세라핌 2026-10
+- 자동 '확실' 0개. PUREFLOW 북미·유럽 투어(시카고 10-02, 워싱턴 D.C. 10-05, 런던 10-16, 암스테르담 10-18, 파리·코펜하겐 10-22~23) 직캠 중 멤버·등록 곡 하나·날짜가 제목에 있는 3개(시카고·워싱턴 D.C.·올랜도)만 담음.
+- 보류: 멤버 없는 직캠(Dukemon 시카고 연작, blckvlvtx 암스테르담 연작, LCY0509 런던, 풀콘서트·풀캠), 미등록 신곡(Irony·Blue Flame·Saki·Need Your Company·Creatures·Sonder·Fire in the belly), 'Smart + Ending' 같은 묶음, 윤진 생일 콘서트 풀(`iWFUVmiAtYs`). 투어 도시 공연이 늘어나므로 곡 목록에 신곡을 한꺼번에 등록하면 상당수를 다시 담을 수 있음.

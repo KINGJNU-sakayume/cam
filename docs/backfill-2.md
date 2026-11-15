@@ -109,3 +109,4 @@ node scripts/archive.mjs validate
 | g11 | 2026-07 | 12 (PUREFLOW 인천 07-11 7 + 07-12 5, 공연 2) | open-questions §8 (검색 실패 0) |
 | g11 | 2026-08 | 15 (K-WORLD DREAM AWARDS 13 + SUMMER SONIC 2026 2, 공연 2) | open-questions §8 (검색 실패 0) |
 | g11 | 2026-09 | 42 (엠카운트다운 09-17 8 + 인기가요 11 + KWDA 1 + BlizzCon 2026 18 + PUREFLOW 로스앤젤레스 3·포트워스 1, 공연 7) | open-questions §8 (검색 실패 0) |
+| g11 | 2026-10 | 3 (PUREFLOW 올랜도 1·시카고 1·워싱턴 D.C. 1, 공연 3) | open-questions §8 (검색 실패 0) |
