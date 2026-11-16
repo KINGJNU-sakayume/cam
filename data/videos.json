@@ -20116,6 +20116,133 @@
         "g2s9"
       ],
       "note": ""
+    },
+    {
+      "id": "e1330",
+      "groupId": "g2",
+      "date": "2024-05-01",
+      "show": "서울페스타",
+      "label": "",
+      "setlist": [
+        "g2s5",
+        "g2s9",
+        "g2s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1331",
+      "groupId": "g2",
+      "date": "2024-05-16",
+      "show": "성균관대 축제",
+      "label": "",
+      "setlist": [
+        "g2s5",
+        "g2s2",
+        "g2s6",
+        "g2s40",
+        "g2s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1332",
+      "groupId": "g2",
+      "date": "2024-05-22",
+      "show": "단국대 축제",
+      "label": "",
+      "setlist": [
+        "g2s6",
+        "g2s1",
+        "g2s4",
+        "g2s5",
+        "g2s2",
+        "g2s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1333",
+      "groupId": "g2",
+      "date": "2024-05-23",
+      "show": "고려대 축제",
+      "label": "",
+      "setlist": [
+        "g2s5",
+        "g2s6",
+        "g2s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1334",
+      "groupId": "g2",
+      "date": "2024-05-24",
+      "show": "한국교원대 축제",
+      "label": "",
+      "setlist": [
+        "g2s9",
+        "g2s2",
+        "g2s40",
+        "g2s5",
+        "g2s6"
+      ],
+      "note": "",
+      "aliases": [
+        "교원대 축제"
+      ]
+    },
+    {
+      "id": "e1335",
+      "groupId": "g2",
+      "date": "2024-05-25",
+      "show": "천안 K-컬처 박람회",
+      "label": "",
+      "setlist": [
+        "g2s5",
+        "g2s9",
+        "g2s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1336",
+      "groupId": "g2",
+      "date": "2024-05-27",
+      "show": "신한대 축제",
+      "label": "",
+      "setlist": [
+        "g2s5",
+        "g2s8",
+        "g2s2",
+        "g2s6",
+        "g2s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1337",
+      "groupId": "g2",
+      "date": "2024-05-30",
+      "show": "한양대 축제",
+      "label": "",
+      "setlist": [
+        "g2s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1338",
+      "groupId": "g2",
+      "date": "2024-05-31",
+      "show": "아주대 축제",
+      "label": "",
+      "setlist": [
+        "g2s5",
+        "g2s9",
+        "g2s2"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -346624,6 +346751,2540 @@
       "tags": [],
       "title": "240413 NMIXX BAE 'DASH' Fancam (Half song) 엔믹스 배이 직캠 | Golden Wave in Taiwan",
       "channel": "YN",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18128",
+      "ytId": "vvhkUXa8FSQ",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240501 엔믹스 설윤 - Love Me Like This 4K 직캠 @서울페스타 개막파티",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-09-05"
+    },
+    {
+      "id": "v18129",
+      "ytId": "iCEkALvlUNM",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240501 서울페스타 엔믹스(NMIXX) \"DASH\" 릴리 직캠",
+      "channel": "리얼리릴리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-03"
+    },
+    {
+      "id": "v18130",
+      "ytId": "8EhmHdAdBlM",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240501 NMIXX KYUJIN 엔믹스 규진 Seoul festa - \"Love Me Like This\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-02"
+    },
+    {
+      "id": "v18131",
+      "ytId": "Zt7uOi0nkWE",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240501 NMIXX(엔믹스) 설윤 'DASH' 직캠 SULLYOON FANCAM @ 서울페스타 개막파티 [ 4K ]",
+      "channel": "𝙳𝚎𝚎𝚛𝚒𝚗",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v18132",
+      "ytId": "V-Gr467Q2NE",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240501 NMIXX KYUJIN 엔믹스 규진 Seoul festa - \"Roller Coaster\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-03"
+    },
+    {
+      "id": "v18133",
+      "ytId": "5KP9ucaxbgs",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240501 설윤 SULLYOON 엔믹스 NMIXX 'Love Me Like This' 4K 직캠 @서울페스타 SEOUL FESTA",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-03"
+    },
+    {
+      "id": "v18134",
+      "ytId": "PPU5V6aWavk",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240501 Roller Coaster 서울 페스타 Seoul Festa 엔믹스 지우 직캠 (NMIXX JIWOO Fancam)",
+      "channel": "Lovable Film",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-17"
+    },
+    {
+      "id": "v18135",
+      "ytId": "vxA-Kcgw12U",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240501 NMIXX(엔믹스) 설윤 'Roller Coaster' 직캠 SULLYOON FANCAM @ 서울페스타 개막파티 [ 4K ]",
+      "channel": "𝙳𝚎𝚎𝚛𝚒𝚗",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-11"
+    },
+    {
+      "id": "v18136",
+      "ytId": "jeHT3aUEHTY",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240501 서울페스타 2024 개막파티 NMIXX Love Me Like This 설윤 4k 60p 직캠 by ace",
+      "channel": "D ace",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-03"
+    },
+    {
+      "id": "v18137",
+      "ytId": "pZu7UcrcefQ",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240501 설윤 SULLYOON 엔믹스 NMIXX 'DASH' 4K 직캠 @서울페스타 SEOUL FESTA",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-03"
+    },
+    {
+      "id": "v18138",
+      "ytId": "t0mp8eVVFJA",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240501 엔믹스 NMIXX 설윤 - Roller Coaster 롤러코스터 (서울페스타 서울광장) 직캠 fancam by zam",
+      "channel": "z a m",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-01"
+    },
+    {
+      "id": "v18139",
+      "ytId": "uu65C021NBM",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240501 NMIXX KYUJIN 엔믹스 규진 Seoul festa - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-03"
+    },
+    {
+      "id": "v18140",
+      "ytId": "bCy3B8qk7V4",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240516 엔믹스 (NMIXX) 'Love Me Like This' LIVE 설윤 SULLYOON 4K Cam (성균관대축제)",
+      "channel": "Mera",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-17"
+    },
+    {
+      "id": "v18141",
+      "ytId": "3Y4iI9tT4rk",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240516 엔믹스 (NMIXX) 'DICE' LIVE 설윤 SULLYOON 4K Cam (성균관대축제)",
+      "channel": "Mera",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-17"
+    },
+    {
+      "id": "v18142",
+      "ytId": "8k-1eccfmiY",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240516 엔믹스 (NMIXX) 'Roller Coaster' LIVE 설윤 SULLYOON 4K Cam (성균관대축제)",
+      "channel": "Mera",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18143",
+      "ytId": "c2FODeQidzc",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240516 엔믹스 (NMIXX) 'Run For Roses' 설윤 SULLYOON 4K Cam (성균관대축제)",
+      "channel": "Mera",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18144",
+      "ytId": "zhVe6qCXls4",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "안무틀린 릴리!! 엔믹스 (NMIXX) 'DICE' LIVE 4K Cam (성균관대축제) 240516",
+      "channel": "Mera",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-17"
+    },
+    {
+      "id": "v18145",
+      "ytId": "vMKQNWymO6U",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "성대 과잠 입은 설윤 엔믹스 (NMIXX) 'DASH' SULLYOON 4K Cam (성균관대축제) 240516",
+      "channel": "Mera",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18146",
+      "ytId": "zztcgqwyATw",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240522 NMIXX(엔믹스) 설윤 'Roller Coaster' 직캠 SULLYOON FANCAM @ 단국대학교 죽전캠 축제 [ 4K ]",
+      "channel": "𝙳𝚎𝚎𝚛𝚒𝚗",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-07"
+    },
+    {
+      "id": "v18147",
+      "ytId": "TNJMuKI4Tdk",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240522 NMIXX KYUJIN 엔믹스 규진 단국대 축제 - \"O.O\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-23"
+    },
+    {
+      "id": "v18148",
+      "ytId": "kI_j_sQdgdg",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240522 NMIXX(엔믹스) 설윤 'Young, Dumb, Stupid' 직캠 SULLYOON FANCAM @단국대학교 죽전캠 축제 [ 4K ]",
+      "channel": "𝙳𝚎𝚎𝚛𝚒𝚗",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-02"
+    },
+    {
+      "id": "v18149",
+      "ytId": "l9LbZLWKOvw",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240522 NMIXX(엔믹스) 설윤 'Love Me Like This' 직캠 SULLYOON FANCAM @ 단국대학교 죽전캠 축제 [ 4K ]",
+      "channel": "𝙳𝚎𝚎𝚛𝚒𝚗",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18150",
+      "ytId": "K3i3hboWFjo",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240522 Young, Dumb, Stupid 단국대학교 축제 엔믹스 지우 직캠 (NMIXX JIWOO Fancam)",
+      "channel": "Lovable Film",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18151",
+      "ytId": "ajcxd1wwLhU",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240522 NMIXX KYUJIN 엔믹스 규진 단국대 축제 - \"Young, Dumb, Stupid\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18152",
+      "ytId": "fWbmgU8YMMM",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM]240522 NMIXX HAEWON 엔믹스 해원 단국대 축제 - \"Love Me Like This\" 직캠",
+      "channel": "wonknie_hw",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18153",
+      "ytId": "r4IXyHHyBa0",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM]240522 NMIXX HAEWON 엔믹스 해원 단국대 축제 - \"Young, Dumb, Stupid\" 직캠",
+      "channel": "wonknie_hw",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18154",
+      "ytId": "YTKlIt3fM7Q",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240522  NMIXX HAEWON 엔믹스 해원 단국대 축제  - \"DICE\" 직캠",
+      "channel": "wonknie_hw",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18155",
+      "ytId": "ziq4ejnBn1Y",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240522 NMIXX KYUJIN 엔믹스 규진 단국대 축제 - \"Love Me Like This\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18156",
+      "ytId": "9SspxCk-T9k",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240522 NMIXX KYUJIN 엔믹스 규진 단국대 축제 - \"DICE\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-23"
+    },
+    {
+      "id": "v18157",
+      "ytId": "5-lEltukvrI",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240522 NMIXX KYUJIN 엔믹스 규진 단국대 축제 - \"Roller Coaster\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18158",
+      "ytId": "Su9UCfOdBvI",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240522 NMIXX KYUJIN 엔믹스 규진 단국대 축제 - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18159",
+      "ytId": "RP002BRlbhY",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240522 단국대 죽전 엔믹스(NMIXX) - Love Me Like This 설윤 직캠",
+      "channel": "남상미",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-22"
+    },
+    {
+      "id": "v18160",
+      "ytId": "2MtS69OZHR4",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240522 단국대 죽전 엔믹스(NMIXX) - Young, Dumb, Stupid 설윤 직캠",
+      "channel": "남상미",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18161",
+      "ytId": "lpXhOv2ynNY",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240522 단국대 죽전 엔믹스(NMIXX) - DICE 설윤 직캠",
+      "channel": "남상미",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18162",
+      "ytId": "rw3Z4C2PH2Q",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240522 단국대 죽전 엔믹스(NMIXX) - O.O 설윤 직캠",
+      "channel": "남상미",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18163",
+      "ytId": "0igBbafc7SM",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240522 단국대 죽전 엔믹스(NMIXX) - Roller Coaster 설윤 직캠",
+      "channel": "남상미",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-23"
+    },
+    {
+      "id": "v18164",
+      "ytId": "kXLXIng2Jlo",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240522 단국대 죽전 엔믹스(NMIXX) - DASH 설윤 직캠",
+      "channel": "남상미",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18165",
+      "ytId": "imXhSGwz448",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240522 엔믹스 설윤 DICE",
+      "channel": "Kolbe",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18166",
+      "ytId": "Pw-ozrGo_gI",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240523 엔믹스 규진 직캠 'Love Me Like This' (NMIXX KYUJIN FanCam) @고려대학교",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-24"
+    },
+    {
+      "id": "v18167",
+      "ytId": "YZ2vUoArS2U",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM]240523 NMIXX HAEWON 엔믹스 해원 고려대 축제 - \"Roller Coaster\" 직캠",
+      "channel": "wonknie_hw",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18168",
+      "ytId": "xWEZeKq7qIs",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM]240523 NMIXX HAEWON 엔믹스 해원 고려대 축제 - \" DASH \" 직캠",
+      "channel": "wonknie_hw",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18169",
+      "ytId": "8qVxYAchlE0",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 (NMIXX) Full 'DASH' 외 4곡｜한국교원대 축제 240524",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18170",
+      "ytId": "sR7koBiWeqw",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "#엔믹스 대학축제 ♬DICE #규진 직캠 #NMIXX #KYUJIN @240524 한국교원대",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18171",
+      "ytId": "q6qBEruRVfg",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 규진 직캠 'DICE' (NMIXX KYUJIN)｜한국교원대 축제 240524",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-25"
+    },
+    {
+      "id": "v18172",
+      "ytId": "-9-h0KmqUmc",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 해원 직캠 'Run For Roses' (NMIXX HAEWON)｜한국교원대 축제 240524",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-25"
+    },
+    {
+      "id": "v18173",
+      "ytId": "x0rCt2Y8q_g",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 'Love Me Like This' (NMIXX SULLYOON)｜한국교원대 축제 240524",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18174",
+      "ytId": "7iY_n-_0z28",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240524 엔믹스(NMIXX)설윤(SULLYOON) - Love Me Like This (한국 교원대 축제)",
+      "channel": "잡탕티비",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18175",
+      "ytId": "mfmGe6HteCs",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240524 NMIXX(엔믹스) 설윤 'Run For Roses' 직캠 SULLYOON FANCAM @한국교원대학교 축제 [ 4K ]",
+      "channel": "𝙳𝚎𝚎𝚛𝚒𝚗",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18176",
+      "ytId": "lNxjIjU2JBo",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "#엔믹스 대학축제 ♬Love Me Like This #릴리 직캠 #NMIXX #LILY @240524 한국교원대",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18177",
+      "ytId": "BMAvAA7wSXQ",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 'DASH' (NMIXX SULLYOON)｜한국교원대 축제 240524",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18178",
+      "ytId": "VMwhIy0PEjE",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "#엔믹스 대학축제 ♬Roller Coaster #설윤 직캠 #NMIXX #SULLYOON @240524 한국교원대",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-25"
+    },
+    {
+      "id": "v18179",
+      "ytId": "VzRK3atPONw",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240524 엔믹스(NMIXX)배이(BAE) - DICE (한국 교원대 축제)",
+      "channel": "잡탕티비",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-01"
+    },
+    {
+      "id": "v18180",
+      "ytId": "5pHBUOj8mZI",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240524 엔믹스 배이 직캠 'DASH' (NMIXX BAE FanCam) @한국교원대 By K-Pop 날것이 좋아",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-25"
+    },
+    {
+      "id": "v18181",
+      "ytId": "y0OH2Pscarg",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240524 엔믹스(NMIXX)배이(BAE) - DASH (한국 교원대 축제)",
+      "channel": "잡탕티비",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-01"
+    },
+    {
+      "id": "v18182",
+      "ytId": "Ez-daKxAKWg",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240525 [4K] NMIXX(엔믹스)  -  Love me like this 설윤 fancam [2024 천안 K-컬처 박람회]",
+      "channel": "Kimquestionmark",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18183",
+      "ytId": "GjpfoVS_A2c",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240525 엔믹스 설윤 NMIXX SULLYOON 🎵Love Me Like This 직캠 FANCAM @천안 4K60P HDR",
+      "channel": "CENTERBUG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18184",
+      "ytId": "FwnFPiGNeEM",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "라이브 대박 설윤  엔믹스 Love Me Like This NMIXX   @240525 천안 K-컬처 박람회 직캠",
+      "channel": "TheGsd",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18185",
+      "ytId": "_uRXs9HayeE",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K 직캠] 240525 엔믹스(NMIXX) 설윤(SULLYOON) Love Me Like This 직캠(fancam) 컬투쇼 슈퍼콘서트 2024 천안 K-컬처 박람회",
+      "channel": "NPD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18186",
+      "ytId": "8LMRTli34yM",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K 직캠] 240525 엔믹스(NMIXX) 설윤(SULLYOON) DASH 직캠(fancam) 컬투쇼 슈퍼콘서트 2024 천안 K-컬처 박람회",
+      "channel": "NPD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18187",
+      "ytId": "QIZBBUEPBZI",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240525 NMIXX KYUJIN 엔믹스 규진 두시탈출 컬투쇼 슈퍼콘서트 - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-27"
+    },
+    {
+      "id": "v18188",
+      "ytId": "GBu7cxHs6aQ",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240525 엔믹스 설윤 NMIXX SULLYOON 🎵DASH 직캠 FANCAM @천안 4K60P HDR",
+      "channel": "CENTERBUG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18189",
+      "ytId": "Z6t285CKkg0",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240525 엔믹스 지우 NMIXX JIWOO \"Love Me Like This\" 직캠",
+      "channel": "쩝",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18190",
+      "ytId": "S_LY7YlSHPo",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240525 엔믹스 규진 - DASH 4K 직캠 @천안 K-컬처 박람회",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18191",
+      "ytId": "SCmiQYokCzY",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240525 Soñar 천안 컬투쇼 슈퍼 콘서트 엔믹스 지우 직캠 (NMIXX JIWOO Fancam)",
+      "channel": "Lovable Film",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18192",
+      "ytId": "8u69zDhqHnQ",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240525 NMIXX KYUJIN 엔믹스 규진 두시탈출 컬투쇼 슈퍼콘서트 - \"Love Me Like This\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18193",
+      "ytId": "gKHO17_zjj8",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] NMIXX(엔믹스) 규진(KYUJIN) 'DASH' 세로 직캠 @천안 K-컬처 박람회 두시탈출 컬투쇼 슈퍼콘서트, 240525",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18194",
+      "ytId": "wUoKP0-6g_g",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240525 엔믹스 설윤 NMIXX SULLYOON 🎵Soñar_Breaker 직캠 FANCAM @천안 4K60P HDR",
+      "channel": "CENTERBUG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18195",
+      "ytId": "CX6_94hMleQ",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240525 NMIXX KYUJIN 엔믹스 규진 두시탈출 컬투쇼 슈퍼콘서트 - \"Soñar(Breaker)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18196",
+      "ytId": "HFXpFECZHxk",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240525 엔믹스 지우 - Love Me Like This 4K 직캠 @천안 K-컬처 박람회",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18197",
+      "ytId": "HXRLf5OgXl0",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240525 엔믹스 설윤 - Love Me Like This 4K 직캠 @천안 K-컬처 박람회",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18198",
+      "ytId": "eFKM_9BRPZ0",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] NMIXX(엔믹스) 설윤(SULLYOON) 'Soñar' 세로 직캠 @천안 K-컬처 박람회 두시탈출 컬투쇼 슈퍼콘서트, 240525",
+      "channel": "THE IDOL × Nikon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18199",
+      "ytId": "ckSMkhKVt0A",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K 직캠] 240525 엔믹스(NMIXX) 설윤(SULLYOON) Soñar (Breaker)직캠(fancam) 컬투쇼 슈퍼콘서트 2024 천안 K-컬처 박람회",
+      "channel": "NPD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18200",
+      "ytId": "He3_Fu2xdDU",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 오해원 ( Love Me Like This ) 신한대학교 축제 직캠 NMIXX Fancam 240527",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-28"
+    },
+    {
+      "id": "v18201",
+      "ytId": "qrEj-zFxRB0",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "'Love Me Like This' NMIXX(엔믹스) 설윤 직캠 @대학축제/신한대학교(의정부)/240527/4K By 쵸리(Chori)",
+      "channel": "쵸리.CHORI",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18202",
+      "ytId": "fW0JLPfhcaI",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤(NMIXX : SULLYOON) - Love Me Like This (럽미라이크디스) 직캠 | 신한대 축제 • 240527",
+      "channel": "비몽 BIMONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18203",
+      "ytId": "qhLPX4vI2lw",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240527 엔믹스 설윤 직캠 'Soñar' NMIXX(SULLYOON) Fancam @신한대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-28"
+    },
+    {
+      "id": "v18204",
+      "ytId": "5V5qmuWc3mg",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 배이 'Love Me Like This' NMIXX BAE (240527) 신한대학교 축제 Fancam By 천둥",
+      "channel": "천둥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18205",
+      "ytId": "LQTsZzd7oTY",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 오해원 ( DICE ) 신한대학교 축제 직캠 NMIXX Fancam 240527",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18206",
+      "ytId": "srmVSkRyw7o",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 규진 직캠 'Love Me Like This' (NMIXX KYUJIN)｜신한대 축제 240527",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-28"
+    },
+    {
+      "id": "v18207",
+      "ytId": "JFv2VRwjUD4",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "240527 엔믹스 지우 (NMIXX JIWOO) - 음향사고 무반주에도 떼창과 함께 무대 - \"DICE (다이스)\" 4K 60p 세로 직캠 @신한대 축제 FANCAM",
+      "channel": "Emerald Dream",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18208",
+      "ytId": "p_TUfIwiiIs",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240527 NMIXX KYUJIN 엔믹스 규진 신한대 축제 - \"DICE\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-28"
+    },
+    {
+      "id": "v18209",
+      "ytId": "NnSnheuJgFQ",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240527 엔믹스 설윤 직캠 'DICE(음향사고로 생라이브)' NMIXX(SULLYOON) Fancam @신한대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18210",
+      "ytId": "a27NIB4CuA8",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240527 엔믹스 규진 'DICE' 무반주 라이브 (NMIXX Kyujin Fancam) 4K 직캠 | 신한대축제",
+      "channel": "eyecatch",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18211",
+      "ytId": "U5VL2ta-ci4",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 'Roller Coaster' (NMIXX SULLYOON)｜신한대 축제 240527",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18212",
+      "ytId": "4e8HmFAl7x8",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240527 엔믹스(NMIXX) 배이 - Love Me Like This / 신한대학교 축제",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-28"
+    },
+    {
+      "id": "v18213",
+      "ytId": "549Po7R7_Lg",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240527 엔믹스 설윤 직캠 'Roller Coaster' NMIXX(SULLYOON) Fancam @신한대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18214",
+      "ytId": "O5tAbsPx2OY",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240527 엔믹스 규진 'DASH' (NMIXX Kyujin Fancam) 4K 직캠 | 신한대축제",
+      "channel": "eyecatch",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18215",
+      "ytId": "qIClBD2Hxkw",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240527 NMIXX KYUJIN 엔믹스 규진 신한대 축제 - \"Roller Coaster\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18216",
+      "ytId": "Co0pjdUZmbY",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "'Soñar' NMIXX(엔믹스) 설윤 직캠 @대학축제/신한대학교(의정부)/240527/4K By 쵸리(Chori)",
+      "channel": "쵸리.CHORI",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18217",
+      "ytId": "RbNDiAAyZVU",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "과잠입은 엔믹스 설윤 'DASH' (NMIXX : SULLYOON) 직캠 | 신한대 축제 • 240527",
+      "channel": "비몽 BIMONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18218",
+      "ytId": "3L-KbjX1LS8",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "'DASH' NMIXX(엔믹스) 설윤 직캠 @대학축제/신한대학교(의정부)/240527/4K By 쵸리(Chori)",
+      "channel": "쵸리.CHORI",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18219",
+      "ytId": "PjIQUDmgM2s",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "'Roller Coaster' NMIXX(엔믹스) 설윤 직캠 @대학축제/신한대학교(의정부)/240527/4K By 쵸리(Chori)",
+      "channel": "쵸리.CHORI",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18220",
+      "ytId": "2Ibh4_PLiRo",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240527 엔믹스 규진 'Roller Coaster' (NMIXX Kyujin Fancam) 4K 직캠 | 신한대축제",
+      "channel": "eyecatch",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18221",
+      "ytId": "GNP2ebu1qBA",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240527 엔믹스 설윤 직캠 'DASH' NMIXX(SULLYOON) Fancam @신한대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18222",
+      "ytId": "U1r1D6pq8_s",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240527 엔믹스 규진 'Love Me Like This' (NMIXX Kyujin Fancam) 4K 직캠 | 신한대축제",
+      "channel": "eyecatch",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18223",
+      "ytId": "E6jlLVRhdjM",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 오해원 ( DASH ) 신한대학교 축제 직캠 NMIXX Fancam 240527",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-29"
+    },
+    {
+      "id": "v18224",
+      "ytId": "opjZJuPGvXk",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 해원 직캠 'DICE' 음향사고 무반주 라이브 (NMIXX HAEWON)｜신한대 축제 240527",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-28"
+    },
+    {
+      "id": "v18225",
+      "ytId": "j1Sw7KGZams",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 오해원 ( Soñar 소냐르 ) 신한대학교 축제 직캠 NMIXX Fancam 240527",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-29"
+    },
+    {
+      "id": "v18226",
+      "ytId": "aLbFflLjgGw",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 'DASH' (NMIXX SULLYOON)｜신한대 축제 240527",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-28"
+    },
+    {
+      "id": "v18227",
+      "ytId": "4EMWODdGt2U",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 배이 'Soñar' NMIXX BAE (240527) 신한대학교 축제 Fancam By 천둥",
+      "channel": "천둥",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-28"
+    },
+    {
+      "id": "v18228",
+      "ytId": "5zzQoVK27cM",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "240527 엔믹스 지우 (NMIXX JIWOO) - 신한대 과잠 입고 무대 - \"DASH (대쉬)\" 4K 60p 세로 직캠 @신한대 축제 FANCAM",
+      "channel": "Emerald Dream",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-27"
+    },
+    {
+      "id": "v18229",
+      "ytId": "thO_JeFRNTI",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240527 엔믹스 규진 'Soñar (Breaker)’' (NMIXX Kyujin Fancam) 4K 직캠 | 신한대축제",
+      "channel": "eyecatch",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-28"
+    },
+    {
+      "id": "v18230",
+      "ytId": "RlAC6aYDOZs",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240527 NMIXX KYUJIN 엔믹스 규진 신한대 축제 - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-30"
+    },
+    {
+      "id": "v18231",
+      "ytId": "fsMaioGJyqc",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240527 NMIXX KYUJIN 엔믹스 규진 신한대 축제 - \"Soñar(Breaker)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-31"
+    },
+    {
+      "id": "v18232",
+      "ytId": "6F9_GqQijkw",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "'DICE(음향사고 무반주 라이브)' NMIXX(엔믹스) 설윤 직캠 @대학축제/신한대학교(의정부)/240527/4K By 쵸리(Chori)",
+      "channel": "쵸리.CHORI",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-29"
+    },
+    {
+      "id": "v18233",
+      "ytId": "WQ6DSfIqSHQ",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스(NMIXX) \"LOVE ME LIKE THIS\" 설윤(SULLYOON) 직캠  240527 @신한대학교 by newstudio",
+      "channel": "Newstudio_mini",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18234",
+      "ytId": "2hwJq_xN4YU",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240527 신한대 SHINHAN UNIVERSITY ‘DICE’ NMIXX BAE Focus",
+      "channel": "솔랑솔랑",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18235",
+      "ytId": "3cm--V3Wu6M",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스(NMIXX) \"롤러코스터(Roller Coaster)\" 해원(HAEWON) 직캠  240527 @신한대학교 by newstudio",
+      "channel": "Newstudio_mini",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18236",
+      "ytId": "5uJNPz08yb4",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스(NMIXX) \"DASH\" 해원(HAEWON) 직캠  240527 @신한대학교 by newstudio",
+      "channel": "Newstudio_mini",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-28"
+    },
+    {
+      "id": "v18237",
+      "ytId": "AbEF8hggs70",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240530 엔믹스 규진 직캠 'DASH' (NMIXX KYUJIN FanCam) @한양대",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-28"
+    },
+    {
+      "id": "v18238",
+      "ytId": "NcwJI5oMQNw",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX ♬DASH Backstage Rare Video @240530 Hanyang Univ ERICA 한양대 축제 엔믹스 #NMIXX #DASH #한양대",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18239",
+      "ytId": "YuisNr-aSig",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240531 아주대 대동제 엔믹스(NMIXX) - Love Me Like This 설윤 직캠",
+      "channel": "사람",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18240",
+      "ytId": "r8iE0Qvk72E",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240531 NMIXX KYUJIN 엔믹스 규진 아주대 축제 - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18241",
+      "ytId": "1rJDZcAQWas",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240531 NMIXX KYUJIN 엔믹스 규진 아주대 축제 - \"DICE\" 직캠(FanCam)",
+      "channel": "STAR💫",
       "pin": false,
       "gone": false
     }

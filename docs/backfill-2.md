@@ -140,3 +140,4 @@ node scripts/archive.mjs validate
 | g2 | 2024-02 | 42 (DASH 활동 음악방송, 02-24 미니 팬미팅) | 보류: open-questions §8 |
 | g2 | 2024-03 | 0 (활동 공백, 범위 안 영상 없음) | 보류: open-questions §8 |
 | g2 | 2024-04 | 1 (Golden Wave in Taiwan 04-13 배이 DASH) | 보류: open-questions §8 |
+| g2 | 2024-05 | 114 (서울페스타 05-01, 대학 축제 7곳, 천안 K-컬처 박람회 05-25) | 보류: open-questions §8 |
