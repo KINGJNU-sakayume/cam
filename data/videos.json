@@ -22857,6 +22857,61 @@
         "g2s2"
       ],
       "note": ""
+    },
+    {
+      "id": "e1533",
+      "groupId": "g2",
+      "date": "2024-06-02",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g2s9",
+        "g2s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1534",
+      "groupId": "g2",
+      "date": "2024-06-22",
+      "show": "NMIXX CHANGE UP : MIXX UNIVERSITY in MACAU",
+      "label": "",
+      "setlist": [
+        "g2s40",
+        "g2s4",
+        "g2s9",
+        "g2s1",
+        "g2s6",
+        "g2s2",
+        "g2s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1535",
+      "groupId": "g2",
+      "date": "2024-06-29",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g2s9",
+        "g2s5",
+        "g2s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1536",
+      "groupId": "g2",
+      "date": "2024-06-30",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g2s5",
+        "g2s40",
+        "g2s9"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -410702,6 +410757,682 @@
       "channel": "STAR💫",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v20735",
+      "ytId": "CPmoNByK7nA",
+      "eventId": "e1533",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240602 NMIXX『 DASH + STAGE TALK 』K-WAVE 콘서트 〈인기가요〉 byCoca-Cola Creation",
+      "channel": "jiminiepabo",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20736",
+      "ytId": "beVmJGy-4ms",
+      "eventId": "e1533",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240602 DASH 코카콜라 K-WAVE 인기가요 콘서트 엔믹스 지우 직캠 (NMIXX JIWOO Fancam)",
+      "channel": "Lovable Film",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-05"
+    },
+    {
+      "id": "v20737",
+      "ytId": "tCHkJeKDfJY",
+      "eventId": "e1533",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240602_엔믹스_규진_직캠_'DASH'_NMIXX_KYUJIN_FanCam__@K-WAVE_인기가요_2024",
+      "channel": "Bubble Pop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-10"
+    },
+    {
+      "id": "v20738",
+      "ytId": "5D_styRRniY",
+      "eventId": "e1533",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240602 K-WAVE NMIXX 해원 Love Me Like This 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20739",
+      "ytId": "VNJE7feHND4",
+      "eventId": "e1533",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240602 NMIXX KYUJIN 엔믹스 규진 K-WAVE - \"Love Me Like This\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-03"
+    },
+    {
+      "id": "v20740",
+      "ytId": "Me0K2v70ivE",
+      "eventId": "e1533",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240602 엔믹스 설윤 NMIXX SULLYOON 🎵Love Me Like This 직캠 FANCAM @K-WAVE2024 4K60P HDR",
+      "channel": "CENTERBUG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20741",
+      "ytId": "KGo2vnXKpvc",
+      "eventId": "e1533",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240602 엔믹스 설윤 NMIXX SULLYOON 🎵DASH 직캠 FANCAM @K-WAVE2024 4K60P HDR",
+      "channel": "CENTERBUG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20742",
+      "ytId": "6APQsCs7Tzc",
+      "eventId": "e1533",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FanCam]240602 NMIXX HAEWON 엔믹스 해원 케이웨이브 콘서트 - \"Love Me Like This\" 직캠",
+      "channel": "wonknie_hw",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20743",
+      "ytId": "IBOnnSp4oqk",
+      "eventId": "e1533",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240602 K-Wave 엔믹스 해원 Love Me Like This 직캠 고화질 4K",
+      "channel": "빵태희",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20744",
+      "ytId": "Yazx_Urcyiw",
+      "eventId": "e1533",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240602 NMIXX KYUJIN 엔믹스 규진 K-WAVE - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-03"
+    },
+    {
+      "id": "v20745",
+      "ytId": "kmp0avmh1U4",
+      "eventId": "e1533",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "bae (NMIXX) 240602 4k armpit edit - SBS KWAVE CONCERT Dash",
+      "channel": "pits for life",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20746",
+      "ytId": "BFfARxTGdm0",
+      "eventId": "e1534",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240622 NMIXX KYUJIN 엔믹스 규진 FAN CONCERT - \"Run For Roses\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-27"
+    },
+    {
+      "id": "v20747",
+      "ytId": "jAagUDFMWcQ",
+      "eventId": "e1534",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240622 NMIXX CHANGE UP:MIXX UNIVERSITY in MACAU ' RUN FOR ROSES' BAE Focus",
+      "channel": "솔랑솔랑",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20748",
+      "ytId": "wLGJVZ2lpeA",
+      "eventId": "e1534",
+      "songs": [
+        {
+          "songId": "g2s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240622 NMIXX KYUJIN 엔믹스 규진 FAN CONCERT - \"Young, Dumb, Stupid\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20749",
+      "ytId": "FVW04KX7ycc",
+      "eventId": "e1534",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240622 NMIXX KYUJIN 엔믹스 규진 FAN CONCERT - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20750",
+      "ytId": "OgH6pNmGJPQ",
+      "eventId": "e1534",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240622 NMIXX THE 1ST FAN CONCERT in MACAU  《 RUN FOR ROSES 》 BAE Focus",
+      "channel": "PUPPY·BAE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20751",
+      "ytId": "Q0ZVlTQFB2Q",
+      "eventId": "e1534",
+      "songs": [
+        {
+          "songId": "g2s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240622 NMIXX THE 1ST FAN CONCERT in MACAU 첫콘 《 o.o 》 BAE Focus",
+      "channel": "PUPPY·BAE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20752",
+      "ytId": "Chbv8nl54fE",
+      "eventId": "e1534",
+      "songs": [
+        {
+          "songId": "g2s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240622 NMIXX KYUJIN 엔믹스 규진 FAN CONCERT - \"Roller Coaster\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20753",
+      "ytId": "afQTOrSQtxo",
+      "eventId": "e1534",
+      "songs": [
+        {
+          "songId": "g2s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240622 NMIXX KYUJIN 엔믹스 규진 FAN CONCERT - \"O.O(Part.1)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20754",
+      "ytId": "51JtcPoxIK8",
+      "eventId": "e1534",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240622 NMIXX KYUJIN 엔믹스 규진 FAN CONCERT - \"DICE\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20755",
+      "ytId": "eD3jszVZ220",
+      "eventId": "e1534",
+      "songs": [
+        {
+          "songId": "g2s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240622 NMIXX THE 1ST FAN CONCERT in MACAU  《 o.o 》 BAE Focus",
+      "channel": "PUPPY·BAE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20756",
+      "ytId": "rh62c06_Yl4",
+      "eventId": "e1534",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K】 240622 NMIXX \"Love Me Like This\" SULLYOON FanCam @ NMIXX CHANGE UP : MIXX UNIVERSITY in MACAU",
+      "channel": "arpor Record阿婆追星記錄",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20757",
+      "ytId": "8K_axhDivAk",
+      "eventId": "e1534",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K】 240622 NMIXX \"DICE\" SULLYOON FanCam @ NMIXX CHANGE UP : MIXX UNIVERSITY in MACAU",
+      "channel": "arpor Record阿婆追星記錄",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20758",
+      "ytId": "Z__3di0_Ftk",
+      "eventId": "e1534",
+      "songs": [
+        {
+          "songId": "g2s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K】 240622 NMIXX \"Young, Dumb, Stupid\" SULLYOON FanCam @ NMIXX CHANGE UP : MIXX UNIVERSITY in MACAU",
+      "channel": "arpor Record阿婆追星記錄",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20759",
+      "ytId": "_ZFFXhehzQc",
+      "eventId": "e1535",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240629 NMIXX KYUJIN 엔믹스 규진 Music Core in JAPAN - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20760",
+      "ytId": "87-aoucv2W4",
+      "eventId": "e1535",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240629 NMIXX KYUJIN 엔믹스 규진 Music Core in JAPAN - \"Love Me Like This\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20761",
+      "ytId": "pLFsLPMKuXY",
+      "eventId": "e1535",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240629 NMIXX(엔믹스) 설윤 \"Soñar(Breaker)\" 직캠 SULLYOON FANCAM @ Music Core in JAPAN [ 4K ]",
+      "channel": "𝙳𝚎𝚎𝚛𝚒𝚗",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20762",
+      "ytId": "txUBdjCxDV0",
+      "eventId": "e1535",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240629 NMIXX KYUJIN 엔믹스 규진 Music Core in JAPAN - \"Soñar(Breaker)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-04"
+    },
+    {
+      "id": "v20763",
+      "ytId": "QSCMPkzGvtU",
+      "eventId": "e1536",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240630 NMIXX KYUJIN 엔믹스 규진 Music Core in JAPAN - \"Love Me Like This\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-05"
+    },
+    {
+      "id": "v20764",
+      "ytId": "UUD5ld3cpNc",
+      "eventId": "e1536",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240630 NMIXX KYUJIN 엔믹스 규진 Music Core in JAPAN - \"Run For Roses\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-02"
+    },
+    {
+      "id": "v20765",
+      "ytId": "UxI2ObTC-To",
+      "eventId": "e1536",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240630 NMIXX KYUJIN 엔믹스 규진 Music Core in JAPAN - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-04"
     }
   ],
   "clips": []
