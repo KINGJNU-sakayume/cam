@@ -22142,6 +22142,50 @@
         "g11s10"
       ],
       "note": ""
+    },
+    {
+      "id": "e1475",
+      "groupId": "g11",
+      "date": "2026-01-10",
+      "show": "골든디스크어워즈",
+      "label": "",
+      "setlist": [
+        "g11s10",
+        "g11s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1476",
+      "groupId": "g11",
+      "date": "2026-01-31",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' ENCORE 서울",
+      "label": "",
+      "setlist": [
+        "g11s13",
+        "g11s10",
+        "g11s11",
+        "g11s8",
+        "g11s6",
+        "g11s21",
+        "g11s14",
+        "g11s5",
+        "g11s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1477",
+      "groupId": "g11",
+      "date": "2026-02-01",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' ENCORE 서울",
+      "label": "",
+      "setlist": [
+        "g11s13",
+        "g11s5",
+        "g11s6"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -397230,6 +397274,723 @@
       "pin": false,
       "gone": false,
       "uploaded": "2026-01-03"
+    },
+    {
+      "id": "v20196",
+      "ytId": "0m8Hb5PNK6s",
+      "eventId": "e1475",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260110 LE SSERAFIM 르세라핌 카즈하 KAZUHA HOT REMIX 직캠 FANCAM @골든디스크어워즈 GOLDENDISK AWARDS GDA",
+      "channel": "komorebi.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-12"
+    },
+    {
+      "id": "v20197",
+      "ytId": "u5yYvlrmcLo",
+      "eventId": "e1475",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260110 ‘INTRO + SPAGHETTI’ 르세라핌 김채원 직캠 LE SSERAFIM KIM CHAEWON FANCAM @ GDA 골든디스크어워즈",
+      "channel": "Wonder for Chaewon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-13"
+    },
+    {
+      "id": "v20198",
+      "ytId": "16EBA8sYWrU",
+      "eventId": "e1475",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260110 LE SSERAFIM 르세라핌 카즈하 KAZUHA INTRO + SPAGHETTI 직캠 FANCAM @골든디스크어워즈 GOLDENDISK AWARDS GDA",
+      "channel": "komorebi.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-12"
+    },
+    {
+      "id": "v20199",
+      "ytId": "r2LXUz_4cYE",
+      "eventId": "e1475",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260110 GDA 르세라핌 홍은채 직캠 ‘SPAGHETTI’ (LE SSERAFIM HONG EUNCHAE Fancam)",
+      "channel": "marshmallow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-11"
+    },
+    {
+      "id": "v20200",
+      "ytId": "cwh6DUK9RQo",
+      "eventId": "e1475",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260110 르세라핌 카즈하 직캠 \"SPAGHETTI\" (LE SSERAFIM KAZUHA FANCAM) @GDA 2025",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-15"
+    },
+    {
+      "id": "v20201",
+      "ytId": "E_PcQNAFung",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260131 LE SSERAFIM 르세라핌 카즈하 KAZUHA DIFFERENT 직캠  FANCAM @EASY CRAZY HOT ENCORE IN SEOUL 서울 앙콘",
+      "channel": "komorebi.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-08"
+    },
+    {
+      "id": "v20202",
+      "ytId": "V0XhIX6lqAA",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260131 김채원 HOT 직캠 르세라핌 콘서트",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-01"
+    },
+    {
+      "id": "v20203",
+      "ytId": "EHEHKYQo6vs",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260131 'COME OVER’ 르세라핌 김채원 직캠 LE SSERAFIM KIM CHAEWON FANCAM @ EASY CRAZY HOT ENCORE IN SEOUL",
+      "channel": "Wonder for Chaewon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-08"
+    },
+    {
+      "id": "v20204",
+      "ytId": "_XnfiqJZdsc",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260131 르세라핌(LE SSERAFIM) - HOT 허윤진 8K 직캠 fancam @EASY CRAZY HOT' ENCORE IN SEOUL",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-31"
+    },
+    {
+      "id": "v20205",
+      "ytId": "hjFqpqP_Uss",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260131 르세라핌 홍은채 직캠 'CRAZY' (LE SSERAFIM EUNCHAE FanCam) @Easy Crazy Hot ENCORE IN SEOUL",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-01"
+    },
+    {
+      "id": "v20206",
+      "ytId": "G4PZnx_IEg0",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260131 르세라핌(LE SSERAFIM) - Come Over 허윤진 8K 직캠 fancam @EASY CRAZY HOT' ENCORE IN SEOUL",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-31"
+    },
+    {
+      "id": "v20207",
+      "ytId": "Wmru6_75tXc",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260131 르세라핌 사쿠라 'EASY' 직캠 LE SSERAFIM Sakura 4k Fancam @TOUR 'EASY CRAZY HOT",
+      "channel": "꾸루투",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-04"
+    },
+    {
+      "id": "v20208",
+      "ytId": "KOy199tlvmg",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260131-260201 르세라핌 김채원 EASY 직캠 lesserafim CHAEWON FANCAM @EASY CRAZY HOT ENCORE IN SEOUL",
+      "channel": "CACTUS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-08"
+    },
+    {
+      "id": "v20209",
+      "ytId": "kTDiLAt3UX0",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260131 'HOT’ 르세라핌 김채원 직캠 LE SSERAFIM KIM CHAEWON FANCAM @ EASY CRAZY HOT ENCORE IN SEOUL",
+      "channel": "Wonder for Chaewon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-08"
+    },
+    {
+      "id": "v20210",
+      "ytId": "0c8mnt0QYBY",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260131 Sakura Le Sserafim ''Different'' Fancam",
+      "channel": "Z O O M",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-02"
+    },
+    {
+      "id": "v20211",
+      "ytId": "jKMd-VhMiNI",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "[세로직캠]20260131 LE SSERAFIM 르세라핌 콘서트  김채원(Chaewon) \"Swan Song, Flash forward, Blue Flame, So Cyuical\"",
+      "channel": "호야",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-01"
+    },
+    {
+      "id": "v20212",
+      "ytId": "0kn11kFKzRA",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260131 'SWAN SONG’ 르세라핌 김채원 직캠 LE SSERAFIM KIM CHAEWON FANCAM @ EASY CRAZY HOT ENCORE IN SEOUL",
+      "channel": "Wonder for Chaewon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-23"
+    },
+    {
+      "id": "v20213",
+      "ytId": "XkNJ5Ip8wWo",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260131 르세라핌 허윤진 직캠 \"SPAGHETTI\" @EASY CRAZY HOT ENCORE IN SEOUL",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-01"
+    },
+    {
+      "id": "v20214",
+      "ytId": "fIHel39z1yk",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260131 르세라핌 사쿠라 'Perfect Night & No-Return' 직캠 LE SSERAFIM Sakura Fancam @TOUR 'EASY CRAZY HOT",
+      "channel": "꾸루투",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-10"
+    },
+    {
+      "id": "v20215",
+      "ytId": "5RGsd_DB2-M",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260131 르세라핌 사쿠라 'Swan Song & Flash Forward & Blue Flame & So Cynical' 직캠 LE SSERAFIM Sakura Fancam",
+      "channel": "꾸루투",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-05"
+    },
+    {
+      "id": "v20216",
+      "ytId": "X_qL11VM_9o",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "260131 르세라핌 사쿠라 'DIFFERENT' 직캠 LE SSERAFIM Sakura 4k Fancam @TOUR 'EASY CRAZY HOT",
+      "channel": "꾸루투",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-09"
+    },
+    {
+      "id": "v20217",
+      "ytId": "gfDK2Dq0s5o",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260131 LE SSERAFIM 르세라핌 카즈하 KAZUHA HOT 직캠  FANCAM @EASY CRAZY HOT ENCORE IN SEOUL 서울 앙콘",
+      "channel": "komorebi.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-18"
+    },
+    {
+      "id": "v20218",
+      "ytId": "QkNDRZ4i678",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260131 Eunchae LE SSERAFIM ''Hot'' Fancam",
+      "channel": "FancamIdol",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-01"
+    },
+    {
+      "id": "v20219",
+      "ytId": "AaeQbxouC9I",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260131 Chaewon LE SSERAFIM ''Crazy'' Fancam",
+      "channel": "FancamKpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20220",
+      "ytId": "NlKTYek8jW4",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260131 'EASY’ 르세라핌 김채원 직캠 LE SSERAFIM KIM CHAEWON FANCAM @ EASY CRAZY HOT ENCORE IN SEOUL",
+      "channel": "Wonder for Chaewon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-09"
+    },
+    {
+      "id": "v20221",
+      "ytId": "RI_P-DIBz6w",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260131 Chaewon LE SSERAFIM ''Hot'' Fancam",
+      "channel": "FancamIdol",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-01"
+    },
+    {
+      "id": "v20222",
+      "ytId": "I3Xr4HVdKL4",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 260131 LE SSERAFIM -'HOT' CHAEWON 김채원 チェウォン FanCam @2026'EASY CRAZY HOT' ENCORE IN SEOUL",
+      "channel": "kai_owoawa",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-05"
+    },
+    {
+      "id": "v20223",
+      "ytId": "xgNtkjJZM-w",
+      "eventId": "e1476",
+      "songs": [
+        {
+          "songId": "g11s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260131 LE SSERAFIM 르세라핌 카즈하 KAZUHA FEARLESS 직캠  FANCAM @EASY CRAZY HOT ENCORE IN SEOUL 서울 앙콘",
+      "channel": "komorebi.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-23"
+    },
+    {
+      "id": "v20224",
+      "ytId": "1VQO2uinOAw",
+      "eventId": "e1477",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 260201 LE SSERAFIM (르세라핌) EASY CRAZY HOT ENCORE - 'DIFFERENT' CHAEWON Focus 김채원 직캠",
+      "channel": "Bloom x Rewind",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-03"
+    },
+    {
+      "id": "v20225",
+      "ytId": "JNJcE2EDtW4",
+      "eventId": "e1477",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] LE SSERAFIM KIMCHAEWON 르세라핌 김채원 - \"Perfect Night\" 직캠 FANCAM | 260201 서울 앵콜콘",
+      "channel": "Mr. Egg",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-03"
+    },
+    {
+      "id": "v20226",
+      "ytId": "pjhtPKWbcAM",
+      "eventId": "e1477",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "260201 'EASY' 르세라핌 김채원 직캠 LE SSERAFIM KIM CHAEWON FANCAM | 2026 EASY CRAZY HOT ENCORE SEOUL CONCERT",
+      "channel": "코코아☘️ cocoa.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-06"
     }
   ],
   "clips": []
