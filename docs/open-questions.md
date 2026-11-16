@@ -368,3 +368,8 @@
 - 담음 14개: 엠카운트다운(09-04) 2, 쇼! 음악중심(09-06) 2, 인기가요(09-07) 1, 팬미팅(09-07) 9 (모두 XOXZ, 이미 있는 공연에 추가). 도구가 09-07 영상을 인기가요/팬미팅으로 나눠 읽었는데 제목대로 따랐어요.
 - 뺀 것: 2025-01·12 날짜 추정 영상.
 - 보류: TMA 2025(09-20)의 'XOXZ + Attitude' 묶음 영상, 09-07 미니 팬미팅 풀캠(8BaVCxnrhzA), Music Bank in Lisbon(09-27) 직캠(멤버 없음, 공연 이름 미정), Rock in Japan(09-15) 'Rebel Heart - Eleven' 묶음, 엠카 마블 특집(09-25) 공식, 뮤직뱅크 타워캠.
+
+### 아이브 2025-10
+- 담음 86개: IVE WORLD TOUR SHOW WHAT I AM 서울 첫콘(10-31) 직캠(멤버 1명 + 등록 곡). 이미 있는 공연(e621)에 추가했어요.
+- 뺀 것: 2025-01·12 날짜 추정 영상, 한 영상에 여러 곡이 붙은 영상(Love Dive + Rebel Heart + Kitsch, XOXZ + Baddie + … 등 3개).
+- 보류: 첫콘 풀·묶음 영상(er30cUANlR8, HkRiBqQGx3w), 미등록 곡(Ice Queen, You Wanna Cry, My Satisfaction, Supernova Love, Eight, Wild Bird 등) 직캠 약 25개 — 곡 등록 결정 후 담을 수 있어요. 뮤직뱅크 인 리스본 방송(10-10)·인기가요 앵콜(10-19)·틱톡 어워즈 수상소감은 멤버 직캠이 아니라 담지 않았어요.
