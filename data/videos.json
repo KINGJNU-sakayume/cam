@@ -390002,6 +390002,120 @@
       "pin": false,
       "gone": false,
       "uploaded": "2025-12-25"
+    },
+    {
+      "id": "v19902",
+      "ytId": "8Ny8eshZs-g",
+      "eventId": "e1372",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241001 르세라핌 LE SSERAFIM - 안티프래자일 ANTIFRAGILE | 김채원 포함 와이드풀샷 가로 직캠 | 호서대학교 대동제 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-20"
+    },
+    {
+      "id": "v19903",
+      "ytId": "NHCEt4XSBeg",
+      "eventId": "e1374",
+      "songs": [
+        {
+          "songId": "g11s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[FaceCam] 241002 LE SSERFIM (르세라핌) 홍은채 (Eunchae) - 이브, 프시케 그리고 푸른 수염의 아내 @ 동명대학교 축제 직캠 (Fancam)",
+      "channel": "Lunatic Soul",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19904",
+      "ytId": "AbvcAnXPAhU",
+      "eventId": "e1374",
+      "songs": [
+        {
+          "songId": "g11s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "241002 르세라핌 홍은채 이브, 프시케 그리고 푸른 수염의 아내 세로 직캠 / LE SSERAFIM HONGEUNCHAE focus fancam @동명대학교 축제",
+      "channel": "OFF",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19905",
+      "ytId": "dYRY360vt2U",
+      "eventId": "e1375",
+      "songs": [
+        {
+          "songId": "g11s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241002 르세라핌 김채원 '1-800-hot-n-fun' 직캠 LE SSERAFIM KIMCHAEWON Fancam @영남대학교",
+      "channel": "JYing.t",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19906",
+      "ytId": "hr0R-n31a0M",
+      "eventId": "e1380",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241227 AAA #르세라핌 #김채원 CRAZY 직캠",
+      "channel": "𝙛𝙛.",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
