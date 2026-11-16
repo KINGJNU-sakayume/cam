@@ -20105,6 +20105,131 @@
         "g7s7"
       ],
       "note": ""
+    },
+    {
+      "id": "e1329",
+      "groupId": "g2",
+      "date": "2024-01-15",
+      "show": "쇼케이스",
+      "label": "",
+      "setlist": [
+        "g2s9",
+        "g2s8",
+        "g2s40"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1330",
+      "groupId": "g2",
+      "date": "2024-01-20",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g2s9",
+        "g2s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1331",
+      "groupId": "g2",
+      "date": "2024-01-24",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g2s9",
+        "g2s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1332",
+      "groupId": "g2",
+      "date": "2024-01-26",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g2s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1333",
+      "groupId": "g2",
+      "date": "2024-01-27",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g2s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1334",
+      "groupId": "g2",
+      "date": "2024-01-30",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g2s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1335",
+      "groupId": "g2",
+      "date": "2024-02-02",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g2s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1336",
+      "groupId": "g2",
+      "date": "2024-02-03",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g2s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1337",
+      "groupId": "g2",
+      "date": "2024-02-07",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g2s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1338",
+      "groupId": "g2",
+      "date": "2024-02-17",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g2s40"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1339",
+      "groupId": "g2",
+      "date": "2024-02-24",
+      "show": "팬미팅",
+      "label": "",
+      "setlist": [
+        "g2s40"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -346594,6 +346719,2944 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-04-04"
+    },
+    {
+      "id": "v18127",
+      "ytId": "yIDRtUOEXZE",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240115 엔믹스 쇼케이스 “DASH” 릴리 직캠",
+      "channel": "리얼리릴리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18128",
+      "ytId": "yPXYwoKqJjA",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240115 쇼케이스 | 엔믹스 규진 (NMIXX KYUJIN) \" DASH  \"",
+      "channel": "attack on",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18129",
+      "ytId": "c9DJye9YDus",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240115 엔믹스 (NMIXX) 지우 - DASH 4K 직캠 @쇼케이스",
+      "channel": "gonigy",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18130",
+      "ytId": "CUkG_S-neow",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240115 엔믹스 (NMIXX) 해원 - Soñar (Breaker) 4K 직캠 @쇼케이스",
+      "channel": "gonigy",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18131",
+      "ytId": "Bq4BA0POcBQ",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240115 DASH NMIXX(엔믹스) 규진 KYUJIN Fancam Fe3O4: BREAK Showcase",
+      "channel": "BB.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18132",
+      "ytId": "AEPEAXok29w",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240115 엔믹스 (NMIXX) 해원 - Run For Roses 4K 직캠 @쇼케이스",
+      "channel": "gonigy",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18133",
+      "ytId": "IpSvDId7DoA",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240115 엔믹스 (NMIXX) 쇼케이스 (Showcase) - “대시“ (Dash) 설윤직캠 (fancam)",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18134",
+      "ytId": "thJgUTvjn-g",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240115 NMIXX SHOWCASE ㅣ 엔믹스 쇼케이스-DASH Fe3O4: BREAK 규진 직캠",
+      "channel": "잡곡밥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18135",
+      "ytId": "InqKbEtSOF4",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 240115 Run for Roses NMIXX(엔믹스) 규진 Fancam Fe304: Break Showcase",
+      "channel": "BB.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18136",
+      "ytId": "pqwMVbxBdeY",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240115 NMIXX SHOWCASE ㅣ 엔믹스 쇼케이스-Run For Roses Fe3O4: BREAK 규진 직캠",
+      "channel": "잡곡밥",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18137",
+      "ytId": "rF7kX2N9mMo",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240115 NMIXX KYUJIN 엔믹스 규진 Showcase - \"Soñar(Breaker)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18138",
+      "ytId": "WaIRLcAo-RU",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240115 쇼케이스｜엔믹스 해원 (NMIXX HAEWON) DASH 직캠❤️",
+      "channel": "오뿐",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18139",
+      "ytId": "hEbvTrlQtz8",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240115 엔믹스 쇼케이스 “Run For Roses” 릴리 직캠",
+      "channel": "리얼리릴리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18140",
+      "ytId": "nGvk7qXXij4",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240115 DASH Fe3O4 Showcase 엔믹스 지우 직캠 (NMIXX JIWOO Fancam)",
+      "channel": "Lovable Film",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18141",
+      "ytId": "DFFhBHn78Kk",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM]엔믹스(NMIXX) 해원(HAEWON) -240115 쇼케이스 RUN FOR ROSES 직캠",
+      "channel": "wonknie_hw",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18142",
+      "ytId": "aDZT3S-oK2s",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240115 엔믹스 쇼케이스 “Sonar“ 릴리 직캠",
+      "channel": "리얼리릴리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18143",
+      "ytId": "kR0sq_X3wEM",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240115 NMIXX KYUJIN 엔믹스 규진 Showcase - \"Run For Roses\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18144",
+      "ytId": "HMUBkx-4ltM",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240115 NMIXX KYUJIN 엔믹스 규진 Showcase - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18145",
+      "ytId": "jlz1XBEq_e8",
+      "eventId": "e1329",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM]엔믹스(NMIXX) 해원(HAEWON) 240115 쇼케이스 DASH 직캠",
+      "channel": "wonknie_hw",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-18"
+    },
+    {
+      "id": "v18146",
+      "ytId": "28lrjkl3TxU",
+      "eventId": "e1033",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "DASH - NMIXX [Music Bank] | KBS WORLD TV 240119",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18147",
+      "ytId": "jgp7mNaUfBM",
+      "eventId": "e1033",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Soñar (Breaker) - NMIXX [뮤직뱅크/Music Bank] | KBS 240119 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18148",
+      "ytId": "QEAdgJf5p_8",
+      "eventId": "e1033",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Soñar (Breaker) - NMIXX [Music Bank] | KBS WORLD TV 240119",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18149",
+      "ytId": "dUMEuut4BzI",
+      "eventId": "e1033",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "DASH - NMIXX [뮤직뱅크/Music Bank] | KBS 240119 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18150",
+      "ytId": "z6xKmfkQ5KI",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] NMIXX KYUJIN – DASH (엔믹스 규진 - 대시) Close-up Cam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18151",
+      "ytId": "b4tko4O3v1s",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX HAEWON – DASH (엔믹스 해원 - 대시) FanCam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18152",
+      "ytId": "ezYuXd2lfMY",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX KYUJIN – DASH (엔믹스 규진 - 대시) FanCam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18153",
+      "ytId": "TF67DiM_htI",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX JIWOO – DASH (엔믹스 지우 - 대시) FanCam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18154",
+      "ytId": "RJr9hVn_wdE",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] NMIXX BAE – Soñar (Breaker)(엔믹스 배이 - 쏘냐르(브레이커)) Close-up Cam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18155",
+      "ytId": "1XdvUluUd_s",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX SULLYOON – Soñar (Breaker) (엔믹스 설윤 - 쏘냐르(브레이커)) FanCam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-20"
+    },
+    {
+      "id": "v18156",
+      "ytId": "1PVM-TrkxF0",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX BAE –  Soñar (Breaker) (엔믹스 배이 - 쏘냐르 (브레이커)) FanCam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-20"
+    },
+    {
+      "id": "v18157",
+      "ytId": "M06W8TIf7KQ",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX BAE – DASH (엔믹스 배이 - 대시) FanCam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-20"
+    },
+    {
+      "id": "v18158",
+      "ytId": "cRb76i7gKig",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] NMIXX LILY – Soñar (Breaker)(엔믹스 릴리 - 쏘냐르(브레이커)) Close-up Cam | Show! MusicCore |MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-23"
+    },
+    {
+      "id": "v18159",
+      "ytId": "7nHQq9amYHc",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX KYUJIN – Soñar (Breaker)(엔믹스 규진 - 쏘냐르 (브레이커)) FanCam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-20"
+    },
+    {
+      "id": "v18160",
+      "ytId": "Hf969TqSHvU",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX SULLYOON – DASH (엔믹스 설윤 - 대시) FanCam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-20"
+    },
+    {
+      "id": "v18161",
+      "ytId": "UskAVN0EgG8",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] NMIXX HAEWON – DASH (엔믹스 해원 - 대시) Close-up Cam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-22"
+    },
+    {
+      "id": "v18162",
+      "ytId": "bIRGDzsxttg",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX LILY – DASH (엔믹스 릴리 - 대시) FanCam | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18163",
+      "ytId": "pUFWbZ_v7nc",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX (엔믹스) - Soñar (Breaker) | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18164",
+      "ytId": "O_7-XjvCZB4",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX (엔믹스) - DASH | Show! MusicCore | MBC240120방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18165",
+      "ytId": "X_vvgGTYSWA",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 릴리 'Soñar (Breaker)' (NMIXX LILY FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18166",
+      "ytId": "E9olZJmTcMw",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 규진 'Soñar (Breaker)' (NMIXX KYUJIN FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18167",
+      "ytId": "M7tbWWThB2U",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 엔믹스 'DASH' 단독샷 별도녹화│NMIXX ONE TAKE STAGE│@SBS Inkigayo 240121",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18168",
+      "ytId": "NA3n32CRGwQ",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 지우 'DASH' (NMIXX JIWOO FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18169",
+      "ytId": "Zrff-8S4oBE",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 엔믹스 릴리 'DASH' (NMIXX LILY FaceCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18170",
+      "ytId": "k3dYsogqHsY",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 설윤 'Soñar (Breaker)' (NMIXX SULLYOON FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18171",
+      "ytId": "JuQNOKn8b4A",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 지우 'Soñar (Breaker)' (NMIXX JIWOO FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18172",
+      "ytId": "a981J667I1s",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 해원 'DASH' (NMIXX HAEWON FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18173",
+      "ytId": "01xmTGElMTo",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 규진 'DASH' (NMIXX KYUJIN FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18174",
+      "ytId": "OJYVWoWKt7A",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 설윤 'DASH' (NMIXX SULLYOON FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18175",
+      "ytId": "a0Yro3fEQ-M",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 배이 'DASH' (NMIXX BAE FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18176",
+      "ytId": "9WO_aMvTBEM",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 릴리 'DASH' (NMIXX LILY FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18177",
+      "ytId": "q8j_aYdFhtk",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 엔믹스 설윤 'DASH' (NMIXX SULLYOON FaceCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18178",
+      "ytId": "eF89DEWLO0s",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 배이 'Soñar (Breaker)' (NMIXX BAE FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18179",
+      "ytId": "e9v5IfDi-DM",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 엔믹스 해원 'DASH' (NMIXX HAEWON FaceCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18180",
+      "ytId": "ewbxmSHBV0Y",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 해원 'Soñar (Breaker)' (NMIXX HAEWON FanCam) @SBS Inkigayo 240121",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18181",
+      "ytId": "6JUVxeK6UiA",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX (엔믹스) -  Soñar (Breaker)  @인기가요 inkigayo 20240121",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18182",
+      "ytId": "PDQciILUe-A",
+      "eventId": "e1036",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX (엔믹스) - DASH @인기가요 inkigayo 20240121",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18183",
+      "ytId": "ICcDi30cQ1U",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "(ENG) [쇼챔 1위] 1월 4주 챔피언송 ＜NMIXX - DASH＞ 앵콜 Full ver. l Show Champion l EP.502 l 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18184",
+      "ytId": "-ojPSeDVFSo",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240124  쇼챔직캠  NMIXX HAEWON  Soñar Breaker 엔믹스 해원   쏘냐르 브레이커 Show Champion EP 502",
+      "channel": "crazed-individual",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18185",
+      "ytId": "06k9AwBkS_A",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] NMIXX KYUJIN - Soñar (Breaker) (엔믹스 규진 - 쏘냐르 (브레이커)) | Show Champion | EP.502 | 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18186",
+      "ytId": "hPPz78r941g",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX BAE - Soñar (Breaker) (엔믹스 배이 - 쏘냐르 (브레이커)) | Show Champion | EP.502 | 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18187",
+      "ytId": "dQD3cnCC0L8",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX JIWOO - Soñar (Breaker) (엔믹스 지우 - 쏘냐르 (브레이커)) | Show Champion | EP.502 | 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18188",
+      "ytId": "6GPOriVMTVs",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX LILY - Soñar (Breaker) (엔믹스 릴리 - 쏘냐르 (브레이커)) | Show Champion | EP.502 | 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18189",
+      "ytId": "cQPftY08km8",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX SULLYOON - DASH (엔믹스 설윤 - 대시) l Show Champion l EP.502 l 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18190",
+      "ytId": "YgkODycJR8A",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX HAEWON - DASH (엔믹스 해원 - 대시) l Show Champion l EP.502 l 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18191",
+      "ytId": "opZnu9vrVNM",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] NMIXX JIWOO - Soñar (Breaker) (엔믹스 지우 - 쏘냐르 (브레이커)) | Show Champion | EP.502 | 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18192",
+      "ytId": "3t8lqWAa7jE",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX JIWOO - DASH (엔믹스 지우 - 대시) l Show Champion l EP.502 l 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18193",
+      "ytId": "JuGjbDB_iGc",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX KYUJIN - Soñar (Breaker) (엔믹스 규진 - 쏘냐르 (브레이커)) | Show Champion | EP.502 | 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18194",
+      "ytId": "5GhquZSA4nc",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX LILY - DASH (엔믹스 릴리 - 대시) l Show Champion l EP.502 l 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18195",
+      "ytId": "VJprZfe_YD0",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX BAE - DASH (엔믹스 배이 - 대시) l Show Champion l EP.502 l 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-24"
+    },
+    {
+      "id": "v18196",
+      "ytId": "-sIFY2_uJ0U",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] NMIXX SULLYOON - DASH (엔믹스 설윤 - 대시) l Show Champion l EP.502 l 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-24"
+    },
+    {
+      "id": "v18197",
+      "ytId": "tyAV0uucEL8",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[COMEBACK] 엔믹스(NMIXX) - DASH l Show Champion l EP.502 l 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18198",
+      "ytId": "7wunsZpumpw",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "엔믹스(NMIXX) - Soñar (Breaker) l Show Champion l EP.502 l 240124",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18199",
+      "ytId": "uLUJEj2JwAo",
+      "eventId": "e1038",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240125 엠카운트다운 1위 앵콜 엔믹스 (NMIXX) - DASH @ M Countdown",
+      "channel": "IBT KPOP ALL",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18200",
+      "ytId": "q9Yl4Z5AL6w",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240126 뮤직뱅크 엔믹스 대쉬DASH 1위 앵콜 무대",
+      "channel": "혜의 덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18201",
+      "ytId": "wVHmxFQLXv0",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "DASH - NMIXX [뮤직뱅크/Music Bank] | KBS 240126 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-26"
+    },
+    {
+      "id": "v18202",
+      "ytId": "XdCSzE2r4IE",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "DASH - NMIXX [Music Bank] | KBS WORLD TV 240126",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18203",
+      "ytId": "fRBySRFC0_s",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX JIWOO – DASH(엔믹스 지우 - 대시) FanCam | Show! MusicCore | MBC240127방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18204",
+      "ytId": "IuQ8tfsxsJg",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX SULLYOON – DASH(엔믹스 설윤 - 대시) FanCam | Show! MusicCore | MBC240127방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18205",
+      "ytId": "AX4oSHH-zaU",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX KYUJIN – DASH(엔믹스 규진 - 대시) FanCam | Show! MusicCore | MBC240127방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18206",
+      "ytId": "BloQo1aR0UQ",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX LILY – DASH(엔믹스 릴리 - 대시) FanCam | Show! MusicCore | MBC240127방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18207",
+      "ytId": "pYF8T-awsRQ",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX HAEWON – DASH(엔믹스 해원 - 대시) FanCam | Show! MusicCore | MBC240127방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-27"
+    },
+    {
+      "id": "v18208",
+      "ytId": "NphHno_zHns",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX (엔믹스) - DASH | Show! MusicCore | MBC240127방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18209",
+      "ytId": "ugoXe9UuR6A",
+      "eventId": "e1039",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 규진 'DASH' (NMIXX KYUJIN FanCam) @SBS Inkigayo 240128",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18210",
+      "ytId": "g22GFD92XJo",
+      "eventId": "e1039",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 설윤 'DASH' (NMIXX SULLYOON FanCam) @SBS Inkigayo 240128",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18211",
+      "ytId": "npu25aQS2bI",
+      "eventId": "e1039",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX (엔믹스) - DASH @인기가요 inkigayo 20240128",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18212",
+      "ytId": "im-hj6MjOGc",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX JIWOO - DASH (엔믹스 지우 - 대시) l Show Champion l EP.503 l 240130",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18213",
+      "ytId": "lmIsY0OD0Zc",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] NMIXX JIWOO - DASH (엔믹스 지우 - 대시) l Show Champion l EP.503 l 240130",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18214",
+      "ytId": "sGPdZFxYBg0",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX KYUJIN - DASH (엔믹스 규진 - 대시) l Show Champion l EP.503 l 240130",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18215",
+      "ytId": "PTPiMZqkofk",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] NMIXX HAEWON - DASH (엔믹스 해원 - 대시) l Show Champion l EP.503 l 240130",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18216",
+      "ytId": "cT_ijxse1O0",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX HAEWON - DASH (엔믹스 해원 - 대시) l Show Champion l EP.503 l 240130",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18217",
+      "ytId": "L06qxo4Mz5c",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX LILY - DASH (엔믹스 릴리 - 대시) l Show Champion l EP.503 l 240130",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18218",
+      "ytId": "2-WeMBGgFrE",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX BAE - DASH (엔믹스 배이 - 대시) l Show Champion l EP.503 l 240130",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18219",
+      "ytId": "_WHp4MAxms4",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX SULLYOON - DASH (엔믹스 설윤 - 대시) l Show Champion l EP.503 l 240130",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18220",
+      "ytId": "Qkhd_9IIyRM",
+      "eventId": "e1042",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX - DASH #엠카운트다운 EP.827 | Mnet 240201 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-01"
+    },
+    {
+      "id": "v18221",
+      "ytId": "k-tcXznOMhs",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 배이 'DASH' 직캠 (NMIXX BAE Tower Fancam) l @MusicBank KBS 240202",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18222",
+      "ytId": "cTC8jqg8XDA",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 해원 'DASH' 직캠 (NMIXX HAEWON Tower Fancam) l @MusicBank KBS 240202",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18223",
+      "ytId": "_EmtPLGkqmU",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 규진 'DASH' 직캠 (NMIXX KYUJIN Tower Fancam) l @MusicBank KBS 240202",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18224",
+      "ytId": "V0jisf7LLTs",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "DASH - NMIXX [Music Bank] | KBS WORLD TV 240202",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18225",
+      "ytId": "2Y2Y26dfNpQ",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "DASH - NMIXX [뮤직뱅크/Music Bank] | KBS 240202 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-02"
+    },
+    {
+      "id": "v18226",
+      "ytId": "Rr4d4AbUNbg",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX  DASH Lily FanCam  240203 MusicCore",
+      "channel": "Chaery",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18227",
+      "ytId": "s96DQBPFusM",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX HAEWON – DASH(엔믹스 해원 - 대시) FanCam | Show! MusicCore | MBC240203방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18228",
+      "ytId": "cdyPZaYz0aE",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX (엔믹스) - DASH | Show! MusicCore | MBC240203방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-03"
+    },
+    {
+      "id": "v18229",
+      "ytId": "YngxjfNVS5Y",
+      "eventId": "e1043",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 해원 'DASH' (NMIXX HAEWON FanCam) @SBS Inkigayo 240204",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18230",
+      "ytId": "qAkFm4PZYYs",
+      "eventId": "e1043",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 규진 'DASH' (NMIXX KYUJIN FanCam) @SBS Inkigayo 240204",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-05"
+    },
+    {
+      "id": "v18231",
+      "ytId": "9vPqrK1X9Xo",
+      "eventId": "e1043",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fan edit] 엔믹스 배이 'DASH' (NMIXX BAE FanCam) 240204",
+      "channel": "YN",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-06"
+    },
+    {
+      "id": "v18232",
+      "ytId": "XkXX5egObjA",
+      "eventId": "e1043",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX (엔믹스) - DASH @인기가요 inkigayo 20240204",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18233",
+      "ytId": "7A8C_86EH98",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX HAEWON - DASH (엔믹스 해원 - 대시) l Show Champion l EP.504 l 240207",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-08"
+    },
+    {
+      "id": "v18234",
+      "ytId": "xbh9dCfsNWw",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX SULLYOON - DASH (엔믹스 설윤 - 대시) l Show Champion l EP.504 l 240207",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18235",
+      "ytId": "RjHulVMRat0",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX JIWOO - DASH (엔믹스 지우 - 대시) l Show Champion l EP.504 l 240207",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18236",
+      "ytId": "skzUUqpuiXk",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] NMIXX BAE - DASH (엔믹스 배이 - 대시) l Show Champion l EP.504 l 240207",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-08"
+    },
+    {
+      "id": "v18237",
+      "ytId": "PCeCMkEIcsY",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔 원픽캠 4K] NMIXX LILY - DASH (엔믹스 릴리 - 대시) l Show Champion l EP.504 l 240207",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-08"
+    },
+    {
+      "id": "v18238",
+      "ytId": "HR2BonJCXKg",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX BAE - DASH (엔믹스 배이 - 대시) l Show Champion l EP.504 l 240207",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18239",
+      "ytId": "nk6dPseYp9g",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[쇼챔직캠 4K] NMIXX LILY - DASH (엔믹스 릴리 - 대시) l Show Champion l EP.504 l 240207",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18240",
+      "ytId": "t0Q3NeZBKRY",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX(엔믹스) - DASH l Show Champion l EP.504 l 240207",
+      "channel": "ALL THE K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18241",
+      "ytId": "XmvoU4c6x_U",
+      "eventId": "e1044",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[Fan edit] 엔믹스 배이 직캠 'DASH' (NMIXX BAE FaceCam) | 240208",
+      "channel": "YN",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18242",
+      "ytId": "jsFwhS8Y_AQ",
+      "eventId": "e1044",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX - DASH #엠카운트다운 EP.828 | Mnet 240208 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18243",
+      "ytId": "78Pa72egCS0",
+      "eventId": "e1045",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Run For Roses - NMIXX [Music Bank] | KBS WORLD TV 240216",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18244",
+      "ytId": "UHjLGZJ1ynU",
+      "eventId": "e1045",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Run For Roses - NMIXX [뮤직뱅크/Music Bank] | KBS 240216 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18245",
+      "ytId": "ZRhMTBwNCKA",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] NMIXX JIWOO – Run For Roses (엔믹스 지우 - 런 포 로지스) Close-up Cam | Show! MusicCore | MBC240217방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-19"
+    },
+    {
+      "id": "v18246",
+      "ytId": "_sD0j-jwWQ8",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX SULLYOON – Run For Roses (엔믹스 설윤 - 런 포 로지스) FanCam | Show! MusicCore | MBC240217방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-17"
+    },
+    {
+      "id": "v18247",
+      "ytId": "JOnzyZjJOj0",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX BAE – Run For Roses (엔믹스 배이 - 런 포 로지스) FanCam | Show! MusicCore | MBC240217방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-17"
+    },
+    {
+      "id": "v18248",
+      "ytId": "8duOF_l32d4",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[예능연구소] NMIXX KYUJIN – Run For Roses (엔믹스 규진 - 런 포 로지스) FanCam | Show! MusicCore | MBC240217방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-17"
+    },
+    {
+      "id": "v18249",
+      "ytId": "CXCnb7tICLg",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "NMIXX (엔믹스) - Run For Roses | Show! MusicCore | MBC240217방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-17"
+    },
+    {
+      "id": "v18250",
+      "ytId": "DxyZZ535e60",
+      "eventId": "e1046",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 설윤 'Run For Roses' (NMIXX SULLYOON FanCam) @SBS Inkigayo 240218",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18251",
+      "ytId": "14jdcgmt9Mc",
+      "eventId": "e1046",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 엔믹스 릴리 'Run For Roses' (NMIXX LILY FaceCam) @SBS Inkigayo 240218",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-20"
+    },
+    {
+      "id": "v18252",
+      "ytId": "WyY5-D1DIXo",
+      "eventId": "e1046",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 해원 'Run For Roses' (NMIXX HAEWON FanCam) @SBS Inkigayo 240218",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-19"
+    },
+    {
+      "id": "v18253",
+      "ytId": "cz8JLTTNCPM",
+      "eventId": "e1046",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 엔믹스 규진 'Run For Roses' (NMIXX KYUJIN FaceCam) @SBS Inkigayo 240218",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18254",
+      "ytId": "3D2rKec78CE",
+      "eventId": "e1046",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 엔믹스 설윤 'Run For Roses' (NMIXX SULLYOON FaceCam) @SBS Inkigayo 240218",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18255",
+      "ytId": "1Y5FauD6OlY",
+      "eventId": "e1046",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 규진 'Run For Roses' (NMIXX KYUJIN FanCam) @SBS Inkigayo 240218",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-19"
+    },
+    {
+      "id": "v18256",
+      "ytId": "IbDJAg-4esQ",
+      "eventId": "e1046",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 배이 'Run For Roses' (NMIXX BAE FanCam) @SBS Inkigayo 240218",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-19"
+    },
+    {
+      "id": "v18257",
+      "ytId": "eHaOg1zxSbc",
+      "eventId": "e1046",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 지우 'Run For Roses' (NMIXX JIWOO FanCam) @SBS Inkigayo 240218",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18258",
+      "ytId": "rW2v75v4aNM",
+      "eventId": "e1046",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 릴리 'Run For Roses' (NMIXX LILY FanCam) @SBS Inkigayo 240218",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-19"
+    },
+    {
+      "id": "v18259",
+      "ytId": "FtnuQ54KkoQ",
+      "eventId": "e1046",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX (엔믹스) - Run For Roses 인기가요 inkigayo 20240218",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-18"
+    },
+    {
+      "id": "v18260",
+      "ytId": "Y8KJi6L3ZO4",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240224 NMIXX KYUJIN 엔믹스 규진 Mini Fanmeeting - \"Run For Roses\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18261",
+      "ytId": "y8FKVqWpooY",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240224 엔믹스 미니팬미팅 run for roses 무대",
+      "channel": "MyGosh",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
