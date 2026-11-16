@@ -20977,6 +20977,300 @@
         "g11s18"
       ],
       "note": ""
+    },
+    {
+      "id": "e1385",
+      "groupId": "g1",
+      "date": "2024-01-20",
+      "show": "하나 드림콘서트",
+      "label": "",
+      "setlist": [
+        "g1s7",
+        "g1s5",
+        "g1s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1386",
+      "groupId": "g1",
+      "date": "2024-01-27",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 방콕",
+      "label": "",
+      "setlist": [
+        "g1s5",
+        "g1s4",
+        "g1s2",
+        "g1s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1387",
+      "groupId": "g1",
+      "date": "2024-02-17",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 쿠알라룸푸르",
+      "label": "",
+      "setlist": [
+        "g1s8",
+        "g1s3",
+        "g1s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1388",
+      "groupId": "g1",
+      "date": "2024-02-24",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 싱가포르",
+      "label": "",
+      "setlist": [
+        "g1s1",
+        "g1s5",
+        "g1s7",
+        "g1s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1389",
+      "groupId": "g1",
+      "date": "2024-03-02",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 타이베이",
+      "label": "",
+      "setlist": [
+        "g1s4",
+        "g1s5",
+        "g1s2",
+        "g1s7",
+        "g1s1",
+        "g1s8",
+        "g1s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1390",
+      "groupId": "g1",
+      "date": "2024-03-03",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 타이베이",
+      "label": "",
+      "setlist": [
+        "g1s4",
+        "g1s2",
+        "g1s5",
+        "g1s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1391",
+      "groupId": "g1",
+      "date": "2024-03-09",
+      "show": "IVE 2nd FANMEETING 'MAGAZINE IVE'",
+      "label": "",
+      "setlist": [
+        "g1s5",
+        "g1s4",
+        "g1s8",
+        "g1s2",
+        "g1s56",
+        "g1s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1392",
+      "groupId": "g1",
+      "date": "2024-03-10",
+      "show": "IVE 2nd FANMEETING 'MAGAZINE IVE'",
+      "label": "",
+      "setlist": [
+        "g1s8",
+        "g1s5",
+        "g1s56",
+        "g1s7",
+        "g1s2",
+        "g1s4"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1393",
+      "groupId": "g1",
+      "date": "2024-03-13",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE LA",
+      "label": "",
+      "setlist": [
+        "g1s8",
+        "g1s2",
+        "g1s1",
+        "g1s3",
+        "g1s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1394",
+      "groupId": "g1",
+      "date": "2024-03-16",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 오클랜드",
+      "label": "",
+      "setlist": [
+        "g1s2",
+        "g1s4"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1395",
+      "groupId": "g1",
+      "date": "2024-03-24",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 애틀랜타",
+      "label": "",
+      "setlist": [
+        "g1s1",
+        "g1s8",
+        "g1s3",
+        "g1s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1396",
+      "groupId": "g1",
+      "date": "2024-03-26",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 시카고",
+      "label": "",
+      "setlist": [
+        "g1s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1397",
+      "groupId": "g1",
+      "date": "2024-03-29",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 뉴어크",
+      "label": "",
+      "setlist": [
+        "g1s4",
+        "g1s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1398",
+      "groupId": "g1",
+      "date": "2024-05-07",
+      "show": "인천대 축제",
+      "label": "",
+      "setlist": [
+        "g1s9",
+        "g1s2",
+        "g1s5",
+        "g1s3",
+        "g1s4"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1399",
+      "groupId": "g1",
+      "date": "2024-05-09",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g1s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1400",
+      "groupId": "g1",
+      "date": "2024-05-13",
+      "show": "한국체육대 축제",
+      "label": "",
+      "setlist": [
+        "g1s3",
+        "g1s5",
+        "g1s4",
+        "g1s2",
+        "g1s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1401",
+      "groupId": "g1",
+      "date": "2024-05-26",
+      "show": "연세대 축제",
+      "label": "",
+      "setlist": [
+        "g1s9",
+        "g1s10",
+        "g1s2",
+        "g1s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1402",
+      "groupId": "g1",
+      "date": "2024-06-04",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 파리",
+      "label": "",
+      "setlist": [
+        "g1s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1403",
+      "groupId": "g1",
+      "date": "2024-06-07",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 바르셀로나",
+      "label": "",
+      "setlist": [
+        "g1s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1404",
+      "groupId": "g1",
+      "date": "2024-06-10",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 베를린",
+      "label": "",
+      "setlist": [
+        "g1s4",
+        "g1s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1405",
+      "groupId": "g1",
+      "date": "2024-06-16",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 런던",
+      "label": "",
+      "setlist": [
+        "g1s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1406",
+      "groupId": "g1",
+      "date": "2024-06-30",
+      "show": "IVE WORLD TOUR SHOW WHAT I HAVE 산티아고",
+      "label": "",
+      "setlist": [
+        "g1s5",
+        "g1s4",
+        "g1s2"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -364440,6 +364734,7030 @@
       "gone": false,
       "uploaded": "2026-11-08",
       "thumbPos": "50% 48%"
+    },
+    {
+      "id": "v18807",
+      "ytId": "-FWE2Llg9mE",
+      "eventId": "e1385",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240120 [4k] IVE 아이브「Off The Record」안유진 직캠 AnYujin fancam | 하나금융그룹 출발2024",
+      "channel": "덕카이브 Duckive: DearMyDuckLife",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18808",
+      "ytId": "F0dA_xmA6gY",
+      "eventId": "e1385",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240120 하나 드림콘서트 HANA DREAM CONCERT 'I AM(아이엠)' 아이브 이서 IVE LEESEO 직캠",
+      "channel": "Double!",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18809",
+      "ytId": "cjXC5peJMKs",
+      "eventId": "e1385",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K) 240120 하나 DREAM 콘서트 'BADDIE' 아이브 장원영 IVE JANGWONYOUNG 직캠",
+      "channel": "MILKY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18810",
+      "ytId": "sPNdRBe-gh4",
+      "eventId": "e1385",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K직캠] 아이브 안유진 직캠 'I AM' / @하나드림콘서트_240120",
+      "channel": "안댕댕",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18811",
+      "ytId": "nUEBudWTg90",
+      "eventId": "e1385",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240120 하나드림콘서트 아이브 가을 ive gaeul Off the record  오프더레코드 직캠",
+      "channel": "Florens",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18812",
+      "ytId": "lBIY4S2e5rw",
+      "eventId": "e1385",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240120 [4k] IVE 아이브「I AM」장원영 직캠 Jang Wonyoung | 하나금융그룹 출발2024",
+      "channel": "덕카이브 Duckive: DearMyDuckLife",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18813",
+      "ytId": "f53vDPkU0jw",
+      "eventId": "e1385",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K직캠] 아이브 안유진 직캠 'BADDIE' / @하나드림콘서트_240120",
+      "channel": "안댕댕",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18814",
+      "ytId": "hCrFDFZwIkA",
+      "eventId": "e1385",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240120 하나Dream 콘서트 아이브 가을 Off the record 직캠 IVE GAEUL 4K FANCAM",
+      "channel": "sunset",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18815",
+      "ytId": "_qcCYxXWUl4",
+      "eventId": "e1385",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K) 240120 하나 DREAM 콘서트 'OFF THE RECORD' 아이브 장원영 IVE JANGWONYOUNG 직캠",
+      "channel": "MILKY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18816",
+      "ytId": "q68Y4Nt-G-U",
+      "eventId": "e1385",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240120 하나드림콘서트 HANA DREAM CONCERT 아이브 가을 ive gaeul Baddie 배디 직캠",
+      "channel": "Florens",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18817",
+      "ytId": "oQoDHQgIuL8",
+      "eventId": "e1385",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K직캠] 아이브 안유진 직캠 'OFF THE RECORD' / @하나드림콘서트_240120",
+      "channel": "안댕댕",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18818",
+      "ytId": "ZtSkBEhNFmI",
+      "eventId": "e1386",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240127 IVE AN YUJIN (아이브 안유진) - 'I AM' SHOW WHAT I HAVE IN BANGKOK",
+      "channel": "FreakyPIMM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-19"
+    },
+    {
+      "id": "v18819",
+      "ytId": "kRbqs2lFBzY",
+      "eventId": "e1386",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240127 SHOW WHAT I HAVE BANGKOK 'Kitsch' IVE JANGWONYOUNG 아이브 장원영 직캠 FANCAM",
+      "channel": "NinoJ",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-06"
+    },
+    {
+      "id": "v18820",
+      "ytId": "WhWQXdfMCHU",
+      "eventId": "e1386",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240127 SHOW WHAT I HAVE BANGKOK 'LOVE DIVE' IVE JANGWONYOUNG 아이브 장원영 직캠 FANCAM",
+      "channel": "NinoJ",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-03"
+    },
+    {
+      "id": "v18821",
+      "ytId": "wNoGvfqWd2s",
+      "eventId": "e1386",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240127 IVE 아이브 원영 - 키치 4K - IVE THE 1ST WORLD TOUR [SHOW WHAT I HAVE] IN BANGKOK",
+      "channel": "HeArTLeSS",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18822",
+      "ytId": "iU7w1bADH_s",
+      "eventId": "e1386",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240127 IVE 아이브 WONYOUNG - AFTER LIKE 4K - IVE THE 1ST WORLD TOUR [SHOW WHAT I HAVE] IN BANGKOK",
+      "channel": "HeArTLeSS",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18823",
+      "ytId": "T8G0JVy0x6I",
+      "eventId": "e1387",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240217 - Baddie [4K] IVE ANYUJIN 안유진 fancam \"SHOW WHAT I HAVE in Kuala Lumpur\"",
+      "channel": "OXY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-19"
+    },
+    {
+      "id": "v18824",
+      "ytId": "d_dqYHXwsYk",
+      "eventId": "e1387",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240217 - AfterLike [4K] IVE ANYUJIN 안유진 fancam \"SHOW WHAT I HAVE in Kuala Lumpur\"",
+      "channel": "OXY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-24"
+    },
+    {
+      "id": "v18825",
+      "ytId": "TGvg-wKlhCQ",
+      "eventId": "e1387",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[2K] 240217 아이브 장원영 WONYOUNG - SHOW WHAT I HAVE IN KL 'ELEVEN' FOCUS CAM",
+      "channel": "PigMe",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18826",
+      "ytId": "9HVOREocg8A",
+      "eventId": "e1388",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240224 IVE - Eleven | GAEUL Fancam | Show What I Have in SG",
+      "channel": "GrantSor",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-12"
+    },
+    {
+      "id": "v18827",
+      "ytId": "Z7uXIfsamRA",
+      "eventId": "e1388",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240224 SHOW WHAT I HAVE SINGAPORE 'I AM' IVE JANGWONYOUNG 아이브 장원영 직캠 FANCAM",
+      "channel": "NinoJ",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-26"
+    },
+    {
+      "id": "v18828",
+      "ytId": "rASCMkh1p2o",
+      "eventId": "e1388",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240224 IVE Show What I Have SG - Off The Record - Gaeul Fancam",
+      "channel": "GrantSor",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-12"
+    },
+    {
+      "id": "v18829",
+      "ytId": "P0Hob8w0xpk",
+      "eventId": "e1388",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240224 SHOW WHAT I HAVE SINGAPORE 'LOVE DIVE' IVE JANGWONYOUNG 아이브 장원영 직캠 FANCAM",
+      "channel": "NinoJ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18830",
+      "ytId": "hXfyXH-gRQM",
+      "eventId": "e1389",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 아이브 IVE 'Kitsch' 안유진 AN YUJIN FANCAM @ THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' IN TAIPEI 240302",
+      "channel": "Meowchae",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-03"
+    },
+    {
+      "id": "v18831",
+      "ytId": "DYNhwhAGgAw",
+      "eventId": "e1389",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240302 안유진 安俞真 직캠 'Kitsch'(IVE AN YUJIN Fancam) |SHOW WHAT i HAVE: IVE THE 1ST WORLD TOUR in TAIPEI",
+      "channel": "zynnk1221",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-03"
+    },
+    {
+      "id": "v18832",
+      "ytId": "DzV_oLKputM",
+      "eventId": "e1389",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240302 안유진 安俞真 직캠 'I AM'(IVE AN YUJIN Fancam) | SHOW WHAT i HAVE: IVE THE 1ST WORLD TOUR in TAIPEI",
+      "channel": "zynnk1221",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-03"
+    },
+    {
+      "id": "v18833",
+      "ytId": "2jA1_IsWdt0",
+      "eventId": "e1389",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240302 안유진 安俞真 직캠 'LOVE DIVE'(IVE AN YUJIN Fancam)|SHOW WHAT i HAVE:IVE THE 1ST WORLD TOUR in TAIPEI",
+      "channel": "zynnk1221",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-05"
+    },
+    {
+      "id": "v18834",
+      "ytId": "yoFA8yn6L0c",
+      "eventId": "e1389",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240302 아이브 장원영 - 'LOVE DIVE' 직캠 IVE Wonyoung FANCAM 1ST WORLD TOUR in Taipei Day1",
+      "channel": "兒 周",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-03"
+    },
+    {
+      "id": "v18835",
+      "ytId": "0BuOkWrrSPw",
+      "eventId": "e1389",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "IVE 'Kitsch' IVE THE 1ST WORLD TOUR ‘SHOW WHAT I HAVE’ IN TAIPEI Wonyoung fancam 240302",
+      "channel": "Brownie Vicky",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v18836",
+      "ytId": "dLLXCxjFwRw",
+      "eventId": "e1389",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "IVE 'Opening+I AM' IVE THE 1ST WORLD TOUR ‘SHOW WHAT I HAVE’ IN TAIPEI Wonyoung fancam 240302",
+      "channel": "Brownie Vicky",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v18837",
+      "ytId": "DtwNx2bek5o",
+      "eventId": "e1389",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "IVE 'Mine+Off the Record' IVE THE 1ST WORLD TOUR ‘SHOW WHAT I HAVE’ IN TAIPEI Wonyoung fancam 240302",
+      "channel": "Brownie Vicky",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v18838",
+      "ytId": "u7dK2NwO2y0",
+      "eventId": "e1389",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240302 IVE 아이브 ELEVEN 台北演唱會 SHOW WHAT i HAVE CONCERT WORLD TOUR in Taipei fancam 직캠 安兪真 張員瑛 YUJIN",
+      "channel": "Ivy Chiu",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v18839",
+      "ytId": "seGX1nsMA1M",
+      "eventId": "e1389",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240302 IVE 아이브 Kitsch 台北演唱會 SHOW WHAT i HAVE CONCERT WORLD TOUR in Taipei fancam 직캠 安兪真 張員瑛 YUJIN",
+      "channel": "Ivy Chiu",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v18840",
+      "ytId": "BSKWSRTk1gU",
+      "eventId": "e1389",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240302 아이브 안유진 직캠 'kitsch片段'(IVE AN YUJIN Fancam) 1080p",
+      "channel": "zynnk1221",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-03"
+    },
+    {
+      "id": "v18841",
+      "ytId": "j3Ihwz_bDDM",
+      "eventId": "e1389",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240302 IVE 아이브 Baddie 台北演唱會 SHOW WHAT i HAVE CONCERT WORLD TOUR in Taipei fancam 직캠 安兪真 張員瑛 YUJIN",
+      "channel": "Ivy Chiu",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-03"
+    },
+    {
+      "id": "v18842",
+      "ytId": "CAt4fU8YN9c",
+      "eventId": "e1389",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240302 IVE 아이브 AfterLike 台北演唱會 SHOW WHAT i HAVE CONCERT WORLD TOUR in Taipei fancam 직캠 安兪真 張員瑛 YUJIN",
+      "channel": "Ivy Chiu",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-03"
+    },
+    {
+      "id": "v18843",
+      "ytId": "hibUE0SnA2I",
+      "eventId": "e1390",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240303 안유진 安俞真 직캠 'Kitsch' (IVE AN YUJIN Fancam) |SHOW WHAT i HAVE: IVE THE 1ST WORLD TOUR in TAIPEI",
+      "channel": "zynnk1221",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v18844",
+      "ytId": "acDAd00tvng",
+      "eventId": "e1390",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240303 아이브 안유진 직캠 LOVE DIVE (IVE AN YUJIN Fancam)|SHOW WHAT i HAVE: IVE THE 1ST WORLD TOUR in TAIPEI",
+      "channel": "zynnk1221",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v18845",
+      "ytId": "Q_uF808GC6s",
+      "eventId": "e1390",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240303 아이브 안유진 직캠 'I AM' (IVE AN YUJIN Fancam) | SHOW WHAT i HAVE: IVE THE 1ST WORLD TOUR in TAIPEI",
+      "channel": "zynnk1221",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v18846",
+      "ytId": "fZzeVxcmaSU",
+      "eventId": "e1390",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 아이브 IVE 'ELEVEN' 안유진 AN YUJIN FANCAM@IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' IN TAIPEI 240303",
+      "channel": "Meowchae",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v18847",
+      "ytId": "gS4owUnkXQ0",
+      "eventId": "e1390",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[ 4K ] 240303 IVE－Kitsch｜유진 직캠 YUJIN FOCUS FANCAM｜IVE THE 1ST WORLD TOUR IN TAIPEI",
+      "channel": "ANGEL Hs",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-18"
+    },
+    {
+      "id": "v18848",
+      "ytId": "ZnyQwy6B2Ag",
+      "eventId": "e1390",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 아이브 IVE 'Kitsch' 김가을 KIM GAEUL FANCAM @ THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' IN TAIPEI 240303",
+      "channel": "Meowchae",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v18849",
+      "ytId": "3kyyT4eJzss",
+      "eventId": "e1390",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 아이브 IVE 'I AM' 김가을 KIM GAEUL FANCAM @IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' IN TAIPEI 240303",
+      "channel": "Meowchae",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-03"
+    },
+    {
+      "id": "v18850",
+      "ytId": "fgdSMecTe-I",
+      "eventId": "e1390",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 아이브 IVE 'LOVE DIVE' 김가을 KIM GAEUL FANCAM@THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' IN TAIPEI 240303",
+      "channel": "Meowchae",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-04"
+    },
+    {
+      "id": "v18851",
+      "ytId": "5dHrDnF1Hd8",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브(IVE) 리즈 - I AM / 2024 IVE 2nd FANMEETING [ MAGAZINE IVE ] 1일차",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18852",
+      "ytId": "qPEavToxLbU",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 안유진 직캠 'Kitsch' (IVE YUJIN FanCam) @2nd Fanmeeting MAGAZINE IVE",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18853",
+      "ytId": "ilpojjaBn7Y",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 장원영 - 'I AM' 직캠 IVE Wonyoung FANCAM @FANMEETING MAGAZINE IVE",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-12"
+    },
+    {
+      "id": "v18854",
+      "ytId": "vvIysD2Bdc0",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 장원영 - 'Baddie' 직캠 IVE Wonyoung FANCAM @FANMEETING MAGAZINE IVE",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-12"
+    },
+    {
+      "id": "v18855",
+      "ytId": "1l9LFwK5Y1Y",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240309 아이브 (IVE) 2nd FANMEETING 'MAGAZINE IVE' - 'Baddie' 리즈 직캠 (LIZ Fancam)",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18856",
+      "ytId": "IYtZt2Ic9uw",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5",
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 이서 'Baddie' (IVE LEESEO Fancam) 직캠 @2nd Fanmeeting MAGAZINE IVE by 데일리즈",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-13"
+    },
+    {
+      "id": "v18857",
+      "ytId": "wGAoXlkYeMA",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 가을 직캠 'LOVE DIVE' (IVE GAEUL FanCam) @2nd Fanmeeting MAGAZINE IVE",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18858",
+      "ytId": "cyYjFVQixpw",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 (IVE) - Kitsch (키치) 안유진 직캠 | 2024 IVE 2nd FANMEETING 〈MAGAZINE IVE〉 | day1 #아이브 #안유진",
+      "channel": "Jelly Cam09",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18859",
+      "ytId": "4WEDOWhr8e8",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240309 아이브 장원영 IVE WONYOUNG - Holy Moly 직캠 @IVE 2ND FANMEETING",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18860",
+      "ytId": "f-u8vcX21Fk",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240309 아이브 장원영 IVE WONYOUNG  - LOVE DIVE 직캠 @IVE 2ND FANMEETING",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18861",
+      "ytId": "IPF3aSvM6S0",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 장원영 - 'LOVE DIVE' 직캠 IVE Wonyoung FANCAM @FANMEETING MAGAZINE IVE",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18862",
+      "ytId": "7lrA8ausM-k",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240309 아이브 이서 IVE LEESEO  - Baddie 직캠 @IVE 2ND FANMEETING",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18863",
+      "ytId": "ScVVAAz1XcI",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1",
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 안유진 'Baddie' (IVE AN YUJIN Fancam) 직캠 @2nd Fanmeeting MAGAZINE IVE by 데일리즈",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-13"
+    },
+    {
+      "id": "v18864",
+      "ytId": "KRWmL95STlY",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4",
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 장원영 'Kitsch' (IVE JANG WONYOUNG Fancam) 직캠 @2nd Fanmeeting MAGAZINE IVE by 데일리즈",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18865",
+      "ytId": "Pt_lMnR8_oU",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5",
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 이서 'Kitsch' (IVE LEESEO Fancam) 직캠 @2nd Fanmeeting MAGAZINE IVE by 데일리즈",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18866",
+      "ytId": "cxEhZUBlEgI",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 팬미팅 MAGAZINE IVE 아이브 리즈 IVE LIZ HOLY MOLY (홀리몰리) 직캠",
+      "channel": "door",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18867",
+      "ytId": "FFwcmFNN3mM",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 장원영 - 'Kitsch' 직캠 IVE Wonyoung FANCAM @FANMEETING MAGAZINE IVE",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18868",
+      "ytId": "kcB8UYem-O8",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240309 아이브 (IVE) 2nd FANMEETING 'MAGAZINE IVE' - 'Baddie' 리즈 직캠 (LIZ Fancam)",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18869",
+      "ytId": "HOBZQ6TmQl0",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4",
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 장원영 'Baddie' (IVE JANG WONYOUNG Fancam) 직캠 @2nd Fanmeeting MAGAZINE IVE by 데일리즈",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18870",
+      "ytId": "NmzGfxG70cs",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FanCam] 240309 IVE(아이브) 2nd FANMEETING 'MAGAZINE IVE' - Holy Moly (Liz Focus Cam) 리즈 직캠",
+      "channel": "일일아이브 Daily IVE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18871",
+      "ytId": "LNkMtDLi1mU",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 리즈 'Kitsch' (IVE LIZ Fancam) 직캠 @2nd Fanmeeting MAGAZINE IVE by 데일리즈",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18872",
+      "ytId": "UhWLtvI0joM",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브(IVE) 리즈 - Baddie / 2024 IVE 2nd FANMEETING [ MAGAZINE IVE ] 1일차",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18873",
+      "ytId": "MMo6cmsv0hk",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240309 IVE-LOVE DIVE An Yujin Focus @2nd FANMEETING〈MAGAZINE IVE〉아이브 안유진 직캠 4K",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18874",
+      "ytId": "nDTJtf4lsYI",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2",
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 가을 'Kitsch' (IVE GAEUL Fancam) 직캠 @2nd Fanmeeting MAGAZINE IVE by 데일리즈",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18875",
+      "ytId": "P5o1FDACVFY",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FanCam] 240309 IVE(아이브) 2nd FANMEETING 'MAGAZINE IVE' - Baddie (Liz Focus Cam) 리즈 직캠",
+      "channel": "일일아이브 Daily IVE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18876",
+      "ytId": "HxCCvOt6FxQ",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 (IVE) - Baddie (배디) 안유진 직캠 | 2024 IVE 2nd FANMEETING 〈MAGAZINE IVE〉 | day1 #아이브 #안유진",
+      "channel": "Jelly Cam09",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18877",
+      "ytId": "jMIt9_iQIRs",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 리즈 'Off The Record' (IVE LIZ Fancam) 직캠 @2nd Fanmeeting MAGAZINE IVE by 데일리즈",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18878",
+      "ytId": "FGu948aTLJM",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240309 IVE-Off The Record An Yujin Focus @2nd FANMEETING〈MAGAZINE IVE〉아이브 안유진 직캠 [4K]",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18879",
+      "ytId": "tGyZ5g7Pxfw",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 ( IVE ) 안유진 - Baddie [ 2nd Fanmeeting MAGAZINE IVE ] 직캠",
+      "channel": "SinC",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18880",
+      "ytId": "rPi6vhKIO74",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 ( IVE ) 안유진 - I AM [ 2nd Fanmeeting MAGAZINE IVE ] 직캠",
+      "channel": "SinC",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18881",
+      "ytId": "e2I_ufbnPNc",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 IVE-Holy Moly (홀리 몰리) An Yujin Focus @2nd FANMEETING〈MAGAZINE IVE〉아이브 안유진 직캠",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-02"
+    },
+    {
+      "id": "v18882",
+      "ytId": "P-B4augBiRo",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240309 2nd FANMEETING MAGAZINE IVE HolyMoly 홀리몰리 ANYUJIN 안유진 직캠",
+      "channel": "BESTPART",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-01"
+    },
+    {
+      "id": "v18883",
+      "ytId": "-dYLfUPFtik",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240309-10 2nd FANMEETING MAGAZINE IVE KITSCH 키치 ANYUJIN 안유진 직캠",
+      "channel": "BESTPART",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-09"
+    },
+    {
+      "id": "v18884",
+      "ytId": "A3Cqbi7oNT4",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240309 2nd FANMEETING MAGAZINE IVE Baddie 배디 ANYUJIN 안유진 직캠",
+      "channel": "BESTPART",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-09"
+    },
+    {
+      "id": "v18885",
+      "ytId": "65myQxGc-64",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] 240309 아이브 (IVE) 2nd FANMEETING 'MAGAZINE IVE' - 'LOVE DIVE' 유진 세로 직캠 (YUJIN Fancam)",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-13"
+    },
+    {
+      "id": "v18886",
+      "ytId": "_jH_OErx5vY",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240309 IVE FANMEETING [MAGAZINE IVE] HOLY MOLY - 안유진 직캠(YUJIN FOCUS)",
+      "channel": "바닐라빈",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18887",
+      "ytId": "8sxxZyUmrdM",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K] 240309 아이브 (IVE) 2nd FANMEETING 'MAGAZINE IVE' - 'Off The Record' 유진 세로 직캠 (YUJIN Fancam)",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-13"
+    },
+    {
+      "id": "v18888",
+      "ytId": "YFCkyla0SaA",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2",
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 가을 'Baddie' (IVE GAEUL Fancam) 직캠 @2nd Fanmeeting MAGAZINE IVE by 데일리즈",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-15"
+    },
+    {
+      "id": "v18889",
+      "ytId": "zSl7e-BL7RA",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 ( IVE ) 가을 - Kitsch [ 2nd Fanmeeting MAGAZINE ] 직캠",
+      "channel": "SinC",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18890",
+      "ytId": "X0UBN47VP1k",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 레이 'I AM' 직캠 (IVE REI FanCam) | @IVE 2nd FANMEETING MAGAZINE IVE",
+      "channel": "김레몬",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-13"
+    },
+    {
+      "id": "v18891",
+      "ytId": "Jp9DGq5irgU",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240309 아이브 장원영 IVE WONYOUNG  - I AM 직캠 @IVE 2ND FANMEETING",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18892",
+      "ytId": "z6_MdH_UdnY",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K 직캠] 240309 아이브(IVE) 장원영(Jang Wonyoung) LOVE DIVE 직캠(FANCAM) 2024 IVE 2nd FANMEETING",
+      "channel": "NPD",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-31"
+    },
+    {
+      "id": "v18893",
+      "ytId": "kPS3cf17fII",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240309 아이브 장원영 'I AM' 직캠 (IVE JANGWONYOUNG FocusCam) | 2024 IVE 2nd FANMEETING",
+      "channel": "제로",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18894",
+      "ytId": "l1xGPDhFmj0",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240309 아이브 (IVE) 2nd FANMEETING 'MAGAZINE IVE' - 'Off The Record' 리즈 직캠 (LIZ Fancam)",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18895",
+      "ytId": "XmIP6f2RVvk",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 팬미팅 Holy Moly 리즈 직캠",
+      "channel": "노랑체리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-12"
+    },
+    {
+      "id": "v18896",
+      "ytId": "WF7_9P7ogMo",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5",
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 아이브 이서 'Off The Record' (IVE LEESEO Fancam) 직캠 @2nd Fanmeeting MAGAZINE IVE by 데일리즈",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-12"
+    },
+    {
+      "id": "v18897",
+      "ytId": "NzZrYqHoYWE",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FanCam] 240309 IVE(아이브) 2nd FANMEETING 'MAGAZINE IVE' - LOVE DIVE (Leeseo Focus Cam) 이서 직캠",
+      "channel": "일일아이브 Daily IVE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-13"
+    },
+    {
+      "id": "v18898",
+      "ytId": "CQ2KwOet33E",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240309 아이브 가을 'LOVE DIVE' (IVE GAEUL) [4k 60p 직캠] @MAGAZINE IVE",
+      "channel": "SST CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18899",
+      "ytId": "rLmO6E1wktY",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240309 아이브 이서 'Holy Moly' (IVE LEESEO) [4k 60p 직캠] @MAGAZINE IVE",
+      "channel": "SST CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18900",
+      "ytId": "BFDAp6izI1U",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240309 MAGAZINE IVE #IVE #안유진 Kitsch 직캠",
+      "channel": "Feel shot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18901",
+      "ytId": "LSfA5B5S4nY",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 IVE MAGAGINZE [BADDIE] JANGWONYOUNG 장원영 FOCUS",
+      "channel": "butter",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18902",
+      "ytId": "lAgtJIQa9m8",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240309 아이브 가을 'Kitsch' (IVE GAEUL) [4k 60p 직캠] @MAGAZINE IVE",
+      "channel": "SST CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18903",
+      "ytId": "_B0ihnEO3Cw",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 직캠 'LOVE DIVE' 240309@MAGAZINE IVE",
+      "channel": "TopSeed",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18904",
+      "ytId": "RmLe0tMS_4I",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240309 MAGAZINE IVE 'HOLY MOLY' IVE JANGWONYOUNG 아이브 장원영 직캠 (4k)",
+      "channel": "want",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18905",
+      "ytId": "Ylxy9MLkKns",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240309 MAGAZINE IVE JANGWONYOUNG 아이브 장원영 HOLY MOLY 홀리몰리 직캠",
+      "channel": "For days",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18906",
+      "ytId": "BFHc4qXvQDg",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 직캠 'I AM' 240309@MAGAZINE IVE",
+      "channel": "TopSeed",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18907",
+      "ytId": "jWiHhgMnMOI",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240309 아이브 이서 'Off The Record' (IVE LEESEO) [4k 60p 직캠] @MAGAZINE IVE",
+      "channel": "SST CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18908",
+      "ytId": "xTydJ0qn0FI",
+      "eventId": "e1391",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4kFancam] 아이브 이서 Baddie - IVE LEESEO 직캠 FanMeeting MAGAZINE 2403091",
+      "channel": "체리tv10",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-29"
+    },
+    {
+      "id": "v18909",
+      "ytId": "ITRSVfzK2sY",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240310 아이브(IVE) - Baddie 리즈 직캠 fancam @2nd FANMEETING 〈MAGAZINE IVE〉",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18910",
+      "ytId": "5aDtLTdPW48",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240310 IVE An Yujin - I AM@2nd FANMEETING 〈MAGAZINE IVE〉아이브 안유진 직캠",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18911",
+      "ytId": "_0TQc6yhDdQ",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240310 아이브 안유진 'Holy Moly' 팬미팅 FANMEETING ＜MAGAZINE IVE＞ANYUJIN 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18912",
+      "ytId": "SU8Hwr7b6bY",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240310 IVE FAN MEETING MAGAZINE IVE 'Holy Moly(홀리몰리)' 아이브 이서 IVE LEESEO 직캠",
+      "channel": "Double!",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-13"
+    },
+    {
+      "id": "v18913",
+      "ytId": "o70ur5li0j4",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240310 아이브(IVE) - Off The Record 이서 직캠 fancam @2nd FANMEETING 〈MAGAZINE IVE〉",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18914",
+      "ytId": "E9p6xPrQqwY",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240310 아이브(IVE) - LOVE DIVE 장원영 직캠 fancam @2nd FANMEETING 〈MAGAZINE IVE〉",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18915",
+      "ytId": "fEPi5WvyinI",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[240310] 아이브 안유진 2024 IVE 2nd FANMEETING ‘MAGAZINE IVE’ Holy Moly / IVE ANYUJIN FOCUS 4K CAM",
+      "channel": "TO YOU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-01"
+    },
+    {
+      "id": "v18916",
+      "ytId": "yP88Ya8uEKY",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240310 아이브 안유진 IVE YUJIN  - LOVE DIVE 직캠 @IVE 2ND FANMEETING",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18917",
+      "ytId": "bpQhDsGsAdg",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240310 아이브(IVE) 리즈 - LOVE DIVE / 2024 IVE 2nd FANMEETING [ MAGAZINE IVE ] 2일차",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18918",
+      "ytId": "JPYft3_ul0I",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240310 아이브 안유진 IVE YUJIN  - I AM 직캠 @IVE 2ND FANMEETING",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18919",
+      "ytId": "nRhYTm-rbCo",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240310 아이브(IVE) - Holy Moly 안유진 직캠 fancam @2nd FANMEETING 〈MAGAZINE IVE〉",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18920",
+      "ytId": "D-QV0GIf9os",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240310 아이브(IVE) - Kitsch 레이 직캠 fancam @2nd FANMEETING 〈MAGAZINE IVE〉",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18921",
+      "ytId": "NEUMIY0EabE",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240310 아이브 이서 IVE LEESEO  - Baddie 직캠 @IVE 2ND FANMEETING",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18922",
+      "ytId": "UB_r-f6Yl3k",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam] 240310 IVE REI 아이브 레이 - 'Holy Moly' 2nd Fanmeeting MAGAZINE IVE",
+      "channel": "ブイ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18923",
+      "ytId": "LMtppNqve5g",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240310 아이브(IVE) - I AM 이서 직캠 fancam @2nd FANMEETING 〈MAGAZINE IVE〉",
+      "channel": "라임라임",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18924",
+      "ytId": "_PFlkp-GN88",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240310 아이브(2nd Fanmeeting MAGAZINE IVE) - Kitsch(Yujin Focus Cam) 안유진 직캠",
+      "channel": "OneWony",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18925",
+      "ytId": "vG_NaWZWCFw",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240310 아이브(2nd Fanmeeting MAGAZINE IVE) -Off The Record(Yujin Focus Cam) 안유진 직캠",
+      "channel": "OneWony",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18926",
+      "ytId": "eQbOY45IgVg",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240310 IVE-Holy Moly (홀리 몰리) An Yujin Focus @2nd FANMEETING〈MAGAZINE IVE〉아이브 안유진 직캠 [4K]",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-07"
+    },
+    {
+      "id": "v18927",
+      "ytId": "F76Kq1EoizI",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240310 아이브(2nd Fanmeeting MAGAZINE IVE) - Holy Moly(Yujin Focus Cam) 안유진 직캠",
+      "channel": "OneWony",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18928",
+      "ytId": "dpMb2yVyaSk",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240310 Magazine IVE Fanmeeting 아이브 안유진 키치 직캠  (An Yujin Kitsch Fancam)",
+      "channel": "Staryujin1903",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-17"
+    },
+    {
+      "id": "v18929",
+      "ytId": "g8Ym6mG7i2E",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240310 아이브 가을 IVE GAEUL  - Holy Moly 직캠 @IVE 2ND FANMEETING",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18930",
+      "ytId": "xQ3LWBrNYfA",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240310 MAGAZINE IVE 팬미팅 아이브 가을 ive gaeul Holy Moly 홀리몰리 직캠",
+      "channel": "Florens",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-12"
+    },
+    {
+      "id": "v18931",
+      "ytId": "jgBk2S8tCXU",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240310 아이브 레이 IVE REI  - Off The Record 직캠 @IVE 2ND FANMEETING",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18932",
+      "ytId": "1hmd0IvPSoM",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam] 240310 IVE REI 아이브 레이 - 'LOVE DIVE' 2nd Fanmeeting MAGAZINE IVE",
+      "channel": "ブイ",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18933",
+      "ytId": "3itUN4lsdjM",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam] 240310 IVE REI 아이브 레이 - 'I AM' 2nd Fanmeeting MAGAZINE IVE",
+      "channel": "ブイ",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18934",
+      "ytId": "HE3heR7t5Os",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 240310 IVE팬미팅 아이브 I AM 장원영 직캠",
+      "channel": "물량공급",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18935",
+      "ytId": "H0R5ZPuRc-k",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240310 아이브(2nd Fanmeeting MAGAZINE IVE) - I AM(Wonyoung Focus Cam) 장원영 직캠",
+      "channel": "OneWony",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18936",
+      "ytId": "l15imOBqmzM",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240310 아이브(2nd Fanmeeting MAGAZINE IVE) - Kitsch(Wonyoung Focus Cam) 장원영 직캠",
+      "channel": "OneWony",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18937",
+      "ytId": "Wk0zWEQk0T4",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P]240310 아이브 장원영 IVE WONYOUNG  - Kitsch 직캠 @IVE 2ND FANMEETING",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18938",
+      "ytId": "B5uFHeirp_E",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240310 아이브(IVE) 리즈 - Baddie / 2024 IVE 2nd FANMEETING [ MAGAZINE IVE ] 2일차",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18939",
+      "ytId": "q98tAk_PTSQ",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240310 아이브(IVE) 리즈 - Holy Moly / 2024 IVE 2nd FANMEETING [ MAGAZINE IVE ] 2일차",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18940",
+      "ytId": "QTurJweDut0",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240310 아이브(IVE) 리즈 - Off The Record / 2024 IVE 2nd FANMEETING [ MAGAZINE IVE ] 2일차",
+      "channel": "Today's Sunshine (레뮤라스)",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18941",
+      "ytId": "0na2nnqlwzQ",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240310 아이브(IVE) 2nd Fanmeeting [MAGAZINE IVE] Kitsch 이서 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-12"
+    },
+    {
+      "id": "v18942",
+      "ytId": "_rVWu46qpwk",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240310 아이브(IVE) 2nd Fanmeeting [MAGAZINE IVE] LOVE DIVE 이서 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18943",
+      "ytId": "8WhYWIDoF3I",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 팬미팅 Day2 이서 \"Kitsch\" 페이스 가로직캠. IVE Fanmeeting. leeseo 240310",
+      "channel": "MrDive_막냉이서",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18944",
+      "ytId": "u6k6CJ6DxQ4",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240310 아이브 리즈 Holy Moly 직캠, 팬미팅 MAGAZINE IVE Day2",
+      "channel": "김리즈어머니회",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-30"
+    },
+    {
+      "id": "v18945",
+      "ytId": "6Vm_M5MLnbw",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240310 MAGAZINE IVE #IVE #안유진 I AM 직캠",
+      "channel": "Feel shot",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18946",
+      "ytId": "QnCOIBe3bHM",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240310 MAGAZINE IVE #IVE #안유진 Kitsch 직캠",
+      "channel": "Feel shot",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18947",
+      "ytId": "fuX6bcS818o",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240310 MAGAZINE IVE #IVE #안유진 LOVE DIVE 직캠",
+      "channel": "Feel shot",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18948",
+      "ytId": "GHX16gqXnQU",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240310 MAGAZINE IVE #IVE #안유진 Holy Moly 직캠",
+      "channel": "Feel shot",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18949",
+      "ytId": "ld1eOKRMJzU",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240310  MAGAZINE IVE 아이브 가을 홀리몰리 직캠 HOLY MOLY 4K FANCAM",
+      "channel": "sunset",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-16"
+    },
+    {
+      "id": "v18950",
+      "ytId": "EfSZYlHBnFk",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 직캠 'Kitsch' 240310@MAGAZINE IVE",
+      "channel": "TopSeed",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18951",
+      "ytId": "1Gkij53QuzI",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240310 MAGAZINE IVE #IVE #안유진 Baddie 직캠",
+      "channel": "Feel shot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-11"
+    },
+    {
+      "id": "v18952",
+      "ytId": "aZFaNLRkisA",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240310 MAGAZINE IVE #IVE #안유진 Off The Record 직캠",
+      "channel": "Feel shot",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18953",
+      "ytId": "SA4NX-tCtDU",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] I AM | 아이브 레이 직캠 IVE REI fancam | 240310 @ MAGAZIN IVE",
+      "channel": "뮤즈",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18954",
+      "ytId": "QdRHwl6uLBc",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 240310 아이브 장원영 IVE WONYOUNG  - Kitsch 직캠 Fancam @IVE 2ND FANMEETING",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-27"
+    },
+    {
+      "id": "v18955",
+      "ytId": "6vsDRK3MGN0",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] LOVE DIVE | 아이브 레이 직캠 IVE REI fancam | 240310 @ MAGAZIN IVE",
+      "channel": "뮤즈",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18956",
+      "ytId": "ZunQd-mkyp4",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240310 Holy Moly 아이브 안유진 직캠 ㅣ IVE ANYUJIN FOCUS @MAGAZINE IVE",
+      "channel": "Spacecraft",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-12"
+    },
+    {
+      "id": "v18957",
+      "ytId": "Qc3q73fU9PI",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "240310 MAGAZINE IVE ANYUJIN 매거진 아이브 안유진 BADDIE 세로 직캠",
+      "channel": "한울 hanul",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-16"
+    },
+    {
+      "id": "v18958",
+      "ytId": "sWjjt5WCTNk",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "240310 MAGAZINE IVE ANYUJIN 매거진 아이브 안유진 I AM 세로 직캠",
+      "channel": "한울 hanul",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-12"
+    },
+    {
+      "id": "v18959",
+      "ytId": "eXazKbfNreA",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "240310 MAGAZINE IVE ANYUJIN 매거진 아이브 안유진 LOVE DIVE 세로 직캠",
+      "channel": "한울 hanul",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-14"
+    },
+    {
+      "id": "v18960",
+      "ytId": "UT0e8dhBzvY",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "240310 MAGAZINE IVE ANYUJIN 매거진 아이브 안유진 OFF THE RECORD 세로 직캠",
+      "channel": "한울 hanul",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-15"
+    },
+    {
+      "id": "v18961",
+      "ytId": "vEs0uFKsWi8",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]240310＜MAGAZINE IVE＞아이브 IVE - Holy Moly 가을 직캠 GAEUL Focus Fancam",
+      "channel": "shingshingbomi Fancam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-06"
+    },
+    {
+      "id": "v18962",
+      "ytId": "VFxGub39P6U",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 직캠 'Baddie' 240310@MAGAZINE IVE",
+      "channel": "TopSeed",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-10"
+    },
+    {
+      "id": "v18963",
+      "ytId": "h2WmZUue-A0",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K) 240310 MAGAZINE IVE 아이브 장원영 LOVE DIVE 직캠",
+      "channel": "eve jeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-29"
+    },
+    {
+      "id": "v18964",
+      "ytId": "ieUK1U8xZSw",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240310 MAGAZINE IVE JANGWONYOUNG 아이브 장원영 HOLY MOLY 홀리몰리 직캠",
+      "channel": "For days",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-14"
+    },
+    {
+      "id": "v18965",
+      "ytId": "-z6dao7zf4A",
+      "eventId": "e1392",
+      "songs": [
+        {
+          "songId": "g1s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[IVE/리즈] 240310 Magazine IVE LIZ Holy Moly Fan cam / 홀리몰리 직캠",
+      "channel": "지안",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-17"
+    },
+    {
+      "id": "v18966",
+      "ytId": "Ov3otoiUaNs",
+      "eventId": "e1393",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240313 아이브 안유진 직캠 'Baddie' (IVE YUJIN FanCam) @1st World Tour in LA",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18967",
+      "ytId": "fXiuZhjKXZA",
+      "eventId": "e1393",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240313 아이브 안유진 IVE YUJIN - LOVE DIVE 직캠 Fancam IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' in LA",
+      "channel": "Sai",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18968",
+      "ytId": "tbTryrkvgmg",
+      "eventId": "e1393",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240313 아이브 안유진 IVE YUJIN - ELEVEN 직캠 Fancam IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' in LA",
+      "channel": "Sai",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18969",
+      "ytId": "s1wLIzYRZyU",
+      "eventId": "e1393",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240313 아이브 이서 'Baddie' (IVE LEESEO Fancam) 직캠 @'Show What I Have World Tour' Los Angeles by Z2ZZ22Z",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18970",
+      "ytId": "gO1h0UUe1Ek",
+      "eventId": "e1393",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240313 아이브 레이 'Baddie' (IVE REI Fancam) 직캠 @'Show What I Have World Tour' Los Angeles by Z2ZZ22Z",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-22"
+    },
+    {
+      "id": "v18971",
+      "ytId": "umnZxuah74w",
+      "eventId": "e1393",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240313 아이브 이서 'After LIKE' (IVE LEESEO Fancam) @'Show What I Have World Tour' Los Angeles by Z2ZZ22Z",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18972",
+      "ytId": "qvMAHNaV4ls",
+      "eventId": "e1393",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240313 IVE 아이브 'I AM' #AnYujin #안유진 focus 직캠 SHOW WHAT I HAVE",
+      "channel": "Bic",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18973",
+      "ytId": "eypySgYKJ54",
+      "eventId": "e1394",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240316 IVE(아이브) 'LOVE DIVE' Yujin FanCam 유진 직캠 IVE THE 1ST WORLD TOUR SHOW WHAT I HAVE@Oakland Arena",
+      "channel": "nvr4GGet93o39🌸",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18974",
+      "ytId": "iW4Fv5zjJEs",
+      "eventId": "e1394",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240316 IVE(아이브) _LOVE DIVE_ Yujin FanCam 유진 직캠 IVE THE 1ST WORLD TOUR SHOW WHAT I HAVE_Oakland Arena",
+      "channel": "SWHIT ST",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18975",
+      "ytId": "0C6witXy1S0",
+      "eventId": "e1394",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240316 아이브 레이 'Kitsch' (IVE REI Fancam) @‘Show What I Have World Tour' Oakland by L Yap",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-22"
+    },
+    {
+      "id": "v18976",
+      "ytId": "9utB7wNNfR0",
+      "eventId": "e1394",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240316 아이브 안유진 'Kitsch' (IVE AN YUJIN Fancam) @‘Show What I Have World Tour' Oakland by L Yap",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-18"
+    },
+    {
+      "id": "v18977",
+      "ytId": "JIZcOfYrFeg",
+      "eventId": "e1394",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] IVE Show What I Have Oakland - LOVE DIVE (WONYOUNG FOCUS) 240316",
+      "channel": "mixxpoppy",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18978",
+      "ytId": "NKrMt2rxLQQ",
+      "eventId": "e1394",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240316 아이브 장원영 'Kitsch' (IVE JANG WONYOUNG Fancam) @‘Show What I Have World Tour' Oakland by L Yap",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18979",
+      "ytId": "ofA3le7BV-A",
+      "eventId": "e1394",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240316 아이브 이서 'Kitsch' (IVE LEESEO Fancam) @‘Show What I Have World Tour' Oakland by L Yap",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18980",
+      "ytId": "if0wHhU-_M4",
+      "eventId": "e1394",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240316 아이브 리즈 'Kitsch' (IVE LIZ Fancam) @‘Show What I Have World Tour' Oakland by L Yap",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18981",
+      "ytId": "rg9SAFOXqk4",
+      "eventId": "e1394",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240316 아이브 가을 'Kitsch' (IVE GAEUL Fancam) @‘Show What I Have World Tour' Oakland by L Yap",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18982",
+      "ytId": "JXuU0xR-UcI",
+      "eventId": "e1395",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] IVE An Yujin - Eleven | Fancam 아이브 안유진 직캠 | 240324 Show What I Have in Atlanta",
+      "channel": "bea",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18983",
+      "ytId": "unPHVbFbnuw",
+      "eventId": "e1395",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] IVE An Yujin - Baddie | Fancam 아이브 안유진 직캠 | 240324 Show What I Have in Atlanta",
+      "channel": "bea",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18984",
+      "ytId": "hg4kzsoj8IE",
+      "eventId": "e1395",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] IVE An Yujin - After Like | Fancam 아이브 안유진 직캠 | 240324 Show What I Have in Atlanta",
+      "channel": "bea",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18985",
+      "ytId": "6Z-sfLDgP4M",
+      "eventId": "e1395",
+      "songs": [
+        {
+          "songId": "g1s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] IVE AN YUJIN \"OFF THE RECORD\" FRONT ROW FANCAM 아이브 안유진 직캠 | 240324 \"SHOW WHAT I HAVE\" ATLANTA",
+      "channel": "bea",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18986",
+      "ytId": "sb26ec8dx5g",
+      "eventId": "e1396",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240326 아이브 이서 직캠 'LOVE DIVE' (IVE Leeseo FanCam) @1st World Tour in Chicago",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-29"
+    },
+    {
+      "id": "v18987",
+      "ytId": "m1sTmsiEwkE",
+      "eventId": "e1396",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240326 아이브 리즈 직캠 'LOVE DIVE' (IVE LIZ FanCam) @1st World Tour in Chicago",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-03"
+    },
+    {
+      "id": "v18988",
+      "ytId": "L_CXhIyMrhE",
+      "eventId": "e1396",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240326 IVE_YUJIN_아이브 _Love Dive_  _ Chicago Concert _ Fancam",
+      "channel": "SWHIT ST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-09"
+    },
+    {
+      "id": "v18989",
+      "ytId": "wfP-mI50pRI",
+      "eventId": "e1397",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240329 아이브 이서 'Kitsch' (IVE LEESEO Fancam) 직캠 @'Show What I Have World Tour' New Jersey by tofu_film",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-31"
+    },
+    {
+      "id": "v18990",
+      "ytId": "9HeZjPdMKto",
+      "eventId": "e1397",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240329 아이브 이서 'LOVE DIVE' (IVE LEESEO Fancam) 직캠 @'Show What I Have' New Jersey by tofu_film",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-30"
+    },
+    {
+      "id": "v18991",
+      "ytId": "7may4UsvG_g",
+      "eventId": "e1397",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240329 IVE 아이브 'LOVE DIVE' LEESEO Focus 이서 직캠 | SHOW WHAT I HAVE WORLD TOUR in Newark",
+      "channel": "HYPNOSIS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-05"
+    },
+    {
+      "id": "v18992",
+      "ytId": "Qu73QZ0SBMA",
+      "eventId": "e1397",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240329 IVE 아이브 _LOVE DIVE_ LEESEO Focus 이서 직캠 _ SHOW WHAT I HAVE WORLD TOUR in Newark",
+      "channel": "SWHIT ST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-26"
+    },
+    {
+      "id": "v18993",
+      "ytId": "XPmggm7aQt8",
+      "eventId": "e1397",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240329 IVE 아이브 _LOVE DIVE_ LEESEO Focus 이서 직캠 _ SHOW WHAT I HAVE WORLD TOUR in Newark",
+      "channel": "My_Idol.fan12",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-24"
+    },
+    {
+      "id": "v18994",
+      "ytId": "5vurZCn7V1A",
+      "eventId": "e1397",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240329 아이브 리즈 'Kitsch' (IVE LIZ Fancam) 직캠 @'Show What I Have World Tour' New Jersey by tofu_film",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-03-31"
+    },
+    {
+      "id": "v18995",
+      "ytId": "wdLGCA-VWhs",
+      "eventId": "e1397",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "아이브 이서 LOVE DIVE - IVE LEESEO 직캠 What I Have World Tour  New Jersey 240329 [4kFancam]",
+      "channel": "sj-KPOP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-14"
+    },
+    {
+      "id": "v18996",
+      "ytId": "jLfRsXZJpvM",
+      "eventId": "e1060",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 아이브 가을 직캠 '해야' (HEYA)'(IVE GAEUL Fancam) @뮤직뱅크(Music Bank) 240503",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-03"
+    },
+    {
+      "id": "v18997",
+      "ytId": "919NKijA-gw",
+      "eventId": "e1060",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 아이브 이서 직캠 '해야' (HEYA) (IVE LEESEO Fancam) @뮤직뱅크(Music Bank) 240503",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-03"
+    },
+    {
+      "id": "v18998",
+      "ytId": "nZr75ta8XqM",
+      "eventId": "e1062",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 아이브 '해야' 단독샷 별도녹화│IVE 'HEYA' ONE TAKE STAGE│@SBS Inkigayo 240505",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18999",
+      "ytId": "L0SyCTi6zts",
+      "eventId": "e1062",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 가을 '해야' (IVE GAEUL 'HEYA'  FanCam) @SBS Inkigayo 240505",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-05"
+    },
+    {
+      "id": "v19000",
+      "ytId": "lNq4i9YzIcU",
+      "eventId": "e1062",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 안유진 '해야' (IVE AN YUJIN 'HEYA'  FanCam) @SBS Inkigayo 240505",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-05"
+    },
+    {
+      "id": "v19001",
+      "ytId": "4BWjnIa5rA4",
+      "eventId": "e1062",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 안유진 '해야' (IVE AN YUJIN 'HEYA'  FaceCam) @SBS Inkigayo 240505",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19002",
+      "ytId": "gCjNcrSgXZE",
+      "eventId": "e1062",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 장원영 '해야' (IVE JANG WONYOUNG 'HEYA'  FaceCam) @SBS Inkigayo 240505",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19003",
+      "ytId": "uRKJJ9uTHXw",
+      "eventId": "e1062",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 레이 '해야' (IVE REI 'HEYA'  FanCam) @SBS Inkigayo 240505",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-05"
+    },
+    {
+      "id": "v19004",
+      "ytId": "8NHe6qE78QA",
+      "eventId": "e1062",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 리즈 '해야' (IVE LIZ 'HEYA'  FanCam) @SBS Inkigayo 240505",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-05"
+    },
+    {
+      "id": "v19005",
+      "ytId": "nodMBDCYntc",
+      "eventId": "e1062",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 장원영 '해야' (IVE JANG WONYOUNG 'HEYA'  FanCam) @SBS Inkigayo 240505",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-05"
+    },
+    {
+      "id": "v19006",
+      "ytId": "uns6J64pCD0",
+      "eventId": "e1062",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 이서 '해야' (IVE LEESEO 'HEYA'  FanCam) @SBS Inkigayo 240505",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19007",
+      "ytId": "oBGyEg0BQUg",
+      "eventId": "e1398",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브(IVE) 첫 대학축제 FULL 직캠 '해야 (HEYA)' 외 4곡 (백상 인기상 받고 온 안유진)｜인천대 축제 240507",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19008",
+      "ytId": "NuugXkaLEwI",
+      "eventId": "e1398",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240507 IVE 아이브 HEYA 해야 JANG WONYOUNG 장원영 직캠 | 인천대학교축제 #아이브 #장원영",
+      "channel": "스카이의 덕질생활",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19009",
+      "ytId": "HvIxVt1C5ok",
+      "eventId": "e1398",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "IVE (아이브) leeseo (이서) 인천대 축제. 해야 (HEYA) 첫 행사 무대. 240507",
+      "channel": "MrDive_막냉이서",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19010",
+      "ytId": "7grhXnzV_l8",
+      "eventId": "e1398",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K) 240507 아이브 인천대학교 대동제 '해야 (HEYA)' 장원영 IVE JANGWONYOUNG 직캠",
+      "channel": "MILKY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19011",
+      "ytId": "dvIcoJZtNvI",
+      "eventId": "e1398",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240507 아이브 인천대학교 대동제 해야 (HEYA) IVE ANYUJIN 안유진 직캠",
+      "channel": "BESTPART",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19012",
+      "ytId": "Ph9qotGSjTU",
+      "eventId": "e1398",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240507 IVE 아이브 LOVE DIVE 러브 다이브 JANG WONYOUNG 장원영 직캠 | 인천대학교축제 #아이브 #장원영",
+      "channel": "스카이의 덕질생활",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19013",
+      "ytId": "UlVydlYZXNA",
+      "eventId": "e1398",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K) 240507 아이브 인천대학교 대동제 '아이엠 (I AM)' 장원영 IVE JANGWONYOUNG 직캠",
+      "channel": "MILKY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19014",
+      "ytId": "al6XGhKdVvI",
+      "eventId": "e1398",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240507 IVE 아이브 AFTER LIKE 애프터 라이크 JANG WONYOUNG 장원영 직캠 | 인천대학교축제 #아이브 #장원영",
+      "channel": "스카이의 덕질생활",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19015",
+      "ytId": "ey7_5NUfNyQ",
+      "eventId": "e1398",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4K 세로직캠] 20240507 IVE(아이브)장원영 - 해야(HEYA) @인천대",
+      "channel": "김명석",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19016",
+      "ytId": "HzKCalzubz0",
+      "eventId": "e1398",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240507 IVE 아이브 I AM 아이엠 JANG WONYOUNG 장원영 직캠 | 인천대학교축제 #아이브 #장원영",
+      "channel": "스카이의 덕질생활",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19017",
+      "ytId": "bcuO5z6clYk",
+      "eventId": "e1398",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240507 IVE 아이브 KITSCH 키치 JANG WONYOUNG 장원영 직캠 | 인천대학교축제 #아이브 #장원영",
+      "channel": "스카이의 덕질생활",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19018",
+      "ytId": "PQmoDx1wWHk",
+      "eventId": "e1398",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "인천대 축제에 여신 강림...😍 100미터 뒤에서도 현서만 보임.. Kitsch 아이브 이서 IVE leeseo  240507",
+      "channel": "MrDive_막냉이서",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-08"
+    },
+    {
+      "id": "v19019",
+      "ytId": "_RzzbK6mOw4",
+      "eventId": "e1398",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240507 아이브 이서 I AM 막냉이서 crop 4k60 ai upscale",
+      "channel": "ㄷㅊ2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19020",
+      "ytId": "hlKvorCdC_8",
+      "eventId": "e1398",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240507 아이브 이서 After Like 막냉이서 crop 4k60 ai upscale",
+      "channel": "ㄷㅊ2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19021",
+      "ytId": "8_KQ1jPIoAw",
+      "eventId": "e1399",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[SHINE STAGE 특집] IVE (아이브) - 해야 (HEYA) #엠카운트다운 EP.842 | Mnet 240509 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19022",
+      "ytId": "HBTNpbeXdig",
+      "eventId": "e1065",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240511 MUSIC CORE 'HEYA' IVE(아이브) JANG WONYOUNG (장원영) FOCUS",
+      "channel": "teriela",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19023",
+      "ytId": "TX4arHUdaaY",
+      "eventId": "e1066",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 이서 '해야' (IVE LEESEO 'HEYA'  FanCam) @SBS Inkigayo 240512",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-13"
+    },
+    {
+      "id": "v19024",
+      "ytId": "yW0Pt5KWNQk",
+      "eventId": "e1066",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 아이브 '해야' 단독샷 별도녹화│IVE 'HEYA' ONE TAKE STAGE│@SBS Inkigayo 240512",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19025",
+      "ytId": "Der3IEDwHws",
+      "eventId": "e1066",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 가을 '해야' (IVE GAEUL 'HEYA'  FanCam) @SBS Inkigayo 240512",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-13"
+    },
+    {
+      "id": "v19026",
+      "ytId": "5QENKBd33kQ",
+      "eventId": "e1066",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 안유진 '해야' (IVE AN YUJIN 'HEYA' FaceCam) @SBS Inkigayo 240512",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v19027",
+      "ytId": "3xBi5scr2sk",
+      "eventId": "e1066",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 레이 '해야' (IVE REI 'HEYA'  FanCam) @SBS Inkigayo 240512",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-13"
+    },
+    {
+      "id": "v19028",
+      "ytId": "TNq4ZJi8sbY",
+      "eventId": "e1066",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 안유진 '해야' (IVE AN YUJIN 'HEYA'  FanCam) @SBS Inkigayo 240512",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-13"
+    },
+    {
+      "id": "v19029",
+      "ytId": "RxCRvc3LxvQ",
+      "eventId": "e1066",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 리즈 '해야' (IVE LIZ 'HEYA'  FanCam) @SBS Inkigayo 240512",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-13"
+    },
+    {
+      "id": "v19030",
+      "ytId": "unB-WqnuWfQ",
+      "eventId": "e1066",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 장원영 '해야' (IVE JANG WONYOUNG 'HEYA'  FaceCam) @SBS Inkigayo 240512",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v19031",
+      "ytId": "qCwFVKAHf2I",
+      "eventId": "e1066",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 장원영 '해야' (IVE JANG WONYOUNG 'HEYA'  FanCam) @SBS Inkigayo 240512",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19032",
+      "ytId": "EFtnoYQwwLo",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "IVE (아이브) 레이 'After LIKE' 직캠 @ 한체대 축제 | 240513 | 4K60p",
+      "channel": "smile -wA-",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v19033",
+      "ytId": "enHuTjeJF8w",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "IVE (아이브) 레이 'I AM' 직캠 @ 한체대 축제 | 240513 | 4K60p",
+      "channel": "smile -wA-",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19034",
+      "ytId": "VsAGUptylUg",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240513 아이브 레이 'Kitsch' (IVE REI Fancam) 4K60P 직캠 | 2024 한체대 천마축제",
+      "channel": "eyecatch",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v19035",
+      "ytId": "LnnbWlUjJwE",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "IVE (아이브) 레이 'LOVE DIVE' 직캠 @ 한체대 축제 | 240513 | 4K60p",
+      "channel": "smile -wA-",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19036",
+      "ytId": "EnWBNXAqc8o",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 이서 직캠 'LOVE DIVE' (IVE LEESEO)｜한체대 축제 240513",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v19037",
+      "ytId": "5ERofLvdKi4",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "240513 아이브 리즈 (IVE LIZ) \"I AM\" 4K 60p 세로 직캠 @한체대 축제",
+      "channel": "Emerald Dream",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-13"
+    },
+    {
+      "id": "v19038",
+      "ytId": "mQaPBOhltpI",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "240513 아이브 리즈 (IVE LIZ) \"After LIKE\" 4K 60p 세로 직캠 @한체대 축제",
+      "channel": "Emerald Dream",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-13"
+    },
+    {
+      "id": "v19039",
+      "ytId": "UkD_0nGk_xc",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "IVE 아이브 -  LOVE DIVE 러브다이브 | Focus. LIZ 리즈 가로 직캠 | 한국체육대학교 천마축제 청춘 240513 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-15"
+    },
+    {
+      "id": "v19040",
+      "ytId": "ncx5SKz-NWk",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 안유진 직캠 'Kitsch' (IVE YUJIN)｜한체대 축제 240513",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19041",
+      "ytId": "W4bajOKmEMg",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "IVE (아이브) 레이 'Kitsch' 직캠 @ 한체대 축제 | 240513 | 4K60p",
+      "channel": "smile -wA-",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19042",
+      "ytId": "4sFiNvD0ZSw",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "레이 REI IVE 아이브 - Kitsch 4K 세로 직캠 @240513 한국체육대학교 천마축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v19043",
+      "ytId": "AkBm4tf_RWs",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240513 아이브 레이 'LOVE DIVE' (IVE REI Fancam) 4K60P 직캠 | 2024 한체대 천마축제",
+      "channel": "eyecatch",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19044",
+      "ytId": "7AZCAtiFDiE",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 ( Kitsch ) 한국체육대학교 축제 직캠 IVE Fancam 240513",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19045",
+      "ytId": "6cProWyhGZs",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "IVE 아이브 -  HEYA 해야 | Focus. REI 레이 가로 직캠 | 한국체육대학교 천마축제 청춘 240513 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19046",
+      "ytId": "_ZbQaWxax2A",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "장원영 WONYOUNG IVE 아이브 - I AM 4K 세로 직캠 @240513 한국체육대학교 천마축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v19047",
+      "ytId": "LShsOV7c07E",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "IVE 아이브 -  I AM 아이엠 | Focus. JANG WONYOUNG 장원영 가로 직캠 | 한국체육대학교 천마축제 청춘 240513 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19048",
+      "ytId": "kkasqAZ_Nys",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240513 아이브 러브다이브 한국체육대학교 천마축제 직캠 - 원영 중심 (IVE Love Dive KNSU Fancam - Wonyoung focus)",
+      "channel": "NORINORI KPOP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19049",
+      "ytId": "XUiCsGOoGtA",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240513 아이브 이서 직캠 'Kitsch' IVE(LEESEO) Fancam @한국체육대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v19050",
+      "ytId": "SQkLPNXg8FI",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 이서 ( I AM ) 한국체육대학교 축제 직캠 IVE Fancam 240513",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19051",
+      "ytId": "WErnbvBzMjU",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "IVE 아이브 - After LIKE 애프터라이크 | Focus. GAEUL 애꾸눈 가을 가로 직캠 | 한국체육대학교 천마축제 청춘 240513 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19052",
+      "ytId": "eKh83tI9vP4",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 직캠 '해야' (IVE WONYOUNG)｜한체대 축제 240513",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19053",
+      "ytId": "L4HTvdw8II8",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "IVE 아이브 - Kitsch 키치 | Focus. JANG WONYOUNG 장원영 가로 직캠 | 한국체육대학교 천마축제 청춘 240513 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19054",
+      "ytId": "gRT3WuJmt9w",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240513 아이브 레이 '해야' (IVE REI HEYA Fancam) 4K60P 직캠 | 2024 한체대 천마축제",
+      "channel": "eyecatch",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v19055",
+      "ytId": "sQUzS7yPgRU",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240513 아이브 레이 'After LIKE' (IVE REI Fancam) 4K60P 직캠 | 2024 한체대 천마축제",
+      "channel": "eyecatch",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19056",
+      "ytId": "r6TMGd0nw4A",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240513 아이브 장원영 직캠 'I AM' IVE(JANG WONYOUNG) Fancam @한국체육대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19057",
+      "ytId": "CnsmWGoMrH8",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240513 아이브 아이엠 한국체육대학교 천마축제 직캠 - 레이 중심 (IVE I AM KNSU Fancam - REI focus)",
+      "channel": "NORINORI KPOP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19058",
+      "ytId": "i9ZTVF6B2jw",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240513 아이브 이서 직캠 'After LIKE' IVE(LEESEO) Fancam @한국체육대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19059",
+      "ytId": "j9lapE7viiQ",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "IVE (아이브) 레이 '해야 (HEYA)' 직캠 @ 한체대 축제 | 240513 | 4K60p",
+      "channel": "smile -wA-",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-13"
+    },
+    {
+      "id": "v19060",
+      "ytId": "kfOHwkViYz0",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "장원영 WONYOUNG IVE 아이브 - LOVE DIVE 4K 세로 직캠 @240513 한국체육대학교 천마축제",
+      "channel": "The Sin",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19061",
+      "ytId": "q9g3fXTCG8o",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 직캠 'I AM' (IVE WONYOUNG)｜한체대 축제 240513",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19062",
+      "ytId": "Rc9Q9VxiT_Q",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240513 IVE (아이브)  안유진 :  ' LOVE DIVE  ' @ 한국체육대학교 축제 직캠 /  fancam | Plumia2 (4K)",
+      "channel": "Plumia2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19063",
+      "ytId": "0SDdPJxUCro",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 이서 ( Love Dive ) 한국체육대학교 축제 직캠 IVE Fancam 240513",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19064",
+      "ytId": "1QltH22AwLI",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 이서 ( After Like ) 한국체육대학교 축제 직캠 IVE Fancam 240513",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19065",
+      "ytId": "OQxxucdt3DQ",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240513 아이브 레이 직캠 'LOVE DIVE' IVE(REI) Fancam @한국체육대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19066",
+      "ytId": "qR7uGTE9Y2w",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240513 IVE (아이브)  안유진 :  ' Kitsch  ' @ 한국체육대학교 축제 직캠 /  fancam | Plumia2 (4K)",
+      "channel": "Plumia2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19067",
+      "ytId": "u-ZGgDb0T7w",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240513 한국체대 축제 해야(HEYA) IVE YUJIN 아이브 유진 직캠",
+      "channel": "Blue",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19068",
+      "ytId": "u6z1FSMuZ44",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240513 IVE (아이브)  장원영 JANG WONYOUNG -  AFTER LIKE @ 한국체육대학교 축제 직캠 /  fancam | Plumia2 (4K)",
+      "channel": "Plumia2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19069",
+      "ytId": "5IIVHyxGrzA",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240513 IVE (아이브)  안유진 - AN YUJIN :  ' I AM ' @ 한국체육대학교 축제 직캠 /  fancam | Plumia2 (4K)",
+      "channel": "Plumia2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-13"
+    },
+    {
+      "id": "v19070",
+      "ytId": "PoSwazarQbA",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240513 아이브 레이 'I AM' (IVE REI Fancam) 4K60P 직캠 | 2024 한체대 천마축제",
+      "channel": "eyecatch",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v19071",
+      "ytId": "w3nWdOZo4cI",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 레이 직캠 'After LIKE' (IVE REI)｜한체대 축제 240513",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v19072",
+      "ytId": "Z-1nSCYtr24",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240513 아이브 키치 한국체육대학교 천마축제 직캠 - 원영 중심 (IVE KITSCH KNSU Fancam - Wonyoung focus)",
+      "channel": "NORINORI KPOP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v19073",
+      "ytId": "y_eEjT-hA20",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240513 아이브 이서 직캠 '해야(HEYA)' IVE(LEESEO) Fancam @한국체육대학교 축제  By 벤뎅이",
+      "channel": "벤뎅이.VENDENGE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v19074",
+      "ytId": "G-uGzGY0KkI",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 이서 ( 해야 ) 한국체육대학교 축제 직캠 IVE Fancam 240513",
+      "channel": "mang2goon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v19075",
+      "ytId": "SCIUOc2no9c",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240513 아이브 레이 HEYA EmeraldDream crop 4k60 ai upscale",
+      "channel": "ㄷㅊ2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19076",
+      "ytId": "MIihXEXYazo",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240513 아이브(IVE) 레이(REI) 해야(HEYA) 직캠 @한국체육대학교 by newstudio",
+      "channel": "Newstudio_mini",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19077",
+      "ytId": "DCwbij8kyaI",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240513 아이브 이서 해야 벤뎅이 crop 4k60 ai upscale",
+      "channel": "ㄷㅊ2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19078",
+      "ytId": "EflR47xOsHE",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240513 아이브 레이 LOVE DIVE EmeraldDream crop 4k60 ai upscale",
+      "channel": "ㄷㅊ2",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19079",
+      "ytId": "FXazlQO3pQY",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240513 아이브(IVE) 리즈(LIZ) kitsch 직캠 @한국체육대학교 by newstudio",
+      "channel": "Newstudio_mini",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19080",
+      "ytId": "etbcs3UzOeo",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240513 아이브(IVE) 가을(GAEUL) After like직캠 @한국체육대학교 by newstudio",
+      "channel": "Newstudio_mini",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19081",
+      "ytId": "ujcJhy9WU0g",
+      "eventId": "e1400",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240513 아이브(IVE) 장원영 After like 직캠 (한국체육대학교)",
+      "channel": "K-MORY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14"
+    },
+    {
+      "id": "v19082",
+      "ytId": "6cBfoQ2dPaQ",
+      "eventId": "e1068",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 ] 아이브 가을 'Accendio' (IVE GAEUL Facecam) (Fanmade Version)240516",
+      "channel": "yizhishuite",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19083",
+      "ytId": "zrImdxzKpCI",
+      "eventId": "e1073",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 ] 아이브 가을 'Accendio' (IVE GAEUL Facecam) (Fanmade Version)240518",
+      "channel": "yizhishuite",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19084",
+      "ytId": "3FW4Th1tvsw",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 가을 'Accendio' (IVE GAEUL FanCam) @SBS Inkigayo 240519",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-20"
+    },
+    {
+      "id": "v19085",
+      "ytId": "65vVH6TBKv8",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 안유진 'Accendio' (IVE AN YUJIN FanCam) @SBS Inkigayo 240519",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-20"
+    },
+    {
+      "id": "v19086",
+      "ytId": "J_ZVYztLpkk",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 리즈 'Accendio' (IVE LIZ FanCam) @SBS Inkigayo 240519",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-20"
+    },
+    {
+      "id": "v19087",
+      "ytId": "oVEYfb70XGk",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 이서 'Accendio' (IVE LEESEO FanCam) @SBS Inkigayo 240519",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-20"
+    },
+    {
+      "id": "v19088",
+      "ytId": "lgsWhMxQ1os",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 장원영 'Accendio' (IVE JANG WONYOUNG FanCam) @SBS Inkigayo 240519",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-20"
+    },
+    {
+      "id": "v19089",
+      "ytId": "b4vdtp5JGok",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 안유진 'Accendio' (IVE AN YUJIN FaceCam) @SBS Inkigayo 240519",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19090",
+      "ytId": "QVAZ0bRyH3Q",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 레이 'Accendio' (IVE REI FanCam) @SBS Inkigayo 240519",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-20"
+    },
+    {
+      "id": "v19091",
+      "ytId": "w0EB01bEc64",
+      "eventId": "e1076",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 장원영 'Accendio' (IVE JANG WONYOUNG FaceCam) @SBS Inkigayo 240519",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19092",
+      "ytId": "rIT21_1kHTw",
+      "eventId": "e1401",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240526 아이브 가을 직캠 'HEYA' (IVE GAEUL FanCam) @연세대",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-26"
+    },
+    {
+      "id": "v19093",
+      "ytId": "DeDwVMu-HUg",
+      "eventId": "e1401",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FanCam] 240526 Yonsei University 연세대 아카라카 동문 축제 IVE(아이브)  - Accendio (Yujin Focus Cam) 안유진 직캠",
+      "channel": "일일아이브 Daily IVE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-27"
+    },
+    {
+      "id": "v19094",
+      "ytId": "beT2JoI2Ahk",
+      "eventId": "e1401",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240526 아이브 장원영 직캠 'HEYA' (IVE WONYOUNG FanCam) @연세대",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19095",
+      "ytId": "Ekqxs13M4EI",
+      "eventId": "e1401",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240526 아이브 가을 'LOVE DIVE' 직캠 (IVE GAEUL Fancam) @ 연세대학교 아카라카",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-07"
+    },
+    {
+      "id": "v19096",
+      "ytId": "m0vPJJRvqPg",
+      "eventId": "e1401",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240526 아이브 장원영 직캠 'I AM' (IVE WONYOUNG FanCam) @연세대",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-02"
+    },
+    {
+      "id": "v19097",
+      "ytId": "Xt-G-PnynTk",
+      "eventId": "e1401",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240526 AKARAKA 아카라카 IVE \"해야(HEYA)\" IVE REI 아이브 레이 focus cam",
+      "channel": "lux",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19098",
+      "ytId": "-e2wUPKrIJw",
+      "eventId": "e1401",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K) 240526 아카라카 아이브(IVE) - Accendio 이서 LEESEO FOCUS FANCAM",
+      "channel": "Scent.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19099",
+      "ytId": "fpK0p2jTgmY",
+      "eventId": "e1401",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240526 아이브 가을 'I AM' 직캠 (IVE GAEUL Fancam) @ 연세대학교 아카라카",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-19"
+    },
+    {
+      "id": "v19100",
+      "ytId": "vibva9ebgko",
+      "eventId": "e1401",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240526 아이브 이서 'I AM' 직캠 (IVE LEESEO Fancam) @ 연세대학교 아카라카",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-17"
+    },
+    {
+      "id": "v19101",
+      "ytId": "2TkMaWuy54k",
+      "eventId": "e1401",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240526 아이브 레이 'I AM' 직캠 (IVE REI Fancam) @ 연세대학교 아카라카",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19102",
+      "ytId": "BsGjramDYic",
+      "eventId": "e1401",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240526 아카라카를 온누리에 with ALUMNI 아이브 가을 아센디오 직캠 IVE GAEUL AKARAKA Accendio 4k fancam",
+      "channel": "sunset",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-29"
+    },
+    {
+      "id": "v19103",
+      "ytId": "TspyRZ4harg",
+      "eventId": "e1401",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240526 아이브 레이 'LOVE DIVE' 직캠 (IVE REI Fancam) @ 연세대학교 아카라카",
+      "channel": "SaeHeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-07"
+    },
+    {
+      "id": "v19104",
+      "ytId": "a2aE200arjA",
+      "eventId": "e1401",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K) 240526 아카라카를 온누리에 with ALUMNI '아이엠 (I AM)' 아이브 장원영 IVE JANGWONYOUNG 직캠",
+      "channel": "MILKY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-05"
+    },
+    {
+      "id": "v19105",
+      "ytId": "BTNP5IReDrA",
+      "eventId": "e1401",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240526 아이브 장원영 직캠 'Accendio' (IVE WONYOUNG FanCam) @연세대",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-15"
+    },
+    {
+      "id": "v19106",
+      "ytId": "k7mzAjPveiM",
+      "eventId": "e1402",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240604 아이브 안유진 직캠 'I AM' (IVE YUJIN FanCam) @1st World Tour in Paris",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19107",
+      "ytId": "MiEB8IjKAUo",
+      "eventId": "e1403",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240607 아이브 안유진 직캠 'LOVE DIVE' (IVE YUJIN FanCam) @1st World Tour in Barcelona",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-10"
+    },
+    {
+      "id": "v19108",
+      "ytId": "7ErQAijSTtA",
+      "eventId": "e1404",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240610 Kitsch ( An Yujin ) IVE Show What I Have in Berlin",
+      "channel": "Bee Anne",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19109",
+      "ytId": "8O_kZmaclKM",
+      "eventId": "e1404",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240610 아이브 레이 직캠 (IVE REI fancam) _LOVE DIVE_ _World Tour in Berlin",
+      "channel": "SWHIT ST",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19110",
+      "ytId": "QBpy7gKI568",
+      "eventId": "e1404",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240610 아이브 안유진 직캠 (IVE YUJIN fancam) _Kitsch_ _World Tour in Berlin",
+      "channel": "SWHIT ST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-12"
+    },
+    {
+      "id": "v19111",
+      "ytId": "7wBttQdAPNg",
+      "eventId": "e1404",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240610 아이브 안유진 직캠 (IVE YUJIN fancam)_Kitsch__World Tour in Berlin",
+      "channel": "ISA 아이사 CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-09"
+    },
+    {
+      "id": "v19112",
+      "ytId": "EVHPsVa7KSs",
+      "eventId": "e1405",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240616 아이브 장원영 직캠 (IVE WONYOUNG fancam) - 'I AM' @1ST WORLD TOUR in LONDON",
+      "channel": "Annika",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19113",
+      "ytId": "7OmYkfUiBTE",
+      "eventId": "e1406",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240630 아이브 안유진 직캠 'I AM' (IVE YUJIN FanCam) @SHOW WHAT I HAVE In Chile",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-01"
+    },
+    {
+      "id": "v19114",
+      "ytId": "qWhm7Jx7U0A",
+      "eventId": "e1406",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240630 아이브 안유진 직캠 'Kitsch' (IVE YUJIN FanCam) @SHOW WHAT I HAVE In Chile",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-01"
+    },
+    {
+      "id": "v19115",
+      "ytId": "CtKO4-l9Hpo",
+      "eventId": "e1406",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240630 IVE - SHOW WHAT I HAVE In Chile | Kitsch - Yujin Focus",
+      "channel": "Miukki",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-12"
+    },
+    {
+      "id": "v19116",
+      "ytId": "s7XViT8M9VI",
+      "eventId": "e1406",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240630 IVE - SHOW WHAT I HAVE In Chile | LOVE DIVE - Yujin Focus",
+      "channel": "Miukki",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-12"
     }
   ],
   "clips": []
