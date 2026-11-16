@@ -347326,6 +347326,325 @@
       "pin": false,
       "gone": false,
       "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v18159",
+      "ytId": "xZMxv-pfgEc",
+      "eventId": "e560",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 아이브 안유진 직캠 4K 'XOXZ' (IVE ANYUJIN FanCam) | @MCOUNTDOWN_2025.9.4",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-04"
+    },
+    {
+      "id": "v18160",
+      "ytId": "qGgvHgiLWRQ",
+      "eventId": "e560",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 아이브 리즈 직캠 4K 'XOXZ' (IVE LIZ FanCam) | @MCOUNTDOWN_2025.9.4",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-04"
+    },
+    {
+      "id": "v18161",
+      "ytId": "Wf0b-mZHLH0",
+      "eventId": "e564",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] IVE GAEUL (아이브 가을) – XOXZ FanCam | 쇼! 음악중심 | MBC250906",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-08"
+    },
+    {
+      "id": "v18162",
+      "ytId": "i82LSXiVgU4",
+      "eventId": "e564",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] IVE LIZ (아이브 리즈) – XOXZ FanCam | 쇼! 음악중심 | MBC250906",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-08"
+    },
+    {
+      "id": "v18163",
+      "ytId": "PsFaiqDdPNo",
+      "eventId": "e567",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[250907] 아이브 안유진 XOXZ IVE MINI FANMEETING / ANYUJIN FOCUS 4KCAM",
+      "channel": "TO YOU",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18164",
+      "ytId": "lCZmPXudHN0",
+      "eventId": "e567",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250907 아이브 미니팬미팅 XOXZ 안유진 ",
+      "channel": "ㅈㅇㅈ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18165",
+      "ytId": "SkyPDjs0hJI",
+      "eventId": "e567",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250907 IVE 입장 장원영 XOXZ 미니팬미팅 angel ver. Fancam",
+      "channel": "고음충전k",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18166",
+      "ytId": "oMKdzQhbu-E",
+      "eventId": "e567",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[직캠4K] 250907 아이브 리즈 'XOXZ' (IVE LIZ FanCam) @IVE 미니팬미팅 (Fan Meeting)",
+      "channel": "m0tri3t",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18167",
+      "ytId": "4zF95nIVW_U",
+      "eventId": "e567",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 XOXZ 활동 막방 미니팬미팅 이서 IVE LEESEO 250907",
+      "channel": "MrDive_막냉이서",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18168",
+      "ytId": "G1VwF7-SpD0",
+      "eventId": "e567",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250907 아이브 이서 미니팬미팅 XOXZ 직캠",
+      "channel": "이랑떠랑",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18169",
+      "ytId": "CM-mftGBkSg",
+      "eventId": "e567",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[직캠4K] 250907 아이브 이서 'XOXZ' (IVE LEESEO FanCam) @IVE 미니팬미팅 (Fan Meeting)",
+      "channel": "m0tri3t",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-08"
+    },
+    {
+      "id": "v18170",
+      "ytId": "egGQ0CN7lKw",
+      "eventId": "e567",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250907 IVE 안유진 XOXZ + OUTRO 미니팬미팅 angel ver. Fancam ",
+      "channel": "평안",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18171",
+      "ytId": "ZA9JuxULZS8",
+      "eventId": "e567",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250907 미니 팬미팅 'XOXZ' IVE JANGWONYOUNG 아이브 장원영 직캠",
+      "channel": "핑쿠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-12"
+    },
+    {
+      "id": "v18172",
+      "ytId": "1r9TGfR4CzU",
+      "eventId": "e566",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 안유진 'XOXZ' (IVE AN YUJIN FanCam) @SBS Inkigayo 250907",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-09"
     }
   ],
   "clips": []

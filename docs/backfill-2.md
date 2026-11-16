@@ -131,3 +131,4 @@ node scripts/archive.mjs validate
 | g1 | 2025-06 | 4 (고려대 축제 5월분) | 6월 무대 영상 없음 (open-questions §8) |
 | g1 | 2025-07 | 13 (음악중심 in Japan, Lollapalooza Berlin, SBS 가요대전 SUMMER) | 보류: open-questions §8 |
 | g1 | 2025-08 | 19 (KCON LA, KWDA 2025, XOXZ 활동 방송) | 보류: open-questions §8 |
+| g1 | 2025-09 | 14 (XOXZ 활동 방송·팬미팅 09-07) | 보류: open-questions §8 |
