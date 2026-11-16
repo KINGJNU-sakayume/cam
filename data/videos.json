@@ -21980,6 +21980,168 @@
         "g11s1"
       ],
       "note": ""
+    },
+    {
+      "id": "e1461",
+      "groupId": "g11",
+      "date": "2025-10-01",
+      "show": "대중문화교류위원회 출범식",
+      "label": "",
+      "setlist": [
+        "g11s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1462",
+      "groupId": "g11",
+      "date": "2025-10-13",
+      "show": "ZOZOFES 2025",
+      "label": "",
+      "setlist": [
+        "g11s13",
+        "g11s10",
+        "g11s4",
+        "g11s2",
+        "g11s8",
+        "g11s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1463",
+      "groupId": "g11",
+      "date": "2025-10-24",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g11s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1464",
+      "groupId": "g11",
+      "date": "2025-10-25",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g11s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1465",
+      "groupId": "g11",
+      "date": "2025-10-26",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g11s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1466",
+      "groupId": "g11",
+      "date": "2025-10-30",
+      "show": "지포스 게이머 페스티벌 2025",
+      "label": "",
+      "setlist": [
+        "g11s2",
+        "g11s14",
+        "g11s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1467",
+      "groupId": "g11",
+      "date": "2025-10-31",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g11s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1468",
+      "groupId": "g11",
+      "date": "2025-11-01",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g11s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1469",
+      "groupId": "g11",
+      "date": "2025-11-02",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g11s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1470",
+      "groupId": "g11",
+      "date": "2025-11-09",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g11s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1471",
+      "groupId": "g11",
+      "date": "2025-11-14",
+      "show": "더 시즌즈",
+      "label": "",
+      "setlist": [
+        "g11s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1472",
+      "groupId": "g11",
+      "date": "2025-12-06",
+      "show": "2025 AAA Asia Artist Awards",
+      "label": "",
+      "setlist": [
+        "g11s10",
+        "g11s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1473",
+      "groupId": "g11",
+      "date": "2025-12-19",
+      "show": "가요대 축제",
+      "label": "",
+      "setlist": [
+        "g11s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1474",
+      "groupId": "g11",
+      "date": "2025-12-31",
+      "show": "MBC 가요대제전",
+      "label": "",
+      "setlist": [
+        "g11s10"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -394243,6 +394405,2831 @@
       "channel": "nvr4GGet93o39🌸",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v20072",
+      "ytId": "hnhs9OIMoSw",
+      "eventId": "e1461",
+      "songs": [
+        {
+          "songId": "g11s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251001 대중문화교류위원회 출범회 르세라핌 LE SSERAFIM FEARLESS 채원 직캠 4K",
+      "channel": "빵태희",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20073",
+      "ytId": "1HkXyexrSBU",
+      "eventId": "e1462",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251013 ZOZOFES 르세라핌 홍은채 직캠 ‘DIFFERENT’ (LE SSERAFIM HONG EUNCHAE Fancam)",
+      "channel": "marshmallow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-16"
+    },
+    {
+      "id": "v20074",
+      "ytId": "vboUkXglg_s",
+      "eventId": "e1462",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251013 르세라핌 카즈하 직캠 \"HOT\" (LE SSERAFIM KAZUHA FANCAM) @ ZOZOFES",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20075",
+      "ytId": "JXzCn-1Ux0o",
+      "eventId": "e1462",
+      "songs": [
+        {
+          "songId": "g11s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251013 ZOZOFES 르세라핌 홍은채 직캠 ‘Eve, Psyche&the Bluebeard’s wife’ (LE SSERAFIM HONG EUNCHAE Fancam)",
+      "channel": "marshmallow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-17"
+    },
+    {
+      "id": "v20076",
+      "ytId": "TuN93YZoZw4",
+      "eventId": "e1462",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251013 ZOZOFES 르세라핌 홍은채 직캠 ‘ANTIFRAGILE’ (LE SSERAFIM HONG EUNCHAE Fancam)",
+      "channel": "marshmallow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-17"
+    },
+    {
+      "id": "v20077",
+      "ytId": "L7Yh4p5v1vQ",
+      "eventId": "e1462",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251013 르세라핌 카즈하 직캠 \"CRAZY\" (LE SSERAFIM KAZUHA FANCAM) @ ZOZOFES",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-14"
+    },
+    {
+      "id": "v20078",
+      "ytId": "OXCezrNrNxc",
+      "eventId": "e1462",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251013 르세라핌 카즈하 직캠 \"COME OVER\" (LE SSERAFIM KAZUHA FANCAM) @ ZOZOFES",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20079",
+      "ytId": "f-hPjMPDf6I",
+      "eventId": "e1463",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 카즈하 직캠 'SPAGHETTI' (LE SSERAFIM KAZUHA Fancam) @뮤직뱅크(Music Bank) 251024",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-24"
+    },
+    {
+      "id": "v20080",
+      "ytId": "iZ-fHb5ayFs",
+      "eventId": "e1463",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 김채원 'SPAGHETTI' (LE SSERAFIM KIM CHAEWON Facecam) @뮤직뱅크(Music Bank) 251024",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-24"
+    },
+    {
+      "id": "v20081",
+      "ytId": "75lOAgJcJr8",
+      "eventId": "e1463",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 홍은채 직캠 'SPAGHETTI' (LE SSERAFIM HONG EUNCHAE Fancam) @뮤직뱅크(Music Bank) 251024",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-24"
+    },
+    {
+      "id": "v20082",
+      "ytId": "nFW5mrYGY2E",
+      "eventId": "e1463",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 허윤진 직캠 'SPAGHETTI' (LE SSERAFIM HUH YUNJIN Fancam) @뮤직뱅크(Music Bank) 251024",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-24"
+    },
+    {
+      "id": "v20083",
+      "ytId": "BQOgO0XbPa0",
+      "eventId": "e1463",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 사쿠라 직캠 'SPAGHETTI' (LE SSERAFIM SAKURA Fancam) @뮤직뱅크(Music Bank) 251024",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-24"
+    },
+    {
+      "id": "v20084",
+      "ytId": "1wo0i5fif68",
+      "eventId": "e1463",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 김채원 직캠 'SPAGHETTI' (LE SSERAFIM KIM CHAEWON Fancam) @뮤직뱅크(Music Bank) 251024",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-24"
+    },
+    {
+      "id": "v20085",
+      "ytId": "5TdVfqYJ4Tg",
+      "eventId": "e1463",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 카즈하 'SPAGHETTI' (LE SSERAFIM KAZUHA Facecam) @뮤직뱅크(Music Bank) 251024",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-24"
+    },
+    {
+      "id": "v20086",
+      "ytId": "c-CAQ64UB4o",
+      "eventId": "e1463",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 허윤진 'SPAGHETTI' (LE SSERAFIM HUH YUNJIN Facecam) @뮤직뱅크(Music Bank) 251024",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-24"
+    },
+    {
+      "id": "v20087",
+      "ytId": "jBcMKjGvhU4",
+      "eventId": "e1463",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 홍은채 'SPAGHETTI' (LE SSERAFIM HONG EUNCHAE Facecam) @뮤직뱅크(Music Bank) 251024",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-24"
+    },
+    {
+      "id": "v20088",
+      "ytId": "U_VZ4auC9Rk",
+      "eventId": "e1463",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 사쿠라 'SPAGHETTI' (LE SSERAFIM SAKURA Facecam) @뮤직뱅크(Music Bank) 251024",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-24"
+    },
+    {
+      "id": "v20089",
+      "ytId": "kdHymJ_wLRQ",
+      "eventId": "e1464",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM KAZUHA (르세라핌 카즈하) – SPAGHETTI FanCam | 쇼! 음악중심 | MBC251025",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-25"
+    },
+    {
+      "id": "v20090",
+      "ytId": "SFW05vp9Qjs",
+      "eventId": "e1464",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM KIM CHAEWON (르세라핌 김채원) – SPAGHETTI FanCam | 쇼! 음악중심 | MBC251025",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20091",
+      "ytId": "LeQnyB275A4",
+      "eventId": "e1464",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠8K] LE SSERAFIM (르세라핌) – SPAGHETTI FullCam | 쇼! 음악중심 | MBC251025",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20092",
+      "ytId": "bnljxkkkCfY",
+      "eventId": "e1464",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – SPAGHETTI | 쇼! 음악중심 | MBC251025",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-27"
+    },
+    {
+      "id": "v20093",
+      "ytId": "JCgK9TLGumU",
+      "eventId": "e1464",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM KAZUHA (르세라핌 카즈하) – SPAGHETTI | 쇼! 음악중심 | MBC251025",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-27"
+    },
+    {
+      "id": "v20094",
+      "ytId": "GOPjrNoAgy4",
+      "eventId": "e1464",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM HUH YUNJIN (르세라핌 허윤진) – SPAGHETTI FanCam | 쇼! 음악중심 | MBC251025",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-25"
+    },
+    {
+      "id": "v20095",
+      "ytId": "6LsBssQyDrU",
+      "eventId": "e1464",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM HONG EUNCHAE (르세라핌 홍은채) – SPAGHETTI FanCam | 쇼! 음악중심 | MBC251025",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-25"
+    },
+    {
+      "id": "v20096",
+      "ytId": "k1IlHtZWc2s",
+      "eventId": "e1464",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – SPAGHETTI FanCam | 쇼! 음악중심 | MBC251025",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-25"
+    },
+    {
+      "id": "v20097",
+      "ytId": "tdgJknD4mos",
+      "eventId": "e1464",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM KIM CHAEWON (르세라핌 김채원) – SPAGHETTI | 쇼! 음악중심 | MBC251025",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20098",
+      "ytId": "ga9Kqzp8XV0",
+      "eventId": "e1465",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 르세라핌 'SPAGHETTI' 단독샷 별도녹화│LE SSERAFIM ONE TAKE STAGE│@SBS Inkigayo 251026",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-27"
+    },
+    {
+      "id": "v20099",
+      "ytId": "uloJg4zK3Ss",
+      "eventId": "e1465",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 카즈하 'SPAGHETTI' (LE SSERAFIM KAZUHA FanCam) @SBS Inkigayo 251026",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-26"
+    },
+    {
+      "id": "v20100",
+      "ytId": "xSngzglVgE8",
+      "eventId": "e1465",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 허윤진 'SPAGHETTI' (LE SSERAFIM HUH YUNJIN FanCam) @SBS Inkigayo 251026",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-26"
+    },
+    {
+      "id": "v20101",
+      "ytId": "lcrc6UM7kYM",
+      "eventId": "e1465",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 르세라핌 'SPAGHETTI' (LE SSERAFIM FullCam) @SBS Inkigayo 251026",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-26"
+    },
+    {
+      "id": "v20102",
+      "ytId": "drUQZ7fNXt4",
+      "eventId": "e1465",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 카즈하 'SPAGHETTI' (LE SSERAFIM KAZUHA FaceCam) @SBS Inkigayo 251026",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20103",
+      "ytId": "gbYiH6ZMvR0",
+      "eventId": "e1465",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 김채원 'SPAGHETTI' (LE SSERAFIM KIM CHAEWON FaceCam) @SBS Inkigayo 251026",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20104",
+      "ytId": "L6HzswE14F8",
+      "eventId": "e1465",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 사쿠라 'SPAGHETTI' (LE SSERAFIM SAKURA FanCam) @SBS Inkigayo 251026",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-26"
+    },
+    {
+      "id": "v20105",
+      "ytId": "oVl68kGRMTM",
+      "eventId": "e1465",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 김채원 'SPAGHETTI' (LE SSERAFIM KIM CHAEWON FanCam) @SBS Inkigayo 251026",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-26"
+    },
+    {
+      "id": "v20106",
+      "ytId": "bEfkJVaq-WI",
+      "eventId": "e1465",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 홍은채 'SPAGHETTI' (LE SSERAFIM HONG EUNCHAE FanCam) @SBS Inkigayo 251026",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-26"
+    },
+    {
+      "id": "v20107",
+      "ytId": "kR1wQ7wD3TU",
+      "eventId": "e1466",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] LE SSERAFIM KIMCHAEWON 르세라핌 김채원 - \"ANTIFRAGILE\" 직캠 FANCAM | 251030 지포스 게이머 페스티벌",
+      "channel": "Mr. Egg",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20108",
+      "ytId": "gS8PBb-OcfE",
+      "eventId": "e1466",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K MULTI-CAM] LE SSERAFIM 르세라핌 KIMCHAEWON 김채원 'SPAGHETTI' 직캠｜지포스 게이머 페스티벌 251030",
+      "channel": "Mr. Egg",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20109",
+      "ytId": "ee2F0tREAgE",
+      "eventId": "e1466",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251030 르세라핌 홍은채 직캠 \"SPAGHETTI\" (LE SSERAFIM HONG EUNCHAE FANCAM) @ GeForce 게이머 페스티벌",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-31"
+    },
+    {
+      "id": "v20110",
+      "ytId": "aQ2TXTUnvaQ",
+      "eventId": "e1466",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251030 LE SSERAFIM (르세라핌) 'SPAGHETTI' (카즈하 직캠) 지포스 게이머 페스티벌",
+      "channel": "신짱캠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20111",
+      "ytId": "qHn_g9a53ec",
+      "eventId": "e1466",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251030 르세라핌 사쿠라 '스파게티(SPAGHETTI)' 직캠 LE SSERAFIM Sakura 4k Fancam @Geforce Gamer Festival - 서울",
+      "channel": "꾸루트",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20112",
+      "ytId": "b_uK6OnXfDg",
+      "eventId": "e1466",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]르세라핌 김채원 직캠 'SPAGHETTI' | LE SSERAFIM KIM CHAEWON Fancam | GeForce Gamer Festival Seoul @ 251030",
+      "channel": "ℋ𝒞헨리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20113",
+      "ytId": "j-PydJlOxBU",
+      "eventId": "e1466",
+      "songs": [
+        {
+          "songId": "g11s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251030 르세라핌(LeSserafim) ★채원 - Unforgiven [nVidia GeForce Gamer Festval][4k] @코엑스광장 직캠 shinlim",
+      "channel": "shinlim",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20114",
+      "ytId": "LIOUb85jVoA",
+      "eventId": "e1466",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251030 LE SSERAFIM 김채원 - SPAGHETTI | GeForce Gamer Festival 르세라핌",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20115",
+      "ytId": "QT5Iv19N47Y",
+      "eventId": "e1467",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251031 르세라핌 김채원 직캠 \"SPAGHETTI\" (LE SSERAFIM KIM CHAEWON FANCAM) @MusicBank KBS",
+      "channel": "KPOP LIVE HEYA 및 직캠 Heya",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20116",
+      "ytId": "YwfDdO0Xq2M",
+      "eventId": "e1468",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중풀캠] LE SSERAFIM (르세라핌) – SPAGHETTI FullCam | 쇼! 음악중심 | MBC251101",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-01"
+    },
+    {
+      "id": "v20117",
+      "ytId": "PsdXiM4gag8",
+      "eventId": "e1468",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM HONG EUNCHAE (르세라핌 홍은채) – SPAGHETTI | 쇼! 음악중심 | MBC251101",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-03"
+    },
+    {
+      "id": "v20118",
+      "ytId": "TKy_U5Bbqlg",
+      "eventId": "e1468",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM HONG EUNCHAE (르세라핌 홍은채) – SPAGHETTI FanCam | 쇼! 음악중심 | MBC251101",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-01"
+    },
+    {
+      "id": "v20119",
+      "ytId": "M-U23XQsVpM",
+      "eventId": "e1468",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM KAZUHA (르세라핌 카즈하) – SPAGHETTI FanCam | 쇼! 음악중심 | MBC251101",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-01"
+    },
+    {
+      "id": "v20120",
+      "ytId": "tN5dG_Hkr6Y",
+      "eventId": "e1468",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – SPAGHETTI FanCam | 쇼! 음악중심 | MBC251101",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-01"
+    },
+    {
+      "id": "v20121",
+      "ytId": "c5x0vCNfWLA",
+      "eventId": "e1468",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – SPAGHETTI | 쇼! 음악중심 | MBC251101",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-03"
+    },
+    {
+      "id": "v20122",
+      "ytId": "o9-omF30ugE",
+      "eventId": "e1468",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] LE SSERAFIM HUH YUNJIN (르세라핌 허윤진) – SPAGHETTI FanCam | 쇼! 음악중심 | MBC251101",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-01"
+    },
+    {
+      "id": "v20123",
+      "ytId": "KMDRxeIE6-U",
+      "eventId": "e1469",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 르세라핌 'SPAGHETTI' (LE SSERAFIM FullCam) @SBS Inkigayo 251102",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-03"
+    },
+    {
+      "id": "v20124",
+      "ytId": "e10EQE74xuI",
+      "eventId": "e1469",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 홍은채 'SPAGHETTI' (LE SSERAFIM HONG EUNCHAE FanCam) @SBS Inkigayo 251102",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-04"
+    },
+    {
+      "id": "v20125",
+      "ytId": "6JyoLnqW-OM",
+      "eventId": "e1469",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 카즈하 'SPAGHETTI' (LE SSERAFIM KAZUHA FanCam) @SBS Inkigayo 251102",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-04"
+    },
+    {
+      "id": "v20126",
+      "ytId": "xTHY_mwbCww",
+      "eventId": "e1469",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 사쿠라 'SPAGHETTI' (LE SSERAFIM SAKURA FanCam) @SBS Inkigayo 251102",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-04"
+    },
+    {
+      "id": "v20127",
+      "ytId": "0s1MMwTm3_o",
+      "eventId": "e1469",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 허윤진 'SPAGHETTI' (LE SSERAFIM HUH YUNJIN FanCam) @SBS Inkigayo 251102",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-04"
+    },
+    {
+      "id": "v20128",
+      "ytId": "MoEIBcWbLcM",
+      "eventId": "e1469",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 김채원 'SPAGHETTI' (LE SSERAFIM KIM CHAEWON FanCam) @SBS Inkigayo 251102",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20129",
+      "ytId": "70VqlVLyrzU",
+      "eventId": "e1470",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 르세라핌 'SPAGHETTI' (LE SSERAFIM FullCam) @SBS Inkigayo 251109",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-09"
+    },
+    {
+      "id": "v20130",
+      "ytId": "eXzFY_9mrLU",
+      "eventId": "e1470",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 김채원 'SPAGHETTI' (LE SSERAFIM KIM CHAEWON FanCam) @SBS Inkigayo 251109",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-12"
+    },
+    {
+      "id": "v20131",
+      "ytId": "NkDFekIz864",
+      "eventId": "e1470",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 르세라핌 'SPAGHETTI' 단독샷 별도녹화│LE SSERAFIM ONE TAKE STAGE│@SBS Inkigayo 251109",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20132",
+      "ytId": "JmTCXIBa0e4",
+      "eventId": "e1470",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 김채원 'SPAGHETTI' (LE SSERAFIM KIM CHAEWON FaceCam) @SBS Inkigayo 251109",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20133",
+      "ytId": "DSALQRqXmJs",
+      "eventId": "e1470",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 사쿠라 'SPAGHETTI' (LE SSERAFIM SAKURA FanCam) @SBS Inkigayo 251109",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-12"
+    },
+    {
+      "id": "v20134",
+      "ytId": "B3snop4sfcY",
+      "eventId": "e1470",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 홍은채 'SPAGHETTI' (LE SSERAFIM HONG EUNCHAE FanCam) @SBS Inkigayo 251109",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-12"
+    },
+    {
+      "id": "v20135",
+      "ytId": "2gt8K2VUGTA",
+      "eventId": "e1470",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 허윤진 'SPAGHETTI' (LE SSERAFIM HUH YUNJIN FanCam) @SBS Inkigayo 251109",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-12"
+    },
+    {
+      "id": "v20136",
+      "ytId": "1ZamfgpE3n4",
+      "eventId": "e1470",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 사쿠라 'SPAGHETTI' (LE SSERAFIM SAKURA FaceCam) @SBS Inkigayo 251109",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20137",
+      "ytId": "s-Srw5Pb6RU",
+      "eventId": "e1470",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 카즈하 'SPAGHETTI' (LE SSERAFIM KAZUHA FanCam) @SBS Inkigayo 251109",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-12"
+    },
+    {
+      "id": "v20138",
+      "ytId": "Wde0L8RyNKU",
+      "eventId": "e1471",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251114 르세라핌 홍은채 직캠 (LE SSERAFIM HONG EUNCHAE FanCam) 'CRAZY '@ 더 시즌즈 #ルセラフィム",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-15"
+    },
+    {
+      "id": "v20139",
+      "ytId": "320p5GcBdBg",
+      "eventId": "e1472",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251206 AAA LE SSERAFIM - HOT  HONG EUNCHAE FANCAM",
+      "channel": "Roger0308",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-28"
+    },
+    {
+      "id": "v20140",
+      "ytId": "JGdbkMQAU0Y",
+      "eventId": "e1472",
+      "songs": [
+        {
+          "songId": "g11s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Ash - LE SSERAFIM KAZUHA  FanCam ｜르세라핌 카즈하｜ 251206 AAA",
+      "channel": "reallyzuzu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20141",
+      "ytId": "-aCOxJ05bQA",
+      "eventId": "e1472",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【4K】251206 LE SSERAFIM (르세라핌) 'HOT' (김채원 cam ) @2025 AAA in KAOHSIUNG",
+      "channel": "Yura",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20142",
+      "ytId": "W3u_nvHUkFY",
+      "eventId": "e1472",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251206 ASIA ARTIST AWARDS 르세라핌 사쿠라 직캠 'HOT ' -  LE SSERAFIM SAKURA Fancam",
+      "channel": "꾸라야.사랑해.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-10"
+    },
+    {
+      "id": "v20143",
+      "ytId": "9xnKofjeUvo",
+      "eventId": "e1472",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] LE SSERAFIM KIMCHAEWON 르세라핌 김채원 - \"HOT\" 직캠 FANCAM | 251206 2025 아시아 아티스트 어워즈",
+      "channel": "Mr. Egg",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-08"
+    },
+    {
+      "id": "v20144",
+      "ytId": "RYhWsPed6_o",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 김채원 직캠 ‘Intro Performance+SPAGHETTI' (LE SSERAFIM KIM CHAEWON) @가요대축제글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-19"
+    },
+    {
+      "id": "v20145",
+      "ytId": "Tb5vDHLYHq4",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 김채원 'Intro Performance+SPAGHETTI' (LE SSERAFIM CHAEWON Facecam) @가요대축제 글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-20"
+    },
+    {
+      "id": "v20146",
+      "ytId": "IMHvVUOZTj8",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 카즈하 직캠 ‘Intro Performance+SPAGHETTI' (LE SSERAFIM KAZUHA) @가요대축제글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-19"
+    },
+    {
+      "id": "v20147",
+      "ytId": "z8TonqxO7gc",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 사쿠라 직캠 ‘Intro Performance+SPAGHETTI' (LE SSERAFIM SAKURA) @가요대축제글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-19"
+    },
+    {
+      "id": "v20148",
+      "ytId": "hPlebO2hOI8",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251219 KBS 가요대축제 르세라핌 사쿠라 직캠  'Intro Performance + SPAGHETTI' - LE SSERAFIM SAKURA Fancam",
+      "channel": "꾸라야.사랑해.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-21"
+    },
+    {
+      "id": "v20149",
+      "ytId": "vZ4BRmDak0I",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[LE SSERAFIM(르세라핌)] 251219 KBS 가요대축제: INTRO + SPAGHETTI (Hot Chili ver.) - KIM CHAEWON 김채원 FANCAM",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20150",
+      "ytId": "tnaxDwojRH4",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 허윤진 직캠 ‘Intro Performance+SPAGHETTI' (LE SSERAFIM HUH YUNJIN) @가요대축제글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-19"
+    },
+    {
+      "id": "v20151",
+      "ytId": "Ua3BLAxzORc",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 251219 르세라핌 흥은채 LE SSERAFIM EUNCHAE - SPAGHETTI 직캠 Fancam @2025가요대축제",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20152",
+      "ytId": "ED96qYga1Wo",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251219 KBS가요대축제 르세라핌 홍은채 직캠 ‘SPAGHETTI (Hot Chili ver.)’ (LE SSERAFIM HONG EUNCHAE Fancam)",
+      "channel": "marshmallow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-21"
+    },
+    {
+      "id": "v20153",
+      "ytId": "-YviB5d0R6g",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251219 'INTRO+SPAGHETTI' 르세라핌 김채원 직캠 LE SSERAFIM KIM CHAEWON FANCAM | 2025 KBS 가요대축제 글로벌 페스티벌",
+      "channel": "코코아☘️ cocoa.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-20"
+    },
+    {
+      "id": "v20154",
+      "ytId": "qXaoXk3Xkw0",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 카즈하 'Intro Performance+SPAGHETTI' (LE SSERAFIM KAZUHA Facecam) @가요대축제 글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-20"
+    },
+    {
+      "id": "v20155",
+      "ytId": "Avt2iVzOnU8",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251219 KBS 가요대축제 Global Festival - 'Spaghetti'  LE SSERAFIM (르세라핌) CHAEWON Focus 김채원 직캠",
+      "channel": "Bloom x Rewind",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-20"
+    },
+    {
+      "id": "v20156",
+      "ytId": "WQ9V5GgdGu0",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251219 LE SSERAFIM CHAEWON르세라핌 김채원 - SPAGHETTI Fancam 직캠 @KBS 가요대축제 Global Festival",
+      "channel": "im_chirey",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-22"
+    },
+    {
+      "id": "v20157",
+      "ytId": "u02uK1z-fiw",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251219 KBS 가요대축제 4K LE SSERAFIM SAKURA FanCam ‘SPAGHETTI’  | 르세라핌 사쿠라 직캠",
+      "channel": "ARUKAS - For Sakura",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-22"
+    },
+    {
+      "id": "v20158",
+      "ytId": "GzW6zmnGALs",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251219 가요대축제 INTRO+SPAGHETTI 르세라핌 카즈하 직캠",
+      "channel": "Quest",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20159",
+      "ytId": "sbnK4OV8DUc",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] LE SSERAFIM KIMCHAEWON 르세라핌 김채원 - \"SPAGHETTI\" 직캠 FANCAM | 251219 가요대축제 글로벌 페스티벌",
+      "channel": "Mr. Egg",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-21"
+    },
+    {
+      "id": "v20160",
+      "ytId": "JOvox8kEL7A",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]251219 KBS 가요대축제 르세라핌 허윤진 YUNJIN  'SPAGHETTI'직캠",
+      "channel": "CARROT",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-06"
+    },
+    {
+      "id": "v20161",
+      "ytId": "tJgeyHQeD5A",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251219 LE SSERAFIM 김채원 - SPAGHETTI | 2025 KBS 가요대축제",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-25"
+    },
+    {
+      "id": "v20162",
+      "ytId": "GmspkugR_4k",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251219 2025 KBS 가요대축제 글로벌 페스티벌 #르세라핌 #김채원 SPAGHETTI (feat. j-hope of BTS) 직캠",
+      "channel": "𝙛𝙛.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-23"
+    },
+    {
+      "id": "v20163",
+      "ytId": "S99CS951xRw",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 홍은채 직캠 ‘Intro Performance+SPAGHETTI' (LE SSERAFIM HONG EUNCHAE) @가요대축제글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-19"
+    },
+    {
+      "id": "v20164",
+      "ytId": "y6ahLFJZHPI",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251219 홍은채 HONG EUNCHAE 르세라핌 LE SSERAFIM💿SPAGHETTI [8K 30P] 직캠 FANCAM @KBS 가요대축제 by GalaxyMaru",
+      "channel": "은하마루 GalaxyMaru",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-26"
+    },
+    {
+      "id": "v20165",
+      "ytId": "OwQERAb-9_I",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251219 르세라핌 SPAGHETTI(short ver.) 카즈하 직캠 | LE SSERAFIM KAZUHA FANCAM @가요대축제",
+      "channel": "몽덕",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-24"
+    },
+    {
+      "id": "v20166",
+      "ytId": "tHRRz9gc5e0",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 사쿠라 'Intro Performance+SPAGHETTI' (LE SSERAFIM SAKURA Facecam) @가요대축제 글로벌페스티벌 251219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20167",
+      "ytId": "9aNhW3wcvlA",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K 251219 르세라핌 김채원 SPAGHETTI 직캠 LESSERAFIM CHAEWON @KBS 가요대축제",
+      "channel": "Crimson Zoa",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20168",
+      "ytId": "iiveizRTx7M",
+      "eventId": "e1473",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251219 르세라핌 김채원 \" SPAGHETTI \" 직캠 / LE SSELAFIM CHAEWON Fan Cam / 2025 KBS 가요대축제",
+      "channel": "PJH Cam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-23"
+    },
+    {
+      "id": "v20169",
+      "ytId": "plqTX9tAAjE",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251225 르세라핌 스파게티 뒤통수 폰캠 (채원포커스) [SBS 가요대전]",
+      "channel": "아무거나",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-29"
+    },
+    {
+      "id": "v20170",
+      "ytId": "X7h3jqF62Pw",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 4K] 르세라핌 'INTRO PERFORMANCE + SPAGHETTI' (LE SSERAFIM FullCam) @SBS GayoDaejeon 251225",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-26"
+    },
+    {
+      "id": "v20171",
+      "ytId": "3thHQ4Q8AiY",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 SBS 가요대전 - 'Intro+Spaghetti'  LE SSERAFIM (르세라핌) CHAEWON Focus 김채원 직캠",
+      "channel": "Bloom x Rewind",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20172",
+      "ytId": "J8CP_K4T4Zc",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251225 SBS 가요대전 4K LE SSERAFIM SAKURA FanCam ‘SPAGHETTI’ | 르세라핌 사쿠라 직캠",
+      "channel": "ARUKAS - For Sakura",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-27"
+    },
+    {
+      "id": "v20173",
+      "ytId": "r9cjA9szjb8",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251225 INTRO + ‘SPAGHETTI ' - 르세라핌 홍은채 lesserafim 직캠 @2025 가요대전",
+      "channel": "케박",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-27"
+    },
+    {
+      "id": "v20174",
+      "ytId": "ouJxugP2HJk",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251225 르세라핌 홍은채 직캠 'SPAGHETTI' (LE SSERAFIM EUNCHAE FanCam) @2025 SBS 가요대전",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-29"
+    },
+    {
+      "id": "v20175",
+      "ytId": "ZvPxH59J_50",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 SBS가요대전 르세라핌 홍은채 직캠 ‘INTRO+SPAGHETTI’ (LE SSERAFIM HONG EUNCHAE Fancam)",
+      "channel": "marshmallow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-27"
+    },
+    {
+      "id": "v20176",
+      "ytId": "70OuL1RS2yg",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K 251225 르세라핌 홍은채 SPAGHETTI 직캠 LESSERAFIM Eunchae @SBS 가요대전",
+      "channel": "Crimson Zoa",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-29"
+    },
+    {
+      "id": "v20177",
+      "ytId": "Cm0EjYaU-dM",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 LE SSERAFIM SAKURA 르세라핌 사쿠라 - 'INTRO PERFORMANCE + SPAGHETTI' 직캠 | 2025 SBS 가요대전",
+      "channel": "Zetty.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20178",
+      "ytId": "UOK_VttPMVg",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 SBS 가요대전 LE SSERAFIM HUHYUNJIN 르세라핌 허윤진 직캠 - INTRO PERFORMANCE + SPAGHETTI",
+      "channel": "sweetpotato",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-30"
+    },
+    {
+      "id": "v20179",
+      "ytId": "4-hhH8TjjDU",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251225 INTRO + SPAGHETTI 르세라핌 사쿠라 직캠 LESSRAFIM SAKURA focus @ 2025 SBS GAYO DAEJEON",
+      "channel": "blank space.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20180",
+      "ytId": "j1D46juxhaE",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251225 르세라핌 허윤진 직캠 \"SPAGHETTI\" (LE SSERAFIM YUNJIN FANCAM) @SBS GayoDaejeon",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-01"
+    },
+    {
+      "id": "v20181",
+      "ytId": "FTJ38EpBeDs",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 가요대전 INTRO+SPAGHETTI 르세라핌 카즈하 직캠",
+      "channel": "Quest",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-27"
+    },
+    {
+      "id": "v20182",
+      "ytId": "pDeASKK1eKg",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251225 2025 SBS 가요대전 SPAGHETTI LE SSERAFIM 채원 직캠 4K",
+      "channel": "빵태희",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20183",
+      "ytId": "_zlQ3lsKSMg",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "LE SSERAFIM KAZUHA SPAGHETTI 🍝 FOUCS [SBS GAYODAEJEON 251225]",
+      "channel": "vvt_il ",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20184",
+      "ytId": "95uCvgo7cII",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] SBS 가요대전 르세라핌 사쿠라 \"SPAGHETTI\" 직캠 | 251225 GAYO DAEJEON LE SSERAFIM SAKURA FANCAM",
+      "channel": "Yeonwonie.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20185",
+      "ytId": "1bcqo8hZEaY",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251225 SBS 가요대전(GayoDaejeon) 사쿠라 직캠 'Intro Performance + SPAGHETTI' - LE SSERAFIM SAKURA Fancam",
+      "channel": "꾸라야.사랑해.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20186",
+      "ytId": "-NaTA79Pg7I",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 LE SSERAFIM 르세라핌 카즈하 KAZUHA SPAGHETTI 직캠 FANCAM @SBS 가요대전 GayoDaejeon",
+      "channel": "komorebi.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-27"
+    },
+    {
+      "id": "v20187",
+      "ytId": "KsattpcZ-0A",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251225 르세라핌 카즈하 직캠 \"SPAGHETTI\" (LE SSERAFIM KAZUHA FANCAM) @SBS 가요대전",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20188",
+      "ytId": "CJDlaKkO94c",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251225 'SPAGHETTI' 르세라핌 김채원 직캠 LE SSERAFIM KIM CHAEWON FANCAM | 2025 가요대전 SBS GayoDaejeon",
+      "channel": "코코아☘️ cocoa.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20189",
+      "ytId": "N3xcpcFHmnE",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 SPAGHETTI - 르세라핌 채원 직캠 LE SSERAFIM Chaewon Fancam SBS 가요대전",
+      "channel": "kpopmylife1314",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-08"
+    },
+    {
+      "id": "v20190",
+      "ytId": "8X7vNbjeGWI",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 ‘INTRO + SPAGHETTI’ 르세라핌 김채원 직캠 LE SSERAFIM KIM CHAEWON FANCAM @ SBS 가요대전 GAYO DAEJEON",
+      "channel": "Wonder for Chaewon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-28"
+    },
+    {
+      "id": "v20191",
+      "ytId": "iB5nnd_Vmmk",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 LE SSERAFIM KIM CHAEWON 르세라핌 김채원 'SPAGHETTI' | SBS GayoDaejeon 가요대전",
+      "channel": "Spotted",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-26"
+    },
+    {
+      "id": "v20192",
+      "ytId": "HAg2MHi9vzU",
+      "eventId": "e1382",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] LE SSERAFIM KIMCHAEWON 르세라핌 김채원 - \"SPAGHETTI\" 직캠 FANCAM | 251225 SBS 가요대전",
+      "channel": "Mr. Egg",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20193",
+      "ytId": "gGi-V4jJPtk",
+      "eventId": "e1474",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전 #최애직캠] LE SSERAFIM KIM CHAEWON (르세라핌 김채원) – HOT | 2025 GayoDaejejeon | MBC251231",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-03"
+    },
+    {
+      "id": "v20194",
+      "ytId": "jHYGyXRUcgI",
+      "eventId": "e1474",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] LE SSERAFIM (르세라핌) – HOT FullCam | 2025 GayoDaejejeon | MBC251231",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-01"
+    },
+    {
+      "id": "v20195",
+      "ytId": "sLZOXNRkCO0",
+      "eventId": "e1474",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전 #최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – HOT | 2025 GayoDaejejeon | MBC251231",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-03"
     }
   ],
   "clips": []
