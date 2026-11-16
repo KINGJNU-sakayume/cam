@@ -378,3 +378,9 @@
 - 담음 165개: SHOW WHAT I AM 서울 중콘(11-01) 75, 막콘(11-02) 74, 2025 KGMA(11-15) 15, MAMA AWARDS(11-28) 1 (모두 이미 있는 공연에 추가, 멤버 1명 + 등록 곡).
 - 뺀 것: 2025-01·12 날짜 추정 영상, 한 영상에 여러 곡이 붙은 영상(TKO + HolyMoly, XOXZ + Baddie, WOW + Off the Record 등 3개).
 - 보류: 서울 콘서트 중콘·막콘의 미등록 곡 직캠(Ice Queen, You Wanna Cry, My Satisfaction, Supernova Love, Eight, Wild Bird 등), 풀·묶음 영상(AkkwW6Ef820 등), KGMA·MAMA(XOXZ + Rebel Heart) 묶음 직캠, 인하대 정기공연(2DbBAreh9Jc, 학교 행사 이름 불분명), 스틸하트클럽 방송, 베리즈 라이브.
+
+### 아이브 2025-12
+- 담음 34개: 2025 AAA Asia Artist Awards(12-06) 10, MMA 2025(12-20) 20, SBS 가요대전(12-25) 4 (이미 있는 공연에 추가).
+- 뺀 것: 2025-01 날짜 추정, 12-14 뮤직뱅크 글로벌 페스티벌 이서 Attitude(업로드일 기준 추정), 여러 곡 묶음(XOXZ + Attitude, FLU + Rebel Heart 등).
+- 확인해 주세요: AAA 'Rebel Heart'(v18379)는 제목에 여섯 멤버가 모두 적혀 있어 멤버 6명으로 담겼어요(단체 직캠이면 멤버 지정을 고쳐야 해요).
+- 보류: 12-14 뮤직뱅크 글로벌 페스티벌 in Japan(oSVLEzAFs9U·wFCr-6ltPrQ), K-Choreo 타워캠(12-30), 가요대축제(12-19) 리즈 'Never Ending Story' 커버(미등록 곡), 12-31 MBC 가요대제전 'GOTCHA + Rebel Heart'·'Grown Ups' 방송 영상, 12-25 풀·크리스마스 버전 직캠, 스틸하트클럽, 베리즈·버블.
