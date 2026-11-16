@@ -207,3 +207,6 @@ node scripts/archive.mjs validate
 | g1 | 2024-07 | 43 (투어 홍콩·마닐라·시드니, SBS 가요대전 SUMMER) | 보류: 07-26 가요대전 방송분 (open-questions §8) |
 | g1 | 2024-08 | 103 (롤라팔루자·앙코르 서울·SUMMER SONIC 오사카·자카르타) | 보류: open-questions §8 |
 | g1 | 2024-09 | 17 (2024 펩시 페스타) | 보류: open-questions §8 (Crush 방송 무대 등) |
+| g1 | 2024-10 | 0 | 무대 영상 없음 (open-questions §8) |
+| g1 | 2024-11 | 37 (MAMA AWARDS 10, MMA 2024 27) | 보류: open-questions §8 |
+| g1 | 2024-12 | 17 (가요대 축제 8, SBS 가요대전 8, MMA 1) | 보류: open-questions §8 |

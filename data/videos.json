@@ -21447,6 +21447,56 @@
         "g1s9"
       ],
       "note": ""
+    },
+    {
+      "id": "e1418",
+      "groupId": "g1",
+      "date": "2024-11-22",
+      "show": "MAMA AWARDS",
+      "label": "",
+      "setlist": [
+        "g1s10",
+        "g1s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1419",
+      "groupId": "g1",
+      "date": "2024-11-30",
+      "show": "MMA 2024",
+      "label": "",
+      "setlist": [
+        "g1s9",
+        "g1s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1420",
+      "groupId": "g1",
+      "date": "2024-12-20",
+      "show": "가요대 축제",
+      "label": "",
+      "setlist": [
+        "g1s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1421",
+      "groupId": "g1",
+      "date": "2024-12-25",
+      "show": "SBS 가요대전",
+      "label": "",
+      "setlist": [
+        "g1s9",
+        "g1s2",
+        "g1s4",
+        "g1s5",
+        "g1s8"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -375620,6 +375670,1245 @@
       "channel": "김레몬",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v19280",
+      "ytId": "DTTgQnno0HY",
+      "eventId": "e1418",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k]241122 MAMA IVE ANYUJIN 활퍼포+Accendio 아이브 안유진 focus cam",
+      "channel": "Jjang_GU",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19281",
+      "ytId": "3aRJssHfVdY",
+      "eventId": "e1418",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]241122 MAMA IVE 부채춤+HEYA 아이브 안유진 focus cam",
+      "channel": "Jjang_GU",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19282",
+      "ytId": "AX0DMXbQ99M",
+      "eventId": "e1418",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241122 MAMA 해야 아이브 가을 직캠 IVE GAEUL HEYA 4K fancam",
+      "channel": "sunset",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v19283",
+      "ytId": "3ydmqJ-Rves",
+      "eventId": "e1418",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]241122 MAMA ‘HEYA’ IVE ANYUJIN 아이브 안유진 focus cam",
+      "channel": "Beacoup",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19284",
+      "ytId": "k7EhkAL0cU4",
+      "eventId": "e1418",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241122 IVE - Accendio An Yujin Focus @MAMA Awards 2024 아이브 안유진 직캠 [4K]",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-23"
+    },
+    {
+      "id": "v19285",
+      "ytId": "01kK4ri16-8",
+      "eventId": "e1418",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241122 2024 MAMA AWARD \"해야(HEYA)\"  IVE REI Fan cam",
+      "channel": "Pichoni",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-23"
+    },
+    {
+      "id": "v19286",
+      "ytId": "gHZfR-tBq20",
+      "eventId": "e1418",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "【1080p】241122 MAMA 아이브 안유진 '아센디오' 직캠 (IVE AN YUJIN Accendio Fancam）",
+      "channel": "LaLune",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-26"
+    },
+    {
+      "id": "v19287",
+      "ytId": "sayHnbjS2OU",
+      "eventId": "e1418",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241122 MAMA 마마 IVE 아이브 HEYA 해야 WONYOUNG 장원영 4K focus fancam 직캠",
+      "channel": "RABBIT.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19288",
+      "ytId": "s52sFOM-0RY",
+      "eventId": "e1418",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20241122 MAMA AWARDS 'HEYA해야' IVE JANGWONYOUNG 아이브 장원영 focus fancam 직캠（4k）",
+      "channel": "𝓦.𝓨.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-23"
+    },
+    {
+      "id": "v19289",
+      "ytId": "mEIy4hU_ecY",
+      "eventId": "e1418",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20241122 MAMA AWARDS 'HEYA해야' IVE LIZ focus fancam",
+      "channel": "forive",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-28"
+    },
+    {
+      "id": "v19290",
+      "ytId": "PteHKkxuxRk",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 MELON MUSIC AWARDS #MMA2024 | HEYA 해야 | IVE LIZ focus 아이브 리즈 직캠 fancam",
+      "channel": "mya.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-10"
+    },
+    {
+      "id": "v19291",
+      "ytId": "WIvuQvdEG18",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 아이브 (IVE) '2024 MMA' - '해야 (HEYA)' 리즈 직캠 (LIZ Fancam) 일부 Ver.",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-02"
+    },
+    {
+      "id": "v19292",
+      "ytId": "SQGeTiNpLyc",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 MMA IVE HEYA 안유진 focus fancam",
+      "channel": "Jjang_GU",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19293",
+      "ytId": "0N5jGFbsfPo",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 MMA 2024 \"해야(HEYA)\"  IVE REI Fan cam",
+      "channel": "Pichoni",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19294",
+      "ytId": "6-qsC7_MjRw",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "장원영 Focus _ 241130 해야 HEYA _ #JANGWONYOUNG 아이브 IVE #MMA2024 | #만우절 #AprilFoolsDay",
+      "channel": "몬프Ayo",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19295",
+      "ytId": "KBYOSaGhfQU",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241130 멜론뮤직어워드 MMA 아이브 안유진 해야(HEYA) 4K직캠",
+      "channel": "돼냥이",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19296",
+      "ytId": "_3o1owMiLgs",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 Accendio - 아이브 이서 IVE LEESEO 2024 MELON MUSIC AWARDS FANCAM",
+      "channel": "Scent.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-05"
+    },
+    {
+      "id": "v19297",
+      "ytId": "H8OVm6af8zw",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241130 ACCENDIO 아이브 원영 직캠 IVE WONYOUNG focus @ 2024 MMA",
+      "channel": "blank space.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19298",
+      "ytId": "WIB18LRQxNA",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241130 멜론뮤직어워드 MMA 아이브 안유진 ACCENDIO 4K 직캠",
+      "channel": "돼냥이",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19299",
+      "ytId": "c-8YoANiVs0",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 MELON MUSIC AWARDS #MMA2024 | ACCENDIO 아센디오 | IVE LIZ focus 아이브 리즈 직캠 fancam",
+      "channel": "mya.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-20"
+    },
+    {
+      "id": "v19300",
+      "ytId": "LmBnPvWi-1k",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 MMA 2024 \"Accendio\"  IVE REI Fan cam",
+      "channel": "Pichoni",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19301",
+      "ytId": "xeJQRHDWtrg",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]241130 IVE MMA Accendio 안유진 focus fancam",
+      "channel": "Jjang_GU",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19302",
+      "ytId": "Olk8jbR_264",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Accendio - IVE LIZ 아이브 리즈 241130 MMA",
+      "channel": "BLUE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19303",
+      "ytId": "MmPWcE9kIe8",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241130  MMA 멜론뮤직어워드 해야 HEYA 아이브 가을 직캠 IVE GAEUL 4K FANCAM",
+      "channel": "sunset",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-03"
+    },
+    {
+      "id": "v19304",
+      "ytId": "doKaIqIdvUE",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "MMA 241130 아이브 안유진 IVE AN YUJIN - 해야 HEYA (4K)",
+      "channel": "Untitled-A",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19305",
+      "ytId": "wJgMCJUjJLo",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241130 멜론뮤직어워드 MMA '해야(HEYA)' IVE 아이브 LEESEO 이서 직캠",
+      "channel": "SILKY.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19306",
+      "ytId": "DHLWl03PtyQ",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 MMA 멜론뮤직어워드 아이브 가을 ive gaeul ACCENDIO 아센디오 직캠",
+      "channel": "Florens",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-06"
+    },
+    {
+      "id": "v19307",
+      "ytId": "kgf94ORmNSc",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 아이브 (IVE) '2024 MMA' - 'Accendio (아센디오)' 리즈 직캠 (LIZ Fancam) 일부 Ver.",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19308",
+      "ytId": "W_AaONSxL4o",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241130 IVE 안유진 MMA 멜론뮤직어워드 해야(HEYA) 2160p 4K 직캠",
+      "channel": "안대",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19309",
+      "ytId": "m2lfHTaKTzA",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K-Dual]241130 MMA ‘Accendio’ IVE ANYUJIN 아이브 안유진 듀얼 팬캠",
+      "channel": "Beacoup",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19310",
+      "ytId": "_tZ9-nYuqzA",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K) 241130 MMA 멜론뮤직어워드 'ACCENDIO' 아이브 장원영 IVE JANGWONYOUNG 직캠",
+      "channel": "MILKY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19311",
+      "ytId": "4JSDyITEkT4",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]241130 MMA ‘HEYA’ IVE ANYUJIN 아이브 안유진 팬캠",
+      "channel": "Beacoup",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19312",
+      "ytId": "0V2E1JuL-Co",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20241130 MMA Melon Music Award 'Accendio' IVE LIZ KIMJIWON 아이브 리즈 김지원 focus fancam 직캠（4k）",
+      "channel": "𝓦.𝓨.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-02"
+    },
+    {
+      "id": "v19313",
+      "ytId": "vsrF0frVXIQ",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "MMA 241130 아이브 안유진 IVE AN YUJIN -  ACCENDIO (4K)",
+      "channel": "Untitled-A",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19314",
+      "ytId": "tM3mngz3qZU",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]241130 MMA ‘Accendio’ IVE ANYUJIN 아이브 안유진 팬캠",
+      "channel": "Beacoup",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19315",
+      "ytId": "6VC3Ot57OZQ",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241130 MMA 아이브 원영 아센디오 직캠 IVE ACCENDIO WONYOUNG focus.",
+      "channel": "BLOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19316",
+      "ytId": "zfjc6FOtbYk",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241130 MMA MELON MUSIC AWARDS IVE 아이브 wonyoung 장원영 ‘Accendio’ 4K Focus Fancam 직캠",
+      "channel": "RABBIT.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-01"
+    },
+    {
+      "id": "v19317",
+      "ytId": "O2OTLgY3EK4",
+      "eventId": "e1419",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241130 MELON MUSIC AWARDS MMA 'SOLO INTRO + HEYA' IVE JANGWONYOUNG 아이브 장원영 직캠 (4k)",
+      "channel": "want",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-04"
+    },
+    {
+      "id": "v19318",
+      "ytId": "sz9J9aGtXtk",
+      "eventId": "e1420",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 아이브 장원영 직캠 'Blue Heart + 해야 (HEYA)' (IVE JANG WONYOUNG Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v19319",
+      "ytId": "TfivwrtJkew",
+      "eventId": "e1420",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 아이브 리즈 직캠 'Blue Heart + 해야 (HEYA)' (IVE LIZ Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v19320",
+      "ytId": "dJdhy5p_pGk",
+      "eventId": "e1420",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 아이브 안유진 'INTRO + Blue Heart + 해야 (HEYA)' (IVE YUJIN Facecam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v19321",
+      "ytId": "o5cy2wvrtG8",
+      "eventId": "e1420",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 아이브 안유진 직캠 'Blue Heart + 해야 (HEYA)' (IVE AN YUJIN Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v19322",
+      "ytId": "c1fJKfXGWYg",
+      "eventId": "e1420",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 아이브 이서 직캠 'Blue Heart + 해야 (HEYA)' (IVE LEESEO Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v19323",
+      "ytId": "un_9ooqU2Xo",
+      "eventId": "e1420",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 아이브 레이 직캠 'Blue Heart + 해야 (HEYA)' (IVE REI Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v19324",
+      "ytId": "3xAx1dgJlGg",
+      "eventId": "e1420",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 아이브 가을 직캠 'Blue Heart + 해야 (HEYA)' (IVE GAEUL Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v19325",
+      "ytId": "joJTxxzel4c",
+      "eventId": "e1420",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 아이브 리즈 'INTRO + Blue Heart + 해야 (HEYA)' (IVE LIZ Facecam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v19326",
+      "ytId": "IVyUEcrKqD8",
+      "eventId": "e1421",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]241225 SBS 가요대전 IVE HEYA+IVE EMPATHY 안유진 focus",
+      "channel": "Jjang_GU",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19327",
+      "ytId": "5zYsU2t1yqw",
+      "eventId": "e1421",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241225 가요대전 아이브 원영 LOVE DIVE 솔로 직캠 IVE WONYOUNG LOVE DIVE focus.",
+      "channel": "BLOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19328",
+      "ytId": "RCJfjHubI5k",
+      "eventId": "e1421",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241225 가요대전 아이브 원영 해야+EMPATHY 직캠 IVE WONYOUNG HEYA+ EMPATHY focus.",
+      "channel": "BLOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19329",
+      "ytId": "rbhNv9o47wc",
+      "eventId": "e1421",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 아이브 (IVE) 2024 SBS 가요대전 - 'LOVE DIVE' 원영 직캠 (WONYOUNG Fancam)",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19330",
+      "ytId": "RfXd-ZXtDjA",
+      "eventId": "e1421",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 아이브 (IVE) 2024 SBS 가요대전 - 'Kitsch' 유진 직캠 (YUJIN Fancam)",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-21"
+    },
+    {
+      "id": "v19331",
+      "ytId": "YhdJpUieIlI",
+      "eventId": "e1421",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 20241225 IVE 안유진 SBS 가요대전 - Kitsch",
+      "channel": "Last Pang",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-28"
+    },
+    {
+      "id": "v19332",
+      "ytId": "WWDrzV0mUDE",
+      "eventId": "e1421",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 SBS 가요대전 | I AM (SOLO PERFORMANCE) | IVE LIZ 아이브 리즈 직캠 fancam",
+      "channel": "mya.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-01"
+    },
+    {
+      "id": "v19333",
+      "ytId": "YtEYgXHvTsM",
+      "eventId": "e1421",
+      "songs": [
+        {
+          "songId": "g1s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20241225 SBS GAYO DAEJEON 가요대전 2024 IVE Baddie 배디 IVE Rei （아이브 레이） Focus Fancam",
+      "channel": "Young Sheep",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-28"
     }
   ],
   "clips": []
