@@ -21497,6 +21497,50 @@
         "g1s8"
       ],
       "note": ""
+    },
+    {
+      "id": "e1422",
+      "groupId": "g1",
+      "date": "2025-01-05",
+      "show": "골든디스크어워즈",
+      "label": "",
+      "setlist": [
+        "g1s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1423",
+      "groupId": "g1",
+      "date": "2025-01-24",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g1s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1424",
+      "groupId": "g1",
+      "date": "2025-01-29",
+      "show": "MBC 가요대제전",
+      "label": "",
+      "setlist": [
+        "g1s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1425",
+      "groupId": "g1",
+      "date": "2025-02-14",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g1s12"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -376909,6 +376953,1743 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-12-28"
+    },
+    {
+      "id": "v19334",
+      "ytId": "6LlfnqUr0uY",
+      "eventId": "e1422",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250105 IVE 아이브 안유진 - Intro + 해야(HEYA) 4K Focus Golden Disc Awards",
+      "channel": "901Percent_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-07"
+    },
+    {
+      "id": "v19335",
+      "ytId": "h1vEkWTYA4A",
+      "eventId": "e1422",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250105 GOLDEN DISC AWARDS GDA 'HEYA+'DANCE BREAK' IVE JANGWONYOUNG 아이브 장원영 직캠 (4k)",
+      "channel": "want",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-07"
+    },
+    {
+      "id": "v19336",
+      "ytId": "ew5rt68CG5w",
+      "eventId": "e1422",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250105 GOLDEN DISC AWARDS GDA | INTRO + 해야 (HEYA) + DANCE BREAK | IVE LIZ 아이브 리즈 직캠 fancam",
+      "channel": "mya.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-08"
+    },
+    {
+      "id": "v19337",
+      "ytId": "h5pRkJttS0Y",
+      "eventId": "e1422",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250105 Golden Disc Awards 해야 골든디스크 아이브 가을 직캠 HEYA IVE GAEUL 4K FANCAM",
+      "channel": "sunset",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-08"
+    },
+    {
+      "id": "v19338",
+      "ytId": "44YbwWtMem0",
+      "eventId": "e1422",
+      "songs": [
+        {
+          "songId": "g1s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250105 Golden Disc Awards GDA \"해야(HEYA)\"  IVE REI Fan cam",
+      "channel": "Pichoni",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-07"
+    },
+    {
+      "id": "v19339",
+      "ytId": "L1xZAtnw9oE",
+      "eventId": "e1165",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[UNFILTERED CAM] IVE ANYUJIN(안유진) 'REBEL HEART' 4K | STUDIO CHOOM",
+      "channel": "STUDIO CHOOM [스튜디오 춤]",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-16"
+    },
+    {
+      "id": "v19340",
+      "ytId": "8y2AluSRSt8",
+      "eventId": "e1165",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[UNFILTERED CAM] IVE REI(레이) 'REBEL HEART' 4K | STUDIO CHOOM",
+      "channel": "STUDIO CHOOM [스튜디오 춤]",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-16"
+    },
+    {
+      "id": "v19341",
+      "ytId": "4Qwp7J9b-zc",
+      "eventId": "e1165",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[UNFILTERED CAM] IVE JANGWONYOUNG(장원영) 'REBEL HEART' 4K | STUDIO CHOOM",
+      "channel": "STUDIO CHOOM [스튜디오 춤]",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-16"
+    },
+    {
+      "id": "v19342",
+      "ytId": "l-MPUO8rWZI",
+      "eventId": "e1165",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[UNFILTERED CAM] IVE LIZ(리즈) 'REBEL HEART' 4K | STUDIO CHOOM",
+      "channel": "STUDIO CHOOM [스튜디오 춤]",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-16"
+    },
+    {
+      "id": "v19343",
+      "ytId": "F8sxMyO6kJk",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 안유진 'REBEL HEART' (IVE AN YUJIN FanCam) @SBS Inkigayo 250119",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-19"
+    },
+    {
+      "id": "v19344",
+      "ytId": "ETlB0gOaV_k",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 아이브 'REBEL HEART' 단독샷 별도녹화│IVE ONE TAKE STAGE @SBS Inkigayo 250119",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-20"
+    },
+    {
+      "id": "v19345",
+      "ytId": "iSeAdNYgPY0",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 장원영 'REBEL HEART' (IVE WONYOUNG FaceCam) @SBS Inkigayo 250119",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-20"
+    },
+    {
+      "id": "v19346",
+      "ytId": "szHrhSimwAI",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 장원영 'REBEL HEART' (IVE WONYOUNG FanCam) @SBS Inkigayo 250119",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-19"
+    },
+    {
+      "id": "v19347",
+      "ytId": "h7OmJZS7sxY",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 리즈 'REBEL HEART' (IVE LIZ FaceCam) @SBS Inkigayo 250119",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-20"
+    },
+    {
+      "id": "v19348",
+      "ytId": "D34WMJEJU_s",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 이서 'REBEL HEART' (IVE LEESEO FanCam) @SBS Inkigayo 250119",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-19"
+    },
+    {
+      "id": "v19349",
+      "ytId": "uJsGYBIv9Ek",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 안유진 'REBEL HEART' (IVE AN YUJIN FaceCam) @SBS Inkigayo 250119",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-20"
+    },
+    {
+      "id": "v19350",
+      "ytId": "N8vNCg_FvxQ",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 이서 'REBEL HEART' (IVE LEESEO FaceCam) @SBS Inkigayo 250119",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-20"
+    },
+    {
+      "id": "v19351",
+      "ytId": "SzFVqBNTR38",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 리즈 'REBEL HEART' (IVE LIZ FanCam) @SBS Inkigayo 250119",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-19"
+    },
+    {
+      "id": "v19352",
+      "ytId": "NdihQvblFi8",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 가을 'REBEL HEART' (IVE GAEUL FaceCam) @SBS Inkigayo 250119",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-20"
+    },
+    {
+      "id": "v19353",
+      "ytId": "prRWF48KX9c",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 레이 'REBEL HEART' (IVE REI FanCam) @SBS Inkigayo 250119",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-19"
+    },
+    {
+      "id": "v19354",
+      "ytId": "7pIwpz6PEUg",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 레이 'REBEL HEART' (IVE REI FaceCam) @SBS Inkigayo 250119",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-20"
+    },
+    {
+      "id": "v19355",
+      "ytId": "WMwWCmCjSck",
+      "eventId": "e1168",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 가을 'REBEL HEART' (IVE GAEUL FanCam) @SBS Inkigayo 250119",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-19"
+    },
+    {
+      "id": "v19356",
+      "ytId": "rmd8LyBXZzQ",
+      "eventId": "e1169",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 이서 직캠 'REBEL HEART' (IVE Leeseo FanCam) @MCOUNTDOWN 250123",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-23"
+    },
+    {
+      "id": "v19357",
+      "ytId": "JqiJ5F5IAZw",
+      "eventId": "e1169",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 리즈 직캠 'REBEL HEART' (IVE LIZ FanCam) @MCOUNTDOWN 250123",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-28"
+    },
+    {
+      "id": "v19358",
+      "ytId": "NEfxpoYQqcA",
+      "eventId": "e1169",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 가을 직캠 'REBEL HEART' (IVE GAEUL FanCam) @MCOUNTDOWN 250123",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-24"
+    },
+    {
+      "id": "v19359",
+      "ytId": "FNzxuQgQr84",
+      "eventId": "e1423",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 가을 직캠 'REBEL HEART' (IVE GAEUL FanCam) @MusicBank 250124",
+      "channel": "scarlet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-20"
+    },
+    {
+      "id": "v19360",
+      "ytId": "YXIVKLwrEBc",
+      "eventId": "e1423",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 직캠 'REBEL HEART' (IVE WONYOUNG Tower Cam) @MusicBank 250124",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-27"
+    },
+    {
+      "id": "v19361",
+      "ytId": "L-S4tXiHeag",
+      "eventId": "e1423",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "아이브(IVE) 이서(LEESEO) - REBEL HEART(레블하트) 타워 세로직캠(Tower Vertical Cam) / 250124 MusicBank",
+      "channel": "우유한잔",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-27"
+    },
+    {
+      "id": "v19362",
+      "ytId": "ivg-sFKSpUE",
+      "eventId": "e1423",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 이서 직캠 'REBEL HEART' (IVE Leeseo Tower Cam) @MusicBank 250124",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-27"
+    },
+    {
+      "id": "v19363",
+      "ytId": "IKX6U8jd7WI",
+      "eventId": "e1423",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 안유진 직캠 'REBEL HEART' (IVE YUJIN Tower Cam) @MusicBank 250124",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-27"
+    },
+    {
+      "id": "v19364",
+      "ytId": "1ttI_WTNyiU",
+      "eventId": "e1423",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 'REBEL HEART' 직캠 (IVE JANG WONYOUNG FANCAM) MusicBank 250124",
+      "channel": "taro milky 타로우유",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-28"
+    },
+    {
+      "id": "v19365",
+      "ytId": "JKTshsivofE",
+      "eventId": "e1171",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 이서 'REBEL HEART' (IVE LEESEO FanCam) @SBS Inkigayo 250126",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-27"
+    },
+    {
+      "id": "v19366",
+      "ytId": "ZvElbqtrGVs",
+      "eventId": "e1171",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 안유진 'REBEL HEART' (IVE AN YUJIN FanCam) @SBS Inkigayo 250126",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-27"
+    },
+    {
+      "id": "v19367",
+      "ytId": "NPCb0xFRYE4",
+      "eventId": "e1171",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 장원영 'REBEL HEART' (IVE WONYOUNG FanCam) @SBS Inkigayo 250126",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-27"
+    },
+    {
+      "id": "v19368",
+      "ytId": "hRVnR082pQ0",
+      "eventId": "e1171",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 리즈 'REBEL HEART' (IVE LIZ FanCam) @SBS Inkigayo 250126",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-27"
+    },
+    {
+      "id": "v19369",
+      "ytId": "mokd0YYF0Co",
+      "eventId": "e1171",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 레이 'REBEL HEART' (IVE REI FanCam) @SBS Inkigayo 250126",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-27"
+    },
+    {
+      "id": "v19370",
+      "ytId": "OndzL_ZsaO4",
+      "eventId": "e1171",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 안유진 'REBEL HEART' (IVE AN YUJIN FaceCam) @SBS Inkigayo 250126",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-27"
+    },
+    {
+      "id": "v19371",
+      "ytId": "yE7pUNvu7CE",
+      "eventId": "e1171",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 가을 'REBEL HEART' (IVE GAEUL FanCam) @SBS Inkigayo 250126",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-27"
+    },
+    {
+      "id": "v19372",
+      "ytId": "ZIOCtZsoV3E",
+      "eventId": "e1424",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 아이브 가을 – ELEVEN 직캠 (IVE GAEUL Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v19373",
+      "ytId": "UoretkhyIA0",
+      "eventId": "e1424",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 아이브 – ELEVEN (IVE Fullcam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v19374",
+      "ytId": "eTTKMuuzVL0",
+      "eventId": "e1424",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전 #최애직캠] 아이브 장원영 (IVE JANG WONYOUNG) – ELEVEN | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v19375",
+      "ytId": "ZZNqrLR7lyg",
+      "eventId": "e1424",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 아이브 이서 – ELEVEN 직캠 (IVE LEESEO Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v19376",
+      "ytId": "wER5A_vR69I",
+      "eventId": "e1424",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 아이브 리즈 – ELEVEN 직캠 (IVE LIZ Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v19377",
+      "ytId": "ZIFV7NXug7Y",
+      "eventId": "e1424",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전 #최애직캠] 아이브 안유진 (IVE AN YUJIN) – ELEVEN | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v19378",
+      "ytId": "xfCI3dseUt4",
+      "eventId": "e1424",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 아이브 레이 – ELEVEN 직캠 (IVE REI Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v19379",
+      "ytId": "LPZ1NsWwxrY",
+      "eventId": "e1424",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "아이브 안유진 직캠 'ELEVEN' (IVE YUJIN Vertical Cam) @2024 MBC Gayo Daejejeon 250129",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v19380",
+      "ytId": "VN8XndAzblU",
+      "eventId": "e1173",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 \" ATTITUDE\" ( IVE JANG  WONYOUNG FANCAM ) |   | KBS 250207 방송",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19381",
+      "ytId": "u2sTa48vGPU",
+      "eventId": "e1175",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 이서 'ATTITUDE' (IVE LEESEO FanCam) @SBS Inkigayo 250209",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-09"
+    },
+    {
+      "id": "v19382",
+      "ytId": "Es0pl-nJd5E",
+      "eventId": "e1175",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 레이 'ATTITUDE' (IVE REI FaceCam) @SBS Inkigayo 250209",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-10"
+    },
+    {
+      "id": "v19383",
+      "ytId": "tlv-ptud9hI",
+      "eventId": "e1175",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 장원영 'ATTITUDE' (IVE JANG WONYOUNG FaceCam) @SBS Inkigayo 250209",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-10"
+    },
+    {
+      "id": "v19384",
+      "ytId": "eueQnphUSJ0",
+      "eventId": "e1175",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 가을 'ATTITUDE' (IVE GAEUL FaceCam) @SBS Inkigayo 250209",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-10"
+    },
+    {
+      "id": "v19385",
+      "ytId": "0mfS1A60dSg",
+      "eventId": "e1175",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 리즈 'ATTITUDE' (IVE LIZ FaceCam) @SBS Inkigayo 250209",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-10"
+    },
+    {
+      "id": "v19386",
+      "ytId": "I3UvfBea-Ws",
+      "eventId": "e1175",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 이서 'ATTITUDE' (IVE LEESEO FaceCam) @SBS Inkigayo 250209",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-10"
+    },
+    {
+      "id": "v19387",
+      "ytId": "uSdFUf4vXIk",
+      "eventId": "e1175",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 가을 'ATTITUDE' (IVE GAEUL FanCam) @SBS Inkigayo 250209",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-09"
+    },
+    {
+      "id": "v19388",
+      "ytId": "Ej6jGyo8o-w",
+      "eventId": "e1175",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 레이 'ATTITUDE' (IVE REI FanCam) @SBS Inkigayo 250209",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-09"
+    },
+    {
+      "id": "v19389",
+      "ytId": "Ji3C_ZbvZKY",
+      "eventId": "e1175",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 리즈 'ATTITUDE' (IVE LIZ FanCam) @SBS Inkigayo 250209",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-09"
+    },
+    {
+      "id": "v19390",
+      "ytId": "NaVuceFogyQ",
+      "eventId": "e1175",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 안유진 'ATTITUDE' (IVE An Yujin FaceCam) @SBS Inkigayo 250209",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-10"
+    },
+    {
+      "id": "v19391",
+      "ytId": "SE_XT7sexfQ",
+      "eventId": "e1176",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 이서 직캠 'ATTITUDE' (IVE Leeseo FanCam) @MCOUNTDOWN 250213",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-13"
+    },
+    {
+      "id": "v19392",
+      "ytId": "d9CFub-4oo8",
+      "eventId": "e1176",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 리즈 직캠 'ATTITUDE' (IVE LIZ FanCam) @MCOUNTDOWN 250213",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-13"
+    },
+    {
+      "id": "v19393",
+      "ytId": "asQqNAsOQac",
+      "eventId": "e1425",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 직캠 'ATTITUDE' (IVE JANG WONYOUNG FanCam) @MusicBank 250214",
+      "channel": "scarlet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-21"
+    },
+    {
+      "id": "v19394",
+      "ytId": "dNSJy4ydV8M",
+      "eventId": "e1425",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 레이 직캠 'ATTITUDE' (IVE REI FanCam) @MusicBank 250214",
+      "channel": "scarlet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-21"
+    },
+    {
+      "id": "v19395",
+      "ytId": "zljbrhnummw",
+      "eventId": "e1425",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 안유진 직캠 'ATTITUDE' (IVE AN YUJIN Fancam) @Music Bank 250214",
+      "channel": "scarlet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-21"
+    },
+    {
+      "id": "v19396",
+      "ytId": "MmXW_eI73aQ",
+      "eventId": "e1425",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 가을 직캠 'ATTITUDE' (IVE GAEUL FanCam) @MusicBank 250214",
+      "channel": "scarlet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-21"
+    },
+    {
+      "id": "v19397",
+      "ytId": "JRqe51wK7gM",
+      "eventId": "e1425",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 이서 직캠 'ATTITUDE' (IVE LEESEO FanCam) @MusicBank 250214",
+      "channel": "scarlet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-21"
+    },
+    {
+      "id": "v19398",
+      "ytId": "HBRss-qHO1E",
+      "eventId": "e1425",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 리즈 직캠 'ATTITUDE' (IVE LIZ FanCam) @MusicBank 250214",
+      "channel": "scarlet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-21"
+    },
+    {
+      "id": "v19399",
+      "ytId": "0IH26yZxjRE",
+      "eventId": "e1178",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 이서 'ATTITUDE' (IVE LEESEO FaceCam) @SBS Inkigayo 250216",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-19"
+    },
+    {
+      "id": "v19400",
+      "ytId": "s80fyVr-V64",
+      "eventId": "e1178",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 장원영 'ATTITUDE' (IVE JANG WONYOUNG FanCam) @SBS Inkigayo 250216",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-17"
+    },
+    {
+      "id": "v19401",
+      "ytId": "r_ABEeEIhrQ",
+      "eventId": "e1178",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 레이 'ATTITUDE' (IVE REI FanCam) @SBS Inkigayo 250216",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-17"
+    },
+    {
+      "id": "v19402",
+      "ytId": "QMgS13USkVM",
+      "eventId": "e1178",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 리즈 'ATTITUDE' (IVE LIZ FanCam) @SBS Inkigayo 250216",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-17"
+    },
+    {
+      "id": "v19403",
+      "ytId": "3eLGG8ejnXk",
+      "eventId": "e1178",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 안유진 'ATTITUDE' (IVE AN YUJIN FanCam) @SBS Inkigayo 250216",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-17"
+    },
+    {
+      "id": "v19404",
+      "ytId": "7Fy5RI24l_k",
+      "eventId": "e1178",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 이서 'ATTITUDE' (IVE LEESEO FanCam) @SBS Inkigayo 250216",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-17"
+    },
+    {
+      "id": "v19405",
+      "ytId": "XwF33lDmBlc",
+      "eventId": "e1178",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 아이브 가을 'ATTITUDE' (IVE GAEUL FanCam) @SBS Inkigayo 250216",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-17"
+    },
+    {
+      "id": "v19406",
+      "ytId": "z_gj0PWMy_Y",
+      "eventId": "e1178",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 아이브 리즈 'ATTITUDE' (IVE LIZ FaceCam) @SBS Inkigayo 250216",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-19"
+    },
+    {
+      "id": "v19407",
+      "ytId": "_vRU3H6G0lI",
+      "eventId": "e1178",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "얼빡"
+      ],
+      "title": "250216 SBS INKIGAYO 'ATTITUDE' IVE(아이브) JANG WONYOUNG (장원영) FACECAM",
+      "channel": "teriela",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
