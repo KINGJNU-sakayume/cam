@@ -21541,6 +21541,114 @@
         "g1s12"
       ],
       "note": ""
+    },
+    {
+      "id": "e1426",
+      "groupId": "g1",
+      "date": "2025-04-05",
+      "show": "IVE 3RD FAN CONCERT IVE SCOUT",
+      "label": "",
+      "setlist": [
+        "g1s3",
+        "g1s4",
+        "g1s12",
+        "g1s2",
+        "g1s11",
+        "g1s59",
+        "g1s5",
+        "g1s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1427",
+      "groupId": "g1",
+      "date": "2025-04-06",
+      "show": "IVE 3RD FAN CONCERT IVE SCOUT",
+      "label": "",
+      "setlist": [
+        "g1s59",
+        "g1s1",
+        "g1s12",
+        "g1s2",
+        "g1s4",
+        "g1s5",
+        "g1s3",
+        "g1s11"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1428",
+      "groupId": "g1",
+      "date": "2025-05-04",
+      "show": "LIV Golf Korea Concert",
+      "label": "",
+      "setlist": [
+        "g1s12",
+        "g1s5",
+        "g1s11",
+        "g1s3"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1429",
+      "groupId": "g1",
+      "date": "2025-05-09",
+      "show": "성균관대 축제",
+      "label": "",
+      "setlist": [
+        "g1s12",
+        "g1s11",
+        "g1s4",
+        "g1s3",
+        "g1s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1430",
+      "groupId": "g1",
+      "date": "2025-05-22",
+      "show": "고려대 축제",
+      "label": "",
+      "setlist": [
+        "g1s12",
+        "g1s5",
+        "g1s11",
+        "g1s3",
+        "g1s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1431",
+      "groupId": "g1",
+      "date": "2025-05-24",
+      "show": "연세대 축제",
+      "label": "",
+      "setlist": [
+        "g1s3",
+        "g1s11",
+        "g1s12",
+        "g1s4"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1432",
+      "groupId": "g1",
+      "date": "2025-05-31",
+      "show": "2025 KTPOP in Kaohsiung",
+      "label": "",
+      "setlist": [
+        "g1s4",
+        "g1s5",
+        "g1s11",
+        "g1s12"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -378690,6 +378798,3692 @@
       "channel": "teriela",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v19408",
+      "ytId": "UefIhFoS-8w",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브(IVE) LEESEO :: After LIKE :: IVE SCOUT(아이브 팬콘서트) 250405 fancam",
+      "channel": "connect",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19409",
+      "ytId": "75fXfJBEqEA",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250405 아이브 팬콘 'IVE SCOUT' Kitsch 안유진 직캠ㅣIVE Fan Concert ANYUJIN Fancam",
+      "channel": "eien.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19410",
+      "ytId": "5KiX6zuCfzk",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "250405 IVE 팬콘서트 'IVE SCOUT' 장원영 Wonyoung KITSCH 직캠(Vertical)",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19411",
+      "ytId": "t7ce25tp9sQ",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 IVE 팬콘서트 'IVE SCOUT' 장원영 Wonyoung ATTITUDE 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19412",
+      "ytId": "Ir2mXoCn894",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 IVE 팬콘서트 'IVE SCOUT' 장원영 Wonyoung WAVE + KITSCH 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19413",
+      "ytId": "RQvAdYvJ2Hg",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브(IVE) 장원영(JANGWONYOUNG) :: Kitsch :: IVE SCOUT(아이브 팬콘서트) 250405 fancam",
+      "channel": "connect",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19414",
+      "ytId": "d17D3TcmuF0",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브(IVE) ANYUJIN :: LOVE DIVE :: IVE SCOUT(아이브 팬콘서트) 250405 fancam",
+      "channel": "connect",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-11"
+    },
+    {
+      "id": "v19415",
+      "ytId": "YyvhBrrF4LE",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 장원영(Wonyoung) - After LIKE | 2025 IVE Fancon IVE SCOUT 팬콘 콘서트 직캠 concert fancam",
+      "channel": "enustiK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-05"
+    },
+    {
+      "id": "v19416",
+      "ytId": "9snmVQskn3o",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250405 아이브(IVE) 리즈 - After LIKE 4K 직캠 [2025 IVE THE 3RD FAN CONCERT IVE SCOUT]",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-05"
+    },
+    {
+      "id": "v19417",
+      "ytId": "lOqGemVlDKM",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 장원영 'ATTITUDE' IVE WONYOUNG｜IVE FAN CONCERT 250405",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19418",
+      "ytId": "2Q-OK1YaqrQ",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250405 아이브(IVE) 리즈 - Kitsch 4K 직캠 [2025 IVE THE 3RD FAN CONCERT IVE SCOUT]",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19419",
+      "ytId": "uyfklvrPL54",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 장원영 - 'Kitsch' 직캠 IVE Wonyoung FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-10"
+    },
+    {
+      "id": "v19420",
+      "ytId": "olF_Z1VHKJk",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 장원영 - 'REBEL HEART' 직캠 IVE Wonyoung FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19421",
+      "ytId": "QWhm_UMBeMU",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250405 아이브 안유진 - LOVE DIVE 직캠 (IVE YUJIN FanCam) @IVE SCOUT(아이브 팬콘서트)",
+      "channel": "Uzini",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-01"
+    },
+    {
+      "id": "v19422",
+      "ytId": "h-uxAnOt6vc",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250405 IVE SCOUT 'TKO' IVE GAEUL 4K FAN CAM 아이브 가을 TKO 직캠",
+      "channel": "sunset",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-08"
+    },
+    {
+      "id": "v19423",
+      "ytId": "q_Y-mjUumGw",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 장원영 'AFTER LIKE' 3RD FAN CONCERT＜IVE SCOUT＞JangWonYoung 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-24"
+    },
+    {
+      "id": "v19424",
+      "ytId": "ksLxCp3NibY",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60] 250405-06. IVE ANYUJIN 아이브 안유진 - IVE SCOUT 'TKO'",
+      "channel": "Make a Wish",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-08"
+    },
+    {
+      "id": "v19425",
+      "ytId": "nNH_-Tt1Fgc",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250405 안유진(Yujin) -REBEL HEART | 3RD FC〈IVE SCOUT〉",
+      "channel": "alan_0317",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-08"
+    },
+    {
+      "id": "v19426",
+      "ytId": "i0vqczqCkdc",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250405 아이브(IVE) 리즈 - I AM 4K 직캠 [2025 IVE THE 3RD FAN CONCERT IVE SCOUT]",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-08"
+    },
+    {
+      "id": "v19427",
+      "ytId": "J9KlhoUIa6k",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250405-06 IVE SCOUT 'TKO' 아이브 안유진 IVE ANYUJIN FANCAM",
+      "channel": "Lobster",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19428",
+      "ytId": "BBdCudsvQp8",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 250405 아이브 안유진 IVE YUJIN - After LIKE 직캠 Fancam @IVE SCOUT FAN CONCERT",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19429",
+      "ytId": "mWxASGBWPzI",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 장원영 - 'TKO' 직캠 IVE Wonyoung FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-09"
+    },
+    {
+      "id": "v19430",
+      "ytId": "QGHQ7pBEYro",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 250405 아이브 안유진 IVE YUJIN - I AM 직캠 Fancam @IVE SCOUT FAN CONCERT",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19431",
+      "ytId": "wRL9KN0woQM",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 이서 - 'ELEVEN' 직캠 IVE LEESEO FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-11"
+    },
+    {
+      "id": "v19432",
+      "ytId": "Hjplet4OarI",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 이서 - 'After LIKE' 직캠 IVE LEESEO FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-12"
+    },
+    {
+      "id": "v19433",
+      "ytId": "Jj03NfstB1s",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250405 아이브 안유진 - ATTITUDE 직캠 (IVE YUJIN FanCam) @IVE SCOUT(아이브 팬콘서트)",
+      "channel": "Uzini",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-01"
+    },
+    {
+      "id": "v19434",
+      "ytId": "zZ0gBkUSfyo",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 250405 아이브 장원영 IVE YWONYOUNG - REBEL HEART 직캠 Fancam @IVE SCOUT FAN CONCERT",
+      "channel": "도리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19435",
+      "ytId": "trsS5kMBODc",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250405 IVE SCOUT 'TKO' IVE JANGWONYOUNG 아이브 장원영 직캠 (4k)",
+      "channel": "want",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-10"
+    },
+    {
+      "id": "v19436",
+      "ytId": "9kSBfeZiwu0",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 레이 'TKO' 직캠 (IVE REI FanCam) | @2025 IVE THE 3RD FAN CONCERT 'IVE SCOUT'",
+      "channel": "김레몬",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-05"
+    },
+    {
+      "id": "v19437",
+      "ytId": "Zw9bTmqyNE0",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250405 아이브(IVE) 리즈 - LOVE DIVE 4K 직캠 [2025 IVE THE 3RD FAN CONCERT IVE SCOUT]",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-09"
+    },
+    {
+      "id": "v19438",
+      "ytId": "ZH-EiNSYYN4",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250405 아이브(IVE) 리즈 - REBEL HEART 4K 직캠 [2025 IVE THE 3RD FAN CONCERT IVE SCOUT]",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19439",
+      "ytId": "j8fgZsw_GBs",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 장원영 - 'I AM' 직캠 IVE Wonyoung FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-08"
+    },
+    {
+      "id": "v19440",
+      "ytId": "1PlRxEGMUaU",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 안유진 KITSCH 직캠 IVE FAN CONCERT FOCUS",
+      "channel": "uzini-",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-25"
+    },
+    {
+      "id": "v19441",
+      "ytId": "7L150uzsdLM",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "IVE SCOUT 250405 아이브 안유진 IVE AN YUJIN - TKO (4K)",
+      "channel": "Untitled-A",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-12"
+    },
+    {
+      "id": "v19442",
+      "ytId": "EjQq_3pIpcw",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250405 IVE 3RD FAN CONCERT IVE SCOUT - TKO IVE ANYUJIN 안유진 직캠",
+      "channel": "BESTPART",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-08"
+    },
+    {
+      "id": "v19443",
+      "ytId": "WCksSjpalWE",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250405 아이브 안유진 - Kitsch 직캠 (IVE YUJIN FanCam) @IVE SCOUT(아이브 팬콘서트)",
+      "channel": "Uzini",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-24"
+    },
+    {
+      "id": "v19444",
+      "ytId": "dc0M3CuLgQI",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250405 TKO 안유진 직캠(IVE SCOUT)",
+      "channel": "@healing_44",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19445",
+      "ytId": "CnCHSKoGXsg",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 장원영 'KITSCH' 3RD FAN CONCERT＜IVE SCOUT＞JangWonYoung 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-26"
+    },
+    {
+      "id": "v19446",
+      "ytId": "4DbnUdb3V48",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 장원영 'ELEVEN' 3RD FAN CONCERT＜IVE SCOUT＞JangWonYoung 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-10"
+    },
+    {
+      "id": "v19447",
+      "ytId": "nhraq95IBlU",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 장원영 직캠 'TKO' IVE JANGWONYOUNG Fancam",
+      "channel": "원영이의 얼굴",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19448",
+      "ytId": "g0IBC9tAp9E",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 장원영 'REBEL HEART' 3RD FAN CONCERT＜IVE SCOUT＞JangWonYoung 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-08"
+    },
+    {
+      "id": "v19449",
+      "ytId": "2XxqHgLkSzQ",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 250405 아이브 장원영 IVE YWONYOUNG - ELEVEN 직캠 Fancam @IVE SCOUT FAN CONCERT",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19450",
+      "ytId": "-6rgrgo4wnc",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 IVE - TKO (Focus Wonyoung) @ IVE FANCONCERT",
+      "channel": "Yeon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19451",
+      "ytId": "GZlECxcwajU",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250405 아이브(IVE) 리즈 - ATTITUDE 4K 직캠 [2025 IVE THE 3RD FAN CONCERT IVE SCOUT]",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19452",
+      "ytId": "FvRnvwVfdOM",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 이서 - 'ATTITUDE' 직캠 IVE LEESEO FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-12"
+    },
+    {
+      "id": "v19453",
+      "ytId": "5mX9gTMdmOk",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250405 아이브 이서 - 'LOVE DIVE' 직캠 IVE LEESEO FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-12"
+    },
+    {
+      "id": "v19454",
+      "ytId": "I1p7tZBzDNs",
+      "eventId": "e1426",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 팬 콘서트 이서 \"TKO\" IVE FAN CONCERT leeseo 250405",
+      "channel": "MrDive_막냉이서",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19455",
+      "ytId": "c3J73GugHF4",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250406 IVE SCOUT 팬콘 아이브 가을 ive gaeul TKO 직캠",
+      "channel": "Florens",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-08"
+    },
+    {
+      "id": "v19456",
+      "ytId": "VfwmHIdcTyQ",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] IVE – 'Eleven' | 250406 IVE SCOUT 팬콘서트 무대",
+      "channel": "스타체이서",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-19"
+    },
+    {
+      "id": "v19457",
+      "ytId": "K7q25xfj8Bw",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250406 IVE 팬콘서트 'IVE SCOUT' 장원영 Wonyoung - TKO 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19458",
+      "ytId": "R-Gca6PZewM",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250406 2025 IVE THE 3RD FAN CONCERT 〈IVE SCOUT〉 DAY 2 | TKO | IVE LIZ 아이브 리즈 직캠 fancam",
+      "channel": "mya.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19459",
+      "ytId": "qxFLgWoEM40",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[IVE(아이브)] 250406 FAN CON 'IVE SCOUT': ATTITUDE - LIZ 리즈 FOCUS",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19460",
+      "ytId": "rRqPnijwSWw",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250406 IVE-ATTITUDE AN YUJIN Focus/IVE THE 3RD FAN CONCERT〈IVE SCOUT〉아이브 안유진 직캠 [4K]",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-20"
+    },
+    {
+      "id": "v19461",
+      "ytId": "Y9vsuZbi4PM",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "250406 아이브 IVE - 러브 다이브 LOVE DIVE | 장원영 WONYOUNG 세로 직캠 | IVE THE 3RD FAN CONCERT [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-12"
+    },
+    {
+      "id": "v19462",
+      "ytId": "77y0F22Jn9E",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[IVE(아이브)] 250406 FAN CON 'IVE SCOUT': Kitsch - WONYOUNG 장원영 FOCUS",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-10"
+    },
+    {
+      "id": "v19463",
+      "ytId": "-zAl6XVQifg",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250406 THE 3RD FAN CONCERT「IVE SCOUT」  \" Kitsch \"  IVE REI Fan cam",
+      "channel": "Pichoni",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-08"
+    },
+    {
+      "id": "v19464",
+      "ytId": "qctt7I_2LmU",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250406 아이브 이서 - 'I AM' 직캠 IVE LEESEO FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-11"
+    },
+    {
+      "id": "v19465",
+      "ytId": "5q0SEvTBwfY",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250406 아이브 장원영 - 'After LIKE' 직캠 IVE Wonyoung FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-10"
+    },
+    {
+      "id": "v19466",
+      "ytId": "HC0EbgW2oOM",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 250406 아이브 장원영 IVE YWONYOUNG - ATTITUDE 직캠 Fancam @IVE SCOUT FAN CONCERT",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19467",
+      "ytId": "bm2YyBXeH8k",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[IVE(아이브)] 250406 FAN CON 'IVE SCOUT': ELEVEN - LIZ 리즈 FOCUS",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19468",
+      "ytId": "-iat0RRYao0",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 250406 아이브 장원영 IVE YWONYOUNG - After LIKE 직캠 Fancam @IVE SCOUT FAN CONCERT",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19469",
+      "ytId": "YbP6hbltAEw",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[250406] | IVE LIZ | TKO | Fancam | 2025 IVE THE 3RD FAN CONCERT IVE SCOUT Day2   | 아이브 리즈 직캠|",
+      "channel": "모든순간이리즈",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19470",
+      "ytId": "SAD8BmCthXc",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250406 아이브 이서 직캠 'ATTITUDE' (IVE Leeseo FanCam) @IVE SCOUT FAN CONCERT",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-12"
+    },
+    {
+      "id": "v19471",
+      "ytId": "LHWVoTunPrs",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 250406 아이브 장원영 IVE YWONYOUNG - Kitsch 직캠 Fancam @IVE SCOUT FAN CONCERT",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19472",
+      "ytId": "Nhjrh4Uud6s",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[ZOOM] 250406 IVE - REBEL HEART An Yujin Focus/IVE  THE 3RD FAN CONCERT〈IVE SCOUT〉아이브 안유진 직캠 [4K]",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19473",
+      "ytId": "eItLxwj0O8M",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20250406 아이브 리즈 - TKO #IVESCOUT IVE LIZ",
+      "channel": "YHS리락쿠마",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19474",
+      "ytId": "SAyvCVEH9-E",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250406 아이브 ( IVE ) 리즈 - ATTITUDE [ FAN CONCERT IVE SCOUT ] 직캠",
+      "channel": "SinC",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19475",
+      "ytId": "_oQOcJP00QU",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 250406 아이브 장원영 IVE YWONYOUNG - I AM 직캠 Fancam @IVE SCOUT FAN CONCERT",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19476",
+      "ytId": "gZWpra71rpM",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K 직캠] 250406 아이브(IVE) 장원영(Jang Wonyoung) I AM 직캠(FANCAM) 2025 IVE 3rd fan concert",
+      "channel": "NPD",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19477",
+      "ytId": "jrotaW1e18M",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250406 아이브 장원영 - 'ATTITUDE' 직캠 IVE Wonyoung FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-10"
+    },
+    {
+      "id": "v19478",
+      "ytId": "-RNzYLU9qbE",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250406  IVE LIZ(아이브 리즈) - ATTITUDE Fancam | IVE Scout Fan Concert",
+      "channel": "liz_anieyo",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19479",
+      "ytId": "rhYyd44-EfA",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 250406 아이브 장원영 IVE YWONYOUNG - LOVE DIVE 직캠 Fancam @IVE SCOUT FAN CONCERT",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19480",
+      "ytId": "qbpHronH0QU",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250406 아이브 장원영 직캠 'TKO' IVE JANGWONYOUNG Fancam",
+      "channel": "원영이의 얼굴",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19481",
+      "ytId": "4da9fj-snwE",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 250406 아이브 안유진 IVE YUJIN - REBEL HEART 직캠 Fancam @IVE SCOUT FAN CONCERT",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19482",
+      "ytId": "mUOqnqWGa78",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250406 아이브 이서 - 'TKO' 직캠 IVE LEESEO FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-12"
+    },
+    {
+      "id": "v19483",
+      "ytId": "oXUSgqf-TLw",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60p] 250406 아이브 장원영 'Eleven' (IVE JANG WONYOUNG Focus) @IVE SCOUT FAN CONCERT",
+      "channel": "WonnieCam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-16"
+    },
+    {
+      "id": "v19484",
+      "ytId": "Ti2tbLvYP3Y",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250406 아이브 이서 - 'Kitsch' 직캠 IVE LEESEO FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-12"
+    },
+    {
+      "id": "v19485",
+      "ytId": "ZU-agMVZsFI",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250406 아이브 안유진 - REBEL HEART 직캠 (IVE YUJIN FanCam) @IVE SCOUT(아이브 팬콘서트)",
+      "channel": "Uzini",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-01"
+    },
+    {
+      "id": "v19486",
+      "ytId": "XLDZIZtW2NA",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250406 아이브 장원영 - 'ELEVEN' 직캠 IVE Wonyoung FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-08"
+    },
+    {
+      "id": "v19487",
+      "ytId": "cEvuUtukH6U",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K 직캠] 250406 아이브(IVE) 장원영(Jang Wonyoung) REBEL HEART 직캠(FANCAM) 2025 IVE 3rd fan concert",
+      "channel": "NPD",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19488",
+      "ytId": "tAzLwxIhzPA",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250406 아이브 안유진 'REBEL HEART' 3RD FAN CONCERT＜IVE SCOUT＞ANYUJIN 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-08"
+    },
+    {
+      "id": "v19489",
+      "ytId": "RzMFkSQ0YhE",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250406  IVE LIZ(아이브 리즈) - Eleven Fancam | IVE Scout Fan Concert",
+      "channel": "liz_anieyo",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19490",
+      "ytId": "53caRtEbnjQ",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250406 IVE - REBEL HEART An Yujin Focus / IVE  THE 3RD FAN CONCERT〈IVE SCOUT〉아이브 안유진 직캠 [4K]",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19491",
+      "ytId": "v7W7iGTgSGI",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250406 IVE-TKO AnYujin Focus/IVE THE 3RD FAN CONCERT〈IVE SCOUT〉아이브 안유진 직캠 [4K]",
+      "channel": "tbtfU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-08"
+    },
+    {
+      "id": "v19492",
+      "ytId": "vmrrgwkYWR4",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250406 REBEL HEART 안유진 직캠(IVE SCOUT)",
+      "channel": "@healing_44",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19493",
+      "ytId": "XwrbpLJTLR8",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250406 ELEVEN 안유진 직캠(IVE SCOUT)",
+      "channel": "@healing_44",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19494",
+      "ytId": "gOqxbmMAJYw",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250406 TKO 안유진 직캠(IVE SCOUT)",
+      "channel": "@healing_44",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19495",
+      "ytId": "9BukWNt4UrI",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250406 ATTITUDE 안유진 직캠(IVE SCOUT)",
+      "channel": "@healing_44",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-06"
+    },
+    {
+      "id": "v19496",
+      "ytId": "5ZVUjbYtqz4",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250406 아이브 레이 Rebel Heart 직캠",
+      "channel": "주주23",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-19"
+    },
+    {
+      "id": "v19497",
+      "ytId": "njkkKsWa_04",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250406 아이브 ( IVE ) 레이 - After LIKE [ FAN CONCERT IVE SCOUT ] 직캠",
+      "channel": "SinC",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19498",
+      "ytId": "BWtLpiL1qOs",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250406 THE 3RD FAN CONCERT「IVE SCOUT」  \"REBEL HEART\"  IVE REI Fan cam",
+      "channel": "Pichoni",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19499",
+      "ytId": "CUHetYVP9Ik",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250406 아이브 장원영 - 'LOVE DIVE' 직캠 IVE Wonyoung FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-10"
+    },
+    {
+      "id": "v19500",
+      "ytId": "XwcnbNr1xI0",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250406 IVE 3RD FAN CONCERT IVE SCOUT 'KITSCH(키치)' IVE JANG WONYOUNG 아이브 장원영 직캠 FOCUS FANCAM (4K)",
+      "channel": "Baby Bunny",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-08"
+    },
+    {
+      "id": "v19501",
+      "ytId": "PO-AaxytkO8",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250406 IVE 3RD FAN CONCERT IVE SCOUT 'ATTITUDE' IVE JANG WONYOUNG 아이브 장원영 직캠 FOCUS FANCAM (4K)",
+      "channel": "Baby Bunny",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19502",
+      "ytId": "CW1YHbpkEjg",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60p] 250406 아이브 장원영 'Attitude' (IVE JANG WONYOUNG Focus) @IVE SCOUT FAN CONCERT",
+      "channel": "WonnieCam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-17"
+    },
+    {
+      "id": "v19503",
+      "ytId": "hV099wKnakY",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20250406 아이브 리즈 - ATTITUDE #IVESCOUT IVE LIZ",
+      "channel": "YHS리락쿠마",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19504",
+      "ytId": "mhIwS63RxoQ",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[IVE(아이브)] 250406 FAN CON 'IVE SCOUT': LOVE DIVE - LIZ 리즈 FOCUS",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-08"
+    },
+    {
+      "id": "v19505",
+      "ytId": "7psoZcPvOqs",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20250406 아이브 리즈 - Kitsch #IVESCOUT IVE LIZ",
+      "channel": "YHS리락쿠마",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-07"
+    },
+    {
+      "id": "v19506",
+      "ytId": "yYO4JdF0wHM",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250406 아이브 이서 - 'REBEL HEART' 직캠 IVE LEESEO FANCAM @2025 IVE THE 3RD FAN CONCERT IVE SCOUT",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-11"
+    },
+    {
+      "id": "v19507",
+      "ytId": "KCNzDMqeWuM",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 아이브 리즈 - ATTITUDE 직캠 | 250406 IVE SCOUT LIZ FOCUS",
+      "channel": "바보",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-27"
+    },
+    {
+      "id": "v19508",
+      "ytId": "nr8X9ijPvlA",
+      "eventId": "e1427",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250406 IVE 장원영 - ATTITUDE | 2025 IVE 3RD FAN CONCERT",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-12"
+    },
+    {
+      "id": "v19509",
+      "ytId": "WB5nhjFCZnE",
+      "eventId": "e1428",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250504 아이브 안유진 직캠 'ATTITUDE' (IVE YUJIN FanCam) @LIV GOLF KOREA CONCERT",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-05"
+    },
+    {
+      "id": "v19510",
+      "ytId": "QA7Hoalz8y0",
+      "eventId": "e1428",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250504 아이브 장원영 직캠 'I AM' (IVE WONYOUNG FanCam) @LIV GOLF KOREA CONCERT",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-05"
+    },
+    {
+      "id": "v19511",
+      "ytId": "Ek31urFpjFQ",
+      "eventId": "e1428",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250504 아이브 이서 직캠 'ATTITUDE' (IVE LEESEO FanCam) @LIV GOLF KOREA CONCERT",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-05"
+    },
+    {
+      "id": "v19512",
+      "ytId": "iQ_P9MI2GpA",
+      "eventId": "e1428",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250504 아이브 이서 직캠 'REBEL HEART' (IVE LEESEO FanCam) @LIV GOLF KOREA CONCERT",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-05"
+    },
+    {
+      "id": "v19513",
+      "ytId": "SlVBzfQyxQ0",
+      "eventId": "e1428",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250504  IVE LIZ(아이브 리즈) - ATTITUDE Fancam | LIV GOLF KOREA",
+      "channel": "liz_anieyo",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-05"
+    },
+    {
+      "id": "v19514",
+      "ytId": "hpx4WlAueR8",
+      "eventId": "e1428",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250504 아이브 가을 직캠 'After LIKE' (IVE GAEUL FanCam) @LIV GOLF KOREA CONCERT",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-05"
+    },
+    {
+      "id": "v19515",
+      "ytId": "nLZdrQgULqw",
+      "eventId": "e1428",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250504  IVE LIZ(아이브 리즈) - Rebel Heart Fancam | LIV GOLF KOREA",
+      "channel": "liz_anieyo",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-05"
+    },
+    {
+      "id": "v19516",
+      "ytId": "mwnMEyri2wc",
+      "eventId": "e1428",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250504 아이브 장원영 'I AM'＜LIV GOLF KOREA CONCERT 리브 골프 코리아 콘서트＞IVE JangWonYoung 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-05"
+    },
+    {
+      "id": "v19517",
+      "ytId": "dm_x9kCp4e0",
+      "eventId": "e1428",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250504 아이브 장원영 'ATTITUDE'＜LIV GOLF KOREA CONCERT 리브 골프 코리아 콘서트＞IVE JangWonYoung 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19518",
+      "ytId": "BGyy7fsd510",
+      "eventId": "e1428",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250504 아이브 안유진 'REBEL HEART'＜LIV GOLF KOREA CONCERT 리브 골프 코리아 콘서트＞IVE ANYUJIN 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-05"
+    },
+    {
+      "id": "v19519",
+      "ytId": "SqAV53baH0I",
+      "eventId": "e1428",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250504 LIV GOLF KOREA 'ATTITUDE' 애티튜드 아이브 가을 직캠  IVE GAEUL 4K FAN CAM",
+      "channel": "sunset",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-15"
+    },
+    {
+      "id": "v19520",
+      "ytId": "WhudqJTCWro",
+      "eventId": "e1428",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250504 아이브 안유진 'AFTER LIKE'＜LIV GOLF KOREA CONCERT 리브 골프 코리아 콘서트＞IVE ANYUJIN 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-07"
+    },
+    {
+      "id": "v19521",
+      "ytId": "TqAcLIHAlKs",
+      "eventId": "e1429",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250509 아이브 가을 직캠 'ATTITUDE' (IVE GAEUL FanCam) @성균관대 축제",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-10"
+    },
+    {
+      "id": "v19522",
+      "ytId": "4MRPyFgsIeE",
+      "eventId": "e1429",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250509 아이브 가을 직캠 'REBEL HEART' (IVE GAEUL FanCam) @성균관대 축제",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-10"
+    },
+    {
+      "id": "v19523",
+      "ytId": "e-Ycg56rnkE",
+      "eventId": "e1429",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250509 아이브 가을 직캠 'Kitsch' (IVE GAEUL FanCam) @성균관대 축제",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-10"
+    },
+    {
+      "id": "v19524",
+      "ytId": "mNgjiGGpb2k",
+      "eventId": "e1429",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250509 아이브 가을 직캠 'After LIKE' (IVE GAEUL FanCam) @성균관대 축제",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-10"
+    },
+    {
+      "id": "v19525",
+      "ytId": "d7UsjExB9Vc",
+      "eventId": "e1429",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250509 아이브 리즈 직캠 'ATTITUDE' (IVE LIZ FanCam) @성균관대 축제",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-21"
+    },
+    {
+      "id": "v19526",
+      "ytId": "FaRV4-abwdM",
+      "eventId": "e1429",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250509 아이브 장원영 직캠 'Kitsch' (IVE WONYOUNG FanCam) @성균관대 축제",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-10"
+    },
+    {
+      "id": "v19527",
+      "ytId": "JSndH7HMCpk",
+      "eventId": "e1429",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250509 아이브 리즈 직캠 'After LIKE' (IVE LIZ FanCam) @성균관대 축제",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-10"
+    },
+    {
+      "id": "v19528",
+      "ytId": "y9dPk9V6-00",
+      "eventId": "e1429",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250509 아이브 IVE 장원영 JangWonYoung 직캠 - I AM 성균관대 축제",
+      "channel": "sj-KPOP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19529",
+      "ytId": "AIonIYBCrbo",
+      "eventId": "e1429",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250509 아이브 IVE 장원영 JangWonYoung 직캠 - Attitude 성균관대 축제",
+      "channel": "sj-KPOP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19530",
+      "ytId": "r3xRe5S7Osk",
+      "eventId": "e1429",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250509 아이브 IVE 장원영 JangWonYoung 직캠 - Attitude 성균관대 축제",
+      "channel": "보자BOJA",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-17"
+    },
+    {
+      "id": "v19531",
+      "ytId": "c-zqYYuGp8w",
+      "eventId": "e1429",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 리즈 'REBEL HEART' (IVE LIZ FANCAM)|250509",
+      "channel": "Rose",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-10"
+    },
+    {
+      "id": "v19532",
+      "ytId": "1so1_va3_Lg",
+      "eventId": "e1429",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250509 아이브 IVE 가을 GAEUL 직캠 - ATTITUDE 성균관대 축제",
+      "channel": "보자BOJA",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-17"
+    },
+    {
+      "id": "v19533",
+      "ytId": "KBFFlhltEF0",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "【IVE장원영】250522고려대축제 ATTITUDE 직캠",
+      "channel": "OOOOOO",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19534",
+      "ytId": "nMdkc1nWVpE",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250522 아이브 IVE 레이 REI 직캠 - ATTITUDE 고려대학교 석탑대동제",
+      "channel": "sj-KPOP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19535",
+      "ytId": "f3l6rU4-zjQ",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250522 아이브 장원영 I AM 고려대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19536",
+      "ytId": "_cp4lTaO_wo",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "【IVE장원영】250522 고려대축제 REBEL HEART직캠",
+      "channel": "OOOOOO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-23"
+    },
+    {
+      "id": "v19537",
+      "ytId": "tRbym_fctC0",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250522 아이브 안유진 ATTITUDE 고려대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-23"
+    },
+    {
+      "id": "v19538",
+      "ytId": "hG0EE_cg5JM",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250522 아이브 이서 직캠 'ATTITUDE' (IVE Leeseo FanCam) @고려대 축제",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-23"
+    },
+    {
+      "id": "v19539",
+      "ytId": "izXaahWrEOQ",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250522 고려대학교 석탑대동제 KUDYSSEY ' I AM ' 아이브 가을 직캠 IVE GAEUL 4K FAN CAM",
+      "channel": "sunset",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-25"
+    },
+    {
+      "id": "v19540",
+      "ytId": "UYK-6omPBrM",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250522 아이브 (IVE) Full Ver | 2025 고려대학교 석탑대동제 (REBEL HEART, IAM, etc)",
+      "channel": "고려대학교 TV방송국 KTN",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19541",
+      "ytId": "OjR4-quqLko",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250522 [4K60P] IVE (아이브) - ATTITUDE 리즈 fancam [2025 고려대학교 축제 석탑대동제]",
+      "channel": "Kimquestionmark",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-23"
+    },
+    {
+      "id": "v19542",
+      "ytId": "j8AVJRdaduY",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250522 고려대학교 석탑대동제 아이브 IVE 장원영 Attitude 직캠",
+      "channel": "River Jang",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19543",
+      "ytId": "gI3Mt_aMKEI",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250522 아이브 유진 (IVE YUJIN) - 'REBEL HEART' 직캠 (IVE YUJIN FOCUS Fancam) | 고려대학교 축제",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19544",
+      "ytId": "x0SnD5--mPU",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250522 아이브 장원영 IVE REBEL HEART 고려대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19545",
+      "ytId": "tMV8jrHScG4",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250522 아이브 장원영 IVE After LIKE 고려대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19546",
+      "ytId": "G3jowxbPq8I",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250522 아이브 유진 (IVE YUJIN) - 'ATTITUDE' 직캠 (IVE YUJIN FOCUS Fancam) | 고려대학교 축제",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19547",
+      "ytId": "YjUs8ziuaMU",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250522 아이브 안유진 After LIKE 고려대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19548",
+      "ytId": "O_bsUFduSpU",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250522 아이브 안유진 I AM 고려대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19549",
+      "ytId": "qQHTZWrUhBU",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250522 아이브 안유진 LOVE DIVE 고려대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19550",
+      "ytId": "8qY-35GUu9Q",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250522 아이브 안유진 REBEL HEART 고려대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19551",
+      "ytId": "ZJ9fNP3dcKc",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250522 고려대학교 석탑대동제 KUDYSSEY ' REBEL HEART ' 레블하트 아이브 가을 직캠 IVE GAEUL 4K FAN CAM",
+      "channel": "sunset",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19552",
+      "ytId": "Nz85MdUm7Qo",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250522 아이브 장원영 ATTITUDE 고려대 축제",
+      "channel": "MBY",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19553",
+      "ytId": "FbkxjwtNlds",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250522 아이브 안유진 직캠 \"REBEL HEART\" (IVE AN YUJIN FANCAM) @2025 고려대학교 석탑대동제",
+      "channel": "KPOP LIVE HEYA",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-03"
+    },
+    {
+      "id": "v19554",
+      "ytId": "3HPkROgDG0c",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[4K 페이스캠] 아이브 레이 ‘ATTITUDE’ (IVE REI FACECAM) | 2025 고려대학교 석탑대동제 축제",
+      "channel": "고려대학교 교육방송국 KUBS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-22"
+    },
+    {
+      "id": "v19555",
+      "ytId": "21tITBVAcv0",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[4K 페이스캠] 아이브 가을 ‘After LIKE’ (IVE GAEUL FACECAM) | 2025 고려대학교 석탑대동제 축제",
+      "channel": "고려대학교 교육방송국 KUBS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-22"
+    },
+    {
+      "id": "v19556",
+      "ytId": "QryOI59-4bE",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[4K 페이스캠] 아이브 리즈 ‘I AM’ (IVE LIZ FACECAM) | 2025 고려대학교 석탑대동제 축제",
+      "channel": "고려대학교 교육방송국 KUBS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-22"
+    },
+    {
+      "id": "v19557",
+      "ytId": "NgXwuGgwDRU",
+      "eventId": "e1430",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[4K 페이스캠] 아이브 안유진 ‘LOVE DIVE’ (IVE YUJIN FACECAM) | 2025 고려대학교 석탑대동제 축제",
+      "channel": "고려대학교 교육방송국 KUBS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-22"
+    },
+    {
+      "id": "v19558",
+      "ytId": "Xj9rowLcUNE",
+      "eventId": "e1431",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250524 연세대 아카라카 - 아이브 IVE After Like 장원영 직캠",
+      "channel": "LEMOONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19559",
+      "ytId": "HAzgRIil9gg",
+      "eventId": "e1431",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250524 연세대 아카라카 - 아이브 IVE Rebel Heart 장원영 직캠",
+      "channel": "LEMOONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19560",
+      "ytId": "Ip3y5h5pqDQ",
+      "eventId": "e1431",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "250524 연세대 아카라카 - 아이브 IVE Attitude 장원영 세로 직캠",
+      "channel": "LEMOONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19561",
+      "ytId": "LVykDbFCj-o",
+      "eventId": "e1431",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "250524 연세대 아카라카 - 아이브 IVE Kitsch 장원영 세로 직캠",
+      "channel": "LEMOONG",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19562",
+      "ytId": "D8TVB1qTRKQ",
+      "eventId": "e1432",
+      "songs": [
+        {
+          "songId": "g1s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250531 아이브 장원영 직캠  (IVE WONYOUNG FanCam) 'Kitsch' @2025 KTPOP in Kaohsiung #アイヴ",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-01"
+    },
+    {
+      "id": "v19563",
+      "ytId": "5FXOJZl1BBc",
+      "eventId": "e1432",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250531 아이브 장원영 'I AM' KTPOP JangWonYoung 직캠 FANCAM",
+      "channel": "Narrative",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-04"
+    },
+    {
+      "id": "v19564",
+      "ytId": "S3BIfb9PQOg",
+      "eventId": "e1432",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 레이 'REBEL HEART' (IVE REI FANCAM)|250531",
+      "channel": "Rose",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-01"
+    },
+    {
+      "id": "v19565",
+      "ytId": "UA08da975qY",
+      "eventId": "e1432",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250531 아이브 레이 직캠 (IVE REI FanCam) 'ATTITUDE' @2025 KTPOP in Kaohsiung #アイヴ #レイ",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-01"
+    },
+    {
+      "id": "v19566",
+      "ytId": "wg5fOtkVLQg",
+      "eventId": "e1432",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250531 IVE | I AM (LEESEO Fancam) - KTPOP2025",
+      "channel": "jaseo_0221",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v19567",
+      "ytId": "wzknMbn_qjQ",
+      "eventId": "e1432",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250531 아이브 이서 직캠 'REBEL HEART' (IVE LESSEO FanCam) @2025 KTPOP in Kaohsiung",
+      "channel": "SWHIT ST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-02"
+    },
+    {
+      "id": "v19568",
+      "ytId": "pp9Enyj1yJ8",
+      "eventId": "e1432",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250531 아이브 원영 직캠 'ATTITUDE' (IVE Wonyoung FanCam) @2025 KTPOP in Kaohsiung",
+      "channel": "ISA 아이사 CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-02"
+    },
+    {
+      "id": "v19569",
+      "ytId": "gvsSX33S_Ic",
+      "eventId": "e1432",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250531 아이브 원영 직캠 'ATTITUDE' (IVE Wonyoung FanCam) @2025 KTPOP in Kaohsiung",
+      "channel": "SWHIT ST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-02"
+    },
+    {
+      "id": "v19570",
+      "ytId": "8uoJjbpCn6w",
+      "eventId": "e1432",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250531 아이브 이서 직캠 'REBEL HEART' (IVE LESSEO FanCam) @2025 KTPOP in Kaohsiung",
+      "channel": "ISA 아이사 CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-02"
     }
   ],
   "clips": []
