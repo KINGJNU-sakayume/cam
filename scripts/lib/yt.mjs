@@ -122,11 +122,38 @@ async function request(url, opts) {
   return fetch(url, { ...opts, headers: { 'user-agent': UA, 'accept-language': 'ko-KR,ko;q=0.9', ...(opts.headers || {}) }, signal: AbortSignal.timeout(15000) });
 }
 
+// 요청 간격 조절: HARVEST_GAP_MS(기본 0)만큼 요청 사이를 띄운다. 429·빈 응답(차단 신호)이 오면 간격을 두 배로(최대 20초),
+// 성공이 50번 이어지면 20%씩 줄여 처음 값으로 돌아간다. 동시에 여러 작업이 돌아도 전체 요청 간격이 지켜진다.
+const GAP_MIN = Math.max(0, Number(process.env.HARVEST_GAP_MS) || 0);
+let gap = GAP_MIN, nextAt = 0, okRun = 0, emptyRun = 0;
+async function gate() {
+  const now = Date.now();
+  const at = Math.max(now, nextAt);
+  nextAt = at + gap;
+  if (at > now) await sleep(at - now);
+}
+export function slowDown(why) {
+  const old = gap;
+  gap = Math.min(20000, Math.max(1000, gap * 2));
+  okRun = 0;
+  nextAt = Math.max(nextAt, Date.now() + gap);
+  if (gap !== old) console.log(`\n  … ${why}: 요청 간격 ${old}ms → ${gap}ms`);
+}
+function speedUp() {
+  if (++okRun < 50 || gap <= GAP_MIN) return;
+  gap = Math.max(GAP_MIN, Math.round(gap * 0.8));
+  okRun = 0;
+}
+export const currentGap = () => gap;
+
 async function get(url, opts = {}, tries = 4) {
   for (let i = 0; i < tries; i++) {
     try {
+      await gate();
       const r = await request(url, opts);
+      if (r.status === 429) slowDown('http429');
       if (r.status === 429 || r.status >= 500) throw new Error(`HTTP ${r.status}`);
+      speedUp();
       return r;
     } catch (e) {
       if (i === tries - 1) { noteFail(reasonOf(e)); throw e; }
@@ -145,7 +172,7 @@ export async function search(q, { pages = 3 } = {}) {
     try { html = await (await get(`https://www.youtube.com/results?search_query=${encodeURIComponent(q)}`)).text(); } catch { return null; }
     m = html.match(/var ytInitialData = (\{.*?\});<\/script>/s);
   }
-  if (!m) { noteFail('no-data'); return null; }
+  if (!m) { noteFail('no-data'); slowDown('검색 결과 페이지가 비어 옴'); return null; }
   const key = (html.match(/"INNERTUBE_API_KEY":"([^"]+)"/) || [])[1];
   const ver = (html.match(/"INNERTUBE_CLIENT_VERSION":"([^"]+)"/) || [])[1] || '2.20261001.00.00';
   if (key) client = { key, ver };
@@ -206,7 +233,8 @@ export async function videoInfo(id) {
   }
   try {
     const x = parseWatchHtml(await (await get(`https://www.youtube.com/watch?v=${id}&hl=ko`, {}, 2)).text());
-    if (!x) noteFail('info-watch-empty');
+    // 영상 하나가 비어 오는 건 비공개·연령 제한일 수 있어서, 3번 연속 비어 올 때만 차단으로 보고 늦춘다
+    if (!x) { noteFail('info-watch-empty'); if (++emptyRun >= 3) { emptyRun = 0; slowDown('영상 정보 페이지가 연속으로 비어 옴'); } } else emptyRun = 0;
     return x;
   } catch { return null; }
 }
