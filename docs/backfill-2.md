@@ -136,3 +136,4 @@ node scripts/archive.mjs validate
 | g1 | 2025-10 | 86 (SHOW WHAT I AM 서울 첫콘 10-31) | 보류: 미등록 곡 약 25 (open-questions §8) |
 | g1 | 2025-11 | 165 (SHOW WHAT I AM 서울 11-01·02, KGMA, MAMA) | 보류: 미등록 곡·묶음 (open-questions §8) |
 | g1 | 2025-12 | 34 (AAA 2025, MMA 2025, SBS 가요대전) | 보류: open-questions §8 |
+| g2 | 2024-01 | 93 (쇼케이스 01-15, 음악중심·인기가요·쇼챔피언·뮤직뱅크·엠카 DASH 활동) | 보류: open-questions §8 |
