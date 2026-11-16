@@ -154,3 +154,202 @@
 - 같은 날(09-27) 서강대·서울과학기술대 축제는 제목에 학교명이 분명해 각각 다른 공연으로 담음.
 - 방송사 공식 영상·멤버 없는 직캠·곡을 알 수 없는 영상은 이전 달과 같은 기준으로 보류(review.txt 참고).
 - 광주대 09-30 카즈하 UNFORGIVEN(WthHd8XKeCE): 제목에 곡이 분명해 담았지만 공연 setlist에 없어 경고가 났어요. 확인 필요.
+
+### 르세라핌 2024-10
+- 10-01 호서대·10-02 동명대/영남대 축제 영상: 멤버 없는 직캠(DaftTaengk, Bamp VIDEO 등), 풀캠/직캠 구분 없는 kimbilly·Rock Music·K-MORY 영상, 풀 버전(J6yzPl6GNhE, xAQ0MHP5WVY, k49JPBO3-38 등), 멤버는 있으나 곡 표기가 달라 자동 선별을 못 한 동명대 직캠(GS5bwm1h_DI, ny-AcHA-DBU, JxFvcqrMfGI, snlPYZR7HV4, QaHTSFAI8aM, UuGsVOkklNg, CuzPjapIpHs)은 보류.
+- 10-01 한양대 에리카 축제(OCzGc-sxTfg, O_VICinYco8): 새 행사라 보류.
+- 09-30 광주대 영상 4개는 3분기 PR(#59)에 이미 담겨 있어 이번 브랜치에서는 뺐어요.
+
+### 르세라핌 2024-11
+- 광주대 카즈하 Full Ver.(TvqR1uOp8SY): 제목에 날짜가 없어 보류(09-30 광주대 축제로 보이나 확인 필요).
+- JTBC 골든 웨이브 241108 방송 무대(o2GDtkQaz7c, mbDq75c63lE, w8hZJwMOGns, fkxrCMImq28, Ch-rAUgYRhQ), MTV EMA 공식 무대(NdExiLt1erE, QMXvuKzbgkI), 맨체스터 직캠(p68-MTjjWjg, B-QzfBIfDic): 풀캠/직캠·멤버가 불명이라 보류.
+- 영남대 축제 직캠(l9vGJ72Dud4)은 멤버·곡 없음, 11-24 Revive X 파티 영상은 새 행사라 보류.
+- 담은 것: 2024 MTV EMA(11-10) 사쿠라·홍은채 CRAZY 직캠 2개(제목에 행사·날짜·멤버·곡 모두 있음).
+
+### 르세라핌 2024-12
+- 뮤직뱅크 글로벌 페스티벌 in Japan(12-15·12-19)과 SBS 가요대전(12-25) 방송사 공식 영상·풀 버전(rBiV7TvXPkc, 0WlaZHrYkK4, bmN1swMtOnY, n01BljCjzhE, CxEvMW5uGVs, sBfi84W5bww 등): 풀캠/직캠 구분이 없어 보류.
+- 새 곡이 제목에 나온 직캠(Star Signs, jewelry — KgC3BOssAng, w_8n2DVMtVI, gPGYFjtDkr8 / Category is LE SSERAFIM — BjAunphZpHU, D8aCGyIGS98, VPJNVQ7iNxs, oFixg386g6I): 곡이 그룹 곡인지 커버·특별 무대인지 확인이 필요해 보류. oFixg386g6I는 제목 날짜(241215)가 SBS 가요대전과 맞지 않아 더 보류.
+- AAA 12-27 직캠: 멤버 1명·곡 1개가 제목에 있는 6개만 담음. 두 곡이 묶인 영상(KbFCBbU2CQk), 멤버·곡 없음, 곡 불명(Love Is An Open Door), 풀캠 불명 영상은 보류.
+- 방송 영상 제목에 "뮤직뱅크 글로벌 페스티벌"이 있으면 일반 뮤직뱅크가 아니라 별도 행사 "뮤직뱅크 글로벌 페스티벌"로 담음.
+
+### 르세라핌 2025-01
+- 제39회 골든디스크 JTBC 공식 방송 무대(bza4Cz8FOpo, HKJcwNwk5eA 등)와 2025 GDA 직캠 중 곡이 Pierrot 한 곡이거나 Pierrot+CRAZY 두 곡인 영상(MBmLtGD8SK8, rCy1xonCiXM, 5aQ1K4ONzNI, R7JLLxj7dnw, 9WCbiITYHpg 등): Pierrot가 곡 목록에 없어 새 곡 여부 확인이 필요해 보류. 곡 없음·시상식 소감·방송사 풀캠도 보류.
+- 12-25 가요대전 홍은채 CRAZY(Atntuz3jfxY)는 4분기 PR에 이미 담음. Category is LESSERAFIM(oEXbNTiTBaw, fcFrfSZUsMs)은 12월과 같은 이유로 보류.
+- 01-24 SWU, 01-30 엠카운트다운(vf97Wm2RS8U)은 새 행사·풀캠/직캠 불명으로 보류.
+
+### 르세라핌 2025-02
+- 확실한 무대 영상이 없었어요(자동 0, 확인 필요 364는 대부분 범위 밖·비무대). 02-18 오버워치2 라이브 스트리밍 이벤트 직캠(nFhr7tsB1_Y, OWt2FPWjyho)은 곡이 없어 보류.
+
+### 르세라핌 2025-03
+- HOT·Come Over 컴백 활동(03-14~03-29) 방송사 공식 영상(KBS·MBC·Mnet·SBS, 항공캠, KBS WORLD 등)은 풀캠/직캠 구분이 제목에 없어 보류. 쇼케이스 공식 Stage Cam(W7lcs4w-y_c)·STUDIO CHOOM 영상도 보류.
+- 03-14 컴백 쇼케이스 홍은채 직캠(R8rUN0s0r3k): 제목에 쇼케이스·날짜가 모두 있어 담았지만, 같은 날 뮤직뱅크가 있어 쇼케이스 날짜(03-13/03-14)를 확인하면 좋아요.
+- 03-08 CDTV 라이브(8KjWoy1y8jM 등 일본 방송 직캠): 새 행사·풀캠/직캠 불명으로 보류.
+
+### 르세라핌 2025-04
+- 투어 'EASY CRAZY HOT' 인천(04-19·04-20) 콘서트 영상: 제목에 날짜·멤버·곡·직캠 표기가 모두 있는 7개만 담음(공연 2, 이름은 `LE SSERAFIM TOUR 'EASY CRAZY HOT' 인천`). 나머지(kimbilly 등 풀캠/직캠 불명, 여러 곡 묶음, VCR·Weverse Live 등 곡 불명, Zereu·YOYO 멤버 직캠 등 제목에 행사 표기가 약한 것)는 보류.
+- 2025-04 수집에서 03-27 엠카운트다운·03-29 음악중심 영상 6개가 새로 발견됨(4pI6u5UbGjY, VzML0MvnGdQ, _F3KhkKVFs8, P2FwGUkfn1A, UsuU5Y5Wy6g, rjg1XEhBvO4). 1분기 PR(#64) 공연과 겹쳐 공연이 둘로 갈라질 수 있어 #64 병합 뒤 담음.
+
+### 르세라핌 2025-05
+- 고려대 입실렌티(05-24): 제목에 멤버 1명·곡 1개가 있는 직캠 8개(자동 3 + 직캠 5)만 담음. KTN·교육TV방송국 영상, 풀버전·여러 곡 묶음, 멤버 없는 직캠은 보류. 공연 setlist에 없는 곡(CRAZY, UNFORGIVEN)은 경고가 났지만 제목에 곡이 분명해 담음.
+- 투어 인천 'Come Over' Stage Cam(u9CPVmAnE3s)은 날짜가 업로드일 추정에 곡이 여러 곡으로 잘못 읽혀 보류. 05-06 나고야·05-13/14 오사카 콘서트 영상은 새 투어 도시 공연이고 풀캠/직캠이 불명이라 보류.
+- 위버스 라이브(05-02, 05-13, 05-18, 05-19)·05-16 대전여상 체육대회는 무대 영상이 아니거나 새 행사라 보류.
+
+### 르세라핌 2025-06
+- 위버스콘 페스티벌 2025(06-01) 직캠 5개(제목에 멤버·곡·날짜·WEVERSE CON 표기)와 사이타마 투어 5개(06-12·14·15 사쿠라 DIFFERENT 직캠 5개)만 담음. 행사명은 기존 `위버스콘 페스티벌 2024` 형식과 투어 이름 형식에 맞춤.
+- 두 곡 묶음(I93J1eyWafk, XhuR8qIYpl8), 풀캠/직캠 불명 사이타마 영상(きーま🐰, POOH 등), 새 곡 Pierrot, 06-11 윤진 DIFFERENT(iMiJ66ci3zw, 공연 날짜 불명)는 보류. 06-18 요코하마 청사과 축제 직캠(yHfDN3ye1a8, LW-Sv8mY6_Q)은 제목 행사명이 불분명해 보류.
+- 05-24 고려대 페이스캠 3개(_SLqL4ipY0Q 등)는 06월 수집에서 새로 발견돼 담음.
+
+### 르세라핌 2025-07
+- 07-03 엠카운트다운·07-04 뮤직뱅크·07-06 인기가요(DIFFERENT English ver.) 방송사 공식 영상·KBS WORLD·1HR LOOP·릴레이댄스·TV 라이브 영상: 풀캠/직캠 구분이 없어 보류. 인기가요 안방1열 직캠 중 제목에 날짜가 없는 것(L6cAO4V7Iw4, U9VPiF1yMRM)과 [FOCUS ON FACE] 영상(p70b4udHtR8, N4vBId7QS5M)은 날짜 불명이라 보류.
+- 타이베이 투어 'EASY CRAZY HOT'(07-19) 직캠 3개만 담음(제목에 날짜·멤버·곡 모두 있음). 이름은 `LE SSERAFIM TOUR 'EASY CRAZY HOT' 타이베이`. 새 곡(Burn the Bridge, Blue Flame, FEARNOT, Fire in the belly 등)이나 두 곡 묶음, 풀 콘서트, 멤버 없는 영상은 보류.
+- 고려대 입실렌티 풀버전(3_TBBivstB8): 업로드가 7월이라 날짜 불명으로 보류(05-24 공연).
+
+### 르세라핌 2025-08
+- 자동 선별 3개는 모두 보류: 타이베이 풀콘서트(Hjjb13IQAgs)·채원 DIFFERENT(2qMxufv2ad8)는 제목에 날짜가 없어 추정 날짜라 보류, 고려대 풀버전(3_TBBivstB8)은 날짜 불명.
+- 마닐라 투어(08-02) 직캠 7개·방콕(08-09) 채원 CRAZY 1개만 담음(제목에 날짜·멤버·곡 1개·투어 도시 모두 있음). 이름은 `LE SSERAFIM TOUR 'EASY CRAZY HOT' 마닐라/방콕`. 두 곡 이상 묶음(Highdef… 채널 등), 새 곡(Fire in the belly, FEARNOT, Blue Flame 등), 풀콘서트·풀캠/직캠 불명(kpopante·Jae·Leiso 등), 방콕 08-10 Day2는 보류.
+
+### 르세라핌 2025-09
+- 자동 '확실' 3개 보류: 타이베이 풀콘서트(`Hjjb13IQAgs`)·채원 DIFFERENT(`2qMxufv2ad8`)는 제목에 날짜가 없고 업로드일 추정이라 보류, 고려대 입실렌티 풀버전(`3_TBBivstB8`)은 날짜를 알 수 없어 보류. 시카고 채원 영상(`Xs8HeD_CuUw`)은 제목이 NMIXX 투어로 잘못 읽혀 르세라핌 투어 시카고로 직접 지정해 담음.
+- 미국 투어(뉴어크 09-03/04, 시카고, 달라스, 로스앤젤레스, 샌프란시스코, 라스베이거스, 시애틀) 직캠 중 보류: 멤버 없는 직캠(ggoomCAM·Bic·Notag 등), 여러 곡 묶음·풀콘서트, 미등록 곡(Pierrot·Sour Grapes·Blue Flame·The Great Mermaid·Impurities·No-Return·Burn the Bridge·Fire in the belly), 버전 표기곡(Smart remix, EASY rock ver.), 날짜 없는 방콕 채원 ANTIFRAGILE(`TusKrs_nLvo`), 마닐라 사쿠라 묶음(`Oe63euXWMrg`), 공식 'IN US' Stage Cam(날짜 불명).
+
+### 르세라핌 2025-10
+- 10-24 뮤직뱅크·10-25 음악중심·10-26 인기가요·10-31 뮤직뱅크 자동 확실 29개는 모두 담음.
+- 보류: M2 '입덕직캠·MPD직캠' 계열(제목에 날짜 없음, 업로드일로만 10-25/26 추정), STUDIO CHOOM UNFILTERED CAM(날짜 없음), KBS K-Choreo 타워캠(멤버 없음), 연세대 10-29 직캠 등 멤버 없는 영상, 지포스 게이머 페스티벌·10-01 출범식의 UNFORGIVEN+ANTIFRAGILE·SPAGHETTI 묶음/풀버전·풀캠, 제목에 날짜가 없는 지포스 직캠(윤진 `9HYr4rHwSPg` 등), 마닐라 사쿠라 묶음(`Oe63euXWMrg`), 공식 IN US 스테이지캠(날짜 불명). 2026년 영상(고려대 석탑대동제·골든디스크 등)은 해당 월에서 처리.
+
+### 르세라핌 2025-11
+- 자동 '확실' 36개 중 12개 보류: 추정 날짜인 10-01 출범식 풀캠(`-2ngVqqCAPA`)·마닐라 사쿠라 묶음(`Oe63euXWMrg`), 미니 팬미팅 풀캠(음악중심 `4Wjs21SauBk`, 인기가요 `02vx_Co4bdg`, 팬미팅은 보류), 10-30 지포스 게이머 페스티벌의 여러 곡 묶음 직캠 8개(`HQwwCQFefUA`·`YyPpHxJbOqk`·`syJIM_JX1KM`·`ULwHF0UReN4`·`lCmlWQq9wQk`·`XJoijtow03g`·`_5EdUWIgpy0`·`QYNF7Lwn7FI`). 나머지 24개(음악중심 11-01·인기가요 11-02/09·더 시즌즈·지포스 단곡 1개)는 담음.
+- 도쿄돔 앵콜(11-18/19) 직캠은 대부분 멤버 없음(coldnadong 등), 사쿠라 Kawaii는 미등록 곡이라 보류. 음중·인기가요 미니 팬미팅 직캠(`H0tILb32oEg`·`aGoHVLolkXU`·`NFB7zQXhyt8`·`mTaLUcAzrzY`), KBS 더 시즌즈 공식 CRAZY(`wznKC21EGyg`, 종류 불명), KBS K-Choreo 타워캠(멤버 없음), ILLIT 콘서트 속 르세라핌 곡은 담지 않음.
+
+### 르세라핌 2025-12
+- 자동 '확실' 54개 중 2개 보류(추정 날짜의 10-01 출범식 풀캠 `-2ngVqqCAPA`, 마닐라 사쿠라 묶음 `Oe63euXWMrg`). 제목의 'Hot Chili ver.'가 곡 HOT으로 읽힌 2개(`vZ4BRmDak0I`, `ED96qYga1Wo`)는 SPAGHETTI 한 곡으로 고쳐 담음.
+- AAA 12-06(가오슝)은 멤버·곡 하나가 제목에 있는 직캠 5개만 담음. 보류: 'Born Fire+Ash+HOT' 등 묶음·멤버 없는 영상, 'Born Fire'(미등록), 대상 수상소감.
+- 가요대축제 12-19 카즈하 'Standing Next to You'(정국 커버) 직캠 약 9개, 채원 'Never Ending Story'(아이유 커버), 가요대전 홍은채 'Pretty Savage' 직캠은 커버곡이라 곡 목록 종류 결정이 필요해 보류. 허윤진 'Intro Performance' 직캠(곡 아님), 12-28 사쿠라 포커스(행사 불명), 공식 K-Choreo 8K(멤버 없음), 팬미팅·FIFTY FIFTY·김소원 팬미팅 속 SPAGHETTI 커버는 담지 않음.
+
+### 르세라핌 2026-01
+- 자동 '확실' 7개 중 12월 가요대전·가요대제전 3개는 4분기 PR(#67)에 이미 있어 제외, 골든디스크 'Intro + SPAGHETTI + HOT' 묶음(`a1CTkZnWk7o`)은 보류. 자동 3개와 직접 고른 9개(골든디스크 2, 앙코르 서울 01-31 7)를 담음.
+- 보류: 앙코르 서울 풀 분할본(enustiK 등)·멤버 없는 직캠·묶음('UNFORGIVEN+ANTIFRAGILE', 'HOT+Come Over', 'Impurities & The Great Mermaid'), 01-31~02-01 날짜가 겹친 채원 HOT(`ig-4SmWnilo`), 골든디스크 윤진 '비처럼 음악처럼'(커버)·멤버 없는 직캠·풀캠(`B23bbUxWlU0`), 카운트다운 재팬 공식 스테이지캠(날짜 불명). 02-01 앙코르 서울 2일차는 2월에서 처리.
+
+### 르세라핌 2026-02
+- 앙코르 서울(01-31·02-01) 자동 '확실' 29개 중 16개를 담음(02-01은 직접 고른 3개 추가). 13개 보류: 여러 곡 묶음(`cnOSHaiitQE`·`oGudw7B_jKo`·`Z2F-YZEGm78`·`QMEOaV1KeNs`·`ePZclemOnsQ`·`MuzdEts7STI`·`zO_nlSnxANQ`·`jRBthfDWYjs`·`E7vc3UDIFE4`), 행사명이 '2025'로 읽힌 1부 풀버전(`j-JjpDsundA`), 날짜 01-31/02-01이 겹친 채원 HOT(`ig-4SmWnilo`), 곡 판별이 애매한 `9XUtfXLDeLA`·`dVncfwBhYGM`. 다수 영상이 '이 공연 setlist에 없어요' 경고였으나 제목이 분명해 담음(앙코르 공연이라 세트 구성이 투어와 다름, 공연 setlist 보정 필요 여부는 확인 바람).
+- 보류: Kawaii·The Great Mermaid·Impurities·Pearlies 단독 직캠 등 미등록 곡, 'SPAGHETTI+DANCE BREAK'·'HOT+Come Over' 묶음, 멤버 없는 전체무대·풀 분할본, 곡 목록 확인이 필요한 So Cynical(채원 `W6ZdqKZtLNk`).
+
+### 르세라핌 2026-03
+- 자동 '확실' 0개, '확인 필요' 264개 중 르세라핌 3월 무대 직캠은 찾지 못함(카운트다운 재팬 공식 스테이지캠 `BgaOjtPOhLk`은 날짜 불명, 타 그룹 커버 영상은 제외).
+
+### 르세라핌 2026-04
+- 자동 '확실' 48개(뮤직뱅크 04-24·음악중심 04-25·인기가요 04-26·엠카운트다운 04-30, 풀캠 3개 포함) 모두 담고, 직접 고른 인기가요 채원 직캠 1개(`PMD9K39k0Fs`) 추가.
+- 보류: 멤버 없는 직캠(M2 8K `sfECs85xhjA`, 현장 촬영 `691rPCr071o`), VR 콘서트 인비테이션 무대인사 직캠(공연이 아니라 상영 행사), 타 그룹 SPAGHETTI 커버(홍대 직캠), 고려대 석탑대동제(5월에서 처리).
+
+### 르세라핌 2026-05
+- 자동 '확실' 90개 중 82개를 담고, 직접 고른 11개(인천대 1·숭실대 4·경희대 3·Spotify PURE FLOWERS LIVE 1·엠카운트다운 X 메가콘서트 2) 추가. 8개 보류: 여러 곡 묶음 풀(인천대 `bBR9__AmLdA`, 고려대 `MC3i0vJpRsw`·`hKV7PkKmigE`·`sXsGFzApM0k`·`teh-zhqw32U`·`FjnNVnTGVf0`)과 05-30 같은 날 다른 행사로 갈린 미니 팬미팅 직캠(`em9W5z9LIZ8`)·엠카운트다운 X 메가콘서트 은채(`wLKDMj8mOcU`, 같은 행사 직캠 2개는 직접 담음).
+- 보류: 음악중심 미니 팬미팅(05-01·02·30) 직캠·풀, 멤버 없는 직캠·전체무대, 고려대 석탑대동제·KULIMAX 직캠(제목에 날짜 없음, 'UNFORGIVEN & ANTIFRAGILE'·'CELEBRATION+CRAZY' 묶음), 미등록 곡(Fire in the belly·Creatures·Sonder), 연세대 아카라카·세종대 축제 직캠(멤버 없음), 경희대 풀버전·묶음, 곡 표기 없는 멤버 직캠, ILLIT 합동 풀캠.
+
+### 르세라핌 2026-06
+- 자동 '확실' 23개 중 21개를 담고 직접 고른 23개(위버스콘 페스티벌 2026 15·서울가요대상 4·iHeartRadio TikTok LIVE in LA 2·엠카운트다운 X 메가콘서트 2) 추가. 2개 보류: 경희대 풀캠 묶음(`jHoqU2rGwh8`)과 서울가요대상 'SPAGETTI + BOOMPALA' 두 곡을 한 곡으로 잘못 읽은 카즈하 영상(`8U3QJWohsHI`). 05-30 엠카운트다운 X 메가콘서트 영상 3개는 이 달 수집에 포함돼 같은 공연(e1346)에 담음(공연 setlist는 CELEBRATION뿐이라 BOOMPALA 경고, 제목 기준으로 담음).
+- 보류: 'Born Fire' 류가 아니라 여러 곡 묶음('SPAGHETTI + BOOMPALA', 'CELEBRATION & 이프푸 & CRAZY', 'Smart + Perfect Night', 'Fire in the belly & SMART & Perfect Night'), 위버스콘 풀버전, 서울가요대상 수상소감·단체 엔딩, 멤버 없는 직캠(R0Kyvf7mODA 등), 미등록 곡(CREATURE·Fire in the belly·이프푸), KD K-POP IDOL 직캠(날짜 없음).
+
+### 르세라핌 2026-07
+- 자동 '확실' 0개. PUREFLOW 인천(07-11·07-12) 직캠 중 멤버·등록된 곡 하나·날짜가 제목에 있는 12개만 직접 골라 담음.
+- 보류: 미등록 신곡(Irony·iffy iffy·Blue Flame·Saki·No Celestial·Creatures·Fire in the belly·Trust Exercise)을 담은 직캠 다수, 여러 곡 묶음(K-PLANET 'CRAZY + SPAGHETTI' 등), 멤버 없는 직캠·전체무대·단체직캠, 날짜가 07-11·12 둘로 적힌 영상(`q63Ks2VgqhY`, `KtfNWtmgnOg`), 공식 Stage Cam(`fsYCvJYQSr8`·`ox9Bw-lmn6s`, 멤버 없음). 새 곡이 많아 곡 목록에 한꺼번에 추가할지 정해 주세요.
+
+### 르세라핌 2026-08
+- 자동 '확실' 0개. 2026 K-WORLD DREAM AWARDS(08-27) 13개와 SUMMER SONIC 2026(08-16 도쿄) 사쿠라 2개를 직접 골라 담음(멤버·등록 곡 하나·날짜가 제목에 있는 것만).
+- 보류: PUREFLOW 요코하마 D3(08-02) 직캠(coldnadong, 멤버 없음)·미야기 앙코르(`gUE1kA8zPgs`, 멤버 없음), 'BOOMPALA+SPAGHETTI' 묶음(K-PLANET 등), 수상 소감·상 영상, 제목에 날짜가 없는 사쿠라 KWDA 2개(`PlYlTTas93A`·`ufr7Pddwri0`), 08-14 SUMMER SONIC 오사카(`OtC5SVQPtr0`)·채원 08-16(`DxwFW0WdhdQ`)처럼 곡·날짜가 불분명한 영상, 'Saki'·'Irony' 등 미등록 곡, 260809 행사 불명 은채 SMART 2개(`7FjY0jhXREM`·`0AIEA38oQXA`).
+
+### 르세라핌 2026-09
+- 자동 '확실' 21개 중 20개를 담음(엠카운트다운 09-17 8, 인기가요 09-20 8·09-21 3, KWDA 1). 업로드일로 날짜를 추정한 사쿠라 KWDA(`PlYlTTas93A`)는 보류. 단, KWDA 허윤진 'BOOMPALA+SPAGHETTI'(`2x69n7cQRQU`)는 두 곡 묶음인데 도구가 그대로 담음(보류 기준과 달라 확인 바람).
+- 직접 고른 22개(BlizzCon 2026 18, PUREFLOW 로스앤젤레스 3, 포트워스 1) 추가. BlizzCon은 채원 직캠 위주.
+- 보류: 미등록 곡(Irony·Creatures·So Cynical·Saki·Goodbye·Trust Exercise), 풀콘서트·풀스테이지·묶음, 멤버 없는 직캠(iHeartRadio Music Festival 09-19·샌호세 09-23·피닉스·후쿠오카·LA 일부), 1회성 사운드체크.
+
+### 르세라핌 2026-10
+- 자동 '확실' 0개. PUREFLOW 북미·유럽 투어(시카고 10-02, 워싱턴 D.C. 10-05, 런던 10-16, 암스테르담 10-18, 파리·코펜하겐 10-22~23) 직캠 중 멤버·등록 곡 하나·날짜가 제목에 있는 3개(시카고·워싱턴 D.C.·올랜도)만 담음.
+- 보류: 멤버 없는 직캠(Dukemon 시카고 연작, blckvlvtx 암스테르담 연작, LCY0509 런던, 풀콘서트·풀캠), 미등록 신곡(Irony·Blue Flame·Saki·Need Your Company·Creatures·Sonder·Fire in the belly), 'Smart + Ending' 같은 묶음, 윤진 생일 콘서트 풀(`iWFUVmiAtYs`). 투어 도시 공연이 늘어나므로 곡 목록에 신곡을 한꺼번에 등록하면 상당수를 다시 담을 수 있음.
+
+### 르세라핌 2026-11 (범위 끝 11-13)
+- 자동 '확실' 0개. PUREFLOW 마카오(11-07·11-08) 채원 직캠 4개만 직접 골라 담음.
+- 보류: 마카오 shingshing 연작(멤버 없음, 곡 다수가 미등록), Troll·Livelylife 등 멤버 없음/미등록 곡(Blue Flame·Irony·Trust Exercise·Sonder·Creatures), 풀퍼포먼스(`WGYmb-xL0t0`), 11-14 타이베이 공연(범위 밖). 신곡을 곡 목록에 등록하면 투어 직캠 상당수를 다시 담을 수 있음.
+
+### 아이브 2024-01
+- 담음 16개: 하나 드림콘서트(01-20) 11개, SHOW WHAT I HAVE 방콕(01-27) 5개 (멤버 1명 + 등록 곡 + 날짜가 제목에 있는 직캠).
+- 2023-12 영상(SBS 가요대전·MBC 가요대제전)은 범위 밖이라 뺐어요. 2025-01-16 엠카운트다운 4Qwp7J9b-zc, 2025-12-14 뮤직뱅크 글로벌 페스티벌 K8h7AFqEDNE는 날짜 추정이라 뺐어요.
+- 보류: 골든디스크(01-06) 직캠은 여러 곡 묶음이거나 멤버 없음(VDCoJxHnMrc, 8lR2Rk4um1w, lyHGtbZ-Sl4, WZ1R5CuCRis, FTQdSyAg-q4, 0_vBJ1jVv50, b3o1z5YO3ng, agpi_6GrWg4). 방콕 직캠 중 미등록 곡(Lips, Royal, Holo, Cherish, Wannabe, Woman Like Me 등)과 멘트는 곡 등록 결정 후. 도무디(01-13) 멤버 없음.
+
+### 아이브 2024-02
+- 담음 7개: SHOW WHAT I HAVE 쿠알라룸푸르(02-17) 3개, 싱가포르(02-24) 4개 (멤버 1명 + 등록 곡 + 날짜가 제목에 있는 직캠).
+- 자동 2개(2025-01-16 엠카운트다운 레이 8y2AluSRSt8, 2025-12-14 K8h7AFqEDNE)는 날짜 추정이라 뺐어요.
+- 보류: 쿠알라룸푸르·싱가포르 직캠 대부분은 미등록 곡(Lips, Royal, Mine, OTT, Cherish, Wannabe, Heroine, Hypnosis, Blue Blood, Woman Like Me, I Want 등)이거나 멤버 없음/여러 멤버/멘트·리허설·풀콘. 2024-02-14 뮤직뱅크 Attitude 타워캠 _QKAenAYorE는 멤버 없음. 오사카 D-2(02-08) 팬캠은 공연이 아니라 리허설 계열이라 뺐어요. 곡 등록 결정 후 다시 담을 수 있어요.
+
+### 아이브 2024-03
+- 담음 166개: 타이베이(03-02·03) 21, 2nd FANMEETING 'MAGAZINE IVE'(03-09·10) 115, LA(03-13) 7, 오클랜드(03-16) 9, 애틀랜타(03-24) 4, 시카고(03-26) 3, 뉴어크(03-29) 7 (+포트워스 0). 멤버 1~2명 + 등록 곡 + 날짜가 제목에 있는 직캠. 공연 이름은 도구가 'NMIXX WORLD TOUR ZERO FRONTIER …'로 잘못 읽어 IVE 투어 이름으로 직접 지정했어요.
+- 자동 5개(2025-01-16 엠카운트다운 레이·장원영, 2025-08-21 K-WORLD DREAM AWARDS 레이, 2025-12-14, 2025-12-25)는 범위 밖·날짜 추정이라 뺐어요.
+- 보류: 멤버 없는 직캠(풀캠·단체·타워캠·VIP 등), 여러 곡 묶음(Baddie + After Like 등), 미등록 곡(Lips, Royal, Mine, OTT, Cherish, Wannabe 등), 사운드체크·리허설, 03-06 인하대 개강공연 Baddie(0p_QYSPzY8I, 행사 이름 불분명), 포트워스(03-20)·애틀랜타 일부는 멤버 없음.
+
+### 아이브 2024-04
+- 담은 영상 없음. 자동 4개는 범위 밖·날짜 추정(2025-01-16 엠카운트다운, 2025-12-14, 2025-12-25)이라 뺐고, 검토 후보 중 무대 영상은 없었어요(범죄도시4 시사회 리즈 직캠, SF9 다원 팬미팅 Baddie 멀티포커스는 아이브 무대가 아니에요).
+
+### 아이브 2024-05
+- 담음 110개: 뮤직뱅크·인기가요·음악중심·엠카운트다운 Heya/Accendio 활동 직캠, 인천대 축제(05-07), 한국체육대 축제(05-13), 연세대 축제(05-26). 한체대/한국체육대로 나뉘어 읽힌 공연은 '한국체육대 축제' 하나로 합쳤어요.
+- 뺀 것: 2025년 날짜 추정 4개(2025-01-16·2025-12-14), 여러 곡 묶음 4개(한체대 4곡 연속·Heya+Kitsch+Love Dive 등).
+- 보류: 05-08 멜론 직캠100 아이브 영상(Heya·I Am·Holy Moly 멤버별 약 40개)은 어느 행사로 둘지 정해지지 않았어요(예: '멜론 직캠100' 공연 하나로 담을지). 05-09 엠카운트다운 풀캠은 담았어요. 풀캠·전체 직캠(인천대·한체대·아카라카), 멤버 없는 영상, 멘트·입퇴장 영상, 05-01 BE ORIGINAL 페이스캠(장원영, 행사 불분명)은 보류.
+
+### 아이브 2024-06
+- 담음 11개: SHOW WHAT I HAVE 파리·바르셀로나·런던(자동 3), 베를린·산티아고(멤버 1명 + 등록 곡 8). 투어 이름은 도구가 'NMIXX …'로 읽어 IVE 투어 이름으로 직접 지정했어요.
+- 뺀 것: 2025-01-16·2025-12-25, 2026-02-23 영상은 범위 밖·날짜 추정.
+- 보류: 파리·바르셀로나·베를린·암스테르담·런던·상파울루·산티아고 투어 직캠 대부분은 멤버 없음(팬 채널 단체 직캠), 두 곡 이상 묶음, 유닛(장원영+이서, 안유진+이서) 무대, 미등록 곡(Lips, Royal, Mine, OTT, All Night, Blue Blood, Cherish, Woman Like Me 등), 사운드체크. 멤버를 정해 줄 수 있으면 다시 담을 수 있어요.
+
+### 아이브 2024-07
+- 담음 43개: SHOW WHAT I HAVE 홍콩(07-06·07)·마닐라(07-13)·시드니(07-28), SBS 가요대전 SUMMER(07-21). 투어 이름은 도구가 'NMIXX …'로 읽어 IVE 투어 이름으로 직접 지정했고, 'SBS 가요대전'과 'SBS 가요대전 SUMMER'로 갈린 공연은 'SBS 가요대전 SUMMER'로 합쳤어요.
+- 보류(결정 필요): 2024 SBS 가요대전 SUMMER 방송분 영상(07-26, 공식 풀캠 + 멤버 직캠 7개, 곡이 'Heya + Accendio' 묶음)은 07-21 녹화와 같은 공연인지 확실하지 않아 담지 않았어요. 같은 공연이면 07-21 공연에 합치고 곡은 Intro + Heya + Accendio 묶음으로 담아야 해요. Heya+Accendio 묶음 영상 07-21 4개도 같은 이유로 뺐어요.
+- 뺀 것: 2025년 날짜 추정 영상.
+- 보류: 홍콩·멜버른(07-25)·시드니 투어 직캠 대부분은 멤버 없음, 묶음, 미등록 곡(Lips, Royal, OTT, All Night 등), 유닛 무대.
+
+### 아이브 2024-08
+- 담음 103개: Lollapalooza Chicago(08-03), SHOW WHAT I HAVE 앙코르 서울(08-10·11), SUMMER SONIC 오사카(08-17), 자카르타(08-24). 투어 이름은 도구가 'NMIXX …'로 읽어 IVE 투어 이름으로 직접 지정했어요. 멤버 1명 + 등록 곡 + 날짜가 제목에 있는 직캠만 담았어요.
+- 보류(결정 필요): 07-26 SBS 가요대전 SUMMER 방송분 7개(위 07월 항목과 같은 질문). Love Dive+Kitsch 묶음(안유진 08-10) 1개.
+- 보류: 앙코르 서울·자카르타·SUMMER SONIC 도쿄(08-18) 직캠 대부분은 멤버 없음, 묶음, 미등록 곡(All Night, Lips, Royal, WAVE 등), 사운드체크, 팬 멘트·미션.
+
+### 아이브 2024-09
+- 담음 17개: 2024 펩시 페스타(09-22) 멤버 1명 + 등록 곡 직캠.
+- 자동 4개는 2025년 날짜 추정이라 뺐어요.
+- 보류: 펩시 페스타 풀영상·묶음(Heya+Kitsch+I Am+I Want)·I Want 직캠(미등록 곡), 도쿄돔 앙코르(09-04·05, 일본 곡·사운드체크), TGC(09-07)·뮤직스테이션·NTV withMUSIC의 Crush 무대(미등록 곡·같은 날 방송 여러 개).
+
+### 아이브 2024-10
+- 담은 영상 없음. 자동 3개는 2025년 날짜 추정이라 뺐어요. 검토 후보 중 Golden Wave in Tokyo(10-12) 안유진 Crush 직캠(q7eyOvk4Odw)은 Crush가 곡 목록에 없어 보류했어요(곡 등록 결정 후 담을 수 있어요). 나머지는 무대 영상이 아니었어요(버블·유튜브 일상·싱크로유·무대인사).
+
+### 아이브 2024-11
+- 담음 37개: MAMA AWARDS(11-22) 10개, MMA 2024(11-30) 27개 (멤버 1명 + 등록 곡 + 날짜가 제목에 있는 직캠). MAMA 영상 제목의 '부채춤+Heya'·'활퍼포+Accendio'는 퍼포먼스 구간이 붙은 한 곡 무대로 보고 담았어요.
+- 뺀 것: 2025·2026년 날짜 추정 영상.
+- 보류: MMA 관객석캠 'Heya + Ice Queen + Accendio'(fqR4IZKjULQ)와 장원영 'Heya+Accendio'(ebIh2SdFdrU)는 묶음, 골든웨이브(11-08) 방송 영상(Crush 미등록 곡), 시네마 GV·무대인사.
+
+### 아이브 2024-12
+- 담음 17개: 가요대 축제(KBS, 12-20) 공식 직캠 8개, SBS 가요대전(12-25) 멤버 직캠 8개, MMA 2024 장원영 Heya 1개(11-30).
+- 뺀 것: 2025·2026년 날짜 추정 영상, 한 영상에 여러 곡이 붙은 SBS 가요대전·MMA 영상(Kitsch + Heya 등 ~14개).
+- 보류: KBS 가요대축제 Blue Heart(미등록 곡)·지누션 '말해줘'·god '길' 커버·Apt 콜라보 직캠(33개 안팎), SBS 가요대전 풀 묶음 직캠(RyEwHTU00HY, n4s1yR3sJ8Q), '해야+Empathy' 묶음(Iefvg6QYKCo). 곡을 등록하거나 묶음 영상을 한 곡으로 볼지 정해 주세요.
+
+### 아이브 2025-01
+- 담음 44개: 골든디스크어워즈(01-05) 5, 엠카운트다운(01-16·23) 6, 인기가요(01-19·26) 20, 뮤직뱅크(01-24) 6, MBC 가요대제전(01-29) 7. 신곡 Rebel Heart 활동 직캠이에요. 'MBC 가요대제전'(2024년 방송분)은 제목의 방송일(01-29)로 담았어요. 녹화일이 다르면 알려 주세요.
+- 뺀 것: 2024-12·2025-08·2025-12 날짜 추정 영상, 한 영상에 여러 곡이 붙은 영상.
+- 보류(결정 필요): 01-30 MBC 가요대제전 'Accendio + Heya' 7개(공식, 두 곡 묶음), 골든디스크 'Intro + Heya + All Night' 묶음과 시상 영상, 01-10 '삐빅' 안유진 직캠(250110 KPOP LIVE HEYA, 행사 날짜 불일치), 음악중심(01-18·25) 공식 영상은 공연이 아직 없어 멤버 직캠이 없는 한 담지 않았어요.
+
+### 아이브 2025-02
+- 담음 30개: Attitude 활동 방송 직캠(뮤직뱅크 02-07·14, 인기가요 02-09·16, 엠카운트다운 02-13)과 1월 영상 2개(01-16 엠카운트다운 리즈, 01-29 MBC 가요대제전 안유진).
+- 뺀 것: 한 영상에 여러 곡이 붙은 영상(01-30 MBC 가요대제전 'Accendio + Heya' 7개, 음악중심 'Rebel Heart + Attitude' 1개).
+- 보류(결정 필요): 더 시즌즈 직캠 4개(02-04 장원영, 02-07 가을·안유진 — 도구가 02-04와 02-07을 서로 다른 공연으로 읽었고 방송은 02-21이에요. 녹화일·회차 확인 후 담을게요). 음악중심(02-08·15·22) 공식 영상, 앵콜캠은 멤버 없음이라 담지 않았어요.
+
+### 아이브 2025-03
+- 담은 영상 없음. 자동 3개는 2025-08·12 날짜 추정이라 뺐고, 검토 후보는 무대 영상이 아니었어요(팬 이벤트·광고·예능·패션위크). 03-15 레이디비 보미 'Rebel Heart' 직캠(3DrlZ3CluBc)은 행사·멤버를 알 수 없어 뺐어요.
+
+### 아이브 2025-04
+- 담음 101개: IVE 3RD FAN CONCERT IVE SCOUT(04-05 47개, 04-06 54개) 멤버 1명 + 등록 곡 직캠·풀캠. 도구가 'IVE 4TH FAN CONCERT DIVE into IVE'로 잘못 읽어 공연 이름을 직접 지정했어요(4TH 팬콘은 2026-03 별도 공연).
+- 뺀 것: 2025-01·08·12 날짜 추정 영상, 한 영상에 여러 곡이 붙은 영상.
+- 보류: 'LOVE DIVE + After Like + Attitude' 같은 묶음 풀캠(lKaI863lZeQ 등), 'Rebel Heart + I Am' 풀캠, 미등록 곡·멤버 없는 직캠·멘트, 04-17 타이페이 사인회, 04-19 레이디비 유빈 'Attitude' 실내공연 직캠(eIVcL_dJN68, 행사 불명).
+
+### 아이브 2025-05
+- 담음 58개: LIV Golf Korea Concert(05-04), 성균관대 축제(05-09), 고려대 축제(05-22), 연세대 축제(05-24), 2025 KTPOP in Kaohsiung(05-31). 멤버 1명 + 등록 곡 + 날짜가 제목에 있는 직캠·풀캠.
+- 뺀 것: 2025-01·12 날짜 추정 영상, 한 영상에 여러 곡이 붙은 영상(성균관대·고려대·연세대 풀캠·묶음 6개).
+- 보류: 05-04 LIV Golf 풀영상·묶음, 05-08 엠카 스프링 페스티벌 방송(공식, 멤버 없음), 05-03 시축·응원 영상, 아카라카 풀캠(VHL04t716wk), 고려대 세로 묶음 직캠(ikhbXRjL8Mo), 카오슝 사운드체크.
+
+### 아이브 2025-06
+- 담음 4개: 고려대 축제(05-22) 직캠(검색에서 6월에 잡힌 5월 영상).
+- 뺀 것: 2025-01·12 날짜 추정 영상.
+- 6월 무대 영상은 더 없었어요(베리즈 라이브·광고·예능·오사카대 커버).
