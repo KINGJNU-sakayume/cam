@@ -21862,6 +21862,124 @@
         "g11s13"
       ],
       "note": ""
+    },
+    {
+      "id": "e1451",
+      "groupId": "g11",
+      "date": "2025-07-03",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g11s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1452",
+      "groupId": "g11",
+      "date": "2025-07-04",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g11s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1453",
+      "groupId": "g11",
+      "date": "2025-07-19",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 타이베이",
+      "label": "",
+      "setlist": [
+        "g11s11",
+        "g11s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1454",
+      "groupId": "g11",
+      "date": "2025-08-02",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 마닐라",
+      "label": "",
+      "setlist": [
+        "g11s10",
+        "g11s13",
+        "g11s11",
+        "g11s5",
+        "g11s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1455",
+      "groupId": "g11",
+      "date": "2025-08-09",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 방콕",
+      "label": "",
+      "setlist": [
+        "g11s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1456",
+      "groupId": "g11",
+      "date": "2025-09-05",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 시카고",
+      "label": "",
+      "setlist": [
+        "g11s21"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1457",
+      "groupId": "g11",
+      "date": "2025-09-08",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 달라스",
+      "label": "",
+      "setlist": [
+        "g11s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1458",
+      "groupId": "g11",
+      "date": "2025-09-12",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 로스앤젤레스",
+      "label": "",
+      "setlist": [
+        "g11s5",
+        "g11s21"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1459",
+      "groupId": "g11",
+      "date": "2025-09-14",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 샌프란시스코",
+      "label": "",
+      "setlist": [
+        "g11s11",
+        "g11s13",
+        "g11s21"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1460",
+      "groupId": "g11",
+      "date": "2025-09-17",
+      "show": "LE SSERAFIM TOUR 'EASY CRAZY HOT' 시애틀",
+      "label": "",
+      "setlist": [
+        "g11s1"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -393141,6 +393259,990 @@
       "pin": false,
       "gone": false,
       "uploaded": "2025-06-19"
+    },
+    {
+      "id": "v20029",
+      "ytId": "Tb-_H7XQJ0I",
+      "eventId": "e1451",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 김채원 직캠 4K 'DIFFERENT' (LE SSERAFIM KIM CHAEWON FanCam) | @MCOUNTDOWN_2025.7.3",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-03"
+    },
+    {
+      "id": "v20030",
+      "ytId": "6qiwy-injjM",
+      "eventId": "e1451",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "'SPECIAL STAGE' LE SSERAFIM - DIFFERENT (English ver.) #엠카운트다운 EP.895 | Mnet 250703 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-03"
+    },
+    {
+      "id": "v20031",
+      "ytId": "-W8pakiJaeg",
+      "eventId": "e1451",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[직캠4K] 르세라핌 허윤진 'DIFFERENT' (LE SSERAFIM HUH YUNJIN FanCam) @M Countdown 250703",
+      "channel": "m0tri3t",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-04"
+    },
+    {
+      "id": "v20032",
+      "ytId": "J7pIRhZKZoQ",
+      "eventId": "e1451",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[직캠4K] 르세라핌 홍은채 'DIFFERENT' (LE SSERAFIM HONG EUNCHAE FanCam) @M Countdown 250703",
+      "channel": "m0tri3t",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-04"
+    },
+    {
+      "id": "v20033",
+      "ytId": "sV-Po8I4JIY",
+      "eventId": "e1451",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[직캠4K] 르세라핌 카즈하 'DIFFERENT' (LE SSERAFIM KAZUHA FanCam) @M Countdown 250703",
+      "channel": "m0tri3t",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-04"
+    },
+    {
+      "id": "v20034",
+      "ytId": "ZiZKT5b-kGQ",
+      "eventId": "e1451",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250703 르세라핌 홍은채 직캠 (LE SSERAFIM HONG EUNCHAE FanCam) 'DIFFERENT' @MCOUNTDOWN #ルセラフィム",
+      "channel": "STAY CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-03"
+    },
+    {
+      "id": "v20035",
+      "ytId": "r9kcM8KdNdo",
+      "eventId": "e1451",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 르세라핌 사쿠라 직캠 4K 'DIFFERENT' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2025.7.3",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-03"
+    },
+    {
+      "id": "v20036",
+      "ytId": "vPYMIwbKdiE",
+      "eventId": "e1451",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 르세라핌 사쿠라 직캠 4K 'DIFFERENT' (LE SSERAFIM SAKURA FanCam) | @MCOUNTDOWN_2025.7.3",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-04"
+    },
+    {
+      "id": "v20037",
+      "ytId": "hfamI2rISXA",
+      "eventId": "e1451",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250703 르세라핌 카즈하 'Different' (LE SSERAFIM KAZUHA Fancam)",
+      "channel": "ChaeCam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-03"
+    },
+    {
+      "id": "v20038",
+      "ytId": "NJU4D1Ssv5s",
+      "eventId": "e1452",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 허윤진 직캠 'DIFFERENT (English ver.)'(LE SSERAFIM YUNJIN Fancam)@뮤직뱅크(Music Bank) 250704",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-04"
+    },
+    {
+      "id": "v20039",
+      "ytId": "GtpbPOEQC-U",
+      "eventId": "e1452",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 김채원 직캠 'DIFFERENT (English ver.)'(LE SSERAFIM CHAEWON Fancam)@뮤직뱅크(Music Bank)250704",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-04"
+    },
+    {
+      "id": "v20040",
+      "ytId": "gN7RIh7wXrc",
+      "eventId": "e1452",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 김채원 'DIFFERENT' (LE SSERAFIM KIM CHAEWON Facecam) @뮤직뱅크(Music Bank) 250704",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-05"
+    },
+    {
+      "id": "v20041",
+      "ytId": "mk_xUGfS_2I",
+      "eventId": "e1452",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 사쿠라 직캠 'DIFFERENT (English ver.)'(LE SSERAFIM SAKURA Fancam)@뮤직뱅크(Music Bank) 250704",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-04"
+    },
+    {
+      "id": "v20042",
+      "ytId": "W2fYr0dTAHk",
+      "eventId": "e1452",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 사쿠라 'DIFFERENT' (LE SSERAFIM SAKURA Facecam) @뮤직뱅크(Music Bank) 250704",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-05"
+    },
+    {
+      "id": "v20043",
+      "ytId": "bFqAwip-hzI",
+      "eventId": "e1452",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[얼빡직캠 4K] 르세라핌 홍은채 'DIFFERENT' (LE SSERAFIM HONG EUNCHAE Facecam) @뮤직뱅크(Music Bank) 250704",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-05"
+    },
+    {
+      "id": "v20044",
+      "ytId": "rIBGH75AHzc",
+      "eventId": "e1452",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 카즈하 직캠 'DIFFERENT (English ver.)'(LE SSERAFIM KAZUHA Fancam)@뮤직뱅크(Music Bank) 250704",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-04"
+    },
+    {
+      "id": "v20045",
+      "ytId": "Po33XXgCRAA",
+      "eventId": "e1452",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 르세라핌 홍은채 직캠 'DIFFERENT (English ver.)'(LE SSERAFIM EUNCHAE Fancam)@뮤직뱅크(Music Bank)250704",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-04"
+    },
+    {
+      "id": "v20046",
+      "ytId": "fqEq3TckB64",
+      "eventId": "e1359",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 카즈하 'DIFFERENT (English ver.)' (LE SSERAFIM KAZUHA FanCam) @SBS Inkigayo 250706",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-07"
+    },
+    {
+      "id": "v20047",
+      "ytId": "8MFQsYnv6dA",
+      "eventId": "e1359",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 풀캠4K] 르세라핌 'DIFFERENT (English ver.)' (LE SSERAFIM FullCam) @SBS Inkigayo 250706",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-06"
+    },
+    {
+      "id": "v20048",
+      "ytId": "r0EBSgTLvf4",
+      "eventId": "e1359",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 사쿠라 'DIFFERENT (English ver.)' (LE SSERAFIM SAKURA FanCam) @SBS Inkigayo 250706",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-07"
+    },
+    {
+      "id": "v20049",
+      "ytId": "iw4vK9-eZtg",
+      "eventId": "e1359",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 르세라핌 김채원 'DIFFERENT (English ver.)' (LE SSERAFIM KIM CHAEWON FaceCam) @SBS Inkigayo 250706",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-08"
+    },
+    {
+      "id": "v20050",
+      "ytId": "qAHEJxIltXE",
+      "eventId": "e1359",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 르세라핌 허윤진 'DIFFERENT (English ver.)' (LE SSERAFIM HUH YUNJIN FanCam) @SBS Inkigayo 250706",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-07"
+    },
+    {
+      "id": "v20051",
+      "ytId": "rDsmCQno-Hw",
+      "eventId": "e1359",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[Special Stage] 250706 LE SSERAFIM (르세라핌)  - DIFFERENT (English ver.) | SBS INKIGAYO 방송 [1080P]",
+      "channel": "K-EVER KPOP LIVE [VOD]",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-06"
+    },
+    {
+      "id": "v20052",
+      "ytId": "MIAKvyewOic",
+      "eventId": "e1453",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 250719 EUNCHAE(홍은채)-'Come Over' FanCam  @2025 LE SSERAFIM TOUR 'EASY CRAZY HOT' IN TAIPEI",
+      "channel": "kai_owoawa",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-23"
+    },
+    {
+      "id": "v20053",
+      "ytId": "4myaY93eS3Q",
+      "eventId": "e1453",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 250719 EUNCHAE(홍은채)-'Crazy' FanCam @2025 LE SSERAFIM TOUR 'EASY CRAZY HOT' IN TAIPEI",
+      "channel": "kai_owoawa",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-24"
+    },
+    {
+      "id": "v20054",
+      "ytId": "hQjxwsx0iOY",
+      "eventId": "e1453",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250719 르세라핌 사쿠라 직캠 'CRAZY' (LE SSERAFIM SAKURA FanCam) @2025 LE SSERAFIM TOUR IN TAIPEI",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-22"
+    },
+    {
+      "id": "v20055",
+      "ytId": "38GzBIxPYbw",
+      "eventId": "e1454",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60] 250802 LE SSERAFIM (르세라핌) HOT SAKURA 사쿠라 FOCUS @ EASY CRAZY HOT IN MANILA",
+      "channel": "coldnadongie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20056",
+      "ytId": "_gizMCoa__A",
+      "eventId": "e1454",
+      "songs": [
+        {
+          "songId": "g11s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250802 르세라핌 KIM CHAEWON 김채원 직캠 [HOT] | LE SSERAFIM TOUR 'EASY CRAZY HOT' MANILA",
+      "channel": "엠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-03"
+    },
+    {
+      "id": "v20057",
+      "ytId": "g48ZIipgsqs",
+      "eventId": "e1454",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250802 르세라핌 카즈하 직캠 'Different' (LE SSERAFIM Kazuha FanCam) @EASY CRAZY HOT in MANILA",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-09"
+    },
+    {
+      "id": "v20058",
+      "ytId": "YeGU43FZfH4",
+      "eventId": "e1454",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60] 250802 LE SSERAFIM (르세라핌) COME OVER SAKURA 사쿠라 FOCUS @ EASY CRAZY HOT IN MANILA",
+      "channel": "coldnadongie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20059",
+      "ytId": "HiAABovwsQw",
+      "eventId": "e1454",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250802 르세라핌 KIM CHAEWON 김채원 직캠 [COME OVER] | LE SSERAFIM TOUR 'EASY CRAZY HOT' MANILA",
+      "channel": "엠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-06"
+    },
+    {
+      "id": "v20060",
+      "ytId": "HJ2RlxEmVTM",
+      "eventId": "e1454",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60] 250802 LE SSERAFIM (르세라핌) PERFECT NIGHT SAKURA 사쿠라 FOCUS @ EASY CRAZY HOT IN MANILA",
+      "channel": "coldnadongie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20061",
+      "ytId": "rFi11xCBky0",
+      "eventId": "e1454",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250802 르세라핌 KIM CHAEWON 김채원 직캠 [CRAZY] | LE SSERAFIM TOUR 'EASY CRAZY HOT' MANILA",
+      "channel": "엠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20062",
+      "ytId": "H4pEk2noVxk",
+      "eventId": "e1455",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "CHAEWON LE SSERAFIM 'CRAZY' 4K Fancam | 2025 LE SSERAFIM TOUR ‘EASY CRAZY HOT’ IN BANGKOK 250809",
+      "channel": "GirlGroupthailand",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-11"
+    },
+    {
+      "id": "v20063",
+      "ytId": "Xs8HeD_CuUw",
+      "eventId": "e1456",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250905 LE SSERAFIM Kim Chaewon (르세라핌 김채원) - Swan song 4k 직캠 | LESSERAFIM 1st World Tour in Chicago ",
+      "channel": "Dukemon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-06"
+    },
+    {
+      "id": "v20064",
+      "ytId": "OspUYDfOl4U",
+      "eventId": "e1457",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250908 르세라핌 허윤진 직캠 'Different' (LE SSERAFIM YUNJIN FanCam) @Easy Crazy Hot TOUR In Grand Prairie",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-11"
+    },
+    {
+      "id": "v20065",
+      "ytId": "l_Vc5I34GoY",
+      "eventId": "e1458",
+      "songs": [
+        {
+          "songId": "g11s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250912 LE SSERAFIM #르세라핌 'Perfect Night' CHAEBRON #Chaewon #김채원 focus 직캠",
+      "channel": "Bic",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20066",
+      "ytId": "gNzRSsfrTVM",
+      "eventId": "e1458",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250912 LE SSERAFIM 르세라핌 'Swan Song' #Kazuha #카즈하 focus 직캠",
+      "channel": "Bic",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20067",
+      "ytId": "nLvaHMY67CQ",
+      "eventId": "e1459",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250914 LESSERAFIM 르세라핌 카즈하(KAZUHA) - Come Over Fancam 직캠 [EASY CRAZY HOT IN SAN FRANCISCO]",
+      "channel": "zuhasvrse",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-16"
+    },
+    {
+      "id": "v20068",
+      "ytId": "Mif96TPqjx4",
+      "eventId": "e1459",
+      "songs": [
+        {
+          "songId": "g11s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250914 르세라핌 카즈하 직캠 \"DIFFERENT\" (LE SSERAFIM KAZUHA FANCAM) 2025 LE SSERAFIM TOUR IN SAN FRANCISCO",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20069",
+      "ytId": "9vsA-3Oi0ns",
+      "eventId": "e1459",
+      "songs": [
+        {
+          "songId": "g11s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250914 LESSERAFIM 르세라핌 카즈하(KAZUHA) - Swan Song Fancam 직캠 [EASY CRAZY HOT IN SAN FRANCISCO]",
+      "channel": "zuhasvrse",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-18"
+    },
+    {
+      "id": "v20070",
+      "ytId": "wpR78RVAzRE",
+      "eventId": "e1459",
+      "songs": [
+        {
+          "songId": "g11s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Eunchae - Come Over Fancam | LE SSERAFIM EASY CRAZY HOT TOUR - SAN FRANCISCO | 250914",
+      "channel": "CLUCK CLUCK KPOP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-21"
+    },
+    {
+      "id": "v20071",
+      "ytId": "PvcLXG5Jlts",
+      "eventId": "e1460",
+      "songs": [
+        {
+          "songId": "g11s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250917 LE SSERAFIM(르세라핌) 'FEARLESS' SAKURA Focus 사쿠라 직캠 LE SSERAFIM TOUR 'EASY CRAZY HOT' IN SEATTLE",
+      "channel": "nvr4GGet93o39🌸",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
