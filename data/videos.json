@@ -20119,6 +20119,250 @@
         "g3s25"
       ],
       "note": ""
+    },
+    {
+      "id": "e1330",
+      "groupId": "g6",
+      "date": "2026-11-07",
+      "show": "2026 KGMA",
+      "label": "",
+      "setlist": [
+        "g6s47",
+        "g6s49"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1331",
+      "groupId": "g11",
+      "date": "2026-11-07",
+      "show": "LE SSERAFIM TOUR PUREFLOW 마카오",
+      "label": "",
+      "setlist": [
+        "g11s19"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1332",
+      "groupId": "g4",
+      "date": "2026-11-08",
+      "show": "2026 KGMA",
+      "label": "",
+      "setlist": [
+        "g4s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1333",
+      "groupId": "g7",
+      "date": "2026-11-08",
+      "show": "2026 KGMA",
+      "label": "",
+      "setlist": [
+        "g7s1",
+        "g7s18",
+        "g7s41"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1334",
+      "groupId": "g8",
+      "date": "2026-11-08",
+      "show": "BABYMONSTER WORLD TOUR 춤 (CHOOM) 방콕",
+      "label": "",
+      "setlist": [
+        "g8s29",
+        "g8s3",
+        "g8s24"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1335",
+      "groupId": "g9",
+      "date": "2026-11-08",
+      "show": "2026 KGMA",
+      "label": "",
+      "setlist": [
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1336",
+      "groupId": "g10",
+      "date": "2026-11-08",
+      "show": "2026 KGMA",
+      "label": "",
+      "setlist": [
+        "g10s18",
+        "g10s17"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1337",
+      "groupId": "g11",
+      "date": "2026-11-08",
+      "show": "LE SSERAFIM TOUR PUREFLOW 마카오",
+      "label": "",
+      "setlist": [
+        "g11s2",
+        "g11s4",
+        "g11s14",
+        "g11s19"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1338",
+      "groupId": "g6",
+      "date": "2026-11-11",
+      "show": "2026 tripleS World Tour 토론토",
+      "label": "",
+      "setlist": [
+        "g6s36",
+        "g6s29",
+        "g6s5",
+        "g6s61",
+        "g6s48",
+        "g6s64",
+        "g6s2",
+        "g6s20",
+        "g6s33",
+        "g6s28",
+        "g6s53",
+        "g6s46",
+        "g6s63",
+        "g6s66",
+        "g6s47",
+        "g6s9",
+        "g6s57",
+        "g6s34",
+        "g6s26"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1339",
+      "groupId": "g9",
+      "date": "2026-11-14",
+      "show": "MMA 2026",
+      "label": "",
+      "setlist": [
+        "g9s1",
+        "g9s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1340",
+      "groupId": "g5",
+      "date": "2026-11-14",
+      "show": "MMA 2026",
+      "label": "",
+      "setlist": [
+        "g5s31",
+        "g5s37",
+        "g5s32"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1341",
+      "groupId": "g4",
+      "date": "2026-11-14",
+      "show": "MMA 2026",
+      "label": "",
+      "setlist": [
+        "g4s11",
+        "g4s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1342",
+      "groupId": "g8",
+      "date": "2026-11-14",
+      "show": "BABYMONSTER WORLD TOUR 춤 (CHOOM) 쿠알라룸푸르",
+      "label": "",
+      "setlist": [
+        "g8s8",
+        "g8s5",
+        "g8s29",
+        "g8s24",
+        "g8s28",
+        "g8s26"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1343",
+      "groupId": "g11",
+      "date": "2026-11-14",
+      "show": "LE SSERAFIM TOUR PUREFLOW 타이베이",
+      "label": "",
+      "setlist": [
+        "g11s17",
+        "g11s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1344",
+      "groupId": "g1",
+      "date": "2026-11-15",
+      "show": "MMA 2026",
+      "label": "",
+      "setlist": [
+        "g1s14",
+        "g1s16"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1345",
+      "groupId": "g6",
+      "date": "2026-11-15",
+      "show": "2026 tripleS World Tour 뉴욕",
+      "label": "",
+      "setlist": [
+        "g6s36",
+        "g6s5",
+        "g6s28",
+        "g6s66",
+        "g6s59",
+        "g6s53",
+        "g6s26",
+        "g6s46",
+        "g6s14",
+        "g6s57",
+        "g6s9",
+        "g6s2",
+        "g6s29",
+        "g6s47",
+        "g6s34",
+        "g6s48"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1346",
+      "groupId": "g11",
+      "date": "2026-11-15",
+      "show": "LE SSERAFIM TOUR PUREFLOW 타이베이",
+      "label": "",
+      "setlist": [
+        "g11s6",
+        "g11s7",
+        "g11s8",
+        "g11s2",
+        "g11s17"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -347322,6 +347566,5506 @@
       "channel": "MARS_0514",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v18160",
+      "ytId": "orzE8I6aXwI",
+      "eventId": "e1315",
+      "songs": [
+        {
+          "songId": "g10s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024SMA] 서가대 KISS OF LIFE 쥴리 직캠 - Kitty Cat(Solo) + Bad Newsㅣ#키스오브라이프 #서울가요대상 #KIOF JULIE 4K FANCAM",
+      "channel": "Captivante",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-01-07"
+    },
+    {
+      "id": "v18161",
+      "ytId": "7Pr0mfgo7mI",
+      "eventId": "e1317",
+      "songs": [
+        {
+          "songId": "g10s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[HMA2023] 한터차트 KISS OF LIFE 쥴리 직캠 - Nobody Knowsㅣ#키스오브라이프 #한터뮤직어워즈 #KIOF JULIE 4K FANCAM",
+      "channel": "Captivante",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-19"
+    },
+    {
+      "id": "v18162",
+      "ytId": "WHH8Q6qE6oA",
+      "eventId": "e512",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        },
+        {
+          "songId": "g6s64",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m18"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "2026 tripleS World Tour [ANDLESS] in Taipei - JooBin (周彬) - 〈Dream Drip〉 Fancam",
+      "channel": "Lance",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-19"
+    },
+    {
+      "id": "v18163",
+      "ytId": "k9gcA_StMWc",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261107 트리플에스 유연 tripleS YooYeon - Baby Flower 직캠｜2026 KGMA",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18164",
+      "ytId": "GNndQgadFrA",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "tripleS 트리플에스 | Baby Flower | 2026 KGMA AWARD | 261107 | 4K60P",
+      "channel": "7CLOVER",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18165",
+      "ytId": "gtJ6PfE6SQc",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s49",
+          "t": 0
+        },
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261107 트리플에스 tripleS 김채연 ChaeYeon Peer + Baby Flower 직캠 fancam @2026 KGMA",
+      "channel": "ritzz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18166",
+      "ytId": "5Br7LG5W0KQ",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s49",
+          "t": 0
+        },
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261107 tripleS (트리플에스) | Peer + Baby Flower | Korea Grand Music Awards 2026",
+      "channel": "주주2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-07"
+    },
+    {
+      "id": "v18167",
+      "ytId": "IrDDwery71o",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261107 트리플에스 김수민 Baby Flower 직캠 4K60p KGMA tripleS fancam",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-07"
+    },
+    {
+      "id": "v18168",
+      "ytId": "RgJ67i8P5UQ",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m15"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "261107 트리플에스 신위 세로직캠 🎧Baby Flower | 2026 KGMA | Vertical Fancam 4K 60P (TRIPLE S XINYU)",
+      "channel": "connect",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18169",
+      "ytId": "LqSA1YRIt2Q",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m24"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "트리플에스 지연 'Baby Flower' 직캠 (tripleS JiYeon FanCam) 261107 KGMA",
+      "channel": "라미",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18170",
+      "ytId": "TtzNTwDZfgQ",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261107 김채원 Kim Chae Won 트리플에스 tripleS💿BabyFlower [8K 30P] 직캠 FANCAM | 2026 KGMA | GalaxyMaru",
+      "channel": "은하마루 GalaxyMaru",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18171",
+      "ytId": "EPeSXMLiZiM",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s49",
+          "t": 0
+        },
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m12"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261107 트리플에스(tripleS) 연지(YeonJi) - Peer + Baby Flower Fancam @KGMA2026",
+      "channel": "연지몰래채원",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18172",
+      "ytId": "fRDKJueSDJA",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s49",
+          "t": 0
+        },
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261107 트리플에스 김채원 PEER + Baby Flower 직캠 2026 KGMA DAY 1",
+      "channel": "StrawberryOrbit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18173",
+      "ytId": "nAMbzaKpC50",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Baby Flower(베이비 플라워) - 트리플에스(tripleS) 2026 KGMA 시상식 코리아 그랜드 뮤직 어워즈 [261107]",
+      "channel": "오프 영상업로드YCH",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18174",
+      "ytId": "N0lD6E1p9E8",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s49",
+          "t": 0
+        },
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m22"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261107 tripleS Sullin 트리플에스 'Peer + Baby Flower' 직캠 @ 2026 KGMA Day 1",
+      "channel": "imsullinlove",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18175",
+      "ytId": "kvRNE4rNgFU",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s49",
+          "t": 0
+        },
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m11"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261107 트리플에스tripleS 코토네 KOTONE - Peer(intro) +Baby Flower @2026 KGMA 직캠 Fancam",
+      "channel": "Kotoworld",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v18176",
+      "ytId": "44QTV2-97MU",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s49",
+          "t": 0
+        },
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m13"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261107 KGMA tripleS - “Peer + Baby Flower” Nien 니엔 focus",
+      "channel": "Littlepuppy",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v18177",
+      "ytId": "ZEOB673Wv2s",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s49",
+          "t": 0
+        },
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Peer & Baby Flower / tripleS / KGMA / 261107",
+      "channel": "IDOL LIKE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18178",
+      "ytId": "dGYuC14k5Po",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s49",
+          "t": 0
+        },
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m22"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261107 tripleS KOREA GRAND MUSIC AWARDS ‘Peer + Baby Flower’ Sullin 설린 Focus",
+      "channel": "TiramiSullin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18179",
+      "ytId": "DReKVZx-5TA",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m16"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261107 KGMA Baby Flower 트리플에스 마유 tripleS Mayu 직캠 FANCAM",
+      "channel": "하니",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18180",
+      "ytId": "IxG1I0C0yTU",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261107 KGMA 트리플에스 Baby Flower",
+      "channel": "Falling",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18181",
+      "ytId": "fWugNR9Sp7Y",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s49",
+          "t": 0
+        },
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261107 tripleS 트리플에스 YooYeon 김유연 KOREA GRAND MUSIC AWARDS ‘Peer + Baby Flower’ 직캠 Focus Fancam [4K]",
+      "channel": "MelodyXxin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18182",
+      "ytId": "5RyDIUZoFTQ",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261107 KGMA - TripleS (baby flower)",
+      "channel": "연안이가",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-07"
+    },
+    {
+      "id": "v18183",
+      "ytId": "g64lp_MvKxM",
+      "eventId": "e1330",
+      "songs": [
+        {
+          "songId": "g6s49",
+          "t": 0
+        },
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m23"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261107 트리플에스 서아 (tripleS) 'Peer +' Baby Flower - kgma 직캠 fancam",
+      "channel": "Felicity",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18184",
+      "ytId": "4aSP5lv5awY",
+      "eventId": "e1331",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]르세라핌 채원 직캠 Made My Night  | LE SSERAFIM  Chaewon | PUREFLOW MACAU  261107",
+      "channel": "kpopmylife1314",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18185",
+      "ytId": "qBh_7ZzxuSg",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261108 하츠투하츠 지우 RUDE! 직캠 4K60p KGMA Hearts2Hearts fancam",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18186",
+      "ytId": "lo57Kmy_dqE",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261108 'RUDE!' 4K FANCOM - Hearts2Hearts CARMEN Focus KGMA 'RUDE!' 4K Fancam",
+      "channel": "ICHIGO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18187",
+      "ytId": "nH-Xip58ErU",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261108 2026 KGMA 코그뮤 Hearts2Hearts 하츠투하츠 Intro + RUDE! FULLCAM 풀캠",
+      "channel": "냠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18188",
+      "ytId": "mEHRD7AdQfo",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261108 KGMA 하츠투하츠 Hearts2Hearts - 수상소감+ RUDE!📍고척돔 4층 F열 시야",
+      "channel": "백수의 심장",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18189",
+      "ytId": "4qZraEPZFqQ",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "Hearts2Hearts  하츠투하츠 | RUDE! | 2026 KGMA AWARD  | 261108 | 4K60P",
+      "channel": "7CLOVER",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18190",
+      "ytId": "FKrImmwB05c",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]261108 Hearts2Hearts IAN 하츠투하츠 이안 - RUDE! 직캠(FanCam) @ KGMA",
+      "channel": "ianova",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18191",
+      "ytId": "4xISz9uOeGM",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261107 KGMA 시상식 | 하츠투하츠 지우 - RUDE! | Hearts2Hearts | 직캠",
+      "channel": "Leader_mandoo",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-11"
+    },
+    {
+      "id": "v18192",
+      "ytId": "nIVW8JrM5XI",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 KGMA Hearts2Hearts (하츠투하츠) - RUDE! (지우) #직캠 #하투하 #하츠투하츠",
+      "channel": "Idol Catcher",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18193",
+      "ytId": "q2mugJWi-3U",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 KGMA Hearts2Hearts (하츠투하츠) - RUDE! (스텔라) #직캠 #하투하 #하츠투하츠",
+      "channel": "Idol Catcher",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18194",
+      "ytId": "Sj03TEjkm1s",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 하츠투하츠 지우 Hearts2Hearts JIWOO - RUDE! 직캠｜2026 KGMA",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18195",
+      "ytId": "mXOWCdgclnA",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261108 RUDE! 하츠투하츠 지우 직캠 Hearts2Hearts jiwoo fancam @KGMA",
+      "channel": "pretzeI.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18196",
+      "ytId": "SXeg6MxOGAg",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "하츠투하츠 Hearts2Hearts 'RUDE!' KGMA 코리아 그랜드 뮤직 어워즈 261108",
+      "channel": "poptforming",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18197",
+      "ytId": "t9oy7fqmse4",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20261108 하츠투하츠(Hearts2Hearts) 이안 \"Rude!\" @ 2026 KGMA",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18198",
+      "ytId": "v_bNnAfaR2w",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 261108 KGMA| Hearts2Hearts YUHA 'RUDE!' 직캠(H2H YUHA Focus)",
+      "channel": "청람🎐",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18199",
+      "ytId": "Z5p5pbyJGg4",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 하츠투하츠 스텔라 RUDE! 직캠 @KGMA2026",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18200",
+      "ytId": "ADjxHg8AP1o",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261108 하츠투하츠 이안 (Hearts2Hearts IAN) RUDE! 직캠 @ 2026 KGMA Fancam",
+      "channel": "POPPIN GUMMY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18201",
+      "ytId": "UF3X-y55n4E",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 KGMA Hearts2Hearts (하츠투하츠) - RUDE! (이안) #직캠 #하투하 #하츠투하츠",
+      "channel": "Idol Catcher",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18202",
+      "ytId": "t1JUjtoUe_8",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261108 KGMA 2026 ‘RUDE!’ Hearts2Hearts A_NA Focus하츠투하츠 에이나 직캠",
+      "channel": "Deer",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18203",
+      "ytId": "wn41XKULgOo",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "261108 하츠투하츠 이안 세로직캠 🎧RUDE! | 2026 KGMA | Vertical Fancam 4K 60P (Hearts2Hearts IAN)",
+      "channel": "connect",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18204",
+      "ytId": "Z4QbD3_hgxs",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 261108 하츠투하츠(Hearts2Hearts) - 'RUDE!’ 이안 직캠 | 2026 KGMA (코리아 그랜드 뮤직 어워즈)",
+      "channel": "무슨 말이 필요해",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18205",
+      "ytId": "G5tjWO0NsYM",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 하츠투하츠 - Rude! (안경지우 focus) | KGMA2026",
+      "channel": "슈 shoux",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18206",
+      "ytId": "9pz7UdpID3Y",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 하츠투하츠 유하 'RUDE!' 직캠 (Hearts2Hearts YUHA FanCam) KGMA",
+      "channel": "MIRAI",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18207",
+      "ytId": "zD9VI3TkOQQ",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "261108 있지 ITZY - Motto | 가로+세로(채령) 직캠 | 2026 KGMA [KPOP FanCam 8K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-13"
+    },
+    {
+      "id": "v18208",
+      "ytId": "2MelC6znkKs",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        },
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "8K60P | ITZY 잇지 | Motto +THAT'S A NO NO | 2026 KGMA AWARD | 261108",
+      "channel": "7CLOVER",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18209",
+      "ytId": "JSojxhR_XD0",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        },
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "있지 예지 'Motto + THAT'S A NO NO' 직캠 (ITZY YEJI FanCam) 261108 KGMA",
+      "channel": "라미",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18210",
+      "ytId": "0Q6X6M-j_Dk",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261108 ITZY Dance Performance + ‘THAT'S A NO NO’ RYUJIN 류진 FANCAM 있지 직캠 @2026 KGMA",
+      "channel": "dishwasher",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18211",
+      "ytId": "MhBx5Ap41kw",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        },
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261108 2026 KGMA 코그뮤 ITZY 있지 Motto + THAT'S A NO NO FULLCAM 풀캠",
+      "channel": "냠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18212",
+      "ytId": "YZ0_u2SmJYc",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        },
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 있지 유나 ITZY YUNA - Motto + THAT'S A NO NO 직캠｜2026 KGMA",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18213",
+      "ytId": "siE2t65mOlY",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        },
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1",
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20261108 ITZY(있지) 유나&예지 \"Motto+THAT'S A NO NO\" @ 2026 KGMA",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18214",
+      "ytId": "wVieboBzPhg",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 261108 있지(ITZY) - 'THAT'S A NO NO' 유나 직캠 | 2026 KGMA (코리아 그랜드 뮤직 어워즈)",
+      "channel": "무슨 말이 필요해",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18215",
+      "ytId": "X9SDYtqxhkU",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] 있지 (ITZY) 261108 2026 코리아 그랜드 뮤직 어워즈 Motto + Performance",
+      "channel": "ITZY믿지",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18216",
+      "ytId": "YUXnvZiRfcU",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261108 Itzy 'That's A No No' | KGMA - 2026 코리아 그랜드 뮤직 어워즈",
+      "channel": "우드",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18217",
+      "ytId": "lEd7VGzZSXU",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 261108 있지(ITZY) - 'Motto' 유나 직캠 | 2026 KGMA (코리아 그랜드 뮤직 어워즈)",
+      "channel": "무슨 말이 필요해",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18218",
+      "ytId": "NUp78oSsl8U",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        },
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "261108 있지 유나 세로직캠 🎧Motto + THAT'S A NONO | 2026 KGMA | Vertical Fancam 4K 60P (ITZY YUNA)",
+      "channel": "connect",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18219",
+      "ytId": "ls5c9kIPTTg",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20261108 ITZY(있지) 유나 \"Ice Cream\" @ 2026 KGMA",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18220",
+      "ytId": "B6hs0Fzxlws",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 있지 유나 ITZY YUNA - Ice Cream 직캠｜2026 KGMA",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18221",
+      "ytId": "UOfLHlm6tiI",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "ITZY YUNA “Ice Cream” 261108 SEL #ITZY #있지 #kgma #YUNA",
+      "channel": "VZ FANCAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v18222",
+      "ytId": "IesTEg72hMc",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "［4K] 261108 ITZY RYUJIN -MOTTO Focus cam KGMA",
+      "channel": "berjast",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v18223",
+      "ytId": "rzS7Ri1Whks",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261107 KGMA 시상식 | ITZY 유나 - Ice cream | YUNA | 직캠",
+      "channel": "Leader_mandoo",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18224",
+      "ytId": "cEvoh3ucuec",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        },
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "있지 ITZY 'Motto+THAT'S A NO NO' KGMA 코리아 그랜드 뮤직 어워즈 261108",
+      "channel": "poptforming",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18225",
+      "ytId": "lPbMCtiURAA",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261108  KGMA 있지(ITZY)  유나(YUNA) Ice Cream 4K60 직캡 By 129²",
+      "channel": "YUNA 129SQUARE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18226",
+      "ytId": "ewlN5sZq2ws",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "261108 있지 유나 세로직캠 🎧Ice Cream | 2026 KGMA | Vertical Fancam 4K 60P (ITZY YUNA)",
+      "channel": "connect",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18227",
+      "ytId": "Rqy25IjPS1E",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261108 ITZY Ryujin Fancam 'Motto' 있지 류진 직캠 KGMA",
+      "channel": "MidzyMouse",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18228",
+      "ytId": "qO3IdEVWQHs",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        },
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 있지 유나 Motto + THAT’S A NO NO 직캠 @KGMA2026",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v18229",
+      "ytId": "Rjr5NR-C92c",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 있지 유나 Ice Cream 직캠 @KGMA2026",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18230",
+      "ytId": "ilJqy2NrGtw",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261108 유나 YUNA 있지 ITZY 'Ice Cream' 4K 60P 직캠 @KGMA by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18231",
+      "ytId": "qelw-Akbst4",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "261108 있지 ITZY - 인트로+댓츠어노노 THAT'S A NO NO  | 가로+세로(채령) 직캠 | 2026 KGMA [KPOP FanCam 8K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v18232",
+      "ytId": "sSvT3UjJvTg",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261108 ITZY 유나 Motto 직캠 4K60p KGMA YUNA fancam",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18233",
+      "ytId": "9YvrIxbXQG0",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] 있지 (ITZY) 261108 2026 코리아 그랜드 뮤직 어워즈 THAT'S A NO NO",
+      "channel": "ITZY믿지",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18234",
+      "ytId": "iDtWtAfL8-U",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 261108 있지 류진 직캠 ‘THAT'S A NO NO’ (ITZY RYUJIN FanCam) | @KOREA GRAND MUSIC AWARDS",
+      "channel": "zhan",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18235",
+      "ytId": "dl59FtfNfiM",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 Motto 있지 예지 직캠 ITZY YEJI Focus Fancam @2026 코리아 그랜드 뮤직 어워즈 KGMA",
+      "channel": "밀키 ミルキ",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-11"
+    },
+    {
+      "id": "v18236",
+      "ytId": "xRkoeUhW1Ao",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s41",
+          "t": 0
+        },
+        {
+          "songId": "g7s1",
+          "t": 0
+        },
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 KGMA 있지 ITZY - Ice Cream (유나 솔로) + Motto + THAT'S A NO NO📍고척돔 4층 F열 시야",
+      "channel": "백수의 심장",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18237",
+      "ytId": "ta4Y6SnKUFI",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s1",
+          "t": 0
+        },
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261108 ITZY - Motto + Performance + THAT'S A NO NO 2026 KGMA",
+      "channel": "midzywithy",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18238",
+      "ytId": "0nZxe-sUbLU",
+      "eventId": "e1333",
+      "songs": [
+        {
+          "songId": "g7s41",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY 잇지 | 유나 솔로 퍼포먼스 | ICE CREAM | 2026 KGMA AWARD | 261108 | 4k60p",
+      "channel": "7CLOVER",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18239",
+      "ytId": "DYc4Ijpu84s",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g8s29",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "RATATATA  | Ruka (solo) 261108 BABYMONSTER 베이비몬스터 | CHOOM WORLD TOUR IN BANGKOK DAY2",
+      "channel": "WNSRY BLINK888",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v18240",
+      "ytId": "C5XsgTurwhQ",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g8s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "FOREVER | 261108 BABYMONSTER 베이비몬스터 | CHOOM WORLD TOUR IN BANGKOK DAY2",
+      "channel": "WNSRY BLINK888",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-11"
+    },
+    {
+      "id": "v18241",
+      "ytId": "fzHzqTcS2nI",
+      "eventId": "e1334",
+      "songs": [
+        {
+          "songId": "g8s24",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "PHARITA BABYMONSTER 'SUPER BASS' 4K Fancam | BABYMONSTER WORLD TOUR [CHOOM] IN BANGKOK 261108",
+      "channel": "GirlGroupthailand",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18242",
+      "ytId": "rlekWfAdAyA",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "261108 최예나 세로직캠 🎧캐치캐치 (Remix BopeepBopeep) | 2026 KGMA | Vertical Fancam 4K 60P (YENA)",
+      "channel": "connect",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-11"
+    },
+    {
+      "id": "v18243",
+      "ytId": "wrrpQgsp-ZI",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261108 YENA (최예나) - 캐치캐치 (remix. Bopeep Bopeep)｜2026 KGMA @KSPODOME",
+      "channel": "감자탕",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-11"
+    },
+    {
+      "id": "v18244",
+      "ytId": "aTWZkOLVdww",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 261108 예나(YENA) - '캐치캐치(Remix. 보핍보핍)’ 최예나 직캠 | 2026 KGMA (코리아 그랜드 뮤직 어워즈)",
+      "channel": "무슨 말이 필요해",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18245",
+      "ytId": "0DbOEv40zhM",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261108 최예나 Catch Catch (Remix. BO PEEP BO PEEP) 직캠 4K60p KGMA YENA fancam",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18246",
+      "ytId": "jwICVZgpIWk",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "YENA (최예나) '캐치 캐치 (보핍보핍 Remix)' 직캠 | KGMA • 261108",
+      "channel": "길몽 GILMONG",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18247",
+      "ytId": "dQsDcxOc4Cg",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261108 Catch Catch (Remix. BO PEEP BO PEEP) - 최예나(YENA) @KGMA Awards",
+      "channel": "𝙔𝙚𝙡𝙡𝙤𝙫𝙚𝙧",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v18248",
+      "ytId": "cBMrAkAgksg",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 최예나 YENA - 캐치 캐치 직캠｜2026 KGMA",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18249",
+      "ytId": "jxFrwN-uuxo",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60P 직캠] 20261108 최예나(YENA) \"캐치 캐치(Bo Peep Bo Peep REMIX Ver)\" @ 2026 KGMA",
+      "channel": "Greeming *",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18250",
+      "ytId": "tC0AJkWIhLw",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261108 최예나 YENA '캐치 캐치 Catch Catch(Remix : Bo Peep Bo Peep)' 4K 60P 직캠 @KGMA by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18251",
+      "ytId": "AnDrON1CooM",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 최예나(YENA) KGMA 캐치캐치(Rmeix : Bo Peep Bo Peep) 무대 직캠",
+      "channel": "from",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v18252",
+      "ytId": "J--Ndpce3u4",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261108 최예나 (YENA) 'Catch Catch (캐치 캐치)' (Remix : 보핍보핍) 직캠 (YENA FOCUS Fancam) | 2026 KGMA",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18253",
+      "ytId": "-Ks9nzQL9tU",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "최예나(YENA) - 261108 KGMA 캐치캐치(Remix - Bo Peep Bo Peep)",
+      "channel": "지금은 예나",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v18254",
+      "ytId": "R4kiyMUqgok",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261108 예나(최예나) 캐치 캐치 (KGMA Ver.) 무대 2026 KGMA DAY2 #예나 #최예나 #캐치캐치 #YENA #KGMA2026",
+      "channel": "에이스",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-11"
+    },
+    {
+      "id": "v18255",
+      "ytId": "N3ieWfEpaGs",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "최예나 YENA 'bo peep bo peep+catch catch' KGMA 코리아 그랜드 뮤직 어워즈 261108",
+      "channel": "poptforming",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-08"
+    },
+    {
+      "id": "v18256",
+      "ytId": "_EJQ95rapQ4",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 KGMA 최예나 - 캐치 캐치 + Bo Peep Bo Peep📍고척돔 4층 F열 시야",
+      "channel": "백수의 심장",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18257",
+      "ytId": "fxTOj6AiMeE",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 예나 YENA - 캐치캐치 뽀삐뽀삐ver. | KGMA2026",
+      "channel": "슈 shoux",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18258",
+      "ytId": "8xe7gW5hAbE",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "예나 #YENA @261108 KGMA ♬ Catch Catch (Mashup : Bo Peep Bo Peep, T-ARA 2009) #캐치캐치 #뽀삐뽀삐",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v18259",
+      "ytId": "_87uZj2b6Pw",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 최예나 YENA 2026 KGMA - 캐치 캐치 (Bo Peep Bo Peep Remix)",
+      "channel": "WBHCAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18260",
+      "ytId": "41NLZ54FTyI",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261107 KGMA 시상식 | 최예나 - 보핍보핍 + 캐치캐치 | YENA - Bo Peep Bo Peep + Sped up | 직캠",
+      "channel": "Leader_mandoo",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-13"
+    },
+    {
+      "id": "v18261",
+      "ytId": "VSZaI2HuByQ",
+      "eventId": "e1335",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "최예나 YENA |  Catch Catch Bo + Peep Bo Peep  | 2026 KGMA AWARD | 261108 | 4K60P",
+      "channel": "7CLOVER",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v18262",
+      "ytId": "mTAa7slD-G0",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        },
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "KISS OF LIFE 키스오브라이프 | WHAT! + SWEAT  | 2026 KGMA AWARD | 261108 | 4K60P",
+      "channel": "7CLOVER",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18263",
+      "ytId": "ruxaRZA3N1w",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        },
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 키스오브라이프 쥴리 WHAT! + SWEAT 직캠 @KGMA2026",
+      "channel": "Ksh Cam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18264",
+      "ytId": "tYuz8F9SEDg",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        },
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261108 키스 오브 라이프 쥴리 KISS OF LIFE JULIE - WHAT! + SWEAT 직캠｜2026 KGMA",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18265",
+      "ytId": "aJ5s2CY7cDM",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        },
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261107 KGMA 시상식 | 키스오브라이프 쥴리 - WHAT! + SWEAT  | KISS OF LIFE JULIE | 직캠",
+      "channel": "Leader_mandoo",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18266",
+      "ytId": "KCeMrtdLQR0",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261108 키스오브라이프 하늘 KISS OF LIFE HANEUL - ‘SWEAT’ 직캠 Fancam @2026 KGMA",
+      "channel": "누룽",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18267",
+      "ytId": "MI1yUGA6S-E",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        },
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261108 '2026 KGMA' Kiss of life 'WHAT! + Sweat' 4K60P",
+      "channel": "한쥴리엣",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18268",
+      "ytId": "7L1xle_BNMQ",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        },
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261108 KGMA 키스 오브 라이프 KISS OF LIFE - WHAT! + SWEAT📍고척돔 4층 F열 시야",
+      "channel": "백수의 심장",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18269",
+      "ytId": "FDrFIRcg9tY",
+      "eventId": "e1336",
+      "songs": [
+        {
+          "songId": "g10s18",
+          "t": 0
+        },
+        {
+          "songId": "g10s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g10m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261108 키스오브라이프 KISS OF LIFE 나띠 직캠 NATTY Fancam 'WHAT!+SWEAT' @KGMA",
+      "channel": "hush",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18270",
+      "ytId": "FTxeGGT46GY",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]르세라핌 채원 직캠 ANTIFRAGILE  | LE SSERAFIM  Chaewon Fancam | PUREFLOW MACAU  261108",
+      "channel": "kpopmylife1314",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-11"
+    },
+    {
+      "id": "v18271",
+      "ytId": "HcpZoFWP56k",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]르세라핌 채원 직캠 Eve, Psyche and The Bluebeard's Wife  | LE SSERAFIM  Chaewon | PUREFLOW MACAU  261108",
+      "channel": "kpopmylife1314",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18272",
+      "ytId": "ANg6ACtLTjI",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4KMulti-Cam멀티캠]르세라핌 채원 직캠 SPAGHETTI  | LE SSERAFIM  Chaewon Fancam | PUREFLOW MACAU  261108",
+      "channel": "kpopmylife1314",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18273",
+      "ytId": "1jw4tG1UjF4",
+      "eventId": "e1337",
+      "songs": [
+        {
+          "songId": "g11s19",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]르세라핌 채원 직캠 Made My Night  | LE SSERAFIM  Chaewon | PUREFLOW MACAU  261108",
+      "channel": "kpopmylife1314",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-09"
+    },
+    {
+      "id": "v18274",
+      "ytId": "yiA8-SDnCjs",
+      "eventId": "e1338",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "tripleS (트리플에스) ANDLESS Toronto | 4K Full Concert | 2026 tripleS ANDLESS World Tour | Toronto 261111",
+      "channel": "LF Videos",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-13"
+    },
+    {
+      "id": "v18275",
+      "ytId": "7vCGCdumfFQ",
+      "eventId": "e1338",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261111 4K tripleS 트리플에스 FRONTROW Full Set | ANDLESS in Toronto",
+      "channel": "Phoeveryoung",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18276",
+      "ytId": "Cpw0utGGVl0",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261111 ‘Love2Love’ - tripleS (트리플에) - ANDLESS World Tour -  TORONTO 4K60",
+      "channel": "K-POP Concert Highlights",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18277",
+      "ytId": "OwM8_Hxay3Y",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s29",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261111 ‘Detective Soseol’ - tripleS (트리플에) - ANDLESS World Tour -  TORONTO 4K60",
+      "channel": "K-POP Concert Highlights",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18278",
+      "ytId": "AAxVtkjdINI",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[tripleS(트리플에스)] 261111 ANDLESS in Toronto : Girls’ Capitalism - YoonSeoYeon 윤서연 FANCAM 직캠",
+      "channel": "Gorgeous",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18279",
+      "ytId": "YzTRI8A78fg",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s61",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m21"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261111 트리플에스 김채원 CHEER UP 직캠 ANDLESS in Toronto",
+      "channel": "StrawberryOrbit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-13"
+    },
+    {
+      "id": "v18280",
+      "ytId": "sy8ocvfxV08",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261111 ‘Sad Girls Schemin'’ - tripleS (트리플에) - ANDLESS World Tour -  TORONTO 4K60",
+      "channel": "K-POP Concert Highlights",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18281",
+      "ytId": "ooGvqejl0Fc",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s64",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m23"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]261111 tripleS ANDLESS in TORONTO ‘Dream Drip’ SeoAh 서아 직캠",
+      "channel": "Gorae",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-13"
+    },
+    {
+      "id": "v18282",
+      "ytId": "RRH3IvzWVxs",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261111 ‘Rising’ - tripleS (트리플에) - ANDLESS World Tour -  TORONTO 4K60",
+      "channel": "K-POP Concert Highlights",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18283",
+      "ytId": "tOd63B5D4hE",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s64",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "tripleS Toronto 261111 Dream Drip (Aura)",
+      "channel": "Kitsune Sama",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-13"
+    },
+    {
+      "id": "v18284",
+      "ytId": "H0UPeWQXad8",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s20",
+          "t": 0
+        },
+        {
+          "songId": "g6s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "tripleS Toronto 261111 Choom & Too Hot (encore)",
+      "channel": "Kitsune Sama",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18285",
+      "ytId": "mt77iODXpeQ",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "tripleS Toronto 261111 Are You Alive",
+      "channel": "Kitsune Sama",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18286",
+      "ytId": "m-Wd2q0MrgE",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s53",
+          "t": 0
+        },
+        {
+          "songId": "g6s46",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "tripleS Toronto 261111 Me Myself Mode & Christmas Alone (encore)",
+      "channel": "Kitsune Sama",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18287",
+      "ytId": "g3jv61WcyuI",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s63",
+          "t": 0
+        },
+        {
+          "songId": "g6s66",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "tripleS Toronto 261111 World Wild Women & Lit Pop",
+      "channel": "Kitsune Sama",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-13"
+    },
+    {
+      "id": "v18288",
+      "ytId": "rSYyJagqVUo",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261111 tripleS ANDLESS Tour: Baby Flower",
+      "channel": "Just an Orbit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18289",
+      "ytId": "O3X2CPE5qcI",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        },
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "tripleS 261111 - Girls Never Die /MENT/ 깨어 (Are You Alive) - Andless World Tour in Toronto - 4K",
+      "channel": "erg0orbit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-13"
+    },
+    {
+      "id": "v18290",
+      "ytId": "qe9aw9hbVTM",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s64",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261111 tripleS ANDLESS Tour: Dream Drip (AURA sub-unit)",
+      "channel": "Just an Orbit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18291",
+      "ytId": "JUarZwSf5cQ",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "tripleS 261111 - Girl’s Capitalism - Andless World Tour in Toronto - 4K - November 11, 2026",
+      "channel": "erg0orbit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-13"
+    },
+    {
+      "id": "v18292",
+      "ytId": "91nc7g3f4eQ",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261111 tripleS ANDLESS Tour: Girls Never Die",
+      "channel": "Just an Orbit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18293",
+      "ytId": "i56HRMi_HZg",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261111 ‘Andless’ - tripleS (트리플에) - ANDLESS World Tour -  TORONTO 4K60",
+      "channel": "K-POP Concert Highlights",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18294",
+      "ytId": "Bj6Dx7iFeRQ",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s66",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261111 tripleS ANDLESS Tour: Lit Pop",
+      "channel": "Just an Orbit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18295",
+      "ytId": "oRp_39jLamk",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261111 tripleS ANDLESS Tour: Girls' Capitalism",
+      "channel": "Just an Orbit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18296",
+      "ytId": "ofV8cBTCsC0",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261111 tripleS ANDLESS Tour: Are You Alive",
+      "channel": "Just an Orbit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18297",
+      "ytId": "SSjAasUzuTM",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s34",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261111 ‘Diablo’ - tripleS (트리플에) - ANDLESS World Tour -  TORONTO 4K60",
+      "channel": "K-POP Concert Highlights",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18298",
+      "ytId": "dV5BLeQ4QS8",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "tripleS Toronto 261111 Andless",
+      "channel": "Kitsune Sama",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18299",
+      "ytId": "Mfu0K6xgs7I",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s20",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261111 tripleS ANDLESS Tour: Choom",
+      "channel": "Just an Orbit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18300",
+      "ytId": "nJOL-sb4RGk",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        },
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "tripleS Toronto 261111 Rising & Girls Never Die",
+      "channel": "Kitsune Sama",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18301",
+      "ytId": "FZTikcPWjpA",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s26",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261111 tripleS ANDLESS Tour: Bionic Power",
+      "channel": "Just an Orbit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18302",
+      "ytId": "mWaWTKqojX8",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261111 tripleS ANDLESS Tour: ANDLESS",
+      "channel": "Just an Orbit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18303",
+      "ytId": "QbTLxebxEBU",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261111 tripleS ANDLESS Tour: Rising",
+      "channel": "Just an Orbit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18304",
+      "ytId": "_q2t91F93bk",
+      "eventId": "e1338",
+      "songs": [
+        {
+          "songId": "g6s63",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261111 tripleS ANDLESS Tour: World Wild Women",
+      "channel": "Just an Orbit",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-12"
+    },
+    {
+      "id": "v18305",
+      "ytId": "5hmcnSazuf8",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261114 최예나 YENA 2026 MMA - FIESTA + SMILEY + 캐치 캐치",
+      "channel": "WBHCAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18306",
+      "ytId": "MWMtbAKPw50",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261114 최예나 FIESTA, SMILEY, 캐치 캐치 MMA 4K60p YENA fancam",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18307",
+      "ytId": "D13GmhpmsxU",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261114 YENA(최예나) - Blooming Yena 직캠 (intro+FIESTA + SMILEY + Catch Catch｜2026 Melon Music Awards",
+      "channel": "99x01CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18308",
+      "ytId": "qZT2Nrxm1zo",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[#MMA2026] YENA - FIESTA + SMILEY + 캐치캐치 (4K) | #YENA #최예나 #20261114",
+      "channel": "멜론 Melon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18309",
+      "ytId": "bngC3eTHoqA",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261114 최예나 YENA - FIESTA + SMILEY + 캐치 캐치 직캠｜2026 MMA",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18310",
+      "ytId": "3WhqEpEEJp4",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261114 최예나(YENA) 'FIESTA' + 'SMILEY' + 'Catch Catch' 직캠 @ MMA2026 멜론뮤직어워드 1일차",
+      "channel": "질감",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18311",
+      "ytId": "MbS-EBRcONY",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【2026 MMA】YENA (최예나) 'Intro + FIESTA + SMILEY + Catch Catch (캐치 캐치)' 4K Fancam 직캠 | 멜론 뮤직 어워드 261114",
+      "channel": "K-PLANET",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18312",
+      "ytId": "bO0WXvU0y7I",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g9s1",
+          "t": 0
+        },
+        {
+          "songId": "g9s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 최예나 YENA FIESTA + SMILEY + Catch Catch 직캠 | 멜론뮤직어워드 2026 | 261114",
+      "channel": "box Cam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18313",
+      "ytId": "aCZqbk-yGW8",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "예나[YENA] - FIESTA+SMILEY+캐치캐치 [4k직캠] @2026MMA 20261114",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18314",
+      "ytId": "ZpTYYLoLmFQ",
+      "eventId": "e1339",
+      "songs": [
+        {
+          "songId": "g9s8",
+          "t": 0
+        },
+        {
+          "songId": "g9s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g9m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261114 최예나 YENA  'SMILEY +' 캐치캐치 | MMA 2026 Day 1.",
+      "channel": "릉릉 Seung What",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18315",
+      "ytId": "cnSMlOc9L5k",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s37",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[#MMA2026] aespa - WDA + Switchblade + LEMONADE (4K) | #aespa #에스파 #20261114",
+      "channel": "멜론 Melon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18316",
+      "ytId": "bP7R3gJOOic",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261114 에스파 카리나 aespa KARINA 🎵LEMONADE 직캠 📍MMA2026",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18317",
+      "ytId": "f7X8oKFkAI4",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s37",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "[세로직캠] 261114 에스파 카리나 aespa KARINA - WDA + Switchblade + LEMONADE @2026 MMA",
+      "channel": "Day_Day",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18318",
+      "ytId": "v57bUEWkRw4",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s37",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261114 카리나 KARINA 에스파 aespa💿WDA🎵Switchblade🎵LEMONADE [8K 30P] 직캠 FANCAM | 2026 멜론뮤직어워드 | GalaxyMaru",
+      "channel": "은하마루 GalaxyMaru",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18319",
+      "ytId": "-XMUVRGeHf4",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261114 에스파 카리나 (aespa KARINA) - 'LEMONADE' 직캠 (aespa KARINA FOCUS Fancam) | 2026 MMA",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18320",
+      "ytId": "UaeZxx303MM",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s37",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261114 에스파 카리나 aespa KARINA - WDA + Switchblade + LEMONADE 직캠｜2026 MMA",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18321",
+      "ytId": "ogRuxOdhqDY",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s37",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]261114 MMA2026 - WDA+Switchblade+LEMONADE 카리나 Karina 에스파 aespa FANCAM 직캠",
+      "channel": "notes0411",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18322",
+      "ytId": "fFYZvgRlBhs",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s37",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261114 에스파 카리나 (aespa KARINA) - 'Switchblade' 직캠 (aespa KARINA FOCUS Fancam) | 2026 MMA",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18323",
+      "ytId": "jh1Baakku30",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s37",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "윈터[에스파] - WDA+Switchblade+LEMONADE [4k직캠] @2026MMA 20261114",
+      "channel": "buchaCAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18324",
+      "ytId": "Hy6yXQ_YRHc",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261114 에스파 카리나 (aespa KARINA) - 'WDA' 직캠 (aespa KARINA FOCUS Fancam) | 2026 MMA",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18325",
+      "ytId": "dn6_w-lvvJY",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s37",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 #aespa @261114 MMA ♬ WDA ♬ Switchblade ♬ LEMONADE",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18326",
+      "ytId": "KyTlUq-S4ck",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        },
+        {
+          "songId": "g5s37",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261114 에스파 aespa 'WDA++Switchblade + lemonade' 멜론 뮤직 어워드 2026 MMA",
+      "channel": "poptforming",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18327",
+      "ytId": "k1YoOLQne2k",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261114 에스파 카리나 WDA 직캠 4K60p MMA aespa fancam",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18328",
+      "ytId": "yG-eS-I-JTA",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s37",
+          "t": 0
+        },
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261114 에스파 윈터 Switchblade + LEMONADE 직캠 4K60p MMA aespa WINTER fancam",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18329",
+      "ytId": "EXGRCs87kyc",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s37",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261114 Winter “Switchblade” MMA 2026 에스파 aespa 윈터 winter 4K 60 직캠",
+      "channel": "WINTERMAXX_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18330",
+      "ytId": "voSNStEJ4G8",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s37",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261114 MMA 에스파 윈터 aespa winter ‘SWITCHBLADE‘직캠",
+      "channel": "Serein1st",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18331",
+      "ytId": "Y7gJZbFezUU",
+      "eventId": "e1340",
+      "songs": [
+        {
+          "songId": "g5s37",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1",
+        "g5m3",
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "..so many categories 🚨🔥👑 | aespa æspa Switchblade Karina Ningning Winter fancam MMA2026 20261114",
+      "channel": "Young Games",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18332",
+      "ytId": "7ojqbSxniCw",
+      "eventId": "e1341",
+      "songs": [
+        {
+          "songId": "g4s11",
+          "t": 0
+        },
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[#MMA2026] Hearts2Hearts - 15-LOVE + RUDE! (4K) | #Hearts2Hearts #하츠투하츠 #20261114",
+      "channel": "멜론 Melon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18333",
+      "ytId": "T54GSCYO_r0",
+      "eventId": "e1341",
+      "songs": [
+        {
+          "songId": "g4s11",
+          "t": 0
+        },
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k] 261114 MELON MUSIC AWARDS| Hearts2Hearts YUHA '15-LOVExRUDE!' 직캠(H2H YUHA Focus)",
+      "channel": "청람🎐",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18334",
+      "ytId": "FyPxabZRe7Q",
+      "eventId": "e1341",
+      "songs": [
+        {
+          "songId": "g4s11",
+          "t": 0
+        },
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261114 하츠투하츠 이안 Hearts2Hearts IAN - 15-LOVE + RUDE! 직캠｜2026 MMA",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18335",
+      "ytId": "eBtu57yHhpk",
+      "eventId": "e1341",
+      "songs": [
+        {
+          "songId": "g4s11",
+          "t": 0
+        },
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261114 하츠투하츠 유하 'Intro + 15-LOVE + RUDE!' 직캠 (Hearts2Hearts YUHA FanCam) MMA",
+      "channel": "MIRAI",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18336",
+      "ytId": "MNjLCmnNOY8",
+      "eventId": "e1341",
+      "songs": [
+        {
+          "songId": "g4s11",
+          "t": 0
+        },
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261114 하츠투하츠 지우 ‘15-LOVE’ + ’RUDE!’ 4K 직캠 - Hearts2Hearts JIWOO @Melon Music Awards MMA 4K Fancam",
+      "channel": "그래비티",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18337",
+      "ytId": "F90annKiHy0",
+      "eventId": "e1341",
+      "songs": [
+        {
+          "songId": "g4s11",
+          "t": 0
+        },
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261114  하츠투하츠 Hearts2Hearts 'INTRO + 15-LOVE + RUDE!' 멜론 뮤직 어워드 2026 MMA",
+      "channel": "poptforming",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14"
+    },
+    {
+      "id": "v18338",
+      "ytId": "iDu7Idwciso",
+      "eventId": "e1341",
+      "songs": [
+        {
+          "songId": "g4s11",
+          "t": 0
+        },
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "하츠투하츠 #Hearts2Hearts @261114 MMA ♬ 15-LOVE ♬ RUDE! #하투하 #H2H #루드",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18339",
+      "ytId": "yeXjZyHWaGo",
+      "eventId": "e1341",
+      "songs": [
+        {
+          "songId": "g4s11",
+          "t": 0
+        },
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261114 Hearts2Hearts '15-LOVE + RUDE!' | MMA2026 (멜론뮤직어워드)",
+      "channel": "우드",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18340",
+      "ytId": "FBLliOCMknY",
+      "eventId": "e1341",
+      "songs": [
+        {
+          "songId": "g4s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k]261114 MELON MUSIC AWARDS| Hearts2Hearts CARMEN '15-LOVE' 직캠(H2H CARMEN Focus)",
+      "channel": "LoCation_CARMEN",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18341",
+      "ytId": "2ad-ihpp67Y",
+      "eventId": "e1341",
+      "songs": [
+        {
+          "songId": "g4s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261114 하츠투하츠 지우 15-LOVE 직캠 4K60p MMA Hearts2Hearts fancam",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18342",
+      "ytId": "mzus5BNeSBg",
+      "eventId": "e1341",
+      "songs": [
+        {
+          "songId": "g4s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]261114 Hearts2Hearts IAN 하츠투하츠 이안 - '15-LOVE' 직캠(FanCam)@ MMA",
+      "channel": "ianova",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18343",
+      "ytId": "TSye81WnHv8",
+      "eventId": "e1341",
+      "songs": [
+        {
+          "songId": "g4s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261114 MMA 2026 ‘INTRO+15-LOVE’ Hearts2Hearts A_NA Focus하츠투하츠 에이나 직캠",
+      "channel": "Deer",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18344",
+      "ytId": "d5foLhg9Pvs",
+      "eventId": "e1341",
+      "songs": [
+        {
+          "songId": "g4s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "얼빡"
+      ],
+      "title": "하츠투하츠 지우 15 LOVE Hearts2Hearts (JIWOO FaceCam) 261115 MMA",
+      "channel": "@Taiying",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18345",
+      "ytId": "HhqGdZljhik",
+      "eventId": "e1341",
+      "songs": [
+        {
+          "songId": "g4s11",
+          "t": 0
+        },
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261114 INTRO + 15-LOVE + RUDE! 하츠투하츠 지우 직캠 Hearts2Hearts jiwoo fancam @ 2026 MMA",
+      "channel": "pretzeI.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18346",
+      "ytId": "3r5qiUGIuW8",
+      "eventId": "e1341",
+      "songs": [
+        {
+          "songId": "g4s11",
+          "t": 0
+        },
+        {
+          "songId": "g4s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g4m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261114 '15-LOVE+RUDE!' 하츠투하츠 지우 Hearts2Hearts JIWOO | MMA 2026",
+      "channel": "쮸라기",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18347",
+      "ytId": "KxosrNYdJN4",
+      "eventId": "e1342",
+      "songs": [
+        {
+          "songId": "g8s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] BABYMONSTER - DESERVE | BABYMONSTER 2026–27 WORLD TOUR [CHOOM] IN KUALA LUMPUR CONCERT (261114)",
+      "channel": "pety's corner",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18348",
+      "ytId": "x6RIkLMz3BQ",
+      "eventId": "e1342",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] BABYMONSTER WORLD TOUR [춤 (CHOOM)] IN KUALA LUMPUR Full Concert (261114)",
+      "channel": "pety's corner",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18349",
+      "ytId": "KDEOpDjmjN4",
+      "eventId": "e1342",
+      "songs": [
+        {
+          "songId": "g8s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] BABYMONSTER - SUGAR HONEY ICE TEA (ENCORE) | BM 2026 TOUR [CHOOM] KUALA LUMPUR CONCERT (261114)",
+      "channel": "pety's corner",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18350",
+      "ytId": "KNs_9RzTk5A",
+      "eventId": "e1342",
+      "songs": [
+        {
+          "songId": "g8s29",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K HDR] Ratata - RUKA SOLO | BABYMONSTER WORLD TOUR [CHOOM] IN KUALA LUMPUR - 20261114 (FANCAM)",
+      "channel": "Mintt",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18351",
+      "ytId": "pqEKNP-hdF0",
+      "eventId": "e1342",
+      "songs": [
+        {
+          "songId": "g8s24",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K HDR] Super Bass - PHARITA SOLO | BABYMONSTER WORLD TOUR [춤CHOOM] IN KL - 20261114 (FANCAM)",
+      "channel": "Mintt",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18352",
+      "ytId": "TOgyt-t6opM",
+      "eventId": "e1342",
+      "songs": [
+        {
+          "songId": "g8s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m7"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K HDR] Worth It - CHIQUITA SOLO | BABYMONSTER WORLD TOUR [춤CHOOM] IN KL - 20261114 (FANCAM)",
+      "channel": "Mintt",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18353",
+      "ytId": "pW1yrGSz8c4",
+      "eventId": "e1342",
+      "songs": [
+        {
+          "songId": "g8s26",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g8m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K] BABYMONSTER Rora - Havana | BM 2026–27 WORLD TOUR [CHOOM] IN KUALA LUMPUR CONCERT (261114)",
+      "channel": "pety's corner",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18354",
+      "ytId": "htXgZ7v1PYc",
+      "eventId": "e1343",
+      "songs": [
+        {
+          "songId": "g11s17",
+          "t": 0
+        },
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261114 LE SSERAFIM - 'BOOMPALA + ANTIFRAGILE + Irony'  LE SSERAFIM TOUR 'PUREFLOW' IN Taipei",
+      "channel": "hyun",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18355",
+      "ytId": "tVzFbxTKaDI",
+      "eventId": "e1344",
+      "songs": [
+        {
+          "songId": "g1s14",
+          "t": 0
+        },
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[#MMA2026] IVE - DEAR. CUPID + BANGBANG + Looks Can Kill (4K) | #IVE #아이브 #20261115",
+      "channel": "멜론 Melon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18356",
+      "ytId": "q8EfqAZpjkE",
+      "eventId": "e1344",
+      "songs": [
+        {
+          "songId": "g1s14",
+          "t": 0
+        },
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "아이브 #IVE @261115 MMA ♬ Dear. Cupid ♬ BANG BANG ♬ Looks Can Kill",
+      "channel": "K-POP 날것이 좋아",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18357",
+      "ytId": "aw8YtrH7xD4",
+      "eventId": "e1344",
+      "songs": [
+        {
+          "songId": "g1s14",
+          "t": 0
+        },
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261115 2026 MMA 아이브 IVE - DEAR. CUPID + BANG BANG + Looks Can Kill",
+      "channel": "WBHCAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18358",
+      "ytId": "qMQ426Dg5cM",
+      "eventId": "e1344",
+      "songs": [
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261115 아이브 리즈 (IVE LIZ) - 'Looks Can Kill' 직캠 (IVE LIZ FOCUS Fancam) | 2026 MMA",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18359",
+      "ytId": "HvRIvF8yEgc",
+      "eventId": "e1344",
+      "songs": [
+        {
+          "songId": "g1s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261115 아이브 이서 (IVE LEESEO) - Dear. Cupid + BANG BANG + LCK (IVE LEESEO Fancam) | [MMA Day2]",
+      "channel": "이랑이",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18360",
+      "ytId": "xw1QzvlbY5c",
+      "eventId": "e1344",
+      "songs": [
+        {
+          "songId": "g1s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261115 아이브 리즈 (IVE LIZ) - 'BANG BANG' 직캠 (IVE LIZ FOCUS Fancam) | 2026 MMA",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18361",
+      "ytId": "AlkpvkYhClY",
+      "eventId": "e1344",
+      "songs": [
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 261115 아이브(IVE) - 'Looks Can Kill’ 장원영 직캠 | 2026 MMA",
+      "channel": "무슨 말이 필요해",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18362",
+      "ytId": "5PIKKfsM7gY",
+      "eventId": "e1344",
+      "songs": [
+        {
+          "songId": "g1s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261115 아이브 장원영 IVE WONYOUNG - BANG BANG 직캠｜2026 MMA",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18363",
+      "ytId": "0VsIvwCrZR4",
+      "eventId": "e1344",
+      "songs": [
+        {
+          "songId": "g1s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261115 아이브 안유진 직캠 🎵Dear CUPID + BANGBANG | 2026 MMA | Solo Fancam 4K 60P (IVE ANYUJIN)",
+      "channel": "connect",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18364",
+      "ytId": "x_z_XWbdceE",
+      "eventId": "e1344",
+      "songs": [
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261115 아이브 안유진 IVE YUJIN - Looks Can Kill 직캠｜2026 MMA",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18365",
+      "ytId": "f_SxnRVbc0E",
+      "eventId": "e1344",
+      "songs": [
+        {
+          "songId": "g1s14",
+          "t": 0
+        },
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "아이브 이서 멜론뮤직어워드 \" DEAR.CUPID + BANGBANG + Looks Can Kill\" IVE LEESEO MMA 261115",
+      "channel": "MrDive_막냉이서",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18366",
+      "ytId": "ZmBkV2Rr1Gk",
+      "eventId": "e1344",
+      "songs": [
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "261115 아이브 안유진 세로직캠 🎧Looks Can kill | 2026 MMA | Vertical Fancam 4K 60P (IVE ANYUJIN)",
+      "channel": "connect",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18367",
+      "ytId": "Gfc2cDQ7Y1w",
+      "eventId": "e1344",
+      "songs": [
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261115 아이브 이서 Looks Can Kill 직캠 멜론뮤직어워드 MMA2026 (IVE LEESEO FANCAM) #lookscankill #mma2026",
+      "channel": "GSJE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-15"
+    },
+    {
+      "id": "v18368",
+      "ytId": "sZVqg7w3EVQ",
+      "eventId": "e1344",
+      "songs": [
+        {
+          "songId": "g1s14",
+          "t": 0
+        },
+        {
+          "songId": "g1s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261115 아이브 장원영 MMA 직캠 BANG BANG + Looks Can Kill 4K60p IVE WONYOUNG fancam",
+      "channel": "걸그룹갤러리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18369",
+      "ytId": "pibYc9R9fr4",
+      "eventId": "e1344",
+      "songs": [
+        {
+          "songId": "g1s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 261115 아이브(IVE) - 'BANG BANG’ 장원영 직캠 | 2026 MMA",
+      "channel": "무슨 말이 필요해",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18370",
+      "ytId": "zVNnKXbXP0Y",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s36",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261115 tripleS (트리플에스) - Love2Love - NYC - ANDLESS Tour @ Kings Theatre, Brooklyn [4K]",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18371",
+      "ytId": "eYfaBCnr8s4",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261115 tripleS LOVElution (트리플에스) - Girls' Capitalism - NYC @ Kings Theatre, Brooklyn [4K]",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18372",
+      "ytId": "S8tC9ffiiUw",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s28",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261115 tripleS (트리플에스) - Are You Alive - NYC - ANDLESS Tour @ Kings Theatre, Brooklyn [4K]",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18373",
+      "ytId": "aThfx4F5IWA",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s66",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261115 tripleS (트리플에스) - Lit Pop - NYC - ANDLESS Tour @ Kings Theatre, Brooklyn [4K]",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18374",
+      "ytId": "70l2o5RB1cc",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g6m8"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "261116 tripleS Yubin Replay fancam in New York 트리플에스 공유빈 [4K]",
+      "channel": "TheCrazyMonsta",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18375",
+      "ytId": "oI0oCz7g_I4",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s53",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261115 tripleS (트리플에스) - Me Myself Mode (Encore) - NYC - ANDLESS @ Kings Theatre, Brooklyn [4K]",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18376",
+      "ytId": "C_WIIeB4yac",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s26",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261115 tripleS (트리플에스) - Bionic Power - NYC - ANDLESS Tour @ Kings Theatre, Brooklyn [4K]",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18377",
+      "ytId": "YTzuzMjq74M",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s46",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261115 tripleS (트리플에스) - Christmas Alone (Encore) - NYC - ANDLESS @ Kings Theatre, Brooklyn [4K]",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18378",
+      "ytId": "qiRyWKWF5YU",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261115 tripleS (트리플에스) - 24 (Fan Vote Encore) - NYC - ANDLESS Tour @ Kings Theatre, Brooklyn [4K]",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18379",
+      "ytId": "24yPEFVzQpk",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261115 tripleS (트리플에스) - Andless - NYC - ANDLESS Tour @ Kings Theatre, Brooklyn [4K]",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18380",
+      "ytId": "oSTVRJgr1vk",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261115 tripleS (트리플에스) - Girls Never Die - NYC - ANDLESS Tour @ Kings Theatre, Brooklyn [4K]",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18381",
+      "ytId": "JpkwEzDz820",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261115 tripleS (트리플에스) - Rising - NYC - ANDLESS Tour @ Kings Theatre, Brooklyn [4K]",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18382",
+      "ytId": "qJFxiUOyIxU",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s29",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261115 tripleS (트리플에스) - Detective Soseol - NYC - ANDLESS Tour @ Kings Theatre, Brooklyn [4K]",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18383",
+      "ytId": "p1unG26zsjk",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261115 tripleS (트리플에스) - Baby Flower - NYC - ANDLESS Tour @ Kings Theatre, Brooklyn [4K]",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18384",
+      "ytId": "WZdXwr3a8YY",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s34",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261115 tripleS (트리플에스) - Diablo - NYC - ANDLESS Tour @ Kings Theatre, Brooklyn [4K]",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18385",
+      "ytId": "lkNA3Kqo8J4",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s48",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "20261115 tripleS (트리플에스) - Sad Girls Schemin' - NYC - ANDLESS Tour @ Kings Theatre, Brooklyn [4K]",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18386",
+      "ytId": "aDj26kE2C5U",
+      "eventId": "e1345",
+      "songs": [
+        {
+          "songId": "g6s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "20261115 tripleS (트리플에스) MENT - All 24 Members Say Hi to New York (and Want Bagels)",
+      "channel": "SeouledOnK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18387",
+      "ytId": "sJFhS5JFKjY",
+      "eventId": "e1346",
+      "songs": [
+        {
+          "songId": "g11s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "261115 LE SSERAFIM - Blue Flame + EASY [2026 LE SSERAFIM TOUR ‘PUREFLOW’ IN TAIPEI]",
+      "channel": "ashley chou",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18388",
+      "ytId": "UJkD3VribqY",
+      "eventId": "e1346",
+      "songs": [
+        {
+          "songId": "g11s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 261115 르세라핌 카즈하 직캠 'SMART' (LE SSERAFIM KAZUHA FanCam) @PUREFLOW Tour in Taipei Encore",
+      "channel": "ChaeCam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18389",
+      "ytId": "muq2lK1g_0w",
+      "eventId": "e1346",
+      "songs": [
+        {
+          "songId": "g11s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261115  Le sserafim 르세라핌 Tour 《Pureflow》 in Taipei-\"Crazy\" Sakura 사쿠라 fancam 직캠",
+      "channel": "YT L",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18390",
+      "ytId": "FRNv4J57UEI",
+      "eventId": "e1346",
+      "songs": [
+        {
+          "songId": "g11s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261115  Le sserafim 르세라핌 Tour 《Pureflow》 in Taipei-\"Antifragile\" Sakura 사쿠라 fancam 직캠",
+      "channel": "YT L",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
+    },
+    {
+      "id": "v18391",
+      "ytId": "0bBnzbmiM3I",
+      "eventId": "e1346",
+      "songs": [
+        {
+          "songId": "g11s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g11m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "261115  Le sserafim 르세라핌 Tour 《Pureflow》 in Taipei-\"BOOMPALA\" Sakura 사쿠라 fancam 직캠",
+      "channel": "YT L",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-16"
     }
   ],
   "clips": []
