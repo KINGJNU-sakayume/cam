@@ -128,3 +128,4 @@ node scripts/archive.mjs validate
 | g1 | 2025-03 | 0 | 무대 영상 없음 (open-questions §8) |
 | g1 | 2025-04 | 101 (IVE SCOUT 팬콘 04-05·06) | 보류: open-questions §8 |
 | g1 | 2025-05 | 58 (LIV Golf Korea Concert, 성균관대·고려대·연세대 축제, KTPOP 카오슝) | 보류: open-questions §8 |
+| g1 | 2025-06 | 4 (고려대 축제 5월분) | 6월 무대 영상 없음 (open-questions §8) |

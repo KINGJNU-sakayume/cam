@@ -350278,6 +350278,106 @@
       "pin": false,
       "gone": false,
       "uploaded": "2025-06-02"
+    },
+    {
+      "id": "v18286",
+      "ytId": "3HPkROgDG0c",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[4K 페이스캠] 아이브 레이 ‘ATTITUDE’ (IVE REI FACECAM) | 2025 고려대학교 석탑대동제 축제",
+      "channel": "고려대학교 교육방송국 KUBS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-22"
+    },
+    {
+      "id": "v18287",
+      "ytId": "21tITBVAcv0",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[4K 페이스캠] 아이브 가을 ‘After LIKE’ (IVE GAEUL FACECAM) | 2025 고려대학교 석탑대동제 축제",
+      "channel": "고려대학교 교육방송국 KUBS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-22"
+    },
+    {
+      "id": "v18288",
+      "ytId": "QryOI59-4bE",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[4K 페이스캠] 아이브 리즈 ‘I AM’ (IVE LIZ FACECAM) | 2025 고려대학교 석탑대동제 축제",
+      "channel": "고려대학교 교육방송국 KUBS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-22"
+    },
+    {
+      "id": "v18289",
+      "ytId": "NgXwuGgwDRU",
+      "eventId": "e1332",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[4K 페이스캠] 아이브 안유진 ‘LOVE DIVE’ (IVE YUJIN FACECAM) | 2025 고려대학교 석탑대동제 축제",
+      "channel": "고려대학교 교육방송국 KUBS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-22"
     }
   ],
   "clips": []
