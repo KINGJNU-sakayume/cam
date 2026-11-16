@@ -346594,6 +346594,304 @@
       "pin": false,
       "gone": false,
       "uploaded": "2024-04-04"
+    },
+    {
+      "id": "v18127",
+      "ytId": "qePNZ63rCnU",
+      "eventId": "e522",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250705  音楽中心 in JAPAN ATTITUDE IVE 'WONYOUNG' HDR10 4K",
+      "channel": "한겨울의베일",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18128",
+      "ytId": "_sFSjisVag4",
+      "eventId": "e522",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250705 IVE 아이브 (JANG WonYoung 장원영) - ATTITUDE  Show Music Core in Japan 4k60",
+      "channel": "보자BOJA",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18129",
+      "ytId": "qoeC1C3nqNE",
+      "eventId": "e669",
+      "songs": [
+        {
+          "songId": "g1s59",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250712 IVE 아이브 가을 GAEUL 직캠 - TKO Lollapalooza Berlin 4k60",
+      "channel": "sj-KPOP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18130",
+      "ytId": "Y7xBuo1rk2Y",
+      "eventId": "e669",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250712 IVE 아이브 안유진 AnYujin 직캠 - LOVE DIVE Lollapalooza Berlin 4k60",
+      "channel": "sj-KPOP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18131",
+      "ytId": "SW8hSbR1RyE",
+      "eventId": "e532",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250726 아이브 안유진 IVE YUJIN 'REBEL HEART' | 가요대전 SBS GayoDaejeon",
+      "channel": "Spotted",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18132",
+      "ytId": "MJuIxgyCtTc",
+      "eventId": "e532",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250726 SBS 가요대전 summer 컴백 신곡 'XOXZ' 선공개 IVE 아이브 LEESEO 이서 직캠",
+      "channel": "SILKY.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18133",
+      "ytId": "6vH5l4B3rMc",
+      "eventId": "e532",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250726 SBS 가요대전 SUMMER 'REBEL HEART(레블하트)' IVE JANGWONYOUNG 아이브 장원영 직캠",
+      "channel": "핑쿠",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18134",
+      "ytId": "tLLmzpj9cUw",
+      "eventId": "e532",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250726 아이브 리즈 (IVE) - 'REBEL HEART' 직캠 (IVE LIZ FOCUS Fancam) 2025 SBS 가요대전 Summer",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18135",
+      "ytId": "m019-L4XApA",
+      "eventId": "e532",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250726 SBS SUMMER 가요대전 IVE - ATTITUDE 유진 직캠",
+      "channel": "누가웃냐지금 Nuzzie",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18136",
+      "ytId": "ugwkEBgjggM",
+      "eventId": "e532",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250726 아이브 리즈 (IVE LIZ) - 'ATTITUDE' 직캠 (IVE LIZ FOCUS Fancam) 2025 SBS 가요대전 Summer",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-27"
+    },
+    {
+      "id": "v18137",
+      "ytId": "3m1QWl_NueQ",
+      "eventId": "e532",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60] 250726 INTRO + REBEL HEART + 신곡 스포일러 / 아이브 원영 직캠(WONYOUNG FOCUS) @SBS 가요대전 Summer",
+      "channel": "One&Only_IVE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18138",
+      "ytId": "TLkNKAvATkQ",
+      "eventId": "e522",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250705 IVE 아이브 (Leeseo 이서) - ATTITUDE  Show Music Core in Japan 4k60",
+      "channel": "보자BOJA",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-28"
+    },
+    {
+      "id": "v18139",
+      "ytId": "m1fj_dXwc8Y",
+      "eventId": "e669",
+      "songs": [
+        {
+          "songId": "g1s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250712 IVE 아이브 가을 GAEUL 직캠 - LOVE DIVE Lollapalooza Berlin 4k60",
+      "channel": "sj-KPOP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-19"
     }
   ],
   "clips": []

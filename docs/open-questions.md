@@ -353,3 +353,8 @@
 - 담음 4개: 고려대 축제(05-22) 직캠(검색에서 6월에 잡힌 5월 영상).
 - 뺀 것: 2025-01·12 날짜 추정 영상.
 - 6월 무대 영상은 더 없었어요(베리즈 라이브·광고·예능·오사카대 커버).
+
+### 아이브 2025-07
+- 담음 13개: 쇼! 음악중심 in Japan(07-05) 1, Lollapalooza Berlin 2025(07-12) 3, SBS 가요대전 SUMMER(07-26) 8, 이미 있는 공연에 추가. 도구가 07-26 영상을 'SBS 가요대전'과 'SBS 가요대전 SUMMER'로 갈라 읽어 'SBS 가요대전 SUMMER' 한 공연에 모았어요.
+- 뺀 것: 2025-01·12 날짜 추정, 여러 곡 묶음(Rebel Heart + XOXZ 안유진, 쿠팡플레이 Love Dive + Rebel Heart + I Am 가을).
+- 보류: 07-20 Lollapalooza Paris(After Like·I Am, 멤버 없음), 07-26 Attitude 직캠(멤버 불명, jxZqUomuC_4·4xzx_gGpYT0), 07-25 음악중심 in Japan, 07-31 MCD SUMMER AWARDS 방송, 베리즈·버블 라이브, 07-30 쿠팡플레이 시리즈 하프타임 영상.
