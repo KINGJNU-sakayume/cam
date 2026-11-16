@@ -22594,6 +22594,17 @@
         "g11s7"
       ],
       "note": ""
+    },
+    {
+      "id": "e1512",
+      "groupId": "g2",
+      "date": "2024-04-13",
+      "show": "Golden Wave in Taiwan",
+      "label": "",
+      "setlist": [
+        "g2s9"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -404316,6 +404327,27 @@
       "pin": false,
       "gone": false,
       "uploaded": "2026-11-10"
+    },
+    {
+      "id": "v20485",
+      "ytId": "9rh6bHQWzvk",
+      "eventId": "e1512",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240413 NMIXX BAE 'DASH' Fancam (Half song) 엔믹스 배이 직캠 | Golden Wave in Taiwan",
+      "channel": "YN",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []
