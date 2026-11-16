@@ -133,3 +133,4 @@ node scripts/archive.mjs validate
 | g1 | 2025-08 | 19 (KCON LA, KWDA 2025, XOXZ 활동 방송) | 보류: open-questions §8 |
 | g1 | 2025-09 | 14 (XOXZ 활동 방송·팬미팅 09-07) | 보류: open-questions §8 |
 | g1 | 2025-10 | 86 (SHOW WHAT I AM 서울 첫콘 10-31) | 보류: 미등록 곡 약 25 (open-questions §8) |
+| g1 | 2025-11 | 165 (SHOW WHAT I AM 서울 11-01·02, KGMA, MAMA) | 보류: 미등록 곡·묶음 (open-questions §8) |

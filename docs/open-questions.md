@@ -373,3 +373,8 @@
 - 담음 86개: IVE WORLD TOUR SHOW WHAT I AM 서울 첫콘(10-31) 직캠(멤버 1명 + 등록 곡). 이미 있는 공연(e621)에 추가했어요.
 - 뺀 것: 2025-01·12 날짜 추정 영상, 한 영상에 여러 곡이 붙은 영상(Love Dive + Rebel Heart + Kitsch, XOXZ + Baddie + … 등 3개).
 - 보류: 첫콘 풀·묶음 영상(er30cUANlR8, HkRiBqQGx3w), 미등록 곡(Ice Queen, You Wanna Cry, My Satisfaction, Supernova Love, Eight, Wild Bird 등) 직캠 약 25개 — 곡 등록 결정 후 담을 수 있어요. 뮤직뱅크 인 리스본 방송(10-10)·인기가요 앵콜(10-19)·틱톡 어워즈 수상소감은 멤버 직캠이 아니라 담지 않았어요.
+
+### 아이브 2025-11
+- 담음 165개: SHOW WHAT I AM 서울 중콘(11-01) 75, 막콘(11-02) 74, 2025 KGMA(11-15) 15, MAMA AWARDS(11-28) 1 (모두 이미 있는 공연에 추가, 멤버 1명 + 등록 곡).
+- 뺀 것: 2025-01·12 날짜 추정 영상, 한 영상에 여러 곡이 붙은 영상(TKO + HolyMoly, XOXZ + Baddie, WOW + Off the Record 등 3개).
+- 보류: 서울 콘서트 중콘·막콘의 미등록 곡 직캠(Ice Queen, You Wanna Cry, My Satisfaction, Supernova Love, Eight, Wild Bird 등), 풀·묶음 영상(AkkwW6Ef820 등), KGMA·MAMA(XOXZ + Rebel Heart) 묶음 직캠, 인하대 정기공연(2DbBAreh9Jc, 학교 행사 이름 불분명), 스틸하트클럽 방송, 베리즈 라이브.
