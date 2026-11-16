@@ -12047,7 +12047,9 @@
       ],
       "note": "",
       "aliases": [
-        "250821"
+        "250821",
+        "KWDA 2025 K-WORLD DREAM AWARDS",
+        "2025KWDA"
       ]
     },
     {
@@ -346892,6 +346894,438 @@
       "pin": false,
       "gone": false,
       "uploaded": "2025-11-19"
+    },
+    {
+      "id": "v18140",
+      "ytId": "EcGfUIw_9So",
+      "eventId": "e537",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]250801 REBEL HEART KCON LA  IVE 안유진 직캠",
+      "channel": "Jjang_GU",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18141",
+      "ytId": "5S8sv-x0NXs",
+      "eventId": "e688",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "안유진 직캠 IVE YUJIN REBEL HEART FANCAM  | 250821 KWDA",
+      "channel": "RARP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-23"
+    },
+    {
+      "id": "v18142",
+      "ytId": "GcYK5UbQfHo",
+      "eventId": "e688",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250821 KWDA 아이브 (IVE) 안유진 ATTITUDE 직캠",
+      "channel": "Carry",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-22"
+    },
+    {
+      "id": "v18143",
+      "ytId": "-9tJxtHjQkM",
+      "eventId": "e688",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250821 아이브 장원영 직캠 \"ATTITUDE\" (IVE JANG WONYOUUNG FANCAM) @ KWDA 2025 K-WORLD DREAM AWARDS",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-23"
+    },
+    {
+      "id": "v18144",
+      "ytId": "1zjNvgkxP2w",
+      "eventId": "e688",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[직캠4K] 250821 아이브 리즈 'REBEL HEART' (IVE LIZ FanCam) @2025KWDA",
+      "channel": "m0tri3t",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-22"
+    },
+    {
+      "id": "v18145",
+      "ytId": "ub3UNj-ga2I",
+      "eventId": "e688",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] ATTITUDE  - IVE JANG WONYOUNG FOCUS | [K-World Dream Awards - 250821]",
+      "channel": "KISSTILLUDROP",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18146",
+      "ytId": "NFgFu1mxRhI",
+      "eventId": "e688",
+      "songs": [
+        {
+          "songId": "g1s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "2025 K-World Dream Awards 250821 아이브 안유진 IVE YUJIN ATTITUDE 세로 직캠 Vertical Fancam",
+      "channel": "Idol Archiver",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18147",
+      "ytId": "8nAOqtEjhPw",
+      "eventId": "e688",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250821 아이브 이서 직캠 \"REBEL HEART\" (IVE LEESEO FANCAM) @ KWDA 2025 K-WORLD DREAM AWARDS",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-23"
+    },
+    {
+      "id": "v18148",
+      "ytId": "YLopakDBed4",
+      "eventId": "e688",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250821 KWDA 아이브 (IVE) 안유진 REBEL HEART 직캠",
+      "channel": "Carry",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-22"
+    },
+    {
+      "id": "v18149",
+      "ytId": "q3vOdxiWwQg",
+      "eventId": "e688",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 250821 IVE WONYOUNG 아이브 장원영 – REBEL HEART 직캠 @2025 K-WORLD DREAM AWARDS",
+      "channel": "im_chirey",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v18150",
+      "ytId": "eRdLwSfGwFE",
+      "eventId": "e554",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 아이브 레이 직캠 4K 'XOXZ' (IVE REI FanCam) | @MCOUNTDOWN_2025.8.28",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-28"
+    },
+    {
+      "id": "v18151",
+      "ytId": "FGqnzCykx4Y",
+      "eventId": "e554",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 아이브 가을 직캠 4K 'XOXZ' (IVE GAEUL FanCam) | @MCOUNTDOWN_2025.8.28",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-28"
+    },
+    {
+      "id": "v18152",
+      "ytId": "y1PNHdsbbxI",
+      "eventId": "e554",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[MPD직캠] 아이브 안유진 직캠 4K 'XOXZ' (IVE ANYUJIN FanCam) | @MCOUNTDOWN_2025.8.28",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-28"
+    },
+    {
+      "id": "v18153",
+      "ytId": "i7TkDhVZbGI",
+      "eventId": "e554",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m5"
+      ],
+      "source": "official",
+      "tags": [
+        "4K"
+      ],
+      "title": "[입덕직캠] 아이브 리즈 직캠 4K 'XOXZ' (IVE LIZ FanCam) | @MCOUNTDOWN_2025.8.28",
+      "channel": "M2",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-30"
+    },
+    {
+      "id": "v18154",
+      "ytId": "BtFMcmYRfWs",
+      "eventId": "e557",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] IVE GAEUL (아이브 가을) – XOXZ FanCam | 쇼! 음악중심 | MBC250830",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-30"
+    },
+    {
+      "id": "v18155",
+      "ytId": "1bnNKE4V0DQ",
+      "eventId": "e557",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#최애직캠] IVE AN YUJIN (아이브 안유진) – XOXZ | 쇼! 음악중심 | MBC250830",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-01"
+    },
+    {
+      "id": "v18156",
+      "ytId": "fHD-cVFBow4",
+      "eventId": "e557",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] IVE REI (아이브 레이) – XOXZ FanCam | 쇼! 음악중심 | MBC250830",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-30"
+    },
+    {
+      "id": "v18157",
+      "ytId": "x_iocHJWJGw",
+      "eventId": "e557",
+      "songs": [
+        {
+          "songId": "g1s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] IVE LEESEO (아이브 이서) – XOXZ FanCam | 쇼! 음악중심 | MBC250830",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-30"
+    },
+    {
+      "id": "v18158",
+      "ytId": "Nh1Y36o21j0",
+      "eventId": "e688",
+      "songs": [
+        {
+          "songId": "g1s11",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g1m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250821 아이브(IVE) 장원영(WONYOUNG)🎧REBEL HEART",
+      "channel": "Wanttocomeback",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-10"
     }
   ],
   "clips": []

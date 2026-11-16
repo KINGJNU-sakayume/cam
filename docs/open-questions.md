@@ -358,3 +358,8 @@
 - 담음 13개: 쇼! 음악중심 in Japan(07-05) 1, Lollapalooza Berlin 2025(07-12) 3, SBS 가요대전 SUMMER(07-26) 8, 이미 있는 공연에 추가. 도구가 07-26 영상을 'SBS 가요대전'과 'SBS 가요대전 SUMMER'로 갈라 읽어 'SBS 가요대전 SUMMER' 한 공연에 모았어요.
 - 뺀 것: 2025-01·12 날짜 추정, 여러 곡 묶음(Rebel Heart + XOXZ 안유진, 쿠팡플레이 Love Dive + Rebel Heart + I Am 가을).
 - 보류: 07-20 Lollapalooza Paris(After Like·I Am, 멤버 없음), 07-26 Attitude 직캠(멤버 불명, jxZqUomuC_4·4xzx_gGpYT0), 07-25 음악중심 in Japan, 07-31 MCD SUMMER AWARDS 방송, 베리즈·버블 라이브, 07-30 쿠팡플레이 시리즈 하프타임 영상.
+
+### 아이브 2025-08
+- 담음 19개: KCON LA 2025(08-01) 1, K-WORLD DREAM AWARDS 2025(08-21) 10, 엠카운트다운(08-28) 4, 쇼! 음악중심(08-30) 4 (이미 있는 공연에 추가). 신곡 XOXZ 활동 직캠이 포함돼요.
+- 뺀 것: 2025-01·12, 2026-02 날짜 추정 영상.
+- 보류: KCON LA(08-01·02) 직캠 묶음('Rebel Heart, I Am, TKO, Attitude')·멤버 없는 직캠·라이브 영상, 08-21 KWDA 'Rebel Heart + Attitude' 묶음, 크레이지 리치 코리안(예능) 롤라팔루자 영상, 뮤직뱅크·인기가요(08-29·31)의 XOXZ 공식 영상(멤버 직캠 없음).
