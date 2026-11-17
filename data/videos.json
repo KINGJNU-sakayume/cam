@@ -2509,12 +2509,16 @@
           "title": "Because of you",
           "aliases": [],
           "order": 83,
-          "release": ""
+          "release": "",
+          "kind": "cover"
         },
         {
           "id": "g5s84",
-          "title": "Life",
-          "aliases": [],
+          "title": "Life's Too Short",
+          "aliases": [
+            "Lifes Too Short",
+            "라이프스 투 숏"
+          ],
           "order": 84,
           "release": ""
         },
@@ -2523,14 +2527,16 @@
           "title": "SYNK : PARALLEL LINE",
           "aliases": [],
           "order": 85,
-          "release": ""
+          "release": "",
+          "kind": "other"
         },
         {
           "id": "g5s86",
           "title": "Opening VCR",
           "aliases": [],
           "order": 86,
-          "release": ""
+          "release": "",
+          "kind": "other"
         }
       ]
     },
