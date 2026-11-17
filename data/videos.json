@@ -24934,6 +24934,20 @@
         "g2s2"
       ],
       "note": ""
+    },
+    {
+      "id": "e1636",
+      "groupId": "g2",
+      "date": "2024-11-09",
+      "show": "인천 스카이 페스티벌",
+      "label": "",
+      "setlist": [
+        "g2s10",
+        "g2s5",
+        "g2s9",
+        "g2s42"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -467457,6 +467471,317 @@
       "source": null,
       "tags": [],
       "title": "241019 NMIXX KYUJIN 엔믹스 규진 K-WONDER - \"DICE\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23099",
+      "ytId": "XncuKiUMUnQ",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241109 NMIXX KYUJIN 엔믹스 규진 스카이페스티벌 - \"별별별 (See that?)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23100",
+      "ytId": "sceCFu-L2u0",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 'Love Me Like This' (NMIXX SULLYOON)｜스카이페스티벌 241109",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-09"
+    },
+    {
+      "id": "v23101",
+      "ytId": "vOIK7RXkKWg",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K CAM] 241109 엔믹스 설윤 NMIXX SULLYOON SKY Festival 'Love Me Like This' 직캠",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23102",
+      "ytId": "wb1esU9l6SI",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241109 NMIXX KYUJIN 엔믹스 규진 스카이페스티벌 - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-14"
+    },
+    {
+      "id": "v23103",
+      "ytId": "bGT4_-Cm4yk",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241109 | NMIXX(엔믹스) 릴리 직캠 | 'Love Is Lonely' | @스카이 페스티벌",
+      "channel": "liling",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-13"
+    },
+    {
+      "id": "v23104",
+      "ytId": "zwBPLuGlFxM",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 'DASH' (NMIXX SULLYOON)｜스카이페스티벌 241109",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23105",
+      "ytId": "NuoS3T3Cj7A",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241109 NMIXX KYUJIN 엔믹스 규진 스카이페스티벌 - \"Love Is Lonely\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23106",
+      "ytId": "WB5JGr_HzHo",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K CAM] 241109 엔믹스 설윤 NMIXX SULLYOON SKY Festival 'DASH' 직캠",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23107",
+      "ytId": "grjJ22J8jxU",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K CAM] 241109 엔믹스 설윤 NMIXX SULLYOON SKY Festival 별별별 (See that?) 직캠",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23108",
+      "ytId": "UVxioRFZrc0",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 '별별별 (See that?)' (NMIXX SULLYOON)｜스카이페스티벌 241109",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23109",
+      "ytId": "w3_-8xPcxI4",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K직캠] 241109 엔믹스(NMIXX) - 별별별 (See that?) [해원cam] @스카이 페스티벌",
+      "channel": "노브스튜디오(Nob)",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23110",
+      "ytId": "6RX1uJi-8Zk",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241109 | Love Me Like This | 엔믹스 해원 직캠 (Fan Cam) @Sky Festival",
+      "channel": "𝙀𝙛𝙛𝙡𝙤𝙧𝙚𝙨𝙘𝙚𝙣𝙘𝙚",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23111",
+      "ytId": "RB0drK5jvk0",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "[세로]241109 엔믹스(NMIXX) - 별별별 (See that?)(설윤 FOCUS)",
+      "channel": "Jinny",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23112",
+      "ytId": "NU5-6n9SslE",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241109 NMIXX KYUJIN 엔믹스 규진 스카이페스티벌 - \"Love Me Like This\" 직캠(FanCam)",
       "channel": "STAR💫",
       "pin": false,
       "gone": false

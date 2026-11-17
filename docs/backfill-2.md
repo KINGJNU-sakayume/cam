@@ -149,3 +149,4 @@ node scripts/archive.mjs validate
 | g2 | 2024-08 | 41 (울산 서머페스티벌 음악중심 08-12, 인기가요 08-25, 여수 쇼챔피언 08-28, 뮤직뱅크 08-23, 별별별·Love Is Lonely 활동) | 보류: open-questions §8 |
 | g2 | 2024-09 | 25 (인기가요 09-01·08, 쇼챔피언 09-04·11, KBS 열린음악회 09-10, 음악중심 09-14, 서울드라마어워즈 09-25) | 보류: open-questions §8 |
 | g2 | 2024-10 | 64 (NMIXX CHANGE UP : MIXX LAB 팬콘 10-04·05·06, 뮤직뱅크 in 마드리드 10-12, K-WONDER CONCERT IN TAOYUAN 10-19) | 보류: open-questions §8 |
+| g2 | 2024-11 | 14 (인천 스카이 페스티벌 11-09) | 보류: open-questions §8 |
