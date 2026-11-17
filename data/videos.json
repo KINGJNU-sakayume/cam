@@ -11689,7 +11689,10 @@
       "setlist": [
         "g5s21"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "2025MAMA Fan Cam"
+      ]
     },
     {
       "id": "e639",
@@ -13014,7 +13017,12 @@
         "g5s58",
         "g5s56"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "SYNK : aeXIS LINE - in BANGKOK",
+        "Impact Arena",
+        "TOUR 'SYNK; aeXIS LINE' IN BANGKOK"
+      ]
     },
     {
       "id": "e730",
@@ -13029,7 +13037,10 @@
         "g5s30",
         "g5s14"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "Impact Arena"
+      ]
     },
     {
       "id": "e731",
@@ -197844,7 +197855,8 @@
       "channel": "GirlGroupthailand",
       "pin": false,
       "gone": false,
-      "uploaded": "2025-11-18"
+      "uploaded": "2025-11-18",
+      "thumbPos": "57% 35%"
     },
     {
       "id": "v11427",
@@ -455036,7 +455048,8 @@
       "channel": "Choyoun",
       "pin": false,
       "gone": false,
-      "uploaded": "2025-08-30"
+      "uploaded": "2025-08-30",
+      "thumbPos": "43% 35%"
     },
     {
       "id": "v22573",
@@ -459855,6 +459868,2652 @@
       "gone": false,
       "uploaded": "2026-10-11",
       "thumbPos": "62% 35%"
+    },
+    {
+      "id": "v22775",
+      "ytId": "Kn2mP-gkWwQ",
+      "eventId": "e1585",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] aespa Whiplash, SMTOWN LIVE 2025 in Seoul Day 1",
+      "channel": "Ba_secret",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-12",
+      "thumbPos": "50% 48%"
+    },
+    {
+      "id": "v22776",
+      "ytId": "gRYBMr8-SBY",
+      "eventId": "e697",
+      "songs": [
+        {
+          "songId": "g5s26",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] aespa 에스파 - To The Girlsㅣ2025 SYNK : aeXIS LINE – in SEOUL DAY 3",
+      "channel": "UHDKConcerts",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-08",
+      "thumbPos": "50% 46%"
+    },
+    {
+      "id": "v22777",
+      "ytId": "z9dun06r7LE",
+      "eventId": "e697",
+      "songs": [
+        {
+          "songId": "g5s60",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] aespa 에스파 - Lucid Dreamㅣ2025 SYNK : aeXIS LINE – in SEOUL DAY 3",
+      "channel": "UHDKConcerts",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-09-15",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v22778",
+      "ytId": "zpMLEx2bEI0",
+      "eventId": "e726",
+      "songs": [
+        {
+          "songId": "g5s58",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251113 WINTER Amazon Music Live 'Better Things' #WINTER #윈터 #aespa #에스파",
+      "channel": "Heavenly Heaven",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-16"
+    },
+    {
+      "id": "v22779",
+      "ytId": "2ljquBHEtRs",
+      "eventId": "e726",
+      "songs": [
+        {
+          "songId": "g5s58",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251113 Aespa 에스파 Winter 윈터 - Better Things | Amazon Music Live",
+      "channel": "TylerWin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-14"
+    },
+    {
+      "id": "v22780",
+      "ytId": "QB-v2wocxxM",
+      "eventId": "e726",
+      "songs": [
+        {
+          "songId": "g5s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251113 WINTER Amazon Music Live 'Angel #48' #WINTER #윈터 #aespa #에스파",
+      "channel": "Heavenly Heaven",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-16"
+    },
+    {
+      "id": "v22781",
+      "ytId": "NDCud7FJApo",
+      "eventId": "e726",
+      "songs": [
+        {
+          "songId": "g5s67",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251113 Aespa 에스파 Karina 카리나 - Hold on Tight | Amazon Music Live",
+      "channel": "TylerWin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-14"
+    },
+    {
+      "id": "v22782",
+      "ytId": "h__WqapH8Dc",
+      "eventId": "e726",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "251113 aespa ‘Rich Man’ Fancam (에스파 직캠) @ Amazon Music Live",
+      "channel": "Z2ZZ22Z",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-14",
+      "thumbPos": "50% 56%"
+    },
+    {
+      "id": "v22783",
+      "ytId": "C061Re28CQg",
+      "eventId": "e726",
+      "songs": [
+        {
+          "songId": "g5s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20251113 aespa WINTER Fancam in LA | 에스파 윈터 직캠 | 金冬天 Dirty Work 直拍",
+      "channel": "含及",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-19"
+    },
+    {
+      "id": "v22784",
+      "ytId": "L21oIA71gFM",
+      "eventId": "e726",
+      "songs": [
+        {
+          "songId": "g5s58",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20251113 aespa WINTER Fancam in LA | 에스파 윈터 직캠 | 金冬天 Better Things 直拍",
+      "channel": "含及",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-21"
+    },
+    {
+      "id": "v22785",
+      "ytId": "O9ZkcZm9XzE",
+      "eventId": "e726",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20251113 aespa WINTER Whiplash Fancam in LA | 에스파 윈터 직캠 | 金冬天 直拍",
+      "channel": "含及",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-17",
+      "thumbPos": "61% 35%"
+    },
+    {
+      "id": "v22786",
+      "ytId": "D-v1guiPOpA",
+      "eventId": "e726",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20251113 aespa WINTER Richman Fancam in LA | 에스파 윈터 직캠 | 金冬天 直拍",
+      "channel": "含及",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-14",
+      "thumbPos": "58% 35%"
+    },
+    {
+      "id": "v22787",
+      "ytId": "C3HvqtRhZRk",
+      "eventId": "e726",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20251113 aespa WINTER Fancam in LA | 에스파 윈터 직캠 | 金冬天 Armageddon 直拍",
+      "channel": "含及",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-20"
+    },
+    {
+      "id": "v22788",
+      "ytId": "W1UuiHoeYH0",
+      "eventId": "e726",
+      "songs": [
+        {
+          "songId": "g5s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20251113 aespa WINTER Fancam in LA | 에스파 윈터 직캠 | 金冬天 Angel #48 直拍",
+      "channel": "含及",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-24",
+      "thumbPos": "44% 35%"
+    },
+    {
+      "id": "v22789",
+      "ytId": "AfOhcbF2tYM",
+      "eventId": "e726",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20251113 aespa WINTER Supernova Fancam in LA | 에스파 윈터 직캠 | 金冬天 直拍",
+      "channel": "含及",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-27"
+    },
+    {
+      "id": "v22790",
+      "ytId": "JycAswIp1Xg",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251115 4k Fancam aespa 에스파 Karina 카리나 ‘Angel #48' at SYNK aeXIS LINE BANGKOK",
+      "channel": "jlelelr",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-16"
+    },
+    {
+      "id": "v22791",
+      "ytId": "lNBF4prvd5U",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K][FANCAM] 251115 aespa WINTER - RICH MAN @ SYNK : aeXIS LINE - in BANGKOK",
+      "channel": "Wyvern_801",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-17"
+    },
+    {
+      "id": "v22792",
+      "ytId": "tcIfl2aaLl4",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 'Dark Arts' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-26"
+    },
+    {
+      "id": "v22793",
+      "ytId": "mCgvjOwJ-zE",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s58",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 'Better Things' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-23",
+      "thumbPos": "37% 35%"
+    },
+    {
+      "id": "v22794",
+      "ytId": "JL7N1-iEPwM",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 'Angel #48' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-19"
+    },
+    {
+      "id": "v22795",
+      "ytId": "N_mdjJcPg2A",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s58",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 'Better Things' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-18",
+      "thumbPos": "42% 35%"
+    },
+    {
+      "id": "v22796",
+      "ytId": "YyDDSh90Aek",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "Winter 윈터 : Rich man : aespa SYNK : aeXIS LINE in BANGKOK @Impact Arena [15.11.2025] [4K 60FPS]",
+      "channel": "YIBKLONG 📱",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-18"
+    },
+    {
+      "id": "v22797",
+      "ytId": "R6M5l3vg8IE",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 'Dark Arts' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-07"
+    },
+    {
+      "id": "v22798",
+      "ytId": "E6CnhjmjaAE",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 카리나 직캠 \"ARMAGEDDON\" (AESPA KARINA FANCAM) @ TOUR 'SYNK; aeXIS LINE' IN BANGKOK",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-18"
+    },
+    {
+      "id": "v22799",
+      "ytId": "FcL0jnHDurY",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s29",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K][FANCAM] 251115 aespa GISELLE - TORNADO  @ SYNK : aeXIS LINE - in BANGKOK",
+      "channel": "Wyvern_801",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-17"
+    },
+    {
+      "id": "v22800",
+      "ytId": "axsayK8CvK4",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s29",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "GISELLE (지젤) - Tornado | 2025 aespa SYNK aeXIS LINE in BANGKOK_251115",
+      "channel": "arterial",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-17"
+    },
+    {
+      "id": "v22801",
+      "ytId": "5lw1NvcicC4",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 aespa LIVE TOUR -SYNK : aeXIS LINE- in BANGKOK DAY 1 - Kill it (Winter Focus)",
+      "channel": "selenophileic",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-18",
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v22802",
+      "ytId": "_O3LLVs_L6E",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "BLUE (WINTER Solo) : Aespa SYNK : aeXIS LINE in BANGKOK @Impact Arena [15.11.2025] [4K 60FPS]",
+      "channel": "YIBKLONG 📱",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-16",
+      "thumbPos": "44% 35%"
+    },
+    {
+      "id": "v22803",
+      "ytId": "UAXfx6TbSyA",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 AESPA SYNK: aeXIS LINE in Bangkok Day 1 Winter Solo Blue ULTRA HD fancam",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-16"
+    },
+    {
+      "id": "v22804",
+      "ytId": "iyHVkATqq4I",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 'Kill It' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-07"
+    },
+    {
+      "id": "v22805",
+      "ytId": "Oo9ijkL8T8k",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s58",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 WINTER 'Better Things' BANGKOK #aespa_SYNK_aeXISLINE_BANGKOK #WINTER #윈터 #에스파 #ウィンター",
+      "channel": "Heavenly Heaven",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-16"
+    },
+    {
+      "id": "v22806",
+      "ytId": "2XjYgSnz1oU",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 'Kill It' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-26"
+    },
+    {
+      "id": "v22807",
+      "ytId": "uI1nMLFSEio",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s22",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 'Drift' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-23",
+      "thumbPos": "0% 35%"
+    },
+    {
+      "id": "v22808",
+      "ytId": "ydvtEtWEkeg",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 #aespa #fancam #winter killit",
+      "channel": "RARP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-16"
+    },
+    {
+      "id": "v22809",
+      "ytId": "_Lrg996m5IM",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s22",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 'Drift' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-23",
+      "thumbPos": "38% 35%"
+    },
+    {
+      "id": "v22810",
+      "ytId": "fw-_g34KOVU",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 'Dirty Work' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-23"
+    },
+    {
+      "id": "v22811",
+      "ytId": "C4-dzLnoGkQ",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s58",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 'Better Things' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-26"
+    },
+    {
+      "id": "v22812",
+      "ytId": "6iNr7uRkGbU",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s58",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] 251115 에스파 윈터 aespa WINTER - Better Things | LIVE TOUR SYNK aeXIS LINE in BANGKOK DAY 1",
+      "channel": "RinaldiWibi",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-17"
+    },
+    {
+      "id": "v22813",
+      "ytId": "HY4kqWgyMy8",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] 251115 에스파 윈터 aespa WINTER - Angel #48 | LIVE TOUR SYNK aeXIS LINE in BANGKOK DAY 1",
+      "channel": "RinaldiWibi",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-22"
+    },
+    {
+      "id": "v22814",
+      "ytId": "bR8ReUe_YrA",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "Winter 윈터 : Girls : aespa SYNK : aeXIS LINE in BANGKOK @Impact Arena [15.11.2025] [4K 60FPS]",
+      "channel": "YIBKLONG 📱",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-18"
+    },
+    {
+      "id": "v22815",
+      "ytId": "mpRu1hPtVaw",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 kill it #aespa #winter #fancam",
+      "channel": "RARP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-17"
+    },
+    {
+      "id": "v22816",
+      "ytId": "E3IKscg112M",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 WINTER  'Angel #48' at BANGKOK #aespa_SYNK_aeXISLINE_BANGKOK #WINTER #윈터 #에스파 #ウィンター",
+      "channel": "Heavenly Heaven",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-16"
+    },
+    {
+      "id": "v22817",
+      "ytId": "W_uRrXvNs8w",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "Winter 윈터 : Dirty Work : aespa SYNK : aeXIS LINE in BANGKOK @Impact Arena [15.11.2025] [4K 60FPS]",
+      "channel": "YIBKLONG 📱",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-16"
+    },
+    {
+      "id": "v22818",
+      "ytId": "n395jSWhPUw",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s25",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K][FANCAM] 251115 aespa WINTER - ANGEL #48 @ SYNK : aeXIS LINE - in BANGKOK",
+      "channel": "Wyvern_801",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-17"
+    },
+    {
+      "id": "v22819",
+      "ytId": "kodky0qugeI",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 'Dirty Work' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-19"
+    },
+    {
+      "id": "v22820",
+      "ytId": "V0MZAev0H34",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] 251115 에스파 윈터 aespa 'BLUE' (WINTER Solo) | LIVE TOUR SYNK aeXIS LINE in BANGKOK DAY 1",
+      "channel": "RinaldiWibi",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-07"
+    },
+    {
+      "id": "v22821",
+      "ytId": "LrRF2eFFhtI",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 'Rich Man' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-23",
+      "thumbPos": "44% 35%"
+    },
+    {
+      "id": "v22822",
+      "ytId": "DteipzWviu0",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s58",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 WINTER 'Better Things' BANGKOK #aespa_SYNK_aeXISLINE_BANGKOK #WINTER #윈터 #에스파 #ウィンター",
+      "channel": "Heavenly Heaven",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-16",
+      "thumbPos": "58% 35%"
+    },
+    {
+      "id": "v22823",
+      "ytId": "m9NhyQwGiwo",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s58",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 Winter- Better Things (SYNK - AEXIS LINE IN BANGKOK) #윈터 #윈터직캠 #김민정 #에스파 #aespa #winter",
+      "channel": "다르윈's Archive",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-17"
+    },
+    {
+      "id": "v22824",
+      "ytId": "0GzFx794a-g",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s60",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "Winter 윈터 : Lucid Dream : aespa SYNK : aeXIS LINE in BANGKOK @Impact Arena [15.11.2025] [4K 60FPS]",
+      "channel": "YIBKLONG 📱",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-17"
+    },
+    {
+      "id": "v22825",
+      "ytId": "u10xjXmOTDA",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 Winter Blue Solo aespa in Bangkok #에스파 #윈터",
+      "channel": "Locked37",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-21"
+    },
+    {
+      "id": "v22826",
+      "ytId": "J9VuuC1r6tc",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s28",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 aespa (에스파) - Ketchup and Lemonade (NingNing Solo) | SYNK: aeXIS Line in Bangkok",
+      "channel": "DiHanKpoperz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-17"
+    },
+    {
+      "id": "v22827",
+      "ytId": "FoO6T0NdkLA",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s56",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "251115 aespa (에스파) - Dark Arts | SYNK: aeXIS Line in Bangkok",
+      "channel": "DiHanKpoperz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-19",
+      "thumbPos": "50% 82%"
+    },
+    {
+      "id": "v22828",
+      "ytId": "vKXAH6zA8qU",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "251115 aespa (에스파) - Kill It | SYNK: aeXIS Line in Bangkok",
+      "channel": "DiHanKpoperz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-19",
+      "thumbPos": "50% 35%"
+    },
+    {
+      "id": "v22829",
+      "ytId": "gOEwGjrWq_k",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "251115 aespa (에스파) - Armageddon | SYNK: aeXIS Line in Bangkok",
+      "channel": "DiHanKpoperz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-17",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v22830",
+      "ytId": "G1-ErZVdJJE",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "251115 AESPA SYNK: aeXIS LINE in Bangkok Day 1 Whiplash (English Ver.) ULTRA HD fancam",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-16",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v22831",
+      "ytId": "q3CwZdLrMRQ",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s20",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "251115 AESPA SYNK: aeXIS LINE in Bangkok Day 1 Dirty Work ULTRA HD fancam",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-16",
+      "thumbPos": "50% 39%"
+    },
+    {
+      "id": "v22832",
+      "ytId": "mGZzZBzN01M",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 DarkArts 직캠   #aespa #winter",
+      "channel": "RARP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-20"
+    },
+    {
+      "id": "v22833",
+      "ytId": "zEkBZtuVaPg",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 DarkArts 직캠    #aespa #winter",
+      "channel": "RARP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-21",
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v22834",
+      "ytId": "19uGbU9cnbc",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s32",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "251115 AESPA SYNK: aeXIS LINE in Bangkok Day 1 Ning Ning solo Ketchup & Lemonade ULTRA HD fancam",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-16",
+      "thumbPos": "50% 55%"
+    },
+    {
+      "id": "v22835",
+      "ytId": "BmN_3kFGp5Y",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 'Kill It' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-06-26",
+      "thumbPos": "1% 35%"
+    },
+    {
+      "id": "v22836",
+      "ytId": "16d2APjhbZA",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 'Kill It' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-12",
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v22837",
+      "ytId": "HPvUDpm_baU",
+      "eventId": "e729",
+      "songs": [
+        {
+          "songId": "g5s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251115 에스파 윈터 Kill it  직캠",
+      "channel": "RARP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-03-01"
+    },
+    {
+      "id": "v22838",
+      "ytId": "QzIpRO2C5XY",
+      "eventId": "e730",
+      "songs": [
+        {
+          "songId": "g5s22",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "Karina aespa 에스파 'Drift' 4K FanCam| 2025 aespa LIVE TOUR SYNK : aeXIS LINE in BANGKOK 251116",
+      "channel": "GirlGroupthailand",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-13"
+    },
+    {
+      "id": "v22839",
+      "ytId": "CQD5fVhwvJ0",
+      "eventId": "e730",
+      "songs": [
+        {
+          "songId": "g5s29",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "Tornado (GISELLE SOLO) : Aespa SYNK : aeXIS LINE in BANGKOK @Impact Arena [16.11.2025] [4K 60FPS]",
+      "channel": "YIBKLONG 📱",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-17"
+    },
+    {
+      "id": "v22840",
+      "ytId": "C0u_psHQe9A",
+      "eventId": "e730",
+      "songs": [
+        {
+          "songId": "g5s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251116 에스파 닝닝 'Dirty Work' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-19",
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v22841",
+      "ytId": "2p0F5GAVWI8",
+      "eventId": "e638",
+      "songs": [
+        {
+          "songId": "g5s20",
+          "t": 0
+        },
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【2025 MAMA】aespa (에스파) 'Intro + Dirty Work + Rich Man' 4K Fancam 직캠 251129",
+      "channel": "K-PLANET",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-30",
+      "thumbPos": "50% 60%"
+    },
+    {
+      "id": "v22842",
+      "ytId": "rMGjA5W_Qwg",
+      "eventId": "e638",
+      "songs": [
+        {
+          "songId": "g5s20",
+          "t": 0
+        },
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#2025MAMA] aespa - Dirty Work + Rich Man | Mnet 251129 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-29",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v22843",
+      "ytId": "bHUpx_rejmk",
+      "eventId": "e638",
+      "songs": [
+        {
+          "songId": "g5s20",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#2025MAMA] aespa - Dirty Work | Mnet 251129 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-29",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v22844",
+      "ytId": "3sh08pOuXmk",
+      "eventId": "e638",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#2025MAMA] aespa - Rich Man | Mnet 251129 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-29",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v22845",
+      "ytId": "GXvxCMT5V8o",
+      "eventId": "e638",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Aespa - Rich Man @ 2025MAMA Fan Cam 251129",
+      "channel": "TheKFamBam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-11-30",
+      "thumbPos": "50% 15%"
+    },
+    {
+      "id": "v22846",
+      "ytId": "XnVTL-E6i2Q",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s61",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam] 251203 aespa 에스파 WINTER 윈터 “거짓말거짓말거짓말” 직캠 | 2025 WINTER B-day PARTY [WINTER Blues]",
+      "channel": "NoxenYani",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-04",
+      "thumbPos": "42% 35%"
+    },
+    {
+      "id": "v22847",
+      "ytId": "t5qRYsMEIZM",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s62",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251203 에스파 윈터 Imperfect for you - Winter Blues aespa winter 직캠 fancam",
+      "channel": "BBB",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-25",
+      "thumbPos": "57% 35%"
+    },
+    {
+      "id": "v22848",
+      "ytId": "B0y67f5GPyw",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s66",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam] 251203 aespa 에스파 WINTER 윈터 “ 21 ” 직캠 | 2025 WINTER B-day PARTY [WINTER Blues]",
+      "channel": "NoxenYani",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-04"
+    },
+    {
+      "id": "v22849",
+      "ytId": "rLgi9u0A1_0",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s62",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam] 251203 aespa 에스파 WINTER 윈터 “imperfect for you” 직캠 | 2025 WINTER B-day PARTY [WINTER Blues]",
+      "channel": "NoxenYani",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-04"
+    },
+    {
+      "id": "v22850",
+      "ytId": "23xwItSZQek",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s64",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "aespa WINTER 'Be Be Your Love' | 251203 ‘Winter Blues’ 생일파티",
+      "channel": "justaespahk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-06"
+    },
+    {
+      "id": "v22851",
+      "ytId": "Tspa3rnyvws",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s64",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam] 251203 aespa 에스파 WINTER 윈터 “ Be Be Your Love ” 직캠 | 2025 WINTER B-day PARTY [WINTER Blues]",
+      "channel": "NoxenYani",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-04"
+    },
+    {
+      "id": "v22852",
+      "ytId": "wcisx4e5usA",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam] 251203 aespa 에스파 WINTER 윈터 직캠 | 2025 WINTER B-day PARTY [WINTER Blues]",
+      "channel": "NoxenYani",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-05"
+    },
+    {
+      "id": "v22853",
+      "ytId": "QY7Ue3BlsqI",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam] 251203 aespa 에스파 WINTER 윈터 직캠 | 2025 WINTER B-day PARTY [WINTER Blues]",
+      "channel": "NoxenYani",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-05"
+    },
+    {
+      "id": "v22854",
+      "ytId": "n9QT2ElzJVw",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam] 251203 aespa 에스파 WINTER 윈터 직캠 | 2025 WINTER B-day PARTY [WINTER Blues]",
+      "channel": "NoxenYani",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-05"
+    },
+    {
+      "id": "v22855",
+      "ytId": "84xXrHXJ-Hk",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam] 251203 aespa 에스파 WINTER 윈터 직캠 | 2025 WINTER B-day PARTY [WINTER Blues]",
+      "channel": "NoxenYani",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-05"
+    },
+    {
+      "id": "v22856",
+      "ytId": "fqIEL0S7YJM",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam] 251203 aespa 에스파 WINTER 윈터 직캠 | 2025 WINTER B-day PARTY [WINTER Blues]",
+      "channel": "NoxenYani",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-05"
+    },
+    {
+      "id": "v22857",
+      "ytId": "5C3MYw3Eszs",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam] 251203 aespa 에스파 WINTER 윈터 직캠 | 2025 WINTER B-day PARTY [WINTER Blues]",
+      "channel": "NoxenYani",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-04"
+    },
+    {
+      "id": "v22858",
+      "ytId": "JSWBjsVxIY0",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam] 251203 aespa 에스파 WINTER 윈터 직캠 | 2025 WINTER B-day PARTY [WINTER Blues]",
+      "channel": "NoxenYani",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-04",
+      "thumbPos": "44% 35%"
+    },
+    {
+      "id": "v22859",
+      "ytId": "03cds2eS3zg",
+      "eventId": "e735",
+      "songs": [
+        {
+          "songId": "g5s27",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Fancam] 251203 aespa 에스파 WINTER 윈터 직캠 | 2025 WINTER B-day PARTY [WINTER Blues]",
+      "channel": "NoxenYani",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-04"
+    },
+    {
+      "id": "v22860",
+      "ytId": "05yYhS5xqQw",
+      "eventId": "e655",
+      "songs": [
+        {
+          "songId": "g5s20",
+          "t": 0
+        },
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "aespa(에스파) KBS 가요대축제 Dirty work, Rich man 무대 직캠 251219 [4K]",
+      "channel": "FANTUBE ARCHIVE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-20",
+      "thumbPos": "50% 46%"
+    },
+    {
+      "id": "v22861",
+      "ytId": "NppVaV1BZ9M",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251220 NingNing AESPA ''Rich Man'' Fancam",
+      "channel": "KameraKpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-22"
+    },
+    {
+      "id": "v22862",
+      "ytId": "BfcUThruzVw",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251220 aespa NINGNING- 'DIRTY WORK' fancam | MMA",
+      "channel": "BAO.N",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-21"
+    },
+    {
+      "id": "v22863",
+      "ytId": "ZKF6vUH-jlo",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s22",
+          "t": 0
+        },
+        {
+          "songId": "g5s21",
+          "t": 0
+        },
+        {
+          "songId": "g5s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 에스파 카리나 'Drift + Rich Man + Dirty Work' 직캠 (aespa Karina Fancam) @ MMA 251220",
+      "channel": "Brandon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-21"
+    },
+    {
+      "id": "v22864",
+      "ytId": "VNVnXCxz7zQ",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        },
+        {
+          "songId": "g5s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251220 에스파 카리나 직캠 \"RICH MAN\" \"DIRTY WORK\" (AESPA KARINA FANCAM) @MMA 2025",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-21"
+    },
+    {
+      "id": "v22865",
+      "ytId": "_ZSCZilyNJM",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s22",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251220 에스파 카리나 (aespa KARINA) - 'Drift' 직캠 (aespa KARINA FOCUS Fancam) | 멜론 뮤직 어워드 MMA2025",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-21"
+    },
+    {
+      "id": "v22866",
+      "ytId": "rUlbOd9LyPE",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s20",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[Full in my channel‼️] 251220 에스파 윈터 'Dirty Work' (aespa WINTER FanCam) @MMA",
+      "channel": "m0tri3t",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-21",
+      "thumbPos": "0% 35%"
+    },
+    {
+      "id": "v22867",
+      "ytId": "v8WGL_ZsTuI",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251220 에스파 윈터 'Rich Man' 직캠",
+      "channel": "Fancam Bot",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-23",
+      "thumbPos": "58% 35%"
+    },
+    {
+      "id": "v22868",
+      "ytId": "Ja4XgfwgqpI",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251220 윈터 직캠 RichMan #aespa #winter #mma",
+      "channel": "RARP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-22"
+    },
+    {
+      "id": "v22869",
+      "ytId": "gv6neLgDMYI",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s20",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "251220 MMA 2025 aespa - Dirty Work",
+      "channel": "Sonne",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-20",
+      "thumbPos": "50% 42%"
+    },
+    {
+      "id": "v22870",
+      "ytId": "SAOfCZnHsEw",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s22",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[8K FANCAM] 2025.12.20 - aespa \"DRIFT\" | 2025 MMA",
+      "channel": "SC",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-21",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v22871",
+      "ytId": "R9IVQWzEl7c",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s22",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "AESPA WINTER DRIFT FANCAM📽 [MMA2025 🇰🇷 251220]",
+      "channel": "vvt_il",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-26"
+    },
+    {
+      "id": "v22872",
+      "ytId": "wBmlaBe4Euo",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s22",
+          "t": 0
+        },
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "251220 MMA 멜론뮤직어워드 에스파 aespa - Drift + Rich Man",
+      "channel": "기록용",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-15",
+      "thumbPos": "50% 44%"
+    },
+    {
+      "id": "v22873",
+      "ytId": "t83Eogo05fs",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251220 MMA 에스파 윈터（aespa winter）- Rich Man 멜론뮤직어워드 직캠 fancam",
+      "channel": "JiaLi",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-20"
+    },
+    {
+      "id": "v22874",
+      "ytId": "nvD2eoY2TPw",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s20",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[8K FANCAM] 2025.12.20 - aespa \"Dirty Work\" | 2025 MMA",
+      "channel": "SC",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-21",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v22875",
+      "ytId": "sNE5JN44Oy0",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "AESPA RICH MAN 💵💰 WINTER FANCAM 📽 [MMA2025 🇰🇷 251220]",
+      "channel": "vvt_il",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-03-13",
+      "thumbPos": "43% 35%"
+    },
+    {
+      "id": "v22876",
+      "ytId": "pPSNBmHxOZ0",
+      "eventId": "e741",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "AESPA RICH MAN 💵💰 KARINA FANCAM 📽 [MMA2025 🇰🇷 251220]",
+      "channel": "vvt_il",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-02-19",
+      "thumbPos": "43% 35%"
+    },
+    {
+      "id": "v22877",
+      "ytId": "TdgSMgvEIqc",
+      "eventId": "e660",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 aespa WINTER 에스파 윈터 'Rich Man' (Back Cam) | SBS GayoDaejeon 가요대전",
+      "channel": "Spotted",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-04"
+    },
+    {
+      "id": "v22878",
+      "ytId": "-vIoeOaWzI8",
+      "eventId": "e660",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251225 에스파 카리나 직캠 \"RICH MAN\" (AESPA KARINA FANCAM) @SBS GayoDaejeon",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-02"
+    },
+    {
+      "id": "v22879",
+      "ytId": "V7vy8oKhgYI",
+      "eventId": "e660",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 251225 aespa WINTER 에스파 윈터 'Rich Man' (Back Cam) | SBS GayoDaejeon 가요대전",
+      "channel": "Spotted",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-04",
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v22880",
+      "ytId": "GDYtOcfaICc",
+      "eventId": "e660",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "251225 에스파 윈터 RichMan 직캠 #aespa #winter",
+      "channel": "RARP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-27",
+      "thumbPos": "0% 35%"
+    },
+    {
+      "id": "v22881",
+      "ytId": "nBU6GHYdLUo",
+      "eventId": "e660",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "aespa 'Rich Man’ WINTER FOCUS｜251225 SBS 직캠",
+      "channel": "justaespahk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-26"
+    },
+    {
+      "id": "v22882",
+      "ytId": "tukcHe_DLTQ",
+      "eventId": "e660",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "251225 aespa INTRO + Rich Man (Live 4K)",
+      "channel": "WAWA KPOPSTAGE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-12-30",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v22883",
+      "ytId": "W1_lNcF0z0k",
+      "eventId": "e660",
+      "songs": [
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "❤️winter 251225 #윈터 #winter #에스파 #aespa #아이돌",
+      "channel": "love_winter",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-04-03",
+      "thumbPos": "100% 35%"
+    },
+    {
+      "id": "v22884",
+      "ytId": "gYSGVtpK6aw",
+      "eventId": "e665",
+      "songs": [
+        {
+          "songId": "g5s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전 #최애직캠] aespa WINTER (에스파 윈터) – Kill It | 2025 GayoDaejejeon | MBC251231",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-07",
+      "thumbPos": "67% 35%"
+    },
+    {
+      "id": "v22885",
+      "ytId": "hsQmvtfH884",
+      "eventId": "e665",
+      "songs": [
+        {
+          "songId": "g5s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전 #최애직캠] aespa GISELLE (에스파 지젤) – Kill It | 2025 GayoDaejejeon | MBC251231",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-07",
+      "thumbPos": "65% 35%"
+    },
+    {
+      "id": "v22886",
+      "ytId": "mkARB2_G1XU",
+      "eventId": "e665",
+      "songs": [
+        {
+          "songId": "g5s15",
+          "t": 0
+        },
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] aespa WINTER (에스파 윈터) – Kill It+Rich Man FanCam | 2025 GayoDaejejeon | MBC251231",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-02",
+      "thumbPos": "63% 35%"
+    },
+    {
+      "id": "v22887",
+      "ytId": "PQ-OAtEHrvg",
+      "eventId": "e665",
+      "songs": [
+        {
+          "songId": "g5s15",
+          "t": 0
+        },
+        {
+          "songId": "g5s21",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[2025 MBC 가요대제전] aespa (에스파) - Kill It + Rich Man, MBC 251231 방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-01-01",
+      "thumbPos": "50% 47%"
+    },
+    {
+      "id": "v22888",
+      "ytId": "8Br38qorr3U",
+      "eventId": "e448",
+      "songs": [
+        {
+          "songId": "g5s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1",
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Karina＆Winter“Serenade”(aespa LIVE TOUR- SYNK：COMPLæXITY-in TAIPEI) #karina #카리나 #winter #윈터 #aespa",
+      "channel": "Easonyaya",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-31",
+      "thumbPos": "84% 35%"
+    },
+    {
+      "id": "v22889",
+      "ytId": "xNJFNhFDZ8o",
+      "eventId": "e457",
+      "songs": [
+        {
+          "songId": "g5s50",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 0922&09242026 aespa Winter - Saddle up in DC & Atlanta",
+      "channel": "윈터캠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-26",
+      "thumbPos": "22% 35%"
+    },
+    {
+      "id": "v22890",
+      "ytId": "fqwe8x6CxAM",
+      "eventId": "e461",
+      "songs": [
+        {
+          "songId": "g5s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "aespa WINTER 'Serenade' Fancam | 에스파 윈터 직캠",
+      "channel": "nuna cam",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-09",
+      "thumbPos": "100% 35%"
     }
   ],
   "clips": []
