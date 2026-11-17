@@ -4109,6 +4109,104 @@
           "aliases": [],
           "order": 44,
           "release": ""
+        },
+        {
+          "id": "g7s45",
+          "title": "DYNAMITE",
+          "aliases": [],
+          "order": 45,
+          "release": ""
+        },
+        {
+          "id": "g7s46",
+          "title": "Racer",
+          "aliases": [],
+          "order": 46,
+          "release": ""
+        },
+        {
+          "id": "g7s47",
+          "title": "SWIPE",
+          "aliases": [],
+          "order": 47,
+          "release": ""
+        },
+        {
+          "id": "g7s48",
+          "title": "Psychic Lover",
+          "aliases": [],
+          "order": 48,
+          "release": ""
+        },
+        {
+          "id": "g7s49",
+          "title": "Don't Give A What",
+          "aliases": [],
+          "order": 49,
+          "release": ""
+        },
+        {
+          "id": "g7s50",
+          "title": "KIDDING ME",
+          "aliases": [],
+          "order": 50,
+          "release": ""
+        },
+        {
+          "id": "g7s51",
+          "title": "Gas Me Up",
+          "aliases": [],
+          "order": 51,
+          "release": ""
+        },
+        {
+          "id": "g7s52",
+          "title": "Kill Shot",
+          "aliases": [],
+          "order": 52,
+          "release": ""
+        },
+        {
+          "id": "g7s53",
+          "title": "Escalator",
+          "aliases": [],
+          "order": 53,
+          "release": ""
+        },
+        {
+          "id": "g7s54",
+          "title": "Crown On My Head",
+          "aliases": [],
+          "order": 54,
+          "release": ""
+        },
+        {
+          "id": "g7s55",
+          "title": "Run Away",
+          "aliases": [],
+          "order": 55,
+          "release": ""
+        },
+        {
+          "id": "g7s56",
+          "title": "MINE",
+          "aliases": [],
+          "order": 56,
+          "release": ""
+        },
+        {
+          "id": "g7s57",
+          "title": "Boys Like You",
+          "aliases": [],
+          "order": 57,
+          "release": ""
+        },
+        {
+          "id": "g7s58",
+          "title": "YET, BUT",
+          "aliases": [],
+          "order": 58,
+          "release": ""
         }
       ]
     },
@@ -13635,7 +13733,10 @@
         "g7s24",
         "g7s26"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "'TUNNEL VISION' in BANGKOK"
+      ]
     },
     {
       "id": "e773",
@@ -14019,7 +14120,10 @@
         "g7s27",
         "g7s33"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "'TUNNEL VISION' in TOKYO"
+      ]
     },
     {
       "id": "e795",
@@ -19364,7 +19468,10 @@
       "setlist": [
         "g7s3"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "MyK FESTA"
+      ]
     },
     {
       "id": "e1230",
@@ -24848,6 +24955,367 @@
         "g5s15",
         "g5s47",
         "g5s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1631",
+      "groupId": "g7",
+      "date": "2024-02-15",
+      "show": "엠카운트다운",
+      "label": "",
+      "setlist": [
+        "g7s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1632",
+      "groupId": "g7",
+      "date": "2024-04-06",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 싱가포르",
+      "label": "",
+      "setlist": [
+        "g7s6",
+        "g7s42",
+        "g7s9",
+        "g7s45",
+        "g7s13",
+        "g7s7",
+        "g7s12",
+        "g7s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1633",
+      "groupId": "g7",
+      "date": "2024-04-24",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 런던",
+      "label": "",
+      "setlist": [
+        "g7s46",
+        "g7s13",
+        "g7s42",
+        "g7s7",
+        "g7s10",
+        "g7s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1634",
+      "groupId": "g7",
+      "date": "2024-04-25",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 런던",
+      "label": "",
+      "setlist": [
+        "g7s42"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1635",
+      "groupId": "g7",
+      "date": "2024-04-26",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 파리",
+      "label": "",
+      "setlist": [
+        "g7s42",
+        "g7s12",
+        "g7s31",
+        "g7s35",
+        "g7s13",
+        "g7s6",
+        "g7s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1636",
+      "groupId": "g7",
+      "date": "2024-04-28",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 베를린",
+      "label": "",
+      "setlist": [
+        "g7s15",
+        "g7s13",
+        "g7s10",
+        "g7s6",
+        "g7s47",
+        "g7s48",
+        "g7s45",
+        "g7s7",
+        "g7s42",
+        "g7s12",
+        "g7s9",
+        "g7s49",
+        "g7s50",
+        "g7s51",
+        "g7s43",
+        "g7s31",
+        "g7s46"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1637",
+      "groupId": "g7",
+      "date": "2024-05-01",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 암스테르담",
+      "label": "",
+      "setlist": [
+        "g7s49",
+        "g7s48",
+        "g7s42",
+        "g7s15",
+        "g7s12",
+        "g7s7",
+        "g7s9",
+        "g7s10",
+        "g7s13",
+        "g7s6",
+        "g7s43",
+        "g7s46"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1638",
+      "groupId": "g7",
+      "date": "2024-05-04",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 마드리드",
+      "label": "",
+      "setlist": [
+        "g7s42",
+        "g7s46"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1639",
+      "groupId": "g7",
+      "date": "2024-05-09",
+      "show": "SK하이닉스 The캠퍼스 비긴어게인",
+      "label": "",
+      "setlist": [
+        "g7s6",
+        "g7s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1640",
+      "groupId": "g7",
+      "date": "2024-05-26",
+      "show": "연세대 축제",
+      "label": "",
+      "setlist": [
+        "g7s6",
+        "g7s7",
+        "g7s15",
+        "g7s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1641",
+      "groupId": "g7",
+      "date": "2024-06-02",
+      "show": "K-WAVE CONCERT 인기가요",
+      "label": "",
+      "setlist": [
+        "g7s6",
+        "g7s43",
+        "g7s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1642",
+      "groupId": "g7",
+      "date": "2024-06-06",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 시애틀",
+      "label": "",
+      "setlist": [
+        "g7s42"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1643",
+      "groupId": "g7",
+      "date": "2024-06-08",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 오클랜드",
+      "label": "",
+      "setlist": [
+        "g7s12",
+        "g7s7",
+        "g7s42",
+        "g7s9",
+        "g7s46",
+        "g7s15",
+        "g7s52",
+        "g7s53",
+        "g7s43"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1644",
+      "groupId": "g7",
+      "date": "2024-06-11",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE LA",
+      "label": "",
+      "setlist": [
+        "g7s6",
+        "g7s13",
+        "g7s52",
+        "g7s53",
+        "g7s10",
+        "g7s12",
+        "g7s42",
+        "g7s7",
+        "g7s47",
+        "g7s9",
+        "g7s49",
+        "g7s48",
+        "g7s15",
+        "g7s54",
+        "g7s55",
+        "g7s56"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1645",
+      "groupId": "g7",
+      "date": "2024-06-18",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 애틀랜타",
+      "label": "",
+      "setlist": [
+        "g7s42",
+        "g7s6",
+        "g7s43",
+        "g7s7",
+        "g7s46"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1646",
+      "groupId": "g7",
+      "date": "2024-06-20",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 워싱턴 D.C.",
+      "label": "",
+      "setlist": [],
+      "note": ""
+    },
+    {
+      "id": "e1647",
+      "groupId": "g7",
+      "date": "2024-06-23",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 뉴어크",
+      "label": "",
+      "setlist": [
+        "g7s15",
+        "g7s6",
+        "g7s46",
+        "g7s52",
+        "g7s53",
+        "g7s43",
+        "g7s13",
+        "g7s7",
+        "g7s9",
+        "g7s42",
+        "g7s54",
+        "g7s57",
+        "g7s51",
+        "g7s58",
+        "g7s55",
+        "g7s49",
+        "g7s48",
+        "g7s12",
+        "g7s47"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1648",
+      "groupId": "g7",
+      "date": "2024-06-26",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 시카고",
+      "label": "",
+      "setlist": [
+        "g7s49",
+        "g7s6",
+        "g7s42",
+        "g7s46",
+        "g7s7",
+        "g7s15",
+        "g7s12",
+        "g7s9",
+        "g7s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1649",
+      "groupId": "g7",
+      "date": "2024-06-28",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 토론토",
+      "label": "",
+      "setlist": [
+        "g7s42",
+        "g7s12"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1650",
+      "groupId": "g7",
+      "date": "2024-06-29",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 토론토",
+      "label": "",
+      "setlist": [
+        "g7s42",
+        "g7s6",
+        "g7s10",
+        "g7s15"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1651",
+      "groupId": "g7",
+      "date": "2024-10-05",
+      "show": "K-Link Festival",
+      "label": "",
+      "setlist": [
+        "g7s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1652",
+      "groupId": "g7",
+      "date": "2024-10-20",
+      "show": "ITZY 2ND WORLD TOUR BORN TO BE 도쿄",
+      "label": "",
+      "setlist": [
+        "g7s6"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1653",
+      "groupId": "g7",
+      "date": "2025-08-09",
+      "show": "SBS 가요대전 SUMMER",
+      "label": "",
+      "setlist": [
+        "g7s3",
+        "g7s16"
       ],
       "note": ""
     }
@@ -198212,7 +198680,8 @@
       "channel": "탐정단_fancam",
       "pin": false,
       "gone": false,
-      "uploaded": "2025-11-22"
+      "uploaded": "2025-11-22",
+      "thumbPos": "0% 35%"
     },
     {
       "id": "v11434",
@@ -465997,6 +466466,5817 @@
       "gone": false,
       "uploaded": "2026-09-27",
       "thumbPos": "96% 35%"
+    },
+    {
+      "id": "v23035",
+      "ytId": "ERrgRdwaJOg",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[행복이 가득한 2월 특집] ITZY (있지) - CAKE #엠카운트다운 EP.829",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-02-15",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23036",
+      "ytId": "Dr7CJQmz_No",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240406 Untouchable | ITZY Concert BORN TO BE in Singapore",
+      "channel": "Zhi Kai Koh",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-18",
+      "thumbPos": "50% 40%"
+    },
+    {
+      "id": "v23037",
+      "ytId": "7XpLlScpIS0",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240406 ITZY RYUJIN 'SNEAKERS' 4K fancam 있지 류진 직캠 @BORN TO BE IN SINGAPORE",
+      "channel": "loveRYU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-17"
+    },
+    {
+      "id": "v23038",
+      "ytId": "g2LELC2jWQU",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY 'BORN TO BE' in Singapore - Mine (CHAERYEONG Solo) | 240406 있지 싱가포르 콘서트 직캠 4K60FPS",
+      "channel": "αl0203",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-07"
+    },
+    {
+      "id": "v23039",
+      "ytId": "ZyXTN-sb9vs",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240406 ITZY 있지 - GAS ME UP @ BORN TO BE WORLD TOUR SINGAPORE FANCAM",
+      "channel": "JSK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-12",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23040",
+      "ytId": "7_yptXP0HcY",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240406 ITZY 있지 - BORN TO BE @ BORN TO BE WORLD TOUR SINGAPORE FANCAM",
+      "channel": "JSK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-10",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23041",
+      "ytId": "qYV0hVqx58k",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240406 ITZY 있지 - KIDDING ME @ BORN TO BE WORLD TOUR SINGAPORE FANCAM",
+      "channel": "JSK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-10",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23042",
+      "ytId": "lN2xInR8qoI",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY 'BORN TO BE' in Singapore - KIDDING ME | 240406 있지 싱가포르 콘서트 직캠 4K60FPS",
+      "channel": "αl0203",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-07",
+      "thumbPos": "50% 14%"
+    },
+    {
+      "id": "v23043",
+      "ytId": "CKtgWtBISPI",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s45",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240406 ITZY RYUJIN 'DYNAMITE' 4K fancam 있지 류진 직캠 @BORN TO BE IN SINGAPORE",
+      "channel": "loveRYU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-10",
+      "thumbPos": "0% 35%"
+    },
+    {
+      "id": "v23044",
+      "ytId": "t6nJ_NY9i58",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240406  Born To Be | ITZY Concert BORN TO BE in Singapore",
+      "channel": "Zhi Kai Koh",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-18",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23045",
+      "ytId": "dopFVzw-YHA",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        },
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY 'BORN TO BE' in Singapore - WANNABE | 240406 있지 싱가포르 콘서트 직캠 4K60FPS",
+      "channel": "αl0203",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-07",
+      "thumbPos": "50% 16%"
+    },
+    {
+      "id": "v23046",
+      "ytId": "E4MTD_OAdCQ",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        },
+        {
+          "songId": "g7s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240406 ITZY 있지 - CAKE, SNEAKERS @ BORN TO BE WORLD TOUR SINGAPORE FANCAM",
+      "channel": "JSK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-13",
+      "thumbPos": "50% 8%"
+    },
+    {
+      "id": "v23047",
+      "ytId": "tQaYt47EJbE",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240406 ITZY 있지 - NOT SHY @ BORN TO BE WORLD TOUR SINGAPORE FANCAM",
+      "channel": "JSK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-12",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23048",
+      "ytId": "U1fMQ6vrP1M",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240406 ITZY 있지 YUNA SOLO - YET, BUT @ BORN TO BE WORLD TOUR SINGAPORE FANCAM",
+      "channel": "JSK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-11"
+    },
+    {
+      "id": "v23049",
+      "ytId": "WhuRDVHfWUc",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240406 ITZY 있지 - SWIPE @ BORN TO BE WORLD TOUR SINGAPORE FANCAM",
+      "channel": "JSK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-11",
+      "thumbPos": "50% 37%"
+    },
+    {
+      "id": "v23050",
+      "ytId": "YR-QuJ_JQRs",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240406 ITZY 있지 - LOCO @ BORN TO BE WORLD TOUR SINGAPORE FANCAM",
+      "channel": "JSK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-12"
+    },
+    {
+      "id": "v23051",
+      "ytId": "BSqhLIYxx0E",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240406 ITZY 있지 - WANNABE @ BORN TO BE WORLD TOUR SINGAPORE FANCAM",
+      "channel": "JSK",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-11",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23052",
+      "ytId": "btZXLZsih5A",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s10",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240406 LOCO  | ITZY Concert BORN TO BE in Singapore",
+      "channel": "Zhi Kai Koh",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-18",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23053",
+      "ytId": "RxhCsEcPvSo",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240406 있지 예지 직캠 'Escalator' (YEJI Fancam) @ ITZY 2ND WORLD TOUR [BORN TO BE] in SINGAPORE",
+      "channel": "SHOOT!",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-11"
+    },
+    {
+      "id": "v23054",
+      "ytId": "BjjywfOirig",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY 'BORN TO BE' in Singapore - Run Away (RYUJIN Solo) | 240406 있지 싱가포르 콘서트 직캠 4K60FPS",
+      "channel": "αl0203",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-07",
+      "thumbPos": "37% 35%"
+    },
+    {
+      "id": "v23055",
+      "ytId": "mm-L3bYTu_I",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240406 MINE by CHAERYEONG FANCAM @ ITZY BORN TO BE IN Singapore",
+      "channel": "Sparkle For CHAERYEONG",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-11"
+    },
+    {
+      "id": "v23056",
+      "ytId": "USrDZz1_VDg",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g7s46",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240424 ITZY - RACER | 2nd World Tour Born To Be In London OVO",
+      "channel": "ShiningMoonlight",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-28",
+      "thumbPos": "50% 34%"
+    },
+    {
+      "id": "v23057",
+      "ytId": "56fOZuZBI1I",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240424 ITZY - WANNABE | 2nd World Tour Born To Be In London",
+      "channel": "ShiningMoonlight",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-30",
+      "thumbPos": "50% 47%"
+    },
+    {
+      "id": "v23058",
+      "ytId": "4l53EIqJkDQ",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY | CAKE | BORN TO BE TOUR | LONDON 240424 | 4K",
+      "channel": "Kpop Mania",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-26",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23059",
+      "ytId": "PIBOBxaH6X0",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g7s10",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240424 ITZY - LOCO | 2nd World Tour Born To Be In London",
+      "channel": "ShiningMoonlight",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-07",
+      "thumbPos": "50% 48%"
+    },
+    {
+      "id": "v23060",
+      "ytId": "6IbG6ZRu6XQ",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240424 ITZY - Dynamite | 2nd World Tour Born To Be In London",
+      "channel": "ShiningMoonlight",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-05",
+      "thumbPos": "50% 61%"
+    },
+    {
+      "id": "v23061",
+      "ytId": "U8TbwEGUoJ8",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240424 ITZY - Not Shy | 2nd World Tour Born To Be In London",
+      "channel": "ShiningMoonlight",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-07",
+      "thumbPos": "50% 43%"
+    },
+    {
+      "id": "v23062",
+      "ytId": "blltW8u4Y5Q",
+      "eventId": "e1634",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] CHAERYEONG (채령) 'Mine' 4K Fancam 직캠 | ITZY CONCERT 있지 콘서트 'BORN TO BE' in LONDON 240425",
+      "channel": "Annika",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-18"
+    },
+    {
+      "id": "v23063",
+      "ytId": "S1BB1kejfz8",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240426 (있지) ITZY 2nd World Tour BORN TO BE PARIS : Born To Be",
+      "channel": "TURC PRODUCTIONS Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-29",
+      "thumbPos": "50% 12%"
+    },
+    {
+      "id": "v23064",
+      "ytId": "tiNV33P5GOU",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240426 (있지) ITZY 2nd World Tour BORN TO BE PARIS : Kidding Me",
+      "channel": "TURC PRODUCTIONS Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-30",
+      "thumbPos": "50% 75%"
+    },
+    {
+      "id": "v23065",
+      "ytId": "JSXjehl6yYY",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K FanCam] 240426 ITZY - Kidding Me @ Born to be World Tour in PARIS",
+      "channel": "ta1eng",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-05",
+      "thumbPos": "50% 53%"
+    },
+    {
+      "id": "v23066",
+      "ytId": "GqgiqRmAYrY",
+      "eventId": "e1635",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240426 (있지) ITZY 2nd World Tour BORN TO BE PARIS - Full Concert",
+      "channel": "TURC PRODUCTIONS Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-30",
+      "thumbPos": "50% 23%"
+    },
+    {
+      "id": "v23067",
+      "ytId": "yWlrZdfBbOs",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        },
+        {
+          "songId": "g7s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240426 (있지) ITZY 2nd World Tour BORN TO BE PARIS : Not Shy",
+      "channel": "TURC PRODUCTIONS Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-12",
+      "thumbPos": "50% 10%"
+    },
+    {
+      "id": "v23068",
+      "ytId": "yCmJ_nyofDc",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        },
+        {
+          "songId": "g7s31",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240426 (있지) ITZY 2nd World Tour BORN TO BE PARIS : Be In Love",
+      "channel": "TURC PRODUCTIONS Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-15",
+      "thumbPos": "50% 97%"
+    },
+    {
+      "id": "v23069",
+      "ytId": "hUBclN7HBGA",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240426 (있지) ITZY 2nd World Tour BORN TO BE PARIS : Love Is",
+      "channel": "TURC PRODUCTIONS Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-14",
+      "thumbPos": "50% 13%"
+    },
+    {
+      "id": "v23070",
+      "ytId": "HmjwtQ_PRBI",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        },
+        {
+          "songId": "g7s35",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240426 (있지) ITZY 2nd World Tour BORN TO BE PARIS : Chillin Chillin",
+      "channel": "TURC PRODUCTIONS Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-16",
+      "thumbPos": "50% 8%"
+    },
+    {
+      "id": "v23071",
+      "ytId": "N2DjF5OMtY4",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240426 (있지) ITZY 2nd World Tour BORN TO BE PARIS : Gas Me Up YT",
+      "channel": "TURC PRODUCTIONS Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-06",
+      "thumbPos": "50% 14%"
+    },
+    {
+      "id": "v23072",
+      "ytId": "FadpayI3BNk",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        },
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240426 (있지) ITZY 2nd World Tour BORN TO BE PARIS : Wannabe",
+      "channel": "TURC PRODUCTIONS Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-02",
+      "thumbPos": "50% 10%"
+    },
+    {
+      "id": "v23073",
+      "ytId": "uiDUlH1o_G4",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        },
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240426 (있지) ITZY 2nd World Tour BORN TO BE PARIS : Untouchable",
+      "channel": "TURC PRODUCTIONS Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-05",
+      "thumbPos": "50% 15%"
+    },
+    {
+      "id": "v23074",
+      "ytId": "tD7jtRrXWy8",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240426 (있지) ITZY 2nd World Tour BORN TO BE PARIS : Psychic Lover",
+      "channel": "TURC PRODUCTIONS Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-09",
+      "thumbPos": "50% 28%"
+    },
+    {
+      "id": "v23075",
+      "ytId": "BooB5BMA7IE",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240426 (있지) ITZY 2nd World Tour BORN TO BE PARIS : Swipe",
+      "channel": "TURC PRODUCTIONS Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-01",
+      "thumbPos": "50% 13%"
+    },
+    {
+      "id": "v23076",
+      "ytId": "PSglrNp1aZc",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240426 (있지) ITZY 2nd World Tour BORN TO BE PARIS : Yeji Solo - Crown on My Head",
+      "channel": "TURC PRODUCTIONS Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-04"
+    },
+    {
+      "id": "v23077",
+      "ytId": "EiAvkhNEZqI",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        },
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240426 (있지) ITZY 2nd World Tour BORN TO BE PARIS : Cake",
+      "channel": "TURC PRODUCTIONS Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-13",
+      "thumbPos": "50% 24%"
+    },
+    {
+      "id": "v23078",
+      "ytId": "B9fvj6tKX9E",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240426 (있지) ITZY 2nd World Tour BORN TO BE PARIS : Ryujin Solo - Run Away",
+      "channel": "TURC PRODUCTIONS Live",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-03",
+      "thumbPos": "44% 35%"
+    },
+    {
+      "id": "v23079",
+      "ytId": "Hf6YVwuIVzY",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1",
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 있지 유나 예지 직캠 'DALLA DALLA' (ITZY YUNA / YEJI Fancam) 4K @ BORN TO BE Concert Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-10"
+    },
+    {
+      "id": "v23080",
+      "ytId": "11V8ua72WLE",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 있지 예지 직캠 'WANNABE' (ITZY YEJI Fancam) 4K @ BORN TO BE Concert Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-29",
+      "thumbPos": "39% 35%"
+    },
+    {
+      "id": "v23081",
+      "ytId": "87bHX8EGhSU",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 있지 예지 직캠 'LOCO' (ITZY YEJI Fancam) 4K @ BORN TO BE Concert Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-30"
+    },
+    {
+      "id": "v23082",
+      "ytId": "hja9yTE2GDY",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 있지 예지 직캠 'UNTOUCHABLE' (ITZY YEJI Fancam) 4K @ BORN TO BE Concert Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-29",
+      "thumbPos": "17% 35%"
+    },
+    {
+      "id": "v23083",
+      "ytId": "liPsuHbzHk8",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s47",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 있지 류진 직캠 'SWIPE' (ITZY RYUJIN Fancam) 4K @ BORN TO BE Concert Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-29"
+    },
+    {
+      "id": "v23084",
+      "ytId": "WrPKDYe8cQQ",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s48",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1",
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 있지 유나 예지 직캠 'Psychic Lover' (ITZY YUNA / YEJI Fancam) 4K @ BORN TO BE Concert Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-30"
+    },
+    {
+      "id": "v23085",
+      "ytId": "CBrO_exlN9I",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s45",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1",
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 있지 유나 예지 직캠 'Dynamite' (ITZY YUNA / YEJI Fancam) 4K @ BORN TO BE Concert Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-29"
+    },
+    {
+      "id": "v23086",
+      "ytId": "iGdzUOgwphs",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1",
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 있지 유나 예지 직캠 'CAKE' (ITZY YUNA / YEJI Fancam) 4K @ BORN TO BE Concert Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-02"
+    },
+    {
+      "id": "v23087",
+      "ytId": "fjSSRoQoAGY",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 있지 예지 직캠 4K 'Crown On My Head' (ITZY YEJI FANCAM) | ITZY 2ND WORLD TOUR BORN TO BE in BERLIN",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-29"
+    },
+    {
+      "id": "v23088",
+      "ytId": "4h1MNuXi7xM",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Not Shy 있지 예지 직캠 (ITZY YEJI Fancam) 240428",
+      "channel": "Yeji in Berlin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-01",
+      "thumbPos": "44% 35%"
+    },
+    {
+      "id": "v23089",
+      "ytId": "rIgIdd5Ewcs",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Sneakers 있지 예지 직캠 (ITZY YEJI Fancam) 240428",
+      "channel": "Yeji in Berlin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-01",
+      "thumbPos": "59% 35%"
+    },
+    {
+      "id": "v23090",
+      "ytId": "m1vA6r-TEX0",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s49",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1",
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 있지 유나 예지 직캠 'Don't Give A What' (ITZY YUNA / YEJI Fancam) 4K @ BORN TO BE Concert Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-30"
+    },
+    {
+      "id": "v23091",
+      "ytId": "zyTAfVqHDgM",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s50",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 있지 유나 직캠 'KIDDING ME' (ITZY YUNA Fancam) 4K @ BORN TO BE Concert Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-29"
+    },
+    {
+      "id": "v23092",
+      "ytId": "7fV_7LTvPmA",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240428 있지 유나 'Yet, But' ITZY YUNA FAN CAM @ ITZY 2ND WORLD TOUR “BORN TO BE” in Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-29",
+      "thumbPos": "44% 35%"
+    },
+    {
+      "id": "v23093",
+      "ytId": "u9t_vsYQ8KQ",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 CHAERYEONG (채령) 'Mine' 4K Fancam 직캠 | ITZY CONCERT 있지 콘서트 'BORN TO BE' in Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-29"
+    },
+    {
+      "id": "v23094",
+      "ytId": "dCuOpXxF1L8",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Untouchable, Gas Me Up 있지 예지 직캠 (ITZY YEJI Fancam) 240428",
+      "channel": "Yeji in Berlin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-01"
+    },
+    {
+      "id": "v23095",
+      "ytId": "OPuMh2scfCA",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s51",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1",
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 있지 유나 예지 직캠 'Gas Me Up' (ITZY YUNA / YEJI Fancam) 4K @ BORN TO BE Concert Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-29",
+      "thumbPos": "71% 35%"
+    },
+    {
+      "id": "v23096",
+      "ytId": "FvE0v5Tnm6E",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 있지 유나 직캠 'BORN TO BE' (ITZY YUNA Fancam) 4K @ BORN TO BE Concert Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-29"
+    },
+    {
+      "id": "v23097",
+      "ytId": "H_6v4ipxfw0",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Loco 있지 예지 직캠 (ITZY YEJI Fancam) 240428",
+      "channel": "Yeji in Berlin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-01"
+    },
+    {
+      "id": "v23098",
+      "ytId": "uh5awIZe5Ek",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        },
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Mr. Vampire, Swipe, Wannabe 있지 예지 직캠 (ITZY YEJI Fancam) 240428",
+      "channel": "Yeji in Berlin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-01"
+    },
+    {
+      "id": "v23099",
+      "ytId": "tNFd1bij0s8",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1",
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 있지 유나 예지 직캠 'SNEAKERS' (ITZY YUNA / YEJI Fancam) 4K @ BORN TO BE Concert Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-01"
+    },
+    {
+      "id": "v23100",
+      "ytId": "9R8Z3OBeHMs",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Love is, Be in Love 있지 예지 직캠 (ITZY YEJI Fancam) 240428",
+      "channel": "Yeji in Berlin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-01",
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v23101",
+      "ytId": "0dH2qgaclRA",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 RYUJIN (류진) 'Run Away' 4K Fancam 직캠 | ITZY CONCERT 있지 콘서트 'BORN TO BE' in BERLIN",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-29"
+    },
+    {
+      "id": "v23102",
+      "ytId": "BOii0WRuxb8",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s46",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Born To Be, Racer, Kidding Me 있지 예지 직캠 (ITZY YEJI Fancam) 240428",
+      "channel": "Yeji in Berlin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-01",
+      "thumbPos": "59% 35%"
+    },
+    {
+      "id": "v23103",
+      "ytId": "IORSe2UU1Xs",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240428 있지 유나 직캠 'Mr. Vampire' (ITZY YUNA Fancam) 4K @ BORN TO BE Concert Berlin",
+      "channel": "RST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-04-29"
+    },
+    {
+      "id": "v23104",
+      "ytId": "ta6NV9knwhY",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s49",
+          "t": 0
+        },
+        {
+          "songId": "g7s48",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240501 ITZY Born To Be in Amsterdam Psychic Lover + Don't Give a What + Loco  ULTRA HD fancam",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-02",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23105",
+      "ytId": "HcMlSLcMxOs",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        },
+        {
+          "songId": "g7s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240501 ITZY Born To Be in Amsterdam Full encore (Love is to Dalla Dalla) ULTRA HD fancam",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-03",
+      "thumbPos": "50% 40%"
+    },
+    {
+      "id": "v23106",
+      "ytId": "ksGt-FxyeZw",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        },
+        {
+          "songId": "g7s12",
+          "t": 0
+        },
+        {
+          "songId": "g7s7",
+          "t": 0
+        },
+        {
+          "songId": "g7s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240501 ITZY Born To Be in Amsterdam Not Shy + Cake + Sneakers ULTRA HD fancam",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-02",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23107",
+      "ytId": "BCTEjJuN2_4",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240501 ITZY Born To Be in Amsterdam Yet, but (Yuna solo) ULTRA HD fancam",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-02"
+    },
+    {
+      "id": "v23108",
+      "ytId": "IGCJlS-vkvA",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240501 ITZY Born To Be in Amsterdam Kill Shot +  Escalator ULTRA HD fancam",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-02",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23109",
+      "ytId": "eqMZNZh_G2s",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240501 ITZY Born To Be in Amsterdam Crown On My Head (Yeji solo)",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-02"
+    },
+    {
+      "id": "v23110",
+      "ytId": "x2r9ehtBdUc",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240501 ITZY Born To Be in Amsterdam Run Away (Ryujin solo) ULTRA HD fancam",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-02"
+    },
+    {
+      "id": "v23111",
+      "ytId": "sdVjAX_Ggog",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240501 ITZY (있지) - DYNAMITE @ BORN TO BE WORLD TOUR IN AMSTERDAM [4K FANCAM]",
+      "channel": "(G)OTXZY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-03",
+      "thumbPos": "50% 49%"
+    },
+    {
+      "id": "v23112",
+      "ytId": "tKejTjTebAo",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240501 ITZY (있지) - BORN TO BE (OPENING) @ BORN TO BE WORLD TOUR IN AMSTERDAM [4K FANCAM]",
+      "channel": "(G)OTXZY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-02",
+      "thumbPos": "50% 3%"
+    },
+    {
+      "id": "v23113",
+      "ytId": "0rOPd2N9p7M",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240501 ITZY (있지) - LOCO @ BORN TO BE WORLD TOUR IN AMSTERDAM [4K FANCAM]",
+      "channel": "(G)OTXZY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-04",
+      "thumbPos": "50% 17%"
+    },
+    {
+      "id": "v23114",
+      "ytId": "7XUYvVHDqLo",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        },
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240501 ITZY Born To Be in Amsterdam Wannabe ULTRA HD fancam",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-02",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23115",
+      "ytId": "sPXVHpj7eGc",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ Yuna Fancam ] ITZY - Born To Be @ BORNTOBE World Tour in Amsterdam 240501",
+      "channel": "Serenity&Dreamer",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-21"
+    },
+    {
+      "id": "v23116",
+      "ytId": "xZCRAV_Sgq0",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        },
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240501 ITZY Born To Be in Amsterdam Untouchable + Gas Me Up + Dynamite ULTRA HD fancam",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-02",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23117",
+      "ytId": "qFD4_N1E6Yw",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        },
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240501 ITZY Born To Be in Amsterdam Mr. Vampire + Swipe ULTRA HD fancam",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-02",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23118",
+      "ytId": "udMHqxkvOQY",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[ Full Fancam ] ITZY BORNTOBE World Tour in Amsterdam 240501",
+      "channel": "Serenity&Dreamer",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-15",
+      "thumbPos": "50% 26%"
+    },
+    {
+      "id": "v23119",
+      "ytId": "-qfhAH8ckqw",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ Chaeryeong Fancam ] ITZY - Born To Be @ BORNTOBE World Tour in Amsterdam 240501",
+      "channel": "Serenity&Dreamer",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-26"
+    },
+    {
+      "id": "v23120",
+      "ytId": "9CgRYKOMayI",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240501 ITZY Born To Be in Amsterdam Mine (Chaeryeong solo) ULTRA HD fancam",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-02"
+    },
+    {
+      "id": "v23121",
+      "ytId": "Hji5RoFNreM",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g7s46",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[ Yuna Fancam ] ITZY - Racer @ BORNTOBE World Tour in Amsterdam 240501",
+      "channel": "Serenity&Dreamer",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-22"
+    },
+    {
+      "id": "v23122",
+      "ytId": "HcoStG0ZbRs",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240504 ITZY (있지) - KIDDING ME | ITZY 2ND WORLD TOUR “BORN TO BE” in MADRID (4K FANCAM)",
+      "channel": "miarose",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-06",
+      "thumbPos": "50% 18%"
+    },
+    {
+      "id": "v23123",
+      "ytId": "CHmM0yVU02Y",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g7s46",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240504 ITZY (있지) - BORN TO BE + RACER | ITZY 2ND WORLD TOUR “BORN TO BE” in MADRID (4K FANCAM)",
+      "channel": "miarose",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-06",
+      "thumbPos": "50% 66%"
+    },
+    {
+      "id": "v23124",
+      "ytId": "xP21Amq3tNM",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240504 YUNA (유나) - YET, BUT | ITZY 2ND WORLD TOUR “BORN TO BE” in MADRID (4K FANCAM)",
+      "channel": "miarose",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-13",
+      "thumbPos": "65% 35%"
+    },
+    {
+      "id": "v23125",
+      "ytId": "a_SrtIXMEr0",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240504 RYUJIN (류진) - RUN AWAY | ITZY 2ND WORLD TOUR “BORN TO BE” in MADRID (4K FANCAM)",
+      "channel": "miarose",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-11",
+      "thumbPos": "59% 35%"
+    },
+    {
+      "id": "v23126",
+      "ytId": "e2srFxx6jVw",
+      "eventId": "e1639",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "ITZY(있지) 유나 UNTOUCHABLE @SK하이닉스 The캠퍼스 비긴어게인 240509",
+      "channel": "쇼츠만드는하운드",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-11"
+    },
+    {
+      "id": "v23127",
+      "ytId": "kVXdPDLcarA",
+      "eventId": "e1639",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "ITZY(있지) 채령 CAKE @SK하이닉스 The캠퍼스 비긴어게인 240509",
+      "channel": "쇼츠만드는하운드",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-10"
+    },
+    {
+      "id": "v23128",
+      "ytId": "o6WcXWl8XWQ",
+      "eventId": "e1640",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240526 ITZY RYUJIN UNTOUCHABLE fancam 있지 류진 직캠 @ YONSEI UNIVERSITY AKARAKA FESTIVAL 연세대 아카라카",
+      "channel": "loveRYU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-30"
+    },
+    {
+      "id": "v23129",
+      "ytId": "M-xK-eiMBeU",
+      "eventId": "e1640",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        },
+        {
+          "songId": "g7s7",
+          "t": 0
+        },
+        {
+          "songId": "g7s15",
+          "t": 0
+        },
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[공식] ITZY(있지) Live Ver. 'UNTOUCHABLE, CAKE, 달라달라 DALLA DALLA, WANNABE ' l 240526 @동문 아카라카",
+      "channel": "연세여 사랑한다",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-29",
+      "thumbPos": "50% 43%"
+    },
+    {
+      "id": "v23130",
+      "ytId": "-rt5hiQgRrw",
+      "eventId": "e1640",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        },
+        {
+          "songId": "g7s7",
+          "t": 0
+        },
+        {
+          "songId": "g7s15",
+          "t": 0
+        },
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[공식] 4K ITZY(있지) FAN Ver. 'UNTOUCHABLE, CAKE, 달라달라 DALLA DALLA, WANNABE ' l 240526 @동문 아카라카",
+      "channel": "연세여 사랑한다",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-05",
+      "thumbPos": "50% 59%"
+    },
+    {
+      "id": "v23131",
+      "ytId": "I2JxKz441NE",
+      "eventId": "e1640",
+      "songs": [
+        {
+          "songId": "g7s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240526 ITZY(있지) - 달라달라(DALLA DALLA) | 2024 연세대 동문 아카라카 | AKARAKA | YONSEI UNIVERSITY",
+      "channel": "SeohaLin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-29",
+      "thumbPos": "50% 46%"
+    },
+    {
+      "id": "v23132",
+      "ytId": "Deiu4eCoaHA",
+      "eventId": "e1640",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240526 있지 유나 직캠 'UNTOUCHABLE' (ITZY YUNA FanCam) @연세대",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-23"
+    },
+    {
+      "id": "v23133",
+      "ytId": "i3qL1w_ONTY",
+      "eventId": "e1640",
+      "songs": [
+        {
+          "songId": "g7s15",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240526 연세대 아카라카 있지 Dalla Dalla ITZY Yeji Focus",
+      "channel": "RecLewis",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-27",
+      "thumbPos": "41% 35%"
+    },
+    {
+      "id": "v23134",
+      "ytId": "mIo7yA227NE",
+      "eventId": "e1640",
+      "songs": [
+        {
+          "songId": "g7s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240526 아카라카 있지 달라달라",
+      "channel": "shin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-27",
+      "thumbPos": "50% 86%"
+    },
+    {
+      "id": "v23135",
+      "ytId": "E7V7w1XwKgg",
+      "eventId": "e1640",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240526 ITZY(있지) - WANNABE | 2024 연세대 동문 아카라카 | AKARAKA | YONSEI UNIVERSITY",
+      "channel": "SeohaLin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-30",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23136",
+      "ytId": "c4g3otMc1wE",
+      "eventId": "e1640",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240526 있지 유나 직캠 'CAKE' (ITZY YUNA FanCam) @연세대",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-23"
+    },
+    {
+      "id": "v23137",
+      "ytId": "78KZDlV1zwI",
+      "eventId": "e1640",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240526 연세대 아카라카 있지 Cake ITZY YEJI Focus",
+      "channel": "RecLewis",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-05-29"
+    },
+    {
+      "id": "v23138",
+      "ytId": "D8n5lnegFu4",
+      "eventId": "e1640",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240526 있지 유나 직캠 'WANNABE' (ITZY YUNA FanCam) @연세대",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-23"
+    },
+    {
+      "id": "v23139",
+      "ytId": "XmLuZR3Jc0Q",
+      "eventId": "e1641",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240602 K-WAVE 콘서트 인기가요 있지 유나 ’UNTOUCHABLE’직캠 ITZY YUNA FANCAM",
+      "channel": "Ko",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-03",
+      "thumbPos": "11% 35%"
+    },
+    {
+      "id": "v23140",
+      "ytId": "IQSOVtlIxg8",
+      "eventId": "e1641",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240602 ITZY RYUJIN UNTOUCHABLE fancam 있지 류진 언터처블 직캠 @ K-WAVE INKIGAYO 인기가요 콘서트",
+      "channel": "loveRYU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-04",
+      "thumbPos": "21% 35%"
+    },
+    {
+      "id": "v23141",
+      "ytId": "7Xj64iYhLZc",
+      "eventId": "e1641",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240602 ITZY YUNA 'Mr. Vampire' 미뱀 2024 있지 유나 K-WAVE CONCERT 인기가요 직캠 fancam",
+      "channel": "𝙨𝙨",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-10"
+    },
+    {
+      "id": "v23142",
+      "ytId": "9smOcKrS7-o",
+      "eventId": "e1641",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240602 ITZY YUNA 'UNTOUCHABLE' 2024 있지 유나 K-WAVE CONCERT 인기가요 직캠 fancam",
+      "channel": "𝙨𝙨",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-07"
+    },
+    {
+      "id": "v23143",
+      "ytId": "qtwiruAEBfc",
+      "eventId": "e1641",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240602 K-WAVE 인기가요 'Mr.Vampire' | ITZY RYUJIN(있지 류진) fancam",
+      "channel": "yeux",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-04"
+    },
+    {
+      "id": "v23144",
+      "ytId": "hZUkXMxXZrE",
+      "eventId": "e1641",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240602 K-WAVE 인기가요 'UNTOUCHABLE' | ITZY RYUJIN(있지 류진) fancam",
+      "channel": "yeux",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-04"
+    },
+    {
+      "id": "v23145",
+      "ytId": "P7o1T5kjpTc",
+      "eventId": "e1641",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240602 있지(ITZY) - UNTOUCHABLE ｜ K-WAVE 콘서트 〈인기가요〉 by Coca-Cola Creations",
+      "channel": "슈삼",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-02",
+      "thumbPos": "50% 27%"
+    },
+    {
+      "id": "v23146",
+      "ytId": "EWqsElfOBvM",
+      "eventId": "e1641",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240602 K-WAVE 콘서트 ITZY(있지) - UNTOUCHABLE fancam",
+      "channel": "케일",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-03",
+      "thumbPos": "50% 29%"
+    },
+    {
+      "id": "v23147",
+      "ytId": "g2oHuwpW1UA",
+      "eventId": "e1641",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240602 있지 예지 직캠 UNTOUCHABLE ITZY YEJI FANCAM @K-WAVE CONCERT 2024",
+      "channel": "Bubble Pop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-07"
+    },
+    {
+      "id": "v23148",
+      "ytId": "vT3Qav_CCUg",
+      "eventId": "e1641",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240602 K-Wave 있지 류진 Mr.vampire  직캠 고화질 4K",
+      "channel": "빵태희",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-06",
+      "thumbPos": "27% 35%"
+    },
+    {
+      "id": "v23149",
+      "ytId": "jbm7Hi_a7cU",
+      "eventId": "e1641",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240602 K-Wave 있지 채령 cake 직캠 고화질 4K",
+      "channel": "빵태희",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-06",
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v23150",
+      "ytId": "05aKV0pHwXs",
+      "eventId": "e1641",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        },
+        {
+          "songId": "g7s6",
+          "t": 0
+        },
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240602 K-WAVE 있지 ITZY 유나 Yuna UNTOUCHABLE , Mr.Vampire , CAKE 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-03"
+    },
+    {
+      "id": "v23151",
+      "ytId": "R2a1fHDZAFA",
+      "eventId": "e1642",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240606 4K ITZY 있지 2nd World Tour 'Born To Be'  Seattle MC Full Version FanCam",
+      "channel": "Hayashin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-08",
+      "thumbPos": "50% 87%"
+    },
+    {
+      "id": "v23152",
+      "ytId": "vdKDzN28eQE",
+      "eventId": "e1642",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240606 Itzy - Kidding Me @ Seattle (Born To Be Tour First Stop) Fancam",
+      "channel": "RRyuRiki",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-08",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23153",
+      "ytId": "YrwNM-r9__k",
+      "eventId": "e1643",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        },
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240608 있지 류진 직캠 'Not Shy + CAKE' (ITZY RYUJIN FanCam) @2ND WORLD TOUR IN Oakland",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-10"
+    },
+    {
+      "id": "v23154",
+      "ytId": "IW7Rgnu4Qf8",
+      "eventId": "e1643",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240608 ITZY(있지) RYUJIN(류진) 'Run Away' Solo Stage ITZY 2ND WORLD TOUR ＜BORN TO BE＞ @ Oakland Arena",
+      "channel": "nvr4GGet93o39🌸",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-09",
+      "thumbPos": "50% 29%"
+    },
+    {
+      "id": "v23155",
+      "ytId": "09veFQvzanA",
+      "eventId": "e1643",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        },
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240608 itzy born to be tour (oakland) - cake",
+      "channel": "waver123",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-09",
+      "thumbPos": "50% 29%"
+    },
+    {
+      "id": "v23156",
+      "ytId": "nZB2SQdJf-w",
+      "eventId": "e1643",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        },
+        {
+          "songId": "g7s7",
+          "t": 0
+        },
+        {
+          "songId": "g7s9",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K HDR] VIP ITZY \"NOT SHY\" + \"CAKE\" + \"SNEAKERS\" // BORN TO BE WORLD TOUR OAKLAND 240608",
+      "channel": "Blackpink in the front row",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-10",
+      "thumbPos": "50% 46%"
+    },
+    {
+      "id": "v23157",
+      "ytId": "BvvmDSHwGtA",
+      "eventId": "e1643",
+      "songs": [
+        {
+          "songId": "g7s46",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240608 ITZY - Intro + BORN TO BE + RACER + KIDDING ME | Born To Be Tour in Oakland [4K Fancam]",
+      "channel": "fermat the kat",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-09",
+      "thumbPos": "50% 27%"
+    },
+    {
+      "id": "v23158",
+      "ytId": "t3qWxcPNKdQ",
+      "eventId": "e1643",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240608 4K ITZY 있지 2nd World Tour 'Born To Be'  Oakland MC Full Version FanCam",
+      "channel": "Hayashin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-10",
+      "thumbPos": "50% 71%"
+    },
+    {
+      "id": "v23159",
+      "ytId": "cOJ-nUdKszQ",
+      "eventId": "e1643",
+      "songs": [
+        {
+          "songId": "g7s15",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240608 ITZY - Boys Like You + DALLA DALLA (Encore) | Born To Be Tour in Oakland [4K Fancam]",
+      "channel": "fermat the kat",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-10",
+      "thumbPos": "50% 31%"
+    },
+    {
+      "id": "v23160",
+      "ytId": "mG32evJJRo4",
+      "eventId": "e1643",
+      "songs": [
+        {
+          "songId": "g7s52",
+          "t": 0
+        },
+        {
+          "songId": "g7s53",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240608 ITZY - Kill Shot + Escalator | Born To Be Tour in Oakland [4K Fancam]",
+      "channel": "fermat the kat",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-10",
+      "thumbPos": "50% 35%"
+    },
+    {
+      "id": "v23161",
+      "ytId": "OOjkO9Fo_ig",
+      "eventId": "e1643",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240608 itzy born to be tour (oakland) - killshot, escalator",
+      "channel": "waver123",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-09",
+      "thumbPos": "50% 36%"
+    },
+    {
+      "id": "v23162",
+      "ytId": "aBTmuEVc6Qc",
+      "eventId": "e1643",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240608 ITZY - Mr. Vampire + SWIPE | Born To Be Tour in Oakland [4K Fancam]",
+      "channel": "fermat the kat",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-10",
+      "thumbPos": "50% 29%"
+    },
+    {
+      "id": "v23163",
+      "ytId": "RHsetMXwhUw",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[K-WAVE CONCERT 4K] 있지 류진 'UNTOUCHABLE' (ITZY RYUJIN FanCam) │@SBS Inkigayo 240609",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-11",
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v23164",
+      "ytId": "gj8BK2jtgD4",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[K-WAVE CONCERT 4K] 있지 예지 'UNTOUCHABLE' (ITZY YEJI FanCam) │@SBS Inkigayo 240609",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-11"
+    },
+    {
+      "id": "v23165",
+      "ytId": "q3aYtQuWFt0",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[K-WAVE CONCERT 4K] 있지 유나 'UNTOUCHABLE' (ITZY YUNA FanCam) │@SBS Inkigayo 240609",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-11",
+      "thumbPos": "57% 35%"
+    },
+    {
+      "id": "v23166",
+      "ytId": "1FeAmqN6FC4",
+      "eventId": "e1092",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[K-WAVE CONCERT 4K] 있지 채령 'UNTOUCHABLE' (ITZY CHAERYEONG  FanCam) │@SBS Inkigayo 240609",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-11"
+    },
+    {
+      "id": "v23167",
+      "ytId": "tU_D6vlCA5E",
+      "eventId": "e1644",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240611 4K ITZY 있지 2nd World Tour 'Born To Be'  Los Angeles MC Full Version FanCam",
+      "channel": "Hayashin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-13",
+      "thumbPos": "50% 48%"
+    },
+    {
+      "id": "v23168",
+      "ytId": "F-POC9auF5k",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY \"Untouchable\" Fancam 있지 직캠 @ Born To Be World Tour in LA",
+      "channel": "Candy So Sweet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-13",
+      "thumbPos": "50% 40%"
+    },
+    {
+      "id": "v23169",
+      "ytId": "O46HHY4Teoo",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY \"WANNABE\" Fancam 있지 직캠 @ Born To Be World Tour in LA",
+      "channel": "Candy So Sweet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-16"
+    },
+    {
+      "id": "v23170",
+      "ytId": "TC6XbXZG95c",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY 'UNTOUCHABLE + Gas Me Up + Dynamite' Fancam (있지 직캠) @ 'BORN TO BE' Los Angeles",
+      "channel": "Z2ZZ22Z",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-14",
+      "thumbPos": "50% 12%"
+    },
+    {
+      "id": "v23171",
+      "ytId": "jC8FzOBhWvM",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s52",
+          "t": 0
+        },
+        {
+          "songId": "g7s53",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY 'Kill Shot + Escalator' Fancam (있지 직캠) @ 'BORN TO BE' Los Angeles",
+      "channel": "Z2ZZ22Z",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-14",
+      "thumbPos": "50% 11%"
+    },
+    {
+      "id": "v23172",
+      "ytId": "bcrGlrwzFLw",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY 'LOCO' Fancam (있지 직캠) @ 'BORN TO BE' Los Angeles",
+      "channel": "Z2ZZ22Z",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-14",
+      "thumbPos": "50% 45%"
+    },
+    {
+      "id": "v23173",
+      "ytId": "ct4h19VYXbI",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY \"Not Shy\" Fancam 있지 직캠 @ Born To Be World Tour in LA",
+      "channel": "Candy So Sweet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-16",
+      "thumbPos": "50% 38%"
+    },
+    {
+      "id": "v23174",
+      "ytId": "dp9am_u-NFU",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240611 ITZY (있지) BORN TO BE Tour in Los Angeles (LA) - BORN TO BE Intro 4K Fancam",
+      "channel": "High on Muffins",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-12",
+      "thumbPos": "50% 40%"
+    },
+    {
+      "id": "v23175",
+      "ytId": "foruK61kMKc",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY 'BORN TO BE' Fancam (있지 직캠) @ 'BORN TO BE' Los Angeles",
+      "channel": "Z2ZZ22Z",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-13",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23176",
+      "ytId": "inHmKFVQ5Ng",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240611 ITZY (있지) BORN TO BE Tour in Los Angeles (LA) - 'SWIPE' 4K Fancam",
+      "channel": "High on Muffins",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-12",
+      "thumbPos": "50% 28%"
+    },
+    {
+      "id": "v23177",
+      "ytId": "3nw79SMV7n4",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        },
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY 'NOT SHY + CAKE' Fancam (있지 직캠) @ 'BORN TO BE' Los Angeles",
+      "channel": "Z2ZZ22Z",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-14",
+      "thumbPos": "50% 45%"
+    },
+    {
+      "id": "v23178",
+      "ytId": "MaFPkHA1d6U",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY 'SWIPE' Fancam (있지 직캠) @ 'BORN TO BE' Los Angeles",
+      "channel": "Z2ZZ22Z",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-13",
+      "thumbPos": "50% 31%"
+    },
+    {
+      "id": "v23179",
+      "ytId": "EdtQhZokR1w",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY 'SNEAKERS' Fancam (있지 직캠) @ 'BORN TO BE' Los Angeles",
+      "channel": "Z2ZZ22Z",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-14",
+      "thumbPos": "50% 24%"
+    },
+    {
+      "id": "v23180",
+      "ytId": "q3HgvSmBB1M",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY 'WANNABE' Fancam (있지 직캠) @ 'BORN TO BE' Los Angeles",
+      "channel": "Z2ZZ22Z",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-13",
+      "thumbPos": "50% 43%"
+    },
+    {
+      "id": "v23181",
+      "ytId": "GTlYIfHI1Mk",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s49",
+          "t": 0
+        },
+        {
+          "songId": "g7s48",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY 'Don’t Give A What + Psychic Lover' Fancam (있지 직캠) @ 'BORN TO BE' Los Angeles",
+      "channel": "Z2ZZ22Z",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-14",
+      "thumbPos": "50% 43%"
+    },
+    {
+      "id": "v23182",
+      "ytId": "tUrL2jYmHyE",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        },
+        {
+          "songId": "g7s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] 240611 ITZY Born to be tour in LA - DALLA DALLA",
+      "channel": "1ndymynt",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-13",
+      "thumbPos": "50% 43%"
+    },
+    {
+      "id": "v23183",
+      "ytId": "KJrvkxUK0rE",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        },
+        {
+          "songId": "g7s7",
+          "t": 0
+        },
+        {
+          "songId": "g7s9",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Itzy Not Shy + CAKE + SNEAKERS BORN TO BE World Tour Kia Fourm Fancam 직캠 240611",
+      "channel": "Pearin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-16",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23184",
+      "ytId": "KLpBcn8yCKk",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s10",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Itzy LOCO BORN TO BE World Tour Kia Fourm Fancam 직캠 240611",
+      "channel": "Pearin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-16",
+      "thumbPos": "50% 23%"
+    },
+    {
+      "id": "v23185",
+      "ytId": "vGIxqaafMzA",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] 240611 ITZY Born to be tour in LA - Gas me up + Dynamite",
+      "channel": "1ndymynt",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-13",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23186",
+      "ytId": "lAsff0i9_Zk",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] 240611 ITZY Born to be tour in LA - Psychic lover",
+      "channel": "1ndymynt",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-13",
+      "thumbPos": "50% 35%"
+    },
+    {
+      "id": "v23187",
+      "ytId": "n7qXMLYqRHQ",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s54",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY YEJI 'Crown On My Head' Fancam (있지 예지 직캠) @ 'BORN TO BE' Los Angeles",
+      "channel": "Z2ZZ22Z",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-13"
+    },
+    {
+      "id": "v23188",
+      "ytId": "-M-96Go4hHM",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY YEJI - Crown On My Head [Born to Be LA]",
+      "channel": "Stan Talent",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-13",
+      "thumbPos": "65% 35%"
+    },
+    {
+      "id": "v23189",
+      "ytId": "Hn-DXW3WEfg",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s55",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY RYUJIN 'Run Away' Fancam (있지 류진 직캠) @ 'BORN TO BE' Los Angeles",
+      "channel": "Z2ZZ22Z",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-13"
+    },
+    {
+      "id": "v23190",
+      "ytId": "XadwxOfZEA0",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        },
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] 240611 ITZY Born to be tour in LA - Cake (Ryujin focus)",
+      "channel": "1ndymynt",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-13"
+    },
+    {
+      "id": "v23191",
+      "ytId": "GnUCjG2-QmU",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s56",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY CHAERYEONG 'MINE' Fancam (있지 채령 직캠) @ 'BORN TO BE' Los Angeles",
+      "channel": "Z2ZZ22Z",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-13",
+      "thumbPos": "69% 35%"
+    },
+    {
+      "id": "v23192",
+      "ytId": "GRjCxSWfPts",
+      "eventId": "e1644",
+      "songs": [
+        {
+          "songId": "g7s53",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240611 ITZY \"Escalator\" Chaeryeong Fancam 채령 직캠 @ Born To Be World Tour in LA",
+      "channel": "Candy So Sweet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-13"
+    },
+    {
+      "id": "v23193",
+      "ytId": "vm_1CXm4FFk",
+      "eventId": "e1645",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240618 있지 ITZY - Full concert (25 songs) live @ Fox Theatre, Atlanta, GA 4K Fancam",
+      "channel": "SonicAwareness 4K Fancams",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-21",
+      "thumbPos": "50% 23%"
+    },
+    {
+      "id": "v23194",
+      "ytId": "zsSomdlpv1Q",
+      "eventId": "e1645",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Yuna fancam 'Dynamite' - ITZY 'Born To Be' Tour - 240618 Atlanta",
+      "channel": "heejinsoulyves",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-19"
+    },
+    {
+      "id": "v23195",
+      "ytId": "oNrQ7eoOVS8",
+      "eventId": "e1645",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Yuna fancam 'Untouchable' - ITZY 'Born To Be' Tour - 240618 Atlanta",
+      "channel": "heejinsoulyves",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-19"
+    },
+    {
+      "id": "v23196",
+      "ytId": "D6joHXK2puI",
+      "eventId": "e1645",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240618 4K ITZY 있지 2nd World Tour 'Born To Be'  Atlanta MC Full Version FanCam",
+      "channel": "Hayashin",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-20",
+      "thumbPos": "50% 32%"
+    },
+    {
+      "id": "v23197",
+      "ytId": "W0fA3BzC1TI",
+      "eventId": "e1645",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Yuna fancam 'Gas Me Up' - ITZY 'Born To Be' Tour - 240618 Atlanta",
+      "channel": "heejinsoulyves",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-19"
+    },
+    {
+      "id": "v23198",
+      "ytId": "JuHHJp8idc4",
+      "eventId": "e1645",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240618 4K60 ITZY ‘UNTOUCHABLE’ Born to Be @ Atlanta 있지",
+      "channel": "Toadcola",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-19",
+      "thumbPos": "50% 55%"
+    },
+    {
+      "id": "v23199",
+      "ytId": "evMC2WiG7Gc",
+      "eventId": "e1645",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240618 4K60 ITZY - 1st ments - Born to Be @ Atlanta 있지",
+      "channel": "Toadcola",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-19",
+      "thumbPos": "50% 41%"
+    },
+    {
+      "id": "v23200",
+      "ytId": "Izl3f8no1iM",
+      "eventId": "e1645",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240618 4K60 ITZY ‘Mr Vampire’ Born to Be @ Atlanta 있지",
+      "channel": "Toadcola",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-19",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23201",
+      "ytId": "AFTiSppUHks",
+      "eventId": "e1645",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240618 4K60 ITZY ‘CAKE’ Born to Be @ Atlanta 있지",
+      "channel": "Toadcola",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-19",
+      "thumbPos": "50% 44%"
+    },
+    {
+      "id": "v23202",
+      "ytId": "56zaBV9go4w",
+      "eventId": "e1645",
+      "songs": [
+        {
+          "songId": "g7s46",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240618 있지 - Racer 직캠 Oakland Born To Be Tour ITZY - Racer Fancam",
+      "channel": "xlyesterdaylx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-08",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23203",
+      "ytId": "gax3CLDwyXo",
+      "eventId": "e1645",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240618 있지 - Born To Be 직캠 Oakland Born To Be Tour ITZY - Born To be Fancam",
+      "channel": "xlyesterdaylx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-08",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23204",
+      "ytId": "2UWitAuF2nY",
+      "eventId": "e1645",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[BORN TO BE ATLANTA] 있지 예지 직캠 'CROWN ON MY HEAD'(ITZY YEJI Fancam)",
+      "channel": "Seoul Vibes",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-05"
+    },
+    {
+      "id": "v23205",
+      "ytId": "kOmmLQT-xEg",
+      "eventId": "e1645",
+      "songs": [
+        {
+          "songId": "g7s46",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[BORN TO BE ATLANTA] 있지 예지 직캠 'RACER'(ITZY YEJI Fancam)",
+      "channel": "Seoul Vibes",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-05",
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v23206",
+      "ytId": "yfaNGJ_iO_k",
+      "eventId": "e1645",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[BORN TO BE ATLANTA] 있지 예지 직캠 KIDDING ME (ITZY YEJI Fancam)",
+      "channel": "Seoul Vibes",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-05",
+      "thumbPos": "74% 35%"
+    },
+    {
+      "id": "v23207",
+      "ytId": "zexxY2Pe818",
+      "eventId": "e1646",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240620 있지 ITZY - Full concert (25 songs) live @ EagleBank Arena, Fairfax, VA 4K Fancam",
+      "channel": "SonicAwareness 4K Fancams",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-22",
+      "thumbPos": "50% 36%"
+    },
+    {
+      "id": "v23208",
+      "ytId": "OvNEscLfHCg",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY | BOYS LIKE YOU + DALLA DALLA | NEWARK | 240623 | 4K HDR",
+      "channel": "midzy2126",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-29",
+      "thumbPos": "50% 96%"
+    },
+    {
+      "id": "v23209",
+      "ytId": "pQHPTtw0nxo",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY | UNTOUCHABLE + GAS ME UP + DYNAMITE | NEWARK | 240623 | 4K HDR",
+      "channel": "midzy2126",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-25",
+      "thumbPos": "50% 46%"
+    },
+    {
+      "id": "v23210",
+      "ytId": "bKS2k6HgSi0",
+      "eventId": "e1647",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240623 있지 ITZY - Full concert (25 songs) live @ Prudential Center, Newark, NJ 4K Fancam",
+      "channel": "SonicAwareness 4K Fancams",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-25",
+      "thumbPos": "50% 12%"
+    },
+    {
+      "id": "v23211",
+      "ytId": "kwTGWGUTetY",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s46",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY | BORN TO BE + RACER + KIDDING ME | NEWARK | 240623 | 4K HDR",
+      "channel": "midzy2126",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-25",
+      "thumbPos": "50% 46%"
+    },
+    {
+      "id": "v23212",
+      "ytId": "euiYZWdgouI",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s52",
+          "t": 0
+        },
+        {
+          "songId": "g7s53",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY | KILL SHOT + ESCALATOR | NEWARK | 240623 | 4K HDR",
+      "channel": "midzy2126",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-27",
+      "thumbPos": "50% 39%"
+    },
+    {
+      "id": "v23213",
+      "ytId": "VoknkD9B33A",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        },
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY | MR. VAMPIRE + SWIPE + WANNABE | NEWARK | 240623 | 4K HDR",
+      "channel": "midzy2126",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-25",
+      "thumbPos": "50% 42%"
+    },
+    {
+      "id": "v23214",
+      "ytId": "uMbHIprxwe4",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY 있지 'Cake' 240623 Newark Concert Fancam 직캠",
+      "channel": "ggoomCAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-24",
+      "thumbPos": "50% 49%"
+    },
+    {
+      "id": "v23215",
+      "ytId": "WLm0sH_u6YA",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s9",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240623 4K60 ITZY ‘Sneakers’ Born to Be @ Newark 있지",
+      "channel": "Toadcola",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-24",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23216",
+      "ytId": "JT5z_h2bw5c",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY 있지 'Dalla Dalla' 240623 Newark Concert Fancam 직캠",
+      "channel": "ggoomCAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-29",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23217",
+      "ytId": "-UwnPE8tXR8",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s54",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240623 ITZY 있지 YEJI SOLO STAGE 'CROWN ON MY HEAD' NEWARK BARRICADE VIEW",
+      "channel": "Notag",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-05",
+      "thumbPos": "50% 23%"
+    },
+    {
+      "id": "v23218",
+      "ytId": "n4DZBCK8UuE",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s57",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY 있지 'Boys Like You' 240623 Newark Concert Fancam 직캠",
+      "channel": "ggoomCAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-29",
+      "thumbPos": "50% 29%"
+    },
+    {
+      "id": "v23219",
+      "ytId": "JKt9mEFVfaM",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240623 4K60 ITZY ‘Yet, But’ Yuna solo, Born to Be @ Newark 있지 유나",
+      "channel": "Toadcola",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-24",
+      "thumbPos": "32% 35%"
+    },
+    {
+      "id": "v23220",
+      "ytId": "uT3-3mnXeOo",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s51",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240623 ITZY 있지 'GAS ME UP' FRONT ROW FANCAM NEWARK 4K60",
+      "channel": "Notag",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-07",
+      "thumbPos": "50% 46%"
+    },
+    {
+      "id": "v23221",
+      "ytId": "nj3ZMrCu2fk",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s58",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240623 ITZY 있지 YUNA SOLO STAGE 'YET, BUT' FRONT ROW FANCAM",
+      "channel": "Notag",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-04",
+      "thumbPos": "44% 35%"
+    },
+    {
+      "id": "v23222",
+      "ytId": "6juNK0CUfIo",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240623 4K60 ITZY ‘Run Away’ Ryujin solo, Born to Be @ Newark 있지 류진",
+      "channel": "Toadcola",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-24"
+    },
+    {
+      "id": "v23223",
+      "ytId": "eGc0TF2YSkQ",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s55",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240623 ITZY 있지 RYUJIN 'RUN AWAY' SOLO STAGE FRONT ROW FANCAM NEWARK",
+      "channel": "Notag",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-03",
+      "thumbPos": "30% 35%"
+    },
+    {
+      "id": "v23224",
+      "ytId": "kvydF6L2UfY",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s49",
+          "t": 0
+        },
+        {
+          "songId": "g7s48",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY | PSYCHIC LOVER + DON'T GIVE A WHAT + LOCO | NEWARK | 240623 | 4K HDR",
+      "channel": "midzy2126",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-25",
+      "thumbPos": "50% 35%"
+    },
+    {
+      "id": "v23225",
+      "ytId": "UWYxHSLUVhU",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        },
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY | NOT SHY + CAKE | NEWARK | 240623 | 4K HDR",
+      "channel": "midzy2126",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-29",
+      "thumbPos": "50% 30%"
+    },
+    {
+      "id": "v23226",
+      "ytId": "CfuuV5sJRzI",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240623 ITZY - Mr. Vampire Yuna fancam",
+      "channel": "Convergency",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-26"
+    },
+    {
+      "id": "v23227",
+      "ytId": "Yb7zqxFCgY4",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s52",
+          "t": 0
+        },
+        {
+          "songId": "g7s53",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240623 ITZY 있지 'KILL SHOT & ESCALATOR' FANCAM FRONT ROW NEWARK NJ",
+      "channel": "Notag",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-14",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23228",
+      "ytId": "JXD_8q1twCM",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240623 ITZY 있지 'DALLA DALLA' FANCAM BARRICADE VIEW NJ NEWARK",
+      "channel": "Notag",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-18",
+      "thumbPos": "50% 26%"
+    },
+    {
+      "id": "v23229",
+      "ytId": "kczlVXj2HX0",
+      "eventId": "e1647",
+      "songs": [
+        {
+          "songId": "g7s47",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240623 ITZY 있지 'SWIPE' FRONT ROW FAN CAM NEWARK",
+      "channel": "Notag",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-29",
+      "thumbPos": "50% 44%"
+    },
+    {
+      "id": "v23230",
+      "ytId": "C8XYAmSGrL8",
+      "eventId": "e1648",
+      "songs": [
+        {
+          "songId": "g7s49",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY | DON'T GIVE A WHAT | CHICAGO | 240626 | 4K HDR",
+      "channel": "midzy2126",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-01",
+      "thumbPos": "50% 38%"
+    },
+    {
+      "id": "v23231",
+      "ytId": "Iv9J-34cewU",
+      "eventId": "e1648",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY | UNTOUCHABLE | CHICAGO | 240626 | 4K HDR",
+      "channel": "midzy2126",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-01",
+      "thumbPos": "50% 38%"
+    },
+    {
+      "id": "v23232",
+      "ytId": "GbvhHRTi4xI",
+      "eventId": "e1648",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240626 4K60 ITZY ‘Kill Shot’ ‘Escalator’ Born to Be @ Chicago 있지",
+      "channel": "Toadcola",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-16",
+      "thumbPos": "50% 39%"
+    },
+    {
+      "id": "v23233",
+      "ytId": "OtQzwIiMVko",
+      "eventId": "e1648",
+      "songs": [
+        {
+          "songId": "g7s46",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240626 4K60 ITZY ‘Born to Be’ ‘RACER’ ‘KIDDING ME’ Born to Be @ Chicago 있지",
+      "channel": "Toadcola",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-27",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23234",
+      "ytId": "0G04019WIDg",
+      "eventId": "e1648",
+      "songs": [
+        {
+          "songId": "g7s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY | CAKE | CHICAGO | 240626 | 4K HDR",
+      "channel": "midzy2126",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-01",
+      "thumbPos": "50% 20%"
+    },
+    {
+      "id": "v23235",
+      "ytId": "V7ovWC9NGZM",
+      "eventId": "e1648",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY | BORN TO BE | CHICAGO | 240626 | 4K HDR",
+      "channel": "midzy2126",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-01",
+      "thumbPos": "50% 30%"
+    },
+    {
+      "id": "v23236",
+      "ytId": "p8uBbEbGFfg",
+      "eventId": "e1648",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240626 4K60 ITZY ‘Mine’ Chaeryeong solo, Born to Be @ Chicago 있지 채령",
+      "channel": "Toadcola",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-27"
+    },
+    {
+      "id": "v23237",
+      "ytId": "zR10uaxqhvI",
+      "eventId": "e1648",
+      "songs": [
+        {
+          "songId": "g7s15",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY | DALLA DALLA | CHICAGO | 240626 | 4K HDR",
+      "channel": "midzy2126",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-01",
+      "thumbPos": "50% 38%"
+    },
+    {
+      "id": "v23238",
+      "ytId": "WXwvP_4iQf4",
+      "eventId": "e1648",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240626 4K60 ITZY ‘Run Away’ Ryujin solo, Born to Be @ Chicago 있지 류진",
+      "channel": "Toadcola",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-27"
+    },
+    {
+      "id": "v23239",
+      "ytId": "-UKXS0ZvGWo",
+      "eventId": "e1648",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        },
+        {
+          "songId": "g7s7",
+          "t": 0
+        },
+        {
+          "songId": "g7s9",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240626 4K60 ITZY ‘Not Shy’ ‘CAKE’ ‘SNEAKERS’ Born to Be @ Chicago 있지",
+      "channel": "Toadcola",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-16",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23240",
+      "ytId": "-t94QzhS2AY",
+      "eventId": "e1648",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY | FULL CONCERT | CHICAGO | 240626 | 4K HDR",
+      "channel": "midzy2126",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-06-28",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23241",
+      "ytId": "U5LO5axDbs8",
+      "eventId": "e1648",
+      "songs": [
+        {
+          "songId": "g7s13",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "ITZY | WANNABE | CHICAGO | 240626 | 4K HDR",
+      "channel": "midzy2126",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-01",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23242",
+      "ytId": "qpvG4RxunwA",
+      "eventId": "e1649",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240628 있지 ITZY 채령 Chaeryeong - Full concert (25 songs) live @ Toronto, Ontario, Canada 4K Fancam",
+      "channel": "SonicAwareness 4K Fancams",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-02",
+      "thumbPos": "50% 34%"
+    },
+    {
+      "id": "v23243",
+      "ytId": "Oqx6kkqJdyQ",
+      "eventId": "e1649",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240628 ITZY - BORN TO BE - BORN TO BE Tour in TORONTO",
+      "channel": "Simply BLINK ONCE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-04",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23244",
+      "ytId": "QnqM4rKyrMo",
+      "eventId": "e1649",
+      "songs": [
+        {
+          "songId": "g7s12",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60] 240628 ITZY - NOT SHY - BORN TO BE in TORONTO",
+      "channel": "Simply BLINK ONCE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-04",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23245",
+      "ytId": "uV918A4c_H0",
+      "eventId": "e1649",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240628 있지 ITZY 예지 Yeji - Crown On My Head live @ Toronto, Ontario, Canada Fancam",
+      "channel": "SonicAwareness 4K Fancams",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-13",
+      "thumbPos": "50% 32%"
+    },
+    {
+      "id": "v23246",
+      "ytId": "KQg6mLWpq5g",
+      "eventId": "e1649",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240628 있지 ITZY 류진 Ryujin - Run Away live @ Toronto, Ontario, Canada Fancam",
+      "channel": "SonicAwareness 4K Fancams",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-05",
+      "thumbPos": "50% 44%"
+    },
+    {
+      "id": "v23247",
+      "ytId": "_VaSTC6NU1A",
+      "eventId": "e1649",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240628 있지 ITZY 채령 Chaeryeong - Mine live @ Toronto, Ontario, Canada Fancam",
+      "channel": "SonicAwareness 4K Fancams",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-05",
+      "thumbPos": "50% 23%"
+    },
+    {
+      "id": "v23248",
+      "ytId": "77dO1PnCGNo",
+      "eventId": "e1649",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "240628 있지 ITZY 유나 Yuna - Yet, but live @ Toronto, Ontario, Canada Fancam",
+      "channel": "SonicAwareness 4K Fancams",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-05",
+      "thumbPos": "50% 17%"
+    },
+    {
+      "id": "v23249",
+      "ytId": "dRTbupySGmg",
+      "eventId": "e1650",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240629 있지 ITZY - Full concert (25 songs) live @ Toronto, Ontario, Canada 4K Fancam",
+      "channel": "SonicAwareness 4K Fancams",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-03",
+      "thumbPos": "50% 14%"
+    },
+    {
+      "id": "v23250",
+      "ytId": "6a7cNQuuzfM",
+      "eventId": "e1650",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240629 [4K] Itzy (있지) - FULL CONCERT DAY 2 [Born To Be 2nd World Tour in Toronto]",
+      "channel": "sunmike",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-01",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23251",
+      "ytId": "JfJTRBrHjnU",
+      "eventId": "e1650",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240629 [4K] Itzy (있지) - 'Psychic Lover' [Born To Be 2nd World Tour in Toronto]",
+      "channel": "sunmike",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-01",
+      "thumbPos": "50% 34%"
+    },
+    {
+      "id": "v23252",
+      "ytId": "6oVgrO_5rAg",
+      "eventId": "e1650",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60] 240629 ITZY - UNTOUCHABLE - BORN TO BE in TORONTO",
+      "channel": "Simply BLINK ONCE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-02",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23253",
+      "ytId": "dpPLxYFfCfk",
+      "eventId": "e1650",
+      "songs": [
+        {
+          "songId": "g7s10",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240629 [4K] Itzy (있지) - 'LOCO' [Born To Be 2nd World Tour in Toronto]",
+      "channel": "sunmike",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-01",
+      "thumbPos": "50% 21%"
+    },
+    {
+      "id": "v23254",
+      "ytId": "12E7jZ2ZwTo",
+      "eventId": "e1650",
+      "songs": [
+        {
+          "songId": "g7s15",
+          "t": 0
+        },
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240629 [4K] Itzy (있지) - [FULL ENCORE] 'Dalla Dalla' & 'Boys Like You' [Born To Be 2nd World Tour]",
+      "channel": "sunmike",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-01",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23255",
+      "ytId": "qEiz7Jec4M8",
+      "eventId": "e1650",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240629 [4K] Itzy (있지) - 'Kill Shot' [Born To Be 2nd World Tour in Toronto]",
+      "channel": "sunmike",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-01",
+      "thumbPos": "50% 37%"
+    },
+    {
+      "id": "v23256",
+      "ytId": "OMhDviKSiOA",
+      "eventId": "e1650",
+      "songs": [
+        {
+          "songId": "g7s42",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] ITZY 'BORN TO BE' World Tour in Toronto Day 2 | 240629",
+      "channel": "Kyomiro",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-02",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23257",
+      "ytId": "qSe8SODboF0",
+      "eventId": "e1650",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY (있지) - Chaeryeong (채령) Fan Cam - Born To Be Tour - Toronto FULL CONCERT 240629",
+      "channel": "megascorcher",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-07-01",
+      "thumbPos": "50% 33%"
+    },
+    {
+      "id": "v23258",
+      "ytId": "n2oez7bodZU",
+      "eventId": "e1651",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "ITZY, UNTOUCHABLE | 2024 K-Link Festival",
+      "channel": "THE K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-05",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23259",
+      "ytId": "MW6cKr_JEW8",
+      "eventId": "e1652",
+      "songs": [
+        {
+          "songId": "g7s6",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY (있지) - UNTOUCHABLE #2024SBS슈퍼콘서트 #SBSInkigayo_LIVE_IN_TOKYO",
+      "channel": "SBS Entertainment",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-21",
+      "thumbPos": "50% 44%"
+    },
+    {
+      "id": "v23260",
+      "ytId": "Op6XbAywXUY",
+      "eventId": "e1357",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        },
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024 가요대전 4K]있지 'Imaginary Friend + Mr.Vampire (Horror Christmas Ver.)'ITZY FullCam @SBSGayoDaejeon",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-26",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23261",
+      "ytId": "QnGkx2mv404",
+      "eventId": "e1357",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        },
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024 가요대전 4K] 있지 예지 'Imaginary Friend + Mr.Vampire (Horror Christmas Ver.)' (ITZY YEJI FanCam)",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-05"
+    },
+    {
+      "id": "v23262",
+      "ytId": "g_hu0xf2Q18",
+      "eventId": "e1357",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        },
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024가요대전 4K] 있지 류진 'Imaginary Friend + Mr.Vampire (Horror Christmas Ver.)' (ITZY RYUJIN FanCam)",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-05",
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v23263",
+      "ytId": "XPVfKh2zehw",
+      "eventId": "e1357",
+      "songs": [
+        {
+          "songId": "g7s43",
+          "t": 0
+        },
+        {
+          "songId": "g7s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024가요대전 4K] 있지 유나 'Imaginary Friend + Mr.Vampire (Horror Christmas Ver.)' (ITZY YUNA FanCam)",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-05"
+    },
+    {
+      "id": "v23264",
+      "ytId": "wniejaQpnuU",
+      "eventId": "e1215",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[UNFILTERED CAM] ITZY LIA(리아) 'Girls Will Be Girls' 4K | STUDIO CHOOM ORIGINAL",
+      "channel": "STUDIO CHOOM [스튜디오 춤]",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-12",
+      "thumbPos": "27% 35%"
+    },
+    {
+      "id": "v23265",
+      "ytId": "-0fuUyic1R0",
+      "eventId": "e1215",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[UNFILTERED CAM] ITZY YEJI(예지) 'Girls Will Be Girls' 4K | STUDIO CHOOM ORIGINAL",
+      "channel": "STUDIO CHOOM [스튜디오 춤]",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-12",
+      "thumbPos": "21% 35%"
+    },
+    {
+      "id": "v23266",
+      "ytId": "hsyWzrQIYYA",
+      "eventId": "e1215",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[UNFILTERED CAM] ITZY RYUJIN(류진) 'Girls Will Be Girls' 4K | STUDIO CHOOM ORIGINAL",
+      "channel": "STUDIO CHOOM [스튜디오 춤]",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-12",
+      "thumbPos": "21% 35%"
+    },
+    {
+      "id": "v23267",
+      "ytId": "cHpXgV1z200",
+      "eventId": "e1215",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[UNFILTERED CAM] ITZY CHAERYEONG(채령) 'Girls Will Be Girls' 4K | STUDIO CHOOM ORIGINAL",
+      "channel": "STUDIO CHOOM [스튜디오 춤]",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-12",
+      "thumbPos": "23% 35%"
+    },
+    {
+      "id": "v23268",
+      "ytId": "7RXJly5Zq70",
+      "eventId": "e1219",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 2506014 있지 유나 직캠 Full Ver. (ITZY YUNA Fancam) 음악중심 미니팬미팅 By 푸딩포토",
+      "channel": "푸딩포토 PuddingPhoto",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-14"
+    },
+    {
+      "id": "v23269",
+      "ytId": "m-T4In0tCig",
+      "eventId": "e1229",
+      "songs": [
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "ITZY, KISS & TELL | MyK FESTA | MyK LIVE KPOP",
+      "channel": "THE K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-11",
+      "thumbPos": "50% 41%"
+    },
+    {
+      "id": "v23270",
+      "ytId": "TvI8R7xzE1c",
+      "eventId": "e1229",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "ITZY, Girls Will Be Girls | MyK FESTA | MyK LIVE KPOP",
+      "channel": "THE K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-07-11",
+      "thumbPos": "50% 46%"
+    },
+    {
+      "id": "v23271",
+      "ytId": "yDFYMP6ZpXw",
+      "eventId": "e1653",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        },
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025가요대전썸머4K] 있지 채령 'Girls Will Be Girls + Kiss & Tell (Dance break Ver.)' (ITZY CHAERYEONG FanCam)",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-10"
+    },
+    {
+      "id": "v23272",
+      "ytId": "MmYR9_AX7D8",
+      "eventId": "e1653",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        },
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 썸머 4K] 있지 예지 'Girls Will Be Girls + Kiss & Tell (Dance break Ver.)' (ITZY YEJI FanCam)",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-10"
+    },
+    {
+      "id": "v23273",
+      "ytId": "stcLMO3yXo4",
+      "eventId": "e1653",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        },
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 썸머 4K] 있지 'Girls Will Be Girls + Kiss & Tell (Dance break Ver.)' (ITZY FullCam) @SBS",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-10",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23274",
+      "ytId": "KjiAGlx45AQ",
+      "eventId": "e1653",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        },
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 썸머 4K] 있지 류진 'Girls Will Be Girls + Kiss & Tell (Dance break Ver.)' (ITZY RYUJIN FanCam)",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-10"
+    },
+    {
+      "id": "v23275",
+      "ytId": "zxoW-0J96PA",
+      "eventId": "e1653",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        },
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 썸머 4K] 있지 유나 'Girls Will Be Girls + Kiss & Tell (Dance break Ver.)' (ITZY YUNA FanCam)",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-10"
+    },
+    {
+      "id": "v23276",
+      "ytId": "hJlcvNUOfAw",
+      "eventId": "e1653",
+      "songs": [
+        {
+          "songId": "g7s3",
+          "t": 0
+        },
+        {
+          "songId": "g7s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2025 가요대전 썸머 4K] 있지 리아 'Girls Will Be Girls + Kiss & Tell (Dance break Ver.)' (ITZY LIA FanCam)",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-08-10"
+    },
+    {
+      "id": "v23277",
+      "ytId": "kHlhqE-FHtg",
+      "eventId": "e791",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[TOUR-LOG] EP01 #ITZY #MELBOURNE | ITZY 3RD WORLD TOUR 'TUNNEL VISION'",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-24",
+      "thumbPos": "50% 78%"
+    },
+    {
+      "id": "v23278",
+      "ytId": "NUVXv6rQ9yU",
+      "eventId": "e794",
+      "songs": [
+        {
+          "songId": "g7s33",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"ROCK & ROLL\" (FULL CAM VER.) @ 'TUNNEL VISION' in TOKYO",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-05-15",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v23279",
+      "ytId": "CiAiSi8Bxqo",
+      "eventId": "e772",
+      "songs": [
+        {
+          "songId": "g7s18",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "ITZY \"THAT'S A NO NO\" (FULL CAM VER.) @ 'TUNNEL VISION' in BANGKOK",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-07-09",
+      "thumbPos": "50% 52%"
+    },
+    {
+      "id": "v23280",
+      "ytId": "pI9fRAEyino",
+      "eventId": "e772",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[TOUR-LOG] EP06 #RYUJIN #BANGKOK | ITZY 3RD WORLD TOUR 'TUNNEL VISION'",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-08-28"
+    },
+    {
+      "id": "v23281",
+      "ytId": "a6TGZavdX4Y",
+      "eventId": "e775",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[🔴LIVE] ITZY 3RD WORLD TOUR 'TUNNEL VISION' in TAIPEI🎵 WRAP UP🎤",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-09-05"
+    },
+    {
+      "id": "v23282",
+      "ytId": "AetidQJikdA",
+      "eventId": "e778",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m1",
+        "g7m3",
+        "g7m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[TOUR-LOG] EP13 #YEJI #RYUJIN #YUNA #FRANKFURT | ITZY 3RD WORLD TOUR ‘TUNNEL VISION’",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-11-13",
+      "thumbPos": "64% 35%"
+    },
+    {
+      "id": "v23283",
+      "ytId": "Bvga1ATtoj8",
+      "eventId": "e779",
+      "songs": [
+        {
+          "songId": "g7s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g7m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[TOUR-LOG] EP09 #CHAERYEONG #TAIPEI | ITZY 3RD WORLD TOUR 'TUNNEL VISION'",
+      "channel": "ITZY",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2026-10-02",
+      "thumbPos": "56% 35%"
     }
   ],
   "clips": []
