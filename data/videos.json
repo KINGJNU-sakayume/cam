@@ -2543,14 +2543,16 @@
           "title": "UNI-CON",
           "aliases": [],
           "order": 87,
-          "release": ""
+          "release": "",
+          "kind": "other"
         },
         {
           "id": "g5s88",
           "title": "킬포",
           "aliases": [],
           "order": 88,
-          "release": ""
+          "release": "",
+          "kind": "other"
         }
       ]
     },
@@ -444893,12 +444895,7 @@
       "id": "v22127",
       "ytId": "pIrRogITaY4",
       "eventId": "e1604",
-      "songs": [
-        {
-          "songId": "g5s87",
-          "t": 0
-        }
-      ],
+      "songs": [],
       "type": "full",
       "memberIds": [],
       "source": null,
