@@ -2584,21 +2584,24 @@
           "title": "있잖아 (Rock Ver.)",
           "aliases": [],
           "order": 92,
-          "release": ""
+          "release": "",
+          "kind": "cover"
         },
         {
           "id": "g5s93",
           "title": "슬픈 사랑 노래 (Sad Waltz)",
           "aliases": [],
           "order": 93,
-          "release": ""
+          "release": "",
+          "kind": "cover"
         },
         {
           "id": "g5s94",
           "title": "Can't Take My Eyes Off You",
           "aliases": [],
           "order": 94,
-          "release": ""
+          "release": "",
+          "kind": "cover"
         }
       ]
     },
