@@ -429,3 +429,10 @@
 - 보류: 09-07 음악중심 미니 팬미팅 영상 전부(「쇼! 음악중심」으로 읽힌 풀캠 1개, 새 「팬미팅」으로 읽힌 4개, 설윤 Supersonic·규진 Sexy In The Air 등) — 음악중심 녹화 안의 미니 팬미팅이라 한 공연으로 둘지 따로 둘지 정해 주세요. 08-26 인기가요 단독샷(날짜 08-25와 어긋남).
 - 보류: 멤버 없는 방송사 영상(인기가요·쇼챔피언 방송분), 앵콜·리허설·MC, 인기가요 「보는 라디오」 풀영상(PAr_R2ocs08), 서울드라마어워즈 외 비무대, 09-13 뮤직뱅크 중간 외출, 워크돌·라디오·예능.
 - 도구가 KCON LA 2024 영상(M9UNV50gcUk 등 4개)을 KCON LA 2025(e538)에 붙이려 해서 제외했어요.
+
+### 엔믹스 2024-10
+- 영상 정보 621개 조회 실패로 review가 매우 커서(팬콘 직캠 수백 개) 제목에 날짜·멤버·곡이 모두 읽히는 것만 담았어요. 팬콘은 도구가 `IVE 4TH FAN CONCERT DIVE into IVE`로 잘못 읽어서 `NMIXX CHANGE UP : MIXX LAB`으로 직접 지정했어요(10-04 첫콘·10-05 중콘·10-06 막콘). 새 곡 `BOOM`·`Break The Wall`·`Moving On`·`TANK`는 `--create-songs`로 등록했어요.
+- 보류(팬콘 10-04~06): 두 곡 묶음(占 TANK + Just Did It, DASH + 별별별, Break The Wall + HOME 등), 멤버 없는 단체·풀캠, 팬콘 전용 커버·유닛곡(HOT·영웅 Kick It·Plot Twist·마루는 강쥐·Supersonic·SHEESH·HAPPY 등), 사운드체크·순발력 게임·Rock ver, 미등록 곡(BEAT BEAT·SICKUHH·Just Did It·Home·My Gosh·Kiss·Passionfruit), O.O Part 2는 O.O로 담았지만 편곡 구분이 필요하면 알려 주세요.
+- 보류(10-12 뮤직뱅크 in 마드리드): 묶음·커버·스페인어 Soñar(Spanish Ver.)·설윤 영웅 직캠. 공연 이름은 `뮤직뱅크 in 마드리드`로 새로 정했어요.
+- 보류(10-19 K-WONDER CONCERT IN TAOYUAN): 第一天(미등록 곡)·묶음·멤버 없는 영상·게임 코너.
+- 보류: 도구가 KCON LA 2024 영상 3개를 KCON LA 2025(e538)에 붙이려 해서 제외, 10-07 브라이틀링 행사·10-31 라이브(직캠 아님), 방송사 풀영상.
