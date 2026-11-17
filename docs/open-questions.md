@@ -420,3 +420,7 @@
 - 영상 정보 509개 조회 실패(YouTube 제한)로 review가 늘었고, 제목에 날짜·멤버·곡이 모두 읽히는 것만 담았어요.
 - 도구가 KCON LA 2024를 `KCON LA 2026`·`KCON JAPAN 2026`·`KCON LA 2025`로 잘못 읽어서 `KCON LA 2024`로 직접 지정했어요(07-27 엠카운트다운 표기 영상 4개도 KCON 무대라 같은 공연에 합침). 2025-08-02 KCON LA 2025(e538)에 붙을 뻔한 3개(M9UNV50gcUk, PqEjLWUbgh4, Lz9cJpiLkFw)는 제외했어요.
 - 보류: SBS 가요대전 SUMMER 날짜가 제목에 없는 7개(07-26로 추정, 9GH8vOQMtIs 외 6개; 실제 07-21일 가능성), 두 곡 묶음(Soñar+DASH) 설윤·직캠들, 멤버 없는 런던 BST·TMEA·KCON 풀캠(Dan V·Passion Fruit 등), 미발표곡 Moving On·TANK·Oasis 커버, 07-28 KCON 3곡 묶음, 06-29·30 음악중심 in Japan 규진 직캠 3개(행사 이름 확인 필요), 워크돌 등 예능·귀국·발표 영상.
+
+### 엔믹스 2024-08
+- 영상 정보 456개 조회 실패로 review가 늘었어요. 제목에 날짜·멤버·곡이 모두 읽히는 것만 담았어요. 새 곡 `See That?`·`Love Is Lonely`는 `--create-songs`로 등록했어요.
+- 보류: 두 곡 묶음(Dash + Love Me Like This 울산, Love Is Lonely + See That? 쇼챔피언), 멤버 없는 풀캠·방송 영상(엠카 08-22·29, 뮤뱅 08-23·30, 인기가요 08-25 SBSKPOP, 쇼챔피언 방송), 인기가요 08-26 단독샷(날짜 08-25와 어긋남), 더 시즌즈(녹화 08-20·방송 08-23 날짜 불일치, 빨간 맛 커버), 리허설·MC·엔딩·플레이리스트·1위 앵콜, 라디오·예능(라디오스타·워크돌·영스트리트), 08-05 아육대, 08-14 KCON LA×M COUNTDOWN(DICE), 설윤 SHAKE IT(미등록 곡), 07-26 가요대전 SUMMER 추정 7개는 07월 보류 그대로.

@@ -22804,6 +22804,30 @@
         "g2s4"
       ],
       "note": ""
+    },
+    {
+      "id": "e1530",
+      "groupId": "g2",
+      "date": "2024-08-12",
+      "show": "쇼! 음악중심",
+      "label": "",
+      "setlist": [
+        "g2s9",
+        "g2s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1531",
+      "groupId": "g2",
+      "date": "2024-08-28",
+      "show": "쇼챔피언",
+      "label": "",
+      "setlist": [
+        "g2s10",
+        "g2s42"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -408592,6 +408616,963 @@
       ],
       "title": "[4K] NMIXX KCON Stage - \"Young, Dumb, Stupid\" (Kyujin 규진 fancam) 240728",
       "channel": "mixxpoppy",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20643",
+      "ytId": "-HcxIPMwQLs",
+      "eventId": "e1530",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240812 DASH 울산 써머페스티벌 쇼!음악중심 엔믹스 지우 직캠 (NMIXX JIWOO Fancam)",
+      "channel": "Lovable Film",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20644",
+      "ytId": "OqbsKH-7j0k",
+      "eventId": "e1530",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240812 Love Me Like This 울산 써머페스티벌 쇼!음악중심 엔믹스 지우 직캠 (NMIXX JIWOO Fancam)",
+      "channel": "Lovable Film",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-15"
+    },
+    {
+      "id": "v20645",
+      "ytId": "D9d5JNFj1bg",
+      "eventId": "e1530",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240812 엔믹스 해원 - Love Me Like This 4K 직캠 @울산 서머 페스티벌",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20646",
+      "ytId": "oBUbpR-l2aw",
+      "eventId": "e1530",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 'Love Me Like This' (NMIXX SULLYOON)｜울산 240812",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-12"
+    },
+    {
+      "id": "v20647",
+      "ytId": "_1kqsZ7D13Q",
+      "eventId": "e1530",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240812 엔믹스 지우 - Love Me Like This 4K 직캠 @울산 서머 페스티벌",
+      "channel": "IDM CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-15"
+    },
+    {
+      "id": "v20648",
+      "ytId": "BiystA3zz3s",
+      "eventId": "e1530",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240812 NMIXX KYUJIN 엔믹스 규진 2024 울산서머페스티벌 - \"Love Me Like This\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-13"
+    },
+    {
+      "id": "v20649",
+      "ytId": "tjhiFQNIYvo",
+      "eventId": "e1530",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240812 NMIXX KYUJIN 엔믹스 규진 2024 울산서머페스티벌 - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-13"
+    },
+    {
+      "id": "v20650",
+      "ytId": "VEnpdHK9eaA",
+      "eventId": "e1530",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K 60fps] 240812 엔믹스(NMIXX) DASH/대쉬 설윤(SULLYOON) 직캠/fancam @ 울산서머페스티벌 by hoyasama",
+      "channel": "hoyasama",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20651",
+      "ytId": "4gUIAj6YNb0",
+      "eventId": "e1111",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "bae (NMIXX) 240823 4k armpit edit - See that - Music Bank",
+      "channel": "pits for life",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20652",
+      "ytId": "yIJVIsomC7M",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 설윤 'Love Is Lonely' (NMIXX SULLYOON FanCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-26"
+    },
+    {
+      "id": "v20653",
+      "ytId": "mDRCJ-Z81dw",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 지우 'Love Is Lonely' (NMIXX JIWOO FanCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20654",
+      "ytId": "lTrP8gseRVM",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 규진 'Love Is Lonely' (NMIXX KYUJIN FanCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20655",
+      "ytId": "KCeBQxqfxzc",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 지우 '별별별' (NMIXX JIWOO 'See that?' FanCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-25"
+    },
+    {
+      "id": "v20656",
+      "ytId": "3xAAXCV95DY",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 엔믹스 배이 'Love Is Lonely' (NMIXX BAE FaceCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-27"
+    },
+    {
+      "id": "v20657",
+      "ytId": "PW7hR0-K76U",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 배이 'Love Is Lonely' (NMIXX BAE FanCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-26"
+    },
+    {
+      "id": "v20658",
+      "ytId": "1cUyaSMRa2w",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 엔믹스 릴리 'Love Is Lonely' (NMIXX LILY FaceCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-27"
+    },
+    {
+      "id": "v20659",
+      "ytId": "CYQMLq3ZRq4",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 해원 '별별별' (NMIXX HAEWON 'See that?' FanCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-25"
+    },
+    {
+      "id": "v20660",
+      "ytId": "psiDby2Zw5Q",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 해원 'Love Is Lonely' (NMIXX HAEWON FanCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-26"
+    },
+    {
+      "id": "v20661",
+      "ytId": "9C0luZ6TkFk",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 엔믹스 지우 '별별별' (NMIXX JIWOO 'See that?' FaceCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20662",
+      "ytId": "b_vQPlhivp8",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 엔믹스 설윤 '별별별' (NMIXX SULLYOON 'See that?' FaceCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-26"
+    },
+    {
+      "id": "v20663",
+      "ytId": "9CH5bqWX90U",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 엔믹스 해원 '별별별' (NMIXX HAEWON 'See that?' FaceCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20664",
+      "ytId": "6ZrkOC3xks8",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 엔믹스 규진 '별별별' (NMIXX KYUJIN 'See that?' FaceCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20665",
+      "ytId": "RvhYCAxUX6w",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 릴리 '별별별' (NMIXX LILY 'See that?' FanCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-25"
+    },
+    {
+      "id": "v20666",
+      "ytId": "C7s6CpuwW5I",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 규진 '별별별' (NMIXX KYUJIN 'See that?' FanCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-25"
+    },
+    {
+      "id": "v20667",
+      "ytId": "SQZqGaaeW9Y",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 설윤 '별별별' (NMIXX SULLYOON 'See that?' FanCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-25"
+    },
+    {
+      "id": "v20668",
+      "ytId": "WNt3-IcoFo8",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 배이 '별별별' (NMIXX BAE 'See that?' FanCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-25"
+    },
+    {
+      "id": "v20669",
+      "ytId": "TsTy94DknSk",
+      "eventId": "e1114",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 엔믹스 릴리 'Love Is Lonely' (NMIXX LILY FanCam) @SBS Inkigayo 240825",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20670",
+      "ytId": "hQJL8vCprIQ",
+      "eventId": "e1531",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240828 설윤 SULLYOON 엔믹스 NMIXX '별별별 (See that?)' 4K 60P 직캠 @여수 쇼챔피언 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-28"
+    },
+    {
+      "id": "v20671",
+      "ytId": "AuPbZpjsUzs",
+      "eventId": "e1531",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[FaceCam] 240828 NMIXX (엔믹스) JIWOO (지우) - 별별별 (See that?) @ 여수 Show Champion 직캠 #nmixx",
+      "channel": "Lunatic Soul",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-30"
+    },
+    {
+      "id": "v20672",
+      "ytId": "vY9qVYNFLNk",
+      "eventId": "e1531",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[FaceCam] 240828 NMIXX (엔믹스) SULLYOON (설윤) - 별별별 (See that?) @ 여수 Show Champion 직캠",
+      "channel": "Lunatic Soul",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20673",
+      "ytId": "NPf--Yt1ZHI",
+      "eventId": "e1531",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240828 NMIXX(엔믹스) 설윤 \"별별별 (See that?)\" 직캠 SULLYOON FANCAM @ 여수 쇼챔피언 [ 4K ]",
+      "channel": "𝙳𝚎𝚎𝚛𝚒𝚗",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20674",
+      "ytId": "o-J8OBl2blg",
+      "eventId": "e1531",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "240828 NMIXX(엔믹스) 설윤 \"Love Is Lonely\" 직캠 SULLYOON FANCAM @ 여수 쇼챔피언 [ 4K ]",
+      "channel": "𝙳𝚎𝚎𝚛𝚒𝚗",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20675",
+      "ytId": "2ymhvbWhXKM",
+      "eventId": "e1531",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240828 Love Is Lonely 여수 쇼챔피언 엔믹스 지우 직캠 (NMIXX JIWOO Fancam)",
+      "channel": "Lovable Film",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-09-06"
+    },
+    {
+      "id": "v20676",
+      "ytId": "NK7vqS-6MWM",
+      "eventId": "e1531",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240828 NMIXX KYUJIN 엔믹스 규진 쇼챔피언 - \"별별별 (See that?)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-29"
+    },
+    {
+      "id": "v20677",
+      "ytId": "RNnFL9_ON6Y",
+      "eventId": "e1531",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240828 NMIXX KYUJIN 엔믹스 규진 \"별별별 (See that?)\" (FanCam) @[여수 쇼챔피언]",
+      "channel": "포키",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20678",
+      "ytId": "xfvtDBfGeG8",
+      "eventId": "e1531",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240828 NMIXX HAEWON 엔믹스 해원 직캠 - 별별별 (see taht?) fancam @여수 쇼챔피언",
+      "channel": "52Hertz",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20679",
+      "ytId": "4ljARvVml8Y",
+      "eventId": "e1531",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240828 NMIXX KYUJIN 엔믹스 규진 쇼챔피언 - \"Love Is Lonely\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-08-29"
+    },
+    {
+      "id": "v20680",
+      "ytId": "gPJvdoDXx8I",
+      "eventId": "e1531",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 240828 별별별 (See That?) 여수 쇼챔피언 엔믹스 지우 직캠 (NMIXX JIWOO Fancam)",
+      "channel": "Lovable Film",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20681",
+      "ytId": "TAmXTc_ikOw",
+      "eventId": "e1531",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240828 엔믹스 NMIXX 설윤 - 별별별(See That?) │ 여수 쇼챔피언",
+      "channel": "OnlyLoveBlue",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20682",
+      "ytId": "w385Szl-7h8",
+      "eventId": "e1531",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "엔믹스 (NMIXX) 지우 (JIWOO) 별별별 (See that?) [4K60P] 240828 여수 쇼챔피언 직캠 by ECU",
+      "channel": "Cam ECU",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v20683",
+      "ytId": "W7hXIx6YLA0",
+      "eventId": "e1531",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "240828 2024 YEOSU SUMMER MUSIC FESTIVAL NMIXX 'Love is Lonely' BAE Focus",
+      "channel": "솔랑솔랑",
       "pin": false,
       "gone": false
     }
