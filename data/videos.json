@@ -2474,6 +2474,13 @@
           ],
           "order": 79,
           "release": ""
+        },
+        {
+          "id": "g5s80",
+          "title": "안아줘",
+          "aliases": [],
+          "order": 80,
+          "release": ""
         }
       ]
     },
@@ -18127,7 +18134,10 @@
       "setlist": [
         "g5s14"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "Mnet M! Countdown E868"
+      ]
     },
     {
       "id": "e1135",
@@ -18205,7 +18215,10 @@
       "setlist": [
         "g5s14"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "에버랜드"
+      ]
     },
     {
       "id": "e1142",
@@ -18454,7 +18467,10 @@
         "g5s17",
         "g5s7"
       ],
-      "note": ""
+      "note": "",
+      "aliases": [
+        "SBS_GAYODAEJEON2024"
+      ]
     },
     {
       "id": "e1164",
@@ -23622,6 +23638,230 @@
       "groupId": "g5",
       "date": "2025-05-16",
       "show": "홍익대 축제",
+      "label": "",
+      "setlist": [
+        "g5s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1567",
+      "groupId": "g5",
+      "date": "2024-10-12",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g5s2",
+        "g5s8",
+        "g5s7",
+        "g5s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1568",
+      "groupId": "g5",
+      "date": "2024-10-19",
+      "show": "K-WONDER CONCERT in TAOYUAN",
+      "label": "",
+      "setlist": [
+        "g5s8",
+        "g5s7",
+        "g5s1",
+        "g5s67",
+        "g5s5",
+        "g5s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1569",
+      "groupId": "g5",
+      "date": "2024-10-26",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g5s8",
+        "g5s7",
+        "g5s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1570",
+      "groupId": "g5",
+      "date": "2024-10-29",
+      "show": "더 시즌즈",
+      "label": "",
+      "setlist": [
+        "g5s14",
+        "g5s16",
+        "g5s80",
+        "g5s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1571",
+      "groupId": "g5",
+      "date": "2024-10-30",
+      "show": "경희대 축제",
+      "label": "",
+      "setlist": [
+        "g5s14",
+        "g5s54",
+        "g5s7",
+        "g5s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1572",
+      "groupId": "g5",
+      "date": "2024-11-09",
+      "show": "Nabati Richoco Land 자카르타",
+      "label": "",
+      "setlist": [
+        "g5s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1573",
+      "groupId": "g5",
+      "date": "2024-11-15",
+      "show": "TikTok Awards",
+      "label": "",
+      "setlist": [
+        "g5s8",
+        "g5s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1574",
+      "groupId": "g5",
+      "date": "2024-11-17",
+      "show": "2024 KGMA",
+      "label": "",
+      "setlist": [
+        "g5s14",
+        "g5s7",
+        "g5s8",
+        "g5s13"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1575",
+      "groupId": "g5",
+      "date": "2024-11-17",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g5s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1576",
+      "groupId": "g5",
+      "date": "2024-11-23",
+      "show": "MAMA AWARDS",
+      "label": "",
+      "setlist": [
+        "g5s14",
+        "g5s7",
+        "g5s13",
+        "g5s10",
+        "g5s12",
+        "g5s11"
+      ],
+      "note": "",
+      "aliases": [
+        "MAMA2024"
+      ]
+    },
+    {
+      "id": "e1577",
+      "groupId": "g5",
+      "date": "2024-11-24",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g5s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1578",
+      "groupId": "g5",
+      "date": "2024-11-30",
+      "show": "MMA 2024",
+      "label": "",
+      "setlist": [
+        "g5s8",
+        "g5s14",
+        "g5s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1579",
+      "groupId": "g5",
+      "date": "2024-12-01",
+      "show": "인기가요",
+      "label": "",
+      "setlist": [
+        "g5s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1580",
+      "groupId": "g5",
+      "date": "2024-12-04",
+      "show": "FNS Kayousai Night 1",
+      "label": "",
+      "setlist": [
+        "g5s7"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1581",
+      "groupId": "g5",
+      "date": "2024-12-08",
+      "show": "UTO FEST in Okinawa",
+      "label": "",
+      "setlist": [
+        "g5s7",
+        "g5s9",
+        "g5s14",
+        "g5s16"
+      ],
+      "note": "",
+      "aliases": [
+        "UTOFEST"
+      ]
+    },
+    {
+      "id": "e1582",
+      "groupId": "g5",
+      "date": "2024-12-20",
+      "show": "가요대 축제",
+      "label": "",
+      "setlist": [
+        "g5s8",
+        "g5s14"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1583",
+      "groupId": "g5",
+      "date": "2024-12-31",
+      "show": "중국 창저우 새해축제",
       "label": "",
       "setlist": [
         "g5s14"
@@ -410747,7 +410987,8 @@
       "channel": "vvt_il",
       "pin": false,
       "gone": false,
-      "uploaded": "2025-02-07"
+      "uploaded": "2025-02-07",
+      "thumbPos": "77% 35%"
     },
     {
       "id": "v20700",
@@ -410771,7 +411012,8 @@
       "channel": "Amaris",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-06-01"
+      "uploaded": "2024-06-01",
+      "thumbPos": "29% 35%"
     },
     {
       "id": "v20701",
@@ -410841,7 +411083,8 @@
       "channel": "Coating",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-05-24"
+      "uploaded": "2024-05-24",
+      "thumbPos": "77% 35%"
     },
     {
       "id": "v20704",
@@ -410863,7 +411106,8 @@
       "channel": "Coating",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-05-25"
+      "uploaded": "2024-05-25",
+      "thumbPos": "84% 35%"
     },
     {
       "id": "v20705",
@@ -410885,7 +411129,8 @@
       "channel": "Coating",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-05-24"
+      "uploaded": "2024-05-24",
+      "thumbPos": "62% 35%"
     },
     {
       "id": "v20706",
@@ -410907,7 +411152,8 @@
       "channel": "Coating",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-05-25"
+      "uploaded": "2024-05-25",
+      "thumbPos": "76% 35%"
     },
     {
       "id": "v20707",
@@ -411169,7 +411415,8 @@
       "channel": "Coating",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-05-24"
+      "uploaded": "2024-05-24",
+      "thumbPos": "97% 35%"
     },
     {
       "id": "v20719",
@@ -411643,7 +411890,8 @@
       "channel": "Mera",
       "pin": false,
       "gone": false,
-      "uploaded": "2025-01-03"
+      "uploaded": "2025-01-03",
+      "thumbPos": "0% 35%"
     },
     {
       "id": "v20740",
@@ -411887,7 +412135,8 @@
       "channel": "vvt_il",
       "pin": false,
       "gone": false,
-      "uploaded": "2025-03-25"
+      "uploaded": "2025-03-25",
+      "thumbPos": "93% 35%"
     },
     {
       "id": "v20751",
@@ -411930,7 +412179,8 @@
       "channel": "vvt_il",
       "pin": false,
       "gone": false,
-      "uploaded": "2025-03-02"
+      "uploaded": "2025-03-02",
+      "thumbPos": "23% 35%"
     },
     {
       "id": "v20753",
@@ -411954,7 +412204,8 @@
       "channel": "육칠팔",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-05-29"
+      "uploaded": "2024-05-29",
+      "thumbPos": "43% 35%"
     },
     {
       "id": "v20754",
@@ -411978,7 +412229,8 @@
       "channel": "육칠팔",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-06-14"
+      "uploaded": "2024-06-14",
+      "thumbPos": "42% 35%"
     },
     {
       "id": "v20755",
@@ -412002,7 +412254,8 @@
       "channel": "육칠팔",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-05-27"
+      "uploaded": "2024-05-27",
+      "thumbPos": "62% 35%"
     },
     {
       "id": "v20756",
@@ -412352,7 +412605,8 @@
       "channel": "뺑이",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-05-27"
+      "uploaded": "2024-05-27",
+      "thumbPos": "86% 35%"
     },
     {
       "id": "v20772",
@@ -412668,7 +412922,8 @@
       "channel": "VirginSnow0101",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-06-01"
+      "uploaded": "2024-06-01",
+      "thumbPos": "82% 35%"
     },
     {
       "id": "v20786",
@@ -412882,7 +413137,8 @@
       "channel": "뜬뜬 DdeunDdeun",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-05-30"
+      "uploaded": "2024-05-30",
+      "thumbPos": "83% 35%"
     },
     {
       "id": "v20796",
@@ -413266,7 +413522,8 @@
       "channel": "VirginSnow0101",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-06-08"
+      "uploaded": "2024-06-08",
+      "thumbPos": "81% 35%"
     },
     {
       "id": "v20813",
@@ -413288,7 +413545,8 @@
       "channel": "Coating",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-06-03"
+      "uploaded": "2024-06-03",
+      "thumbPos": "71% 35%"
     },
     {
       "id": "v20814",
@@ -413336,7 +413594,8 @@
       "channel": "VirginSnow0101",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-06-03"
+      "uploaded": "2024-06-03",
+      "thumbPos": "20% 35%"
     },
     {
       "id": "v20816",
@@ -413430,7 +413689,8 @@
       "channel": "Coating",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-06-03"
+      "uploaded": "2024-06-03",
+      "thumbPos": "76% 35%"
     },
     {
       "id": "v20820",
@@ -414252,7 +414512,8 @@
       "channel": "VirginSnow0101",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-05"
+      "uploaded": "2024-07-05",
+      "thumbPos": "77% 35%"
     },
     {
       "id": "v20857",
@@ -414274,7 +414535,8 @@
       "channel": "N",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-01"
+      "uploaded": "2024-07-01",
+      "thumbPos": "25% 35%"
     },
     {
       "id": "v20858",
@@ -414706,7 +414968,8 @@
       "channel": "열어라참께",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-06-30"
+      "uploaded": "2024-06-30",
+      "thumbPos": "78% 35%"
     },
     {
       "id": "v20877",
@@ -414828,7 +415091,8 @@
       "channel": "Apricity",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-02"
+      "uploaded": "2024-07-02",
+      "thumbPos": "89% 35%"
     },
     {
       "id": "v20882",
@@ -414921,7 +415185,8 @@
       "channel": "VirginSnow0101",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-08-13"
+      "uploaded": "2024-08-13",
+      "thumbPos": "92% 35%"
     },
     {
       "id": "v20886",
@@ -414943,7 +415208,8 @@
       "channel": "N",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-03"
+      "uploaded": "2024-07-03",
+      "thumbPos": "34% 35%"
     },
     {
       "id": "v20887",
@@ -415099,7 +415365,8 @@
       "channel": "Xzhlwlg",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-05"
+      "uploaded": "2024-07-05",
+      "thumbPos": "3% 35%"
     },
     {
       "id": "v20894",
@@ -415145,7 +415412,8 @@
       "channel": "왕왕이...",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-06-30"
+      "uploaded": "2024-06-30",
+      "thumbPos": "42% 35%"
     },
     {
       "id": "v20896",
@@ -415211,7 +415479,8 @@
       "channel": "Soupzip 수프집",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-07"
+      "uploaded": "2024-07-07",
+      "thumbPos": "100% 35%"
     },
     {
       "id": "v20899",
@@ -415511,7 +415780,8 @@
       "channel": "enustiK",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-01"
+      "uploaded": "2024-07-01",
+      "thumbPos": "0% 35%"
     },
     {
       "id": "v20912",
@@ -415842,7 +416112,8 @@
       "channel": "gphotoz_",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-01"
+      "uploaded": "2024-07-01",
+      "thumbPos": "77% 35%"
     },
     {
       "id": "v20927",
@@ -415921,7 +416192,8 @@
       "channel": "Cerise",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-02"
+      "uploaded": "2024-07-02",
+      "thumbPos": "22% 35%"
     },
     {
       "id": "v20930",
@@ -416014,7 +416286,8 @@
       "channel": "Aeonian",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-03"
+      "uploaded": "2024-07-03",
+      "thumbPos": "58% 35%"
     },
     {
       "id": "v20934",
@@ -416151,7 +416424,8 @@
       "channel": "just",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-05"
+      "uploaded": "2024-07-05",
+      "thumbPos": "33% 35%"
     },
     {
       "id": "v20940",
@@ -416286,7 +416560,8 @@
       "channel": "Soupzip 수프집",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-01"
+      "uploaded": "2024-07-01",
+      "thumbPos": "56% 35%"
     },
     {
       "id": "v20946",
@@ -416332,7 +416607,8 @@
       "channel": "enustiK",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-08-01"
+      "uploaded": "2024-08-01",
+      "thumbPos": "6% 35%"
     },
     {
       "id": "v20948",
@@ -416380,7 +416656,8 @@
       "channel": "flow.",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-24"
+      "uploaded": "2024-07-24",
+      "thumbPos": "44% 35%"
     },
     {
       "id": "v20950",
@@ -416471,7 +416748,8 @@
       "channel": "confetti",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-03"
+      "uploaded": "2024-07-03",
+      "thumbPos": "75% 35%"
     },
     {
       "id": "v20954",
@@ -416495,7 +416773,8 @@
       "channel": "White.",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-01"
+      "uploaded": "2024-07-01",
+      "thumbPos": "15% 35%"
     },
     {
       "id": "v20955",
@@ -416539,7 +416818,8 @@
       "channel": "Aeonian",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-17"
+      "uploaded": "2024-07-17",
+      "thumbPos": "62% 35%"
     },
     {
       "id": "v20957",
@@ -416585,7 +416865,8 @@
       "channel": "𝐒𝐧𝐨𝐰 𝐝𝐫𝐨𝐩",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-01"
+      "uploaded": "2024-07-01",
+      "thumbPos": "24% 35%"
     },
     {
       "id": "v20959",
@@ -416607,7 +416888,8 @@
       "channel": "Aeonian",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-02"
+      "uploaded": "2024-07-02",
+      "thumbPos": "100% 35%"
     },
     {
       "id": "v20960",
@@ -416631,7 +416913,8 @@
       "channel": "𝐒𝐧𝐨𝐰 𝐝𝐫𝐨𝐩",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-01"
+      "uploaded": "2024-07-01",
+      "thumbPos": "87% 35%"
     },
     {
       "id": "v20961",
@@ -416655,7 +416938,8 @@
       "channel": "Qizi",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-02"
+      "uploaded": "2024-07-02",
+      "thumbPos": "70% 35%"
     },
     {
       "id": "v20962",
@@ -416726,7 +417010,8 @@
       "channel": "confetti",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-03"
+      "uploaded": "2024-07-03",
+      "thumbPos": "40% 35%"
     },
     {
       "id": "v20965",
@@ -416836,7 +417121,8 @@
       "channel": "Soupzip 수프집",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-06-30"
+      "uploaded": "2024-06-30",
+      "thumbPos": "24% 35%"
     },
     {
       "id": "v20970",
@@ -417100,7 +417386,8 @@
       "channel": "Rock Music",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-11-02"
+      "uploaded": "2024-11-02",
+      "thumbPos": "59% 35%"
     },
     {
       "id": "v20982",
@@ -417125,7 +417412,8 @@
       "channel": "Rock Music",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-11-02"
+      "uploaded": "2024-11-02",
+      "thumbPos": "31% 35%"
     },
     {
       "id": "v20983",
@@ -417150,7 +417438,8 @@
       "channel": "Rock Music",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-10-31"
+      "uploaded": "2024-10-31",
+      "thumbPos": "44% 35%"
     },
     {
       "id": "v20984",
@@ -417200,7 +417489,8 @@
       "channel": "Rock Music",
       "pin": false,
       "gone": false,
-      "uploaded": "2025-06-03"
+      "uploaded": "2025-06-03",
+      "thumbPos": "61% 35%"
     },
     {
       "id": "v20986",
@@ -417225,7 +417515,8 @@
       "channel": "Rock Music",
       "pin": false,
       "gone": false,
-      "uploaded": "2025-06-02"
+      "uploaded": "2025-06-02",
+      "thumbPos": "27% 35%"
     },
     {
       "id": "v20987",
@@ -417393,7 +417684,8 @@
       "channel": "DaftTaengk",
       "pin": false,
       "gone": false,
-      "uploaded": "2025-10-26"
+      "uploaded": "2025-10-26",
+      "thumbPos": "58% 35%"
     },
     {
       "id": "v20994",
@@ -417596,7 +417888,8 @@
       "channel": "nuna cam",
       "pin": false,
       "gone": false,
-      "uploaded": "2026-06-04"
+      "uploaded": "2026-06-04",
+      "thumbPos": "57% 35%"
     },
     {
       "id": "v21002",
@@ -417690,7 +417983,8 @@
       "channel": "nuna cam",
       "pin": false,
       "gone": false,
-      "uploaded": "2026-09-24"
+      "uploaded": "2026-09-24",
+      "thumbPos": "61% 35%"
     },
     {
       "id": "v21006",
@@ -417749,7 +418043,8 @@
       "channel": "nuna cam",
       "pin": false,
       "gone": false,
-      "uploaded": "2026-09-29"
+      "uploaded": "2026-09-29",
+      "thumbPos": "56% 35%"
     },
     {
       "id": "v21008",
@@ -418007,7 +418302,8 @@
       "channel": "FUYUCHOCO.",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-10"
+      "uploaded": "2024-07-10",
+      "thumbPos": "7% 35%"
     },
     {
       "id": "v21019",
@@ -418399,7 +418695,8 @@
       "channel": "αl0203",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-20"
+      "uploaded": "2024-07-20",
+      "thumbPos": "40% 35%"
     },
     {
       "id": "v21036",
@@ -418555,7 +418852,8 @@
       "channel": "Xzhlwlg",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-25"
+      "uploaded": "2024-07-25",
+      "thumbPos": "44% 35%"
     },
     {
       "id": "v21043",
@@ -418579,7 +418877,8 @@
       "channel": "Xzhlwlg",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-23"
+      "uploaded": "2024-07-23",
+      "thumbPos": "60% 35%"
     },
     {
       "id": "v21044",
@@ -418696,7 +418995,8 @@
       "channel": "αl0203",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-20"
+      "uploaded": "2024-07-20",
+      "thumbPos": "1% 35%"
     },
     {
       "id": "v21049",
@@ -418884,7 +419184,8 @@
       "channel": "Xzhlwlg",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-24"
+      "uploaded": "2024-07-24",
+      "thumbPos": "25% 35%"
     },
     {
       "id": "v21057",
@@ -418928,7 +419229,8 @@
       "channel": "DANCO | Portrait & Editorial",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-23"
+      "uploaded": "2024-07-23",
+      "thumbPos": "44% 35%"
     },
     {
       "id": "v21059",
@@ -418976,7 +419278,8 @@
       "channel": "Xzhlwlg",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-25"
+      "uploaded": "2024-07-25",
+      "thumbPos": "73% 35%"
     },
     {
       "id": "v21061",
@@ -419000,7 +419303,8 @@
       "channel": "Xzhlwlg",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-25"
+      "uploaded": "2024-07-25",
+      "thumbPos": "26% 35%"
     },
     {
       "id": "v21062",
@@ -419072,7 +419376,8 @@
       "channel": "Xzhlwlg",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-21"
+      "uploaded": "2024-07-21",
+      "thumbPos": "44% 35%"
     },
     {
       "id": "v21065",
@@ -419120,7 +419425,8 @@
       "channel": "Xzhlwlg",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-07-24"
+      "uploaded": "2024-07-24",
+      "thumbPos": "68% 35%"
     },
     {
       "id": "v21067",
@@ -420461,7 +420767,8 @@
       "channel": "I Love Pudding",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-08-10"
+      "uploaded": "2024-08-10",
+      "thumbPos": "56% 35%"
     },
     {
       "id": "v21125",
@@ -420532,7 +420839,8 @@
       "channel": "27anzhwtt_🍞",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-10-09"
+      "uploaded": "2024-10-09",
+      "thumbPos": "67% 35%"
     },
     {
       "id": "v21128",
@@ -420578,7 +420886,8 @@
       "channel": "Liu Wilson",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-29"
+      "uploaded": "2024-09-29",
+      "thumbPos": "32% 35%"
     },
     {
       "id": "v21130",
@@ -420602,7 +420911,8 @@
       "channel": "I Love Pudding",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-08-11"
+      "uploaded": "2024-08-11",
+      "thumbPos": "91% 35%"
     },
     {
       "id": "v21131",
@@ -420657,7 +420967,8 @@
       "channel": "@Taiying",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-27"
+      "uploaded": "2024-09-27",
+      "thumbPos": "67% 35%"
     },
     {
       "id": "v21133",
@@ -420681,7 +420992,8 @@
       "channel": "27anzhwtt_🍞",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-10-16"
+      "uploaded": "2024-10-16",
+      "thumbPos": "79% 35%"
     },
     {
       "id": "v21134",
@@ -421047,7 +421359,8 @@
       "channel": "Yun Chen",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-08-24"
+      "uploaded": "2024-08-24",
+      "thumbPos": "81% 35%"
     },
     {
       "id": "v21148",
@@ -421111,7 +421424,8 @@
       "channel": "Yun Chen",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-08-13"
+      "uploaded": "2024-08-13",
+      "thumbPos": "87% 35%"
     },
     {
       "id": "v21151",
@@ -421154,7 +421468,8 @@
       "channel": "지아",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-10-10"
+      "uploaded": "2024-10-10",
+      "thumbPos": "81% 35%"
     },
     {
       "id": "v21153",
@@ -421176,7 +421491,8 @@
       "channel": "Yun Chen",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-08-12"
+      "uploaded": "2024-08-12",
+      "thumbPos": "76% 35%"
     },
     {
       "id": "v21154",
@@ -421244,7 +421560,8 @@
       "channel": "Yun Chen",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-08-12"
+      "uploaded": "2024-08-12",
+      "thumbPos": "37% 35%"
     },
     {
       "id": "v21157",
@@ -421266,7 +421583,8 @@
       "channel": "Yun Chen",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-08-23"
+      "uploaded": "2024-08-23",
+      "thumbPos": "62% 35%"
     },
     {
       "id": "v21158",
@@ -421288,7 +421606,8 @@
       "channel": "Yun Chen",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-08-13"
+      "uploaded": "2024-08-13",
+      "thumbPos": "0% 35%"
     },
     {
       "id": "v21159",
@@ -421312,7 +421631,8 @@
       "channel": "I Love Pudding",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-08-16"
+      "uploaded": "2024-08-16",
+      "thumbPos": "90% 35%"
     },
     {
       "id": "v21160",
@@ -421602,7 +421922,8 @@
       "channel": "White.",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-08-22"
+      "uploaded": "2024-08-22",
+      "thumbPos": "60% 35%"
     },
     {
       "id": "v21172",
@@ -421790,7 +422111,8 @@
       "channel": "VirginSnow0101",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-07"
+      "uploaded": "2024-09-07",
+      "thumbPos": "85% 35%"
     },
     {
       "id": "v21180",
@@ -422293,7 +422615,8 @@
       "channel": "chesxire",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-08-25"
+      "uploaded": "2024-08-25",
+      "thumbPos": "56% 35%"
     },
     {
       "id": "v21202",
@@ -422791,7 +423114,8 @@
       "channel": "Just K-PoP",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-08-30"
+      "uploaded": "2024-08-30",
+      "thumbPos": "68% 35%"
     },
     {
       "id": "v21224",
@@ -423067,7 +423391,8 @@
       "channel": "Just K-PoP",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-02"
+      "uploaded": "2024-09-02",
+      "thumbPos": "3% 35%"
     },
     {
       "id": "v21236",
@@ -423220,7 +423545,8 @@
       "channel": "Just K-PoP",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-02"
+      "uploaded": "2024-09-02",
+      "thumbPos": "3% 35%"
     },
     {
       "id": "v21243",
@@ -423242,7 +423568,8 @@
       "channel": "aedream08._",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-03"
+      "uploaded": "2024-09-03",
+      "thumbPos": "42% 35%"
     },
     {
       "id": "v21244",
@@ -423286,7 +423613,8 @@
       "channel": "aedream08._",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-02"
+      "uploaded": "2024-09-02",
+      "thumbPos": "23% 35%"
     },
     {
       "id": "v21246",
@@ -423308,7 +423636,8 @@
       "channel": "aedream08._",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-02"
+      "uploaded": "2024-09-02",
+      "thumbPos": "21% 35%"
     },
     {
       "id": "v21247",
@@ -423330,7 +423659,8 @@
       "channel": "Just K-PoP",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-02"
+      "uploaded": "2024-09-02",
+      "thumbPos": "10% 35%"
     },
     {
       "id": "v21248",
@@ -423661,7 +423991,8 @@
       "channel": "Coating",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-13"
+      "uploaded": "2024-09-13",
+      "thumbPos": "72% 35%"
     },
     {
       "id": "v21262",
@@ -423693,7 +424024,8 @@
       "channel": "Coating",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-13"
+      "uploaded": "2024-09-13",
+      "thumbPos": "76% 35%"
     },
     {
       "id": "v21263",
@@ -423788,7 +424120,8 @@
       "channel": "Coating",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-13"
+      "uploaded": "2024-09-13",
+      "thumbPos": "70% 35%"
     },
     {
       "id": "v21266",
@@ -423836,7 +424169,8 @@
       "channel": "𝐒𝐧𝐨𝐰 𝐝𝐫𝐨𝐩",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-10"
+      "uploaded": "2024-09-10",
+      "thumbPos": "4% 35%"
     },
     {
       "id": "v21268",
@@ -423887,7 +424221,8 @@
       "channel": "Bic",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-18"
+      "uploaded": "2024-09-18",
+      "thumbPos": "18% 35%"
     },
     {
       "id": "v21270",
@@ -423909,7 +424244,8 @@
       "channel": "Bic",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-18"
+      "uploaded": "2024-09-18",
+      "thumbPos": "86% 35%"
     },
     {
       "id": "v21271",
@@ -423931,7 +424267,8 @@
       "channel": "Bic",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-18"
+      "uploaded": "2024-09-18",
+      "thumbPos": "87% 35%"
     },
     {
       "id": "v21272",
@@ -423997,7 +424334,8 @@
       "channel": "Bic",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-17"
+      "uploaded": "2024-09-17",
+      "thumbPos": "70% 35%"
     },
     {
       "id": "v21275",
@@ -424021,7 +424359,8 @@
       "channel": "LU_wt0101",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-17"
+      "uploaded": "2024-09-17",
+      "thumbPos": "97% 35%"
     },
     {
       "id": "v21276",
@@ -424492,7 +424831,8 @@
       "channel": "Xzhlwlg",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-10-01"
+      "uploaded": "2024-10-01",
+      "thumbPos": "41% 35%"
     },
     {
       "id": "v21297",
@@ -424538,7 +424878,8 @@
       "channel": "Xzhlwlg",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-22"
+      "uploaded": "2024-09-22",
+      "thumbPos": "57% 35%"
     },
     {
       "id": "v21299",
@@ -424560,7 +424901,8 @@
       "channel": "Livelylife_A.A",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-27"
+      "uploaded": "2024-09-27",
+      "thumbPos": "0% 35%"
     },
     {
       "id": "v21300",
@@ -424582,7 +424924,8 @@
       "channel": "Livelylife_A.A",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-27"
+      "uploaded": "2024-09-27",
+      "thumbPos": "5% 35%"
     },
     {
       "id": "v21301",
@@ -424651,7 +424994,8 @@
       "channel": "Winey_",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-23"
+      "uploaded": "2024-09-23",
+      "thumbPos": "79% 35%"
     },
     {
       "id": "v21304",
@@ -424767,7 +425111,8 @@
       "channel": "Music By Novella",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-25"
+      "uploaded": "2024-09-25",
+      "thumbPos": "16% 35%"
     },
     {
       "id": "v21309",
@@ -424791,7 +425136,8 @@
       "channel": "justaespahk",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-10-30"
+      "uploaded": "2024-10-30",
+      "thumbPos": "57% 35%"
     },
     {
       "id": "v21310",
@@ -424839,7 +425185,8 @@
       "channel": "Winey_",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-28"
+      "uploaded": "2024-09-28",
+      "thumbPos": "56% 35%"
     },
     {
       "id": "v21312",
@@ -424935,7 +425282,8 @@
       "channel": "Wyvern_801",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-10-01"
+      "uploaded": "2024-10-01",
+      "thumbPos": "65% 35%"
     },
     {
       "id": "v21316",
@@ -425256,7 +425604,8 @@
       "channel": "Louise Han",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-10-02"
+      "uploaded": "2024-10-02",
+      "thumbPos": "4% 35%"
     },
     {
       "id": "v21330",
@@ -425302,7 +425651,8 @@
       "channel": "Wyvern_801",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-10-01"
+      "uploaded": "2024-10-01",
+      "thumbPos": "100% 35%"
     },
     {
       "id": "v21332",
@@ -425402,7 +425752,8 @@
       "channel": "Wyvern_801",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-10-03"
+      "uploaded": "2024-10-03",
+      "thumbPos": "0% 35%"
     },
     {
       "id": "v21336",
@@ -425518,7 +425869,8 @@
       "channel": "Soupzip 수프집",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-30"
+      "uploaded": "2024-09-30",
+      "thumbPos": "13% 35%"
     },
     {
       "id": "v21341",
@@ -425542,7 +425894,8 @@
       "channel": "_katarinabluuuu",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-10-04"
+      "uploaded": "2024-10-04",
+      "thumbPos": "100% 35%"
     },
     {
       "id": "v21342",
@@ -425664,7 +426017,8 @@
       "channel": "Wyvern_801",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-10-03"
+      "uploaded": "2024-10-03",
+      "thumbPos": "33% 35%"
     },
     {
       "id": "v21347",
@@ -425709,7 +426063,8 @@
       "channel": "Wyvern_801",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-10-04"
+      "uploaded": "2024-10-04",
+      "thumbPos": "38% 35%"
     },
     {
       "id": "v21349",
@@ -425733,7 +426088,8 @@
       "channel": "Kouchaこうちゃ",
       "pin": false,
       "gone": false,
-      "uploaded": "2024-09-30"
+      "uploaded": "2024-09-30",
+      "thumbPos": "61% 35%"
     },
     {
       "id": "v21350",
@@ -425996,7 +426352,8 @@
       "channel": "vvt_il",
       "pin": false,
       "gone": false,
-      "uploaded": "2025-04-27"
+      "uploaded": "2025-04-27",
+      "thumbPos": "42% 35%"
     },
     {
       "id": "v21361",
@@ -426070,7 +426427,8 @@
       "channel": "Rock Music",
       "pin": false,
       "gone": false,
-      "uploaded": "2025-05-17"
+      "uploaded": "2025-05-17",
+      "thumbPos": "43% 35%"
     },
     {
       "id": "v21364",
@@ -426271,6 +426629,6817 @@
       "gone": false,
       "uploaded": "2026-11-16",
       "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21373",
+      "ytId": "Giz-J8GMXeU",
+      "eventId": "e1538",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 241005 에스파 카리나 aespa KARINA - Supernova 직캠 @2024 K-Link Festival​",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-06"
+    },
+    {
+      "id": "v21374",
+      "ytId": "iyipLeke6C8",
+      "eventId": "e1538",
+      "songs": [
+        {
+          "songId": "g5s54",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 241005 에스파 카리나 aespa KARINA - Thirsty 직캠 @2024 K-Link Festival​",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-06"
+    },
+    {
+      "id": "v21375",
+      "ytId": "XjuR10xHqvw",
+      "eventId": "e1538",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K][FANCAM] 241005 aespa(에스파) NINGNING Focus K-Link Festival -  'Armageddon'직캠",
+      "channel": "Natnat_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-09",
+      "thumbPos": "62% 35%"
+    },
+    {
+      "id": "v21376",
+      "ytId": "W8LNK9ny7Dg",
+      "eventId": "e1538",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241005 케이링크 페스티벌 K-Link Festival 에스파 aespa 지젤 GISELLE 슈퍼노바 Supernova 직캠 fancam",
+      "channel": "flow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-07"
+    },
+    {
+      "id": "v21377",
+      "ytId": "g_fav61g_r0",
+      "eventId": "e1538",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 K-LINK 에스파 카리나(aespa Karina) -  Next Level 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-05"
+    },
+    {
+      "id": "v21378",
+      "ytId": "3VompXWqvs0",
+      "eventId": "e1538",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 241005 에스파 카리나 aespa KARINA - Next Level 뒷모습 직캠 @2024 K-Link Festival​",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-06"
+    },
+    {
+      "id": "v21379",
+      "ytId": "qY5V4Js38qU",
+      "eventId": "e1538",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 K-LINK 에스파 aespa 카리나 Karina Supernova 직캠",
+      "channel": "gphotoz_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-05",
+      "thumbPos": "36% 35%"
+    },
+    {
+      "id": "v21380",
+      "ytId": "Sps0VHBiywY",
+      "eventId": "e1538",
+      "songs": [
+        {
+          "songId": "g5s68",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "에스파 카리나의 매혹적인 무대 - 'Mine' 직캠 (aespa Karina's Mesmerizing Stage - 'Mine' Fancam) [4K  AI UPSCALE]",
+      "channel": "Yujiverse",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-08"
+    },
+    {
+      "id": "v21381",
+      "ytId": "5oVjxwFtiJ4",
+      "eventId": "e1538",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K | 20241005 K-Link Festival | Armageddon | aespa Karina",
+      "channel": "kind",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-06"
+    },
+    {
+      "id": "v21382",
+      "ytId": "amNx9Ck5v0k",
+      "eventId": "e1538",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241005 케이링크 페스티벌 K-Link Festival 에스파 aespa 지젤 GISELLE 아마겟돈 Armageddon 직캠 fancam",
+      "channel": "flow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-07"
+    },
+    {
+      "id": "v21383",
+      "ytId": "w1beDhsUo_o",
+      "eventId": "e1538",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 에스파 윈터 aespa WINTER 🎵Supernova+Armageddon 직캠 FANCAM @K-Link_Festival_2024",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-06",
+      "thumbPos": "79% 35%"
+    },
+    {
+      "id": "v21384",
+      "ytId": "gxdbfnrqgoQ",
+      "eventId": "e1538",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "AESPA SUPERNOVA KARINA FANCAM 📽 [K-Link Festival 241005]",
+      "channel": "vvt_il",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-25",
+      "thumbPos": "61% 35%"
+    },
+    {
+      "id": "v21385",
+      "ytId": "gaEL2uxWt1k",
+      "eventId": "e1538",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 AESPA \"Next Level\" Karina focus. 카리나 뒷 모습 무대 영상. K Link Festival /24.10.05/",
+      "channel": "LuvBe",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-05",
+      "thumbPos": "50% 99%"
+    },
+    {
+      "id": "v21386",
+      "ytId": "bVUvYybIBpI",
+      "eventId": "e1538",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 AESPA \"Supernova + Armageddon\" K Link Festival /24.10.05/",
+      "channel": "LuvBe",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-05",
+      "thumbPos": "50% 25%"
+    },
+    {
+      "id": "v21387",
+      "ytId": "m975LRD4i-Y",
+      "eventId": "e1538",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241005 Aespa 에스파 - Armageddon 아마겟돈 [K-link Festival]",
+      "channel": "예쁜일기",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-06",
+      "thumbPos": "50% 36%"
+    },
+    {
+      "id": "v21388",
+      "ytId": "cEXdUa23x_k",
+      "eventId": "e1567",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241012 aespa KARINA 에스파 카리나 MUSIC BANK IN MADRID - 'NEXT LEVEL' 직캠 FANCAM",
+      "channel": "jurina",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-15",
+      "thumbPos": "60% 35%"
+    },
+    {
+      "id": "v21389",
+      "ytId": "-1zETODXekE",
+      "eventId": "e1567",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[241012] Aespa - Supernova + Spicy Music Bank In Madrid (Not Full Performances)",
+      "channel": "rose 💤",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-13",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21390",
+      "ytId": "oa2C6Y6uOGk",
+      "eventId": "e1567",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241012 Music Bank in Madrid AESPA Full Performance (Spicy to Armageddon) ULTRA HD fancam",
+      "channel": "blckvlvtx",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-13",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21391",
+      "ytId": "4g8ceeUk-GM",
+      "eventId": "e1567",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Music Bank in Madrid aespa 에스파 Armageddon 241012",
+      "channel": "Sarah",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-14",
+      "thumbPos": "50% 41%"
+    },
+    {
+      "id": "v21392",
+      "ytId": "6FewmEscJNc",
+      "eventId": "e1567",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "20241012 Music Bank Madrid Aespa (에스파) 'Next Level'",
+      "channel": "Barbs",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-14",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21393",
+      "ytId": "cBxhXqge2Pc",
+      "eventId": "e1567",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Supernova- Aespa | Music Bank in Madrid 241012 뮤직뱅크 마드리드",
+      "channel": "BubbleKyuNyu",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-14",
+      "thumbPos": "50% 40%"
+    },
+    {
+      "id": "v21394",
+      "ytId": "5KQo2tfpRaU",
+      "eventId": "e1567",
+      "songs": [
+        {
+          "songId": "g5s5",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "Intro + Spicy- Aespa | Music Bank in Madrid 241012 뮤직뱅크 마드리드",
+      "channel": "BubbleKyuNyu",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-14",
+      "thumbPos": "50% 59%"
+    },
+    {
+      "id": "v21395",
+      "ytId": "JHBuZmCLBzM",
+      "eventId": "e1568",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241019  aespa - K-WONDER CONCERT IN TAOYUAN , 4K Fancam",
+      "channel": "wh",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-20",
+      "thumbPos": "50% 57%"
+    },
+    {
+      "id": "v21396",
+      "ytId": "umtArxALO8c",
+      "eventId": "e1568",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241019 aespa Winter Fancam 'ARMAGEDDON' @2024 K-Wonder Concert in Taoyuan / 에스파 윈터 직캠",
+      "channel": "Soupzip 수프집",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-20"
+    },
+    {
+      "id": "v21397",
+      "ytId": "MKVzbTfQ4O4",
+      "eventId": "e1568",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241019 K-Wonder aespa 에스파 - 'Supernova' 🗯🐶 Winter  Fancam #aespa #winter",
+      "channel": "jjsmg327 小貓",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-23"
+    },
+    {
+      "id": "v21398",
+      "ytId": "GmuTh7dsU20",
+      "eventId": "e1568",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241019 에스파 카리나 aespa KARINA 🎵Supernova+Armageddon 직캠 FANCAM @K-Wonder_Concert_2024",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-20",
+      "thumbPos": "72% 35%"
+    },
+    {
+      "id": "v21399",
+      "ytId": "MOxRGrUUEZQ",
+      "eventId": "e1568",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241019 aespa 에스파 'Supernova' [2024 K-WONDER CONCERT IN TAOYUAN]",
+      "channel": "SSWHALE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-20",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21400",
+      "ytId": "fH5yUgferg4",
+      "eventId": "e1568",
+      "songs": [
+        {
+          "songId": "g5s1",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s67",
+          "t": 0
+        },
+        {
+          "songId": "g5s5",
+          "t": 0
+        },
+        {
+          "songId": "g5s2",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241019 aespa - Black Mamba + Supernova + Hold on Tight + Spicy + Next Level + Armageddon",
+      "channel": "hi",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-20",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21401",
+      "ytId": "TAMpCu10F_E",
+      "eventId": "e1568",
+      "songs": [
+        {
+          "songId": "g5s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241019 K-Wonder aespa 에스파 - 'Black Mamba' Fancam #aespa",
+      "channel": "jjsmg327 小貓",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-22",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21402",
+      "ytId": "LTR4K0Lm-g8",
+      "eventId": "e1568",
+      "songs": [
+        {
+          "songId": "g5s67",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 20241019 aespa - Hold On Tight (K-WONDER CONCERT IN TAOYUAN)",
+      "channel": "SHUYU",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-30",
+      "thumbPos": "50% 81%"
+    },
+    {
+      "id": "v21403",
+      "ytId": "7Bro6Pr59zk",
+      "eventId": "e1568",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K Fancam] 241019 aespa - armageddon  (K-Wonder Concert in Taoyuan) #aespa #armageddon",
+      "channel": "AlvinC",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-20",
+      "thumbPos": "50% 38%"
+    },
+    {
+      "id": "v21404",
+      "ytId": "kqMvWZnR0Ag",
+      "eventId": "e1568",
+      "songs": [
+        {
+          "songId": "g5s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241019 에스파 카리나 직캠 'Spicy' (Aespa Karina FanCam) @2024 K-WONDER CONCERT IN TAOYUAN",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-20"
+    },
+    {
+      "id": "v21405",
+      "ytId": "vC8rWtqysBI",
+      "eventId": "e1568",
+      "songs": [
+        {
+          "songId": "g5s67",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1",
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241019 aespa Karina Winter Fancam 'HOLD ON TIGHT' @2024 K-Wonder Concert / 에스파 카리나 윈터 직캠",
+      "channel": "Soupzip 수프집",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-22"
+    },
+    {
+      "id": "v21406",
+      "ytId": "955fWq-kfEA",
+      "eventId": "e1568",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1",
+        "g5m2",
+        "g5m3",
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "20241019 @aespa Supernova K-WONDER CONCERT in TAOYUAN #aespa#karina#winter#ningning#giselle#kpop",
+      "channel": "久瀨大作",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-20"
+    },
+    {
+      "id": "v21407",
+      "ytId": "1zKn_NtWO-8",
+      "eventId": "e1134",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "'최초 공개' aespa - Whiplash #엠카운트다운 EP.868 | Mnet 241024 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-24",
+      "thumbPos": "50% 59%"
+    },
+    {
+      "id": "v21408",
+      "ytId": "C9ZYgQ3Bh7s",
+      "eventId": "e1134",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K AI Upscale] 241024 aespa - Whiplash @ Mnet M! Countdown E868",
+      "channel": "Taehyeong Kim [K-POP Video]",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-26",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21409",
+      "ytId": "L_HHOChs9iY",
+      "eventId": "e1569",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "에스파 - Armageddon [뮤직뱅크 인 마드리드] | KBS 241026 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-27",
+      "thumbPos": "50% 29%"
+    },
+    {
+      "id": "v21410",
+      "ytId": "JsbkedQZT4M",
+      "eventId": "e1569",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "에스파 - Supernova [뮤직뱅크 인 마드리드] | KBS 241026 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-27",
+      "thumbPos": "50% 25%"
+    },
+    {
+      "id": "v21411",
+      "ytId": "PDHwiqNLF1k",
+      "eventId": "e1569",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "에스파 - Next Level [뮤직뱅크 인 마드리드] | KBS 241026 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-27",
+      "thumbPos": "50% 33%"
+    },
+    {
+      "id": "v21412",
+      "ytId": "Y_UG5q7eFWA",
+      "eventId": "e1138",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠8K] aespa (에스파) – Whiplash FullCam | 쇼! 음악중심 | MBC241026방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-26",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21413",
+      "ytId": "-DOKBqILPT8",
+      "eventId": "e1138",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa - Whiplash | Show! MusicCore | Aired on MBC 241026 #AESPA #showmusiccore #whiplash",
+      "channel": "MBC WORLD",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-10",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21414",
+      "ytId": "OZytLLasceA",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 에스파 'Whiplash' 단독샷 별도녹화│aespa ONE TAKE STAGE│@SBS Inkigayo 241027",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-28",
+      "thumbPos": "50% 94%"
+    },
+    {
+      "id": "v21415",
+      "ytId": "o2ceCWP--zU",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K][FANCAM] 241027 aespa KARINA 에스파 카리나 Hyundai N x TOYOTA GAZOO Racing - 'Whiplash' 직캠",
+      "channel": "just",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-28",
+      "thumbPos": "64% 35%"
+    },
+    {
+      "id": "v21416",
+      "ytId": "HZf9cTuCgU0",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 에스파 카리나 'Whiplash' (aespa KARINA FanCam) @SBS Inkigayo 241027",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-27"
+    },
+    {
+      "id": "v21417",
+      "ytId": "KSwA5pwI5-o",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 에스파 카리나 'Whiplash' (aespa KARINA FaceCam) @SBS Inkigayo 241027",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-28"
+    },
+    {
+      "id": "v21418",
+      "ytId": "XtO1XPSc67k",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 에스파 지젤 'Whiplash' (aespa GISELLE FaceCam) @SBS Inkigayo 241027",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-28"
+    },
+    {
+      "id": "v21419",
+      "ytId": "vPlYCkX7B0w",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 에스파 지젤 'Whiplash' (aespa GISELLE FanCam) @SBS Inkigayo 241027",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-27"
+    },
+    {
+      "id": "v21420",
+      "ytId": "xQf_LM5agSs",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 에스파 닝닝 'Whiplash' (aespa NINGNING FanCam) @SBS Inkigayo 241027",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-27"
+    },
+    {
+      "id": "v21421",
+      "ytId": "yjL-Heo5GQY",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241027 에스파 윈터 Whiplash 직캠 aespa WINTER FANCAM",
+      "channel": "Iberis.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-27",
+      "thumbPos": "39% 35%"
+    },
+    {
+      "id": "v21422",
+      "ytId": "sl5IeVMHj4M",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 에스파 윈터 'Whiplash' (aespa WINTER FanCam) @SBS Inkigayo 241027",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-27"
+    },
+    {
+      "id": "v21423",
+      "ytId": "3EeWkKF4Qp0",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 에스파 윈터 'Whiplash' (aespa WINTER FaceCam) @SBS Inkigayo 241027",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-28"
+    },
+    {
+      "id": "v21424",
+      "ytId": "fXurKAt2ew4",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]241027 Hyundai N Festival  - Whiplash 에스파 닝닝 직캠 ｜ aespa NingNing focus",
+      "channel": "Cerise",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-28",
+      "thumbPos": "90% 35%"
+    },
+    {
+      "id": "v21425",
+      "ytId": "V2FmmlBN7ec",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241027 Hyundai N x TOYOTA GAZOO Racing 에스파 aespa 지젤 GISELLE 위플래시 Whiplash 직캠 fancam",
+      "channel": "flow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-06",
+      "thumbPos": "65% 35%"
+    },
+    {
+      "id": "v21426",
+      "ytId": "xEu4srO_9LI",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241027 에스파 aespa 윈터 winter Hyundai N Festival - Whiplash 위플래쉬 직캠 fancam",
+      "channel": "hiver",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-28",
+      "thumbPos": "40% 35%"
+    },
+    {
+      "id": "v21427",
+      "ytId": "jausADsNq6Q",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "aespa · UP (KARINA Solo) | UL 은정 직캠 | 241027 | 4K60p",
+      "channel": "Mop the Floor 직캠",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-28"
+    },
+    {
+      "id": "v21428",
+      "ytId": "p3kJOuNnkJg",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) – Whiplash @인기가요 inkigayo 20241027",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-27",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21429",
+      "ytId": "s3FyDYeEk-I",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[항공캠4K] 에스파 'Whiplash' (aespa Sky Cam)│@SBS Inkigayo 241027",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-01",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21430",
+      "ytId": "jyIeF2M1l60",
+      "eventId": "e1141",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241027 aespa (에스파) - Whiplash ｜ Hyundai N X TOYOTA GAZOO Racing FESTIVAL @에버랜드",
+      "channel": "슈삼",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-28",
+      "thumbPos": "50% 45%"
+    },
+    {
+      "id": "v21431",
+      "ytId": "tLSC3p9P0BQ",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241029 더시즌즈 The Seasons 에스파 aespa 지젤 GISELLE 위플래시 Whiplash 직캠 fancam",
+      "channel": "flow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-11",
+      "thumbPos": "67% 35%"
+    },
+    {
+      "id": "v21432",
+      "ytId": "092p812D1mw",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241029 더시즌즈 The Seasons 에스파 aespa 지젤 GISELLE  Flights, Not Feelings 직캠 fancam",
+      "channel": "flow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18"
+    },
+    {
+      "id": "v21433",
+      "ytId": "SnBFLY53VOs",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "세로"
+      ],
+      "title": "[세로] aespa - Whiplash [더 시즌즈-이영지의 레인보우] | KBS 241101 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-02",
+      "thumbPos": "50% 61%"
+    },
+    {
+      "id": "v21434",
+      "ytId": "GAPq-hIC8m8",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "aespa - Whiplash [더 시즌즈-이영지의 레인보우] | KBS 241101 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-02",
+      "thumbPos": "50% 26%"
+    },
+    {
+      "id": "v21435",
+      "ytId": "43f380ggf5E",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s80",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241029 THE 시즌즈 - '안아줘' 에스파 윈터 직캠 aespa WINTER FOCUS fancam",
+      "channel": "White.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-12"
+    },
+    {
+      "id": "v21436",
+      "ytId": "U9RyB2EBRAs",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[241029] aespa Winter 윈터 - Supernova + Whiplash FanCam at 'The Season's Lee Youngji's Rainbow Show'",
+      "channel": "COFFEE BREAK.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-30"
+    },
+    {
+      "id": "v21437",
+      "ytId": "NwORoIztF_g",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241029 THE 시즌즈 - 이영지의 레인보우  - 'Whiplash' 에스파 윈터 직캠 aespa WINTER FOCUS fancam",
+      "channel": "White.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-02",
+      "thumbPos": "42% 35%"
+    },
+    {
+      "id": "v21438",
+      "ytId": "Q6PEpY5-9Zg",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "aespa - Flights, Not Feelings [더 시즌즈-이영지의 레인보우] | KBS 241101 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-02",
+      "thumbPos": "50% 44%"
+    },
+    {
+      "id": "v21439",
+      "ytId": "NHmjHDITABk",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[가로] aespa - Whiplash [더 시즌즈-이영지의 레인보우] | KBS 241101 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-02",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21440",
+      "ytId": "7Y7HeiV7JPQ",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "aespa - Flights, Not Feelings [더 시즌즈-이영지의 레인보우] | KBS 241101 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-05",
+      "thumbPos": "50% 44%"
+    },
+    {
+      "id": "v21441",
+      "ytId": "35tj_nq1c_0",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "aespa - Whiplash (The Seasons) | KBS WORLD TV 241114",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-26",
+      "thumbPos": "50% 39%"
+    },
+    {
+      "id": "v21442",
+      "ytId": "Pdp2AZKiJsg",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "aespa - SUPERNOVA (The Seasons) | KBS WORLD TV 241114",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-26",
+      "thumbPos": "50% 42%"
+    },
+    {
+      "id": "v21443",
+      "ytId": "f7I1zxACjM0",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s16",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "aespa - Flights, Not Feelings (The Seasons) | KBS WORLD TV 241114",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-26",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21444",
+      "ytId": "3pasEEc_Giw",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "에스파 카리나 'Whiplash' 직캠 (aespa KARINA Fancam) 더 시즌즈-이영지의 레인보우 241101",
+      "channel": "taro milky 타로우유",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-24"
+    },
+    {
+      "id": "v21445",
+      "ytId": "Dzt2YmEBKXs",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "에스파 닝닝 직캠 'Whiplash' (aespa NINGNING FanCam) @더 시즌즈-이영지의 레인보우 241101",
+      "channel": "scarlet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-21"
+    },
+    {
+      "id": "v21446",
+      "ytId": "Y89D34LmDXk",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "에스파 지젤 직캠 'Whiplash' (aespa GISELLE FanCam) @더 시즌즈-이영지의 레인보우 241101",
+      "channel": "scarlet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-21"
+    },
+    {
+      "id": "v21447",
+      "ytId": "_I86KPKM3Sk",
+      "eventId": "e1570",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "에스파 지젤 'Whiplash' 직캠 (aespa GISELLE Fancam) 더 시즌즈-이영지의 레인보우 20241101",
+      "channel": "taro milky 타로우유",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-24"
+    },
+    {
+      "id": "v21448",
+      "ytId": "n9imwKg1o1A",
+      "eventId": "e1571",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241030 윈터 WINTER 에스파 aespa 'Whiplash' 4K 60P 직캠 @경희대 축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31"
+    },
+    {
+      "id": "v21449",
+      "ytId": "6a8hL6kaKu8",
+      "eventId": "e1571",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 (aespa) Full ver. (Whiplash + Supernova + Next Level + Black Mamba + Thirsty) | 경희대 축제 • 241030",
+      "channel": "비몽 BIMONG",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31",
+      "thumbPos": "50% 22%"
+    },
+    {
+      "id": "v21450",
+      "ytId": "eD4rLd1BakI",
+      "eventId": "e1571",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1",
+        "g5m2",
+        "g5m3",
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241030 에스파(aespa) 위플래시 aespa Whiplash 직캠 CAM 카리나 윈터 지젤 닝닝 경희대국제캠 축제",
+      "channel": "wjk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31"
+    },
+    {
+      "id": "v21451",
+      "ytId": "o5WAc4dX01g",
+      "eventId": "e1571",
+      "songs": [
+        {
+          "songId": "g5s54",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1",
+        "g5m2",
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241030 에스파 aespa - 써스티 Thirsty | 카리나 지젤 원터 닝닝 가로 직캠 | 경희대학교 국제캠퍼스 Adelante 축제 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-18"
+    },
+    {
+      "id": "v21452",
+      "ytId": "N5PRcunHHS8",
+      "eventId": "e1571",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1",
+        "g5m2",
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241030 aespa 에스파 - Supernova 슈퍼노바 | 카리나 지젤 원터 닝닝 가로 직캠 | 경희대학교 국제캠퍼스 Adelante 축제 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-09"
+    },
+    {
+      "id": "v21453",
+      "ytId": "tKnoi-74lWM",
+      "eventId": "e1571",
+      "songs": [
+        {
+          "songId": "g5s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1",
+        "g5m2",
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241030 aespa 에스파 - Black Mamba 블랙맘바 | 카리나 지젤 원터 닝닝 가로 직캠 | 경희대학교 국제캠퍼스 Adelante 축제 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-14"
+    },
+    {
+      "id": "v21454",
+      "ytId": "Wz_SM9RDooM",
+      "eventId": "e1571",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241030 윈터 WINTER 에스파 aespa 'Supernova' 4K 60P 직캠 @경희대 축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31"
+    },
+    {
+      "id": "v21455",
+      "ytId": "WJkyj2vG8PQ",
+      "eventId": "e1571",
+      "songs": [
+        {
+          "songId": "g5s54",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241030 윈터 WINTER 에스파 aespa 'Thirsty' 4K 60P 직캠 @경희대 축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31"
+    },
+    {
+      "id": "v21456",
+      "ytId": "CWO9urmQBCs",
+      "eventId": "e1571",
+      "songs": [
+        {
+          "songId": "g5s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241030 윈터 WINTER 에스파 aespa 'Black Mamba' 4K 60P 직캠 @경희대 축제 by DaftTaengk",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31"
+    },
+    {
+      "id": "v21457",
+      "ytId": "G1wREL7oIkE",
+      "eventId": "e1571",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "에스파 닝닝 'Whiplash(위플래쉬)' aespa NINGNING (241030) 경희대학교 국제캠퍼스 축제 Fancam By 천둥",
+      "channel": "천둥",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31"
+    },
+    {
+      "id": "v21458",
+      "ytId": "qazX8ER3WQM",
+      "eventId": "e1571",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa 에스파 241030 경희대 대동제 경희대학교 국제캠퍼스 축제 22분 full",
+      "channel": "이채훈",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-30",
+      "thumbPos": "50% 55%"
+    },
+    {
+      "id": "v21459",
+      "ytId": "JduvS9JEDso",
+      "eventId": "e1571",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241030 에스파 aespa - Full ver. 직캠 FullCam 4K 60P @경희대학교 국제캠퍼스 대동제 축제 by Prequel",
+      "channel": "Prequel",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-30",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21460",
+      "ytId": "JFJmRUmgO-M",
+      "eventId": "e1571",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241030 에스파 (aespa) - 'Supernova' 4K Cam (경희대학교)",
+      "channel": "Mera",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31",
+      "thumbPos": "50% 38%"
+    },
+    {
+      "id": "v21461",
+      "ytId": "JVyTxg2e4ew",
+      "eventId": "e1571",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241030 에스파(aespa) Full Ver. @ 2024 경희대학교 국제캠퍼스 축제",
+      "channel": "인다하우스",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21462",
+      "ytId": "f7fH7793Ytc",
+      "eventId": "e1571",
+      "songs": [
+        {
+          "songId": "g5s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241030 에스파 (aespa) - Black Mamba [경희대학교 국제캠퍼스 축제 Adelante]",
+      "channel": "푸낭",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31",
+      "thumbPos": "50% 78%"
+    },
+    {
+      "id": "v21463",
+      "ytId": "QvugWizSxJI",
+      "eventId": "e1571",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241030 에스파 (AESPA FanCam) @ 경희대학교 축제 (4K FULL ver)",
+      "channel": "connect",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-30",
+      "thumbPos": "50% 44%"
+    },
+    {
+      "id": "v21464",
+      "ytId": "90dumTcJU-A",
+      "eventId": "e1571",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 (aespa) '공연 No Cut Full Ver.' (241030) 경희대학교 국제캠퍼스 축제 Fancam By 천둥",
+      "channel": "천둥",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21465",
+      "ytId": "7HgjiYG2wzI",
+      "eventId": "e1571",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241030 aespa 에스파 - Whiplash 위플래쉬 신곡 | 가로 직캠 | 경희대학교 국제캠퍼스 Adelante 축제 [KPOP FanCam 4K]",
+      "channel": "Bamp VIDEO 8K",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31",
+      "thumbPos": "50% 18%"
+    },
+    {
+      "id": "v21466",
+      "ytId": "_-zW4XSBd-o",
+      "eventId": "e1571",
+      "songs": [
+        {
+          "songId": "g5s54",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파(aespa) - Thirsty (떨스티) 직캠 | 경희대 국제캠퍼스 축제 • 241030",
+      "channel": "비몽 BIMONG",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-30",
+      "thumbPos": "50% 29%"
+    },
+    {
+      "id": "v21467",
+      "ytId": "3ukzN-oPMuU",
+      "eventId": "e1571",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241030 에스파 aespa Full ver Black Mamba +Supernova + Thirsty + Whiplash + Next Level 4K 60P 직캠 @경희대 축제",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31",
+      "thumbPos": "50% 36%"
+    },
+    {
+      "id": "v21468",
+      "ytId": "I9CSlpoPj7E",
+      "eventId": "e1571",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241030 에스파 (aespa) - Supernova [경희대학교 국제캠퍼스 축제 Adelante]",
+      "channel": "푸낭",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31",
+      "thumbPos": "50% 59%"
+    },
+    {
+      "id": "v21469",
+      "ytId": "qiMN5IVMgac",
+      "eventId": "e1571",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "에스파 aespa 'Supernova' (슈퍼노바) 4K 직캠｜경희대 국제캠퍼스 241030",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-30",
+      "thumbPos": "50% 31%"
+    },
+    {
+      "id": "v21470",
+      "ytId": "LXsG1GnSv3c",
+      "eventId": "e1539",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "에스파 윈터 (aespa WINTER) 'Next Level 넥스트레벨' | 충남대학교 축제 | 241030",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-10"
+    },
+    {
+      "id": "v21471",
+      "ytId": "lMgq1lyIkl4",
+      "eventId": "e1539",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 (aespa) 'whiplash 위플래쉬'🔥 | 충남대학교 축제 | 241030",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-30",
+      "thumbPos": "50% 37%"
+    },
+    {
+      "id": "v21472",
+      "ytId": "kb1GL19Zntg",
+      "eventId": "e1539",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 (aespa) '슈퍼노바 Supernova' | 충남대학교 축제 | 241030",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-30",
+      "thumbPos": "50% 10%"
+    },
+    {
+      "id": "v21473",
+      "ytId": "JO_7ABcRTLc",
+      "eventId": "e1539",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 (aespa) 'Next Level 넥스트레벨' | 충남대학교 축제 | 241030",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-30",
+      "thumbPos": "50% 18%"
+    },
+    {
+      "id": "v21474",
+      "ytId": "9FlSdiBeJ9c",
+      "eventId": "e1539",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 (aespa) Chungnam Uni Festival🔥Full Ver. (Black Mamba+ Supernova + Thirsty +whiplash+Next Level)",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31",
+      "thumbPos": "50% 11%"
+    },
+    {
+      "id": "v21475",
+      "ytId": "JDoigOHTsnc",
+      "eventId": "e1539",
+      "songs": [
+        {
+          "songId": "g5s1",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 (aespa) '블랙맘바 Black Mamba' | 충남대학교 축제 | 241030",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-30",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21476",
+      "ytId": "RJ35yJF35nY",
+      "eventId": "e1539",
+      "songs": [
+        {
+          "songId": "g5s54",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 (aespa) 'Thirsty' | 충남대학교 축제 | 241030",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-30",
+      "thumbPos": "50% 25%"
+    },
+    {
+      "id": "v21477",
+      "ytId": "FFz_hPf0hCk",
+      "eventId": "e1539",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241030 충남대 아케시오 에스파 [FULL]",
+      "channel": "백업용",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-31",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21478",
+      "ytId": "rB5wAGx0AJ8",
+      "eventId": "e1539",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "에스파(aespa) 카리나(KARINA) '위플래쉬 whiplash'🔥 [4K 세로직캠] | 충남대학교 축제",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-01",
+      "thumbPos": "60% 35%"
+    },
+    {
+      "id": "v21479",
+      "ytId": "lQ2FIaPGVKY",
+      "eventId": "e1539",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "에스파(aespa) 윈터(WINTER) '위플래쉬 whiplash'🔥 [4K 세로직캠] | 충남대학교 축제",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-01",
+      "thumbPos": "36% 35%"
+    },
+    {
+      "id": "v21480",
+      "ytId": "MZUiul9i-I0",
+      "eventId": "e1539",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "[4k] 2024 충남대학교 백마대동제 Whiplash 윈터 극락버전 직캠#shorts #충남대학교 #aespa #윈터 #백마대동제 #에스파 #공연",
+      "channel": "도치tv",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-07",
+      "thumbPos": "84% 35%"
+    },
+    {
+      "id": "v21481",
+      "ytId": "LKwXzF4xW4o",
+      "eventId": "e1145",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[무대+토크 풀버전] 신곡 Whiplash부터 잔잔한 무대들까지...라이브 찢어버린 에스파(aespa) 웅니들😍+수록곡 무대 최초공개 I KBS 이영지의 레인보우 241101 방송",
+      "channel": "KBS StarTV: 인물사전",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-04",
+      "thumbPos": "50% 7%"
+    },
+    {
+      "id": "v21482",
+      "ytId": "HtzGtXvtkDQ",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Whiplash - aespa [뮤직뱅크/Music Bank] | KBS 241101 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-01",
+      "thumbPos": "50% 40%"
+    },
+    {
+      "id": "v21483",
+      "ytId": "X9qGnHaJess",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Whiplash - aespa エスパ 에스파 [Music Bank] | KBS WORLD TV 241101",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-01",
+      "thumbPos": "50% 40%"
+    },
+    {
+      "id": "v21484",
+      "ytId": "DCVNDnRzkco",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[4K] 에스파 'Whiplash' 뮤직뱅크 1위 앵콜직캠(aespa Encore Facecam) @뮤직뱅크(Music Bank) 241101",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-01",
+      "thumbPos": "50% 52%"
+    },
+    {
+      "id": "v21485",
+      "ytId": "lOSfRjm-PRg",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]Winter(aespa)\"Whiplash\" fancam | | KBS241101",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-06"
+    },
+    {
+      "id": "v21486",
+      "ytId": "x_wVOK8wEd8",
+      "eventId": "e1145",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4k]Ningning(aespa) - Whiplash Fancam | | KBS 241101 #aespa #ningning #fancam #whiplash #kpop #fyp",
+      "channel": "직캠 Heya",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-05"
+    },
+    {
+      "id": "v21487",
+      "ytId": "q8qsxtOHtP8",
+      "eventId": "e1149",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa(エスパ) - Whiplash | Show! MusicCore | aired on MBC 241102 #AESPA #showmusiccore",
+      "channel": "MBC WORLD",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21488",
+      "ytId": "QYWqA4aJHpg",
+      "eventId": "e1149",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#음중직캠] aespa (에스파) – Whiplash FullCam | 쇼! 음악중심 | MBC241102방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-02",
+      "thumbPos": "50% 44%"
+    },
+    {
+      "id": "v21489",
+      "ytId": "QI9gpOPLTeE",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[단독샷캠4K] 에스파 'Whiplash' 단독샷 별도녹화│aespa ONE TAKE STAGE│@SBS Inkigayo 241103",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-05",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21490",
+      "ytId": "DjTt2XsX8gY",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 에스파 카리나 'Whiplash' (aespa KARINA FaceCam) @SBS Inkigayo 241103",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-04",
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v21491",
+      "ytId": "uQZEtXlYB_U",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 에스파 윈터 'Whiplash' (aespa WINTER FanCam) @SBS Inkigayo 241103",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-04",
+      "thumbPos": "62% 35%"
+    },
+    {
+      "id": "v21492",
+      "ytId": "uXCAfA2kXIs",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[안방1열 직캠4K] 에스파 지젤 'Whiplash' (aespa GISELLE FanCam) @SBS Inkigayo 241103",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-04",
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v21493",
+      "ytId": "zAtFdhqJELc",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K",
+        "얼빡"
+      ],
+      "title": "[페이스캠4K] 에스파 닝닝 'Whiplash' (aespa NINGNING FaceCam) @SBS Inkigayo 241103",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-04"
+    },
+    {
+      "id": "v21494",
+      "ytId": "3vWKcNMYFbM",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "에스파 카리나 'Whiplash' 직캠 (AESPA KARINA FanCam) 241103",
+      "channel": "taro milky 타로우유",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-09",
+      "thumbPos": "37% 35%"
+    },
+    {
+      "id": "v21495",
+      "ytId": "u6j0w-lCGnE",
+      "eventId": "e1151",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) – Whiplash @인기가요 inkigayo 20241103",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-03",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21496",
+      "ytId": "Wa0975RkePk",
+      "eventId": "e1572",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] 241109 에스파 (aespa) 'Whiplash' | aespa in Nabati Richoco Land Jakarta #aespa #nabatixaespa",
+      "channel": "kamiweuri",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-15",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21497",
+      "ytId": "HKAYQ-9NvZ4",
+      "eventId": "e1572",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241109 aespa - Whiplash in Jakarta",
+      "channel": "dayna",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-09",
+      "thumbPos": "50% 53%"
+    },
+    {
+      "id": "v21498",
+      "ytId": "hRMGHZobfp4",
+      "eventId": "e1573",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241115 TICTOK AWARDS - 'Armageddon' 에스파 윈터 직캠 aespa WINTER FOCUS fancam",
+      "channel": "White.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-23"
+    },
+    {
+      "id": "v21499",
+      "ytId": "E3Aatz6HkHI",
+      "eventId": "e1573",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241115 에스파 윈터 Whiplash - aespa winter 직캠 fancam",
+      "channel": "BBB",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-21"
+    },
+    {
+      "id": "v21500",
+      "ytId": "0zLhvSkyFcE",
+      "eventId": "e1573",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241115 에스파 윈터 Armageddon - aespa winter 직캠 fancam",
+      "channel": "BBB",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-21"
+    },
+    {
+      "id": "v21501",
+      "ytId": "8QbrbD0qElw",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[#2024KGMA] aespa (에스파) - Whiplash+Supernova+Armageddon | #에스파 #aespa | ENA 241117 방송",
+      "channel": "ENA 이엔에이",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-10",
+      "thumbPos": "50% 28%"
+    },
+    {
+      "id": "v21502",
+      "ytId": "_o-tLSm34Os",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241117 aespa Winter Fancam 'Spark‘ @코리아 그랜드 뮤직 어워즈(KGMA) / 에스파 윈터 직캠",
+      "channel": "Soupzip 수프집",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18"
+    },
+    {
+      "id": "v21503",
+      "ytId": "nMfkSU4eWDk",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241117 KGMA | aespa(에스파) - Whiplash, Supernova, Armageddon (full cam)",
+      "channel": "YALP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18",
+      "thumbPos": "50% 68%"
+    },
+    {
+      "id": "v21504",
+      "ytId": "4rKeGsHa0lE",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241117 KGMA 윈터 winter 에스파 aespa Whiplash 4K 60 직캠",
+      "channel": "VirginSnow0101",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-22",
+      "thumbPos": "81% 35%"
+    },
+    {
+      "id": "v21505",
+      "ytId": "dXtXzU7_d6s",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241117 KGMA - 'Supernova' 에스파 윈터 직캠 | aespa WINTER [FANCAM]",
+      "channel": "Eternity",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-27"
+    },
+    {
+      "id": "v21506",
+      "ytId": "jD0OTS_XT4k",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "에스파 (aespa) 'Whiplash, Supernova, Armageddon'｜KGMA 241117",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-20",
+      "thumbPos": "50% 25%"
+    },
+    {
+      "id": "v21507",
+      "ytId": "F_IdSesf57g",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Supernova - AESPA WINTER 에스파 윈터 241117 KGMA",
+      "channel": "BLUE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-22"
+    },
+    {
+      "id": "v21508",
+      "ytId": "IfBKO3cRbLI",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[#2024KGMA] 윈터 (aespa WINTER) - Spark | #윈터 #WINTER #에스파 #aespa | ENA 241117 방송",
+      "channel": "ENA 이엔에이",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-10",
+      "thumbPos": "61% 35%"
+    },
+    {
+      "id": "v21509",
+      "ytId": "4FGzR98A7VU",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241117 aespa 에스파 WINTER - Spark @ 2024 KGMA 코리아 그랜드 뮤직 어워즈",
+      "channel": "jei",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-17"
+    },
+    {
+      "id": "v21510",
+      "ytId": "YpPoBqw4xyQ",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241117 aespa 에스파 WINTER 윈터 SPARK Fancam 직캠 @ KGMA",
+      "channel": "SOFT",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-20"
+    },
+    {
+      "id": "v21511",
+      "ytId": "AC7vFfUHe-U",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241117 KGMA 에스파 aespa 지젤 GISELLE 아마겟돈 Armageddon 직캠 fancam",
+      "channel": "flow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-03"
+    },
+    {
+      "id": "v21512",
+      "ytId": "Z7KYU_UfTkw",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241117 KGMA 에스파 위플래쉬",
+      "channel": "Gloria Cho",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18",
+      "thumbPos": "50% 1%"
+    },
+    {
+      "id": "v21513",
+      "ytId": "dCJMyu6A5YI",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241117 [4K직캠] 에스파 지젤 직캠 ’위플래시‘ aespa Giselle FanCam Whiplash",
+      "channel": "Wyomoon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-19"
+    },
+    {
+      "id": "v21514",
+      "ytId": "EDiUkdHIAFc",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[SUPERNOVA - WINTER FANCAM ] 슈퍼노바 에스파 윈터 직캠 241117 KGMA",
+      "channel": "𝑺𝒐𝒖𝒍.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-26",
+      "thumbPos": "60% 35%"
+    },
+    {
+      "id": "v21515",
+      "ytId": "U-z8sB2pedk",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241117 2024 코리아그랜드뮤직어워즈(KGMA) #에스파 #Winter #윈터 Spark(스파크) 멀티직캠 fancam",
+      "channel": "𝐒𝐧𝐨𝐰 𝐝𝐫𝐨𝐩",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18"
+    },
+    {
+      "id": "v21516",
+      "ytId": "i27ncFi5Zjc",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241117 Aespa 에스파 - Whiplash [KGMA]",
+      "channel": "예쁜일기",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-17",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21517",
+      "ytId": "Q-UpDaD7zXM",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241117 KGMA 에스파(aespa) Supernova 윈터 (WINTER) focus 직캠 Fancam",
+      "channel": "Aeonian",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-21",
+      "thumbPos": "23% 35%"
+    },
+    {
+      "id": "v21518",
+      "ytId": "w6hzH3nByFU",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241117 KGMA 에스파 아마겟돈",
+      "channel": "Gloria Cho",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18",
+      "thumbPos": "50% 29%"
+    },
+    {
+      "id": "v21519",
+      "ytId": "QYIYqxSbANU",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241117 KGMA 에스파 위플래쉬 윈터직캠",
+      "channel": "퍼그",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18",
+      "thumbPos": "57% 35%"
+    },
+    {
+      "id": "v21520",
+      "ytId": "xfDVb9LSwGs",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241117 KGMA 에스파 윈터 스파크",
+      "channel": "Gloria Cho",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18"
+    },
+    {
+      "id": "v21521",
+      "ytId": "RNFXFPcVBHk",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]241117 KGMA 2024 - Whiplash 카리나 Karina 에스파 aespa FANCAM 직캠",
+      "channel": "notes0411",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-20",
+      "thumbPos": "25% 35%"
+    },
+    {
+      "id": "v21522",
+      "ytId": "HSCkzJsehbY",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241117 KGMA 에스파(aespa) - Supernova 닝닝 (NINGNING) Focus [4K]",
+      "channel": "BIiss",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-20"
+    },
+    {
+      "id": "v21523",
+      "ytId": "YDnmy2cs8so",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241117 aespa KGMA - Whiplash + Supernova + Armageddon",
+      "channel": "AverageSGHuman",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-21",
+      "thumbPos": "50% 54%"
+    },
+    {
+      "id": "v21524",
+      "ytId": "5nh6-_Dojzk",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241117 에스파 윈터 'SPARK' 직캠 AESPA WINTER SPARK FANCAM @ 2024 KGMA 코리아 그랜드 뮤직 어워즈 코그뮤",
+      "channel": "쮸",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-19"
+    },
+    {
+      "id": "v21525",
+      "ytId": "HK2ScL1tOzg",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] Armageddon - aespa 241119 KGMA 에스파 카리나 아마겟돈 Karina Focus CAM",
+      "channel": "kismet.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-19"
+    },
+    {
+      "id": "v21526",
+      "ytId": "XkSYzCQbTAo",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1",
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] Wiplash - aespa 241119 KGMA 카리나 닝닝 Karina Ningning Focus CAM",
+      "channel": "kismet.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-19"
+    },
+    {
+      "id": "v21527",
+      "ytId": "21vH0G2nqRQ",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] Supernova - aespa 241119 KGMA 카리나 Karina Focus CAM",
+      "channel": "kismet.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-19"
+    },
+    {
+      "id": "v21528",
+      "ytId": "xtatb7fTvds",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "에스파 카리나 Whiplash / supernova / Armageddon 4k세로직캠 (aespa KARINA FanCam) @ KGMA 241117",
+      "channel": "connect",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18"
+    },
+    {
+      "id": "v21529",
+      "ytId": "2PUzHuqnlt8",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K | 20241117 KGMA | Whiplash | aespa Karina",
+      "channel": "kind",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18"
+    },
+    {
+      "id": "v21530",
+      "ytId": "634OH8J883c",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "에스파 카리나 Whiplash 4k60p (aespa KARINA FanCam) @ KGMA 241117",
+      "channel": "connect",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-17",
+      "thumbPos": "34% 35%"
+    },
+    {
+      "id": "v21531",
+      "ytId": "ByXrbBiiYIE",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241117 카리나 KARINA 에스파 aespa 아마겟돈 Armageddon @KGMA 4K 직캠 by MIXX",
+      "channel": "MIXX",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-20",
+      "thumbPos": "42% 35%"
+    },
+    {
+      "id": "v21532",
+      "ytId": "7v0tvvEtZr4",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "AESPA SUPERNOVA WINTER FANCAM 📽 [KGMA 241117 ] #aespa #winter #supernova",
+      "channel": "vvt_il",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-11"
+    },
+    {
+      "id": "v21533",
+      "ytId": "EfimIsamYo8",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241117 KGMA 에스파(aespa) 위플래시 (Whiplash) 윈터 (WINTER) focus 직캠 Fancam",
+      "channel": "Aeonian",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-21",
+      "thumbPos": "20% 35%"
+    },
+    {
+      "id": "v21534",
+      "ytId": "z8l-jj23Lbw",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241117 KGMA [ Whiplash ] 에스파 윈터 직캠 aespa WINTER fancam.",
+      "channel": "percent",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-16",
+      "thumbPos": "39% 35%"
+    },
+    {
+      "id": "v21535",
+      "ytId": "d1vRk4sOWIY",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "에스파 윈터 Spark 4k세로직캠 (aespa WINTER FanCam) @ KGMA 241117",
+      "channel": "connect",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-19",
+      "thumbPos": "37% 35%"
+    },
+    {
+      "id": "v21536",
+      "ytId": "OiBEAcKX_f0",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[241117] KGMA 코리아 그랜드 뮤직 어워즈 오프닝 직캠 (에스파) 윈터 - Spark",
+      "channel": "동동🐻",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18"
+    },
+    {
+      "id": "v21537",
+      "ytId": "s0s0a91QxCo",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241117 KGMA 에스파(aespa) Armageddon 윈터 (WINTER) focus 직캠 Fancam",
+      "channel": "Aeonian",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-22",
+      "thumbPos": "85% 35%"
+    },
+    {
+      "id": "v21538",
+      "ytId": "YLTDQwfvlcA",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241117 KGMA 에스파(aespa) 윈터 (WINTER) Spark 직캠 Fancam",
+      "channel": "Aeonian",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18"
+    },
+    {
+      "id": "v21539",
+      "ytId": "Gf9RGcgj7eU",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241117 KGMA [ Armageddon ] 에스파 윈터 직캠 aespa WINTER fancam.",
+      "channel": "percent",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-31"
+    },
+    {
+      "id": "v21540",
+      "ytId": "ce2cj-4t2lo",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241117 KGMA 에스파(aespa) - Whiplash 닝닝 (NINGNING) Focus [4K]",
+      "channel": "BIiss",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-20"
+    },
+    {
+      "id": "v21541",
+      "ytId": "SeFRtOWvoss",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241117 KGMA armageddon- aespa 닝닝 ningning fancam",
+      "channel": "스더🐈",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18"
+    },
+    {
+      "id": "v21542",
+      "ytId": "gL6NR522dGI",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241117 KGMA supernova - aespa 닝닝 ningning fancam",
+      "channel": "스더🐈",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18"
+    },
+    {
+      "id": "v21543",
+      "ytId": "cL-1KtnD_0U",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241117 KGMA whiplash - aespa 닝닝 ningning fancam",
+      "channel": "스더🐈",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18"
+    },
+    {
+      "id": "v21544",
+      "ytId": "0xYTWXrlbOQ",
+      "eventId": "e1574",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241117 AESPA NINGNING  SUPERNOVA - KGMA",
+      "channel": "HEDIO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-18",
+      "thumbPos": "35% 35%"
+    },
+    {
+      "id": "v21545",
+      "ytId": "a69vAo3tdiI",
+      "eventId": "e1575",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241117 aespa \"Whiplash\" 3rd WIN on SBS inkigayo",
+      "channel": "MC-Leeseo",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-17",
+      "thumbPos": "50% 24%"
+    },
+    {
+      "id": "v21546",
+      "ytId": "v9OI0DX7rbc",
+      "eventId": "e1576",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241123 aespa KARINA 에스파 카리나 2024 MAMA AWARDS - 'Whiplash' 직캠",
+      "channel": "still",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-24"
+    },
+    {
+      "id": "v21547",
+      "ytId": "1xz9JTo2i8Q",
+      "eventId": "e1576",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241123 aespa KARINA 에스파 카리나 MAMA - 'UP & SUPERNOVA' 직캠 FANCAM",
+      "channel": "jurina",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-24",
+      "thumbPos": "26% 35%"
+    },
+    {
+      "id": "v21548",
+      "ytId": "wnuaVYLFjZc",
+      "eventId": "e1576",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241123 AESPA NINGNING WHIPLASH -MAMA",
+      "channel": "HEDIO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-24",
+      "thumbPos": "22% 35%"
+    },
+    {
+      "id": "v21549",
+      "ytId": "O_8ewx4DNQY",
+      "eventId": "e1576",
+      "songs": [
+        {
+          "songId": "g5s13",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241123 에스파 윈터 aespa WINTER Spark 직캠 [2024 MAMA AWARDS]",
+      "channel": "Salvation",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-25"
+    },
+    {
+      "id": "v21550",
+      "ytId": "LDt40OIEZZQ",
+      "eventId": "e1576",
+      "songs": [
+        {
+          "songId": "g5s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241123 aespa KARINA 에스파 카리나 2024 MAMA AWARDS - 'UP' 직캠",
+      "channel": "still",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-24"
+    },
+    {
+      "id": "v21551",
+      "ytId": "QB7eaAAIZAU",
+      "eventId": "e1576",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#2024MAMA] aespa (에스파) - Whiplash (MAMA ver.) | Mnet 241123 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-23",
+      "thumbPos": "50% 48%"
+    },
+    {
+      "id": "v21552",
+      "ytId": "_LyRdiHwyFA",
+      "eventId": "e1576",
+      "songs": [
+        {
+          "songId": "g5s12",
+          "t": 0
+        },
+        {
+          "songId": "g5s13",
+          "t": 0
+        },
+        {
+          "songId": "g5s11",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#2024MAMA] aespa-Bored!+Spark+Dopamine+UP+Supernova(MAMA ver.)+Whiplash(MAMA ver.) | Mnet 241123 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-23",
+      "thumbPos": "50% 46%"
+    },
+    {
+      "id": "v21553",
+      "ytId": "oijZZiLG4CY",
+      "eventId": "e1576",
+      "songs": [
+        {
+          "songId": "g5s12",
+          "t": 0
+        },
+        {
+          "songId": "g5s13",
+          "t": 0
+        },
+        {
+          "songId": "g5s11",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[#2024MAMA] aespa (에스파) - Bored! + Spark + Dopamine + UP + Supernova (MAMA ver.) | Mnet 241123 방송",
+      "channel": "Mnet K-POP",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-23",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21554",
+      "ytId": "AU9yghKdjqg",
+      "eventId": "e1576",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241123 에스파 카리나 aespa KARINA 🎵Whiplash 직캠 FANCAM @MAMA2024",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-23"
+    },
+    {
+      "id": "v21555",
+      "ytId": "ksjsSWITdmk",
+      "eventId": "e1576",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[2024 MAMA] Day 3 (241123) - aespa (에스파) Live Performance at Kyosera Dome Osaka",
+      "channel": "ESTJourney",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-25"
+    },
+    {
+      "id": "v21556",
+      "ytId": "GXesZlumoHs",
+      "eventId": "e1577",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241124 aespa \"Whiplash\" 4rd WIN on SBS inkigayo",
+      "channel": "MC-Leeseo",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-24",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21557",
+      "ytId": "qRV7KwnXrgw",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 멜론뮤직어워드(MMA 2024) Armageddon(아마겟돈) #aespa #에스파 #Winter #윈터 직캠",
+      "channel": "𝐒𝐧𝐨𝐰 𝐝𝐫𝐨𝐩",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-01",
+      "thumbPos": "28% 35%"
+    },
+    {
+      "id": "v21558",
+      "ytId": "6OQSG5LRAsA",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 MMA - 'Whiplash' 에스파 윈터 직캠 | aespa WINTER [FANCAM]",
+      "channel": "Eternity",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-10",
+      "thumbPos": "89% 35%"
+    },
+    {
+      "id": "v21559",
+      "ytId": "wOs7v0VwY38",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 MMA - 'Armageddon' 에스파 윈터 직캠 | aespa WINTER [FANCAM]",
+      "channel": "Eternity",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-01",
+      "thumbPos": "27% 35%"
+    },
+    {
+      "id": "v21560",
+      "ytId": "e9LfKe6MXOs",
+      "eventId": "e1578",
+      "songs": [],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "[FULL] aespa 에스파 멜론뮤직어워드 MMA 2024 241130",
+      "channel": "잇츠미",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-13",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21561",
+      "ytId": "6klLsuPnrko",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]241130 MMA 2024 - Whiplash 에스파 닝닝 직캠 ｜ aespa NingNing focus",
+      "channel": "Cerise",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-03",
+      "thumbPos": "39% 35%"
+    },
+    {
+      "id": "v21562",
+      "ytId": "p_tL-sj6ANo",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K][FANCAM] 241130 aespa KARINA 에스파 카리나 MMA - 'Whiplash' 직캠",
+      "channel": "just",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-02"
+    },
+    {
+      "id": "v21563",
+      "ytId": "M-RSWVpahm8",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 aespa 에스파 WINTER 윈터 Armageddon Fancam 직캠 @ MMA",
+      "channel": "SOFT",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-01"
+    },
+    {
+      "id": "v21564",
+      "ytId": "iY1FpQnWNkM",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 aespa KARINA 에스파 카리나 MMA - 'Whiplash' 직캠 Fancam",
+      "channel": "jurina",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-02"
+    },
+    {
+      "id": "v21565",
+      "ytId": "zF4a7XXIVm8",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241130 MMA2024 윈터 winter 에스파 aespa Whiplash 4K 60 직캠",
+      "channel": "VirginSnow0101",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-02",
+      "thumbPos": "73% 35%"
+    },
+    {
+      "id": "v21566",
+      "ytId": "QM5O2oUPFtY",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 MELON MUSIC AWARDS MMA - Supernova 에스파 윈터 직캠 aespa winter fancam",
+      "channel": "confetti",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-06"
+    },
+    {
+      "id": "v21567",
+      "ytId": "fmRrdTiQjvI",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 MMA2024 'Whiplash' │ aespa KARINA(에스파 카리나) fancam",
+      "channel": "yeux",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-10"
+    },
+    {
+      "id": "v21568",
+      "ytId": "7TXH8p77Ioc",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 aespa 에스파 WINTER 윈터 Whiplash Fancam 직캠 @ MMA",
+      "channel": "SOFT",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-01"
+    },
+    {
+      "id": "v21569",
+      "ytId": "MIS1doucQs0",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241130 에스파 카리나 aespa KARINA 🎵Whiplash+Supernova+Armageddon 직캠 FANCAM @MMA2024",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-01",
+      "thumbPos": "75% 35%"
+    },
+    {
+      "id": "v21570",
+      "ytId": "IbtZ3kpr38Q",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 aespa KARINA 에스파 카리나 MMA - 'Armageddon' 직캠 FANCAM",
+      "channel": "jurina",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-06"
+    },
+    {
+      "id": "v21571",
+      "ytId": "y5xi6JFn16E",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 MMA - 'Armageddon' 에스파 윈터 직캠 aespa WINTER FOCUS fancam",
+      "channel": "White.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-02",
+      "thumbPos": "28% 35%"
+    },
+    {
+      "id": "v21572",
+      "ytId": "ck7M3Wp1l2k",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 MELON MUSIC AWARDS MMA - Armageddon 에스파 윈터 직캠 aespa winter fancam",
+      "channel": "confetti",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-10",
+      "thumbPos": "37% 35%"
+    },
+    {
+      "id": "v21573",
+      "ytId": "r2FN8RH02Do",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241130 MMA 에스파 윈터（aespa winter）- Supernova 멜론뮤직어워드 직캠 fancam",
+      "channel": "JiaLi",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-12"
+    },
+    {
+      "id": "v21574",
+      "ytId": "6prqye3j1C4",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 멜론뮤직어워드(MMA 2024) Whiplash(위플래시) #aespa #에스파 #Winter #윈터 멀티직캠",
+      "channel": "𝐒𝐧𝐨𝐰 𝐝𝐫𝐨𝐩",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-03",
+      "thumbPos": "14% 35%"
+    },
+    {
+      "id": "v21575",
+      "ytId": "qnbRM2-j8hE",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241130 aespa(에스파) - Whiplash + Supernova + Armageddon | MMA2024",
+      "channel": "우주조각모음",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-30",
+      "thumbPos": "50% 55%"
+    },
+    {
+      "id": "v21576",
+      "ytId": "41MLdlvFkJM",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 aespa(에스파) - Whiplash @MMA2024",
+      "channel": "랑자",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-01",
+      "thumbPos": "50% 44%"
+    },
+    {
+      "id": "v21577",
+      "ytId": "81eqBA-wytU",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 aespa(에스파) - Armageddon @MMA2024",
+      "channel": "랑자",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-01",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21578",
+      "ytId": "i-4FnXcFitU",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 aespa 에스파 'Armageddon' NINGNING Focus 닝닝 직캠 | 2024 MMA",
+      "channel": "HYPNOSIS",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-01"
+    },
+    {
+      "id": "v21579",
+      "ytId": "cFttatcfifQ",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241130 MMA2024 윈터 winter 에스파 aespa Armageddon 4K 직캠",
+      "channel": "VirginSnow0101",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-11",
+      "thumbPos": "19% 35%"
+    },
+    {
+      "id": "v21580",
+      "ytId": "095Rzjuln3A",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 MMA2024 'Supernova' │ aespa KARINA(에스파 카리나) fancam",
+      "channel": "yeux",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-20"
+    },
+    {
+      "id": "v21581",
+      "ytId": "S5W_GfdxKyc",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 멜론뮤직어워즈 MMA 에스파 aespa 지젤 GISELLE 위플래시 Whiplash 직캠 fancam",
+      "channel": "flow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-11"
+    },
+    {
+      "id": "v21582",
+      "ytId": "Vexd9aLRg40",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241130 MMA 에스파 ‘Whiplash’ 윈터 직캠",
+      "channel": "bbini32",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-17"
+    },
+    {
+      "id": "v21583",
+      "ytId": "iDvMqubL_8o",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241130 에스파 카리나 aespa KARINA 🎵Whiplash 직캠 FANCAM @MMA2024",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-01",
+      "thumbPos": "67% 35%"
+    },
+    {
+      "id": "v21584",
+      "ytId": "IherRKJpnlU",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241130 Armageddon AESPA KARINA FOCUS l 에스파 카리나 직캠",
+      "channel": "포리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-01"
+    },
+    {
+      "id": "v21585",
+      "ytId": "pk6MxbmSC6Q",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241130 에스파  카리나 aespa KARINA 'ARMAGEDDON' MMA 직캠 FANCAM",
+      "channel": "Rinasaurus411",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-01",
+      "thumbPos": "77% 35%"
+    },
+    {
+      "id": "v21586",
+      "ytId": "Idot7_A4_OU",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "Whiplash - AESPA KARINA 에스파 카리나 241130 MMA",
+      "channel": "BLUE",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-02",
+      "thumbPos": "66% 35%"
+    },
+    {
+      "id": "v21587",
+      "ytId": "YXDPJf4z25Y",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 aespa KARINA 에스파 카리나 2024 MMA - 'Armageddon' 직캠",
+      "channel": "still",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-03"
+    },
+    {
+      "id": "v21588",
+      "ytId": "Vy0IwO5L0rk",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241130 에스파  카리나 aespa KARINA 'WHIPLASH' MMA 직캠 FANCAM",
+      "channel": "Rinasaurus411",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-01",
+      "thumbPos": "41% 35%"
+    },
+    {
+      "id": "v21589",
+      "ytId": "EJ6hlRwl-Dk",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241130 MMA2024 'Armageddon' │ aespa KARINA(에스파 카리나) fancam",
+      "channel": "yeux",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-05"
+    },
+    {
+      "id": "v21590",
+      "ytId": "KdpAhui0G0o",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] April Fool's Day ! -  aespa GISELLE Whiplash 에스파 지젤 위플래시 직캠직캠 241130 MMA Fancam",
+      "channel": "titanium",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-04-01"
+    },
+    {
+      "id": "v21591",
+      "ytId": "zpu7FNwGvts",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241130 MMA 에스파 윈터（aespa winter）- Whiplash 멜론뮤직어워드 직캠 fancam",
+      "channel": "JiaLi",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-08"
+    },
+    {
+      "id": "v21592",
+      "ytId": "u2xF-VJwilU",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241130 MMA 에스파 윈터（aespa winter）- Armageddon 멜론뮤직어워드 직캠 fancam",
+      "channel": "JiaLi",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-09"
+    },
+    {
+      "id": "v21593",
+      "ytId": "xkgOGA7DgVw",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "MMA2024 241130 [4k] WINTER fancam #winter #aespa #mma2024 #armageddon",
+      "channel": "𝐄𝐋𝐈𝐙𝐀",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-27",
+      "thumbPos": "56% 35%"
+    },
+    {
+      "id": "v21594",
+      "ytId": "PK_MQxB-v-I",
+      "eventId": "e1578",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241130 MMA 에스파 ‘Whiplash’ 윈터 직캠",
+      "channel": "bbini32",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-17"
+    },
+    {
+      "id": "v21595",
+      "ytId": "gl9iMFuBPwM",
+      "eventId": "e1579",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241201 aespa \"Whiplash\" 6rd WIN on SBS inkigayo",
+      "channel": "MC-Leeseo",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-01",
+      "thumbPos": "50% 39%"
+    },
+    {
+      "id": "v21596",
+      "ytId": "XwU0tgNh_Vw",
+      "eventId": "e1580",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241204 aespa - Supernova @ FNS Kayousai Night 1",
+      "channel": "clairesette",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-05",
+      "thumbPos": "50% 48%"
+    },
+    {
+      "id": "v21597",
+      "ytId": "5b2IUYmXQ1s",
+      "eventId": "e1581",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        },
+        {
+          "songId": "g5s9",
+          "t": 0
+        },
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241208 에스파 카리나 aespa KARINA エスパ カリナ 🎵Supernova+Hot Mess+Whiplash 직캠 FANCAM @UTOFEST",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-11",
+      "thumbPos": "72% 35%"
+    },
+    {
+      "id": "v21598",
+      "ytId": "_UmvOsh_5pM",
+      "eventId": "e1581",
+      "songs": [
+        {
+          "songId": "g5s9",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241208 에스파 aespa エスパ 🎵Hot Mess 직캠 FANCAM @UTOFEST",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-11",
+      "thumbPos": "50% 22%"
+    },
+    {
+      "id": "v21599",
+      "ytId": "UFbjOJkUOXo",
+      "eventId": "e1581",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241208 에스파 카리나 aespa KARINA 🎵Whiplash 직캠 FANCAM @UTOFEST",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-08",
+      "thumbPos": "71% 35%"
+    },
+    {
+      "id": "v21600",
+      "ytId": "Yn0WxODl9fM",
+      "eventId": "e1581",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241208 aespa KARINA 에스파 카리나 UTO FEST IN OKINAWA - 'Whiplash' 직캠 FANCAM",
+      "channel": "jurina",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-10"
+    },
+    {
+      "id": "v21601",
+      "ytId": "qNJPiuwd3tA",
+      "eventId": "e1581",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K)(fancam)241208 aespa Karina 에스파 카리나 - Supernova 직캠 fancam @UTO FEST in Okinawa",
+      "channel": "𝗺𝗲𝘁𝗲𝗼𝗿𝗶𝘁𝗲",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-16"
+    },
+    {
+      "id": "v21602",
+      "ytId": "yFZ1Gv7rhoQ",
+      "eventId": "e1581",
+      "songs": [
+        {
+          "songId": "g5s16",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241208 UTO FEST in Okinawa Flights, Not Feelings 에스파 aespa 지젤 GISELLE focus 직캠 fancam",
+      "channel": "flow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-24"
+    },
+    {
+      "id": "v21603",
+      "ytId": "Vg7I7E2gpsQ",
+      "eventId": "e1581",
+      "songs": [
+        {
+          "songId": "g5s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241208 UTO FEST in Okinawa 핫메스 Hot Mess 에스파 aespa 지젤 GISELLE focus 직캠 fancam",
+      "channel": "flow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-24",
+      "thumbPos": "43% 35%"
+    },
+    {
+      "id": "v21604",
+      "ytId": "RF8VTBaGtEU",
+      "eventId": "e1581",
+      "songs": [
+        {
+          "songId": "g5s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "(4K)(fancam)241208 aespa Karina 에스파 카리나 - Hot Mess 직캠 fancam @UTO FEST in Okinawa",
+      "channel": "𝗺𝗲𝘁𝗲𝗼𝗿𝗶𝘁𝗲",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-16"
+    },
+    {
+      "id": "v21605",
+      "ytId": "2M-jRYc-LCM",
+      "eventId": "e1581",
+      "songs": [
+        {
+          "songId": "g5s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K][FANCAM] 241208 aespa (에스파)  NINGNING UTO FEST- 'HOT MESS' 직캠",
+      "channel": "Natnat_",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-09"
+    },
+    {
+      "id": "v21606",
+      "ytId": "n77Qyg2AW-Q",
+      "eventId": "e1581",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "2024.12.08 UTO FEST Okinawa aespa - Supernova (full cam)",
+      "channel": "sy🦋",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-11",
+      "thumbPos": "50% 0%"
+    },
+    {
+      "id": "v21607",
+      "ytId": "ez7urnimEAI",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241220 가요대축제 (KBS Song Festival) Armageddon(아마겟돈) #aespa #에스파 #Winter #윈터 직캠",
+      "channel": "𝐒𝐧𝐨𝐰 𝐝𝐫𝐨𝐩",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "84% 35%"
+    },
+    {
+      "id": "v21608",
+      "ytId": "HFk6kDd56lI",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241220 가요대축제 (KBS Song Festival) Whiplash(위플래시) #aespa #에스파 #Winter #윈터 직캠",
+      "channel": "𝐒𝐧𝐨𝐰 𝐝𝐫𝐨𝐩",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "26% 35%"
+    },
+    {
+      "id": "v21609",
+      "ytId": "iGzAwXP0h_Y",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 윈터 직캠 'Armageddon'  (aespa WINTER Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "57% 35%"
+    },
+    {
+      "id": "v21610",
+      "ytId": "fwaubZXLAuc",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K 241220 KBS 가요대축제 에스파 Whiplash + Armageddon 닝닝 FOCUS",
+      "channel": "gppi",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-16"
+    },
+    {
+      "id": "v21611",
+      "ytId": "K6U2gjd6BLg",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241220 KBS 가요대축제 - 'Whiplash' 에스파 윈터 직캠 | aespa WINTER [FANCAM]",
+      "channel": "Eternity",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-22"
+    },
+    {
+      "id": "v21612",
+      "ytId": "X0KFLWegmE0",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K CAM] 241220 에스파 카리나 aespa KARINA Focus Whiplash  + Armageddon 2024 KBS 가요대축제 글로벌 페스티벌 직캠",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v21613",
+      "ytId": "QVinBrQP4Hs",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 카리나 직캠 'INTRO + Whiplash' (aespa KARINA Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "65% 35%"
+    },
+    {
+      "id": "v21614",
+      "ytId": "jfg2mNPG2ew",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241220 aespa KARINA 에스파 카리나 KBS 가요대축제 SONG FESTIVAL - 'Whiplash' 직캠 FANCAM",
+      "channel": "jurina",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "78% 35%"
+    },
+    {
+      "id": "v21615",
+      "ytId": "-vdpDKGO-Aw",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 241220 에스파 카리나 aespa KARINA - Armageddon 직캠 @2024가요대축제",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "0% 35%"
+    },
+    {
+      "id": "v21616",
+      "ytId": "iARH7oUP_3g",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241220 KBS 가요대축제 에스파 aespa 지젤 GISELLE 위플래시 Whiplash 직캠 fancam",
+      "channel": "flow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-22"
+    },
+    {
+      "id": "v21617",
+      "ytId": "sawmwgiOpJ0",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 닝닝 직캠 'INTRO + Whiplash' (aespa NINGNING Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "67% 35%"
+    },
+    {
+      "id": "v21618",
+      "ytId": "uykiCReIEf8",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 카리나 직캠 'Armageddon' (aespa KARINA Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "61% 35%"
+    },
+    {
+      "id": "v21619",
+      "ytId": "XEfNdZVuUoU",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K | 20241220 KBS 가요대축제 | Whiplash | aespa Karina",
+      "channel": "kind",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-24"
+    },
+    {
+      "id": "v21620",
+      "ytId": "hGpFHCd2GbU",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241220 KBS 가요대축제 에스파 aespa 지젤 GISELLE 아마겟돈 Armageddon 직캠 fancam",
+      "channel": "flow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-22"
+    },
+    {
+      "id": "v21621",
+      "ytId": "U4sqhYd2e8g",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60P] 241220 에스파 카리나 aespa KARINA - Whiplash 직캠 @2024가요대축제",
+      "channel": "도리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "0% 35%"
+    },
+    {
+      "id": "v21622",
+      "ytId": "0Nw9oLvRU2M",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[aespa(에스파)] 241220 KBS 가요대축제: Armageddon - WINTER 윈터 FOCUS",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-23"
+    },
+    {
+      "id": "v21623",
+      "ytId": "F10ILtdD7Ys",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[aespa(에스파)] 241220 KBS 가요대축제: Intro + Whiplash - WINTER 윈터 FOCUS",
+      "channel": "거북목",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-22"
+    },
+    {
+      "id": "v21624",
+      "ytId": "fGuH9pJ0TZY",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 닝닝 직캠 'Armageddon' (aespa NINGNING Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "59% 35%"
+    },
+    {
+      "id": "v21625",
+      "ytId": "4xu59ex8C3w",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 윈터 직캠 'INTRO + Whiplash' (aespa WINTER Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "32% 35%"
+    },
+    {
+      "id": "v21626",
+      "ytId": "2McDdMWn1cY",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 지젤 직캠 'INTRO + Whiplash' (aespa GISELLE Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "62% 35%"
+    },
+    {
+      "id": "v21627",
+      "ytId": "zwzdbzj2Lys",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 에스파 지젤 직캠 'Armageddon' (aespa GISELLE Fancam) @가요대축제 글로벌페스티벌 241220",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v21628",
+      "ytId": "utqO4yQoUiw",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "Intro + Whiplash + Armageddon - aespa (에스파) [2024 KBS 가요대축제 글로벌 페스티벌] | KBS 241220 방송",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "50% 37%"
+    },
+    {
+      "id": "v21629",
+      "ytId": "Ps-E6vNoW0E",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "【2024 KBS가요대축제】aespa (에스파) 'Intro + Whiplash + Armageddon' 4K Fancam 직캠 | KBS Song Festival 241220",
+      "channel": "K-PLANET",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "50% 39%"
+    },
+    {
+      "id": "v21630",
+      "ytId": "UbA45aJZlOc",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "aespa 에스파 - Intro + Whiplash + Armageddon [2024 KBS Song Festival]  KBS WORLD TV 241220",
+      "channel": "KBS WORLD TV",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-20",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21631",
+      "ytId": "HYn101Z7_hs",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa 에스파  - Whiplash @2024 KBS 가요대축제 글로벌 페스티벌 / 241220 / 8K60P",
+      "channel": "7CLOVER",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "50% 25%"
+    },
+    {
+      "id": "v21632",
+      "ytId": "fAREoLc2WTo",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241220 Armageddon 에스파 윈터 직캠 AESPA WINTER focus @ 2024 KBS GAYO FESTIVAL",
+      "channel": "blank space.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-23",
+      "thumbPos": "36% 35%"
+    },
+    {
+      "id": "v21633",
+      "ytId": "Qh8zspAB6Cc",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241220 에스파 aespa 🎵Whiplash+Armageddon 직캠 FANCAM @KBS_SONG_FESTIVAL2024",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "50% 18%"
+    },
+    {
+      "id": "v21634",
+      "ytId": "rRZHG6MWBA0",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        },
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[FACECAM] 241220 에스파 카리나 aespa KARINA 🎵Whiplash+Armageddon 직캠 FANCAM @KBS_SONG_FESTIVAL2024",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21"
+    },
+    {
+      "id": "v21635",
+      "ytId": "j_BpVfSMGfo",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "AESPA WINTER ARMAGEDDON FANCAM📽[241220 KBS]",
+      "channel": "vvt_il",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-06"
+    },
+    {
+      "id": "v21636",
+      "ytId": "-P2fW_VlgRI",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "4K 가요대축제 GAYO DAECHUKJE 에스파 AESPA  - WHIPLASH/ARMAGEDON FANCAM 241220",
+      "channel": "smthmore",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-21",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21637",
+      "ytId": "kLD-xCutz8E",
+      "eventId": "e1582",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241220 KBS [4K직캠] 에스파 지젤 직캠 ’위플래시‘ aespa Giselle FanCam Whiplash",
+      "channel": "Wyomoon",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-25"
+    },
+    {
+      "id": "v21638",
+      "ytId": "sMP515m_dH0",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 가요대전 - 'Pink Hoodie' 에스파 윈터 직캠 aespa WINTER FOCUS fancam",
+      "channel": "White.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-26"
+    },
+    {
+      "id": "v21639",
+      "ytId": "5JcN4vlBZaA",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 SBS 가요대전 (SBS Gayo Daejeon) Supernova(슈퍼노바) #aespa #에스파 #Winter #윈터 직캠",
+      "channel": "𝐒𝐧𝐨𝐰 𝐝𝐫𝐨𝐩",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-30"
+    },
+    {
+      "id": "v21640",
+      "ytId": "gubgkZrDlYw",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 aespa KARINA 에스파 카리나 SBS 가요대전 GAYO DAEJEON - 'SUPERNOVA' 직캠 FANCAM",
+      "channel": "jurina",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-26"
+    },
+    {
+      "id": "v21641",
+      "ytId": "WwhIK3Ddo18",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 SBS 가요대전 에스파 aespa 지젤 GISELLE 핑크후디 Pink Hoodie 직캠 fancam",
+      "channel": "flow.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-26"
+    },
+    {
+      "id": "v21642",
+      "ytId": "GGYe6mnBSys",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024 가요대전 4K] 에스파 카리나 'Pink Hoodie' (aespa KARINA FanCam)│@SBS Gayo Daejeon 241225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-27",
+      "thumbPos": "64% 35%"
+    },
+    {
+      "id": "v21643",
+      "ytId": "FdYgHf4iEO8",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241225 SBS 가요대전 윈터 winter 에스파 aespa Pink Hoodie 4K 60 직캠",
+      "channel": "VirginSnow0101",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-29",
+      "thumbPos": "57% 35%"
+    },
+    {
+      "id": "v21644",
+      "ytId": "iSi8YmoYbcI",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 SBS 가요대전 - Pink Hoodie 에스파 윈터 직캠 aespa winter fancam",
+      "channel": "confetti",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-30"
+    },
+    {
+      "id": "v21645",
+      "ytId": "JPCBeirsgkk",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024 가요대전 4K] 에스파 지젤 'Pink Hoodie' (aespa GISELLE FanCam)│@SBS Gayo Daejeon 241225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-27",
+      "thumbPos": "69% 35%"
+    },
+    {
+      "id": "v21646",
+      "ytId": "z6zloj6cEGk",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024 가요대전 4K] 에스파 윈터 'Pink Hoodie' (aespa WINTER FanCam)│@SBS Gayo Daejeon 241225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-27"
+    },
+    {
+      "id": "v21647",
+      "ytId": "k_KEkFWOfUo",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K]241225 SBS 가요대전 - 핑크후디 (Pink Hoodie) 에스파 닝닝 직캠 ｜ aespa NingNing focus",
+      "channel": "Cerise",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-26"
+    },
+    {
+      "id": "v21648",
+      "ytId": "ZOyhCMRWugE",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[FACECAM] 241225 에스파 카리나 aespa KARINA 🎵Pink Hoodie 직캠 FANCAM @SBS_GAYODAEJEON2024",
+      "channel": "Coating",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-26"
+    },
+    {
+      "id": "v21649",
+      "ytId": "cHmEt4G8Dl4",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[2024 가요대전 4K] 에스파 닝닝 'Pink Hoodie' (aespa NINGNING FanCam)│@SBS Gayo Daejeon 241225",
+      "channel": "SBSKPOP ZOOM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-27",
+      "thumbPos": "66% 35%"
+    },
+    {
+      "id": "v21650",
+      "ytId": "M5CkyavfswU",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241225 에스파 카리나 - 'Supernova' 직캠 Aespa Karina FANCAM @가요대전2024",
+      "channel": "kpm",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-26"
+    },
+    {
+      "id": "v21651",
+      "ytId": "L5MjNUrdhbM",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "에스파 카리나 'Pink Hoodie' (aespa KARINA FanCam) | 241225 SBS 가요대전",
+      "channel": "with",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-27"
+    },
+    {
+      "id": "v21652",
+      "ytId": "UVgrH9AqOzk",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 SBS #에스파 #Winter #윈터 Pink Hoodie 직캠 fancam",
+      "channel": "Oxygen",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-02-13"
+    },
+    {
+      "id": "v21653",
+      "ytId": "yKb9xarz6Ns",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 SBS Pink Hoodie 에스파 윈터 aespa winter - FANCAM",
+      "channel": "Sorbet",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-26"
+    },
+    {
+      "id": "v21654",
+      "ytId": "BDGoJSAXpg0",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - Pink Hoodie + Supernova @가요대전 GayoDaejeon 20241225",
+      "channel": "SBSKPOP X INKIGAYO",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-26",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21655",
+      "ytId": "HriHWfyRLB8",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "241225 에스파 (aespa) 2024 SBS 가요대전 - 'Pink Hoodie + Supernova' 직캠 (Fancam)",
+      "channel": "Luz Liz",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-27",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21656",
+      "ytId": "hjDc00V4890",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 aespa SBS-'Pink Hoodie'",
+      "channel": "Leee",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-28",
+      "thumbPos": "50% 48%"
+    },
+    {
+      "id": "v21657",
+      "ytId": "BVcuTSws0qo",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "aespa (에스파) - \"Pink Hoodie\" + \"Supernova\" | 2024 SBS Gayo Daejeon 가요대전 (FANCAM HD) 241225",
+      "channel": "황태진",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-30",
+      "thumbPos": "50% 50%"
+    },
+    {
+      "id": "v21658",
+      "ytId": "ci1Otkhvp0M",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        },
+        {
+          "songId": "g5s7",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K60] 241225 aespa (SBS Gayo Daejeon) - Pink Hoodie & Supernova",
+      "channel": "Chon Wang",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-31",
+      "thumbPos": "50% 42%"
+    },
+    {
+      "id": "v21659",
+      "ytId": "Q9H_Q1PrFLM",
+      "eventId": "e1163",
+      "songs": [
+        {
+          "songId": "g5s17",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "AESPA KARINA PINK HOODIE 💗 FANCAM📽[241225]",
+      "channel": "vvt_il",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-17",
+      "thumbPos": "39% 35%"
+    },
+    {
+      "id": "v21660",
+      "ytId": "zYXtbPYt15c",
+      "eventId": "e1583",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241231 aespa(에스파) - 'Whiplash' | 중국 창저우 새해축제 | 4K 직캠",
+      "channel": "子杰Harvey",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-01",
+      "thumbPos": "50% 23%"
+    },
+    {
+      "id": "v21661",
+      "ytId": "mx4gXAGyx2g",
+      "eventId": "e1540",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로",
+        "4K"
+      ],
+      "title": "에스파 윈터 '위플래쉬 whiplash' 4K 세로직캠 (aespa WINTER FanCam) | 건국대학교 축제",
+      "channel": "Rock Music",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-05-22"
+    },
+    {
+      "id": "v21662",
+      "ytId": "hXq6GnpRcnw",
+      "eventId": "e1541",
+      "songs": [
+        {
+          "songId": "g5s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g5m1",
+        "g5m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "윈터 옆구리에 손자국 남긴 로켓펀처 카리나ㅋㅋ #윈터 #카리나 #WINTER #KARINA #에스파 #aespa #NextLevel",
+      "channel": "DaftTaengk",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-06-21"
+    },
+    {
+      "id": "v21663",
+      "ytId": "tND8u7ndPI8",
+      "eventId": "e697",
+      "songs": [
+        {
+          "songId": "g5s14",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] aespa 에스파 - Whiplashㅣ2025 SYNK : aeXIS LINE – in SEOUL DAY 3",
+      "channel": "UHDKConcerts",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-10-08",
+      "thumbPos": "50% 63%"
     }
   ],
   "clips": []
