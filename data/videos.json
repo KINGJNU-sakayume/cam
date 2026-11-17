@@ -2480,7 +2480,8 @@
           "title": "안아줘",
           "aliases": [],
           "order": 80,
-          "release": ""
+          "release": "",
+          "kind": "cover"
         }
       ]
     },
