@@ -145,3 +145,4 @@ node scripts/archive.mjs validate
 | g2 | 2024-04 | 1 (Golden Wave in Taiwan 04-13 배이 DASH) | 보류: open-questions §8 |
 | g2 | 2024-05 | 114 (서울페스타 05-01, 대학 축제 7곳, 천안 K-컬처 박람회 05-25) | 보류: open-questions §8 |
 | g2 | 2024-06 | 31 (K-WAVE 콘서트 06-02, 마카오 팬콘서트 06-22, 음악중심 in Japan 06-29·30) | 보류: open-questions §8 |
+| g2 | 2024-07 | 22 (런던 BST Hyde Park 07-14, TMEA 07-19, SBS 가요대전 SUMMER 07-21, 엠카 07-25, KCON LA 2024 07-27·28) | 보류: open-questions §8 |
