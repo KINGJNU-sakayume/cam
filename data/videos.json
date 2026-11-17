@@ -437414,26 +437414,6 @@
       "uploaded": "2025-02-14"
     },
     {
-      "id": "v21803",
-      "ytId": "LSQ6TrZg78c",
-      "eventId": "e1594",
-      "songs": [
-        {
-          "songId": "g5s85",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [],
-      "title": "aespa (에스파) - Intro VCR #1 | “SYNK : PARALLEL LINE” World Tour (Toronto) 250213 | FanCam",
-      "channel": "LF Videos",
-      "pin": false,
-      "gone": false,
-      "uploaded": "2025-02-14"
-    },
-    {
       "id": "v21804",
       "ytId": "F4Ku60iJzuE",
       "eventId": "e1594",
@@ -442541,29 +442521,6 @@
       "uploaded": "2025-04-26"
     },
     {
-      "id": "v22026",
-      "ytId": "ZVCB69jTSRY",
-      "eventId": "e1602",
-      "songs": [
-        {
-          "songId": "g5s86",
-          "t": 0
-        }
-      ],
-      "type": "full",
-      "memberIds": [],
-      "source": null,
-      "tags": [
-        "4K"
-      ],
-      "title": "4K HDR 250316 에스파(aespa) LIVE TOUR - \"Opening VCR\" [aespa LIVE TOUR - SYNK : PARALLEL LINE ENCORE]",
-      "channel": "CONCERTCAM",
-      "pin": false,
-      "gone": false,
-      "uploaded": "2025-03-18",
-      "thumbPos": "50% 31%"
-    },
-    {
       "id": "v22027",
       "ytId": "jnjELyAZtSU",
       "eventId": "e1602",
@@ -445573,29 +445530,6 @@
       "gone": false,
       "uploaded": "2025-05-13",
       "thumbPos": "59% 35%"
-    },
-    {
-      "id": "v22158",
-      "ytId": "7Yz1k9mwuV0",
-      "eventId": "e1606",
-      "songs": [
-        {
-          "songId": "g5s88",
-          "t": 0
-        }
-      ],
-      "type": "fancam",
-      "memberIds": [
-        "g5m3"
-      ],
-      "source": null,
-      "tags": [],
-      "title": "[FANCAM] 250426 K-flow3 in Taipei aespa WINTER 에스파 윈터 - '킬포' 직캠",
-      "channel": "𝟒𝒗𝟒𝗂𝗂𝗂⚝",
-      "pin": false,
-      "gone": false,
-      "uploaded": "2025-05-06",
-      "thumbPos": "69% 35%"
     },
     {
       "id": "v22159",
