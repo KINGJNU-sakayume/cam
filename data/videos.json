@@ -24850,6 +24850,152 @@
         "g5s14"
       ],
       "note": ""
+    },
+    {
+      "id": "e1631",
+      "groupId": "g2",
+      "date": "2024-10-04",
+      "show": "NMIXX CHANGE UP : MIXX LAB",
+      "label": "",
+      "setlist": [
+        "g2s30",
+        "g2s42",
+        "g2s10",
+        "g2s35",
+        "g2s5",
+        "g2s9",
+        "g2s32",
+        "g2s8",
+        "g2s40",
+        "g2s31"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1632",
+      "groupId": "g2",
+      "date": "2024-10-05",
+      "show": "NMIXX CHANGE UP : MIXX LAB",
+      "label": "",
+      "setlist": [
+        "g2s9",
+        "g2s4",
+        "g2s42",
+        "g2s35",
+        "g2s1",
+        "g2s40",
+        "g2s30",
+        "g2s10",
+        "g2s8",
+        "g2s5"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1633",
+      "groupId": "g2",
+      "date": "2024-10-06",
+      "show": "NMIXX CHANGE UP : MIXX LAB",
+      "label": "",
+      "setlist": [
+        "g2s10",
+        "g2s5",
+        "g2s35",
+        "g2s8",
+        "g2s9",
+        "g2s4",
+        "g2s32",
+        "g2s1"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1634",
+      "groupId": "g2",
+      "date": "2024-10-12",
+      "show": "뮤직뱅크 in 마드리드",
+      "label": "",
+      "setlist": [
+        "g2s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1635",
+      "groupId": "g2",
+      "date": "2024-10-19",
+      "show": "K-WONDER CONCERT IN TAOYUAN",
+      "label": "",
+      "setlist": [
+        "g2s5",
+        "g2s9",
+        "g2s42",
+        "g2s10",
+        "g2s2"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1636",
+      "groupId": "g2",
+      "date": "2024-11-09",
+      "show": "인천 스카이 페스티벌",
+      "label": "",
+      "setlist": [
+        "g2s10",
+        "g2s5",
+        "g2s9",
+        "g2s42"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1637",
+      "groupId": "g2",
+      "date": "2024-12-14",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g2s10",
+        "g2s40",
+        "g2s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1638",
+      "groupId": "g2",
+      "date": "2024-12-19",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g2s10",
+        "g2s8",
+        "g2s40"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1639",
+      "groupId": "g2",
+      "date": "2024-12-25",
+      "show": "SBS 가요대전",
+      "label": "",
+      "setlist": [
+        "g2s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1640",
+      "groupId": "g2",
+      "date": "2024-12-31",
+      "show": "MBC 가요대제전",
+      "label": "",
+      "setlist": [
+        "g2s10"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -465997,6 +466143,2364 @@
       "gone": false,
       "uploaded": "2026-09-27",
       "thumbPos": "96% 35%"
+    },
+    {
+      "id": "v23035",
+      "ytId": "8O6hGTR7Egg",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s30",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241004 엔믹스 팬콘서트 \"Moving On\" 엔써 깜짝 이벤트 릴리 직캠",
+      "channel": "리얼리릴리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-08"
+    },
+    {
+      "id": "v23036",
+      "ytId": "-XwxhYmCZ2k",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241004 엔믹스 팬콘서트 \"Love Is Lonely\" 릴리 직캠",
+      "channel": "리얼리릴리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-07"
+    },
+    {
+      "id": "v23037",
+      "ytId": "d4hpLRcxNXU",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241004 엔믹스 팬콘 첫콘 'NMIXX CHANGE UP: MIXX LAB '별별별(see that)'  설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23038",
+      "ytId": "pQQdMTzdjTI",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241004 엔믹스 팬콘 'NMIXX CHANGE UP: MIXX LAB 'Boom'  설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23039",
+      "ytId": "ahO9GI9BSls",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241004 엔믹스 팬콘서트 \"Love Me Like This (Rock Ver.)\" 릴리 직캠",
+      "channel": "리얼리릴리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23040",
+      "ytId": "TErwZAcgrLw",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241004 엔믹스 팬콘서트 \"BOOM\" 릴리 직캠",
+      "channel": "리얼리릴리",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-05"
+    },
+    {
+      "id": "v23041",
+      "ytId": "IXte_u5S6_M",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s30",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241004 엔믹스 팬콘서트 \"Moving On\" 릴리 직캠",
+      "channel": "리얼리릴리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23042",
+      "ytId": "57OmMCd9PMs",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241004 엔믹스 팬콘 'NMIXX CHANGE UP: MIXX LAB '대쉬(DASH)'  설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23043",
+      "ytId": "ab0rgemI1uk",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241004 엔믹스 팬콘 'NMIXX CHANGE UP: MIXX LAB '럽미라잌디스 (love me like this'  설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23044",
+      "ytId": "9hZtz8hrnJM",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 241004 Break The Wall 엔믹스 설윤 직캠 SULLYOON NMIXX 2ND FAN CONCERT : MIXX LAB Day 1",
+      "channel": "N",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23045",
+      "ytId": "gxF571kAuGY",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241004 엔믹스 지우 직캠 'Soñar (Breaker)' (NMIXX JIWOO FanCam) @NMIXX CHANGE UP: MIXX LAB",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-05"
+    },
+    {
+      "id": "v23046",
+      "ytId": "5vq0qvfGbKc",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "BOOM | 241004-06 NMIXX CHANGE UP : MIXX LAB 엔믹스 해원 직캠",
+      "channel": "EDIT. 에딧",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23047",
+      "ytId": "n1j5g2mSQ4Q",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 241004 Love Is Lonely 엔믹스 설윤 직캠 SULLYOON NMIXX 2ND FAN CONCERT : MIXX LAB Day 1",
+      "channel": "N",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23048",
+      "ytId": "4XC9AO5s3yk",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 241004 BOOM 엔믹스 설윤 직캠 SULLYOON NMIXX 2ND FAN CONCERT : MIXX LAB Day 1",
+      "channel": "N",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23049",
+      "ytId": "tgNvXQfrnHw",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 241004 Run For Roses 엔믹스 설윤 직캠 SULLYOON NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB Day 1",
+      "channel": "N",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23050",
+      "ytId": "XCEedWOUloE",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241004-06 NMIXX KYUJIN 엔믹스 규진 FAN CONCERT - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23051",
+      "ytId": "i-OSA2PsOxs",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 241004 Soñar(Breaker) 엔믹스 설윤 직캠 SULLYOON NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB Day 1",
+      "channel": "N",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23052",
+      "ytId": "tf11npXPB28",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241004 엔믹스 해원 직캠 'Soñar ' (NMIXX Haewon FanCam) @NMIXX CHANGE UP: MIXX LAB",
+      "channel": "SWHIT ST",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-06"
+    },
+    {
+      "id": "v23053",
+      "ytId": "QRKqe4ccCkg",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s30",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 241004 Moving On 엔믹스 설윤 직캠 SULLYOON NMIXX 2ND FAN CONCERT : MIXX LAB Day 1",
+      "channel": "N",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23054",
+      "ytId": "3xh6zOHl1Uo",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[8K] 241004 Love Me Like This 엔믹스 설윤 직캠 SULLYOON NMIXX 2ND FAN CONCERT : MIXX LAB Day 1",
+      "channel": "N",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23055",
+      "ytId": "fLAUcnzkFh4",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241004-06 MIXX LAB | BOOM | 엔믹스 규진 (NMIXX KYUJIN) 직캠",
+      "channel": "attack on",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-12"
+    },
+    {
+      "id": "v23056",
+      "ytId": "r_3kj5FdvA0",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 - Soñar (Breaker) | 규진 직캠(KYUJIN FANCAM) | 241004 첫콘 | NMIXX 2ND FAN CONCERT",
+      "channel": "삐리",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23057",
+      "ytId": "c9k5BtOGwsw",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241004-06 NMIXX KYUJIN 엔믹스 규진 FAN CONCERT - \"Soñar (Breaker)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23058",
+      "ytId": "NT6pGXa7Zus",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241004-06 NMIXX KYUJIN 엔믹스 규진 FAN CONCERT - \"BOOM\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-18"
+    },
+    {
+      "id": "v23059",
+      "ytId": "x_HZMpBSVyU",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s31",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241004-06 NMIXX KYUJIN 엔믹스 규진 FAN CONCERT - \"占 (TANK)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-20"
+    },
+    {
+      "id": "v23060",
+      "ytId": "U86sZPDA3BU",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 엔믹스 팬콘 중콘 'NMIXX CHANGE UP: MIXX LAB 'DASH'  설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23061",
+      "ytId": "wBxyWjSYVhw",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 엔믹스 팬콘 중콘 'NMIXX CHANGE UP: MIXX LAB 'Young Dumb Stupid'  설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23062",
+      "ytId": "HtIWux5X-nA",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 엔믹스 팬콘 중콘 'NMIXX CHANGE UP: MIXX LAB 'Love Is Lonely'  설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23063",
+      "ytId": "kcrMzE6znUw",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 엔믹스 팬콘 중콘 'NMIXX CHANGE UP: MIXX LAB 'BOOM'  설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23064",
+      "ytId": "H0N2uDvAyi8",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 엔믹스 팬콘 중콘 'NMIXX CHANGE UP: MIXX LAB 'O.O (part1)'  설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23065",
+      "ytId": "CFpnyncgdm8",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 엔믹스 팬콘 중콘 'NMIXX CHANGE UP: MIXX LAB 'Run for roses'  설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23066",
+      "ytId": "lHfhsIsUMz0",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s30",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 엔믹스 팬콘 중콘 'NMIXX CHANGE UP: MIXX LAB 'MOVING ON'  설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23067",
+      "ytId": "sBCiFSQD-8Q",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 엔믹스 팬콘 중콘 'NMIXX CHANGE UP: MIXX LAB '별별별'  설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23068",
+      "ytId": "4ZbIU-rsozo",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 엔믹스 설윤(SULLYOON) - Soñar(Breaker) | 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB 팬콘서트 직캠 fancam",
+      "channel": "enustiK",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23069",
+      "ytId": "k-baWZROKJA",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 엔믹스 설윤(SULLYOON) - Love Is Lonely | 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB 팬콘서트 직캠 fancam",
+      "channel": "enustiK",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23070",
+      "ytId": "NEaWj7uXUDU",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 NMIXX 엔믹스 Soñar (Breaker) | NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB Haewon 해원 Fancam",
+      "channel": "Nokkkk.Diaryyy",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-11"
+    },
+    {
+      "id": "v23071",
+      "ytId": "NeLQgRrPOWI",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 NMIXX 엔믹스 - Run for roses | NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB Haewon 해원 Fancam",
+      "channel": "Nokkkk.Diaryyy",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23072",
+      "ytId": "liHcPsK7Cbc",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241005 해원 -  Run For Roses |  NMIXX CHANGE UP: MIXX LAB DAY2",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-14"
+    },
+    {
+      "id": "v23073",
+      "ytId": "XQgahD2bGHU",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 MIXX LAB 엔믹스 지우 직캠 'BOOM' (NMIXX JIWOO Fancam)",
+      "channel": "사랑의 하쮸핑",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-16"
+    },
+    {
+      "id": "v23074",
+      "ytId": "tMQTZ30o9pY",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241005 해원 -  Soñar |  NMIXX CHANGE UP: MIXX LAB DAY2",
+      "channel": "Zereu",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23075",
+      "ytId": "giar0Bg7V0A",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 엔믹스 팬콘 중콘 'NMIXX CHANGE UP: MIXX LAB 'SONAR'  설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23076",
+      "ytId": "4Vo-G5OgHlg",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 MIXX LAB 엔믹스 지우 직캠 'Soñar (Breaker)' (NMIXX JIWOO Fancam)",
+      "channel": "사랑의 하쮸핑",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23077",
+      "ytId": "Fi_W31kfgA8",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 엔믹스 배이 직캠 'Run For Roses' (NMIXX BAE FanCam) @NMIXX CHANGE UP: MIXX LAB",
+      "channel": "Alexhlb",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-06"
+    },
+    {
+      "id": "v23078",
+      "ytId": "zTwECnAUtXI",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 MIXX LAB 엔믹스 지우 직캠 'Run For Roses' (NMIXX JIWOO Fancam)",
+      "channel": "사랑의 하쮸핑",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23079",
+      "ytId": "IZiRkEtdsAk",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 MIXX LAB 엔믹스 지우 직캠 'Love Is Lonely' (NMIXX JIWOO Fancam)",
+      "channel": "사랑의 하쮸핑",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23080",
+      "ytId": "dTARxJpO_tI",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s30",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 MIXX LAB 엔믹스 지우 직캠 'Moving On' (NMIXX JIWOO Fancam)",
+      "channel": "사랑의 하쮸핑",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-27"
+    },
+    {
+      "id": "v23081",
+      "ytId": "QenSF0U9KZU",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241005 MIXX LAB 엔믹스 지우 직캠 'Love Me Like This' (NMIXX JIWOO Fancam)",
+      "channel": "사랑의 하쮸핑",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-15"
+    },
+    {
+      "id": "v23082",
+      "ytId": "F2mzRQH_97Y",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241006 엔믹스 팬콘 막콘 'NMIXX CHANGE UP: MIXX LAB ' 별별별'설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-06"
+    },
+    {
+      "id": "v23083",
+      "ytId": "d6iHL9KAGiM",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241006 엔믹스 팬콘 막콘 'NMIXX CHANGE UP: MIXX LAB ' LOVE ME LIKE THIS'  설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23084",
+      "ytId": "2pzMZdgTu3c",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g2s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241006 엔믹스 팬콘 막콘 'NMIXX CHANGE UP: MIXX LAB ' BOOM'설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-06"
+    },
+    {
+      "id": "v23085",
+      "ytId": "GxTlK5_wTxo",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241006 엔믹스 설윤(SULLYOON) - Soñar(Breaker) | 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB 팬콘서트 직캠 fancam",
+      "channel": "enustiK",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23086",
+      "ytId": "zuy9dh7klwM",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241006 엔믹스 팬콘 막콘 'NMIXX CHANGE UP: MIXX LAB ' DASH' 설윤 직캠",
+      "channel": "나애덕질일기",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23087",
+      "ytId": "GwxsOv86i0Q",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g2s4",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241006 엔믹스 해원(HAEWON) - Young Dumb Stupid | 2ND FAN CONCERT NMIXX CHANGE UP: MIXX LAB 팬콘서트 직캠 fancam",
+      "channel": "enustiK",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23088",
+      "ytId": "lDO6tXfkC30",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g2s32",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241006 NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB 《 Break The Wall 》 BAE Focus",
+      "channel": "PUPPY·BAE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23089",
+      "ytId": "1-fcUdeYB7s",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g2s1",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "NMIXX(엔믹스) - 241006 NMIXX 2ND FAN CONCERT _ O.O(Part.2)(김지우,JIWOO)",
+      "channel": "N=MIx_x",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23090",
+      "ytId": "ldLyNzvGqx8",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g2s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241006 BOOM NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB 엔믹스 지우 직캠 (NMIXX JIWOO Fancam)",
+      "channel": "Lovable Film",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23091",
+      "ytId": "OcGdyDeLfa8",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241006 NMIXX 별별별(See that?) BAE Focus│엔믹스 2ND FAN CONCERT NMIXX CHANGE UP  MIXX LAB FANCAM",
+      "channel": "배배 BAEBAE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23092",
+      "ytId": "T5G5BantUjo",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g2s35",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241006 NMIXX 'Boom' BAE Focus│엔믹스 2ND FAN CONCERT NMIXX CHANGE UP  MIXX LAB FANCAM",
+      "channel": "배배 BAEBAE",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23093",
+      "ytId": "OOm3Rwn5tS8",
+      "eventId": "e1634",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241012 NMIXX KYUJIN 엔믹스 규진 Music Bank in Madrid - \"별별별 (See that?)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23094",
+      "ytId": "I7cLscsnL1c",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241019 NMIXX KYUJIN 엔믹스 규진 K-WONDER - \"Love Me Like This\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-21"
+    },
+    {
+      "id": "v23095",
+      "ytId": "r5V_jfgrruo",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241019 NMIXX KYUJIN 엔믹스 규진 K-WONDER - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-10-24"
+    },
+    {
+      "id": "v23096",
+      "ytId": "uBPx0n8yOvA",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241019 NMIXX KYUJIN 엔믹스 규진 K-WONDER - \"Love Is Lonely\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-01"
+    },
+    {
+      "id": "v23097",
+      "ytId": "1CH_ocNiyv4",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241019 NMIXX KYUJIN 엔믹스 규진 K-WONDER - \"별별별 (See that?)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23098",
+      "ytId": "fWHxk3ysOD8",
+      "eventId": "e1635",
+      "songs": [
+        {
+          "songId": "g2s2",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241019 NMIXX KYUJIN 엔믹스 규진 K-WONDER - \"DICE\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23099",
+      "ytId": "XncuKiUMUnQ",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241109 NMIXX KYUJIN 엔믹스 규진 스카이페스티벌 - \"별별별 (See that?)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23100",
+      "ytId": "sceCFu-L2u0",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 'Love Me Like This' (NMIXX SULLYOON)｜스카이페스티벌 241109",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-09"
+    },
+    {
+      "id": "v23101",
+      "ytId": "vOIK7RXkKWg",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K CAM] 241109 엔믹스 설윤 NMIXX SULLYOON SKY Festival 'Love Me Like This' 직캠",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23102",
+      "ytId": "wb1esU9l6SI",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241109 NMIXX KYUJIN 엔믹스 규진 스카이페스티벌 - \"DASH\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-11-14"
+    },
+    {
+      "id": "v23103",
+      "ytId": "bGT4_-Cm4yk",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241109 | NMIXX(엔믹스) 릴리 직캠 | 'Love Is Lonely' | @스카이 페스티벌",
+      "channel": "liling",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-13"
+    },
+    {
+      "id": "v23104",
+      "ytId": "zwBPLuGlFxM",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 'DASH' (NMIXX SULLYOON)｜스카이페스티벌 241109",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23105",
+      "ytId": "NuoS3T3Cj7A",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s42",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241109 NMIXX KYUJIN 엔믹스 규진 스카이페스티벌 - \"Love Is Lonely\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23106",
+      "ytId": "WB5JGr_HzHo",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K CAM] 241109 엔믹스 설윤 NMIXX SULLYOON SKY Festival 'DASH' 직캠",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23107",
+      "ytId": "grjJ22J8jxU",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K CAM] 241109 엔믹스 설윤 NMIXX SULLYOON SKY Festival 별별별 (See that?) 직캠",
+      "channel": "떡상배",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23108",
+      "ytId": "UVxioRFZrc0",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "엔믹스 설윤 직캠 '별별별 (See that?)' (NMIXX SULLYOON)｜스카이페스티벌 241109",
+      "channel": "Spinel CAM",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23109",
+      "ytId": "w3_-8xPcxI4",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K직캠] 241109 엔믹스(NMIXX) - 별별별 (See that?) [해원cam] @스카이 페스티벌",
+      "channel": "노브스튜디오(Nob)",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23110",
+      "ytId": "6RX1uJi-8Zk",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241109 | Love Me Like This | 엔믹스 해원 직캠 (Fan Cam) @Sky Festival",
+      "channel": "𝙀𝙛𝙛𝙡𝙤𝙧𝙚𝙨𝙘𝙚𝙣𝙘𝙚",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23111",
+      "ytId": "RB0drK5jvk0",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "세로"
+      ],
+      "title": "[세로]241109 엔믹스(NMIXX) - 별별별 (See that?)(설윤 FOCUS)",
+      "channel": "Jinny",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23112",
+      "ytId": "NU5-6n9SslE",
+      "eventId": "e1636",
+      "songs": [
+        {
+          "songId": "g2s5",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241109 NMIXX KYUJIN 엔믹스 규진 스카이페스티벌 - \"Love Me Like This\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23113",
+      "ytId": "SkUMeyk7kqY",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241214 NMIXX KYUJIN 엔믹스 규진 MUSIC BANK in JAPAN - \"별별별 (See that?)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-15"
+    },
+    {
+      "id": "v23114",
+      "ytId": "RG4BhbZR_Ls",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241214 NMIXX(엔믹스) 설윤 \"별별별(See that?)\" 직캠 SULLYOON FANCAM @ 뮤직뱅크 글로벌 페스티벌 [ 4K ]",
+      "channel": "𝙳𝚎𝚎𝚛𝚒𝚗",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23115",
+      "ytId": "U0bn3T7gi-U",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241214 NMIXX(엔믹스) 설윤 'Run For Roses' 직캠 SULLYOON FANCAM @ 뮤직뱅크 글로벌 페스티벌 [ 4K ]",
+      "channel": "𝙳𝚎𝚎𝚛𝚒𝚗",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-22"
+    },
+    {
+      "id": "v23116",
+      "ytId": "Tr-Q5PS2NF0",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241214 뮤직뱅크 글로벌 페스티벌 엔믹스 지우 직캠 '별별별 (See that?)' (NMIXX JIWOO Fancam)",
+      "channel": "사랑의 하쮸핑",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23117",
+      "ytId": "GDAhETPbZLU",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241214 | NMIXX(엔믹스) 릴리 직캠 | '별별별(See that?)' | @뮤직뱅크 in JAPAN",
+      "channel": "liling",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-15"
+    },
+    {
+      "id": "v23118",
+      "ytId": "WpiR_h0MzxE",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] 241214 별별별 (See that?) KBS MusicBank Global in JAPAN 엔믹스 해원 (HAEWON) 직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23119",
+      "ytId": "PsXFDUTwoDo",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241214 | NMIXX(엔믹스) 릴리 직캠 | 'Soñar (Breaker)' | @뮤직뱅크 in JAPAN",
+      "channel": "liling",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-17"
+    },
+    {
+      "id": "v23120",
+      "ytId": "9ld_KXU_XK8",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241214 | NMIXX(엔믹스) 릴리 직캠 | 'Run For Roses' | @뮤직뱅크 in JAPAN",
+      "channel": "liling",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-18"
+    },
+    {
+      "id": "v23121",
+      "ytId": "6D3TSEXKOZ0",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241214 MUSICBANK GLOBAL FESTIVAL NMIXX '별별별(See that?)' BAE Focus",
+      "channel": "솔랑솔랑",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23122",
+      "ytId": "QG6iOv87qlU",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241214 KBS｜엔믹스 릴리(NMIXX LILY)｜\"RUN FOR ROSES\" 직캠(FanCam)",
+      "channel": "Asuki_i",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-17"
+    },
+    {
+      "id": "v23123",
+      "ytId": "xsC_XyKhTWo",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 설윤 직캠 '별별별 (See that?)'(NMIXX SULLYOON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23124",
+      "ytId": "h5sKErO0hZ0",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 설윤 직캠 'Sonar' (NMIXX SULLYOON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23125",
+      "ytId": "toDTHTRn-aY",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 설윤 직캠 'Intro + Run For Roses' (NMIXX SULLYOON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23126",
+      "ytId": "ayfB1e7FG-A",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 지우 직캠 'Intro + Run For Roses' (NMIXX JIWOO Fancam)@뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23127",
+      "ytId": "mMYS-LTGMos",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 배이 직캠 'Sonar' (NMIXX BAE Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23128",
+      "ytId": "qH0o16I77s8",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 해원 직캠 'Sonar' (NMIXX HAEWON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23129",
+      "ytId": "-GFZY8DRMjk",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 릴리 직캠 '별별별 (See that?)'(NMIXX LILY Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23130",
+      "ytId": "Rp3w-3hgyyg",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 릴리 직캠 'Sonar' (NMIXX LILY Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23131",
+      "ytId": "RA5b8OSG4Lw",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 규진 직캠 'Sonar' (NMIXX KYUJIN Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23132",
+      "ytId": "-4wX9UuGc_0",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 지우 직캠 'Sonar' (NMIXX JIWOO Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23133",
+      "ytId": "Z5drUzpo0oM",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 배이 직캠 'Intro + Run For Roses' (NMIXX BAE Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23134",
+      "ytId": "2V3xJOWgceo",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 릴리 직캠 'Intro + Run For Roses' (NMIXX LILY Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23135",
+      "ytId": "CWjUsiEGGA8",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 규진 직캠 'Intro + Run For Roses' (NMIXX KYUJIN Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23136",
+      "ytId": "qjJUwZ2we9s",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 규진 직캠 '별별별 (See that?)'(NMIXX KYUJIN Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23137",
+      "ytId": "5z9xj9lcD3c",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 해원 직캠 '별별별 (See that?)'(NMIXX HAEWON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23138",
+      "ytId": "kBqyMYTCcvk",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 지우 직캠 '별별별 (See that?)'(NMIXX JIWOO Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23139",
+      "ytId": "zQS2OU_emG4",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[K-Fancam] 엔믹스 해원 'Intro + Run For Roses' (NMIXX HAEWON Facecam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23140",
+      "ytId": "pTnne5ZL8X4",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 배이 직캠 '별별별 (See that?)'(NMIXX BAE Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23141",
+      "ytId": "OGAsE3As6IM",
+      "eventId": "e1639",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 | NMIXX(엔믹스) 릴리 직캠 | 'DASH' | @SBS 가요대전",
+      "channel": "liling",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-27"
+    },
+    {
+      "id": "v23142",
+      "ytId": "PbmjXtx26h0",
+      "eventId": "e1640",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 엔믹스 – 별별별 (See that?) (NMIXX Fullcam) | Gayo Daejejeon 2024 | MBC241231",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
     }
   ],
   "clips": []
