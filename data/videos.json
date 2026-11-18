@@ -24948,6 +24948,54 @@
         "g2s42"
       ],
       "note": ""
+    },
+    {
+      "id": "e1637",
+      "groupId": "g2",
+      "date": "2024-12-14",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g2s10",
+        "g2s40",
+        "g2s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1638",
+      "groupId": "g2",
+      "date": "2024-12-19",
+      "show": "뮤직뱅크",
+      "label": "",
+      "setlist": [
+        "g2s10",
+        "g2s8",
+        "g2s40"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1639",
+      "groupId": "g2",
+      "date": "2024-12-25",
+      "show": "SBS 가요대전",
+      "label": "",
+      "setlist": [
+        "g2s9"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1640",
+      "groupId": "g2",
+      "date": "2024-12-31",
+      "show": "MBC 가요대제전",
+      "label": "",
+      "setlist": [
+        "g2s10"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -467785,6 +467833,674 @@
       "channel": "STAR💫",
       "pin": false,
       "gone": false
+    },
+    {
+      "id": "v23113",
+      "ytId": "SkUMeyk7kqY",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241214 NMIXX KYUJIN 엔믹스 규진 MUSIC BANK in JAPAN - \"별별별 (See that?)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-15"
+    },
+    {
+      "id": "v23114",
+      "ytId": "RG4BhbZR_Ls",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241214 NMIXX(엔믹스) 설윤 \"별별별(See that?)\" 직캠 SULLYOON FANCAM @ 뮤직뱅크 글로벌 페스티벌 [ 4K ]",
+      "channel": "𝙳𝚎𝚎𝚛𝚒𝚗",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23115",
+      "ytId": "U0bn3T7gi-U",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "241214 NMIXX(엔믹스) 설윤 'Run For Roses' 직캠 SULLYOON FANCAM @ 뮤직뱅크 글로벌 페스티벌 [ 4K ]",
+      "channel": "𝙳𝚎𝚎𝚛𝚒𝚗",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-22"
+    },
+    {
+      "id": "v23116",
+      "ytId": "Tr-Q5PS2NF0",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241214 뮤직뱅크 글로벌 페스티벌 엔믹스 지우 직캠 '별별별 (See that?)' (NMIXX JIWOO Fancam)",
+      "channel": "사랑의 하쮸핑",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23117",
+      "ytId": "GDAhETPbZLU",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241214 | NMIXX(엔믹스) 릴리 직캠 | '별별별(See that?)' | @뮤직뱅크 in JAPAN",
+      "channel": "liling",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-15"
+    },
+    {
+      "id": "v23118",
+      "ytId": "WpiR_h0MzxE",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "[FANCAM] 241214 별별별 (See that?) KBS MusicBank Global in JAPAN 엔믹스 해원 (HAEWON) 직캠",
+      "channel": "온리원☀️",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23119",
+      "ytId": "PsXFDUTwoDo",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241214 | NMIXX(엔믹스) 릴리 직캠 | 'Soñar (Breaker)' | @뮤직뱅크 in JAPAN",
+      "channel": "liling",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-17"
+    },
+    {
+      "id": "v23120",
+      "ytId": "9ld_KXU_XK8",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241214 | NMIXX(엔믹스) 릴리 직캠 | 'Run For Roses' | @뮤직뱅크 in JAPAN",
+      "channel": "liling",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-18"
+    },
+    {
+      "id": "v23121",
+      "ytId": "6D3TSEXKOZ0",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241214 MUSICBANK GLOBAL FESTIVAL NMIXX '별별별(See that?)' BAE Focus",
+      "channel": "솔랑솔랑",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23122",
+      "ytId": "QG6iOv87qlU",
+      "eventId": "e1637",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "241214 KBS｜엔믹스 릴리(NMIXX LILY)｜\"RUN FOR ROSES\" 직캠(FanCam)",
+      "channel": "Asuki_i",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-17"
+    },
+    {
+      "id": "v23123",
+      "ytId": "xsC_XyKhTWo",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 설윤 직캠 '별별별 (See that?)'(NMIXX SULLYOON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23124",
+      "ytId": "h5sKErO0hZ0",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 설윤 직캠 'Sonar' (NMIXX SULLYOON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23125",
+      "ytId": "toDTHTRn-aY",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 설윤 직캠 'Intro + Run For Roses' (NMIXX SULLYOON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23126",
+      "ytId": "ayfB1e7FG-A",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 지우 직캠 'Intro + Run For Roses' (NMIXX JIWOO Fancam)@뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23127",
+      "ytId": "mMYS-LTGMos",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 배이 직캠 'Sonar' (NMIXX BAE Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23128",
+      "ytId": "qH0o16I77s8",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 해원 직캠 'Sonar' (NMIXX HAEWON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23129",
+      "ytId": "-GFZY8DRMjk",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 릴리 직캠 '별별별 (See that?)'(NMIXX LILY Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23130",
+      "ytId": "Rp3w-3hgyyg",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 릴리 직캠 'Sonar' (NMIXX LILY Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23131",
+      "ytId": "RA5b8OSG4Lw",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 규진 직캠 'Sonar' (NMIXX KYUJIN Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23132",
+      "ytId": "-4wX9UuGc_0",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 지우 직캠 'Sonar' (NMIXX JIWOO Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23133",
+      "ytId": "Z5drUzpo0oM",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 배이 직캠 'Intro + Run For Roses' (NMIXX BAE Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23134",
+      "ytId": "2V3xJOWgceo",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 릴리 직캠 'Intro + Run For Roses' (NMIXX LILY Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23135",
+      "ytId": "CWjUsiEGGA8",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 규진 직캠 'Intro + Run For Roses' (NMIXX KYUJIN Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23136",
+      "ytId": "qjJUwZ2we9s",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 규진 직캠 '별별별 (See that?)'(NMIXX KYUJIN Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23137",
+      "ytId": "5z9xj9lcD3c",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 해원 직캠 '별별별 (See that?)'(NMIXX HAEWON Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23138",
+      "ytId": "kBqyMYTCcvk",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 지우 직캠 '별별별 (See that?)'(NMIXX JIWOO Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23139",
+      "ytId": "zQS2OU_emG4",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [
+        "얼빡"
+      ],
+      "title": "[K-Fancam] 엔믹스 해원 'Intro + Run For Roses' (NMIXX HAEWON Facecam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23140",
+      "ytId": "pTnne5ZL8X4",
+      "eventId": "e1638",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[K-Fancam] 엔믹스 배이 직캠 '별별별 (See that?)'(NMIXX BAE Fancam) @뮤직뱅크 글로벌 페스티벌 241219",
+      "channel": "KBS Kpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-19"
+    },
+    {
+      "id": "v23141",
+      "ytId": "OGAsE3As6IM",
+      "eventId": "e1639",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "[4K] 241225 | NMIXX(엔믹스) 릴리 직캠 | 'DASH' | @SBS 가요대전",
+      "channel": "liling",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2024-12-27"
+    },
+    {
+      "id": "v23142",
+      "ytId": "PbmjXtx26h0",
+      "eventId": "e1640",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 엔믹스 – 별별별 (See that?) (NMIXX Fullcam) | Gayo Daejejeon 2024 | MBC241231",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
     }
   ],
   "clips": []
