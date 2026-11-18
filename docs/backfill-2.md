@@ -151,3 +151,4 @@ node scripts/archive.mjs validate
 | g2 | 2024-10 | 64 (NMIXX CHANGE UP : MIXX LAB 팬콘 10-04·05·06, 뮤직뱅크 in 마드리드 10-12, K-WONDER CONCERT IN TAOYUAN 10-19) | 보류: open-questions §8 |
 | g2 | 2024-11 | 14 (인천 스카이 페스티벌 11-09) | 보류: open-questions §8 |
 | g2 | 2024-12 | 30 (뮤직뱅크 글로벌 페스티벌 12-14 10·12-19 18, SBS 가요대전 1, MBC 가요대제전 1) | 보류: open-questions §8 |
+| g2 | 2025-01 | 8 (MBC 가요대제전 2025-01-29 방송분 밴드 버전: 직캠 6·풀 2) | 보류: open-questions §8 |
