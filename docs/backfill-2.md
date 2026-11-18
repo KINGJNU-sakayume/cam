@@ -152,3 +152,4 @@ node scripts/archive.mjs validate
 | g2 | 2024-11 | 14 (인천 스카이 페스티벌 11-09) | 보류: open-questions §8 |
 | g2 | 2024-12 | 30 (뮤직뱅크 글로벌 페스티벌 12-14 10·12-19 18, SBS 가요대전 1, MBC 가요대제전 1) | 보류: open-questions §8 |
 | g2 | 2025-01 | 8 (MBC 가요대제전 2025-01-29 방송분 밴드 버전: 직캠 6·풀 2) | 보류: open-questions §8 |
+| g2 | 2025-02 | 6 (MIXX LAB 팬콘: 멕시코시티 02-19 4·산티아고 02-22 1·상파울루 02-28 1) | 보류: open-questions §8 |
