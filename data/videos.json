@@ -24850,6 +24850,53 @@
         "g5s14"
       ],
       "note": ""
+    },
+    {
+      "id": "e1631",
+      "groupId": "g2",
+      "date": "2025-01-29",
+      "show": "MBC 가요대제전",
+      "label": "",
+      "setlist": [
+        "g2s10"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1632",
+      "groupId": "g2",
+      "date": "2025-02-19",
+      "show": "NMIXX CHANGE UP : MIXX LAB",
+      "label": "",
+      "setlist": [
+        "g2s9",
+        "g2s10",
+        "g2s8",
+        "g2s40"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1633",
+      "groupId": "g2",
+      "date": "2025-02-22",
+      "show": "NMIXX CHANGE UP : MIXX LAB",
+      "label": "",
+      "setlist": [
+        "g2s8"
+      ],
+      "note": ""
+    },
+    {
+      "id": "e1634",
+      "groupId": "g2",
+      "date": "2025-02-28",
+      "show": "NMIXX CHANGE UP : MIXX LAB",
+      "label": "",
+      "setlist": [
+        "g2s40"
+      ],
+      "note": ""
     }
   ],
   "videos": [
@@ -465997,6 +466044,314 @@
       "gone": false,
       "uploaded": "2026-09-27",
       "thumbPos": "96% 35%"
+    },
+    {
+      "id": "v23035",
+      "ytId": "mVVJwImjoXg",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m2"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 엔믹스 릴리 – 별별별 (See that?) 직캠 (NMIXX LILY Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v23036",
+      "ytId": "tZoGF9Lijdw",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전 #최애직캠] 엔믹스 설윤 (NMIXX SULLYOON) – 별별별 (See that?) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v23037",
+      "ytId": "9lCbPqofVYY",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m1"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 엔믹스 해원 – 별별별 (See that?) 직캠 (NMIXX HAEWON Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v23038",
+      "ytId": "Vb4VcPXGNKk",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m5"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 엔믹스 지우 – 별별별 (See that?) 직캠 (NMIXX JIWOO Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v23039",
+      "ytId": "CDF4rP1FpG0",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 엔믹스 규진 – 별별별 (See that?) 직캠 (NMIXX KUJIN Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v23040",
+      "ytId": "HvJOLxIXfoM",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": "official",
+      "tags": [],
+      "title": "[가요대제전] 엔믹스 배이 – 별별별 (See that?) 직캠 (NMIXX BAE Fancam) | Gayo Daejejeon 2024 | MBC250129",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v23041",
+      "ytId": "3Iigi2BModQ",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": "official",
+      "tags": [],
+      "title": "[2024 MBC 가요대제전] 엔믹스 - 별별별 (Band Ver.) (NMIXX - See that? (Band Ver.)), MBC 250129 방송",
+      "channel": "MBCkpop",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-01-29"
+    },
+    {
+      "id": "v23042",
+      "ytId": "S7fzM5HNaCs",
+      "eventId": "e1631",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "full",
+      "memberIds": [],
+      "source": null,
+      "tags": [],
+      "title": "| 2024 MBC Music Festival | NMIXX - See that (Band Ver.) | aired on MBC 250129 #nmixx #mbcworld",
+      "channel": "MBC WORLD",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23043",
+      "ytId": "vOtgK5Sfn-w",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s9",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250219 NMIXX BAE \"DASH\" 4K Fancam 엔믹스 배이 | @ MIXX LAB MEXICO CITY D1",
+      "channel": "LIKEOO. NMIXX BAE.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-11"
+    },
+    {
+      "id": "v23044",
+      "ytId": "5NLFM6XH7Pk",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s10",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250219 NMIXX BAE \"See That? 별별별\" 4K Fancam 엔믹스 배이 | @ MIXX LAB MEXICO CITY D1",
+      "channel": "LIKEOO. NMIXX BAE.",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-17"
+    },
+    {
+      "id": "v23045",
+      "ytId": "Kw5uApOw4uE",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250219 NMIXX BAE \"Soñar (Breaker) (en español)\" 4K Fancam 엔믹스 배이 | @ MIXX LAB MEXICO CITY D1",
+      "channel": "LIKEOO. NMIXX BAE.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23046",
+      "ytId": "BdqrPhMVHTo",
+      "eventId": "e1632",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m4"
+      ],
+      "source": null,
+      "tags": [
+        "4K"
+      ],
+      "title": "250219 NMIXX BAE \"Run For Roses\" 4K Fancam 엔믹스 배이 | @ MIXX LAB MEXICO CITY D1",
+      "channel": "LIKEOO. NMIXX BAE.",
+      "pin": false,
+      "gone": false
+    },
+    {
+      "id": "v23047",
+      "ytId": "skPP5ehap6U",
+      "eventId": "e1633",
+      "songs": [
+        {
+          "songId": "g2s8",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m6"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250222 NMIXX KYUJIN 엔믹스 규진 FAN CONCERT - \"Soñar (Spanish Ver.)\" 직캠(FanCam)",
+      "channel": "STAR💫",
+      "pin": false,
+      "gone": false,
+      "uploaded": "2025-03-04"
+    },
+    {
+      "id": "v23048",
+      "ytId": "ICxyv4Xet_I",
+      "eventId": "e1634",
+      "songs": [
+        {
+          "songId": "g2s40",
+          "t": 0
+        }
+      ],
+      "type": "fancam",
+      "memberIds": [
+        "g2m3"
+      ],
+      "source": null,
+      "tags": [],
+      "title": "250228 NMIXX SULLYOON – Run For Roses (엔믹스 설윤 - 런 포 로지스) FANCAM CHANGE UP:MIXX LAB SÃO PAULO BRAZIL",
+      "channel": "BFG",
+      "pin": false,
+      "gone": false
     }
   ],
   "clips": []

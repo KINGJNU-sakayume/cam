@@ -143,3 +143,13 @@ node scripts/archive.mjs validate
 | g2 | 2024-02 | 42 (DASH 활동 음악방송, 02-24 미니 팬미팅) | 보류: open-questions §8 |
 | g2 | 2024-03 | 0 (활동 공백, 범위 안 영상 없음) | 보류: open-questions §8 |
 | g2 | 2024-04 | 1 (Golden Wave in Taiwan 04-13 배이 DASH) | 보류: open-questions §8 |
+| g2 | 2024-05 | 114 (서울페스타 05-01, 대학 축제 7곳, 천안 K-컬처 박람회 05-25) | 보류: open-questions §8 |
+| g2 | 2024-06 | 31 (K-WAVE 콘서트 06-02, 마카오 팬콘서트 06-22, 음악중심 in Japan 06-29·30) | 보류: open-questions §8 |
+| g2 | 2024-07 | 22 (런던 BST Hyde Park 07-14, TMEA 07-19, SBS 가요대전 SUMMER 07-21, 엠카 07-25, KCON LA 2024 07-27·28) | 보류: open-questions §8 |
+| g2 | 2024-08 | 41 (울산 서머페스티벌 음악중심 08-12, 인기가요 08-25, 여수 쇼챔피언 08-28, 뮤직뱅크 08-23, 별별별·Love Is Lonely 활동) | 보류: open-questions §8 |
+| g2 | 2024-09 | 25 (인기가요 09-01·08, 쇼챔피언 09-04·11, KBS 열린음악회 09-10, 음악중심 09-14, 서울드라마어워즈 09-25) | 보류: open-questions §8 |
+| g2 | 2024-10 | 64 (NMIXX CHANGE UP : MIXX LAB 팬콘 10-04·05·06, 뮤직뱅크 in 마드리드 10-12, K-WONDER CONCERT IN TAOYUAN 10-19) | 보류: open-questions §8 |
+| g2 | 2024-11 | 14 (인천 스카이 페스티벌 11-09) | 보류: open-questions §8 |
+| g2 | 2024-12 | 30 (뮤직뱅크 글로벌 페스티벌 12-14 10·12-19 18, SBS 가요대전 1, MBC 가요대제전 1) | 보류: open-questions §8 |
+| g2 | 2025-01 | 8 (MBC 가요대제전 2025-01-29 방송분 밴드 버전: 직캠 6·풀 2) | 보류: open-questions §8 |
+| g2 | 2025-02 | 6 (MIXX LAB 팬콘: 멕시코시티 02-19 4·산티아고 02-22 1·상파울루 02-28 1) | 보류: open-questions §8 |
