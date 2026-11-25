@@ -220,7 +220,7 @@ const SHOW_RULES = [
   [/SHOW WHAT I AM/i, withCity('IVE WORLD TOUR SHOW WHAT I AM')],
   [/ZERO FRONTIER|1st world tour/i, withCity('NMIXX WORLD TOUR ZERO FRONTIER')],
   [/NOW TOMORROW/i, withCity('NOW TOMORROW. ENCORE')],
-  [/TOMORROW ?GLOW/i, withCity('TOMORROW GLOW')],
+  [/TOMORROW ?GLOW(?:\.?\s+DAY\s*\d+\b)?/i, withCity('TOMORROW GLOW')],
   [/HEARTS ?2 ?HOUSE/i, withCity('HEARTS 2 HOUSE')],
   [/NOL ?FESTIVAL|놀 ?페스티벌|놀페/i, 'NOL FESTIVAL'],
   [/대구 ?세계마스터즈|WMAC/i, '대구 세계마스터즈 육상경기대회'],
@@ -409,8 +409,9 @@ export function parseTitle(title, group, { channel = '', uploaded = null } = {})
       if ([m.name, ...(m.aliases || [])].some((w) => w && has(text, w))) out.memberIds.push(m.id);
     }
     // 행사 이름 부분(SHOW WHAT I AM 투어의 "I AM" 등)은 빼고 곡을 찾는다
-    const songText = si && si.match ? text.replace(lc(si.match), ' ') : text;
-    const hits = songHits(songText, group);
+    const songText = si?.match ? text.replace(lc(si.match), ' ') : text;
+    const stageTitle = si?.name === '건국대 축제' ? songText.replace(/(일감연)\s+day\s*\d+\b/g, '$1') : songText;
+    const hits = songHits(stageTitle, group);
     out.songIds = [...new Set(hits.map((h) => h.id))];
     if (hits.length) out.songId = hits.reduce((a, b) => (b.len > a.len ? b : a)).id;
     if (!out.songId && out.songGuess) {

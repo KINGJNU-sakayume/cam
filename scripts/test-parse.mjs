@@ -27,7 +27,7 @@ const G = {
   songs: [
     { id: 's1', title: 'Blackhole' }, { id: 's2', title: 'I Am' }, { id: 's3', title: 'Force' },
     { id: 's4', title: 'Super ICY' }, { id: 's5', title: '8' }, { id: 's6', title: 'Heya', aliases: ['해야'] },
-    { id: 's7', title: 'Blue Valentine' }, { id: 's8', title: 'TOMORROW GLOW', kind: 'other' }, { id: 's9', title: 'Vitamin Me' },
+    { id: 's7', title: 'Blue Valentine' }, { id: 's8', title: 'TOMORROW GLOW', kind: 'other' }, { id: 's9', title: 'Vitamin Me' }, { id: 's10', title: 'Day 1' },
   ],
 };
 const songs = (t) => parseTitle(t, G).songIds;
@@ -63,6 +63,7 @@ eq('숫자 곡', songs("260904 장원영 솔로곡 '8 (Eight)' 직캠"), ['s5'])
 eq('짧은 한글 별칭은 낱말일 때만', songs('공연 전에 연습 해야지 브이로그'), []);
 eq('짧은 한글 별칭', songs('260322 아이브 해야 직캠'), ['s6']);
 eq('곡 아닌 항목은 찾지 않는다', songs('260904 프로미스나인 TOMORROW GLOW Vitamin Me 직캠'), ['s9']);
+eq('투어의 일차 표기를 빼고 실제 Day 1 곡은 찾는다', songs("261122 프로미스나인 'Day 1' 직캠 @ TOMORROW GLOW. DAY 2"), ['s10']);
 eq('대소문자', songs('fromis_9 "VITAMIN ME" 2nd Win'), ['s9']);
 
 eq('멤버 이름은 곡 후보가 아니다', songGuessOk('리즈', G), false);
